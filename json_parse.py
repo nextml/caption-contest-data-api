@@ -15,8 +15,12 @@ from pprint import pprint
 
 __author__ = {'Scott Sievert':'stsievert@wisc.edu'}
 
+# TODO: Make FILENAME/etc command line arguments using library argparse
+FILENAME = 'responses.json'
+APP = 'cardinal'
+PRINT = False
 
-def get_formatted_participant_data(response_dict):
+def format_triplet_response_json(response_dict):
     """
     Return formatted participant logs that are app specific.
 
@@ -56,6 +60,7 @@ def get_formatted_participant_data(response_dict):
             targets = {}
             # This index is not a backend index! It is just one of the target_indices
             target_winner = None
+            print(response)
             for index in response['target_indices']:
                 targets[index['label']] = index
                 # Check for the index winner in this response
@@ -73,11 +78,48 @@ def get_formatted_participant_data(response_dict):
 
     return participant_responses
 
+def format_carindal_response_json(response_dict):
+    """
+    Does the same thing as format_triplet_response_json but does it for the app
+    cardinals instead.
+    """
+    participant_responses = [",".join(['Partipipant ID', 'Response Time (s)',
+                                       'Network Delay (s)', 'Timestamp',
+                                       'Rating', 'Alg label', 'Target'])]
+
+    for participant_id, response_list in response_dict['participant_responses'].items():
+        exp_uid, participant_uid = participant_id.split('_')
+
+        for response in response_list:
+            keys = ['participant_uid', 'response_time', 'network_delay',
+                    'timestamp_query_generated', 'target_reward', 'alg_label']
+            if set(keys).issubset(response.keys()):
+                keys += ['target']
+                line = []
+                for key in keys:
+                    if key == 'target':
+                        line += [response['target_indices'][0]['target']\
+                                 ['primary_description']]
+                    elif key == 'participant_uid':
+                        line += [participant_uid]
+                    else:
+                        line += ['{}'.format(response[key])]
+                line = ",".join(line)
+
+                participant_responses += [line]
+
+    return participant_responses
+
+
 if __name__ == '__main__':
-    FILENAME = 'lewis/participant_data.json'
+    functions_to_format_data = {'triplets': format_triplet_response_json,
+                                'cardinal': format_carindal_response_json}
+
     with open(FILENAME) as data_file:
         data = json.load(data_file)
-        csv = get_formatted_participant_data(data)
+        csv = functions_to_format_data[APP](data)
+        if PRINT: print("\n".join(csv))
 
         f = open('participant-responses.csv', 'wt')
         print("\n".join(csv), file=f)
+        f.close()
