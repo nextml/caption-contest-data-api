@@ -30,8 +30,8 @@ was published in a video/blog post called [Cartoon Lounge: Show Me the Funny].
   [Lil_UCB algorithm]. It contains biased data.
 
 [Lil_UCB algorithm]:http://arxiv.org/abs/1312.7308
-[participant-responses_LilUCB.csv]:individiaul_algorithm_responses/participant-responses_LilUCB.csv
-[participant-responses_RandomSampling.csv]:individiaul_algorithm_responses/participant-responses_RandomSampling.csv
+[participant-responses_LilUCB.csv]:individual_algorithm_responses/participant-responses_LilUCB.csv
+[participant-responses_RandomSampling.csv]:individual_algorithm_responses/participant-responses_RandomSampling.csv
 [participant-responses.csv]:participant-responses.csv
 
 ## CSV headers
