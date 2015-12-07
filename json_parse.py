@@ -16,9 +16,10 @@ from pprint import pprint
 __author__ = {'Scott Sievert':'stsievert@wisc.edu'}
 
 # TODO: Make FILENAME/etc command line arguments using library argparse
-FILENAME = 'responses.json'
+FILENAME = 'participant-responses.json'
 APP = 'cardinal'
 PRINT = False
+algorithms = ['LilUCB', 'RandomSampling']
 
 def format_triplet_response_json(response_dict):
     """
@@ -123,3 +124,12 @@ if __name__ == '__main__':
         f = open('participant-responses.csv', 'wt')
         print("\n".join(csv), file=f)
         f.close()
+
+        import pandas as pd
+        df = pd.DataFrame([line.split(',', maxsplit=6) for line in csv[1:]],
+                columns=csv[0].split(','))
+
+        if algorithms:
+            for algorithm in algorithms:
+                filename = 'participant_responses_'+algorithm+'.csv'
+                df[df['Alg label'] == algorithm].to_csv(filename)
