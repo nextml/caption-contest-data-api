@@ -11,7 +11,7 @@ consists of individual responses to questions (like the ones shown below in
 [example queries](#example-queries)).
 
 ## Datasets
-* [New Yorker dataset](new_yorker): 103,306 responses, 4,851 responses. This
+* [New Yorker dataset](new_yorker): 103,306 responses, 4,851 participants. This
   dataset was collected through the [New Yorker Caption Contest] through
   a video/blog post titled [Cartoon Lounge: Show Me the Funny].
 
