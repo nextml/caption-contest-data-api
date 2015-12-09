@@ -26,8 +26,8 @@ We plan to put these online in the near future.
 More detail is given in each folder. Each folder's name corresponds to
 which caption contest it appeared in.
 
-[499]:499/
-[497]:497/
+[499]:new_yorker/499/
+[497]:new_yorker/497/
 [New Yorker Caption Contest]:http://contest.newyorker.com
 [Cartoon Lounge: Show Me the Funny]:http://www.newyorker.com/cartoons/bob-mankoff/cartoon-lounge-show-me-the-funny
 
