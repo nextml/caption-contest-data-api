@@ -7,12 +7,16 @@ can think of these samples as being "unbiased" -- they make no decisions
 about which queries to display.
 
 The data is in the form of individual responses to queries. The dataset
-consists of individual responses to questions (like the ones shown in [Example
-queries](#example-queries).
+consists of individual responses to questions (like the ones shown below in
+[example queries](#example-queries)).
 
 ## Datasets
-* [Lewis dataset](lewis): 26,181 responses, 523 participants
-* [New Yorker dataset](new_yorker): 103,306 responses, 4,851 responses
+* [New Yorker dataset](new_yorker): 103,306 responses, 4,851 responses. This
+  dataset was collected through the [New Yorker Caption Contest] through
+  a video/blog post titled [Cartoon Lounge: Show Me the Funny].
+
+[New Yorker Caption Contest]:http://contest.newyorker.com
+[Cartoon Lounge: Show Me the Funny]:http://www.newyorker.com/cartoons/bob-mankoff/cartoon-lounge-show-me-the-funny
 
 More detail is given in each folder.
 
