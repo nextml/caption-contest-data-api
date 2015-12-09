@@ -11,14 +11,25 @@ consists of individual responses to questions (like the ones shown below in
 [example queries](#example-queries)).
 
 ## Datasets
-* [New Yorker dataset](new_yorker): 103,306 responses, 4,851 participants. This
-  dataset was collected through the [New Yorker Caption Contest] through
-  a video/blog post titled [Cartoon Lounge: Show Me the Funny].
+* [New Yorker dataset](new_yorker). This dataset is part of the "cartoon
+  caption contest" where given a cartoon users are supposed to write a funny
+  caption. Our algorithms help determine the funniest algorithms (and we also
+  provide *unbiased* data; see each folder for detail).
+    * [497]: Roughly 23k responses.
+    * [499]: 103,306 responses, 4,851 participants. This
+      dataset was collected through the [New Yorker Caption Contest] through
+      a video/blog post titled [Cartoon Lounge: Show Me the Funny].
 
+We have also asked more datasets that contain anywhere from 15-25k responses.
+We plan to put these online in the near future.
+
+More detail is given in each folder. Each folder's name corresponds to
+which caption contest it appeared in.
+
+[499]:499/
+[497]:497/
 [New Yorker Caption Contest]:http://contest.newyorker.com
 [Cartoon Lounge: Show Me the Funny]:http://www.newyorker.com/cartoons/bob-mankoff/cartoon-lounge-show-me-the-funny
-
-More detail is given in each folder.
 
 ## Example queries
 An example query:
