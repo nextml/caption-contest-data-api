@@ -36,6 +36,8 @@ funniest caption when presented with two captions.
 * **Target:** The caption the user is asked to rate.
 
 ### Example query
+The cartoon shown is from cartoon contest #497.
+
 ![](query.png)
 
 All possible captions are in captions.txt. From these captions, the algorithms
