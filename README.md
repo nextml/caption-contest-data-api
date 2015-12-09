@@ -23,7 +23,7 @@ More detail is given in each folder.
 ## Example queries
 An example query:
 
-![](new_yorker/query.png)
+![](new_yorker/497/query.png)
 
 The user is given a URL and after visiting the URL, the user is presented with
 a series of queries similar to the one above. There may be variations on the
