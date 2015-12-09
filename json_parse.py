@@ -16,8 +16,8 @@ from pprint import pprint
 __author__ = {'Scott Sievert':'stsievert@wisc.edu'}
 
 # TODO: Make FILENAME/etc command line arguments using library argparse
-FILENAME = 'participant-responses.json'
-APP = 'cardinal'
+FILENAME = 'responses.json'
+APP = 'dueling'
 PRINT = False
 algorithms = ['LilUCB', 'RandomSampling']
 
@@ -25,7 +25,7 @@ def format_triplet_response_json(response_dict):
     """
     Return formatted participant logs that are app specific.
 
-    Taken from NEXT-psych NEXT/gui/app_manager/Triplets.py[1]. This script is on
+    Taken from NEXT-psych gui/base/app_manager/Triplets.py[1]. This script is on
     the GUI frontend for NEXT. It pings the backend to get the same JSON
     (commented out in this function).
 
@@ -111,22 +111,60 @@ def format_carindal_response_json(response_dict):
 
     return participant_responses
 
+def format_dueling_response(response_dict):
+    """
+    Return formatted participant logs that are app specific.
+
+    Taken from NEXT-psych,
+    gui/base/app_manager/DuelingBanditsExploration/DuelingBanditsExploration.py
+    """
+    participant_responses = []
+    participant_responses.append(",".join(["Participant Id", "Timestamp","Left","Right","Answer","Alg Label"]))
+    for participant_id, response_list in response_dict['participant_responses'].items():
+        exp_uid, participant_id = participant_id.split('_')
+
+        for response in response_list:
+            line = [participant_id, response['timestamp_query_generated']]
+            targets = {}
+            target_winner = None
+            for index in response['target_indices']:
+                targets[index['label']] = index
+                # Check for the index winner in this response
+                # Shouldn't there be a target_winner? This is weird.
+                if 'index_winner' in response.keys() and response["index_winner"] == index['index']:
+                        target_winner = index
+
+            # Some questions may not get answered; this makes sure that
+            # we're looking at an answered question (GitHub issue #15)
+            # --Scott Sievert, 2015-10-28
+            if target_winner:
+                # Append the left and right targets
+                line.extend([targets['left']['target']['target_id'], targets['right']['target']['target_id']])
+                # Append the index winner
+                line.append(target_winner['target']['target_id'])
+                # Append the alg_label
+                line.append(response['alg_label'])
+                participant_responses.append(",".join(line))
+
+    return participant_responses
 
 if __name__ == '__main__':
     functions_to_format_data = {'triplets': format_triplet_response_json,
-                                'cardinal': format_carindal_response_json}
+                                'cardinal': format_carindal_response_json,
+                                'dueling': format_dueling_response}
 
     with open(FILENAME) as data_file:
         data = json.load(data_file)
         csv = functions_to_format_data[APP](data)
         if PRINT: print("\n".join(csv))
+        print(csv[0])
 
         f = open('participant-responses.csv', 'wt')
         print("\n".join(csv), file=f)
         f.close()
 
         import pandas as pd
-        df = pd.DataFrame([line.split(',', maxsplit=6) for line in csv[1:]],
+        df = pd.DataFrame([line.split(',', maxsplit=5) for line in csv[1:]],
                 columns=csv[0].split(','))
 
         if algorithms:
