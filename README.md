@@ -29,6 +29,7 @@ which caption contest it appeared in.
 
 [499]:new_yorker/499/
 [497]:new_yorker/497/
+[505]:new_yorker/505/
 [New Yorker Caption Contest]:http://contest.newyorker.com
 [Cartoon Lounge: Show Me the Funny]:http://www.newyorker.com/cartoons/bob-mankoff/cartoon-lounge-show-me-the-funny
 
