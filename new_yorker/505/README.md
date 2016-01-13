@@ -28,10 +28,10 @@ because they were on a mailing list of Robert Mankoff's.
   `participant_responses.csv` was generated from this data.
 
 [Lil_UCB]:http://arxiv.org/abs/1312.7308
-[participant-responses.csv]:participant_responses.csv
+[participant-responses.csv]:participant-responses.csv
 [participant-responses_LilUCB.csv]:individiaul_algorithm_responses/participant_responses_LilUCB.csv
 [particpant-responses_RoundRobin.csv]:individiaul_algorithm_responses/participant_responses_RoundRobin.csv
-[participant.json]:participant.json
+[participant.json]:participants.json
 
 ## CSV headers
 * **Partipipant ID:** The ID assigned to each participant. Note this is

@@ -19,6 +19,7 @@ consists of individual responses to questions (like the ones shown below in
     * [499]: 103,306 responses, 4,851 participants. This
       dataset was collected through the [New Yorker Caption Contest] through
       a video/blog post titled [Cartoon Lounge: Show Me the Funny].
+    * [505]: Roughly 123k responses from 377 participants.
 
 We have also asked more datasets that contain anywhere from 15-25k responses.
 We plan to put these online in the near future.
