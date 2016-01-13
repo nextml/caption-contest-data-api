@@ -8,9 +8,11 @@ among the experiments and more detail is included in the individual folder.
   Robert Mankoff's desk titled "[Cartoon Lounge: Show Me the Funny]". This
   experiment provided the caption "rate the below caption as unfunny, somewhat
   funny or funny." It has roughly **103k responses**.
-
-More detail and example queries are in the individual folders.
+* [505]: Another cartoon contest. We have roughly **123k responses** for **377
+  participants**. This experiment recruited participants through a New Yorker
+  mailing list.
 
 [499]:499/
 [497]:497/
+[505]:505/
 [Cartoon Lounge: Show Me the Funny]:http://www.newyorker.com/cartoons/bob-mankoff/cartoon-lounge-show-me-the-funny

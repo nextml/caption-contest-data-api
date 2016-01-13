@@ -7,19 +7,21 @@ Steps to run this script:
     2. Change FILENAME to the name of the downloaded file, move to the right folder
     3. `python json_parse.py`
     4. The output CSV is a file called `participant-responses.csv`
+
+This script works best under Python 3; there may be unicode characters presents.
 """
 
-
+from __future__ import print_function
 import json
 from pprint import pprint
 
 __author__ = {'Scott Sievert':'stsievert@wisc.edu'}
 
 # TODO: Make FILENAME/etc command line arguments using library argparse
-FILENAME = 'responses.json'
-APP = 'dueling'
+FILENAME = 'participants.json'
+APP = 'cardinal'
 PRINT = False
-algorithms = ['LilUCB', 'RandomSampling']
+algorithms = ['LilUCB', 'RoundRobin']
 
 def format_triplet_response_json(response_dict):
     """
@@ -148,6 +150,17 @@ def format_dueling_response(response_dict):
 
     return participant_responses
 
+def plot_time_histogram(df):
+    import numpy as np
+    import matplotlib.pyplot as plt
+
+    times = np.array(df['Response Time (s)'], dtype=float)
+    times = np.sort(times)
+
+    plt.figure()
+    plt.hist(times[:-1500], bins=50)
+    plt.show()
+
 if __name__ == '__main__':
     functions_to_format_data = {'triplets': format_triplet_response_json,
                                 'cardinal': format_carindal_response_json,
@@ -163,11 +176,13 @@ if __name__ == '__main__':
         print("\n".join(csv), file=f)
         f.close()
 
-        import pandas as pd
-        df = pd.DataFrame([line.split(',', maxsplit=5) for line in csv[1:]],
-                columns=csv[0].split(','))
 
-        if algorithms:
-            for algorithm in algorithms:
-                filename = 'participant_responses_'+algorithm+'.csv'
-                df[df['Alg label'] == algorithm].to_csv(filename)
+    import pandas as pd
+    df = pd.DataFrame([line.split(',', maxsplit=6) for line in csv[1:]],
+            columns=csv[0].split(','))
+
+    # for sepearating individual algorithms
+    if algorithms:
+        for algorithm in algorithms:
+            filename = 'participant_responses_'+algorithm+'.csv'
+            df[df['Alg label'] == algorithm].to_csv(filename)
