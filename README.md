@@ -20,6 +20,7 @@ consists of individual responses to questions (like the ones shown below in
       dataset was collected through the [New Yorker Caption Contest] through
       a video/blog post titled [Cartoon Lounge: Show Me the Funny].
     * [505]: Roughly 123k responses from 377 participants.
+    * [507]: Roughly 100k responses from 420 participants.
 
 We have also asked more datasets that contain anywhere from 15-25k responses.
 We plan to put these online in the near future.
@@ -30,6 +31,7 @@ which caption contest it appeared in.
 [499]:new_yorker/499/
 [497]:new_yorker/497/
 [505]:new_yorker/505/
+[507]:new_yorker/507/
 [New Yorker Caption Contest]:http://contest.newyorker.com
 [Cartoon Lounge: Show Me the Funny]:http://www.newyorker.com/cartoons/bob-mankoff/cartoon-lounge-show-me-the-funny
 
