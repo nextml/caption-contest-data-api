@@ -18,7 +18,7 @@ from pprint import pprint
 __author__ = {'Scott Sievert':'stsievert@wisc.edu'}
 
 # TODO: Make FILENAME/etc command line arguments using library argparse
-FILENAME = 'participants.json'
+FILENAME = '507-2.json'
 APP = 'cardinal'
 PRINT = False
 algorithms = ['LilUCB', 'RoundRobin']
@@ -168,13 +168,14 @@ if __name__ == '__main__':
 
     with open(FILENAME) as data_file:
         data = json.load(data_file)
-        csv = functions_to_format_data[APP](data)
-        if PRINT: print("\n".join(csv))
-        print(csv[0])
 
-        f = open('participant-responses.csv', 'wt')
-        print("\n".join(csv), file=f)
-        f.close()
+    csv = functions_to_format_data[APP](data)
+    if PRINT: print("\n".join(csv))
+    print(csv[0])
+
+    f = open('participant-responses.csv', 'wt')
+    print("\n".join(csv), file=f)
+    f.close()
 
 
     import pandas as pd
