@@ -13,6 +13,9 @@ among the experiments and more detail is included in the individual folder.
   mailing list.
 * [507]: Roughly **100k** responses for **420 participants**. This experiment
   recruited participants through a New Yorker mailing list.
+* [508]: Roughly **163k responses.**
+
+[508]:508/
 
 ## Response data
 ### CSV headers

@@ -17,11 +17,12 @@ from pprint import pprint
 
 __author__ = {'Scott Sievert':'stsievert@wisc.edu'}
 
-# TODO: Make FILENAME/etc command line arguments using library argparse
-FILENAME = '507-2.json'
-APP = 'cardinal'
+# TODO: Make FILENAME/etc command line arguments using library docopt
+FILENAME = 'participant-responses.json'
+APP = 'dueling' # APP in {'cardinal', 'dueling', 'triplets'}
 PRINT = False
-algorithms = ['LilUCB', 'RoundRobin']
+#algorithms = ['LilUCB', 'RoundRobin']
+algorithms = ['BR_Random']
 
 def format_triplet_response_json(response_dict):
     """

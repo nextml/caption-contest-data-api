@@ -11,22 +11,20 @@ consists of individual responses to questions (like the ones shown below in
 [example queries](#example-queries)).
 
 ## Datasets
-* [New Yorker dataset](new_yorker). This dataset is part of the "cartoon
-  caption contest" where given a cartoon users are supposed to write a funny
-  caption. Our algorithms help determine the funniest algorithms (and we also
-  provide *unbiased* data; see each folder for detail).
-    * [497]: Roughly 23k responses.
-    * [499]: 103,306 responses, 4,851 participants. This
-      dataset was collected through the [New Yorker Caption Contest] through
-      a video/blog post titled [Cartoon Lounge: Show Me the Funny].
-    * [505]: Roughly 123k responses from 377 participants.
-    * [507]: Roughly 100k responses from 420 participants.
+### [New Yorker dataset](new_yorker)
+This dataset is part of the "cartoon caption contest" where given a cartoon
+users are supposed to write a funny caption. Our algorithms help determine the
+funniest algorithms (and we also provide *unbiased* data; see each folder for
+detail).
 
-We have also asked more datasets that contain anywhere from 15-25k responses.
-We plan to put these online in the near future.
+More detail is provided in each folder, but as of 2016-2-7 we provide
+approximately **500k** answers that rate captions in some way. This could be
+questions like "Is the funnier caption on the left or right?" or "How funny is
+this comic -- 'unfunny', 'somewhat funny' or 'funny'?"
 
 More detail is given in each folder. Each folder's name corresponds to
-which caption contest it appeared in.
+which caption contest it appeared in. As of 2016-2-7, we have published 5
+different caption contest datasets.
 
 [499]:new_yorker/499/
 [497]:new_yorker/497/
@@ -43,10 +41,5 @@ An example query:
 The user is given a URL and after visiting the URL, the user is presented with
 a series of queries similar to the one above. There may be variations on the
 query, described in detail on each experiment.
-
-For example, in the Lewis queries we see queries similar to this:
-
-![](lewis/lewis_query.png)
-
 
 [NEXT]:http://nextml.org/
