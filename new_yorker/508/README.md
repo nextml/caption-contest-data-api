@@ -17,10 +17,6 @@ With these 50, we created a two part round 2 experiment. We asked the user to
 * Number of questions answered: 128,391
 * Start date: 2016-02-01
 
-*note:* We are currently experiencing a bug with the system responsible for
-these captions. While they are not available (as of 2016-2-9) we expect them to
-be available shortly.
-
 ### Round 2, cardinal
 Participants were shown the top 50 captions, each one time.
 
@@ -37,6 +33,12 @@ Participants could compare as many caption pairs as they would like.
 
 ## Example queries
 ### Dueling
+*This caption was only used in `round2-dueling` (a dueling bandits experiment)*
+
 ![](dueling.png)
+
 ### Cardinal
+*This caption was used for `round1` and `round2-cardinal` (they were both
+cardinal experiments)*
+
 ![](cardinal.png)
