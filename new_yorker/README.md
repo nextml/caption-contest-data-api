@@ -50,12 +50,22 @@ collected data to be biased. The randomly collected data is collected under the
 "RandomSampling" and "RoundRobin" algorithms while the adaptive schemes are
 with the "LilUCB" algorithm.
 
-## Queries
-An example query can be found in the folder, typically called `query.png`. This
-will show a query with a sample caption.
-
 ## Captions
-All possible captions to rate.
+All possible captions to rate. This file is typically called `cap509.txt` or
+similar. It contains one caption per line.
+
+## Queries
+In earlier experiments, sample queries are also shown (for all experiments
+before 509). Other experiments have specified that the experiment setup being
+run was either "Cardinal" or "Dueling". In these two experiments, example
+captions are below:
+
+| Experiment type         | Example query          |
+| :------:                | :-----:                |
+| ![](query_cardinal.png) | ![](query_dueling.png) |
+
+The comics are replaced by the file `509.png` (or similar) in the respective
+folder and/or in `README.md`.
 
 [499]:499/
 [497]:497/

@@ -18,11 +18,12 @@ from pprint import pprint
 __author__ = {'Scott Sievert':'stsievert@wisc.edu'}
 
 # TODO: Make FILENAME/etc command line arguments using library docopt
-FILENAME = 'responses.json'
-APP = 'cardinal' # APP in {'cardinal', 'dueling', 'triplets'}
+FILENAME = 'participants.json'
+APP = 'dueling' # APP in {'cardinal', 'dueling', 'triplets'}
 PRINT = False
-algorithms = ['LilUCB', 'RoundRobin']
-#algorithms = ['BR_Random']
+algorithms = ['LilUCB', 'RoundRobin'] # for cardinal
+ROUND2 = True
+#algorithms = ['BR_Random'] # for round2 dueling
 
 def format_triplet_response_json(response_dict):
     """
@@ -183,8 +184,10 @@ if __name__ == '__main__':
     df = pd.DataFrame([line.split(',', maxsplit=6) for line in csv[1:]],
             columns=csv[0].split(','))
 
-    # for sepearating individual algorithms
-    if algorithms:
-        for algorithm in algorithms:
-            filename = 'participant_responses_'+algorithm+'.csv'
-            df[df['Alg label'] == algorithm].to_csv(filename)
+    if not ROUND2:
+        # for sepearating individual algorithms
+        if algorithms:
+            for algorithm in algorithms:
+                filename = 'participant_responses_'+algorithm+'.csv'
+                key = 'Alg label'# if APP != 'dueling' else 'alg_label'
+                df[df[key] == algorithm].to_csv(filename)
