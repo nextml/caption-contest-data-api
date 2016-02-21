@@ -19,10 +19,11 @@ __author__ = {'Scott Sievert':'stsievert@wisc.edu'}
 
 # TODO: Make FILENAME/etc command line arguments using library docopt
 FILENAME = 'participants.json'
-APP = 'dueling' # APP in {'cardinal', 'dueling', 'triplets'}
+APP = 'cardinal' # APP in {'cardinal', 'dueling', 'triplets'}
+ROUND2 = False
+
 PRINT = False
 algorithms = ['LilUCB', 'RoundRobin'] # for cardinal
-ROUND2 = True
 #algorithms = ['BR_Random'] # for round2 dueling
 
 def format_triplet_response_json(response_dict):
