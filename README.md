@@ -4,7 +4,8 @@ the one below and we provide information the question/their answer/etc:
 
 <img src="example_queries/query_cardinal.png" width="60%" alt="Example caption" />
 
-We provide about **500k** responses to the query above. For each response, we record
+We provide about **500k** responses to queries similar to the one above (different 
+caption contests, different questions, etc). For each response, we record
 
 * information on the user (participant ID, response time, timestamp, network
   delay, etc)
