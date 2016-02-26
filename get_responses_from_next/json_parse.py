@@ -20,7 +20,6 @@ __author__ = {'Scott Sievert':'stsievert@wisc.edu'}
 # TODO: Make FILENAME/etc command line arguments using library docopt
 FILENAME = 'participants.json'
 APP = 'cardinal' # APP in {'cardinal', 'dueling', 'triplets'}
-ROUND2 = False
 
 PRINT = False
 algorithms = ['LilUCB', 'RoundRobin'] # for cardinal
@@ -185,10 +184,9 @@ if __name__ == '__main__':
     df = pd.DataFrame([line.split(',', maxsplit=6) for line in csv[1:]],
             columns=csv[0].split(','))
 
-    if not ROUND2:
-        # for sepearating individual algorithms
-        if algorithms:
-            for algorithm in algorithms:
-                filename = 'participant_responses_'+algorithm+'.csv'
-                key = 'Alg label'# if APP != 'dueling' else 'alg_label'
-                df[df[key] == algorithm].to_csv(filename)
+    # for sepearating individual algorithms
+    if algorithms:
+        for algorithm in algorithms:
+            filename = 'participant_responses_'+algorithm+'.csv'
+            key = 'Alg label'# if APP != 'dueling' else 'alg_label'
+            df[df[key] == algorithm].to_csv(filename)
