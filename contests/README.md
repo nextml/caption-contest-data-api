@@ -16,10 +16,12 @@ interface above)*
   mailing list.
 * [507]: Roughly **100k** responses for **420 participants**. This experiment
   recruited participants through a New Yorker mailing list.
-* [508]: Roughly **163k responses.**
-* [509]: Roughly **128k responses.**
-* [510]: Roughly **83k responses.**
+* [508]: Roughly **163k responses** from ⪅ 500 participants.
+* [509]: Roughly **128k responses** from ⪅ 500 participants.
+* [510]: Roughly **83k responses** from ⪅ 500 participants.
+* [511]: Roughly **57k responses** from 387 participants.
 
+[510]:511/
 [510]:510/
 [509]:509/
 [508]:508/

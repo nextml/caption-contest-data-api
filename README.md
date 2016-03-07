@@ -1,11 +1,15 @@
-This repository contains data gathered on the [NEXT] active machine learning
-system for the New Yorker caption contest. The user sees a similar question to
-the one below and we provide information the question/their answer/etc:
+This repository contains data gathered on the 
+[NEXT active machine learning system] 
+for the New Yorker caption contest. The user sees a similar question to
+the one below and we provide information to the below questions/the answer/etc:
 
-<img src="example_queries/query_cardinal.png" width="60%" alt="Example caption" />
+| "How funny is this caption?"            | "Which caption is funnier?"            |
+| :------:                                | :-----:                                |
+| ![](example_queries/query_cardinal.png) | ![](example_queries/query_dueling.png) |
+| Cardinal bandits                        | Dueling bandits                        |
 
-We provide about **500k** responses to queries similar to the one above (different 
-caption contests, different questions, etc). For each response, we record
+As of 2016-3-6, we provide about **800k** responses to 8 different caption
+contests. For each response, we record
 
 * information on the user (participant ID, response time, timestamp, network
   delay, etc)
@@ -24,14 +28,13 @@ These datasets are part of the "cartoon caption contest" where given a cartoon
 users are supposed to write a funny caption. Our algorithms help determine the
 funniest algorithms (and we also provide *unbiased* data).
 
-More detail is provided in each folder, but as of 2016-2-7 we provide
-approximately **500k** answers that rate captions in some way. This could be
-questions like "Is the funnier caption on the left or right?" or "How funny is
-this comic -- 'unfunny', 'somewhat funny' or 'funny'?"
+We ask users to rate caption funniness in some way (more detail is provided in
+each folder). This could be questions like "Is the funnier caption on the left
+or right?" or "How funny is this comic -- 'unfunny', 'somewhat funny' or
+'funny'?"
 
 More detail is given in each folder. Each folder's name corresponds to
-which caption contest it appeared in. As of 2016-2-7, we have published 5
-different caption contest datasets.
+which caption contest it appeared in.
 
 ## Data provided
 We provide response data for each user. We provide the details on what each
@@ -94,18 +97,13 @@ with the "LilUCB" algorithm.
 [Cartoon Lounge: Show Me the Funny]:http://www.newyorker.com/cartoons/bob-mankoff/cartoon-lounge-show-me-the-funny
 
 ## Example queries
-In earlier experiments, sample queries are also shown (for all experiments
-before 509). Other experiments have specified that the experiment setup being
+In earlier experiments, sample queries are also shown (minus 509). Other experiments have specified that the experiment setup being
 run was either "Cardinal" or "Dueling". In these two experiments, example
 captions are below:
-
-| Cardinal bandits         | Dueling bandits          |
-| :------:                | :-----:                |
-| "How funny is this caption?" | "Which caption is funnier?" |
-| ![](example_queries/query_cardinal.png) | ![](example_queries/query_dueling.png) |
 
 The user is given a URL and after visiting the URL, the user is presented with
 a series of queries similar to the one above. There may be variations on the
 query, described in detail on each experiment.
 
 [NEXT]:http://nextml.org/
+[NEXT active machine learning system]:http://nextml.org/
