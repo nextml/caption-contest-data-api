@@ -21,7 +21,7 @@ interface above)*
 * [510]: Roughly **83k responses** from ⪅ 500 participants.
 * [511]: Roughly **57k responses** from 387 participants.
 
-[510]:511/
+[511]:511/
 [510]:510/
 [509]:509/
 [508]:508/
