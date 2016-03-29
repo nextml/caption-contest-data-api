@@ -1,0 +1,13 @@
+Experiment info:
+
+Cardinal bandits (aka "how funny is this caption?")
+
+![](info.png)
+
+Histogram of when people responded.
+
+![](histogram.png)
+
+Example query:
+
+![](514_example_query.png)

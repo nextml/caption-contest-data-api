@@ -8,8 +8,8 @@ the one below and we provide information to the below questions/the answer/etc:
 | ![](example_queries/query_cardinal.png) | ![](example_queries/query_dueling.png) |
 | Cardinal bandits                        | Dueling bandits                        |
 
-As of 2016-3-6, we provide about **800k** responses to 8 different caption
-contests. For each response, we record
+As of 2016-3-27, we provide about **1.2 million** responses to 11 different
+caption contests. For each response, we record
 
 * information on the user (participant ID, response time, timestamp, network
   delay, etc)
@@ -42,8 +42,9 @@ query consists of as well as their answer/other information.
 
 We provide
 
-* simplified response data as a CSV
-* full response data as a JSON object
+* simplified response data as a CSV with header described below
+* full response data as a JSON object. This file is parsed by
+  `get_responses_from_next/json_parse.py`
 * all possible captions
 * the cartoon the captions were being written for
 

@@ -2,7 +2,7 @@ This folder contains data from the New Yorker caption contest. In this contest,
 participants are asked to rate different captions. The rating methods varied
 among the experiments and more detail is included in the individual folder.
 
-*(if any of the below links are below, navigate to the directory in the
+*(if any of the below links are broken, navigate to the directory in the
 interface above)*
 
 * [497]: This data presented participants with two captions and asked the user
@@ -14,13 +14,16 @@ interface above)*
 * [505]: Another cartoon contest. We have roughly **123k responses** for **377
   participants**. This experiment recruited participants through a New Yorker
   mailing list.
-* [507]: Roughly **100k** responses for **420 participants**. This experiment
-  recruited participants through a New Yorker mailing list.
-* [508]: Roughly **163k responses** from ⪅ 500 participants.
-* [509]: Roughly **128k responses** from ⪅ 500 participants.
-* [510]: Roughly **83k responses** from ⪅ 500 participants.
-* [511]: Roughly **57k responses** from 387 participants.
+* [507] through [513]: each experiment has roughly **100k** responses from less
+  than 500 participants. These participants were previous caption contest
+  winners. 507 through 513 have roughly 700k responses total. 508 and 509 have
+  both types of experiments (both cardinal and dueling bandits)
+* [514]: Roughly **200k** responses from **10k** participants. This experiment
+  was hosted on http://www.newyorker.com/cartoons/vote and participants were
+  recruited by the New Yorker more generally (through a mailing list)
 
+[514]:514/
+[513]:513/
 [511]:511/
 [510]:510/
 [509]:509/
