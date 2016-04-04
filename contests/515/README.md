@@ -10,6 +10,6 @@ Histogram of when people responded.
 
 Example query:
 
-![](514_example_query.png)
+![](515_example_query.png)
 
 This experiment required reloading the page after each answer.
