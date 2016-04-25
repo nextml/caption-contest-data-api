@@ -18,7 +18,7 @@ from pprint import pprint
 __author__ = {'Scott Sievert':'stsievert@wisc.edu'}
 
 # TODO: Make FILENAME/etc command line arguments using library docopt
-FILENAME = 'participants-517.json'
+FILENAME = 'responses-518.json'
 APP = 'cardinal' # APP in {'cardinal', 'dueling', 'triplets'}
 
 PRINT = False

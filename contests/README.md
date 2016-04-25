@@ -2,6 +2,11 @@ This folder contains data from the New Yorker caption contest. In this contest,
 participants are asked to rate different captions. The rating methods varied
 among the experiments and more detail is included in the individual folder.
 
+| Question                   | App              | Contests                               |
+| :--:                       | :--:             | :---:                                  |
+| How funny is this caption? | Cardinal bandits | 499, 505, 507, 508, 509, 510, 511, ... |
+| Which caption is funnier?  | Dueling bandits  | 497, 508, 509                          |
+
 *(if any of the below links are broken, navigate to the directory in the
 interface above)*
 
