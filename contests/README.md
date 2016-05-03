@@ -2,10 +2,23 @@ This folder contains data from the New Yorker caption contest. In this contest,
 participants are asked to rate different captions. The rating methods varied
 among the experiments and more detail is included in the individual folder.
 
-| Question                   | App              | Contests                               |
-| :--:                       | :--:             | :---:                                  |
-| How funny is this caption? | Cardinal bandits | 499, 505, 507, 508, 509, 510, 511, ... |
-| Which caption is funnier?  | Dueling bandits  | 497, 508, 509                          |
+| Question                   | App              | Contests      |
+| :--:                       | :--:             | :---:         |
+| How funny is this caption? | Cardinal bandits | >= 499        |
+| Which caption is funnier?  | Dueling bandits  | 497, 508, 509 |
+
+| Algorithm type | Contests                               |
+| :--:           | :--:                                   |
+| Adaptive       | All contests, under the label "lilUCB" |
+| Non-adaptive   | <= 519, under the label "random"       |
+
+**Adaptive algorithms** make decisions on which captions to ask based on
+previous ratings -- their goal is to determine the funniest caption as quickly
+as possible. Therefore, they tend to ask about funny captions.
+
+**Non-adaptive algorithms** make no decisions based on past data. We consider
+this data to be un-biased. It makes no decisions about previous answers about
+which question to ask. Every caption has an equal probability of being asked.
 
 *(if any of the below links are broken, navigate to the directory in the
 interface above)*

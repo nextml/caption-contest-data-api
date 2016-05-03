@@ -18,7 +18,7 @@ from pprint import pprint
 __author__ = {'Scott Sievert':'stsievert@wisc.edu'}
 
 # TODO: Make FILENAME/etc command line arguments using library docopt
-FILENAME = 'responses-518.json'
+FILENAME = 'responses.json'
 APP = 'cardinal' # APP in {'cardinal', 'dueling', 'triplets'}
 
 PRINT = False
@@ -173,7 +173,7 @@ if __name__ == '__main__':
 
     csv = functions_to_format_data[APP](data)
     if PRINT: print("\n".join(csv))
-    print(csv[0])
+    print(csv[0:3])
 
     f = open('participant-responses.csv', 'wt')
     print("\n".join(csv), file=f)
