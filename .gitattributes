@@ -1,0 +1,2 @@
+contests/adaptive-only-contests/520/respones.json filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
