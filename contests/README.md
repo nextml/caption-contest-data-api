@@ -7,10 +7,10 @@ among the experiments and more detail is included in the individual folder.
 | How funny is this caption? | Cardinal bandits | >= 499        |
 | Which caption is funnier?  | Dueling bandits  | 497, 508, 509 |
 
-| Algorithm type | Contests                               |
-| :--:           | :--:                                   |
-| Adaptive       | All contests, under the label "lilUCB" |
-| Non-adaptive   | <= 519, under the label "random"       |
+| Algorithm type | Contests                                         |
+| :--:           | :--:                                             |
+| Adaptive       | All contests, under the label "lilUCB"           |
+| Non-adaptive   | <= 519, under the label "random" or "roundrobin" |
 
 **Adaptive algorithms** make decisions on which captions to ask based on
 previous ratings -- their goal is to determine the funniest caption as quickly
