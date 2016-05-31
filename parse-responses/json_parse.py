@@ -22,7 +22,7 @@ FILENAME = 'responses.json'
 APP = 'cardinal' # APP in {'cardinal', 'dueling', 'triplets'}
 
 PRINT = False
-algorithms = ['LilUCB', 'RoundRobin'] # for cardinal
+algorithms = ['LilUCB']#, 'RoundRobin'] # for cardinal
 #algorithms = ['BR_Random'] # for round2 dueling
 
 def format_triplet_response_json(response_dict):

@@ -9,12 +9,10 @@ import os
 
 def print_summary_file_for_contest(captions_file, query_file, summary_file,
                                    algorithm='LilUCB'):
-    with open(captions_file, 'r') as f:
-        captions = [caption.strip('\n') for caption in f.readlines()]
-    # for caption in captions:
-
-    # captions = pd.DataFrame(index=captions, columns=[0, 1, 2])
-    captions = {caption: {'Unfunny':0, 'Somewhat funny':0, 'Funny':0} for caption in captions}
+    # with open(captions_file, 'r') as f:
+        # captions = [caption.strip('\n') for caption in f.readlines()]
+    # captions = {caption: {'Unfunny':0, 'Somewhat funny':0, 'Funny':0} for caption in captions}
+    captions = {}
 
     value_rating = {1: 'Unfunny',
                     2: 'Somewhat funny',
@@ -22,7 +20,7 @@ def print_summary_file_for_contest(captions_file, query_file, summary_file,
 
     with open(query_file, 'r') as f:
         for response in f.readlines():
-            response = response.strip('\n').split(',', maxsplit=6)
+            response = response.strip('\n').split(',', maxsplit=7)
             caption, rating, alg_label = response[-1], response[-3], response[-2]
             if algorithm.lower() in alg_label.lower() or \
                     alg_label.lower() in algorithm.lower():
@@ -40,36 +38,36 @@ def print_summary_file_for_contest(captions_file, query_file, summary_file,
             print(','.join(ratings) + ',' + caption, file=f)
 
 
-captions_file = 'contests/519/519_captions.txt'
-query_file = 'contests/519/participant-responses.csv'
-summary_file = '519_summary_lilUCB.csv'
-algorithm = 'RoundRobin'
+captions_file = '../adaptive-only-contests/523/523_captions_output.txt'
+query_file = '../adaptive-only-contests/523/participant-responses.csv'
+summary_file = '523_summary_lilUCB.csv'
+algorithm = 'LilUCB'
 
-# print_summary_file_for_contest(captions_file, query_file, summary_file)
+print_summary_file_for_contest(captions_file, query_file, summary_file)
 
-contests_dir = '../contests/'
-for exp in os.listdir(contests_dir):
-    if 'DS' in exp or '.md' in exp or 'adaptive' in exp:
-        continue
-    if int(exp) < 510:
-        continue
-    if 'participant-responses.csv' in os.listdir(contests_dir + exp):
-        exp_dir = contests_dir + exp + '/'
-        captions_file = exp_dir + exp + '_captions.txt'
-        query_file = exp_dir + 'participant-responses.csv'
-        summary_file = exp + '_summary_{}.csv'.format(algorithm)
+# contests_dir = '../contests/'
+# for exp in os.listdir(contests_dir):
+    # if 'DS' in exp or '.md' in exp or 'adaptive' in exp:
+        # continue
+    # if int(exp) < 510:
+        # continue
+    # if 'participant-responses.csv' in os.listdir(contests_dir + exp):
+        # exp_dir = contests_dir + exp + '/'
+        # captions_file = exp_dir + exp + '_captions.txt'
+        # query_file = exp_dir + 'participant-responses.csv'
+        # summary_file = exp + '_summary_{}.csv'.format(algorithm)
 
-        print_summary_file_for_contest(captions_file, query_file, summary_file,
-                                       algorithm=algorithm)
+        # print_summary_file_for_contest(captions_file, query_file, summary_file,
+                                       # algorithm=algorithm)
 
-for exp in os.listdir(contests_dir + 'adaptive-only-contests/'):
-    if 'DS' in exp or '.md' in exp:
-        continue
-    if 'participant-responses.csv' in os.listdir(contests_dir + 'adaptive-only-contests/' + exp):
-        exp_dir = contests_dir + 'adaptive-only-contests/' + exp + '/'
-        captions_file = exp_dir + exp + '_captions_output.txt'
-        query_file = exp_dir + 'participant-responses.csv'
-        summary_file = exp + '_summary_{}.csv'.format(algorithm)
+# for exp in os.listdir(contests_dir + 'adaptive-only-contests/'):
+    # if 'DS' in exp or '.md' in exp:
+        # continue
+    # if 'participant-responses.csv' in os.listdir(contests_dir + 'adaptive-only-contests/' + exp):
+        # exp_dir = contests_dir + 'adaptive-only-contests/' + exp + '/'
+        # captions_file = exp_dir + exp + '_captions_output.txt'
+        # query_file = exp_dir + 'participant-responses.csv'
+        # summary_file = exp + '_summary_{}.csv'.format(algorithm)
 
-        print_summary_file_for_contest(captions_file, query_file, summary_file,
-                                       algorithm=algorithm)
+        # print_summary_file_for_contest(captions_file, query_file, summary_file,
+                                       # algorithm=algorithm)
