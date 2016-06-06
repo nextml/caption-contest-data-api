@@ -20,7 +20,7 @@ def print_summary_file_for_contest(captions_file, query_file, summary_file,
 
     with open(query_file, 'r') as f:
         for response in f.readlines():
-            response = response.strip('\n').split(',', maxsplit=7)
+            response = response.strip('\n').split(',', maxsplit=6)
             caption, rating, alg_label = response[-1], response[-3], response[-2]
             if algorithm.lower() in alg_label.lower() or \
                     alg_label.lower() in algorithm.lower():
@@ -38,9 +38,9 @@ def print_summary_file_for_contest(captions_file, query_file, summary_file,
             print(','.join(ratings) + ',' + caption, file=f)
 
 
-captions_file = '../adaptive-only-contests/523/523_captions_output.txt'
-query_file = '../adaptive-only-contests/523/participant-responses.csv'
-summary_file = '523_summary_lilUCB.csv'
+captions_file = '../adaptive-only-contests/524/524_captions_output.txt'
+query_file = '../adaptive-only-contests/524/participant-responses.csv'
+summary_file = '524_summary_lilUCB.csv'
 algorithm = 'LilUCB'
 
 print_summary_file_for_contest(captions_file, query_file, summary_file)
