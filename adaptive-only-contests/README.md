@@ -5,9 +5,8 @@ captions.
 These contests don't have any comparison -- we don't know how much better the
 adaptive approach is.
 
-I am putting this data online to provide more data. Given a choice, I would use
-the data present in the other contests first.
+This data is not suitable for any scientific process that relies on independence
+of each trial -- participant 1 can influence what participant 1000 sees.
 
-It possible to create a "pseudo-random algorithm" from an adaptive only
-contests (by ignoring many samples and only going with minimum number of
-samples found on any caption).
+The adaptive algorithms are designed to select the funniest caption out of all
+the caption.
