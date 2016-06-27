@@ -20,9 +20,11 @@ def make_single_list(filename):
     for row, rating in enumerate(ratings):
         for col, entry in enumerate(rating):
             sheet.write(row, col, entry.strip('\\').strip(','))
-    doc.save(filename.strip('.csv') + '.xls')
+    filename = filename.strip('.csv') + '.xls'
+    print('Saving to {}'.format(filename))
+    doc.save(filename)
 
-make_single_list('522_summary_lilUCB.csv')
+make_single_list('525_summary_LilUCB.csv')
 
 
 def make_comphrensive_list():

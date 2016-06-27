@@ -65,7 +65,6 @@ def format_triplet_response_json(response_dict):
             targets = {}
             # This index is not a backend index! It is just one of the target_indices
             target_winner = None
-            print(response)
             for index in response['target_indices']:
                 targets[index['label']] = index
                 # Check for the index winner in this response
@@ -92,12 +91,17 @@ def format_carindal_response_json(response_dict):
                                        'Network Delay (s)', 'Timestamp',
                                        'Rating', 'Alg label', 'Target'])]
 
+    total_responses = 0
+    unanswered = 0
     for participant_id, response_list in response_dict['participant_responses'].items():
         exp_uid, participant_uid = participant_id.split('_')
+        total_responses += len(response_list)
 
         for response in response_list:
             keys = ['participant_uid', 'response_time', 'network_delay',
                     'timestamp_query_generated', 'target_reward', 'alg_label']
+            if 'target_reward' not in response.keys():
+                unanswered += 1
             if set(keys).issubset(response.keys()):
                 keys += ['target']
                 line = []
@@ -112,6 +116,9 @@ def format_carindal_response_json(response_dict):
                 line = ",".join(line)
 
                 participant_responses += [line]
+    print("total responses = {}".format(total_responses))
+    print("unanswered responses = {}".format(unanswered))
+    print("percent unanswered = {}".format(unanswered / total_responses))
 
     return participant_responses
 
@@ -173,7 +180,7 @@ if __name__ == '__main__':
 
     csv = functions_to_format_data[APP](data)
     if PRINT: print("\n".join(csv))
-    print(csv[0:3])
+    print("\n".join(csv[0:3]))
 
     f = open('participant-responses.csv', 'wt')
     print("\n".join(csv), file=f)
