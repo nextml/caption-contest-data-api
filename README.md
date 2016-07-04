@@ -8,18 +8,29 @@ the one below and we provide information to the below questions/the answer/etc:
 | ![](example_queries/query_cardinal.png) | ![](example_queries/query_dueling.png) |
 | Cardinal bandits                        | Dueling bandits                        |
 
-As of 2016-3-27, we provide about **1.2 million** responses to 11 different
-caption contests. For each response, we record
+
+
+After publishing 527 on 2016-07-05, we provide 
+
+* about **1.7 million** responses to 17 different
+caption contests in the directory `contests`. These have both adaptive
+algorithms and non-adaptive algorithms.
+* about **1.9 million** responses to 8 different contests in `adaptive-only
+  contests`. These only use one adaptive algorithm.
+
+For each response, we record
 
 * information on the user (participant ID, response time, timestamp, network
   delay, etc)
 * information on the question (caption(s) present, user answer, algorithm
   generating query)
 
-*The data for an individual experiment is in the [`contests/`] directory.* For
+*The data for an individual experiment is in the [`contests/`] or
+[`adaptive-only-contests`] directory.* For
 example, caption contest 505 lives in [`contests/505/`]. More description and
 detail is given in the individual folder.
 
+[`adaptive-only-contests`]:adaptive-only-contests/
 [`contests/`]:contests/
 [`contests/505/`]:contests/505
 
