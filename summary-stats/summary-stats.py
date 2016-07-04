@@ -21,7 +21,7 @@ def print_summary_file_for_contest(captions_file, query_file, summary_file,
     with open(query_file, 'r') as f:
         # f = open(query_file, 'r')
         for i, response in enumerate(f.readlines()):
-            response = response.strip('\n').split(',', maxsplit=6)
+            response = response.strip('\n').split(',', maxsplit=7)
             caption, rating, alg_label = response[-1], response[-3], response[-2]
             if algorithm.lower() in alg_label.lower() or \
                     alg_label.lower() in algorithm.lower():
@@ -31,13 +31,14 @@ def print_summary_file_for_contest(captions_file, query_file, summary_file,
                             'Funny':0}
                 captions[caption][value_rating[rating]] += 1
     # f.close()
-    print(len(captions.keys()))
+    print("{} total captions".format(len(captions.keys())))
     import pandas as pd
 
     #  global df
     #  df = pd.DataFrame(captions).T
-    #  df = df.sort()
-    #  print(df)
+    #  df.sort_values(by='Funny', ascending=False, inplace=True)
+    #  df.to_csv('527_df.csv', columns=df.columns)
+    #  print(df[0:4])
 
     with open(summary_file, 'w') as f:
         print('Unfunny,Somewhat funny,Funny,Caption', file=f)
@@ -51,9 +52,12 @@ def print_summary_file_for_contest(captions_file, query_file, summary_file,
     print("{} answers".format(total_ratings))
 
 
-captions_file = '../adaptive-only-contests/526/526_captions_output.txt'
-query_file = '../adaptive-only-contests/526/participant-responses.csv'
-summary_file = '526_summary_LilUCB.csv'
+contest = '527'
+captions_file = ('../adaptive-only-contests/'
+                 '{0}/{0}_captions_output.txt'.format(contest))
+query_file = ('../adaptive-only-contests/'
+              '{}/participant_responses_LilUCB.csv'.format(contest))
+summary_file = '{}_summary_LilUCB.csv'.format(contest)
 algorithm = 'LilUCB'
 
 print_summary_file_for_contest(captions_file, query_file, summary_file)

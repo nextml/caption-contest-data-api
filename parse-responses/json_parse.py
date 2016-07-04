@@ -94,7 +94,10 @@ def format_carindal_response_json(response_dict):
     total_responses = 0
     unanswered = 0
     for participant_id, response_list in response_dict['participant_responses'].items():
-        exp_uid, participant_uid = participant_id.split('_')
+        splits = participant_id.split('_')
+        exp_uid, participant_uid = splits[:2]
+        if len(splits) == 3:
+            ip = splits[2]
         total_responses += len(response_list)
 
         for response in response_list:
