@@ -3,10 +3,10 @@ This repository contains data gathered on the
 for the New Yorker caption contest. The user sees a similar question to
 the one below and we provide information to the below questions/the answer/etc:
 
-| "How funny is this caption?"            | "Which caption is funnier?"            |
-| :------:                                | :-----:                                |
-| ![](example_queries/query_cardinal.png) | ![](example_queries/query_dueling.png) |
-| Cardinal bandits                        | Dueling bandits                        |
+| New Yorker hosting                       | "How funny is this caption?"            | "Which caption is funnier?"            |
+| :-----:                                  | :------:                                | :-----:                                |
+| ![](example-queries/query_newyorker.png) | ![](example-queries/query_cardinal.png) | ![](example-queries/query_dueling.png) |
+| Cardinal bandits                         | Cardinal bandits                        | Dueling bandits                        |
 
 
 
