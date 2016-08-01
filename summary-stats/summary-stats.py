@@ -52,7 +52,7 @@ def print_summary_file_for_contest(captions_file, query_file, summary_file,
     print("{} answers".format(total_ratings))
 
 
-contest = '529'
+contest = '530'
 captions_file = ('../adaptive-only-contests/'
                  '{0}/{0}_captions_output.txt'.format(contest))
 query_file = ('../adaptive-only-contests/'
