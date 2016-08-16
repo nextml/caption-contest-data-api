@@ -51,8 +51,11 @@ def print_summary_file_for_contest(captions_file, query_file, summary_file,
             print("{},{},{},{}".format(*row, caption), file=f)
     print("{} answers".format(total_ratings))
 
+    with open(captions_file, 'w') as f:
+        f.write("\n".join(captions))
 
-contest = '530'
+
+contest = '531'
 captions_file = ('../adaptive-only-contests/'
                  '{0}/{0}_captions_output.txt'.format(contest))
 query_file = ('../adaptive-only-contests/'
