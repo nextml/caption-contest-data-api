@@ -25,14 +25,13 @@ For each response, we record
 * information on the question (caption(s) present, user answer, algorithm
   generating query)
 
-*The data for an individual experiment is in the [`contests/`] or
-[`adaptive-only-contests`] directory.* For
-example, caption contest 505 lives in [`contests/505/`]. More description and
-detail is given in the individual folder.
+*The data for an individual experiment is in the [`contests/`] directory.* For
+example, caption contest 505 lives in [`contests/random+adaptive/505/`]. More
+description and detail is given in the individual folder.
 
 [`adaptive-only-contests`]:adaptive-only-contests/
 [`contests/`]:contests/
-[`contests/505/`]:contests/505
+[`contests/random+adaptive/505/`]:contests/random+adaptive/505
 
 ## Dataset high-level description
 These datasets are part of the "cartoon caption contest" where given a cartoon
