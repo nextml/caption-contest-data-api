@@ -10,12 +10,12 @@ the one below and we provide information to the below questions/the answer/etc:
 
 
 
-After publishing 527 on 2016-07-05, we provide 
+After publishing 537 on 2016-09-25, we provide 
 
 * about **1.7 million** responses to 17 different
 caption contests in the directory `contests`. These have both adaptive
 algorithms and non-adaptive algorithms.
-* about **1.9 million** responses to 8 different contests in `adaptive-only
+* about **6.5 million** responses to 18 different contests in `adaptive-only
   contests`. These only use one adaptive algorithm.
 
 For each response, we record
