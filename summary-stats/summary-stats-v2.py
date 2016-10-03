@@ -20,14 +20,14 @@ def find_score_prec(s):
 
 
 if True:
-    contest = '537'
+    contest = '538'
     csv = pd.read_csv('./{}_summary.csv'.format(contest))
     del csv['email']
     #  csv.to_excel('./531_summary.xlsx')
     csv.to_csv('{}_summary_LilUCB.csv'.format(contest))
     captions = "\n".join(csv['caption'].values.astype('str'))
 
-    with open('{}_captions_output.csv'.format(contest), 'w') as f:
+    with open('{}_captions.csv'.format(contest), 'w') as f:
         print(captions, file=f)
 else:
     # Read in the summary file (downloaded from dashboard then copy pasted into
