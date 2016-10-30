@@ -14,6 +14,7 @@ This script works best under Python 3; there may be unicode characters presents.
 from __future__ import print_function
 import json
 from pprint import pprint
+import numpy as np
 
 __author__ = {'Scott Sievert':'stsievert@wisc.edu'}
 
@@ -96,6 +97,15 @@ def format_carindal_response_json(response_dict):
     for participant_id, response_list in response_dict['participant_responses'].items():
         splits = participant_id.split('_')
         exp_uid, participant_uid = splits[:2]
+        if len(participant_uid) == 0:
+            print("Woah! ID = {}".format(participant_uid))
+            print(len(response_list))
+            global t_
+            for r in response_list:
+                print(r.keys())
+            t_ = [r['response_time'] for r in response_list if 'response_time'
+                    in r.keys()]
+
         if len(splits) == 3:
             ip = splits[2]
         total_responses += len(response_list)
