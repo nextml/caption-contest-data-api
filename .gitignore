@@ -1,5 +1,5 @@
 .DS_Store
-*.json
 __pycache__/
 .ipynb_checkpoints
 _private/
+_json-responses/
