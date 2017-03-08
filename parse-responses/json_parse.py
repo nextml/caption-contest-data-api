@@ -11,144 +11,27 @@ Steps to run this script:
 This script works best under Python 3; there may be unicode characters presents.
 """
 
-from __future__ import print_function
+from __future__ import print_function, division
 import json
 from pprint import pprint
 import numpy as np
 
-__author__ = {'Scott Sievert':'stsievert@wisc.edu'}
+__author__ = {'Scott Sievert': 'stsievert@wisc.edu'}
 
 # TODO: Make FILENAME/etc command line arguments using library docopt
 FILENAME = 'responses.json'
-APP = 'cardinal' # APP in {'cardinal', 'dueling', 'triplets'}
+APP = 'cardinal'
 
 PRINT = False
 algorithms = ['LilUCB']#, 'RoundRobin'] # for cardinal
 #algorithms = ['BR_Random'] # for round2 dueling
 
-def format_triplet_response_json(response_dict):
-    """
-    Return formatted participant logs that are app specific.
-
-    Taken from NEXT-psych gui/base/app_manager/Triplets.py[1]. This script is on
-    the GUI frontend for NEXT. It pings the backend to get the same JSON
-    (commented out in this function).
-
-    :input response_dict: The raw response data as a JSON object.
-    :output: The output as a list of strings, with one string per response.
-
-    >>> x = get_formatted_participant_data(dict)
-    >>> x[0:2]
-    ['Participant ID,Timestamp,Center,Left,Right,Answer,Alg Label',
- u'oeJq63j...,Lewis_LAlanine.jpg,Lewis_C2H3Cl.png,Lewis_PO43-.png,Lewis_PO43-.png,Test']
-
-    [1]:https://github.com/kgjamieson/NEXT-psych/blob/master/gui/base/app_manager/PoolBasedTripletMDS/PoolBasedTripletMDS.py#L71
-    """
-    # Use frontend base local url
-    #url = url+"/api/experiment/"+current_experiment.exp_uid+"/"+current_experiment.exp_key+"/participants"
-
-    ## Make a request to next_backend for the responses
-    #try:
-        #response = requests.get(url)
-        #response_dict = eval(response.text)
-    #except (requests.HTTPError, requests.ConnectionError) as e:
-        #print "excepted e", e
-        #raise
-    #print response_dict
-    # Parse them into a csv
-    # The rows are participant_id, timestamp, center, left, right, target winner, alg_label
+def format_dueling_responses(response_dict):
     participant_responses = []
-    participant_responses.append(",".join(["Participant ID", "Timestamp","Center", "Left", "Right", "Answer", "Alg Label"]))
     for participant_id, response_list in response_dict['participant_responses'].items():
-        exp_uid, participant_id = participant_id.split('_')
         for response in response_list:
-            line = [participant_id, response['timestamp_query_generated']]
-            targets = {}
-            # This index is not a backend index! It is just one of the target_indices
-            target_winner = None
-            for index in response['target_indices']:
-                targets[index['label']] = index
-                # Check for the index winner in this response
-                # Shouldn't we check for target_winner?
-                if 'index_winner' in list(response.keys()) and response["index_winner"] == index['index']:
-                        target_winner = index
-            if target_winner:
-                # Append the center, left, right targets
-                line.extend([targets['center']['target']['target_id'], targets['left']['target']['target_id'], targets['right']['target']['target_id']])
-                # Append the target winner
-                line.append(target_winner['target']['target_id'])
-                # Append the alg_label
-                line.append(response['alg_label'])
-                participant_responses.append(",".join(line))
-
-    return participant_responses
-
-def format_carindal_response_json(response_dict):
-    """
-    Does the same thing as format_triplet_response_json but does it for the app
-    cardinals instead.
-    """
-    participant_responses = [",".join(['Partipipant ID', 'Response Time (s)',
-                                       'Network Delay (s)', 'Timestamp',
-                                       'Rating', 'Alg label', 'Target'])]
-
-    total_responses = 0
-    unanswered = 0
-    for participant_id, response_list in response_dict['participant_responses'].items():
-        splits = participant_id.split('_')
-        exp_uid, participant_uid = splits[:2]
-        if len(participant_uid) == 0:
-            print("Woah! ID = {}".format(participant_uid))
-            print(len(response_list))
-            global t_
-            for r in response_list:
-                print(r.keys())
-            t_ = [r['response_time'] for r in response_list if 'response_time'
-                    in r.keys()]
-
-        if len(splits) == 3:
-            ip = splits[2]
-        total_responses += len(response_list)
-
-        for response in response_list:
-            keys = ['participant_uid', 'response_time', 'network_delay',
-                    'timestamp_query_generated', 'target_reward', 'alg_label']
-            if 'target_reward' not in response.keys():
-                unanswered += 1
-            if set(keys).issubset(response.keys()):
-                keys += ['target']
-                line = []
-                for key in keys:
-                    if key == 'target':
-                        line += [response['target_indices'][0]['target']\
-                                 ['primary_description']]
-                    elif key == 'participant_uid':
-                        line += [participant_uid]
-                    else:
-                        line += ['{}'.format(response[key])]
-                line = ",".join(line)
-
-                participant_responses += [line]
-    print("total responses = {}".format(total_responses))
-    print("unanswered responses = {}".format(unanswered))
-    print("percent unanswered = {}".format(unanswered / total_responses))
-
-    return participant_responses
-
-def format_dueling_response(response_dict):
-    """
-    Return formatted participant logs that are app specific.
-
-    Taken from NEXT-psych,
-    gui/base/app_manager/DuelingBanditsExploration/DuelingBanditsExploration.py
-    """
-    participant_responses = []
-    participant_responses.append(",".join(["Participant Id", "Timestamp","Left","Right","Answer","Alg Label"]))
-    for participant_id, response_list in response_dict['participant_responses'].items():
-        exp_uid, participant_id = participant_id.split('_')
-
-        for response in response_list:
-            line = [participant_id, response['timestamp_query_generated']]
+            line = {'participant_id': participant_id,
+                    'timestamp_query_generated': response['timestamp_query_generated']}
             targets = {}
             target_winner = None
             for index in response['target_indices']:
@@ -163,25 +46,69 @@ def format_dueling_response(response_dict):
             # --Scott Sievert, 2015-10-28
             if target_winner:
                 # Append the left and right targets
-                line.extend([targets['left']['target']['target_id'], targets['right']['target']['target_id']])
-                # Append the index winner
-                line.append(target_winner['target']['target_id'])
+                line['left_target_id'] = targets['left']['target']['target_id']
+                line['right_target_id'] = targets['right']['target']['target_id']
+                line['winner_target_id'] = target_winner['target']['target_id']
+
+                line['left_target'] = targets['left']['target']['primary_description']
+                line['right_target'] = targets['right']['target']['primary_description']
+                line['winner_target'] = target_winner['target']['primary_description']
+
+                keys = ['participant_uid', 'response_time', 'network_delay',
+                        'timestamp_query_generated', 'alg_label']
+                for key in keys:
+                    line[key] = response[key]
+
                 # Append the alg_label
-                line.append(response['alg_label'])
-                participant_responses.append(",".join(line))
+                participant_responses += [line]
 
     return participant_responses
 
-def plot_time_histogram(df):
-    import numpy as np
-    import matplotlib.pyplot as plt
+def format_carindal_responses(response_dict):
+    participant_responses = []
 
-    times = np.array(df['Response Time (s)'], dtype=float)
-    times = np.sort(times)
+    total_responses = 0
+    unanswered = 0
+    for participant_id, response_list in response_dict['participant_responses'].items():
+        splits = participant_id.split('_')
+        exp_uid, participant_uid = splits[:2]
+        if len(participant_uid) == 0:
+            print("Woah! ID = {}".format(participant_uid))
+        participant_uid = "_".join(splits[:2])
 
-    plt.figure()
-    plt.hist(times[:-1500], bins=50)
-    plt.show()
+        if len(splits) == 3:
+            ip = splits[2]
+
+        total_responses += len(response_list)
+
+        global response
+        for response in response_list:
+            keys = ['participant_uid', 'response_time', 'network_delay',
+                    'timestamp_query_generated', 'target_reward', 'alg_label']
+            if 'target_reward' not in response.keys():
+                unanswered += 1
+            line = {}
+            if set(keys).issubset(response.keys()):
+                line['target_id'] = response['target_id'] if 'target_id' in response.keys() else response['target_indices'][0]['index']
+                keys += ['target']
+                for key in keys:
+                    if key == 'target':
+                        line[key] = response['target_indices'][0]['target']\
+                                         ['primary_description']
+                    elif key == 'participant_uid':
+                        line[key] = participant_uid
+                    else:
+                        line[key] = response[key]
+
+                participant_responses += [line]
+
+    print("total responses = {}".format(total_responses))
+    # print("unanswered responses = {}".format(unanswered))
+    print("percent unanswered = {}".format(unanswered / total_responses))
+    if unanswered / total_responses - 0.9 > 0:
+        print('**** WARNING!')
+
+    return participant_responses
 
 if __name__ == '__main__':
     functions_to_format_data = {'triplets': format_triplet_response_json,
@@ -191,22 +118,5 @@ if __name__ == '__main__':
     with open(FILENAME) as data_file:
         data = json.load(data_file)
 
-    csv = functions_to_format_data[APP](data)
-    if PRINT: print("\n".join(csv))
-    print("\n".join(csv[0:3]))
-
-    f = open('participant-responses.csv', 'wt')
-    print("\n".join(csv), file=f)
-    f.close()
-
-
-    import pandas as pd
-    df = pd.DataFrame([line.split(',', maxsplit=6) for line in csv[1:]],
-            columns=csv[0].split(','))
-
-    # for sepearating individual algorithms
-    if algorithms:
-        for algorithm in algorithms:
-            filename = 'participant_responses_'+algorithm+'.csv'
-            key = 'Alg label'# if APP != 'dueling' else 'alg_label'
-            df[df[key] == algorithm].to_csv(filename)
+    df = functions_to_format_data[APP](data)
+    df.to_csv('responses.csv')
