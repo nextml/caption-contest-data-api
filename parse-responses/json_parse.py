@@ -1,30 +1,9 @@
-"""
-Given a bunch of experiment data run on the Triplet experiment, this script takes that as input (well, after modifying data_file) and outputs a file called "participant-responses.csv".
-
-Steps to run this script:
-
-    1. Download the participant data (from some link somewhere).
-    2. Change FILENAME to the name of the downloaded file, move to the right folder
-    3. `python json_parse.py`
-    4. The output CSV is a file called `participant-responses.csv`
-
-This script works best under Python 3; there may be unicode characters presents.
-"""
-
 from __future__ import print_function, division
 import json
 from pprint import pprint
 import numpy as np
+import pandas as pd
 
-__author__ = {'Scott Sievert': 'stsievert@wisc.edu'}
-
-# TODO: Make FILENAME/etc command line arguments using library docopt
-FILENAME = 'responses.json'
-APP = 'cardinal'
-
-PRINT = False
-algorithms = ['LilUCB']#, 'RoundRobin'] # for cardinal
-#algorithms = ['BR_Random'] # for round2 dueling
 
 def format_dueling_responses(response_dict):
     participant_responses = []
@@ -111,12 +90,14 @@ def format_carindal_responses(response_dict):
     return participant_responses
 
 if __name__ == '__main__':
-    functions_to_format_data = {'triplets': format_triplet_response_json,
-                                'cardinal': format_carindal_response_json,
-                                'dueling': format_dueling_response}
+    functions_to_format_data = {'cardinal': format_carindal_responses,
+                                'dueling': format_dueling_responses}
+    filename = 'responses.json'
+    app = 'cardinal'
 
-    with open(FILENAME) as data_file:
+    with open(filename) as data_file:
         data = json.load(data_file)
 
-    df = functions_to_format_data[APP](data)
+    responses = functions_to_format_data[app](data)
+    df = pd.DataFrame(responses)
     df.to_csv('responses.csv')
