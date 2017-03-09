@@ -12,7 +12,11 @@
   and how many votes did it receive for unfunny, somewhat funny and funny?
 
 ## Unzipping the data
-After downloading this repo (either via zip or with `git clone`),
+We do provide a `example-analyses/utils.py` script which provides
+`read_response` and `read_summary`. `read_response` can take in a ZIP filename
+and unzip the result for you.
+
+Otherwise, after downloading this repo (either via zip or with `git clone`),
 
 1. `cd caption-contest-data/contests`
 2. `python zip_tools.py unzip`. This assumes that the directory
