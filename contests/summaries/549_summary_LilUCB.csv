@@ -9,7 +9,7 @@
 7,8,Your contract includes an escape clause.,1.7142857142857142,0.04798178389595275,266.0,130.0,82.0,54.0
 8,9,"Yes, actually you DO have to be crazy to work here.",1.7132075471698114,0.047553612966111485,265.0,128.0,85.0,52.0
 9,10,Impressive resume. And you seem committed.,1.7121212121212122,0.04832146396864197,264.0,130.0,80.0,54.0
-10,11,We expect all our employees to be committed.,1.6972111553784859,0.05127661843907079,251.0,132.0,63.0,56.0
+10,11,We expect all our employees to be committed.,1.697211155378486,0.05127661843907079,251.0,132.0,63.0,56.0
 11,12,I have some good news: We're letting you go.,1.6820083682008369,0.050979753522462826,239.0,124.0,67.0,48.0
 12,13,Production is low of course but employee theft is down to zero.,1.679324894514768,0.05137539943126955,237.0,124.0,65.0,48.0
 13,14,I've still got my eye on that padded corner office.,1.6779661016949152,0.047952190949106535,236.0,114.0,84.0,38.0
@@ -18,7 +18,7 @@
 16,17,Tell me about a difficult situation you've been in and what you did to get out of it.,1.6738197424892705,0.0496417348918585,233.0,117.0,75.0,41.0
 17,18,"So, no words per minute then?",1.6709956709956708,0.05003211296927183,231.0,117.0,73.0,41.0
 18,19,That's five minutes without social media. Let's try for five more.,1.6666666666666667,0.053595268366739036,228.0,125.0,54.0,49.0
-19,20,Well this is embarrassing. We wore the same outfit today.,1.6666666666666667,0.051761360859104634,228.0,120.0,64.0,44.0
+19,20,Well this is embarrassing. We wore the same outfit today.,1.6666666666666667,0.05176136085910464,228.0,120.0,64.0,44.0
 20,21,The best part is that they never ask us to get coffee.,1.6666666666666667,0.049471014766293724,228.0,114.0,76.0,38.0
 21,22,You're probably wondering how I called this meeting.,1.6651982378854626,0.05271378242523162,227.0,122.0,59.0,46.0
 22,23,I'd have to be crazy to hire you. You can start on Monday,1.6600985221674878,0.05577133964891042,203.0,110.0,52.0,41.0
@@ -37,7 +37,7 @@
 35,36,On Casual Fridays we loosen our straps.,1.625,0.0532546268072729,200.0,108.0,59.0,33.0
 36,37,There's limited mobility in this company.,1.625,0.05278071636592764,200.0,107.0,61.0,32.0
 37,38,I appreciate your restraint.,1.625,0.05084091851033845,200.0,103.0,69.0,28.0
-38,39,Are you as committed as I am?,1.6212121212121209,0.053246860440017384,198.0,107.0,59.0,32.0
+38,39,Are you as committed as I am?,1.6212121212121209,0.05324686044001738,198.0,107.0,59.0,32.0
 39,40,"No, we don't do much outreach.",1.6192893401015231,0.05250551872145251,197.0,105.0,62.0,30.0
 40,41,What's your exit strategy?,1.6192893401015231,0.05491644871691133,197.0,110.0,52.0,35.0
 41,42,How is your typing?,1.6192893401015231,0.05150955987796304,197.0,103.0,66.0,28.0
@@ -48,15 +48,15 @@
 46,47,"OK. After our Thorazine shots, you can be boss.",1.61340206185567,0.05469397471498847,194.0,108.0,53.0,33.0
 47,48,Welcome to the new EPA.,1.6073298429319371,0.057395894763798125,191.0,112.0,42.0,37.0
 48,49,So I see you're committed.,1.6052631578947367,0.054686961828098415,190.0,106.0,53.0,31.0
-49,50,"Casual Fridays I understood. Houdini Tuesdays, not so much.",1.6052631578947367,0.053137363656632415,190.0,103.0,59.0,28.0
-50,51,I can't believe we wore the same outfit to work again!,1.6031746031746033,0.052848100620775995,189.0,102.0,60.0,27.0
+49,50,"Casual Fridays I understood. Houdini Tuesdays, not so much.",1.6052631578947367,0.05313736365663242,190.0,103.0,59.0,28.0
+50,51,I can't believe we wore the same outfit to work again!,1.6031746031746033,0.052848100620776,189.0,102.0,60.0,27.0
 51,52,On which medication do you see yoursef in five years?,1.6010638297872342,0.05570220832149363,188.0,107.0,49.0,32.0
 52,53,How embarrassing. We've worn the same jacket.,1.6010638297872342,0.05570220832149363,188.0,107.0,49.0,32.0
 53,54,It's just until they find who's been stealing office supplies.,1.5989304812834224,0.0533291066881467,187.0,102.0,58.0,27.0
 54,55,Down the hall and to the left. Good luck.,1.5989304812834224,0.05595979495578751,187.0,107.0,48.0,32.0
 55,56,I never realized that this is how binding arbitration works,1.5978260869565215,0.05563920725337692,184.0,104.0,50.0,30.0
 56,57,"You may find the office dress code somewhat restraining, but I've embraced it.",1.5978260869565215,0.05563920725337692,184.0,104.0,50.0,30.0
-57,58,I thought they meant fiscal restraint too.,1.5956284153005464,0.053709035586018014,183.0,100.0,57.0,26.0
+57,58,I thought they meant fiscal restraint too.,1.5956284153005464,0.05370903558601802,183.0,100.0,57.0,26.0
 58,59,Turns out the asylum pretty much runs itself.,1.5956284153005464,0.05536071011747841,183.0,103.0,51.0,29.0
 59,60,Actually you do have to be crazy to work here.,1.5956284153005464,0.05696451479511438,183.0,106.0,45.0,32.0
 60,61,"In retrospect, I think we should have opted for the patch.",1.5934065934065933,0.05828590146022156,182.0,108.0,40.0,34.0
@@ -76,7 +76,7 @@
 74,75,"You don't have to be crazy to work here, but it helps.",1.5842696629213484,0.056685340253569215,178.0,103.0,46.0,29.0
 75,76,We've apparently been hit with a restraining order.,1.5819209039548023,0.05406621604008503,177.0,98.0,55.0,24.0
 76,77,"Frankly, you'd have to be crazy to take this job.",1.5819209039548023,0.055240912263183166,177.0,100.0,51.0,26.0
-77,78,You don't have to be crazy to work here. We'll train you.,1.5819209039548023,0.055818990702595786,177.0,101.0,49.0,27.0
+77,78,You don't have to be crazy to work here. We'll train you.,1.5819209039548023,0.05581899070259578,177.0,101.0,49.0,27.0
 78,79,So they're letting us run the asylum. Now what?,1.5795454545454546,0.0566621233449635,176.0,102.0,46.0,28.0
 79,80,"And of course, we loosen the straps on Casual Fridays.",1.5795454545454546,0.05608619399660484,176.0,101.0,48.0,27.0
 80,81,"I'll have to talk to the rest of the voices in this room, but I think you're perfect for this job.",1.5771428571428572,0.05635582806826766,175.0,101.0,47.0,27.0
@@ -116,17 +116,17 @@
 114,115,"Call me crazy, but I think you'll fit in just fine around here.",1.5384615384615383,0.05560749200094224,156.0,90.0,48.0,18.0
 115,116,This job doesn't offer much mobility.,1.5384615384615383,0.05920944262808776,156.0,95.0,38.0,23.0
 116,117,It's only for the next four years.,1.5379746835443038,0.059314308633657636,158.0,97.0,37.0,24.0
-117,118,We're letting you go.,1.535483870967742,0.06021704866326628,155.0,96.0,35.0,24.0
-118,119,I guess I can't point fingers.,1.535483870967742,0.05513241048407515,155.0,89.0,49.0,17.0
-119,120,You'll like it here. We pretty much run the place.,1.535483870967742,0.05880917095650499,155.0,94.0,39.0,22.0
-120,121,Are you able to work within constraints?,1.535483870967742,0.053591121696245636,155.0,87.0,53.0,15.0
-121,122,You'll be getting the corner office with no windows and padded walls.,1.535483870967742,0.0566317671179993,155.0,91.0,45.0,19.0
-122,123,""" You'd think the glass ceiling would be adequate",1.535483870967742,0.060908785329175236,155.0,97.0,33.0,25.0
-123,124,"The walls may be padded, but there's no glass ceiling.",1.535483870967742,0.05588711717691237,155.0,90.0,47.0,18.0
+117,118,We're letting you go.,1.5354838709677419,0.06021704866326628,155.0,96.0,35.0,24.0
+118,119,I guess I can't point fingers.,1.5354838709677419,0.05513241048407515,155.0,89.0,49.0,17.0
+119,120,You'll like it here. We pretty much run the place.,1.5354838709677419,0.05880917095650499,155.0,94.0,39.0,22.0
+120,121,Are you able to work within constraints?,1.5354838709677419,0.053591121696245636,155.0,87.0,53.0,15.0
+121,122,You'll be getting the corner office with no windows and padded walls.,1.5354838709677419,0.0566317671179993,155.0,91.0,45.0,19.0
+122,123,""" You'd think the glass ceiling would be adequate",1.5354838709677419,0.060908785329175236,155.0,97.0,33.0,25.0
+123,124,"The walls may be padded, but there's no glass ceiling.",1.5354838709677419,0.05588711717691237,155.0,90.0,47.0,18.0
 124,125,"Unfortunately, your hands-on experience won't be very useful in this position.",1.535031847133758,0.05752862683455703,157.0,94.0,42.0,21.0
 125,126,At least the finger pointing has finally stopped.,1.5324675324675323,0.05616921755432176,154.0,90.0,46.0,18.0
 126,127,"Usually we start new employees with card tricks, but I see you're ready for something more advanced.",1.5324675324675323,0.05911438701330824,154.0,94.0,38.0,22.0
-127,128,"Yes, all of the cubicles are padded too.",1.5294117647058822,0.055686928585237064,153.0,89.0,47.0,17.0
+127,128,"Yes, all of the cubicles are padded too.",1.5294117647058822,0.05568692858523706,153.0,89.0,47.0,17.0
 128,129,Consider yourself lucky if only your nose itches.,1.5294117647058822,0.06293669148686107,153.0,99.0,27.0,27.0
 129,130,I guess they don't want us adjusting the thermostat.,1.5294117647058822,0.05412056347864723,153.0,87.0,51.0,15.0
 130,131,Is this your idea of binding arbitration?,1.5263157894736843,0.05674093471298194,152.0,90.0,44.0,18.0
@@ -137,7 +137,7 @@
 135,136,Corporate really admires someone who's committed.,1.5263157894736843,0.06188297263615905,152.0,97.0,30.0,25.0
 136,137,Actually you do have to be crazy to work here.,1.5263157894736843,0.060458461366513935,152.0,95.0,34.0,23.0
 137,138,The job involves a lot of delegating.,1.5263157894736843,0.05899956609437824,152.0,93.0,38.0,21.0
-138,139,"So, tell us a little bit about yourselves.",1.52317880794702,0.06221406972042711,151.0,97.0,29.0,25.0
+138,139,"So, tell us a little bit about yourselves.",1.5231788079470199,0.06221406972042711,151.0,97.0,29.0,25.0
 139,140,"Well, I'm looking at the contract and it seems there's no escape clause.",1.52,0.061101009266077866,150.0,95.0,32.0,23.0
 140,141,I can't believe we both wore the same thing to work today.,1.52,0.057322823031219036,150.0,90.0,42.0,18.0
 141,142,Are you free tomorrow?,1.52,0.055739888078848034,150.0,88.0,46.0,16.0
@@ -274,7 +274,7 @@
 272,273,"If anyone calls, we're tied up in a meeting.",1.4656488549618318,0.05764787711781533,131.0,82.0,37.0,12.0
 273,274,I see you've done your research.,1.4656488549618318,0.06253380523102875,131.0,87.0,27.0,17.0
 274,275,"Tell me about a challenge or conflict you've faced at work, and how you dealt with it.",1.4651162790697674,0.060327063628966615,129.0,83.0,32.0,14.0
-275,276,Not sure about productivity but it cuts down on snacking.,1.4651162790697674,0.05507934686481519,129.0,78.0,42.0,9.0
+275,276,Not sure about productivity but it cuts down on snacking.,1.4651162790697674,0.055079346864815186,129.0,78.0,42.0,9.0
 276,277,Our management style is very hands off.,1.4651162790697674,0.060327063628966615,129.0,83.0,32.0,14.0
 277,278,Now you understand that this agreement is fully binding...,1.4651162790697674,0.05167554893788135,129.0,75.0,48.0,6.0
 278,279,I've got great news -- I gotta let you go.,1.4651162790697674,0.0632671059802536,129.0,86.0,26.0,17.0
@@ -296,13 +296,13 @@
 294,295,"The thing is, no one's gonna hand you anything at this company.",1.4566929133858268,0.062000062000093,127.0,84.0,28.0,15.0
 295,296,You'll find we're not very touchy-feely here.,1.4566929133858268,0.06299993702352613,127.0,85.0,26.0,16.0
 296,297,"Call me crazy, but it looks like you're finally dressing for the position you want.",1.4566929133858268,0.06495352814800763,127.0,87.0,22.0,18.0
-297,298,I think it's safe to say we both got a little crazy in our last meeting.,1.4566929133858268,0.060983795479311514,127.0,83.0,30.0,14.0
+297,298,I think it's safe to say we both got a little crazy in our last meeting.,1.4566929133858268,0.06098379547931153,127.0,83.0,30.0,14.0
 298,299,"Typing is tricky, but sexual harassment claims are down 90%.",1.4566929133858268,0.05995030387003567,127.0,82.0,32.0,13.0
 299,300,"Remember, my padded door is always open.",1.4566929133858268,0.05995030387003567,127.0,82.0,32.0,13.0
 300,301,I told them we would be tied up all day,1.4566929133858268,0.062000062000093,127.0,84.0,28.0,15.0
-301,302,"Tell me, in which institution do you see yourself in five years?",1.4566929133858268,0.060983795479311514,127.0,83.0,30.0,14.0
-302,303,I'm hoping to get out early today.,1.4566929133858268,0.060983795479311514,127.0,83.0,30.0,14.0
-303,304,How fast can you type?,1.4566929133858268,0.060983795479311514,127.0,83.0,30.0,14.0
+301,302,"Tell me, in which institution do you see yourself in five years?",1.4566929133858268,0.06098379547931153,127.0,83.0,30.0,14.0
+302,303,I'm hoping to get out early today.,1.4566929133858268,0.06098379547931153,127.0,83.0,30.0,14.0
+303,304,How fast can you type?,1.4566929133858268,0.06098379547931153,127.0,83.0,30.0,14.0
 304,305,"I like you, Karen. You remind me of myself at your age.",1.4566929133858268,0.05673698796421054,127.0,79.0,38.0,10.0
 305,306,Nice jacket.,1.4523809523809523,0.05920868968521735,126.0,81.0,33.0,12.0
 306,307,Quite impressive how you studied our corporate culture.,1.4523809523809523,0.0570236852568484,126.0,79.0,37.0,10.0
@@ -334,9 +334,9 @@
 332,333,I'm sure you're aware the contract will be binding.,1.4435483870967742,0.05983456885497005,124.0,81.0,31.0,12.0
 333,334,"Unfortunately, we were looking to fill the position with someone a bit more psychotic.",1.4435483870967742,0.06198738837201606,124.0,83.0,27.0,14.0
 334,335,You've gotta be crazy to want to work here.,1.4435483870967742,0.05872857299899813,124.0,80.0,33.0,11.0
-335,336,It can get crazy around here. I think you'll fit right in.,1.4435483870967742,0.056451612903225826,124.0,78.0,37.0,9.0
+335,336,It can get crazy around here. I think you'll fit right in.,1.4435483870967742,0.05645161290322584,124.0,78.0,37.0,9.0
 336,337,Sorry to keep you waiting. It's a real madhouse in here.,1.4435483870967742,0.05983456885497005,124.0,81.0,31.0,12.0
-337,338,The company enforces a very strict No Texting policy.,1.4435483870967742,0.056451612903225826,124.0,78.0,37.0,9.0
+337,338,The company enforces a very strict No Texting policy.,1.4435483870967742,0.05645161290322584,124.0,78.0,37.0,9.0
 338,339,If you can escape before I do you're hired.,1.4435483870967742,0.06092048894765744,124.0,82.0,29.0,13.0
 339,340,What do you see yourself escaping from in five years?,1.4426229508196722,0.06273491856885004,122.0,82.0,26.0,14.0
 340,341,It looks like we have a binding agreement.,1.4426229508196722,0.05940724717733159,122.0,79.0,32.0,11.0
@@ -349,7 +349,7 @@
 347,348,So let me explain our new Twitter policy.,1.4426229508196722,0.06164565687018311,122.0,81.0,28.0,13.0
 348,349,"Can I get you anything -- coffee, lithium?",1.4426229508196722,0.060536798842294785,122.0,80.0,30.0,12.0
 349,350,"Today's been crazy for me, too.",1.4426229508196722,0.058255798168977836,122.0,78.0,34.0,10.0
-350,351,We find it helps with employee retention.,1.4426229508196722,0.055881768283912586,122.0,76.0,38.0,8.0
+350,351,We find it helps with employee retention.,1.4426229508196722,0.05588176828391258,122.0,76.0,38.0,8.0
 351,352,Some employees are complaining that our dress code is too restrictive.,1.43801652892562,0.05736712036611824,121.0,77.0,35.0,9.0
 352,353,I can't wait for casual friday,1.43801652892562,0.06416722512383119,121.0,83.0,23.0,15.0
 353,354,I like your can't-do attitude.,1.43801652892562,0.06198347107438016,121.0,81.0,27.0,13.0
@@ -360,7 +360,7 @@
 358,359,Your Restraint is admirable.,1.43801652892562,0.06308479795688085,121.0,82.0,25.0,14.0
 359,360,On a brighter note - there are bidets in all of the bathrooms,1.43801652892562,0.06086221849059205,121.0,80.0,29.0,12.0
 360,361,I don't see restraints just opportunity.,1.43801652892562,0.05855533746749868,121.0,78.0,33.0,10.0
-361,362,Mr. Houdini will see you now.,1.4347826086956519,0.06067310564559659,115.0,75.0,30.0,10.0
+361,362,Mr. Houdini will see you now.,1.434782608695652,0.06067310564559659,115.0,75.0,30.0,10.0
 362,363,The job does come with certain constraints.,1.4344262295081966,0.058184268901013324,122.0,79.0,33.0,10.0
 363,364,"There are no back stabbers here, but watch out for head butts.",1.4333333333333331,0.05765410883165861,120.0,77.0,34.0,9.0
 364,365,Make no mistake: You have to be crazy to work here.,1.4333333333333331,0.06560783811432504,120.0,84.0,20.0,16.0
@@ -489,47 +489,47 @@
 487,488,Do you have any hands-on experience?,1.4159292035398232,0.06376025699793082,113.0,78.0,23.0,12.0
 488,489,"Something about my job feels stifling, but I can't put my finger on it.",1.4152542372881356,0.06291746993905505,118.0,82.0,23.0,13.0
 489,490,My door is always open.,1.4137931034482758,0.058809995067388786,116.0,77.0,30.0,9.0
-490,491,"Yes, the hours are insane.",1.4122807017543861,0.06080171757635418,114.0,77.0,27.0,10.0
-491,492,"So, what do you know about running an asylum?",1.4122807017543861,0.06206532248655215,114.0,78.0,25.0,11.0
-492,493,"The dress code is strict, but we loosen things up on Fridays.",1.4122807017543861,0.06206532248655215,114.0,78.0,25.0,11.0
-493,494,"If you can get past the downside, ours is the most effective weight loss program in the industry.",1.4122807017543861,0.06330370961077003,114.0,79.0,23.0,12.0
-494,495,"Okay, I'll be the first to admit that our last meeting didn't go very well.",1.4122807017543861,0.06206532248655215,114.0,78.0,25.0,11.0
-495,496,Perhaps we've gone too far on our sexual harassment policy.,1.4122807017543861,0.059511288551918916,114.0,76.0,29.0,9.0
-496,497,"Let's start by signing those release forms, shall we?",1.4122807017543861,0.06080171757635418,114.0,77.0,27.0,10.0
-497,498,I see a lot of myself in you.,1.4122807017543861,0.056842613195205886,114.0,74.0,33.0,7.0
-498,499,"For once, I do know how you feel.",1.4122807017543861,0.058192250944475186,114.0,75.0,31.0,8.0
-499,500,Your resume said 'creative problem solver'...,1.4122807017543861,0.059511288551918916,114.0,76.0,29.0,9.0
-500,501,"Siri, could you bring us two iced lattes, with straws.",1.4122807017543861,0.06080171757635418,114.0,77.0,27.0,10.0
-501,502,"When I see you, I see myself 15 years ago...",1.4122807017543861,0.0668814311738291,114.0,82.0,17.0,15.0
-502,503,So we're running the asylum. Now what?,1.4122807017543861,0.06451833108202411,114.0,80.0,21.0,13.0
-503,504,"You'll fit in well, here.",1.4122807017543861,0.06080171757635418,114.0,77.0,27.0,10.0
-504,505,"This job requires someone with initiative and, most importantly, flexibility.",1.4122807017543861,0.06080171757635418,114.0,77.0,27.0,10.0
-505,506,"So, tell me why you feel constrained by the dress code here.",1.4122807017543861,0.06206532248655215,114.0,78.0,25.0,11.0
-506,507,HR is pretty strict about hugs.,1.4122807017543861,0.06206532248655215,114.0,78.0,25.0,11.0
-507,508,"When you hired me, I said I could do the job with ONE arm tied behind my back.",1.4122807017543861,0.055460141360573666,114.0,73.0,35.0,6.0
-508,509,Can I get you anything?,1.4122807017543861,0.06206532248655215,114.0,78.0,25.0,11.0
-509,510,You met all the job requirements but failed the typing test.,1.4122807017543861,0.06080171757635418,114.0,77.0,27.0,10.0
-510,511,Your success here is limited only by your imagination.,1.4122807017543861,0.06206532248655215,114.0,78.0,25.0,11.0
-511,512,We wore the same jacket! Awkward!,1.4122807017543861,0.059511288551918916,114.0,76.0,29.0,9.0
-512,513,We only do verbal contracts.,1.4122807017543861,0.06080171757635418,114.0,77.0,27.0,10.0
-513,514,Where do you see yourself in five minutes?,1.4122807017543861,0.06330370961077003,114.0,79.0,23.0,12.0
-514,515,It gets a little crazy around here.,1.4122807017543861,0.059511288551918916,114.0,76.0,29.0,9.0
-515,516,"They looked great in the catalog, didn't they?",1.4122807017543861,0.058192250944475186,114.0,75.0,31.0,8.0
-516,517,I love your outfit.,1.4122807017543861,0.056842613195205886,114.0,74.0,33.0,7.0
-517,518,If I could only reach the escape key!!!,1.4122807017543861,0.06330370961077003,114.0,79.0,23.0,12.0
-518,519,"I see the bind you're in, but my hands are tied.",1.4122807017543861,0.06571050479744207,114.0,81.0,19.0,14.0
-519,520,I understand you have an issue with the company dress code.,1.4122807017543861,0.059511288551918916,114.0,76.0,29.0,9.0
-520,521,You do have to be crazy to work here - but it doesn't help.,1.4122807017543861,0.06451833108202411,114.0,80.0,21.0,13.0
-521,522,"Now that you are comfortable Judy, I want to inform you that your husband and I are romantically involved.",1.4122807017543861,0.06206532248655215,114.0,78.0,25.0,11.0
-522,523,I find it keeps me from replying all.,1.4122807017543861,0.055460141360573666,114.0,73.0,35.0,6.0
-523,524,Where do I see myself in ten years? Here.,1.4122807017543861,0.06571050479744207,114.0,81.0,19.0,14.0
-524,525,"Welcome aboard. Working here, you're limited only by your imagination. Well, that and the straitjacket.",1.4122807017543861,0.06571050479744207,114.0,81.0,19.0,14.0
-525,526,So you watch Fox News too?,1.4122807017543861,0.06451833108202411,114.0,80.0,21.0,13.0
-526,527,This should eliminate body language issues.,1.4122807017543861,0.06451833108202411,114.0,80.0,21.0,13.0
-527,528,Can we be strait with each other?,1.4122807017543861,0.06451833108202411,114.0,80.0,21.0,13.0
-528,529,Why didn't you tell me you were going to wear that jacket today?,1.4122807017543861,0.06451833108202411,114.0,80.0,21.0,13.0
-529,530,This is nothing compared to the red tape.,1.4122807017543861,0.06206532248655215,114.0,78.0,25.0,11.0
-530,531,you'd have to be nuts to work here.,1.4122807017543861,0.059511288551918916,114.0,76.0,29.0,9.0
+490,491,"Yes, the hours are insane.",1.412280701754386,0.06080171757635418,114.0,77.0,27.0,10.0
+491,492,"So, what do you know about running an asylum?",1.412280701754386,0.06206532248655215,114.0,78.0,25.0,11.0
+492,493,"The dress code is strict, but we loosen things up on Fridays.",1.412280701754386,0.06206532248655215,114.0,78.0,25.0,11.0
+493,494,"If you can get past the downside, ours is the most effective weight loss program in the industry.",1.412280701754386,0.06330370961077003,114.0,79.0,23.0,12.0
+494,495,"Okay, I'll be the first to admit that our last meeting didn't go very well.",1.412280701754386,0.06206532248655215,114.0,78.0,25.0,11.0
+495,496,Perhaps we've gone too far on our sexual harassment policy.,1.412280701754386,0.05951128855191892,114.0,76.0,29.0,9.0
+496,497,"Let's start by signing those release forms, shall we?",1.412280701754386,0.06080171757635418,114.0,77.0,27.0,10.0
+497,498,I see a lot of myself in you.,1.412280701754386,0.056842613195205886,114.0,74.0,33.0,7.0
+498,499,"For once, I do know how you feel.",1.412280701754386,0.058192250944475186,114.0,75.0,31.0,8.0
+499,500,Your resume said 'creative problem solver'...,1.412280701754386,0.05951128855191892,114.0,76.0,29.0,9.0
+500,501,"Siri, could you bring us two iced lattes, with straws.",1.412280701754386,0.06080171757635418,114.0,77.0,27.0,10.0
+501,502,"When I see you, I see myself 15 years ago...",1.412280701754386,0.0668814311738291,114.0,82.0,17.0,15.0
+502,503,So we're running the asylum. Now what?,1.412280701754386,0.06451833108202411,114.0,80.0,21.0,13.0
+503,504,"You'll fit in well, here.",1.412280701754386,0.06080171757635418,114.0,77.0,27.0,10.0
+504,505,"This job requires someone with initiative and, most importantly, flexibility.",1.412280701754386,0.06080171757635418,114.0,77.0,27.0,10.0
+505,506,"So, tell me why you feel constrained by the dress code here.",1.412280701754386,0.06206532248655215,114.0,78.0,25.0,11.0
+506,507,HR is pretty strict about hugs.,1.412280701754386,0.06206532248655215,114.0,78.0,25.0,11.0
+507,508,"When you hired me, I said I could do the job with ONE arm tied behind my back.",1.412280701754386,0.05546014136057367,114.0,73.0,35.0,6.0
+508,509,Can I get you anything?,1.412280701754386,0.06206532248655215,114.0,78.0,25.0,11.0
+509,510,You met all the job requirements but failed the typing test.,1.412280701754386,0.06080171757635418,114.0,77.0,27.0,10.0
+510,511,Your success here is limited only by your imagination.,1.412280701754386,0.06206532248655215,114.0,78.0,25.0,11.0
+511,512,We wore the same jacket! Awkward!,1.412280701754386,0.05951128855191892,114.0,76.0,29.0,9.0
+512,513,We only do verbal contracts.,1.412280701754386,0.06080171757635418,114.0,77.0,27.0,10.0
+513,514,Where do you see yourself in five minutes?,1.412280701754386,0.06330370961077003,114.0,79.0,23.0,12.0
+514,515,It gets a little crazy around here.,1.412280701754386,0.05951128855191892,114.0,76.0,29.0,9.0
+515,516,"They looked great in the catalog, didn't they?",1.412280701754386,0.058192250944475186,114.0,75.0,31.0,8.0
+516,517,I love your outfit.,1.412280701754386,0.056842613195205886,114.0,74.0,33.0,7.0
+517,518,If I could only reach the escape key!!!,1.412280701754386,0.06330370961077003,114.0,79.0,23.0,12.0
+518,519,"I see the bind you're in, but my hands are tied.",1.412280701754386,0.06571050479744207,114.0,81.0,19.0,14.0
+519,520,I understand you have an issue with the company dress code.,1.412280701754386,0.05951128855191892,114.0,76.0,29.0,9.0
+520,521,You do have to be crazy to work here - but it doesn't help.,1.412280701754386,0.06451833108202411,114.0,80.0,21.0,13.0
+521,522,"Now that you are comfortable Judy, I want to inform you that your husband and I are romantically involved.",1.412280701754386,0.06206532248655215,114.0,78.0,25.0,11.0
+522,523,I find it keeps me from replying all.,1.412280701754386,0.05546014136057367,114.0,73.0,35.0,6.0
+523,524,Where do I see myself in ten years? Here.,1.412280701754386,0.06571050479744207,114.0,81.0,19.0,14.0
+524,525,"Welcome aboard. Working here, you're limited only by your imagination. Well, that and the straitjacket.",1.412280701754386,0.06571050479744207,114.0,81.0,19.0,14.0
+525,526,So you watch Fox News too?,1.412280701754386,0.06451833108202411,114.0,80.0,21.0,13.0
+526,527,This should eliminate body language issues.,1.412280701754386,0.06451833108202411,114.0,80.0,21.0,13.0
+527,528,Can we be strait with each other?,1.412280701754386,0.06451833108202411,114.0,80.0,21.0,13.0
+528,529,Why didn't you tell me you were going to wear that jacket today?,1.412280701754386,0.06451833108202411,114.0,80.0,21.0,13.0
+529,530,This is nothing compared to the red tape.,1.412280701754386,0.06206532248655215,114.0,78.0,25.0,11.0
+530,531,you'd have to be nuts to work here.,1.412280701754386,0.05951128855191892,114.0,76.0,29.0,9.0
 531,532,Your biggest challenge here will be the ladies room.,1.4070796460176989,0.055706541203602536,113.0,73.0,34.0,6.0
 532,533,That about wraps it up.,1.4070796460176989,0.0611173460193499,113.0,77.0,26.0,10.0
 533,534,'Fortunately you DO have to be crazy to work here.',1.4070796460176989,0.05981055234282556,113.0,76.0,28.0,9.0
@@ -755,7 +755,7 @@
 753,754,"Unfortunately, we cannot offer any lateral mobility.",1.3773584905660377,0.062088292042440624,106.0,75.0,22.0,9.0
 754,755,You scratch my back and I'll scratch yours.,1.3773584905660377,0.062088292042440624,106.0,75.0,22.0,9.0
 755,756,"I'm pretty sure the therapist suggested bonding, not bondage, Mom.",1.3773584905660377,0.06491798708664431,106.0,77.0,18.0,11.0
-756,757,I think you'll fit right in around here.,1.3773584905660377,0.059123320019372004,106.0,73.0,26.0,7.0
+756,757,I think you'll fit right in around here.,1.3773584905660377,0.059123320019372,106.0,73.0,26.0,7.0
 757,758,"Well, one of us is going to have to change.",1.3773584905660377,0.06351889898340933,106.0,76.0,20.0,10.0
 758,759,"What unique skills can you bring to Houdini, Houdini and Houdini?",1.3773584905660377,0.062088292042440624,106.0,75.0,22.0,9.0
 759,760,Did you see yourself stuck in this same position 20 years ago?,1.3773584905660377,0.062088292042440624,106.0,75.0,22.0,9.0
@@ -763,7 +763,7 @@
 761,762,We've never been big on touchy-feely at this company either.,1.3773584905660377,0.06351889898340933,106.0,76.0,20.0,10.0
 762,763,Binding arbitration hasn't solved anything.,1.3773584905660377,0.062088292042440624,106.0,75.0,22.0,9.0
 763,764,"Our philosophy here is simple: first, do no harm.",1.3773584905660377,0.05758361269316049,106.0,72.0,28.0,6.0
-764,765,"Well, I could say the same about you.",1.3773584905660377,0.059123320019372004,106.0,73.0,26.0,7.0
+764,765,"Well, I could say the same about you.",1.3773584905660377,0.059123320019372,106.0,73.0,26.0,7.0
 765,766,With my nose.,1.3773584905660377,0.06491798708664431,106.0,77.0,18.0,11.0
 766,767,What I'm offering you is an unbinding contract.,1.3773584905660377,0.06351889898340933,106.0,76.0,20.0,10.0
 767,768,It's the only way I can stay off Twitter.,1.3773584905660377,0.05758361269316049,106.0,72.0,28.0,6.0
@@ -777,15 +777,15 @@
 775,776,Our business depends on strong verbal skills.,1.3773584905660377,0.06062393495501785,106.0,74.0,24.0,8.0
 776,777,"""I'll understand if you need some time to respond"".",1.3773584905660377,0.05758361269316049,106.0,72.0,28.0,6.0
 777,778,"If you escape first, the job is yours.",1.3773584905660377,0.062088292042440624,106.0,75.0,22.0,9.0
-778,779,Men just don't understand what we have to go through every day to look like this.,1.3773584905660377,0.059123320019372004,106.0,73.0,26.0,7.0
+778,779,Men just don't understand what we have to go through every day to look like this.,1.3773584905660377,0.059123320019372,106.0,73.0,26.0,7.0
 779,780,"Hi, Siri. Find Houdini straight jacket escape instructions.",1.3773584905660377,0.062088292042440624,106.0,75.0,22.0,9.0
 780,781,I would say my management style is a little more hands off.,1.3773584905660377,0.05600158865138339,106.0,71.0,30.0,5.0
 781,782,Your move.,1.3773584905660377,0.06062393495501785,106.0,74.0,24.0,8.0
 782,783,I tried to adjust the thermostat too.,1.3773584905660377,0.06351889898340933,106.0,76.0,20.0,10.0
 783,784,Welcome to the Trump transition team!,1.3773584905660377,0.06491798708664431,106.0,77.0,18.0,11.0
 784,785,I like your style.,1.3773584905660377,0.06062393495501785,106.0,74.0,24.0,8.0
-785,786,I think it is time we loosen up.,1.3773584905660377,0.059123320019372004,106.0,73.0,26.0,7.0
-786,787,I'm sure you will fit in here.,1.3773584905660377,0.059123320019372004,106.0,73.0,26.0,7.0
+785,786,I think it is time we loosen up.,1.3773584905660377,0.059123320019372,106.0,73.0,26.0,7.0
+786,787,I'm sure you will fit in here.,1.3773584905660377,0.059123320019372,106.0,73.0,26.0,7.0
 787,788,"Well, you certainly appear qualified for a job here.",1.3773584905660377,0.05600158865138339,106.0,71.0,30.0,5.0
 788,789,This is standard procedure for all exit interviews.,1.3773584905660377,0.062088292042440624,106.0,75.0,22.0,9.0
 789,790,It's not the glass ceiling that bothers me so much.,1.3773584905660377,0.06491798708664431,106.0,77.0,18.0,11.0
@@ -794,7 +794,7 @@
 792,793,At least we only clicked on recipes. You should see what they did to Trina for downloading porn.,1.3773584905660377,0.06762938773947343,106.0,79.0,14.0,13.0
 793,794,"To answer your question, Ms. Lopez, you don't have to be crazy to work here, but it does help.",1.3773584905660377,0.05600158865138339,106.0,71.0,30.0,5.0
 794,795,``Remember when the EPA was a fun place to work?'',1.3773584905660377,0.06062393495501785,106.0,74.0,24.0,8.0
-795,796,"I'm wish there was another option, but my hands are tied too.",1.3773584905660377,0.059123320019372004,106.0,73.0,26.0,7.0
+795,796,"I'm wish there was another option, but my hands are tied too.",1.3773584905660377,0.059123320019372,106.0,73.0,26.0,7.0
 796,797,"I'd like to help you, but as you can see, my only possible response is a tired cliche.",1.3773584905660377,0.07023619526035248,106.0,81.0,10.0,15.0
 797,798,It seems we're in a bind.,1.3773584905660377,0.05600158865138339,106.0,71.0,30.0,5.0
 798,799,We have a hands-off management style.,1.3773584905660377,0.06351889898340933,106.0,76.0,20.0,10.0
@@ -827,10 +827,10 @@
 825,826,"I'd really like to help you, but my hands are tied.",1.3714285714285714,0.05456646123567484,105.0,70.0,31.0,4.0
 826,827,I appreciate that. Most people here at the office don't view me as a role model.,1.3714285714285714,0.06384668973944932,105.0,76.0,19.0,10.0
 827,828,HR? Very nice. Mine's from Compliance.,1.3714285714285714,0.06091058548713136,105.0,74.0,23.0,8.0
-828,829,You appear to have all the qualifications for a cabinet position,1.3714285714285714,0.059388123738967825,105.0,73.0,25.0,7.0
+828,829,You appear to have all the qualifications for a cabinet position,1.3714285714285714,0.05938812373896784,105.0,73.0,25.0,7.0
 829,830,"Congratulations on your acceptance, and welcome to Houdini University.",1.3714285714285714,0.05782559172273787,105.0,72.0,27.0,6.0
 830,831,"On top of everything else, I got my panties in a twist.",1.3714285714285714,0.06526522790763614,105.0,77.0,17.0,11.0
-831,832,I think I preferred Casual Fridays.,1.3714285714285714,0.059388123738967825,105.0,73.0,25.0,7.0
+831,832,I think I preferred Casual Fridays.,1.3714285714285714,0.05938812373896784,105.0,73.0,25.0,7.0
 832,833,We're looking for someone who can think outside the jacket.,1.3714285714285714,0.05782559172273787,105.0,72.0,27.0,6.0
 833,834,"I much preferred dress-down Fridays to lock-down Fridays, too.",1.3714285714285714,0.06239591018276215,105.0,75.0,21.0,9.0
 834,835,You're in luck-we're looking for straight-laced people.,1.3714285714285714,0.06665358322690439,105.0,78.0,15.0,12.0
@@ -841,9 +841,9 @@
 839,840,Not only have I lost 20 pounds but I've become more verbally articulate.,1.3714285714285714,0.06526522790763614,105.0,77.0,17.0,11.0
 840,841,First one out buys dinner.,1.3714285714285714,0.06665358322690439,105.0,78.0,15.0,12.0
 841,842,This no tweeting policy is a bit strict.,1.3714285714285714,0.06384668973944932,105.0,76.0,19.0,10.0
-842,843,I love your jacket. Where'd you get it?,1.3714285714285714,0.059388123738967825,105.0,73.0,25.0,7.0
+842,843,I love your jacket. Where'd you get it?,1.3714285714285714,0.05938812373896784,105.0,73.0,25.0,7.0
 843,844,I hate this new quit smoking thing the company introduced.,1.3714285714285714,0.06239591018276215,105.0,75.0,21.0,9.0
-844,845,"Yes, sexual harassment claims are down. However....",1.3714285714285714,0.059388123738967825,105.0,73.0,25.0,7.0
+844,845,"Yes, sexual harassment claims are down. However....",1.3714285714285714,0.05938812373896784,105.0,73.0,25.0,7.0
 845,846,I'm tied up all week too.,1.3714285714285714,0.06091058548713136,105.0,74.0,23.0,8.0
 846,847,Me? They said show restraint. And you?,1.3714285714285714,0.05782559172273787,105.0,72.0,27.0,6.0
 847,848,The company has instituted some highly effective anti-harassment policies.,1.3714285714285714,0.06526522790763614,105.0,77.0,17.0,11.0
@@ -1046,32 +1046,32 @@
 1044,1045,So why are you qualified to be one of the inmates running the asylum?,1.3469387755102042,0.06339514174368889,98.0,72.0,18.0,8.0
 1045,1046,"Another year, another manager returning from a team-building seminar.",1.3469387755102042,0.06339514174368889,98.0,72.0,18.0,8.0
 1046,1047,I can't wait for casual friday,1.3469387755102042,0.06339514174368889,98.0,72.0,18.0,8.0
-1047,1048,"Look, I'm not crazy about it either.",1.3469387755102042,0.061713455266883266,98.0,71.0,20.0,7.0
+1047,1048,"Look, I'm not crazy about it either.",1.3469387755102042,0.06171345526688327,98.0,71.0,20.0,7.0
 1048,1049,"As you know, my door is always open.",1.3469387755102042,0.06339514174368889,98.0,72.0,18.0,8.0
 1049,1050,"When I said the job offered flexibility, I meant the hours.",1.3469387755102042,0.058204498877045485,98.0,69.0,24.0,5.0
 1050,1051,"Yes, it's a very safe work environment..",1.3469387755102042,0.05636816702539816,98.0,68.0,26.0,4.0
 1051,1052,It's frustrating but our hands are tied.,1.3469387755102042,0.059984640744550566,98.0,70.0,22.0,6.0
 1052,1053,"Madam Secretary! This is not what I meant by ""arms control.""",1.3469387755102042,0.06503335630603123,98.0,73.0,16.0,9.0
-1053,1054,How did you ever get your hair to look so great?,1.3469387755102042,0.061713455266883266,98.0,71.0,20.0,7.0
+1053,1054,How did you ever get your hair to look so great?,1.3469387755102042,0.06171345526688327,98.0,71.0,20.0,7.0
 1054,1055,"Are you really that empathetic, Dr., or am I just projecting?",1.3469387755102042,0.06339514174368889,98.0,72.0,18.0,8.0
 1055,1056,"I'm sorry, but we're only seeking candidates who recently swallowed a key.",1.3469387755102042,0.06663130546636481,98.0,74.0,14.0,10.0
-1056,1057,Wow. The inmates really do run the asylum.,1.3469387755102042,0.061713455266883266,98.0,71.0,20.0,7.0
+1056,1057,Wow. The inmates really do run the asylum.,1.3469387755102042,0.06171345526688327,98.0,71.0,20.0,7.0
 1057,1058,"You guessed it, the inmates do run the asylum.",1.3469387755102042,0.0697174134603517,98.0,76.0,10.0,12.0
 1058,1059,"I can see you're tied up too, so can we reschedule for tomorrow?",1.3469387755102042,0.05446996253053952,98.0,67.0,28.0,3.0
 1059,1060,"Where do I see myself in five years? Hopefully, wearing your straight jacket.""",1.3469387755102042,0.06503335630603123,98.0,73.0,16.0,9.0
 1060,1061,I would like to help but our hands are tied.,1.3469387755102042,0.058204498877045485,98.0,69.0,24.0,5.0
-1061,1062,These are not required on casual Fridays.,1.3469387755102042,0.061713455266883266,98.0,71.0,20.0,7.0
+1061,1062,These are not required on casual Fridays.,1.3469387755102042,0.06171345526688327,98.0,71.0,20.0,7.0
 1062,1063,This is a special program for two-time text offenders.,1.3469387755102042,0.059984640744550566,98.0,70.0,22.0,6.0
 1063,1064,I'm not crazy about the new dress code.,1.3469387755102042,0.05636816702539816,98.0,68.0,26.0,4.0
 1064,1065,Wish I could help you but my hands are tied.,1.3469387755102042,0.059984640744550566,98.0,70.0,22.0,6.0
 1065,1066,I feel bound to advise you that the position can sometimes be very uncomfortable.,1.3469387755102042,0.06663130546636481,98.0,74.0,14.0,10.0
-1066,1067,Love the shoes!,1.3469387755102042,0.061713455266883266,98.0,71.0,20.0,7.0
-1067,1068,I'm afraid my hands are tied in this matter.,1.3469387755102042,0.061713455266883266,98.0,71.0,20.0,7.0
-1068,1069,"Honestly, I love working here… but the dress-code sucks!",1.3469387755102042,0.061713455266883266,98.0,71.0,20.0,7.0
+1066,1067,Love the shoes!,1.3469387755102042,0.06171345526688327,98.0,71.0,20.0,7.0
+1067,1068,I'm afraid my hands are tied in this matter.,1.3469387755102042,0.06171345526688327,98.0,71.0,20.0,7.0
+1068,1069,"Honestly, I love working here… but the dress-code sucks!",1.3469387755102042,0.06171345526688327,98.0,71.0,20.0,7.0
 1069,1070,It's not unusual to get tied up at the office,1.3469387755102042,0.059984640744550566,98.0,70.0,22.0,6.0
-1070,1071,"No, I'm so sorry. I can't validate your parking.",1.3469387755102042,0.061713455266883266,98.0,71.0,20.0,7.0
+1070,1071,"No, I'm so sorry. I can't validate your parking.",1.3469387755102042,0.06171345526688327,98.0,71.0,20.0,7.0
 1071,1072,We use restraint here.,1.3469387755102042,0.06663130546636481,98.0,74.0,14.0,10.0
-1072,1073,My husband doesn't take me seriously when I tell him I'm tied up at work.,1.3469387755102042,0.061713455266883266,98.0,71.0,20.0,7.0
+1072,1073,My husband doesn't take me seriously when I tell him I'm tied up at work.,1.3469387755102042,0.06171345526688327,98.0,71.0,20.0,7.0
 1073,1074,I was normal until I woke up on November 9. You?,1.3469387755102042,0.06663130546636481,98.0,74.0,14.0,10.0
 1074,1075,"So, who does your hair?",1.3469387755102042,0.059984640744550566,98.0,70.0,22.0,6.0
 1075,1076,We could file a complaint with Human Resources but their hands are tied too.,1.3469387755102042,0.059984640744550566,98.0,70.0,22.0,6.0
@@ -1300,15 +1300,15 @@
 1298,1299,Let's get straight to the point. This job is a little confining.,1.3297872340425532,0.06307222217323323,94.0,70.0,17.0,7.0
 1299,1300,You don't have to be crazy to work here it helps.,1.3297872340425532,0.06307222217323323,94.0,70.0,17.0,7.0
 1300,1301,You have to use your head to be successful in here.,1.3297872340425532,0.05737389137625391,94.0,67.0,23.0,4.0
-1301,1302,It worked for my other addictions.,1.326315789473684,0.054868478117812036,95.0,67.0,25.0,3.0
-1302,1303,I'm really looking for someone who can roll up their sleeves and be more hands-on.,1.326315789473684,0.058808827759374564,95.0,69.0,21.0,5.0
-1303,1304,Remember when the barriers were invisible?,1.326315789473684,0.058808827759374564,95.0,69.0,21.0,5.0
-1304,1305,I think this job would be a good fit for you.,1.326315789473684,0.06250125241864157,95.0,71.0,17.0,7.0
-1305,1306,"As you already know, we have a very strict dress code.",1.326315789473684,0.058808827759374564,95.0,69.0,21.0,5.0
-1306,1307,"On the bright side, ours are only 79.6% as tight as the men's jackets.",1.326315789473684,0.06250125241864157,95.0,71.0,17.0,7.0
-1307,1308,Welcome to Academia.,1.326315789473684,0.06766312918494974,95.0,74.0,11.0,10.0
-1308,1309,At least no one can read our body language.,1.326315789473684,0.05687278836753393,95.0,68.0,23.0,4.0
-1309,1310,"Well, I guess, that ties up all the loose ends.",1.326315789473684,0.06068313100166525,95.0,70.0,19.0,6.0
+1301,1302,It worked for my other addictions.,1.3263157894736841,0.054868478117812036,95.0,67.0,25.0,3.0
+1302,1303,I'm really looking for someone who can roll up their sleeves and be more hands-on.,1.3263157894736841,0.058808827759374564,95.0,69.0,21.0,5.0
+1303,1304,Remember when the barriers were invisible?,1.3263157894736841,0.058808827759374564,95.0,69.0,21.0,5.0
+1304,1305,I think this job would be a good fit for you.,1.3263157894736841,0.06250125241864157,95.0,71.0,17.0,7.0
+1305,1306,"As you already know, we have a very strict dress code.",1.3263157894736841,0.058808827759374564,95.0,69.0,21.0,5.0
+1306,1307,"On the bright side, ours are only 79.6% as tight as the men's jackets.",1.3263157894736841,0.06250125241864157,95.0,71.0,17.0,7.0
+1307,1308,Welcome to Academia.,1.3263157894736841,0.06766312918494974,95.0,74.0,11.0,10.0
+1308,1309,At least no one can read our body language.,1.3263157894736841,0.05687278836753393,95.0,68.0,23.0,4.0
+1309,1310,"Well, I guess, that ties up all the loose ends.",1.3263157894736841,0.06068313100166525,95.0,70.0,19.0,6.0
 1310,1311,That makes two of us.,1.3229166666666667,0.06704082231540083,96.0,75.0,11.0,10.0
 1311,1312,This weight loss program is really working. I'm down 10 pounds.,1.3229166666666667,0.06194010913683505,96.0,72.0,17.0,7.0
 1312,1313,Around here we believe body language is a distraction.,1.3229166666666667,0.06014381825482154,96.0,71.0,19.0,6.0
@@ -1787,36 +1787,36 @@
 1785,1786,It's Legal's way of keeping us off twitter.,1.2823529411764707,0.06612899012521699,85.0,68.0,10.0,7.0
 1786,1787,"The election got to you, too?",1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1787,1788,"In our experience, self control isn't enough.",1.2823529411764707,0.06397602121235049,85.0,67.0,12.0,6.0
-1788,1789,"You know, we shouldn't have complained so much about the golden handcuffs.",1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
+1788,1789,"You know, we shouldn't have complained so much about the golden handcuffs.",1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
 1789,1790,It goes without saying that you'll need to wear slip-ons.,1.2823529411764707,0.06397602121235049,85.0,67.0,12.0,6.0
 1790,1791,"I totally sympathize with your dilemma, but my hands are tied.",1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1791,1792,"I'd love to help you Mrs. Johnson, but my hands are tied.",1.2823529411764707,0.05703152773430972,85.0,64.0,18.0,3.0
 1792,1793,"It's not an interrogation, it's an enhanced interview.",1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1793,1794,"Okay, but wouldn't you agree the glass ceiling was a more comfortable metaphor?",1.2823529411764707,0.06612899012521699,85.0,68.0,10.0,7.0
-1794,1795,The Company has a strict policy on the use of cell phones.,1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
+1794,1795,The Company has a strict policy on the use of cell phones.,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
 1795,1796,I think you will fit in fine here.,1.2823529411764707,0.05703152773430972,85.0,64.0,18.0,3.0
 1796,1797,"Things can get a bit insane around here, which is why we think you'll be a perfect fit.",1.2823529411764707,0.05703152773430972,85.0,64.0,18.0,3.0
 1797,1798,Don't point your toe at me like that.,1.2823529411764707,0.05703152773430972,85.0,64.0,18.0,3.0
 1798,1799,I think we need to improve our outreach.,1.2823529411764707,0.06397602121235049,85.0,67.0,12.0,6.0
-1799,1800,Let's not do anything crazy.,1.2823529411764707,0.05452048340661893,85.0,63.0,20.0,2.0
+1799,1800,Let's not do anything crazy.,1.2823529411764707,0.054520483406618934,85.0,63.0,20.0,2.0
 1800,1801,I think I understand your position.,1.2823529411764707,0.051888062847571054,85.0,62.0,22.0,1.0
 1801,1802,You'll fit well with our corporate culture.,1.2823529411764707,0.05703152773430972,85.0,64.0,18.0,3.0
-1802,1803,My back pain is gone and my hands are never cold. You'll love it.,1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
-1803,1804,"Hey Siri, begin interview!",1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
+1802,1803,My back pain is gone and my hands are never cold. You'll love it.,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
+1803,1804,"Hey Siri, begin interview!",1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
 1804,1805,"Okay, let's see if this puppy has a hands-free ap.",1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
-1805,1806,Let's get something strait. There will be no finger pointing in this office.,1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
+1805,1806,Let's get something strait. There will be no finger pointing in this office.,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
 1806,1807,You can't just not do your job because your nose itches.,1.2823529411764707,0.06397602121235049,85.0,67.0,12.0,6.0
 1807,1808,"If you're born Italian, I find it helps in learning to speak English.",1.2823529411764707,0.06397602121235049,85.0,67.0,12.0,6.0
 1808,1809,They take compliance very seriously around here.,1.2823529411764707,0.05703152773430972,85.0,64.0,18.0,3.0
 1809,1810,"No, it's not a very touchy feely department",1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
-1810,1811,"I'm sorry, but I just can't sign off on this.",1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
-1811,1812,"This way, we don't have to block Facebook and Twitter on work computers.",1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
-1812,1813,"I'm sorry, you're overqualified.",1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
+1810,1811,"I'm sorry, but I just can't sign off on this.",1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
+1811,1812,"This way, we don't have to block Facebook and Twitter on work computers.",1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
+1812,1813,"I'm sorry, you're overqualified.",1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
 1813,1814,We're tied up in meetings all day.,1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1814,1815,"OK, then. We're ready for 2017.",1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1815,1816,"I'm sorry, but we have to let you go.",1.2823529411764707,0.06612899012521699,85.0,68.0,10.0,7.0
 1816,1817,"You're right, Tina, it's not that uncomfortable. And it makes tweeting virtually impossible. Think he'll go for it?",1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
-1817,1818,It can get a little crazy around here. I hope you're okay with that.,1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
+1817,1818,It can get a little crazy around here. I hope you're okay with that.,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
 1818,1819,"well, one of us needs to send the email.",1.2823529411764707,0.06612899012521699,85.0,68.0,10.0,7.0
 1819,1820,You remind me of myself when I was your age.,1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1820,1821,I really AM feeling less need to gesticulate.,1.2823529411764707,0.05703152773430972,85.0,64.0,18.0,3.0
@@ -1824,7 +1824,7 @@
 1822,1823,"Call me crazy, but I think you'd be a perfect fit for our company.",1.2823529411764707,0.06397602121235049,85.0,67.0,12.0,6.0
 1823,1824,"Of course I'd like to do the right thing, but our hands are tied.",1.2823529411764707,0.06612899012521699,85.0,68.0,10.0,7.0
 1824,1825,We're just wrapping up here.,1.2823529411764707,0.06397602121235049,85.0,67.0,12.0,6.0
-1825,1826,I try to identify with my clients.,1.2823529411764707,0.05452048340661893,85.0,63.0,20.0,2.0
+1825,1826,I try to identify with my clients.,1.2823529411764707,0.054520483406618934,85.0,63.0,20.0,2.0
 1826,1827,"You should have read the employment ad more carefully, we're looking for someone with 'hands-on' experience.",1.2823529411764707,0.06612899012521699,85.0,68.0,10.0,7.0
 1827,1828,"Let me also ask, what are your manipulative skills?",1.2823529411764707,0.06612899012521699,85.0,68.0,10.0,7.0
 1828,1829,"I'd love to be able to help you with the problem, but my hands are tied.",1.2823529411764707,0.06397602121235049,85.0,67.0,12.0,6.0
@@ -1832,41 +1832,41 @@
 1830,1831,I just keep telling myself this will all be over in four years...,1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1831,1832,I love it! Who are you wearing?,1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1832,1833,I see we have something in common.,1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
-1833,1834,The dress code is just crazy here,1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
+1833,1834,The dress code is just crazy here,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
 1834,1835,""" I was really impressed with your resume'. I've got to hand it to you...oops! Gotta stop saying that",1.2823529411764707,0.06612899012521699,85.0,68.0,10.0,7.0
 1835,1836,I think we can negotiate without killing each other.,1.2823529411764707,0.05703152773430972,85.0,64.0,18.0,3.0
 1836,1837,"When I started working for Mitt, I had no idea what he meant by binders of women.",1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1837,1838,I guess we won't be climbing the corporate ladder!,1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
-1838,1839,This job does not require much manual dexterity.,1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
-1839,1840,I'd like to offer you the position. It's obvious you'll fit right in with our new administration.,1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
-1840,1841,Cost cutting. We eliminated padded cubicles.,1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
+1838,1839,This job does not require much manual dexterity.,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
+1839,1840,I'd like to offer you the position. It's obvious you'll fit right in with our new administration.,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
+1840,1841,Cost cutting. We eliminated padded cubicles.,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
 1841,1842,"And how well, would you say, do you work under pressure?",1.2823529411764707,0.05703152773430972,85.0,64.0,18.0,3.0
 1842,1843,Who are you wearing?,1.2823529411764707,0.06397602121235049,85.0,67.0,12.0,6.0
 1843,1844,Now it's safe to talk. You first.,1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
-1844,1845,We're bound to make this a better workplace.,1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
+1844,1845,We're bound to make this a better workplace.,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
 1845,1846,"I'm sorry. I would love to help you, but my hands are tied.",1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1846,1847,"I would love to give you a raise but, you know as well as I, my hands are tied.",1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1847,1848,Only Siri can save us now.,1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1848,1849,You appear to be overqualified.,1.2823529411764707,0.05703152773430972,85.0,64.0,18.0,3.0
 1849,1850,I'm sensing a very hostile work environment.,1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1850,1851,"Well, we did vote for change",1.2823529411764707,0.05703152773430972,85.0,64.0,18.0,3.0
-1851,1852,There will be times when you'd die for a cup of coffee but that will pass.,1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
-1852,1853,If you think these HUD ones are tight you should try the ones at the EPA!,1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
+1851,1852,There will be times when you'd die for a cup of coffee but that will pass.,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
+1852,1853,If you think these HUD ones are tight you should try the ones at the EPA!,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
 1853,1854,Total freedom is elusive.,1.2823529411764707,0.06397602121235049,85.0,67.0,12.0,6.0
 1854,1855,In some states we can vote!,1.2823529411764707,0.06821404092852859,85.0,69.0,8.0,8.0
 1855,1856,"I'd like to help, but so are mine.",1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
-1856,1857,You must be crazy to work here.,1.2823529411764707,0.05452048340661893,85.0,63.0,20.0,2.0
+1856,1857,You must be crazy to work here.,1.2823529411764707,0.054520483406618934,85.0,63.0,20.0,2.0
 1857,1858,We're both crazy busy so let's keep this short.,1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1858,1859,"Just having a ""no tweeting"" rule wasn't working for the administration",1.2823529411764707,0.05703152773430972,85.0,64.0,18.0,3.0
-1859,1860,Ready......set......GO!,1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
-1860,1861,Where's Siri when you need her?,1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
+1859,1860,Ready......set......GO!,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
+1860,1861,Where's Siri when you need her?,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
 1861,1862,If you escape before me you'll move on to the levitation interview.,1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
 1862,1863,Loosen up??,1.2823529411764707,0.05703152773430972,85.0,64.0,18.0,3.0
 1863,1864,They told me I was crazy voting for Trump. What's your story?,1.2823529411764707,0.06821404092852859,85.0,69.0,8.0,8.0
 1864,1865,Exactly what makes you qualified to work here!,1.2823529411764707,0.05703152773430972,85.0,64.0,18.0,3.0
-1865,1866,Our policies are fully compliant with both Sharia law and Trump administration free speech guidelines.,1.2823529411764707,0.05452048340661893,85.0,63.0,20.0,2.0
+1865,1866,Our policies are fully compliant with both Sharia law and Trump administration free speech guidelines.,1.2823529411764707,0.054520483406618934,85.0,63.0,20.0,2.0
 1866,1867,"Well, I guess that's a wrap!",1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0
-1867,1868,Let's get something straight.,1.2823529411764707,0.059436581332772374,85.0,65.0,16.0,4.0
+1867,1868,Let's get something straight.,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0
 1868,1869,Have you noticed we're just not as productive as we used to be.,1.2790697674418603,0.05883307274731867,86.0,66.0,16.0,4.0
 1869,1870,You’d fit right in here.,1.2790697674418603,0.05138615587138972,86.0,63.0,22.0,1.0
 1870,1871,I guess thats the end of Facebook during work hours.,1.2738095238095235,0.059523809523809534,84.0,65.0,15.0,4.0
@@ -2129,7 +2129,7 @@
 2127,2128,It appears you're over-qualified.,1.2650602409638554,0.0620075956534203,83.0,66.0,12.0,5.0
 2128,2129,This new dress code is crazy!,1.2650602409638554,0.057072105254470575,83.0,64.0,16.0,3.0
 2129,2130,We seem to have so much in common.,1.2650602409638554,0.057072105254470575,83.0,64.0,16.0,3.0
-2130,2131,I think you will find that this is one place where the inmates really are running the asylum.,1.261904761904762,0.05896177573653653,84.0,66.0,14.0,4.0
+2130,2131,I think you will find that this is one place where the inmates really are running the asylum.,1.2619047619047619,0.05896177573653653,84.0,66.0,14.0,4.0
 2131,2132,"No, you first!",1.2592592592592593,0.054934803608116006,81.0,62.0,17.0,2.0
 2132,2133,I've been pretty much tied to my desk recently; how about you?,1.2592592592592593,0.06279935169560431,81.0,65.0,11.0,5.0
 2133,2134,"As women, we're bound to feel that way.",1.2592592592592593,0.057675598157027524,81.0,63.0,15.0,3.0
@@ -2814,7 +2814,7 @@
 2812,2813,"OK, then. I believe that ties up all the loose ends.",1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2813,2814,"So much for ""boundless opportunities.""",1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2814,2815,"On casual Fridays, handcuffs are appropriate.",1.2236842105263157,0.0664875247776744,76.0,65.0,5.0,6.0
-2815,2816,How do you do lunch?,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2815,2816,How do you do lunch?,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2816,2817,"I'm sorry, she's tied up right now.",1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2817,2818,"Apparently, we were supposed to tidy up. Stupid autocorrect.",1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2818,2819,I think you'll like joining a company where not just the prices are insane.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
@@ -2824,15 +2824,15 @@
 2822,2823,It's a bit of a stretch to say I like working here,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2823,2824,I'll ask the questions. What makes you think the inmates run this asylum?,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2824,2825,The new dress code is to protect against discrimination lawsuit by the patients.,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
-2825,2826,How did we do this to each other?,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2825,2826,How did we do this to each other?,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2826,2827,I feel like this company is holding me back,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2827,2828,How did we get here ?,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2828,2829,We have zero tolerance for lewd gestures.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2829,2830,The gag rule doesn't apply here.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
-2830,2831,I love that they let you be yourself here.,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2830,2831,I love that they let you be yourself here.,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2831,2832,I'm happy to tell you that we have a great voice recognition program,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2832,2833,"We can't today, we're all tied up.",1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
-2833,2834,I'm not so sure about these new budget constraints.,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2833,2834,I'm not so sure about these new budget constraints.,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2834,2835,I'm a team player.,1.2236842105263157,0.063794308195006,76.0,64.0,7.0,5.0
 2835,2836,How do you like Restrained Fridays?,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2836,2837,You have to know your audience.,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
@@ -2842,14 +2842,14 @@
 2840,2841,"I'd like to, but I'm afraid my hands are tied.",1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2841,2842,"Ok so, how do we get out of this binding contract?",1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2842,2843,I hear you cut through the red tape.,1.2236842105263157,0.063794308195006,76.0,64.0,7.0,5.0
-2843,2844,We also have an exceptional employee assistance program,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2843,2844,We also have an exceptional employee assistance program,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2844,2845,I think management has gone a bit overboard trying to curb online shopping at work.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2845,2846,"I don't feel micromanaged, do you?",1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2846,2847,Looks like our hands are tied on the matter,1.2236842105263157,0.063794308195006,76.0,64.0,7.0,5.0
 2847,2848,I've decided to plan a company picnic so we all can unwind.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2848,2849,Mine is Vera Wang. What are you wearing?,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2849,2850,"I can't plea insanity for you, my hands are tied.",1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
-2850,2851,"Sorry, I'd really like to help you with this, by my hands are also tied.",1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2850,2851,"Sorry, I'd really like to help you with this, by my hands are also tied.",1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2851,2852,Making a case for binding resolution.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2852,2853,Seems your hands are tied as well.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2853,2854,"Don't worry, I won't bite.",1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
@@ -2865,27 +2865,27 @@
 2863,2864,No...there is no glass ceiling...,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2864,2865,"To work here, it helps to be Houdini",1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2865,2866,Who do you think you'll be a year from now?,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
-2866,2867,"Rest assured, this contract is not legally binding.",1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2866,2867,"Rest assured, this contract is not legally binding.",1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2867,2868,I'm giving it to you straight.,1.2236842105263157,0.048117853164570124,76.0,59.0,17.0,0.0
 2868,2869,First things first - put yourself in the customer's shoes.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2869,2870,Ah... being a woman in the workplace.,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
-2870,2871,"We got ourselves into this, now we have to get ourselves out of it.",1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2870,2871,"We got ourselves into this, now we have to get ourselves out of it.",1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2871,2872,We might be here late tonight,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2872,2873,Is that your phone buzzing or mine?,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2873,2874,Maybe we shouldn't have broken the glass ceiling.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
-2874,2875,I'd like to help but my hands are tied too.,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2874,2875,I'd like to help but my hands are tied too.,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2875,2876,At least it isn't red tape.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2876,2877,Hillary. You?,1.2236842105263157,0.063794308195006,76.0,64.0,7.0,5.0
 2877,2878,"I would love to help you out on this loan, but really, my hands are tied.",1.2236842105263157,0.048117853164570124,76.0,59.0,17.0,0.0
 2878,2879,Now let me get this strait . . .,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2879,2880,"''I can really relate to your situation and I'd like to help you out, but unfortunately, my hands are tied.""",1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
-2880,2881,"Without Corporate's approval, our hands are tied.",1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2880,2881,"Without Corporate's approval, our hands are tied.",1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2881,2882,"Sorry, our boss is nuts and we're just going along with it.",1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2882,2883,What makes you think government regulations have gotten out of hand?,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
-2883,2884,It really is a fine line.,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2883,2884,It really is a fine line.,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2884,2885,When did we end casual dress Fridays?,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2885,2886,The boss warned us she was going to do this if we didn't stop using our phones during meetings.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
-2886,2887,"Trust me, it's the only way to stay twitter free.",1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2886,2887,"Trust me, it's the only way to stay twitter free.",1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2887,2888,"I'm so sorry, but, as you can see, my hands are tied",1.2236842105263157,0.063794308195006,76.0,64.0,7.0,5.0
 2888,2889,I think it's fair to say neither one of us is sneaking out early today.,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2889,2890,"I'd love to put you in for a raise, but my arms are tied.",1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
@@ -2915,7 +2915,7 @@
 2913,2914,Watch what you say; it's on voice activation.,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2914,2915,Now we're free to talk.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2915,2916,Im afraid we just can't shake on that - my hands are tied.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
-2916,2917,"So, how do think this occupational therapy is working?",1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2916,2917,"So, how do think this occupational therapy is working?",1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2917,2918,It gets a little crazy here during tax season.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2918,2919,I don't like working with my hands either.,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2919,2920,Fine. You?,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
@@ -2937,14 +2937,14 @@
 2935,2936,Let's discuss your options,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2936,2937,This is known in psychoanalysis as a transference.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2937,2938,"Give it to me straight, doc.",1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
-2938,2939,"Well I'd love to help you, but clearly my hands are tied.",1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
-2939,2940,If we can figure out how Houdini did it we can get back our cell phone and computer!,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2938,2939,"Well I'd love to help you, but clearly my hands are tied.",1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
+2939,2940,If we can figure out how Houdini did it we can get back our cell phone and computer!,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2940,2941,"On the bright side, our heating costs are down 20% this month",1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2941,2942,I'm impressed with your company. My last place was too unconfining.,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
-2942,2943,We have a very strict no-Facebook-at-work policy,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2942,2943,We have a very strict no-Facebook-at-work policy,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2943,2944,"I like your fashion sense, you're hired!",1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2944,2945,The company's hiring practices are very restrictive.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
-2945,2946,We all need to stop tweeting on the job.,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2945,2946,We all need to stop tweeting on the job.,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2946,2947,"Before we begin, may I get you a cup of coffee?",1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2947,2948,We're trying to control workplace touching.,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2948,2949,There really is no need for a mouse or a phone in this position.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
@@ -2952,19 +2952,19 @@
 2950,2951,This job calls for patience and restraint.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2951,2952,Management does know it's just a metaphor?,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2952,2953,"Tell me, was this your apparel of choice before November 9th?",1.2236842105263157,0.0664875247776744,76.0,65.0,5.0,6.0
-2953,2954,I love casual Friday's.,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
-2954,2955,"On the other hand, I almost never get pulled over for texting while driving anymore.",1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2953,2954,I love casual Friday's.,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
+2954,2955,"On the other hand, I almost never get pulled over for texting while driving anymore.",1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2955,2956,"Yeah, I can relate.",1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2956,2957,"I thought the courts had tied our hands on affirmative action hires before, but this is getting ridiculous.",1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2957,2958,I can see that neither of us is going to budge on our negotiating positions.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2958,2959,I wish I could help but my hands are totally tied on this one,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
-2959,2960,We all get a little bit crazy at the end of the fiscal year,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2959,2960,We all get a little bit crazy at the end of the fiscal year,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2960,2961,I'm worried we have a productivity problem.,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2961,2962,Hey Siri...,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2962,2963,"Well, this is one result of the Roger Ailes settlement.",1.2236842105263157,0.063794308195006,76.0,64.0,7.0,5.0
 2963,2964,"It's hard to unwind after being tied up in meetings all day, isn't it?",1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2964,2965,Dior?,1.2236842105263157,0.063794308195006,76.0,64.0,7.0,5.0
-2965,2966,"I'd love to make sure you get this promotion, but you must understand that my hands are, well, you know...",1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2965,2966,"I'd love to make sure you get this promotion, but you must understand that my hands are, well, you know...",1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2966,2967,"I'm finding the company's new internet violation policy a bit binding, aren't you?",1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2967,2968,Eye contact training.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2968,2969,Any thoughts on how to accessorize?,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
@@ -2974,7 +2974,7 @@
 2972,2973,Where do you see yourself 10 years from now?,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2973,2974,"I empathise with your situation, but my hands are tied.",1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2974,2975,I would love to help you but my hands are tied.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
-2975,2976,"I agree, the company's suggested anger management techniques are helping, but it's a lot more difficult responding to e-mail.",1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2975,2976,"I agree, the company's suggested anger management techniques are helping, but it's a lot more difficult responding to e-mail.",1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2976,2977,Think you can dislocate your own shoulder in time for lunch?,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2977,2978,I really think we should try weight watchers,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2978,2979,You appear to have the right qualifications!,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
@@ -2985,23 +2985,23 @@
 2983,2984,I know I am but what are you?,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2984,2985,You'll fit right in. We all voted for him.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2985,2986,"Don't worry, you'll fit in well around here.",1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
-2986,2987,For me it's about escaping the drudgery of the job.,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2986,2987,For me it's about escaping the drudgery of the job.,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2987,2988,This project will require a very special skill set.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2988,2989,So you've been tied up today too.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2989,2990,I think you're too wrapped up in it.,1.2236842105263157,0.063794308195006,76.0,64.0,7.0,5.0
 2990,2991,"First we went paperless. Now we are hands-free. What's next, virtual employment?",1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2991,2992,I can assure you that we will harness whatever energy and enthusiasm you bring to the table.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2992,2993,I miss the days of annual review where we could simply urge restraint,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
-2993,2994,I didn't see this mentioned in the employee handbook.,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2993,2994,I didn't see this mentioned in the employee handbook.,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 2994,2995,I also thought they said they would retrain us for the job.,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0
 2995,2996,Now that we have that settled how can I help you?,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2996,2997,Something tells me we went too far with texting during office hours!,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 2997,2998,I think the new dress code is decreasing productivity.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 2998,2999,Maybe both of us should update our resumes.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
-2999,3000,I think you'll fit right in with our corporate culture!,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+2999,3000,I think you'll fit right in with our corporate culture!,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 3000,3001,did you pay retail?,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 3001,3002,"We're both pretty tied up now, so we probably should get back to our work.",1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
-3002,3003,Two record executives listening to the new Justin Bieber album,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+3002,3003,Two record executives listening to the new Justin Bieber album,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 3003,3004,I like how you’ve accessorized your jacket.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 3004,3005,"It says ""for solution press play"".",1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 3005,3006,Look Helen. I'm going to be straight with you.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
@@ -3009,7 +3009,7 @@
 3007,3008,It's great how e-mail just doesn't matter any more.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 3008,3009,I understand you trained with Houdini?,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 3009,3010,Let's try again to negotiate a peaceful settlement.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
-3010,3011,"I know I've seen you somewhere before, but I just can't put my finger on it.",1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0
+3010,3011,"I know I've seen you somewhere before, but I just can't put my finger on it.",1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0
 3011,3012,"Karen, you were absolutely right. This post-election swaddling has been a godsend.",1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0
 3012,3013,You've got to hand it to HR. This has really solved my carpal tunnel.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0
 3013,3014,"I don't know how to tell you this, so I'll just give it to you strait, Jackie.",1.2236842105263157,0.063794308195006,76.0,64.0,7.0,5.0
@@ -3206,68 +3206,68 @@
 3204,3205,"I'm sorry, but we already have a President.",1.2054794520547945,0.06457596175219613,73.0,63.0,5.0,5.0
 3205,3206,"You're right, it does make working here easier!",1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
 3206,3207,I think you're focusing too much on how little you can move.,1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
-3207,3208,No. We do not require psychological profile testing for the job...,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3207,3208,No. We do not require psychological profile testing for the job...,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3208,3209,I can see that you need time off from work too.,1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
-3209,3210,What should our hashtag be?,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
-3210,3211,I assume you know I can see your finger through the canvas.,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3209,3210,What should our hashtag be?,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
+3210,3211,I assume you know I can see your finger through the canvas.,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3211,3212,I think you'll find our company a crazy place to work.,1.2054794520547945,0.05145857383371985,73.0,59.0,13.0,1.0
 3212,3213,Of course I'd like to help but I have certain restrictions.,1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
 3213,3214,I just need a strait answer.,1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
 3214,3215,"Yeah, work seems more constraining these days.",1.2054794520547945,0.04761793062697309,73.0,58.0,15.0,0.0
 3215,3216,Glad you like to conceptualize. We're not exactly a hands-on outfit.,1.2054794520547945,0.06155921809457882,73.0,62.0,7.0,4.0
-3216,3217,Make the workplace safe again,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3216,3217,Make the workplace safe again,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3217,3218,Just be grateful they've cut all that red tape.,1.2054794520547945,0.05145857383371985,73.0,59.0,13.0,1.0
-3218,3219,"""I must of been crazy to take this job, and you must be crazy to apply"".",1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3218,3219,"""I must of been crazy to take this job, and you must be crazy to apply"".",1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3219,3220,"The cashmere lining, makes it tolerable. Am I right?",1.2054794520547945,0.04761793062697309,73.0,58.0,15.0,0.0
 3220,3221,HR's gone a little overboard since that last sexual harassment case.,1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
 3221,3222,"Your first magic trick interview answer will be to get me out of MY straitjacket BEFORE you get out of yours. You have 10 seconds, starting...now!",1.2054794520547945,0.05145857383371985,73.0,59.0,13.0,1.0
 3222,3223,I never could breastfeed either.,1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
 3223,3224,I've got an itch I need to scratch,1.2054794520547945,0.04761793062697309,73.0,58.0,15.0,0.0
 3224,3225,New White House staffer in what capacity?,1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
-3225,3226,"It seemed like a crazy idea, but here we are.",1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
-3226,3227,Congratulations! I see you have lost 10 pounds on our Venus De Milo diet.,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
-3227,3228,"I know, I'm just as uncomfortable giving annual performance reviews.",1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
-3228,3229,I'm feeling trapped in my job,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3225,3226,"It seemed like a crazy idea, but here we are.",1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
+3226,3227,Congratulations! I see you have lost 10 pounds on our Venus De Milo diet.,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
+3227,3228,"I know, I'm just as uncomfortable giving annual performance reviews.",1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
+3228,3229,I'm feeling trapped in my job,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3229,3230,You're bound to like it here.,1.2054794520547945,0.04761793062697309,73.0,58.0,15.0,0.0
 3230,3231,"Welcome to the on-boarding process here at Houdini, Inc.",1.2054794520547945,0.06457596175219613,73.0,63.0,5.0,5.0
 3231,3232,How are we supposed to pee?,1.2054794520547945,0.06155921809457882,73.0,62.0,7.0,4.0
 3232,3233,"So, when did you first realise you were straight?",1.2054794520547945,0.06155921809457882,73.0,62.0,7.0,4.0
 3233,3234,I used to get jumpy during interviews too but you seem really restrained,1.2054794520547945,0.05145857383371985,73.0,59.0,13.0,1.0
-3234,3235,What happened to casual Fridays?,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
-3235,3236,I'll get straight to the point.,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3234,3235,What happened to casual Fridays?,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
+3235,3236,I'll get straight to the point.,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3236,3237,The new HR policy did away with golden handcuffs.,1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
 3237,3238,This company takes 'Hands Free' a little too far.,1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
-3238,3239,So I see you made the mistake of saying this job makes you crazy too,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3238,3239,So I see you made the mistake of saying this job makes you crazy too,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3239,3240,It's a new Mac. There is no Escape key.,1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
-3240,3241,"I bought mine at a medical supply store, I was shopping for a sitz bath when it jumped right out and said ""Me"".",1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
-3241,3242,I can sympathize.,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
-3242,3243,"The scary thing is that although we don't get anything done, our stock keeps going up.",1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3240,3241,"I bought mine at a medical supply store, I was shopping for a sitz bath when it jumped right out and said ""Me"".",1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
+3241,3242,I can sympathize.,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
+3242,3243,"The scary thing is that although we don't get anything done, our stock keeps going up.",1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3243,3244,"I find this keeps me from knitting in meetings, also.",1.2054794520547945,0.05145857383371985,73.0,59.0,13.0,1.0
 3244,3245,You scratch mine and I'll scratch yours.,1.2054794520547945,0.06155921809457882,73.0,62.0,7.0,4.0
-3245,3246,We have a hands-off management strategy.,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3245,3246,We have a hands-off management strategy.,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3246,3247,"I hear what you're saying, but my hands are tied.",1.2054794520547945,0.06155921809457882,73.0,62.0,7.0,4.0
-3247,3248,"No need to worry, we are not a hands on organization.",1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3247,3248,"No need to worry, we are not a hands on organization.",1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3248,3249,Would you expand on the comment in job application about your desire to shed your cocoon and spread your wings?,1.2054794520547945,0.06155921809457882,73.0,62.0,7.0,4.0
 3249,3250,Thank you for your interest in peer-to-peer counseling.,1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
-3250,3251,It's really tough to get anything done around here!,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3250,3251,It's really tough to get anything done around here!,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3251,3252,Let's have a no-holds-barred conversation.,1.2054794520547945,0.05145857383371985,73.0,59.0,13.0,1.0
-3252,3253,I'm so glad we can be straight with each other.,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3252,3253,I'm so glad we can be straight with each other.,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3253,3254,"So this is how you're dealing the election, too? It's great, but I have to type with my nose.",1.2054794520547945,0.06155921809457882,73.0,62.0,7.0,4.0
-3254,3255,"Well, I'll be! It DOES help if you work here...",1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3254,3255,"Well, I'll be! It DOES help if you work here...",1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3255,3256,Sorry I can't help.My hands are tied.,1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
 3256,3257,When do you get out?,1.2054794520547945,0.05145857383371985,73.0,59.0,13.0,1.0
-3257,3258,How do you like our new facebook office in China?,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3257,3258,How do you like our new facebook office in China?,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3258,3259,I am demonstrating step one in Pence’s National Conversion Therapy Plan.,1.2054794520547945,0.06155921809457882,73.0,62.0,7.0,4.0
 3259,3260,"We can sit here all day, but I'm still going to want to tear off your designer glasses and rip your eyes out.""",1.2054794520547945,0.06457596175219613,73.0,63.0,5.0,5.0
 3260,3261,I hear you feel the new dress code is a bit restrictive?,1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
-3261,3262,who's crazy now?,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3261,3262,who's crazy now?,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3262,3263,I think we're bonding already.,1.2054794520547945,0.05503183010590845,73.0,60.0,11.0,2.0
 3263,3264,"Yes, some minor challenges...like Ctrl, Alt, Delete.",1.2054794520547945,0.05145857383371985,73.0,59.0,13.0,1.0
-3264,3265,"Welcome to Apple. You're interviewing with the ""Hey Siri"" team.",1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
-3265,3266,"As I tell all applicants, we do have a dress code here...",1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
-3266,3267,I guess it was just a matter of time before the editors here at Mad Magazine recognized the obvious.,1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3264,3265,"Welcome to Apple. You're interviewing with the ""Hey Siri"" team.",1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
+3265,3266,"As I tell all applicants, we do have a dress code here...",1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
+3266,3267,I guess it was just a matter of time before the editors here at Mad Magazine recognized the obvious.,1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3267,3268,This next test will assess your wiggling skills.,1.2054794520547945,0.05145857383371985,73.0,59.0,13.0,1.0
-3268,3269,"I'm not crazy about your c.v., but I do believe you'll fit in here",1.2054794520547945,0.058386812112074984,73.0,61.0,9.0,3.0
+3268,3269,"I'm not crazy about your c.v., but I do believe you'll fit in here",1.2054794520547945,0.05838681211207498,73.0,61.0,9.0,3.0
 3269,3270,"If I point and click with my nose, I may be able to get us out of this.",1.2054794520547945,0.04761793062697309,73.0,58.0,15.0,0.0
 3270,3271,I can totally empathize.,1.2054794520547945,0.04761793062697309,73.0,58.0,15.0,0.0
 3271,3272,"Call me crazy, but lately I feel like we're being creatively restricted.",1.2054794520547945,0.06155921809457882,73.0,62.0,7.0,4.0
@@ -3294,32 +3294,32 @@
 3292,3293,Our company prefers to call it a gay jacket.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3293,3294,"I feel constrained too, but suck it in and get your job done!",1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3294,3295,"Thanks for visiting. I get very tied up at work, if you know what i mean.",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
-3295,3296,let's have some straight talk,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3295,3296,let's have some straight talk,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3296,3297,"I'm sorry, i wish i could help. But my hands are tied.",1.1944444444444444,0.046969543993374864,72.0,58.0,14.0,0.0
 3297,3298,"The pay sucks, but you'll have complete creative freedom",1.1944444444444444,0.061409146630307714,72.0,62.0,6.0,4.0
-3298,3299,This really ties things up doesn't it.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3298,3299,This really ties things up doesn't it.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3299,3300,"Some people say ya gotta be crazy to work here, but I think YOU'LL fit right in.",1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3300,3301,"Sorry to keep you waiting, but it's been one of those crazy days!",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3301,3302,"You're right. I've also been diagnosed with OCEC, Obsessive-Compulsive Email Checking.",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
-3302,3303,Corporate felt that our dress code was too lenient.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3302,3303,Corporate felt that our dress code was too lenient.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3303,3304,This is driving me insane,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3304,3305,Can't you see I'm tied up today?,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3305,3306,I understand we are pretty tied up both of us.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
-3306,3307,This company could certainly use a few new hands.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3306,3307,This company could certainly use a few new hands.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3307,3308,I hope we're in a cartoon contest or something. I can't understand any other reason for this Madness,1.1944444444444444,0.061409146630307714,72.0,62.0,6.0,4.0
-3308,3309,It's so difficult to get anything done; we're all so tied up.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3308,3309,It's so difficult to get anything done; we're all so tied up.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3309,3310,Our company respects freedom of speech and openness. Relax and feel free...,1.1944444444444444,0.06451604138965672,72.0,63.0,4.0,5.0
 3310,3311,"We could work together, if you weren't tied up.",1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3311,3312,People say I talk with my hands too much.,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
-3312,3313,You'd have to be crazy to work with our clients,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
-3313,3314,This is HR's solution to carpal tunnel syndrome.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
-3314,3315,I'm really thinking that you're a good fit for this company.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3312,3313,You'd have to be crazy to work with our clients,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
+3313,3314,This is HR's solution to carpal tunnel syndrome.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
+3314,3315,I'm really thinking that you're a good fit for this company.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3315,3316,I hate working for the Trumps!,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
-3316,3317,"Now that we're settled, where do you see yourself in five years?",1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3316,3317,"Now that we're settled, where do you see yourself in five years?",1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3317,3318,"I went with the Gorilla wrap, I see you went with the generic brand.",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3318,3319,I'm afraid your typing skills do not meet the requirements for the position you applied for.,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3319,3320,When sign language gets a time out.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
-3320,3321,You look well qualified to me. When can you start?,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3320,3321,You look well qualified to me. When can you start?,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3321,3322,Phone issue solved. Next order of business.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3322,3323,It's some sort of Team Building thing. Corporate thought it would be cute to serve finger food for lunch and see what happens.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3323,3324,That's fine. None of us here are that flexible.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
@@ -3332,32 +3332,32 @@
 3330,3331,I'm sorry ma'm but there is not a lot we can do in this situation.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3331,3332,The good news is this dress code will probably only be around for four years.,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3332,3333,"'Has it helped curb your social media addiction?""",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
-3333,3334,I'm a great believer in showing empathy for my patients.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
-3334,3335,Are you always this buttoned down?,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
-3335,3336,I can't do anything. My hands are tied.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3333,3334,I'm a great believer in showing empathy for my patients.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
+3334,3335,Are you always this buttoned down?,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
+3335,3336,I can't do anything. My hands are tied.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3336,3337,Okay. Escape room Friday isn't a thing.,1.1944444444444444,0.061409146630307714,72.0,62.0,6.0,4.0
 3337,3338,I don't get why they keep calling us crazy.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3338,3339,It now appears I was optimistic when I said our hands were tied in this matter,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3339,3340,"I like dressing for success, too.",1.1944444444444444,0.061409146630307714,72.0,62.0,6.0,4.0
 3340,3341,Lemme see YOU Lean in!!,1.1944444444444444,0.061409146630307714,72.0,62.0,6.0,4.0
-3341,3342,"It;s not what I expected either, when I agreed to a straight talk.",1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3341,3342,"It;s not what I expected either, when I agreed to a straight talk.",1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3342,3343,I only wish these came in more than one size!,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
-3343,3344,"We're getting away from ""you scratch my back I'll scratch your's"" here.",1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3343,3344,"We're getting away from ""you scratch my back I'll scratch your's"" here.",1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3344,3345,"Oh, you'd be amazed howmany of our former employees thought it was just an old saying.",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3345,3346,"Alexa, the password is Houdini.",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
-3346,3347,"So, why do you think you are qualified for this job?",1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
-3347,3348,This letter says I'd have to be crazy to hire you.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3346,3347,"So, why do you think you are qualified for this job?",1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
+3347,3348,This letter says I'd have to be crazy to hire you.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3348,3349,"Everything all right, Tina? You seem wound a little tight.",1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3349,3350,Running the asylum was fine till some joker replaced the light switches with The Clapper.,1.1944444444444444,0.06451604138965672,72.0,63.0,4.0,5.0
 3350,3351,He was serious when he said that we would be all tied up for the day.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
-3351,3352,That wraps up our meeting.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3351,3352,That wraps up our meeting.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3352,3353,I want to be straight with you.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3353,3354,I think you're just the candidate for the position we are looking for!,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3354,3355,Let's just agree that this is no time to play Twister.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3355,3356,My great grandfather was Houdini too!,1.1944444444444444,0.061409146630307714,72.0,62.0,6.0,4.0
 3356,3357,"I'm not sure this was essential for the Siri beta testing, but whatever.",1.1944444444444444,0.06451604138965672,72.0,63.0,4.0,5.0
 3357,3358,I'm glad to see you took my invitation for some straight talk so seriously,1.1944444444444444,0.061409146630307714,72.0,62.0,6.0,4.0
-3358,3359,I'm here to pass along institutional knowledge.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3358,3359,I'm here to pass along institutional knowledge.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3359,3360,I was tied up in traffic. What's your excuse?,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3360,3361,"Wish we could finish this interview, but my hands are tied.",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3361,3362,We'll call it the Trump Jacket,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
@@ -3378,7 +3378,7 @@
 3376,3377,Let me give this to you straight.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3377,3378,It's so neither of us answers our cell phone.,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3378,3379,I'm not sure you're the right fit.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
-3379,3380,"This is a free and open workplace, but we each have to work within certain constraints.",1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3379,3380,"This is a free and open workplace, but we each have to work within certain constraints.",1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3380,3381,"I'd like to hire you, but things are tight right now.",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3381,3382,He seemed like such a nice young man.,1.1944444444444444,0.06451604138965672,72.0,63.0,4.0,5.0
 3382,3383,"Is it just me, or is the new office dress code is a bit too constrictive?",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
@@ -3386,43 +3386,43 @@
 3384,3385,"Our boss calls it ""Straitjacket Strategy"" to restrict our ability to use company time surfing the internet.",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3385,3386,Art of negotiation: Never be the first to make a move.,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3386,3387,"The inmates may be running the asylum, but we're also beating last year's projections by 19%.",1.1944444444444444,0.061409146630307714,72.0,62.0,6.0,4.0
-3387,3388,Told my husband for years that clients were driving me crazy. Guess he'll listen now.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3387,3388,Told my husband for years that clients were driving me crazy. Guess he'll listen now.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3388,3389,This brings empathy into question.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3389,3390,"Yes, I am straight too. Will that be a problem?",1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3390,3391,I always find these one-on-one meetings uncomfortable,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3391,3392,I think you'll make a great addition to 'Mad Magazine.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3392,3393,We market it to schools as an environmentally friendly no texting motivational tool.,1.1944444444444444,0.061409146630307714,72.0,62.0,6.0,4.0
-3393,3394,Think of it like dancing backwards in heels.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
-3394,3395,You have to be a little crazy to work here--and you're hired.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3393,3394,Think of it like dancing backwards in heels.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
+3394,3395,You have to be a little crazy to work here--and you're hired.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3395,3396,Everything starts with good posture.,1.1944444444444444,0.046969543993374864,72.0,58.0,14.0,0.0
-3396,3397,"So, how's this new diet working for you?",1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3396,3397,"So, how's this new diet working for you?",1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3397,3398,Some new hires find the culture a bit constraining at first,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3398,3399,Maybe we should try a hands-on approach.,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3399,3400,I know you are but what am I,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3400,3401,How are you qualified to be a raging maniac?,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3401,3402,"Oh, and in case you're thinking of getting up and leaving, you're hired.",1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
-3402,3403,I've worked with hands free systems at other companies before but this is just crazy.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3402,3403,I've worked with hands free systems at other companies before but this is just crazy.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3403,3404,"I know it's been crazy around here lately, but if we just keep practicing restraint...",1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3404,3405,This protest isn't working - management likes us this way.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3405,3406,"Well, at least you aren't tongue-tied.",1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3406,3407,And what makes you qualified for this job?,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3407,3408,"You can't always get what you want But, if you're tied sometimes, You get what you need.",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3408,3409,"Let's make it quick, we're on a tight schedule.",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
-3409,3410,"I, too, miss the red tape.",1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3409,3410,"I, too, miss the red tape.",1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3410,3411,Let me be straight with you.,1.1944444444444444,0.061409146630307714,72.0,62.0,6.0,4.0
 3411,3412,I got mine at Burlington.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
-3412,3413,Are we off the record?,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3412,3413,Are we off the record?,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3413,3414,Now we can think strait.,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3414,3415,"I know who you voted for, what else can you tell me about yourself?",1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3415,3416,Wow! This communication thing is hard!,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3416,3417,So why do you even have a computer?,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
-3417,3418,Stop saying 'Your hands are tied' !!,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3417,3418,Stop saying 'Your hands are tied' !!,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3418,3419,"As of January 20th, all EPA employees will wear federally-mandated uniforms, woven from endangered grasses found under the Dakota Pipeline.",1.1944444444444444,0.061409146630307714,72.0,62.0,6.0,4.0
 3419,3420,This crackdown on social media time is a complete overkill.,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3420,3421,Just being crazy to work here is not enough. We'd really need you to step up,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3421,3422,At least our carpal tunnel nerves are in great shape.,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
-3422,3423,"Yes, dear, I empathize; breaking that glass ceiling and arriving intact were two different things.",1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
-3423,3424,I'm going to be strait with you: my hands are tied.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3422,3423,"Yes, dear, I empathize; breaking that glass ceiling and arriving intact were two different things.",1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
+3423,3424,I'm going to be strait with you: my hands are tied.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3424,3425,... and that is how you use Power point,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3425,3426,This place can really make you crazy.,1.1944444444444444,0.046969543993374864,72.0,58.0,14.0,0.0
 3426,3427,"Frankly, we're concerned that you'll fit in here.",1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
@@ -3431,16 +3431,16 @@
 3429,3430,"And then I said, ""My hands are tied"".",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3430,3431,"Don't think of me as the therapist, I'm just another client.",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3431,3432,Let`s so lunch on Thursday if you`re not tied up.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
-3432,3433,You signed the confidentiality agreement? Good.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
-3433,3434,My sister did always say that it takes one to know one.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3432,3433,You signed the confidentiality agreement? Good.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
+3433,3434,My sister did always say that it takes one to know one.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3434,3435,"Yes, we will be ""literally"" tied up for weeks.",1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
-3435,3436,Your background is a nice fit with our company.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3435,3436,Your background is a nice fit with our company.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3436,3437,So you specialize in American Sign Language?,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3437,3438,"First he brings this curvy jacket, so I yell ""Bring us straight jackets!"" and this is what we get?",1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0
 3438,3439,Would you know if Siri works on a laptop?,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
-3439,3440,A willingness to bring your own straight jacket to work definitely gives you a leg up over the other applicants.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3439,3440,A willingness to bring your own straight jacket to work definitely gives you a leg up over the other applicants.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3440,3441,"I see you've read the ""Mirroring"" chapter of my body language book. Well played.",1.1944444444444444,0.061409146630307714,72.0,62.0,6.0,4.0
-3441,3442,I'm afraid you would not meet our need for outreach.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0
+3441,3442,I'm afraid you would not meet our need for outreach.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0
 3442,3443,I just don't know if I really fit in around here.,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0
 3443,3444,These empathy exercises are productivity killers.,1.1917808219178083,0.04639817678744647,73.0,59.0,14.0,0.0
 3444,3445,"Welcome to the newspaper, do you know morse code?",1.1917808219178083,0.05033198101609266,73.0,60.0,12.0,1.0
@@ -3622,7 +3622,7 @@
 3620,3621,You could say that we are a firm that has very tight boundaries on what ideas are allowed.,1.1830985915492958,0.05782739582776625,71.0,61.0,7.0,3.0
 3621,3622,Where do you see yourself five years from now?,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3622,3623,What do you like to do for fun?,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
-3623,3624,We're trying to run this asylum with both hands tied behind our backs.,1.173913043478261,0.061788220580689064,69.0,61.0,4.0,4.0
+3623,3624,We're trying to run this asylum with both hands tied behind our backs.,1.173913043478261,0.06178822058068905,69.0,61.0,4.0,4.0
 3624,3625,"No, your experience at this firm will not be boundless.",1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3625,3626,This sure beats working.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3626,3627,You'd be surprised how much time I had in there to work on my degree.,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
@@ -3693,7 +3693,7 @@
 3691,3692,"I know you'll understand me, so I'll give it to you straight.",1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3692,3693,"The jacket's comfortable, but I'm not crazy about the name, ""One Flew Over the Cuckoo's Desk.""",1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3693,3694,You do have good posture.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
-3694,3695,How did we survive before Casual Fridays?,1.173913043478261,0.061788220580689064,69.0,61.0,4.0,4.0
+3694,3695,How did we survive before Casual Fridays?,1.173913043478261,0.06178822058068905,69.0,61.0,4.0,4.0
 3695,3696,"That time of the month for you too, huh?",1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3696,3697,this is for both our safety.,1.173913043478261,0.05823681604468384,69.0,60.0,6.0,3.0
 3697,3698,"We'd love to give you a raise, but unfortunately our hands are tied.",1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
@@ -3722,7 +3722,7 @@
 3720,3721,Does upper management seem a little insecure to you these days?,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3721,3722,"To be honest, I haven't been crazy about your work lately.",1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3722,3723,Oh - I've SO got this job in the bag!,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
-3723,3724,I just wonder if HR overreached in an effort to prevent violence in the workplace.,1.173913043478261,0.061788220580689064,69.0,61.0,4.0,4.0
+3723,3724,I just wonder if HR overreached in an effort to prevent violence in the workplace.,1.173913043478261,0.06178822058068905,69.0,61.0,4.0,4.0
 3724,3725,You should come on a Friday.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3725,3726,Hands were becoming offensive.,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3726,3727,"Paranoid schizophrenics can write their own ticket..that is, if they can loosen the straps",1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
@@ -3733,7 +3733,7 @@
 3731,3732,Well it takes a crazy to know a crazy,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3732,3733,I never thought I'd miss the glass ceiling.,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3733,3734,Looks like we are tied again.,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
-3734,3735,Which spoilers are you avoiding?,1.173913043478261,0.061788220580689064,69.0,61.0,4.0,4.0
+3734,3735,Which spoilers are you avoiding?,1.173913043478261,0.06178822058068905,69.0,61.0,4.0,4.0
 3735,3736,"Texting too much at work, eh?",1.173913043478261,0.045964707814862935,69.0,57.0,12.0,0.0
 3736,3737,Freedom of movement was not part of your job description.,1.173913043478261,0.045964707814862935,69.0,57.0,12.0,0.0
 3737,3738,"Well, I see this project has you tied up in knots, too.",1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
@@ -3765,7 +3765,7 @@
 3763,3764,I've heard next season is stunning.,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3764,3765,"Oh, I went there myself.",1.173913043478261,0.05823681604468384,69.0,60.0,6.0,3.0
 3765,3766,You've come to wrong person.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
-3766,3767,"Now that we're both in safe places, let's talk about how we survive the next four years.",1.173913043478261,0.061788220580689064,69.0,61.0,4.0,4.0
+3766,3767,"Now that we're both in safe places, let's talk about how we survive the next four years.",1.173913043478261,0.06178822058068905,69.0,61.0,4.0,4.0
 3767,3768,...but it helps,1.173913043478261,0.05823681604468384,69.0,60.0,6.0,3.0
 3768,3769,"I'm sorry, but you're no Houdini.",1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3769,3770,I think I prefer the padded room to this.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
@@ -3782,7 +3782,7 @@
 3780,3781,"I'm sorry, I can't help you. My hands are tied.",1.173913043478261,0.05823681604468384,69.0,60.0,6.0,3.0
 3781,3782,Think of it as a mandate reminder to fit department policies within the new administration's 140 character limit.,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3782,3783,why were we so sure Trump didn't have a chance?,1.173913043478261,0.05823681604468384,69.0,60.0,6.0,3.0
-3783,3784,now that we've established the boundaries tell me: what do you think of my performance as your boss and manager.,1.173913043478261,0.061788220580689064,69.0,61.0,4.0,4.0
+3783,3784,now that we've established the boundaries tell me: what do you think of my performance as your boss and manager.,1.173913043478261,0.06178822058068905,69.0,61.0,4.0,4.0
 3784,3785,Well this is certainly the most interesting performance review I've been a part of.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3785,3786,Someone must think we're both strait.,1.173913043478261,0.05823681604468384,69.0,60.0,6.0,3.0
 3786,3787,Let's get straight to the point,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
@@ -3797,7 +3797,7 @@
 3795,3796,Just be straight with me.,1.173913043478261,0.045964707814862935,69.0,57.0,12.0,0.0
 3796,3797,This way we avoid all legal liability questions. I clearly have no physical contact with you.,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3797,3798,If you think this is bad wait until your 401K vests.,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
-3798,3799,We're going to make America great again!,1.173913043478261,0.061788220580689064,69.0,61.0,4.0,4.0
+3798,3799,We're going to make America great again!,1.173913043478261,0.06178822058068905,69.0,61.0,4.0,4.0
 3799,3800,This job can be stressful at times! Are you capable of handling stress well?,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3800,3801,I feel this eliminates unnecessary gestures.,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3801,3802,"Knot to be outdone, Clarissa smugly taps her feet!",1.173913043478261,0.05823681604468384,69.0,60.0,6.0,3.0
@@ -3817,14 +3817,14 @@
 3815,3816,I'm straight. Are you straight?,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3816,3817,"What makes you feel you are qualified to work at Fetishes ""R"" Us?",1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3817,3818,I'm all tied up this week.,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
-3818,3819,"You're right, we shouldn't have let the patient jacket us first.",1.173913043478261,0.061788220580689064,69.0,61.0,4.0,4.0
+3818,3819,"You're right, we shouldn't have let the patient jacket us first.",1.173913043478261,0.06178822058068905,69.0,61.0,4.0,4.0
 3819,3820,Give it to me straight. Don't sugarcoat it.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3820,3821,"As you can plainly see, our hands are tied.",1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3821,3822,At my last job we weren't allowed to talk -- I think I like this better.,1.173913043478261,0.045964707814862935,69.0,57.0,12.0,0.0
 3822,3823,These new EPA uniforms aren't all that bad.,1.173913043478261,0.05823681604468384,69.0,60.0,6.0,3.0
 3823,3824,I don't understand why you feel so limited.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3824,3825,I'm just going to tell it to you straight.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
-3825,3826,"We're here to suss out whether your ""fit to be tied"" is a fit to be tied that's right for the company.",1.173913043478261,0.061788220580689064,69.0,61.0,4.0,4.0
+3825,3826,"We're here to suss out whether your ""fit to be tied"" is a fit to be tied that's right for the company.",1.173913043478261,0.06178822058068905,69.0,61.0,4.0,4.0
 3826,3827,"Look, Mom, no hands",1.173913043478261,0.05823681604468384,69.0,60.0,6.0,3.0
 3827,3828,I'm afraid you're not the right candidate for a hands-on job.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3828,3829,Alice and Fred conduct their first text-free meeting.,1.173913043478261,0.05823681604468384,69.0,60.0,6.0,3.0
@@ -3853,7 +3853,7 @@
 3851,3852,Cheer up! You've got the job!,1.173913043478261,0.054454286181317306,69.0,59.0,8.0,2.0
 3852,3853,"I like your shoes, where di you buy them?",1.173913043478261,0.05823681604468384,69.0,60.0,6.0,3.0
 3853,3854,We're looking for a high-energy person who plays it close to her chest.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
-3854,3855,On this deal I'll scratch your back if you scratch mine.,1.173913043478261,0.061788220580689064,69.0,61.0,4.0,4.0
+3854,3855,On this deal I'll scratch your back if you scratch mine.,1.173913043478261,0.06178822058068905,69.0,61.0,4.0,4.0
 3855,3856,"Don't worry, a restraining order is just a piece of paper.",1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3856,3857,We all have knotty problems. Yours are just a little worse than most.,1.173913043478261,0.05823681604468384,69.0,60.0,6.0,3.0
 3857,3858,Its so we can both feel safe.,1.173913043478261,0.05823681604468384,69.0,60.0,6.0,3.0
@@ -3865,7 +3865,7 @@
 3863,3864,This company believes in strait talk.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3864,3865,Computers will free us.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3865,3866,I like you because we have so much in common.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
-3866,3867,"Coincidentally, I see we're both experienced in airline baggage complaints.",1.173913043478261,0.061788220580689064,69.0,61.0,4.0,4.0
+3866,3867,"Coincidentally, I see we're both experienced in airline baggage complaints.",1.173913043478261,0.06178822058068905,69.0,61.0,4.0,4.0
 3867,3868,Glad you find the work liberating.,1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
 3868,3869,"But, will it appeal to violently insane millennials?",1.173913043478261,0.05823681604468384,69.0,60.0,6.0,3.0
 3869,3870,"Yes, absolutely: work within the system to bring about change.",1.173913043478261,0.05038860807773185,69.0,58.0,10.0,1.0
@@ -4485,7 +4485,7 @@
 4483,4484,"This is keeping us off our cell phones, but I can't get any work done.",1.1384615384615384,0.04842183966159297,65.0,57.0,7.0,1.0
 4484,4485,I'm not too worried about the glass ceiling just now.,1.1384615384615384,0.043172969847391635,65.0,56.0,9.0,0.0
 4485,4486,"So, now, give it to me. Strait.",1.1363636363636365,0.06063519113434977,66.0,61.0,1.0,4.0
-4486,4487,Dress rehearsal for Jan 19 when social mobility becomes extinct.,1.1363636363636365,0.056660620696376625,66.0,60.0,3.0,3.0
+4486,4487,Dress rehearsal for Jan 19 when social mobility becomes extinct.,1.1363636363636365,0.05666062069637664,66.0,60.0,3.0,3.0
 4487,4488,Houdini would love this.,1.1363636363636365,0.042565532289603344,66.0,57.0,9.0,0.0
 4488,4489,Employees say they appreciate our flexible hours.,1.1363636363636365,0.04772866020849245,66.0,58.0,7.0,1.0
 4489,4490,Your productivity for the last quarter is down but at least you seem to have accommodated to the new dress code.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0
@@ -4664,10 +4664,10 @@
 4662,4663,It's part of our new Upward Bound program.,1.126984126984127,0.04795918799660978,63.0,56.0,6.0,1.0
 4663,4664,I was told you were fully-clothed and a little bit sane at the office party. What was THAT about?,1.126984126984127,0.0530293926364563,63.0,57.0,4.0,2.0
 4664,4665,WHERE IS HOUDINI WHEN YOU NEED HIM?,1.125,0.0472455591261534,64.0,57.0,6.0,1.0
-4665,4666,"Yes, now I'm more comfortable now",1.125,0.04166666666666666,64.0,56.0,8.0,0.0
-4666,4667,"I'm known as a real fanatic in our hands-free tech division, but I've been asked to show some restraint.",1.125,0.04166666666666666,64.0,56.0,8.0,0.0
-4667,4668,"I'm glad that you are in full agreement with our hands-off doctrine. Oh, and welcome to the Libertarian party.",1.125,0.04166666666666666,64.0,56.0,8.0,0.0
-4668,4669,Break time was the least favorite activity at the Houdini School of Magic.,1.125,0.04166666666666666,64.0,56.0,8.0,0.0
+4665,4666,"Yes, now I'm more comfortable now",1.125,0.041666666666666664,64.0,56.0,8.0,0.0
+4666,4667,"I'm known as a real fanatic in our hands-free tech division, but I've been asked to show some restraint.",1.125,0.041666666666666664,64.0,56.0,8.0,0.0
+4667,4668,"I'm glad that you are in full agreement with our hands-off doctrine. Oh, and welcome to the Libertarian party.",1.125,0.041666666666666664,64.0,56.0,8.0,0.0
+4668,4669,Break time was the least favorite activity at the Houdini School of Magic.,1.125,0.041666666666666664,64.0,56.0,8.0,0.0
 4669,4670,"In this company, it's every man for himself.",1.125,0.0472455591261534,64.0,57.0,6.0,1.0
 4670,4671,Straight-jackets are in this year.,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0
 4671,4672,I'm going to give it to you straight.,1.1194029850746268,0.049976874162139404,67.0,61.0,4.0,2.0
@@ -4858,96 +4858,96 @@
 4856,4857,"Now, we can be civil.",1.1111111111111112,0.04588053629154689,63.0,57.0,5.0,1.0
 4857,4858,So if you spend thousands of dollars on therapy you might be able to graduate to one strap just like me!,1.1111111111111112,0.04588053629154689,63.0,57.0,5.0,1.0
 4858,4859,We are both bound in our place in the pecking order,1.1111111111111112,0.04588053629154689,63.0,57.0,5.0,1.0
-4859,4860,I don't seem to be getting as much work done although it's been very effective in cutting down on my computer time.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4860,4861,What I love about this company is that they really encourage creative thinking - you never feel like you're in an intellectual straitjacket.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4861,4862,""" We are almost done with the interview....just need to tie up a few loose ends"" !",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4862,4863,"The president-elect's tweets are driving you mad too, huh?",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4863,4864,Well---it is responsible for the removal of sexual inequality from the workplace…,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4859,4860,I don't seem to be getting as much work done although it's been very effective in cutting down on my computer time.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4860,4861,What I love about this company is that they really encourage creative thinking - you never feel like you're in an intellectual straitjacket.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4861,4862,""" We are almost done with the interview....just need to tie up a few loose ends"" !",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4862,4863,"The president-elect's tweets are driving you mad too, huh?",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4863,4864,Well---it is responsible for the removal of sexual inequality from the workplace…,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4864,4865,"I know this sounds crazy, but our department is shrinking.",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4865,4866,"I hope the DOD employee who leaked the ""$125 billion bureaucratic waste"" report is pleased with himself now.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4865,4866,"I hope the DOD employee who leaked the ""$125 billion bureaucratic waste"" report is pleased with himself now.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4866,4867,"Straightjackets are easy. Watch me get out, and get Houdini on Skype, and Snapchat the whole thing!",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4867,4868,You're fired!,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4868,4869,"Believe me, I understand completely, but my hands are tied on this.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4868,4869,"Believe me, I understand completely, but my hands are tied on this.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4869,4870,"Then this HR guy says, ""Well, can they perform just as well backwards, in heels and...""",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4870,4871,"""We are in agreement!Till the recount of the votes is completed.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4870,4871,"""We are in agreement!Till the recount of the votes is completed.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4871,4872,sexual harassment wasn't all that bad,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4872,4873,This jacket makes you feel all warm inside. Doesn't it?,1.1,0.05153025549750763,60.0,56.0,2.0,2.0
-4873,4874,"Dinner--your padded cell, or mine?",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4874,4875,"So tell me, do you think our team bondage efforts are helping with productivity?",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4875,4876,"So, due to budget cuts, we're doing more with less...SANITY!",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4876,4877,And with the addition of an elephant or donkey imprint we can make it a political statement!,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4873,4874,"Dinner--your padded cell, or mine?",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4874,4875,"So tell me, do you think our team bondage efforts are helping with productivity?",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4875,4876,"So, due to budget cuts, we're doing more with less...SANITY!",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4876,4877,And with the addition of an elephant or donkey imprint we can make it a political statement!,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4877,4878,You do realize that just because you'll be crashing through the glass ceiling doesn't mean they'll let you join their club.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4878,4879,No more Cyber bullying or Tweet revenge. It must be a Trump advisor.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4879,4880,"Your qualifications are quite impressive, but I am looking for someone with more complimentary abilities.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4880,4881,Meetings are never fun for anyone.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4879,4880,"Your qualifications are quite impressive, but I am looking for someone with more complimentary abilities.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4880,4881,Meetings are never fun for anyone.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4881,4882,Just let your feet do the talking...,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4882,4883,"Welcome to ACME Sales, I see HR has informed you we only use a voice activated computers programs here .",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4883,4884,"I wish I could turn the computer screen toward you so we could both watch the magician's instructional escape video, but my hands are tied.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4884,4885,Watch carefully and I'll show you my latest Houdini moves.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4885,4886,Stronger Together will live in infamy.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4886,4887,Now THAT'S just crazy talk.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4887,4888,The robots just emailed me their list of demands. They said this isn't illegal since the law doesn't apply to them.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4888,4889,Do you feel like this project is driving you crazy?,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4883,4884,"I wish I could turn the computer screen toward you so we could both watch the magician's instructional escape video, but my hands are tied.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4884,4885,Watch carefully and I'll show you my latest Houdini moves.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4885,4886,Stronger Together will live in infamy.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4886,4887,Now THAT'S just crazy talk.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4887,4888,The robots just emailed me their list of demands. They said this isn't illegal since the law doesn't apply to them.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4888,4889,Do you feel like this project is driving you crazy?,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4889,4890,I don't think this is the same Escape Game we played the last time.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4890,4891,Explain again how my micromanaging affects work performance?,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4891,4892,"Apparently, the truth will NOT set you free during office hours.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4890,4891,Explain again how my micromanaging affects work performance?,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4891,4892,"Apparently, the truth will NOT set you free during office hours.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4892,4893,I wish they'd turn the heat on already,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4893,4894,In this new Administration we believe in promoting from within.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4893,4894,In this new Administration we believe in promoting from within.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4894,4895,"If you can mentally undress me first, you win!",1.1,0.05153025549750763,60.0,56.0,2.0,2.0
-4895,4896,I'd love to keep you on Dawn but my hands are tied.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4896,4897,This focus on face time isn't working out.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4895,4896,I'd love to keep you on Dawn but my hands are tied.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4896,4897,This focus on face time isn't working out.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4897,4898,"""Let me guess, no need to talk because you understand me"".",1.1,0.05153025549750763,60.0,56.0,2.0,2.0
-4898,4899,You've come to the right place. I have voice command software and know just how you feel!,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4898,4899,You've come to the right place. I have voice command software and know just how you feel!,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4899,4900,"My hands are tied as well ,so, your move.",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4900,4901,"Well Hellen as your boss, here we embrace a ""locked door"" policy",1.1,0.05153025549750763,60.0,56.0,2.0,2.0
 4901,4902,These are wonderful. I'm ordering three pairs for Christmas!,1.1,0.05153025549750763,60.0,56.0,2.0,2.0
-4902,4903,What would you say it's your greatest strength?,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4903,4904,"Our hands are tied, but we'll try again.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4904,4905,My guru says this computer abstinence therapy really works.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4902,4903,What would you say it's your greatest strength?,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4903,4904,"Our hands are tied, but we'll try again.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4904,4905,My guru says this computer abstinence therapy really works.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4905,4906,Feel free to recount all of our ballots by hand Mrs. Stein.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4906,4907,"They wanted to keep me at my old job, but their hands were tied.",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4907,4908,At least we cut through all the red tape.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4908,4909,"I certainly don’t think you over-reacted to the Cubbie victory, but tell me about it in your own words. We have a South-sider who’ll type up my report.",1.1,0.05153025549750763,60.0,56.0,2.0,2.0
 4909,4910,Hands up I did not do it.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4910,4911,Maybe we should reconsider our branding.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4910,4911,Maybe we should reconsider our branding.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4911,4912,"Yes, we do encourage one to think outside the box.",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4912,4913,"At HUD2017.DoctorCarson/SmallGov we practice ""NeverEver handouts!"" They encourage dependency and discourage recipients from attending Medical School.",1.1,0.05153025549750763,60.0,56.0,2.0,2.0
-4913,4914,We got tied of dress down Fridays.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4914,4915,"First one to get free, gets the rest of the day off.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4915,4916,"...so that Mrs. Williams, is when I read Camus.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4916,4917,"Aerodynamically, is easier to break the glass ceiling.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4913,4914,We got tied of dress down Fridays.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4914,4915,"First one to get free, gets the rest of the day off.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4915,4916,"...so that Mrs. Williams, is when I read Camus.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4916,4917,"Aerodynamically, is easier to break the glass ceiling.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4917,4918,Thanks for the suggestion but let's keep doing the same thing over and over again.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4918,4919,"""You're crazy"" "" No you're crazy"" "" No you're crazy"".............",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4918,4919,"""You're crazy"" "" No you're crazy"" "" No you're crazy"".............",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4919,4920,"My nose itches, does your?",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4920,4921,"Although the company is thrilled with your work here in the customer complaint department, we think your real future is in repair scheduling.",1.1,0.05153025549750763,60.0,56.0,2.0,2.0
 4921,4922,This company dress code for women certainly does ensure that their glass ceiling will stay intact.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4922,4923,"We use this to test prospective employees. However, those who fail the test can also be considered for a position in HR.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4923,4924,our company is looking for individuals who believe in freedom of speech while their hands are tied...,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4922,4923,"We use this to test prospective employees. However, those who fail the test can also be considered for a position in HR.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4923,4924,our company is looking for individuals who believe in freedom of speech while their hands are tied...,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4924,4925,I hope you don't mind but these have become mandatory for conflict resolution at the department of motor vehicles.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4925,4926,"I don't mind the straitjacket, but a RED CARD, really !",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4926,4927,Welcome to FedEX!,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4927,4928,"I vowed to do a face to face interview, are you comfortable?",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4928,4929,"Yes, we've risen high in management, but I defy anyone to call us stuffed shirts.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4929,4930,"Sorry, but the boss said I'd be crazy to make you that offer, and you'd be even crazier to turn it down.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4928,4929,"Yes, we've risen high in management, but I defy anyone to call us stuffed shirts.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4929,4930,"Sorry, but the boss said I'd be crazy to make you that offer, and you'd be even crazier to turn it down.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4930,4931,This is the only way to deal with the election.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4931,4932,"If only we were not restrained, we are bound to get it right!",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4932,4933,We think all of you on that chair will be a good fit with all of us here at this desk.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4932,4933,We think all of you on that chair will be a good fit with all of us here at this desk.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4933,4934,Your turn.,1.1,0.05153025549750763,60.0,56.0,2.0,2.0
-4934,4935,"This is an off-shoot of the ""Blind Leading the Blind"" therapy.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4935,4936,Then the big D and the little d made their get-a-way.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4934,4935,"This is an off-shoot of the ""Blind Leading the Blind"" therapy.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4935,4936,Then the big D and the little d made their get-a-way.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4936,4937,What is it you don't trust about our new transparency initiative?,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4937,4938,"Listen, I'm only here to help. Why do find it necessary to project your feelings of powerlessness onto me.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4938,4939,I feel like the company may have taken ergonomics just a step too far.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4937,4938,"Listen, I'm only here to help. Why do find it necessary to project your feelings of powerlessness onto me.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4938,4939,I feel like the company may have taken ergonomics just a step too far.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4939,4940,I can't believe we get roped into this comedy magic show.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4940,4941,I didn't hear you.,1.1,0.05153025549750763,60.0,56.0,2.0,2.0
-4941,4942,It's always like this around the holidays.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4942,4943,"OK, I'll tell it to you straight.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4941,4942,It's always like this around the holidays.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4942,4943,"OK, I'll tell it to you straight.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4943,4944,And we supply female employees extra protection for glass ceiling collisions,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4944,4945,"Once our probationary period ends, I'm sure working at Houdini Inc. will be wonderful.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4944,4945,"Once our probationary period ends, I'm sure working at Houdini Inc. will be wonderful.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4945,4946,"Yes, we all had high hopes for the glass ceiling, but let's get back to the interview... Do you have children?",1.1,0.05153025549750763,60.0,56.0,2.0,2.0
-4946,4947,Pense thinks we should have morning jackets.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4946,4947,Pense thinks we should have morning jackets.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4947,4948,"Yes, we can see your insane, but we're looking for someone more certified in this line if work.",1.1,0.05153025549750763,60.0,56.0,2.0,2.0
-4948,4949,"The jacket? No, no, no... it's definitely the meditation.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4948,4949,"The jacket? No, no, no... it's definitely the meditation.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4949,4950,Your professional and personal profile are a perfect match for a Cabinet position.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4950,4951,"Patient 1: I can't believe they think we're psychopaths! Patient 2: I can't believe they thought that putting us in ""straight""jackets would stop us from being gay!",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4951,4952,The pen is mightier than the sword. The voice is mightier than the keyboard.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
@@ -4955,14 +4955,14 @@
 4953,4954,"Look, I'd hire you, but I like this job, and well, you being double-jointed and all..,",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4954,4955,"He said 'nobody respects women more than me.' I didn't expect this, either.",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4955,4956,Lesson learned.,1.1,0.05153025549750763,60.0,56.0,2.0,2.0
-4956,4957,At least you get to watch a movie.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4956,4957,At least you get to watch a movie.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4957,4958,Is there an app for this?,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4958,4959,Soooo… do you ever wonder what the gay jackets look like?,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4959,4960,"I've lost six pounds, but date nights are getting woo-hoo.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4958,4959,Soooo… do you ever wonder what the gay jackets look like?,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4959,4960,"I've lost six pounds, but date nights are getting woo-hoo.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4960,4961,We like our people to be completely self-reliant. Does that sound like you?,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4961,4962,His Tweets are so liberating.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4961,4962,His Tweets are so liberating.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4962,4963,I see you already know its casual Friday here today.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4963,4964,Binding ties to ask SIRI to help,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4963,4964,Binding ties to ask SIRI to help,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4964,4965,These designer clothes are getting too confining,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4965,4966,I see in you a hallucination of myself from when I first started with this company.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4966,4967,Are you gay or strait?,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
@@ -4970,154 +4970,154 @@
 4968,4969,First thing is first. Welcome to Escapology Anonymous. Glad to see that you made it here this morning.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4969,4970,on the contrary its a prerequisite for any job in this administration,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4970,4971,I hear some of the inmates are trying to start a union.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4971,4972,The APA sees strong promise in this empathy therapy breakthrough.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4971,4972,The APA sees strong promise in this empathy therapy breakthrough.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4972,4973,I think we are getting too wrapped up in this psychiatric thing.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4973,4974,I thought you said it was 'finger' trap.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4974,4975,"I like your new shirt design, but the sleeves seem a bit long.",1.1,0.05153025549750763,60.0,56.0,2.0,2.0
 4975,4976,I'll be strait with you; the hours are crazy.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4976,4977,Have we taken 'embodying discipline' a bit far?,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4977,4978,Do you have any loose ends.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4977,4978,Do you have any loose ends.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4978,4979,I've learned to talk without hands!,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4979,4980,"Strait talk, please",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4980,4981,So you don’t buy into this ‘work/life balance’ baloney either.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4981,4982,"Don't tell me you can't do the job; I'm tied up, too.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4980,4981,So you don’t buy into this ‘work/life balance’ baloney either.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4981,4982,"Don't tell me you can't do the job; I'm tied up, too.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4982,4983,GOP straight jacket test.,1.1,0.05153025549750763,60.0,56.0,2.0,2.0
 4983,4984,....and I promise not to swivel,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4984,4985,We don't believe in hands on in this office. So I think you are hired.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4984,4985,We don't believe in hands on in this office. So I think you are hired.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4985,4986,It's only in the Government that they use RED tape,1.1,0.05153025549750763,60.0,56.0,2.0,2.0
-4986,4987,"Our 'fit to be tied' fashion line is killing productivity, but damn if we don't look good",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4987,4988,We should get this recount started ASAP.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4988,4989,Time for straight talk,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4986,4987,"Our 'fit to be tied' fashion line is killing productivity, but damn if we don't look good",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4987,4988,We should get this recount started ASAP.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4988,4989,Time for straight talk,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4989,4990,Lets keep it verbal next time.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4990,4991,My assistant takes seriously my request to help prevent me from checking my phone during meetings.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4991,4992,This interview may be recorded for quality assurance.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4990,4991,My assistant takes seriously my request to help prevent me from checking my phone during meetings.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4991,4992,This interview may be recorded for quality assurance.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 4992,4993,"After the accident, HR outlawed trust falls.",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4993,4994,Mine is from the Yeezy Spring Collection,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4994,4995,I hear this is what all of Kanye's runway models are wearing.,1.1,0.05153025549750763,60.0,56.0,2.0,2.0
 4995,4996,I agree: these classic workplace rules are so constraining.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4996,4997,We're lucky here. When you work late you can see the stars through the glass ceiling.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 4997,4998,"I Know. I voted for myself, too...",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-4998,4999,Plenty of upward mobility.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-4999,5000,So what brings you to the Academy of Knots?,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-5000,5001,... and your Klout score?,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+4998,4999,Plenty of upward mobility.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+4999,5000,So what brings you to the Academy of Knots?,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+5000,5001,... and your Klout score?,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 5001,5002,"As a company, we're all about releasing each person's internal potential.",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 5002,5003,Satisfied?! Now neither of us can Skype with the aardvark.,1.1,0.05153025549750763,60.0,56.0,2.0,2.0
 5003,5004,I'll scratch your nose if you'll scratch mine.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-5004,5005,The jacket's a good fit but we're looking for someone who likes to work with their hands.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+5004,5005,The jacket's a good fit but we're looking for someone who likes to work with their hands.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 5005,5006,"I got mine at the Designer Warehouse, where did you get yours?",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-5006,5007,"Thank you though, but in this office we prefer Forward Tunic.""",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-5007,5008,You've got me out stripped.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-5008,5009,This sit-down strike isn't working because we don't have press coverage - our hands are tied.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-5009,5010,"Well, it was this or chain the stationery to the desk.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-5010,5011,"I always thought the ""sweeping gesture"" thing was overrated.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-5011,5012,"I'm sorry Ms. Oronica, as you can see, our hands are tied.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+5006,5007,"Thank you though, but in this office we prefer Forward Tunic.""",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+5007,5008,You've got me out stripped.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+5008,5009,This sit-down strike isn't working because we don't have press coverage - our hands are tied.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+5009,5010,"Well, it was this or chain the stationery to the desk.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+5010,5011,"I always thought the ""sweeping gesture"" thing was overrated.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+5011,5012,"I'm sorry Ms. Oronica, as you can see, our hands are tied.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 5012,5013,I won't be taking notes this session. I just realized I'm just as crazy up as you are.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-5013,5014,"Doctor, Do you honestly feel my pain?",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-5014,5015,Maybe Google can tell us how Houdini got out of these things!,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-5015,5016,Jane. I do believe you have a great future at Simon Says Inc.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+5013,5014,"Doctor, Do you honestly feel my pain?",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+5014,5015,Maybe Google can tell us how Houdini got out of these things!,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+5015,5016,Jane. I do believe you have a great future at Simon Says Inc.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 5016,5017,"Here we wrap presents, but sometimes we over do it.",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 5017,5018,I understand your hands are tied but we still need to meet our goals,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 5018,5019,"I'd like to make another appointment, but we're both obviously tied up--",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-5019,5020,I don't think this conversion therapy is working.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-5020,5021,"Yes, I think this will stop Mr. Wilson.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-5021,5022,"Escapologists Anonymous, has a get-out clause at Christmas, it's also known as the Sanity Claus.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-5022,5023,"As you see, being nuts doesn't help working here. Typing with my nose is a real pain.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+5019,5020,I don't think this conversion therapy is working.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+5020,5021,"Yes, I think this will stop Mr. Wilson.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+5021,5022,"Escapologists Anonymous, has a get-out clause at Christmas, it's also known as the Sanity Claus.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+5022,5023,"As you see, being nuts doesn't help working here. Typing with my nose is a real pain.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 5023,5024,"Call me crazy, but isn't this taking budgetary restraint to the extreme?",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 5024,5025,What I like best about this job is you don’t have to kill yourself to get ahead.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 5025,5026,These new protocols are impossible.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-5026,5027,Golden handcuffs were an early victim of the budget cuts.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-5027,5028,But they said they wanted us to disrupt.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+5026,5027,Golden handcuffs were an early victim of the budget cuts.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+5027,5028,But they said they wanted us to disrupt.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 5028,5029,"Yes, I think you'll enjoy the culture here at Amazon.",1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-5029,5030,Have we met before?,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-5030,5031,"I believe we both favor immediate action, however, it seems our hands are tied.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
-5031,5032,"In order to get paid maternity leave, we had to make a few concessions.",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+5029,5030,Have we met before?,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+5030,5031,"I believe we both favor immediate action, however, it seems our hands are tied.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
+5031,5032,"In order to get paid maternity leave, we had to make a few concessions.",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 5032,5033,I too used to be gay,1.1,0.05153025549750763,60.0,56.0,2.0,2.0
 5033,5034,Our cash flow is currently hindered as literally all of our assets are completely tied up.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-5034,5035,He said he wished I could be more spontaneous.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+5034,5035,He said he wished I could be more spontaneous.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 5035,5036,Help me run for the presidency?,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 5036,5037,Since he changed the nuke-launch code to three zeroes we just have to live with it.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-5037,5038,"Let's get things strait between us, shall we?",1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+5037,5038,"Let's get things strait between us, shall we?",1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 5038,5039,Now you're just being a jerk.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 5039,5040,I know it's tough but keeping you from pulling your hair should allow you to have a hairdo like mine,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
 5040,5041,The boss did say he was going to set me strait.,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-5041,5042,There IS a lot to be said for straight talk.,1.1,0.039056673294247134,60.0,54.0,6.0,0.0
+5041,5042,There IS a lot to be said for straight talk.,1.1,0.03905667329424714,60.0,54.0,6.0,0.0
 5042,5043,I'm not crazy about your references,1.1,0.04572084295183091,60.0,55.0,4.0,1.0
-5043,5044,"Yes, I do like to approach my work with a great deal of utter abandon.",1.098360655737705,0.044994948306533084,61.0,56.0,4.0,1.0
-5044,5045,It looks like we are going to need to up your dosage.,1.098360655737705,0.044994948306533084,61.0,56.0,4.0,1.0
+5043,5044,"Yes, I do like to approach my work with a great deal of utter abandon.",1.098360655737705,0.04499494830653309,61.0,56.0,4.0,1.0
+5044,5045,It looks like we are going to need to up your dosage.,1.098360655737705,0.04499494830653309,61.0,56.0,4.0,1.0
 5045,5046,"To be frank, you're a bit overqualified.",1.098360655737705,0.03844603081822478,61.0,55.0,6.0,0.0
-5046,5047,Let's get straight to the point,1.098360655737705,0.044994948306533084,61.0,56.0,4.0,1.0
+5046,5047,Let's get straight to the point,1.098360655737705,0.04499494830653309,61.0,56.0,4.0,1.0
 5047,5048,Which pie did you put your finger in?,1.098360655737705,0.03844603081822478,61.0,55.0,6.0,0.0
-5048,5049,"Unfortunately, I have to untie you.",1.098360655737705,0.044994948306533084,61.0,56.0,4.0,1.0
+5048,5049,"Unfortunately, I have to untie you.",1.098360655737705,0.04499494830653309,61.0,56.0,4.0,1.0
 5049,5050,"I'd shake your hand, but I'm a germaphobe.",1.098360655737705,0.03844603081822478,61.0,55.0,6.0,0.0
 5050,5051,"Well here at Constraint Based Therapies , you'll find our mental health policies very inclusive. Can you nose type ?",1.098360655737705,0.03844603081822478,61.0,55.0,6.0,0.0
 5051,5052,Being into bondage is a plus.,1.098360655737705,0.03844603081822478,61.0,55.0,6.0,0.0
 5052,5053,First I want to say I appreciate your open door policy.,1.0967741935483872,0.03785410929280441,62.0,56.0,6.0,0.0
 5053,5054,"""Needless to say, all future negotiations will be binding.""Submit2me",1.0862068965517242,0.05091113426974493,58.0,55.0,1.0,2.0
-5054,5055,New management tactic; trying to straighten us all out indiscriminately.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5055,5056,"On the other hand, they're dialing back on the social media filters.",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5056,5057,See! Not so easy when you put yourself in my restraint.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5057,5058,Blah blah blah Donald Trump sucks blah blah blah.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5054,5055,New management tactic; trying to straighten us all out indiscriminately.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5055,5056,"On the other hand, they're dialing back on the social media filters.",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5056,5057,See! Not so easy when you put yourself in my restraint.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5057,5058,Blah blah blah Donald Trump sucks blah blah blah.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5058,5059,New company dress code. The boss is a big fan of Mike Pence.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5059,5060,"Wow, this place is so secure they had the psychiatrist Skype us.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5060,5061,"I can completely sympathize with you, but I'm not quite sure that I can believe a story like that.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5061,5062,"The position requires zero gesticulation. If you can keep your face, legs and feet still, you have the job.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5062,5063,"Ever since our technical team devised these special 'digital devices safe' suits for meetings, the productivity and happiness index of our staff has gone up",1.0862068965517242,0.05091113426974493,58.0,55.0,1.0,2.0
-5063,5064,The new CEO came up through the IT department. Have we effectively eliminated computer viruses? Yes. But I believe there's been a downside.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5063,5064,The new CEO came up through the IT department. Have we effectively eliminated computer viruses? Yes. But I believe there's been a downside.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5064,5065,"Agreed. Change nothing, again. We're sure to have better results this time.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5065,5066,"I'd love to help you get a job here, but unfortunately my hands re tied.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5066,5067,I want to be strait with you: I get the feeling that you're holding back.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5067,5068,"I agree, working for Hannibal Lector can get scarry at times.",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5066,5067,I want to be strait with you: I get the feeling that you're holding back.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5067,5068,"I agree, working for Hannibal Lector can get scarry at times.",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5068,5069,"Personally, I think we're taking the whole Michael Jackson tribute a bit too far!!!",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5069,5070,So....how may I help you today?,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5069,5070,So....how may I help you today?,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5070,5071,"When we get outta here, I'm gonna give that Dernavich a piece of my mind.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5071,5072,Guess I'm caught between the moon and New York City.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5071,5072,Guess I'm caught between the moon and New York City.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5072,5073,My ardent belief in the Derridean philosophy of deconstruction will make me an asset in the fashion industry.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5073,5074,I should have worn this before it became popular.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5074,5075,"Look, in order for mediation to work, you have to show some movement.",1.0862068965517242,0.05091113426974493,58.0,55.0,1.0,2.0
 5075,5076,"Ok, now can we have a discussion about your salary?",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5076,5077,It's their obsessive-compulsives talent management program,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5076,5077,It's their obsessive-compulsives talent management program,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5077,5078,Houdini made it look easy!,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5078,5079,Gesticulating with our hands has gotten out of control!,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5078,5079,Gesticulating with our hands has gotten out of control!,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5079,5080,The lips are mightier than a pen.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5080,5081,"I know you brought me here to ask for my help, but as you can see, I'm tied up right now",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5081,5082,This is not what I expected when you got me to agree to conversion therapy!,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5082,5083,This is the uniform you'll wear if you get the job here at Hannibal Lecter Enterprises.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5083,5084,"Yes, we boomers are aware of what's trending.",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5083,5084,"Yes, we boomers are aware of what's trending.",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5084,5085,"We're an equal opportunity employer. Men are required to wear straight jackets and ties, except on dress-down Fridays when we're all topless.",1.0862068965517242,0.05091113426974493,58.0,55.0,1.0,2.0
 5085,5086,"The only way to untie our feelings is a handshake. You first. "" ""No, you first.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5086,5087,"That's what I thought when I interviewed here, too. Half a mill a year and points sound crazy to you?",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5087,5088,For this interview you've got me tongue tied,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5086,5087,"That's what I thought when I interviewed here, too. Half a mill a year and points sound crazy to you?",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5087,5088,For this interview you've got me tongue tied,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5088,5089,Reach out with your feelings.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5089,5090,We have a strong position against any form of workplace violence,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5090,5091,I don't think either one of us could pivot at this point.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5089,5090,We have a strong position against any form of workplace violence,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5090,5091,I don't think either one of us could pivot at this point.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5091,5092,I too thought the psychiatrist was asking about a Trait Bracket.,1.0862068965517242,0.05091113426974493,58.0,55.0,1.0,2.0
-5092,5093,"Congratulations! You've been selected as a finalist for ""Hands off Boss of the Year"" award.",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5093,5094,You must be crazy to think that this is a constraining work environment.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5092,5093,"Congratulations! You've been selected as a finalist for ""Hands off Boss of the Year"" award.",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5093,5094,You must be crazy to think that this is a constraining work environment.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5094,5095,I never dreamed I'd be this tangled up in my work.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5095,5096,"So, tell me why you’re interested in a career at Houdini Industries.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5096,5097,I thought it said Turtle coat Tuesdays ... apparently everyone else is wearing turtle necks,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5097,5098,"Me too!! I'm just so tied up, I feel like I'm going nuts!",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5096,5097,I thought it said Turtle coat Tuesdays ... apparently everyone else is wearing turtle necks,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5097,5098,"Me too!! I'm just so tied up, I feel like I'm going nuts!",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5098,5099,It's a standard part of the bureaucratic uniform.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5099,5100,Creativity in the work place.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5100,5101,I wish I could help you but our hands are tied!,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5099,5100,Creativity in the work place.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5100,5101,I wish I could help you but our hands are tied!,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5101,5102,We're hoping these catch on with kleptomaniacs.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5102,5103,Why? Because our couturier demands that we try out his latest designs.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5103,5104,Do you still think water-boarding would have been worse?,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5104,5105,I don't know anything about raising squid. If that's where this is going.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5105,5106,"Now that we're both safe, tell me how much you love me.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5106,5107,"Now, Mrs. Jones, we will both attempt to beat the fastest straitjacket escape time of 2.84 seconds by listening to a Trump tweet....",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5106,5107,"Now, Mrs. Jones, we will both attempt to beat the fastest straitjacket escape time of 2.84 seconds by listening to a Trump tweet....",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5107,5108,A coworker has brought to my attention the concern that you are failing your condition of employment to be a danger to yourself and others at all times.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5108,5109,You rub my back – I rub yours!,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5109,5110,"Susan, as you know, your final grade for the Houdini graduate seminar is based entirely on you getting out of the straigt jacket.",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5110,5111,"It takes one to know one, you know",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5109,5110,"Susan, as you know, your final grade for the Houdini graduate seminar is based entirely on you getting out of the straigt jacket.",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5110,5111,"It takes one to know one, you know",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5111,5112,"Our new business coach, Dr. Lecter, is a real control freak!",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5112,5113,"Well, I see you are tied up this week as well!",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5113,5114,Wow! GOOD for you! Your running the place now!,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5113,5114,Wow! GOOD for you! Your running the place now!,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5114,5115,"So that's my story, now you tell me, what is your reason for wanting to work at 'Crazy Lady Spa and Fitness?'",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5115,5116,"Well, as Branch Chief I'm still not allowed to speak but I do get a nicer office.",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5116,5117,Do you think they'll accept my late time sheet?,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5115,5116,"Well, as Branch Chief I'm still not allowed to speak but I do get a nicer office.",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5116,5117,Do you think they'll accept my late time sheet?,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5117,5118,Did you have to yell out my name while we were hacking?,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5118,5119,Your resume says you majored in Houdini Escape Reenactment?,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5118,5119,Your resume says you majored in Houdini Escape Reenactment?,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5119,5120,"As your career counselor, I think you should know that I feel threatened by your coming to me looking for a job placement.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5120,5121,I know... HR makes editorial do this every time we need to interact with the art/design department.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5121,5122,"I think we are taking the ""sit strait"" initiative too seriously.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
@@ -5126,67 +5126,67 @@
 5124,5125,Gina wonders why HR always sends her the loons,1.0862068965517242,0.05091113426974493,58.0,55.0,1.0,2.0
 5125,5126,I heard she hires in her own image.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5126,5127,"Contrary to popular belief, I am an ostrich.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5127,5128,Great idea for self restraints. Now we need to figure out a way to undo them.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5127,5128,Great idea for self restraints. Now we need to figure out a way to undo them.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5128,5129,WHAT ABOUT THE THEOREM THAT NOTHING IS LOST?,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5129,5130,"I'm glad you applied, we're looking for someone with a 'Houdini Complex.'",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5130,5131,Are you a poker or a grabber?,1.0862068965517242,0.05091113426974493,58.0,55.0,1.0,2.0
 5131,5132,Let's call a friend. Let's call Harry. OK.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5132,5133,If you think you are the only one whose hands are tied.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5132,5133,If you think you are the only one whose hands are tied.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5133,5134,"Well, we did shatter the glass ceiling, just like those Carrier workers got their jobs back.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5134,5135,I think HR has taken this violence in the workplace prevention a little too far,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5135,5136,I'm going for 5ive straight.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5136,5137,This is one of the new team building exercises.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5136,5137,This is one of the new team building exercises.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5137,5138,I was once rejected by Etsy too!,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5138,5139,Proof that I can move you with the my boot tip.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5139,5140,You spell Hamilton and I'll meow. We're bound to get someone to help.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5140,5141,"Stylistically, we prefer to keep things fairly 'straight' 'round here. Happy to see you're onboard.",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5140,5141,"Stylistically, we prefer to keep things fairly 'straight' 'round here. Happy to see you're onboard.",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5141,5142,This is a great company to work at. Nobody wants to leave.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5142,5143,Only a magician can get us out of this one.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5142,5143,Only a magician can get us out of this one.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5143,5144,"Is it just me, or do you agree, that we each did find the ties that together us will bind?",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5144,5145,"You are perfect for the position, but afraid there isn't much room for advancement.",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5145,5146,"Yeah, I think I'd categorize it as an iron-clad contract.",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5144,5145,"You are perfect for the position, but afraid there isn't much room for advancement.",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5145,5146,"Yeah, I think I'd categorize it as an iron-clad contract.",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5146,5147,"Well, Mr. President-Elect, I think I would fit right in.",1.0862068965517242,0.05091113426974493,58.0,55.0,1.0,2.0
 5147,5148,"""This will help train us to smile and nod politely on telepresence"".",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5148,5149,I know thangs are a little uptight here . . . .,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5148,5149,I know thangs are a little uptight here . . . .,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5149,5150,"You are certainly a good fit for this position, but I'm afraid the patriarchy has tied both our hands.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5150,5151,So far so good but how are you at languages?,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5150,5151,So far so good but how are you at languages?,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5151,5152,"The reimbursement code for countertransference is ""pickle.""",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5152,5153,"Nice to have it all wrapped up, isn't it?",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5152,5153,"Nice to have it all wrapped up, isn't it?",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5153,5154,"Get that report on my desk by Monday, eight months from now.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5154,5155,I do it to keep from scratching my eyes out when I see how this humorless 'artiste' has drawn me. You?,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5155,5156,"At this firm, we aim to hire individuals with visions",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5156,5157,"With your scientific credentials, I know we can find a place for you in the new administration's EPA.",1.0862068965517242,0.05091113426974493,58.0,55.0,1.0,2.0
 5157,5158,"Mama told me, ""Never turn your back on a professional man.""",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5158,5159,"TORTURE-R-US, Inc. tests its straight-jackets on Hillary voters, Houdini's granddaughters.",1.0862068965517242,0.05091113426974493,58.0,55.0,1.0,2.0
-5159,5160,HR will definitely have questions.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5159,5160,HR will definitely have questions.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5160,5161,"HR Room #5150 ""I see you found the place.""",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5161,5162,"Yes, management and labor are both feeling constrained by these new FLSA rules.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5162,5163,Be straight with me,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5163,5164,I got mine at the Yeezy Spring show.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5164,5165,"You may be tied up, but I'm insane.",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5163,5164,I got mine at the Yeezy Spring show.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5164,5165,"You may be tied up, but I'm insane.",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5165,5166,i bet you're a tight bitch too,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5166,5167,What? You expected a warm welcome?,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5167,5168,We do have our limitations.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5166,5167,What? You expected a warm welcome?,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5167,5168,We do have our limitations.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5168,5169,"Listen, I know this might sound a little hypocritical, but just give it to me straight.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5169,5170,I'd like to tap into your vast institutional knowledge.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5169,5170,I'd like to tap into your vast institutional knowledge.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5170,5171,"Doctor, heal thyself.",1.0862068965517242,0.05091113426974493,58.0,55.0,1.0,2.0
-5171,5172,Now that we're on the same page...,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5171,5172,Now that we're on the same page...,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5172,5173,"Ok, my turn...I see something....white!",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5173,5174,"Yeah, the higher-ups are harping on our productivity again.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5174,5175,"I'm not sure the ergonomic department's recommendation will do anything for productivity, but I feel very calm about it.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5175,5176,shes also tied up at work,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5176,5177,"We followed your plan and have taken over, now what?",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5177,5178,I really didn't think bondage would be like this.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5176,5177,"We followed your plan and have taken over, now what?",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5177,5178,I really didn't think bondage would be like this.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5178,5179,My conclusion is that my reverse psychology therapy is just not working for you.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5179,5180,I don't care that you need to get to Canada right away.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5180,5181,I hope you realize this does not end our office cyber relationship. I have voice to text commands enabled on all devices.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5181,5182,"Let us pray, Krishna: QWERTY, QWERTY....",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5182,5183,"Now,relax, and tell me what happened.",1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5182,5183,"Now,relax, and tell me what happened.",1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5183,5184,"Sorry, my parachute malfunctioned.",1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5184,5185,So you like that our PAC is all-female and pro-Trump. What else?,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
-5185,5186,Let's promise to always be straight with each other.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5186,5187,They're cheaper than the ergonomic chairs.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
-5187,5188,It was hard for Human Resources to get any work done during Empathy Week.,1.0862068965517242,0.037175559679984364,58.0,53.0,5.0,0.0
+5185,5186,Let's promise to always be straight with each other.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5186,5187,They're cheaper than the ergonomic chairs.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
+5187,5188,It was hard for Human Resources to get any work done during Empathy Week.,1.0862068965517242,0.03717555967998437,58.0,53.0,5.0,0.0
 5188,5189,I see you came prepared with Trump's anti-glass-ceiling-breakage jacket.,1.0862068965517242,0.04457558653653408,58.0,54.0,3.0,1.0
 5189,5190,"Now that we are constrained , tell me what you really think of me.",1.0847457627118644,0.0438379113795422,59.0,55.0,3.0,1.0
 5190,5191,I told you he couldn't change the libel laws.,1.0847457627118644,0.036569234859054715,59.0,54.0,5.0,0.0
@@ -5692,51 +5692,51 @@
 5690,5691,I'm waiting until Hillary runs in 2020!,1.037037037037037,0.02594089614712873,54.0,52.0,2.0,0.0
 5691,5692,"I like that management's trying to improve lifestyle, but this feels a little prescriptive",1.0363636363636364,0.02547377820791616,55.0,53.0,2.0,0.0
 5692,5693,"No emails, no cry.",1.0363636363636364,0.02547377820791616,55.0,53.0,2.0,0.0
-5693,5694,I see we're back to ring-around-the-posey.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5694,5695,We're downsizing..,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5695,5696,My psychiatrist has implored me to refer all my patients to him---immediately.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5696,5697,But I'm Gay?,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5697,5698,You look all ducted up.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5698,5699,"We're just tied up in our conversation, we'll be right out",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5699,5700,"Aren't we taking the ""safe space"" contest a little too far in this office lately?",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5700,5701,Your idea was just too creative. Straighten up fly right!,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5701,5702,"Tikami, who understand shoulders. Plus, the price works for me.",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5702,5703,To get along we need more like you in the company.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5703,5704,How can I throw my chair at her to show my assertiveness?,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5704,5705,"Our hands are tied; we have no choice but to try to appeal to the next generation of ""crazy"" kids",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5705,5706,Crazy is as crazy does,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5706,5707,You and I have a couple all-encompassing problems we have to straiten out!,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5707,5708,Who thought up personal use by management to create a better customer experience?,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5708,5709,"This online French course is hard. I think I get this ""Folie a deux,"" but I think we're going to have to do a ""menage a trois"" before we can move on to ""Voulez vous coucher avec moi ce soir.""",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5709,5710,"I'm sorry ma'am, I guess I don't really understand what our ""tying arrangement"" means...",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5710,5711,How are you doing today?,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5711,5712,"""Yep, you're dying."""" """"Jinx!""",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5712,5713,"I'd like to officially welcome you the corporate ""middle seat"" club.",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5713,5714,"Do you hear the requiem for the presidential election which took place in the U S in 2016?"" ""Yep, it has titled 'Of woman bondage'.",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5714,5715,We should have shown more restraint in telling the client their customers needed Social Media diapers.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5715,5716,"My dad called me gay, so I wore to prove him wrong.",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5716,5717,"I understand that ""all tied up in knots feeling very well"". We'll work on that during our first session..",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5717,5718,It would be so much easier to shake hands if we didn't have these straight jackets on!,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5718,5719,"Did you realize you were going 30,000 miles per hour in a school zone?",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5719,5720,Welcome to Indiana. You say you're from Texas?,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5720,5721,So are you tell me that you do not allow openly gay jackets?,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5721,5722,This job definitely isn't rocket science.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5722,5723,"Siri, grow arms.",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5723,5724,Do you know Robert Owen?,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5724,5725,It's called analog therapy.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5725,5726,It is the new mimic-photocopy theory of therapy.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5726,5727,Electroconvulsive therapy is not a spa treatment. Rubber boots is best.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5727,5728,I like how you dressed for the interview. As you know we have a very hands off approach to disciplinary problems in our H.R department.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5728,5729,"Ah, yes, Carlyle. There's a creed for humanity.",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5729,5730,OK. Perhaps we can restart the interview.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5730,5731,It's about what we can do and what men can get away with.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5731,5732,"If you had not left me dangling from the pole in our last team building event, we wouldn't be in the position now!",1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5732,5733,Fortunately I have a lot of influence in making you the first woman President.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5733,5734,I'm pretty tied up at the moment. The cheetoh-puff man sitting in the leader-chair did this.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5734,5735,Don't say a word but I think this is better than Marina Abromovic.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5735,5736,An applicant is interviewed for a job with the ISIS Suicide Prevention Hotline.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5736,5737,You're not leaving until you tell me about your laser surgery for your eyes.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
-5737,5738,We just started making plus size straight jackets this year.,1.0192307692307692,0.019418390934515438,52.0,51.0,1.0,0.0
+5693,5694,I see we're back to ring-around-the-posey.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5694,5695,We're downsizing..,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5695,5696,My psychiatrist has implored me to refer all my patients to him---immediately.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5696,5697,But I'm Gay?,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5697,5698,You look all ducted up.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5698,5699,"We're just tied up in our conversation, we'll be right out",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5699,5700,"Aren't we taking the ""safe space"" contest a little too far in this office lately?",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5700,5701,Your idea was just too creative. Straighten up fly right!,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5701,5702,"Tikami, who understand shoulders. Plus, the price works for me.",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5702,5703,To get along we need more like you in the company.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5703,5704,How can I throw my chair at her to show my assertiveness?,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5704,5705,"Our hands are tied; we have no choice but to try to appeal to the next generation of ""crazy"" kids",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5705,5706,Crazy is as crazy does,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5706,5707,You and I have a couple all-encompassing problems we have to straiten out!,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5707,5708,Who thought up personal use by management to create a better customer experience?,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5708,5709,"This online French course is hard. I think I get this ""Folie a deux,"" but I think we're going to have to do a ""menage a trois"" before we can move on to ""Voulez vous coucher avec moi ce soir.""",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5709,5710,"I'm sorry ma'am, I guess I don't really understand what our ""tying arrangement"" means...",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5710,5711,How are you doing today?,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5711,5712,"""Yep, you're dying."""" """"Jinx!""",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5712,5713,"I'd like to officially welcome you the corporate ""middle seat"" club.",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5713,5714,"Do you hear the requiem for the presidential election which took place in the U S in 2016?"" ""Yep, it has titled 'Of woman bondage'.",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5714,5715,We should have shown more restraint in telling the client their customers needed Social Media diapers.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5715,5716,"My dad called me gay, so I wore to prove him wrong.",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5716,5717,"I understand that ""all tied up in knots feeling very well"". We'll work on that during our first session..",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5717,5718,It would be so much easier to shake hands if we didn't have these straight jackets on!,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5718,5719,"Did you realize you were going 30,000 miles per hour in a school zone?",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5719,5720,Welcome to Indiana. You say you're from Texas?,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5720,5721,So are you tell me that you do not allow openly gay jackets?,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5721,5722,This job definitely isn't rocket science.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5722,5723,"Siri, grow arms.",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5723,5724,Do you know Robert Owen?,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5724,5725,It's called analog therapy.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5725,5726,It is the new mimic-photocopy theory of therapy.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5726,5727,Electroconvulsive therapy is not a spa treatment. Rubber boots is best.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5727,5728,I like how you dressed for the interview. As you know we have a very hands off approach to disciplinary problems in our H.R department.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5728,5729,"Ah, yes, Carlyle. There's a creed for humanity.",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5729,5730,OK. Perhaps we can restart the interview.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5730,5731,It's about what we can do and what men can get away with.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5731,5732,"If you had not left me dangling from the pole in our last team building event, we wouldn't be in the position now!",1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5732,5733,Fortunately I have a lot of influence in making you the first woman President.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5733,5734,I'm pretty tied up at the moment. The cheetoh-puff man sitting in the leader-chair did this.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5734,5735,Don't say a word but I think this is better than Marina Abromovic.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5735,5736,An applicant is interviewed for a job with the ISIS Suicide Prevention Hotline.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5736,5737,You're not leaving until you tell me about your laser surgery for your eyes.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
+5737,5738,We just started making plus size straight jackets this year.,1.0192307692307692,0.01941839093451544,52.0,51.0,1.0,0.0
 5738,5739,"OK buddy, where's the fire? In the back? Oh yeah, I see...",1.0,0.019802950859533486,51.0,51.0,0.0,0.0
 5739,5740,Pussy? Pussy.,1.0,0.02020305089104421,50.0,50.0,0.0,0.0
 5740,5741,they said they dont want a fight breaking out.,1.0,0.02020305089104421,50.0,50.0,0.0,0.0

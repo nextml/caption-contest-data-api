@@ -1,6 +1,6 @@
 ,rank,caption,score,precision,count,unfunny,somewhat_funny,funny
 0,1,We never should have applauded.,1.8421052631578947,0.04554460512094434,285.0,110.0,110.0,65.0
-1,2,What's happening on your side?,1.814126394052045,0.04922783888482282,269.0,117.0,85.0,67.0
+1,2,What's happening on your side?,1.8141263940520451,0.04922783888482282,269.0,117.0,85.0,67.0
 2,3,"If we hadn't eaten Ted, he really would have enjoyed this.",1.8038461538461537,0.050685258740691436,260.0,117.0,77.0,66.0
 3,4,"Well, I like it more than their ""ship on the horizon"" gag.",1.792828685258964,0.0522371380510876,251.0,117.0,69.0,65.0
 4,5,OK. We have two wishes left.,1.7911646586345382,0.04979888335763022,249.0,108.0,85.0,56.0
@@ -17,11 +17,11 @@
 15,16,"They've captured the look, but not the mood.",1.6885245901639343,0.0534763688112585,183.0,85.0,70.0,28.0
 16,17,"Yes, it's art. But is it relevant?",1.6833333333333331,0.05815015132669212,180.0,92.0,53.0,35.0
 17,18,"Ironically, they have a very dry sense of humor.",1.6805555555555556,0.06585518490272459,144.0,75.0,40.0,29.0
-18,19,I'm thinking now I probably should have just trained them to get help.,1.6707317073170733,0.061229458133205975,164.0,86.0,46.0,32.0
+18,19,I'm thinking now I probably should have just trained them to get help.,1.670731707317073,0.061229458133205975,164.0,86.0,46.0,32.0
 19,20,"Almost there, but they haven't quite captured the melancholy.",1.6686046511627908,0.0589213716755573,172.0,89.0,51.0,32.0
 20,21,It wasn't funny yesterday and it's not funny today.,1.6686046511627908,0.060064356752885226,172.0,91.0,47.0,34.0
 21,22,"Okay, that's pretty good. Now try ""boat.""",1.6666666666666667,0.057466282122748735,171.0,86.0,56.0,29.0
-22,23,"Martin... very slowly, pass me your iPhone.",1.6647058823529413,0.060709414198276225,170.0,91.0,45.0,34.0
+22,23,"Martin... very slowly, pass me your iPhone.",1.6647058823529413,0.06070941419827624,170.0,91.0,45.0,34.0
 23,24,"I'm gonna do a split, just to mess with them.",1.6647058823529413,0.05837104072398189,170.0,87.0,53.0,30.0
 24,25,Let's have sex and see what they do.,1.6607142857142858,0.060784692231905586,168.0,90.0,45.0,33.0
 25,26,"I'd always heard they were smart, but I never knew they were smart asses.",1.6607142857142858,0.05839207833266971,168.0,86.0,53.0,29.0
@@ -55,9 +55,9 @@
 53,54,How about we catch dinner after the show?,1.6133333333333333,0.061877172601753336,150.0,83.0,42.0,25.0
 54,55,There's a fine line between playfulness and mockery.,1.6133333333333333,0.060413686958844214,150.0,81.0,46.0,23.0
 55,56,Now if we could only get them to imitate a boat.,1.6115107913669064,0.06418387282244342,139.0,77.0,39.0,23.0
-56,57,Choreography: ten. Empathy: zero.,1.608108108108108,0.059595942241054564,148.0,79.0,48.0,21.0
-57,58,I'll bet they get rescued before we do.,1.608108108108108,0.06405660240554849,148.0,85.0,36.0,27.0
-58,59,That little one has you absolutely nailed.,1.608108108108108,0.0626050396136609,148.0,83.0,40.0,25.0
+56,57,Choreography: ten. Empathy: zero.,1.6081081081081081,0.059595942241054564,148.0,79.0,48.0,21.0
+57,58,I'll bet they get rescued before we do.,1.6081081081081081,0.06405660240554849,148.0,85.0,36.0,27.0
+58,59,That little one has you absolutely nailed.,1.6081081081081081,0.0626050396136609,148.0,83.0,40.0,25.0
 59,60,"Well, that's the last of the acid.",1.6054421768707483,0.06443797517461712,147.0,85.0,35.0,27.0
 60,61,"Ok! Simon says ""make a boat"".",1.6027397260273972,0.06334962113053695,146.0,83.0,38.0,25.0
 61,62,Now I really wish I had my phone.,1.6027397260273972,0.06259953023859692,146.0,82.0,40.0,24.0
@@ -71,11 +71,11 @@
 69,70,Nice. Now let's see your impression of a boat.,1.5972222222222223,0.05773455962373005,144.0,75.0,52.0,17.0
 70,71,Gotta admit ... clever pod cast.,1.5928571428571427,0.06322639834946704,140.0,79.0,39.0,22.0
 71,72,"I don't care if it's the last coconut, I'm hurling it.",1.5899280575539567,0.06523295409928975,139.0,81.0,34.0,24.0
-72,73,"You know, it was kind of funny the first day...",1.5899280575539567,0.056680632979589425,139.0,71.0,54.0,14.0
+72,73,"You know, it was kind of funny the first day...",1.5899280575539567,0.05668063297958944,139.0,71.0,54.0,14.0
 73,74,"Probably bottlenoses, definitely smart-asses.",1.5899280575539567,0.061953858978265386,139.0,77.0,42.0,20.0
 74,75,"Just think Bob, we'd have to pay for this back home...",1.5899280575539567,0.05937581493026312,139.0,74.0,48.0,17.0
 75,76,I know I shouldn't have doubted their intelligence but now they're just showing off,1.5899280575539567,0.0675879541352302,139.0,84.0,28.0,27.0
-76,77,I admire their intelligence; it's their vanity that offends me.,1.5899280575539567,0.056680632979589425,139.0,71.0,54.0,14.0
+76,77,I admire their intelligence; it's their vanity that offends me.,1.5899280575539567,0.05668063297958944,139.0,71.0,54.0,14.0
 77,78,"...not much, what do you see?",1.5899280575539567,0.061953858978265386,139.0,77.0,42.0,20.0
 78,79,"I'll give them points for style, but, overall, I think they failed to capture our air of desperation mingled with hopelessness.",1.5899280575539567,0.06442882806605077,139.0,80.0,36.0,23.0
 79,80,"Next time you send a message in a bottle, avoid mentioning that we are talent scouts.",1.5869565217391304,0.0623326159067006,138.0,77.0,41.0,20.0
@@ -94,11 +94,11 @@
 92,93,"Entertaining, but not as good as the seal act.",1.5714285714285714,0.06429394139907893,133.0,77.0,36.0,20.0
 93,94,Remind me again about the difference between sarcasm and satire.,1.5714285714285714,0.06517386030596116,133.0,78.0,34.0,21.0
 94,95,Do you have any more of those mushrooms?,1.5714285714285714,0.06517386030596116,133.0,78.0,34.0,21.0
-95,96,I heard they were capable of human like feelings- but schadenfreude?,1.568181818181818,0.06646382089957398,132.0,79.0,31.0,22.0
-96,97,The irony would be if they get rescued before us.,1.568181818181818,0.06380014283337343,132.0,76.0,37.0,19.0
-97,98,"Bob, after 3,698 days, I hate to say it, but I'm no longer impressed with the dolphin show.",1.568181818181818,0.06102029959404536,132.0,73.0,43.0,16.0
-98,99,"Ted, I 'm thinking maybe we should lay off the fermented coconuts for awhile.",1.568181818181818,0.06380014283337343,132.0,76.0,37.0,19.0
-99,100,It may just be a coincidence.,1.568181818181818,0.06646382089957398,132.0,79.0,31.0,22.0
+95,96,I heard they were capable of human like feelings- but schadenfreude?,1.5681818181818181,0.06646382089957398,132.0,79.0,31.0,22.0
+96,97,The irony would be if they get rescued before us.,1.5681818181818181,0.06380014283337343,132.0,76.0,37.0,19.0
+97,98,"Bob, after 3,698 days, I hate to say it, but I'm no longer impressed with the dolphin show.",1.5681818181818181,0.06102029959404536,132.0,73.0,43.0,16.0
+98,99,"Ted, I 'm thinking maybe we should lay off the fermented coconuts for awhile.",1.5681818181818181,0.06380014283337343,132.0,76.0,37.0,19.0
+99,100,It may just be a coincidence.,1.5681818181818181,0.06646382089957398,132.0,79.0,31.0,22.0
 100,101,"They aren't just smart, they're smartasses.",1.5648854961832062,0.06600702523263136,131.0,78.0,32.0,21.0
 101,102,I know what happened to that bottle of antidepressants you lost.,1.5648854961832062,0.06420317559022007,131.0,76.0,36.0,19.0
 102,103,"Rough times. Abandoned at sea ... mocked by dolphins ... Trump got elected. I mean, what's next?",1.5648854961832062,0.06511134745929414,131.0,77.0,34.0,20.0
@@ -359,7 +359,7 @@
 357,358,Highly intelligent and highly sarcastic.,1.4444444444444444,0.06456524479421961,99.0,63.0,28.0,8.0
 358,359,And you think we're bored.,1.4444444444444444,0.0676827670970192,99.0,65.0,24.0,10.0
 359,360,"Kevin, do you still have that hammock?",1.4444444444444444,0.0676827670970192,99.0,65.0,24.0,10.0
-360,361,"There may, in fact, be a parallel universe.",1.4444444444444444,0.061289352327836374,99.0,61.0,32.0,6.0
+360,361,"There may, in fact, be a parallel universe.",1.4444444444444444,0.06128935232783636,99.0,61.0,32.0,6.0
 361,362,I hate when they do that.,1.4444444444444444,0.06918887211969324,99.0,66.0,22.0,11.0
 362,363,They're definitely doing it on porpoise.,1.4444444444444444,0.07627460482772012,99.0,71.0,12.0,16.0
 363,364,"Do you think we could get them to spell out ""S.O.S.""?",1.4444444444444444,0.07066288338640862,99.0,67.0,20.0,12.0
@@ -794,50 +794,50 @@
 792,793,They're getting better at our voices.,1.3614457831325302,0.06545196122376798,83.0,58.0,20.0,5.0
 793,794,I'm not flattered!,1.3614457831325302,0.07187165163573657,83.0,61.0,14.0,8.0
 794,795,I guess they've also figured out postmodernism.,1.3571428571428572,0.06022251992055388,84.0,57.0,24.0,3.0
-795,796,Apparently the animal kingdom has been faking it the whole time.,1.3536585365853657,0.0657844774739206,82.0,58.0,19.0,5.0
-796,797,"Yes, clearly this is art imitating life.",1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-797,798,"Climb the tree again, Harold, so they fall down.",1.3536585365853657,0.063454577094678,82.0,57.0,21.0,4.0
-798,799,I thought the matinee was more authentic.,1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-799,800,I'll watch the 3pm show,1.3536585365853657,0.0657844774739206,82.0,58.0,19.0,5.0
-800,801,"No rescue party yet, Harry. Only a pod of schadenfreude dolphins.",1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-801,802,It's the sincerest form of flattery,1.3536585365853657,0.07232523655871281,82.0,61.0,13.0,8.0
-802,803,For intelligent mammals their satire is a little too on the nose.,1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-803,804,And now they're just mocking us.,1.3536585365853657,0.07021271765870793,82.0,60.0,15.0,7.0
-804,805,"They can do that, but they can't get help.",1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-805,806,Uh huh. And what was your third wish again?,1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-806,807,I’ve always heard that dolphins are the smartest animals – but I didn’t know they were also the biggest smart alecks.,1.3536585365853657,0.0657844774739206,82.0,58.0,19.0,5.0
-807,808,Apparently each one of us does in fact have a porpoise.,1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-808,809,Look George it's Cirque Sea-Lay,1.3536585365853657,0.07232523655871281,82.0,61.0,13.0,8.0
-809,810,Either excessive celebration or unsportsmanlike conduct - if I had a flag I'd throw it.,1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-810,811,"I'm sorry Bob, but I am a little flattered.",1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-811,812,I had no idea that dolphins have a sense of humor.,1.3536585365853657,0.06103580287021791,82.0,56.0,23.0,3.0
-812,813,I think they're still upset we ate their cousin.,1.3536585365853657,0.07437777870793201,82.0,62.0,11.0,9.0
-813,814,I think you're right: that can't be a coincidence.,1.3536585365853657,0.0657844774739206,82.0,58.0,19.0,5.0
-814,815,"It's been three days, Chuck. Should we say something?",1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-815,816,They must be bored too.,1.3536585365853657,0.063454577094678,82.0,57.0,21.0,4.0
-816,817,Huh. How derivative.,1.3536585365853657,0.07232523655871281,82.0,61.0,13.0,8.0
-817,818,"They're mocking us again Dom, screw ""dolphin safe tuna.""",1.3536585365853657,0.07232523655871281,82.0,61.0,13.0,8.0
-818,819,I miss Ed Sullivan.,1.3536585365853657,0.0657844774739206,82.0,58.0,19.0,5.0
-819,820,Nature really is cruel!,1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-820,821,I could watch them forever.,1.3536585365853657,0.07232523655871281,82.0,61.0,13.0,8.0
-821,822,"Do me a favor, stand up.",1.3536585365853657,0.07437777870793201,82.0,62.0,11.0,9.0
-822,823,Too much mercury.,1.3536585365853657,0.0657844774739206,82.0,58.0,19.0,5.0
-823,824,Negotiations with Sea World failed. They're going out on their own.,1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-824,825,Do you think they could mimic a boat?,1.3536585365853657,0.07232523655871281,82.0,61.0,13.0,8.0
-825,826,Something tells me they are not here to help.,1.3536585365853657,0.063454577094678,82.0,57.0,21.0,4.0
-826,827,"No, I don't think dolphins are more intelligent than humans. Why do you ask?",1.3536585365853657,0.0657844774739206,82.0,58.0,19.0,5.0
-827,828,"Does art imitate life, or life imitate art?",1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-828,829,I never liked performance art.,1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-829,830,Do we really look that fat?,1.3536585365853657,0.07021271765870793,82.0,60.0,15.0,7.0
-830,831,There's something fishy about that tree.,1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-831,832,"Unlike its bottlenose cousin, the brown-nose dolphin is distinguished by its tendency to imitate as a form of flattery.",1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-832,833,That's nothing. Last week they plaigerized my message in a bottle.,1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-833,834,"It's a windmill, right?",1.3536585365853657,0.0657844774739206,82.0,58.0,19.0,5.0
-834,835,"Out here, it's Cirque du Sole.",1.3536585365853657,0.07232523655871281,82.0,61.0,13.0,8.0
-835,836,That's the problem with dinner theaters today. The show is impressive but where's the buffet?,1.3536585365853657,0.0657844774739206,82.0,58.0,19.0,5.0
-836,837,You're right. It's mockery.,1.3536585365853657,0.0657844774739206,82.0,58.0,19.0,5.0
-837,838,When are we going to tell them that we ran out of fish?,1.3536585365853657,0.06803463528798476,82.0,59.0,17.0,6.0
-838,839,You're right. Shark du Soleil has lost its creative edge.,1.3536585365853657,0.07021271765870793,82.0,60.0,15.0,7.0
+795,796,Apparently the animal kingdom has been faking it the whole time.,1.3536585365853655,0.0657844774739206,82.0,58.0,19.0,5.0
+796,797,"Yes, clearly this is art imitating life.",1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+797,798,"Climb the tree again, Harold, so they fall down.",1.3536585365853655,0.063454577094678,82.0,57.0,21.0,4.0
+798,799,I thought the matinee was more authentic.,1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+799,800,I'll watch the 3pm show,1.3536585365853655,0.0657844774739206,82.0,58.0,19.0,5.0
+800,801,"No rescue party yet, Harry. Only a pod of schadenfreude dolphins.",1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+801,802,It's the sincerest form of flattery,1.3536585365853655,0.07232523655871281,82.0,61.0,13.0,8.0
+802,803,For intelligent mammals their satire is a little too on the nose.,1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+803,804,And now they're just mocking us.,1.3536585365853655,0.07021271765870793,82.0,60.0,15.0,7.0
+804,805,"They can do that, but they can't get help.",1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+805,806,Uh huh. And what was your third wish again?,1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+806,807,I’ve always heard that dolphins are the smartest animals – but I didn’t know they were also the biggest smart alecks.,1.3536585365853655,0.0657844774739206,82.0,58.0,19.0,5.0
+807,808,Apparently each one of us does in fact have a porpoise.,1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+808,809,Look George it's Cirque Sea-Lay,1.3536585365853655,0.07232523655871281,82.0,61.0,13.0,8.0
+809,810,Either excessive celebration or unsportsmanlike conduct - if I had a flag I'd throw it.,1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+810,811,"I'm sorry Bob, but I am a little flattered.",1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+811,812,I had no idea that dolphins have a sense of humor.,1.3536585365853655,0.06103580287021791,82.0,56.0,23.0,3.0
+812,813,I think they're still upset we ate their cousin.,1.3536585365853655,0.07437777870793201,82.0,62.0,11.0,9.0
+813,814,I think you're right: that can't be a coincidence.,1.3536585365853655,0.0657844774739206,82.0,58.0,19.0,5.0
+814,815,"It's been three days, Chuck. Should we say something?",1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+815,816,They must be bored too.,1.3536585365853655,0.063454577094678,82.0,57.0,21.0,4.0
+816,817,Huh. How derivative.,1.3536585365853655,0.07232523655871281,82.0,61.0,13.0,8.0
+817,818,"They're mocking us again Dom, screw ""dolphin safe tuna.""",1.3536585365853655,0.07232523655871281,82.0,61.0,13.0,8.0
+818,819,I miss Ed Sullivan.,1.3536585365853655,0.0657844774739206,82.0,58.0,19.0,5.0
+819,820,Nature really is cruel!,1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+820,821,I could watch them forever.,1.3536585365853655,0.07232523655871281,82.0,61.0,13.0,8.0
+821,822,"Do me a favor, stand up.",1.3536585365853655,0.07437777870793201,82.0,62.0,11.0,9.0
+822,823,Too much mercury.,1.3536585365853655,0.0657844774739206,82.0,58.0,19.0,5.0
+823,824,Negotiations with Sea World failed. They're going out on their own.,1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+824,825,Do you think they could mimic a boat?,1.3536585365853655,0.07232523655871281,82.0,61.0,13.0,8.0
+825,826,Something tells me they are not here to help.,1.3536585365853655,0.063454577094678,82.0,57.0,21.0,4.0
+826,827,"No, I don't think dolphins are more intelligent than humans. Why do you ask?",1.3536585365853655,0.0657844774739206,82.0,58.0,19.0,5.0
+827,828,"Does art imitate life, or life imitate art?",1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+828,829,I never liked performance art.,1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+829,830,Do we really look that fat?,1.3536585365853655,0.07021271765870793,82.0,60.0,15.0,7.0
+830,831,There's something fishy about that tree.,1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+831,832,"Unlike its bottlenose cousin, the brown-nose dolphin is distinguished by its tendency to imitate as a form of flattery.",1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+832,833,That's nothing. Last week they plaigerized my message in a bottle.,1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+833,834,"It's a windmill, right?",1.3536585365853655,0.0657844774739206,82.0,58.0,19.0,5.0
+834,835,"Out here, it's Cirque du Sole.",1.3536585365853655,0.07232523655871281,82.0,61.0,13.0,8.0
+835,836,That's the problem with dinner theaters today. The show is impressive but where's the buffet?,1.3536585365853655,0.0657844774739206,82.0,58.0,19.0,5.0
+836,837,You're right. It's mockery.,1.3536585365853655,0.0657844774739206,82.0,58.0,19.0,5.0
+837,838,When are we going to tell them that we ran out of fish?,1.3536585365853655,0.06803463528798476,82.0,59.0,17.0,6.0
+838,839,You're right. Shark du Soleil has lost its creative edge.,1.3536585365853655,0.07021271765870793,82.0,60.0,15.0,7.0
 839,840,It's a benefit of our cruise travel insurance policy.,1.3493975903614457,0.06949237657840714,83.0,61.0,15.0,7.0
 840,841,I don't care how good the joke is. We're the wrong audience.,1.3456790123456788,0.06610992955797672,81.0,58.0,18.0,5.0
 841,842,got to cut down on those magic coconuts,1.3456790123456788,0.06373288641550769,81.0,57.0,20.0,4.0
@@ -1014,78 +1014,78 @@
 1012,1013,Built with porpoise.,1.3291139240506329,0.07143341340197165,79.0,60.0,12.0,7.0
 1013,1014,"I know I should be angry, but they're making it difficult.",1.3291139240506329,0.07367022801023554,79.0,61.0,10.0,8.0
 1014,1015,"Oh, forget it...If you didn't believe me about the whale rectangle and the shark trapezoid, you're definitely not going to believe this one.",1.3255813953488371,0.06499891710161043,86.0,64.0,16.0,6.0
-1015,1016,I'm still not convinced it's intelligence and not just instinct.,1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1016,1017,Now they’re mocking us on porpoise.,1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1017,1018,No... I think it's Nature imitates Art.,1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1018,1019,"make like a boat,lets see what they can do with that",1.324675324675325,0.07264544757356925,77.0,59.0,11.0,7.0
-1019,1020,I'd give anything for a harpoon right now.,1.324675324675325,0.0625324480132615,77.0,55.0,19.0,3.0
-1020,1021,I have the feeling we are being mocked.,1.324675324675325,0.06520790254401293,77.0,56.0,17.0,4.0
-1021,1022,They're teasing us on porpoise.,1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1022,1023,You never believe me; so...nothing happening here!,1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1023,1024,Looks like Sea World released more dolphins ...,1.324675324675325,0.07496082011839543,77.0,60.0,9.0,8.0
-1024,1025,Cheer up the dolphin show is amazing.,1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1025,1026,What’s a hallucination look like?,1.324675324675325,0.0625324480132615,77.0,55.0,19.0,3.0
-1026,1027,"Honey, you're wrong. There IS a porpoise in life.",1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1027,1028,I've heard of intelligent design - but that's ridiculous!,1.324675324675325,0.07264544757356925,77.0,59.0,11.0,7.0
-1028,1029,The mimicking I can take. It’s the taunting I can’t stand.,1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1029,1030,Exactly what kind of brownies did your sister make for us...?,1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1030,1031,"George, look! It's Cirque Du Soleil Pacifica!",1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1031,1032,'Sea World should have never set them free.',1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1032,1033,I am praying they will transform again into a seaplane.,1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1033,1034,No dolphin is an island,1.324675324675325,0.0625324480132615,77.0,55.0,19.0,3.0
-1034,1035,You can take the dolphins out of SeaWorld...,1.324675324675325,0.0625324480132615,77.0,55.0,19.0,3.0
-1035,1036,Can't they turn into a raft instead?,1.324675324675325,0.06520790254401293,77.0,56.0,17.0,4.0
-1036,1037,"I've heard they're great mimics, but now I think they're just being cruel.",1.324675324675325,0.07264544757356925,77.0,59.0,11.0,7.0
-1037,1038,"Congrats Gary, you're no longer the biggest asshole in a 100 mile radius.",1.324675324675325,0.07264544757356925,77.0,59.0,11.0,7.0
-1038,1039,Think of it as art imitating life?,1.324675324675325,0.0625324480132615,77.0,55.0,19.0,3.0
-1039,1040,"They may be good at charades, but they are still really bad at rock, paper, scissors",1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1040,1041,How do you know that the dolphins aren't hallucinating you?,1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1041,1042,"They're imitating us, but if you look you'll ruin it.",1.324675324675325,0.07264544757356925,77.0,59.0,11.0,7.0
-1042,1043,I think we're being trolled.,1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1043,1044,"""I knew I shouldn't have eaten that little mushroom I found growing on the tree"".",1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1044,1045,"On the bright side, we've discovered that dolphins can mock.",1.324675324675325,0.06520790254401293,77.0,56.0,17.0,4.0
-1045,1046,Quick - make like a boat!,1.324675324675325,0.0625324480132615,77.0,55.0,19.0,3.0
-1046,1047,"Hey Chuck, you wouldn't happen to know much about the mating process of Bottlenose Dolphins?",1.324675324675325,0.05973728780981787,77.0,54.0,21.0,2.0
-1047,1048,They're not only smart...they have sense of irony.,1.324675324675325,0.06520790254401293,77.0,56.0,17.0,4.0
-1048,1049,"We may have no food, but at least we have performance art.",1.324675324675325,0.0625324480132615,77.0,55.0,19.0,3.0
-1049,1050,"They're out-performing us again, George.",1.324675324675325,0.05973728780981787,77.0,54.0,21.0,2.0
-1050,1051,It's like we're stuck in a New Yorker cartoon.,1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1051,1052,It's either a serious hallucination or fake news.,1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1052,1053,"Sure, they're talented. But they are also extremely insensitive.",1.324675324675325,0.06520790254401293,77.0,56.0,17.0,4.0
-1053,1054,"Look guys, I'm flattered but it'd be more helpful if we could just ride on your backs",1.324675324675325,0.06520790254401293,77.0,56.0,17.0,4.0
-1054,1055,Art imitates life!,1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1055,1056,"Very talented, but no creativity.",1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1056,1057,They say humor is the key to survival. That and a speargun.,1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1057,1058,Nah... nothing interesting on this side either. Keep looking in that direction.,1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1058,1059,I think those humans are mocking us,1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1059,1060,"I've heard of mocking birds, but this is ridiculous.",1.324675324675325,0.05973728780981787,77.0,54.0,21.0,2.0
-1060,1061,"What happens in the South Seas, stays in the South Seas.",1.324675324675325,0.06520790254401293,77.0,56.0,17.0,4.0
-1061,1062,Fuck you.,1.324675324675325,0.07264544757356925,77.0,59.0,11.0,7.0
-1062,1063,They're porpoises. Dolphins don't mock.,1.324675324675325,0.0625324480132615,77.0,55.0,19.0,3.0
-1063,1064,I'd like to think it's more empathy than mockery.,1.324675324675325,0.05973728780981787,77.0,54.0,21.0,2.0
-1064,1065,"They're mocking us again, Marvin.",1.324675324675325,0.0625324480132615,77.0,55.0,19.0,3.0
-1065,1066,I would give anything for a new Mirage,1.324675324675325,0.0625324480132615,77.0,55.0,19.0,3.0
-1066,1067,"If they’re imitating us, I’m not flattered.",1.324675324675325,0.07496082011839543,77.0,60.0,9.0,8.0
-1067,1068,Is my nose really that big?,1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1068,1069,Public art---such a waste of tax dollars.,1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1069,1070,"Next category is ""familiar place.""",1.324675324675325,0.06520790254401293,77.0,56.0,17.0,4.0
-1070,1071,The last show in the world I want to see now is SEA WORLD,1.324675324675325,0.06777782863036942,77.0,57.0,15.0,5.0
-1071,1072,"Bob, we should try and make the shape of a raft.",1.324675324675325,0.07264544757356925,77.0,59.0,11.0,7.0
-1072,1073,"Impressive, but would you mind doing that again for the Coast Guard?",1.324675324675325,0.06520790254401293,77.0,56.0,17.0,4.0
-1073,1074,Everybody is into performance art these days.,1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1074,1075,"Great Mannequin Challenge entry, guys, but we still need help.",1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1075,1076,And to think they did this just to get in the New Yorker caption contest.,1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1076,1077,Wouldn't it be better to teach them how to imitate a ship?,1.324675324675325,0.06520790254401293,77.0,56.0,17.0,4.0
-1077,1078,I always knew they are smarter than us.,1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1078,1079,Now I think they are just mocking us....,1.324675324675325,0.07720678760627636,77.0,61.0,7.0,9.0
-1079,1080,I think those dolphins are mocking us on porpoise.,1.324675324675325,0.07264544757356925,77.0,59.0,11.0,7.0
-1080,1081,We mock that which we do not understand.,1.324675324675325,0.06520790254401293,77.0,56.0,17.0,4.0
-1081,1082,Now their just mocking us.,1.324675324675325,0.07496082011839543,77.0,60.0,9.0,8.0
-1082,1083,"Nice job Flipper, now show us your S.O.S.",1.324675324675325,0.06520790254401293,77.0,56.0,17.0,4.0
-1083,1084,Who said climate change isn't real?,1.324675324675325,0.0625324480132615,77.0,55.0,19.0,3.0
-1084,1085,"So much for the theory that once released from captivity into the wild, they resort back to their natural ways.",1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1085,1086,Never mind. It's imitation seafood.,1.324675324675325,0.07025380810679206,77.0,58.0,13.0,6.0
-1086,1087,"So, performance art IS an evolutionary form.",1.324675324675325,0.05973728780981787,77.0,54.0,21.0,2.0
+1015,1016,I'm still not convinced it's intelligence and not just instinct.,1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1016,1017,Now they’re mocking us on porpoise.,1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1017,1018,No... I think it's Nature imitates Art.,1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1018,1019,"make like a boat,lets see what they can do with that",1.3246753246753251,0.07264544757356925,77.0,59.0,11.0,7.0
+1019,1020,I'd give anything for a harpoon right now.,1.3246753246753251,0.0625324480132615,77.0,55.0,19.0,3.0
+1020,1021,I have the feeling we are being mocked.,1.3246753246753251,0.06520790254401293,77.0,56.0,17.0,4.0
+1021,1022,They're teasing us on porpoise.,1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1022,1023,You never believe me; so...nothing happening here!,1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1023,1024,Looks like Sea World released more dolphins ...,1.3246753246753251,0.07496082011839543,77.0,60.0,9.0,8.0
+1024,1025,Cheer up the dolphin show is amazing.,1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1025,1026,What’s a hallucination look like?,1.3246753246753251,0.0625324480132615,77.0,55.0,19.0,3.0
+1026,1027,"Honey, you're wrong. There IS a porpoise in life.",1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1027,1028,I've heard of intelligent design - but that's ridiculous!,1.3246753246753251,0.07264544757356925,77.0,59.0,11.0,7.0
+1028,1029,The mimicking I can take. It’s the taunting I can’t stand.,1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1029,1030,Exactly what kind of brownies did your sister make for us...?,1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1030,1031,"George, look! It's Cirque Du Soleil Pacifica!",1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1031,1032,'Sea World should have never set them free.',1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1032,1033,I am praying they will transform again into a seaplane.,1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1033,1034,No dolphin is an island,1.3246753246753251,0.0625324480132615,77.0,55.0,19.0,3.0
+1034,1035,You can take the dolphins out of SeaWorld...,1.3246753246753251,0.0625324480132615,77.0,55.0,19.0,3.0
+1035,1036,Can't they turn into a raft instead?,1.3246753246753251,0.06520790254401293,77.0,56.0,17.0,4.0
+1036,1037,"I've heard they're great mimics, but now I think they're just being cruel.",1.3246753246753251,0.07264544757356925,77.0,59.0,11.0,7.0
+1037,1038,"Congrats Gary, you're no longer the biggest asshole in a 100 mile radius.",1.3246753246753251,0.07264544757356925,77.0,59.0,11.0,7.0
+1038,1039,Think of it as art imitating life?,1.3246753246753251,0.0625324480132615,77.0,55.0,19.0,3.0
+1039,1040,"They may be good at charades, but they are still really bad at rock, paper, scissors",1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1040,1041,How do you know that the dolphins aren't hallucinating you?,1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1041,1042,"They're imitating us, but if you look you'll ruin it.",1.3246753246753251,0.07264544757356925,77.0,59.0,11.0,7.0
+1042,1043,I think we're being trolled.,1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1043,1044,"""I knew I shouldn't have eaten that little mushroom I found growing on the tree"".",1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1044,1045,"On the bright side, we've discovered that dolphins can mock.",1.3246753246753251,0.06520790254401293,77.0,56.0,17.0,4.0
+1045,1046,Quick - make like a boat!,1.3246753246753251,0.0625324480132615,77.0,55.0,19.0,3.0
+1046,1047,"Hey Chuck, you wouldn't happen to know much about the mating process of Bottlenose Dolphins?",1.3246753246753251,0.05973728780981787,77.0,54.0,21.0,2.0
+1047,1048,They're not only smart...they have sense of irony.,1.3246753246753251,0.06520790254401293,77.0,56.0,17.0,4.0
+1048,1049,"We may have no food, but at least we have performance art.",1.3246753246753251,0.0625324480132615,77.0,55.0,19.0,3.0
+1049,1050,"They're out-performing us again, George.",1.3246753246753251,0.05973728780981787,77.0,54.0,21.0,2.0
+1050,1051,It's like we're stuck in a New Yorker cartoon.,1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1051,1052,It's either a serious hallucination or fake news.,1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1052,1053,"Sure, they're talented. But they are also extremely insensitive.",1.3246753246753251,0.06520790254401293,77.0,56.0,17.0,4.0
+1053,1054,"Look guys, I'm flattered but it'd be more helpful if we could just ride on your backs",1.3246753246753251,0.06520790254401293,77.0,56.0,17.0,4.0
+1054,1055,Art imitates life!,1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1055,1056,"Very talented, but no creativity.",1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1056,1057,They say humor is the key to survival. That and a speargun.,1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1057,1058,Nah... nothing interesting on this side either. Keep looking in that direction.,1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1058,1059,I think those humans are mocking us,1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1059,1060,"I've heard of mocking birds, but this is ridiculous.",1.3246753246753251,0.05973728780981787,77.0,54.0,21.0,2.0
+1060,1061,"What happens in the South Seas, stays in the South Seas.",1.3246753246753251,0.06520790254401293,77.0,56.0,17.0,4.0
+1061,1062,Fuck you.,1.3246753246753251,0.07264544757356925,77.0,59.0,11.0,7.0
+1062,1063,They're porpoises. Dolphins don't mock.,1.3246753246753251,0.0625324480132615,77.0,55.0,19.0,3.0
+1063,1064,I'd like to think it's more empathy than mockery.,1.3246753246753251,0.05973728780981787,77.0,54.0,21.0,2.0
+1064,1065,"They're mocking us again, Marvin.",1.3246753246753251,0.0625324480132615,77.0,55.0,19.0,3.0
+1065,1066,I would give anything for a new Mirage,1.3246753246753251,0.0625324480132615,77.0,55.0,19.0,3.0
+1066,1067,"If they’re imitating us, I’m not flattered.",1.3246753246753251,0.07496082011839543,77.0,60.0,9.0,8.0
+1067,1068,Is my nose really that big?,1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1068,1069,Public art---such a waste of tax dollars.,1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1069,1070,"Next category is ""familiar place.""",1.3246753246753251,0.06520790254401293,77.0,56.0,17.0,4.0
+1070,1071,The last show in the world I want to see now is SEA WORLD,1.3246753246753251,0.06777782863036942,77.0,57.0,15.0,5.0
+1071,1072,"Bob, we should try and make the shape of a raft.",1.3246753246753251,0.07264544757356925,77.0,59.0,11.0,7.0
+1072,1073,"Impressive, but would you mind doing that again for the Coast Guard?",1.3246753246753251,0.06520790254401293,77.0,56.0,17.0,4.0
+1073,1074,Everybody is into performance art these days.,1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1074,1075,"Great Mannequin Challenge entry, guys, but we still need help.",1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1075,1076,And to think they did this just to get in the New Yorker caption contest.,1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1076,1077,Wouldn't it be better to teach them how to imitate a ship?,1.3246753246753251,0.06520790254401293,77.0,56.0,17.0,4.0
+1077,1078,I always knew they are smarter than us.,1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1078,1079,Now I think they are just mocking us....,1.3246753246753251,0.07720678760627636,77.0,61.0,7.0,9.0
+1079,1080,I think those dolphins are mocking us on porpoise.,1.3246753246753251,0.07264544757356925,77.0,59.0,11.0,7.0
+1080,1081,We mock that which we do not understand.,1.3246753246753251,0.06520790254401293,77.0,56.0,17.0,4.0
+1081,1082,Now their just mocking us.,1.3246753246753251,0.07496082011839543,77.0,60.0,9.0,8.0
+1082,1083,"Nice job Flipper, now show us your S.O.S.",1.3246753246753251,0.06520790254401293,77.0,56.0,17.0,4.0
+1083,1084,Who said climate change isn't real?,1.3246753246753251,0.0625324480132615,77.0,55.0,19.0,3.0
+1084,1085,"So much for the theory that once released from captivity into the wild, they resort back to their natural ways.",1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1085,1086,Never mind. It's imitation seafood.,1.3246753246753251,0.07025380810679206,77.0,58.0,13.0,6.0
+1086,1087,"So, performance art IS an evolutionary form.",1.3246753246753251,0.05973728780981787,77.0,54.0,21.0,2.0
 1087,1088,Big deal! I saw the same thing in an Esther Williams movie.,1.3164556962025316,0.06630289538332196,79.0,59.0,15.0,5.0
 1088,1089,Let's see if they can do a helicopter.,1.3157894736842106,0.06545529160062324,76.0,56.0,16.0,4.0
 1089,1090,At least there's some intelligent life out here.,1.3157894736842106,0.056848602617612785,76.0,53.0,22.0,1.0
@@ -1674,7 +1674,7 @@
 1672,1673,"Yeah, well the top ones are fake.",1.2714285714285714,0.06409564725042377,70.0,54.0,13.0,3.0
 1673,1674,This is not a good time to be a vegan.,1.2714285714285714,0.06409564725042377,70.0,54.0,13.0,3.0
 1674,1675,Also the schools are better,1.2714285714285714,0.06724827634518968,70.0,55.0,11.0,4.0
-1675,1676,I was hoping for something more escapist.,1.2714285714285714,0.053535184426749066,70.0,51.0,19.0,0.0
+1675,1676,I was hoping for something more escapist.,1.2714285714285714,0.05353518442674906,70.0,51.0,19.0,0.0
 1676,1677,I do believe they're mocking us on porpoise.,1.2714285714285714,0.06409564725042377,70.0,54.0,13.0,3.0
 1677,1678,I'm not feeling sincerely flattered at the moment.,1.2714285714285714,0.06409564725042377,70.0,54.0,13.0,3.0
 1678,1679,"Sorry, I was wrong. They aren't rescue dolphins. They are Sea World escapees.",1.2714285714285714,0.06409564725042377,70.0,54.0,13.0,3.0
@@ -2071,23 +2071,23 @@
 2069,2070,Tough crowd.,1.2424242424242424,0.06130137276858365,66.0,52.0,12.0,2.0
 2070,2071,What were you saying about dolphins being highly intelligent?,1.2424242424242424,0.07180849324358678,66.0,55.0,6.0,5.0
 2071,2072,"Honey, do I really look like that?",1.2424242424242424,0.07180849324358678,66.0,55.0,6.0,5.0
-2072,2073,I don't think they have really captured the essence of the palm tree.,1.2388059701492538,0.060487811357686314,67.0,53.0,12.0,2.0
-2073,2074,They say that imitation is the sincerest form of flattery.,1.2388059701492538,0.060487811357686314,67.0,53.0,12.0,2.0
+2072,2073,I don't think they have really captured the essence of the palm tree.,1.2388059701492538,0.06048781135768633,67.0,53.0,12.0,2.0
+2073,2074,They say that imitation is the sincerest form of flattery.,1.2388059701492538,0.06048781135768633,67.0,53.0,12.0,2.0
 2074,2075,"""Cirque du Soleil"" does it better.",1.2388059701492538,0.06411754328743913,67.0,54.0,10.0,3.0
 2075,2076,Sometimes they can be just jerks.,1.2388059701492538,0.056625888853681215,67.0,52.0,14.0,1.0
-2076,2077,C'mon Jeff just one more! How much bread do you have left?,1.2388059701492538,0.060487811357686314,67.0,53.0,12.0,2.0
+2076,2077,C'mon Jeff just one more! How much bread do you have left?,1.2388059701492538,0.06048781135768633,67.0,53.0,12.0,2.0
 2077,2078,This attention-seeking behavior has gotta stop.,1.2388059701492538,0.06411754328743913,67.0,54.0,10.0,3.0
 2078,2079,They call it performance art...,1.2388059701492538,0.056625888853681215,67.0,52.0,14.0,1.0
 2079,2080,worst part of this whole experience is the all the mockery,1.2388059701492538,0.06755252320668872,67.0,55.0,8.0,4.0
 2080,2081,It's really great. You should have bought a ticket.,1.2388059701492538,0.06755252320668872,67.0,55.0,8.0,4.0
-2081,2082,"A camera, a camera. My kingdom for a camera.",1.2388059701492538,0.060487811357686314,67.0,53.0,12.0,2.0
-2082,2083,"Harry, the dolphins are showing off again.",1.2388059701492538,0.060487811357686314,67.0,53.0,12.0,2.0
+2081,2082,"A camera, a camera. My kingdom for a camera.",1.2388059701492538,0.06048781135768633,67.0,53.0,12.0,2.0
+2082,2083,"Harry, the dolphins are showing off again.",1.2388059701492538,0.06048781135768633,67.0,53.0,12.0,2.0
 2083,2084,Do you they can reconfigure into a boat?,1.2388059701492538,0.06411754328743913,67.0,54.0,10.0,3.0
-2084,2085,Something is fishy about that isle.,1.2388059701492538,0.060487811357686314,67.0,53.0,12.0,2.0
+2084,2085,Something is fishy about that isle.,1.2388059701492538,0.06048781135768633,67.0,53.0,12.0,2.0
 2085,2086,Don't you think public art brings us all closer together?,1.2388059701492538,0.06411754328743913,67.0,54.0,10.0,3.0
 2086,2087,I think they misinterpreted our message in a bottle.,1.2388059701492538,0.06411754328743913,67.0,54.0,10.0,3.0
 2087,2088,What will we feed them with at the end of the show?,1.2388059701492538,0.06755252320668872,67.0,55.0,8.0,4.0
-2088,2089,I think I read that mimicry is a precursor to mating.,1.2388059701492538,0.060487811357686314,67.0,53.0,12.0,2.0
+2088,2089,I think I read that mimicry is a precursor to mating.,1.2388059701492538,0.06048781135768633,67.0,53.0,12.0,2.0
 2089,2090,"Bob, you have to see this",1.2388059701492538,0.06411754328743913,67.0,54.0,10.0,3.0
 2090,2091,Just when you think your life has no porpoise,1.2388059701492538,0.06411754328743913,67.0,54.0,10.0,3.0
 2091,2092,"""We all wish to be what we are not"".",1.234375,0.06585136695439135,64.0,52.0,9.0,3.0
@@ -3609,7 +3609,7 @@
 3607,3608,"Miami 2024: Since the US withdrew from the Paris Climate Talks, the porpoises have been practicing this gesture of consolation. But Bob still thinks they're ""gloating.""",1.1428571428571428,0.05937210104240241,56.0,50.0,4.0,2.0
 3608,3609,They've not as nice as I thought they were.,1.1428571428571428,0.05362551382353918,56.0,49.0,6.0,1.0
 3609,3610,"if this is your idea of date night, I'm not interested.",1.1428571428571428,0.05362551382353918,56.0,49.0,6.0,1.0
-3610,3611,"Perhaps their brains are so advanced they are capable of ""mocking compassion.""",1.1403508771929824,0.052735903289475715,57.0,50.0,6.0,1.0
+3610,3611,"Perhaps their brains are so advanced they are capable of ""mocking compassion.""",1.1403508771929824,0.05273590328947572,57.0,50.0,6.0,1.0
 3611,3612,Either I am hallucinating or we are marooned at Discovery Cove in Orlando.,1.1320754716981132,0.054130787224881016,53.0,47.0,5.0,1.0
 3612,3613,Ever hear of the marine mammal mocking mirror revue?,1.1320754716981132,0.06046347269649694,53.0,48.0,3.0,2.0
 3613,3614,They're making fun of us.,1.1320754716981132,0.04695159976668159,53.0,46.0,7.0,0.0
@@ -4208,7 +4208,7 @@
 4206,4207,You'll never believe what I seeing.,1.0961538461538465,0.0412805523275075,52.0,47.0,5.0,0.0
 4207,4208,"I said, 'I'd like to live a more purposeful life.' Why do you ask?",1.0961538461538465,0.056677858343508074,52.0,49.0,1.0,2.0
 4208,4209,Tell 'em to just get lost or I'll personally wipe the freaking smiles off their oh-so-cute little faces,1.0943396226415094,0.04866990605836638,53.0,49.0,3.0,1.0
-4209,4210,They're gluttons for punishment.,1.0943396226415094,0.040534804190911315,53.0,48.0,5.0,0.0
+4209,4210,They're gluttons for punishment.,1.0943396226415094,0.04053480419091132,53.0,48.0,5.0,0.0
 4210,4211,"Oh, relax. The exit polls are still showing they'll re-arrange into a life raft.",1.0816326530612246,0.03952023822660623,49.0,45.0,4.0,0.0
 4211,4212,"Mike, watch the show."" ""They might try and talk to me.",1.0816326530612246,0.049114044483651816,49.0,46.0,2.0,1.0
 4212,4213,Well... you can say this is a very fishy situation we're stuck in,1.0816326530612246,0.049114044483651816,49.0,46.0,2.0,1.0
@@ -4473,143 +4473,143 @@
 4471,4472,"Fred, I am afraid something fishy is going on here",1.0784313725490196,0.04722193952467568,51.0,48.0,2.0,1.0
 4472,4473,I thought that wou,1.0784313725490196,0.04722193952467568,51.0,48.0,2.0,1.0
 4473,4474,"Listen, I know we're lacto-ovo-vegetarians, but we eventually gotta eat one!",1.0769230769230769,0.037313173082512766,52.0,48.0,4.0,0.0
-4474,4475,"So if imitation is the sincerest form of flattery, they must envy us.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4475,4476,It's odd. They've convinced me they are indeed highly intelligent ... but now I want to possess them even more.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4474,4475,"So if imitation is the sincerest form of flattery, they must envy us.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4475,4476,It's odd. They've convinced me they are indeed highly intelligent ... but now I want to possess them even more.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4476,4477,"Dave, I am starting to see my old friends again",1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4477,4478,Ugh! Jocks! Show-offs! I always hated school!,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4478,4479,Now they're just mocking us Now they're just mocking us.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4479,4480,"Hey look! I bet this is the first time a human being was caught mimicking us, dolphins",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4480,4481,"Well, I just feel like I've died and gone to heaven--how 'bout you?",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4481,4482,You guys must practice a lot.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4482,4483,"Oh no, not the ""showtime dolphins"" again.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4483,4484,"It's called 'protective mimicry', Joe. No need to be alarmed.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4477,4478,Ugh! Jocks! Show-offs! I always hated school!,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4478,4479,Now they're just mocking us Now they're just mocking us.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4479,4480,"Hey look! I bet this is the first time a human being was caught mimicking us, dolphins",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4480,4481,"Well, I just feel like I've died and gone to heaven--how 'bout you?",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4481,4482,You guys must practice a lot.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4482,4483,"Oh no, not the ""showtime dolphins"" again.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4483,4484,"It's called 'protective mimicry', Joe. No need to be alarmed.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4484,4485,"Furthermore, we will be starting a new rotation schedule on Monday",1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4485,4486,"I've heard of trained dolphins, but this is really going too far!",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4486,4487,"Hey, do you speak orca?",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4487,4488,I wonder what Japanese would say about this,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4488,4489,"The show is spectacular, second to none, but when I said I wanted a change, this is not what I had in mind.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4489,4490,No porpoise is an island unto himself.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4490,4491,Dolphin Decoy for Dummies,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4491,4492,They don't seem to be too concerned about global warming!,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4492,4493,"Well, they never did like the ''Lassie get help'' trick.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4493,4494,"Dang it! We are marooned and fish are mocking us."" ""Um, Kevin, they are mammals.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4485,4486,"I've heard of trained dolphins, but this is really going too far!",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4486,4487,"Hey, do you speak orca?",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4487,4488,I wonder what Japanese would say about this,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4488,4489,"The show is spectacular, second to none, but when I said I wanted a change, this is not what I had in mind.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4489,4490,No porpoise is an island unto himself.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4490,4491,Dolphin Decoy for Dummies,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4491,4492,They don't seem to be too concerned about global warming!,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4492,4493,"Well, they never did like the ''Lassie get help'' trick.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4493,4494,"Dang it! We are marooned and fish are mocking us."" ""Um, Kevin, they are mammals.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4494,4495,Too clever by half.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4495,4496,Dunno. I'm at my wits end! Maybe if we chop the tree down and build a boat?!?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4495,4496,Dunno. I'm at my wits end! Maybe if we chop the tree down and build a boat?!?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4496,4497,That smarts!,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4497,4498,"It's dinner time, the question is .Whose doing the eating?",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4498,4499,Jeff you're missing the fantastic SeaWorld show over here.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4499,4500,"Well, Fred, Charles Colton once said, ""imitation is the sincerest form of flattery"", but this is too much.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4500,4501,Don't think of it as an audition- those two are all washed up.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4497,4498,"It's dinner time, the question is .Whose doing the eating?",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4498,4499,Jeff you're missing the fantastic SeaWorld show over here.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4499,4500,"Well, Fred, Charles Colton once said, ""imitation is the sincerest form of flattery"", but this is too much.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4500,4501,Don't think of it as an audition- those two are all washed up.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4501,4502,"I think I saw some hippies putting something in the water."" ""I don't see any water!",1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4502,4503,"I am sure you have an exciting story explaining why you are so late, Godot.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4503,4504,The times got it right.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4504,4505,I think we have been on this island for to long . That tree is turning into a bunch of dolphins.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4505,4506,...and that's their sincerest form...?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4506,4507,"If you build it, they will come.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4502,4503,"I am sure you have an exciting story explaining why you are so late, Godot.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4503,4504,The times got it right.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4504,4505,I think we have been on this island for to long . That tree is turning into a bunch of dolphins.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4505,4506,...and that's their sincerest form...?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4506,4507,"If you build it, they will come.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4507,4508,"Hallucination? Maybe, but it sure looks like an octoporpoise.",1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4508,4509,You never did get a handle on the word 'mirage.',1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4509,4510,Maybe we should give the acro yoga thing a try!,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4510,4511,"""They are amazingly artistic as well as excellent communicators"".",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4508,4509,You never did get a handle on the word 'mirage.',1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4509,4510,Maybe we should give the acro yoga thing a try!,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4510,4511,"""They are amazingly artistic as well as excellent communicators"".",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4511,4512,"Nope, not lending such show-offs my cell for a selfie",1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4512,4513,"Are we just another fish ""tail?""",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4512,4513,"Are we just another fish ""tail?""",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4513,4514,I was excited until you told me shark fin soup is illegal.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4514,4515,My name is Dolphinia: We're being scared up by a friendly mirage of a synchronized feeding opportunity.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4515,4516,How's this for a business model?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4514,4515,My name is Dolphinia: We're being scared up by a friendly mirage of a synchronized feeding opportunity.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4515,4516,How's this for a business model?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4516,4517,I don't like the new neighbors. Can it! Stop squealing!,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4517,4518,"Screw the view, I want to go home.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4518,4519,I never thought my parallel life would be so fishy.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4517,4518,"Screw the view, I want to go home.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4518,4519,I never thought my parallel life would be so fishy.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4519,4520,Yep. They're still mimicking us.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4520,4521,"Is this some kind of joke? Why are they mocking us like that?"" ""Maybe their porpoise is to entertain people out here."" ""Well I know it's not yours.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4521,4522,They must be Gen Xers,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4520,4521,"Is this some kind of joke? Why are they mocking us like that?"" ""Maybe their porpoise is to entertain people out here."" ""Well I know it's not yours.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4521,4522,They must be Gen Xers,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4522,4523,Don't despair. It looks like we'll be having dolphin-tree tuna for dinner tonight.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4523,4524,The mysterious ways of nature are also very artistic.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4523,4524,The mysterious ways of nature are also very artistic.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4524,4525,Those Trump supporters are such show-offs!,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
 4525,4526,"If one of you has a match, we are delicious filleted",1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4526,4527,So this is what it looks like when you hallucinate and you're stuck on an island...,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4526,4527,So this is what it looks like when you hallucinate and you're stuck on an island...,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4527,4528,Nothing to be done.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
 4528,4529,Let's hope they're agents here to catch our act.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4529,4530,"Ralph, do you have a season's pass to Porpoise World?",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4530,4531,I just don't see the porpoise to mock us,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4531,4532,"Just hang in there, guys. The chameleons have colors, the parrots have language, we NEED shapes.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4532,4533,I hope they are tuna-safe?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4533,4534,"Yeah, they're said to be the greatest imitators on the planet. Wonder if we could get them to immitate a vessel of some kind.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4529,4530,"Ralph, do you have a season's pass to Porpoise World?",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4530,4531,I just don't see the porpoise to mock us,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4531,4532,"Just hang in there, guys. The chameleons have colors, the parrots have language, we NEED shapes.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4532,4533,I hope they are tuna-safe?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4533,4534,"Yeah, they're said to be the greatest imitators on the planet. Wonder if we could get them to immitate a vessel of some kind.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4534,4535,I'm seeing fins.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4535,4536,I must be seeing things. They've really moved on from Dolphin Plank Pose.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4535,4536,I must be seeing things. They've really moved on from Dolphin Plank Pose.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4536,4537,They're just jealous.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4537,4538,Get the signal? SOS from dolphins.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4537,4538,Get the signal? SOS from dolphins.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4538,4539,I'm thinking maybe it’s time for a change.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4539,4540,Are they mocking us cause we don't have a way out?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4540,4541,What's tomorrows show gonna be?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4541,4542,The therapeutic effects of walking with humans are well proven.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4542,4543,I'm replacing all of you with palm trees except for Ferguson. His replacement will be a Spineless Yucca.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4543,4544,Now that's a fishy story.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4544,4545,No! Go display for that ship! Not here!,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4545,4546,Don't dolph in the water...,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4546,4547,"Despite differences in demographics, these two Wisconsin counties both voted Democrat.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4547,4548,There's porpoise in this mirage.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4539,4540,Are they mocking us cause we don't have a way out?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4540,4541,What's tomorrows show gonna be?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4541,4542,The therapeutic effects of walking with humans are well proven.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4542,4543,I'm replacing all of you with palm trees except for Ferguson. His replacement will be a Spineless Yucca.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4543,4544,Now that's a fishy story.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4544,4545,No! Go display for that ship! Not here!,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4545,4546,Don't dolph in the water...,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4546,4547,"Despite differences in demographics, these two Wisconsin counties both voted Democrat.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4547,4548,There's porpoise in this mirage.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4548,4549,It was a shame what happened to the narwhal island last week,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4549,4550,"Don't be a party pooper, Charlie.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4550,4551,"Greg, I think we crashed onto a Damon Lindelof kind of island.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4549,4550,"Don't be a party pooper, Charlie.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4550,4551,"Greg, I think we crashed onto a Damon Lindelof kind of island.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4551,4552,I will never outlive that 6.2 I gave the home team.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4552,4553,This Dauphin Pyramid better not collapse!,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4553,4554,I might be seeing Dancing with the Stars when they're really washed up.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4554,4555,Shut up Rick. Its all in your head.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4555,4556,Flattery won't get them anywhere.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4556,4557,DON'T ACT IMPRESSED. IT MAY CAUSE BAD MEMORIES OF MARINE WORLD .,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4552,4553,This Dauphin Pyramid better not collapse!,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4553,4554,I might be seeing Dancing with the Stars when they're really washed up.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4554,4555,Shut up Rick. Its all in your head.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4555,4556,Flattery won't get them anywhere.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4556,4557,DON'T ACT IMPRESSED. IT MAY CAUSE BAD MEMORIES OF MARINE WORLD .,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4557,4558,"Daniel, look! We're gonna die!",1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4558,4559,I always heard there was a place called sharks island-guess it's true!,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4559,4560,Just like Hamilton - a big snore!,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4558,4559,I always heard there was a place called sharks island-guess it's true!,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4559,4560,Just like Hamilton - a big snore!,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4560,4561,He preferred the original cast.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4561,4562,The new administration uses porpoises to round up illegals on route to USA.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4562,4563,I've had it! We need a Dolphins Are Fish sign.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4563,4564,"You know, you're a pretty good looking porpoise.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4564,4565,"Sure they're cute, but do they have a place in Trump's American?",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4565,4566,"""I think we need to find a porpoise in life.'",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4566,4567,They usually try to redeem this cliché by somehow including a whale.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4567,4568,Do you feel comfortable being the starboard side?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4568,4569,I feel we need a new porpoise in life,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4569,4570,Do you think they'll find their way back to the aquarium in time for the aquacaid ?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4570,4571,Sea World has nothing on these guys!,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4571,4572,Where can a man get a decent drink around here?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4572,4573,Dolphinnequin Challenge.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4573,4574,"Roy, I can't hold this position for much longer!"" ""We are trying to emulate the depressed species of homo sapiens. Try a little harder, Roy.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4574,4575,We should have paid for the deluxe excursion package.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4575,4576,He says they escaped from Sea World.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4576,4577,These new-age porpoise schools are so confusing.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4577,4578,Remember they're just looking for friends...don't mention the Bills.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4578,4579,Did you hear there was a circus coming to town?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4579,4580,"The revenge of Sea World's 'Dolphin Encounter'. ""I think they are flipping us off.""",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4580,4581,I think lunch has arrived.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4561,4562,The new administration uses porpoises to round up illegals on route to USA.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4562,4563,I've had it! We need a Dolphins Are Fish sign.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4563,4564,"You know, you're a pretty good looking porpoise.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4564,4565,"Sure they're cute, but do they have a place in Trump's American?",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4565,4566,"""I think we need to find a porpoise in life.'",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4566,4567,They usually try to redeem this cliché by somehow including a whale.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4567,4568,Do you feel comfortable being the starboard side?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4568,4569,I feel we need a new porpoise in life,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4569,4570,Do you think they'll find their way back to the aquarium in time for the aquacaid ?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4570,4571,Sea World has nothing on these guys!,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4571,4572,Where can a man get a decent drink around here?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4572,4573,Dolphinnequin Challenge.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4573,4574,"Roy, I can't hold this position for much longer!"" ""We are trying to emulate the depressed species of homo sapiens. Try a little harder, Roy.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4574,4575,We should have paid for the deluxe excursion package.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4575,4576,He says they escaped from Sea World.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4576,4577,These new-age porpoise schools are so confusing.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4577,4578,Remember they're just looking for friends...don't mention the Bills.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4578,4579,Did you hear there was a circus coming to town?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4579,4580,"The revenge of Sea World's 'Dolphin Encounter'. ""I think they are flipping us off.""",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4580,4581,I think lunch has arrived.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4581,4582,The United States of America,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4582,4583,"I thought they said ""flip"" phone so of course I had to choose the Palm Pilot.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4583,4584,"Yo, hand me several cans of that dolphin-safe tuna, will ya.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4584,4585,Think we can get to the bigger island?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4585,4586,...but the weirdest part is I can't shake this sense of deja vu.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4586,4587,"Ok Aquaman, you can quit the clowning around.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4587,4588,"Don't worry, they won't be in the neighborhood for long.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4588,4589,"Smart is good, bored is okay; Smart and board is a problem.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4589,4590,Have you ever heard of dolphins being mean-spirited?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4590,4591,"Stan look at them, trying to show off all their tricks.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4591,4592,"Dolphin see, Dolphin do...I thought they were supposed to be really smart.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4592,4593,This is not the time to talk football.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4582,4583,"I thought they said ""flip"" phone so of course I had to choose the Palm Pilot.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4583,4584,"Yo, hand me several cans of that dolphin-safe tuna, will ya.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4584,4585,Think we can get to the bigger island?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4585,4586,...but the weirdest part is I can't shake this sense of deja vu.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4586,4587,"Ok Aquaman, you can quit the clowning around.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4587,4588,"Don't worry, they won't be in the neighborhood for long.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4588,4589,"Smart is good, bored is okay; Smart and board is a problem.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4589,4590,Have you ever heard of dolphins being mean-spirited?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4590,4591,"Stan look at them, trying to show off all their tricks.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4591,4592,"Dolphin see, Dolphin do...I thought they were supposed to be really smart.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4592,4593,This is not the time to talk football.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4593,4594,"We can make that dolphin sitting down suck off the one standing up, but you're not gonna like how.",1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4594,4595,Something tell me we are here for distinctive porpoises.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4595,4596,Our neighbors definitely bloom where they're planted.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4596,4597,But where has the rum gone?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4597,4598,"Don't be depressed, it's always hard following Cirque du Soleil.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4598,4599,Ignore them. Those two guys you think you see are just a mirage.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4599,4600,"Hey, looks like the dolphins are lost too!..",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4600,4601,I didn't realize they have mirror neurons also.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4601,4602,I'm quitting Marine World tomorrow.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4602,4603,I told you we're on the road to Madalay.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4603,4604,"If God is our cartoonist, why does he hate us so?",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4594,4595,Something tell me we are here for distinctive porpoises.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4595,4596,Our neighbors definitely bloom where they're planted.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4596,4597,But where has the rum gone?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4597,4598,"Don't be depressed, it's always hard following Cirque du Soleil.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4598,4599,Ignore them. Those two guys you think you see are just a mirage.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4599,4600,"Hey, looks like the dolphins are lost too!..",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4600,4601,I didn't realize they have mirror neurons also.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4601,4602,I'm quitting Marine World tomorrow.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4602,4603,I told you we're on the road to Madalay.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4603,4604,"If God is our cartoonist, why does he hate us so?",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4604,4605,I guess they're afraid he's going to deport them back to Sea World.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4605,4606,"Hey, does finally getting what 'jumping the shark' means count as enlightenment?",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4606,4607,I told you we should have spelled out S.O.S. first thing,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
-4607,4608,I'm going for it. It might be risky but it's better than the status quo.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4605,4606,"Hey, does finally getting what 'jumping the shark' means count as enlightenment?",1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4606,4607,I told you we should have spelled out S.O.S. first thing,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
+4607,4608,I'm going for it. It might be risky but it's better than the status quo.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4608,4609,I think cartoonist Maslin is mocking our situation here.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
 4609,4610,"Democracy, equality and a few decorations at Christmas time is all I expect from you people.",1.0625,0.04618658197582853,48.0,46.0,1.0,1.0
-4610,4611,this is great! front row seats and EVERYTHING!,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0
+4610,4611,this is great! front row seats and EVERYTHING!,1.0625,0.035308292679127,48.0,45.0,3.0,0.0
 4611,4612,"Hey, if they can survive out of the water, we can survive too.",1.0612244897959184,0.045252158828741736,49.0,47.0,1.0,1.0
 4612,4613,"Sorry to say it, but you're right; we are regressing.",1.0612244897959184,0.03460372440370034,49.0,46.0,3.0,0.0
 4613,4614,When did they repeal the law of gravity?,1.0612244897959184,0.03460372440370034,49.0,46.0,3.0,0.0
@@ -4754,136 +4754,136 @@
 4752,4753,I see those mimic Dolphins are at it again.,1.0425531914893618,0.0297607917523504,47.0,45.0,2.0,0.0
 4753,4754,I said do NOT drink the sea water!,1.0425531914893618,0.0297607917523504,47.0,45.0,2.0,0.0
 4754,4755,"Next on the agenda: is this a ""Merry Christmas"" or ""Happy Holiday "" this election year?",1.0416666666666667,0.029147663515556005,48.0,46.0,2.0,0.0
-4755,4756,I knew dolphins were rapist assholes but this is just too much.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4756,4757,They were raised by a Polobulus Dancer,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4757,4758,"Next time, let's get rid of the write-in option.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4758,4759,Our corporate move to a plant-based leadership model is a fresh approach in the marketplace.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4759,4760,Those fellas from 'Queer Eye for the Straight Guy' just won Season 33 of 'Survivor',1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4760,4761,"I don't know, there's something first about that island.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4761,4762,"Okay, give us the dirt.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4762,4763,Some island we're stranded on!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4763,4764,Let's celebrate the fact we now have a real potted plant running this company.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4764,4765,Somehow I'm left cold by their version of Pilates.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4765,4766,"'I thought it was a tuna' doesn't get us off this island, Bob.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4766,4767,And what did you decide to bring with you one this deserted island?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4767,4768,Maybe they are trying to shoot the breeze with us?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4768,4769,"Yes, we know your priority is global warming",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4769,4770,Sea World rejects.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4770,4771,Stunning! You cannot ignore plant intelligence.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4771,4772,"Mocking fish...you're all sick. I knew Flipper, none of you are Flipper.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4772,4773,I think their mocking our situation.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4773,4774,I think I see the guy she tells me not to worry about.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4774,4775,Are you a copyright layer by any chance?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4775,4776,We're being mocked by a pod of dolphins.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4776,4777,You this no we are being cloned on porpoise?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4777,4778,Are we done counting license plates yet?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4778,4779,"Don't need a mirror to see my frizzing hair, because the water is so clear I can see our reflection in it.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4779,4780,"look at this, it looks like improvised visual aid.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4780,4781,Why don't you make like a dolphin and tree?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4781,4782,It takes 8 of them to do what Darrelle Revis can do on his own.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4782,4783,So palm and thanks for all the itch.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4783,4784,What an act that would be at SeaWorld!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4784,4785,Don't worry! Because of the pollution the dolphins have developed identity crisis.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4785,4786,"Well, at least they didn't wear blindfolds and use echolocation.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4786,4787,Do you think a dolphin fountain would enhance our curb appeal?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4787,4788,Maybe String Theory has merit?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4788,4789,We are no longer a 'Happy Holidays' company.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4789,4790,Partial sun just isn't good enough anymore.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4790,4791,It used to be a sports stadium.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4791,4792,Do you think those Dolphins are taking the Mickey ?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4792,4793,It's all a matter of perspective son.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4793,4794,"Damn! Sea World aesthetics, just what we don't need!",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4794,4795,I told you: Trump will win!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4795,4796,Remember the days when our kids thought fish were friends of theirs.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4796,4797,Scientists discover dolphins 'can speak almost like humans.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4797,4798,"I must be flipping out, I am seeing a marriage.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4798,4799,"Hey Ben, my dolphin mimicry mirage has expanded.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4799,4800,There WHERE THE HELl IS NOAH?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4800,4801,I don't know who they think they're kidding.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4801,4802,You guys made the callback scene -- which calls for a canoe.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4802,4803,Smille,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4803,4804,So that's what they're training dolphins to do.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4804,4805,Never doubt the capacity of an individual.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4805,4806,The gray palm parade again?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4806,4807,"""It's gotta be SEA WORLD, cultural contamination"".",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4807,4808,Lewy Body. For sure.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4808,4809,To hell with Christian Riese Lassen.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4809,4810,"Mr. Frisby, I think we've found the dolphins of NIMH!",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4810,4811,"Why is the guy next to Oh sweet Jesus cover wearing helmet,goggles and an A2 Cooper flight jacket",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4811,4812,"Playing ""I spy"" with the dolphins had lost its charm.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4812,4813,"Hey! We requested the Manatee Challenge, not Mannequin!",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4813,4814,"They're mocking us again DOLL, I'm not watching. I know FIN they're really clever",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4814,4815,Is this how you do the mannequin challenge?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4815,4816,"At least at night we can finally watch, Black Mirror.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4816,4817,Flippette's placement as an imitation island base triggered her descent into dolphinrexia.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4817,4818,"Dion, are you seeing this?",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4818,4819,I think I'm seeing a mirage but I can't be sure.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4819,4820,And I thought dolphins were supposed to be cute...,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4820,4821,Thank God Canada has that free health care!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4821,4822,So that's what homeowner association fees look like.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4822,4823,"I know dolphins are mammals, but they don't have to copy us.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4823,4824,Pass 'em by . . . they look too dried out for dinner!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4824,4825,I can see something fun coming up!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4825,4826,"This is dull, finna go over there.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4826,4827,I'm not so sure that they aren't doing it on porpoise.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4827,4828,"Don't be sad. Ya know, God hates a show off.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4828,4829,Quick! Look back ! Those Copy-Cats are going to fall down and splash us !,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4829,4830,I WONDER IF THEY KNOW FLIPPER?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4830,4831,"These are my friends from drama school. Welcome to the sea, where we like to break the fort wall.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4831,4832,THEY were too smart to vote for Trump.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4832,4833,"Look Mike, the penguins R coming !",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4833,4834,I hate showtime.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4834,4835,Welcome. You can see we've grown to like it here.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4835,4836,They must have been released from an aquarium that had porpoise shows.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4836,4837,Looks like you could use a shave.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4837,4838,The plumber will return after THANKSGIVING!!!!!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4838,4839,"Fish, fish every where and not a bone to pick!",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4839,4840,"Huber or not,I'm taking my chances.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4840,4841,I don't remember this part of Blackfish.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4841,4842,"It's like ""Island of the Blue Dophins"" except they're not blue.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4842,4843,"May be they are acting out ""Survivor.""",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4843,4844,Wanna Dance?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4844,4845,I wonder who taught them that behavior.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4845,4846,A billionaire had that island porpoise built,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4846,4847,Seems pretty fishy to me,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4847,4848,"Sure, it's brilliant communication, but I'm so hungry I'd go all Donner Party on Alexander Graham Bell himself.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4848,4849,Oh! Oh! Fantasy or fears just became reality!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4849,4850,'I think they are making fun of us.',1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4850,4851,Symmetry ain't safety; dolphins ain't deliverance!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4851,4852,Is that a mirage?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4852,4853,"Honey, remember that saying about imitation and flattery? I think we got no-fin to worry about.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4853,4854,"No pods, not palms.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4854,4855,"You think you're funny, don't you.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4855,4856,"Honey, do you think they were sustainably sourced?",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4856,4857,"You, know I'm ne'er emerging nether",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4857,4858,This wouldn't happen to me if I was a dolphin,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4858,4859,The elitists are mocking us.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4859,4860,I heard she only starting leaning in after she got the south-facing office.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4860,4861,"The dolphin's escape from Marine Circus Extravaganza wasn't noteworthy...everyone seemed to be bored with the routines, so a new act needed consideration.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4861,4862,Hey Joe you having illusions or allusions? Stupid Dolphins. Why can't we just stick with mermaids,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4862,4863,''We had to rent this place''! ''they just took it''!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4863,4864,They are really well trained in mimicry.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4864,4865,Americans don't work hard enough.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4865,4866,Who knew the Trump supporters looked like trees?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4866,4867,Regis couldn't put a show on like this.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4867,4868,Looks like a grab for story rights.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4868,4869,I thought we had escaped from our inadequacies...,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4869,4870,Too bad you couldn't think of a pun with the word jet-ski.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4870,4871,"It was the board's idea, they wanted a green CEO",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4871,4872,Look out!--it`s Copy Catfish!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4872,4873,I knew that our hypothesis was correct!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4873,4874,"Yes, I know, but the mortgage has to be paid on this first.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4874,4875,Is that the best the new orca can do?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4875,4876,Were having coconuts and they are having caviar.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4876,4877,Drcvb,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4877,4878,Should we send a message by bottle?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4878,4879,Welcome to Dolphin Mock Resort.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4879,4880,I don't know why I keep wondering about the porpoise of life.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4880,4881,Can someone explain to me the porpoise of it all?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4881,4882,And you should see them do shake-a-fin.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4882,4883,Are those guys porpoises or dolphins? I could never tell the difference even at the zoo.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4883,4884,"Now I know what LSD stands for: lavender, sultan Dolphins..",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
-4884,4885,the underwater boss said we won,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0
+4755,4756,I knew dolphins were rapist assholes but this is just too much.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4756,4757,They were raised by a Polobulus Dancer,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4757,4758,"Next time, let's get rid of the write-in option.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4758,4759,Our corporate move to a plant-based leadership model is a fresh approach in the marketplace.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4759,4760,Those fellas from 'Queer Eye for the Straight Guy' just won Season 33 of 'Survivor',1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4760,4761,"I don't know, there's something first about that island.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4761,4762,"Okay, give us the dirt.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4762,4763,Some island we're stranded on!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4763,4764,Let's celebrate the fact we now have a real potted plant running this company.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4764,4765,Somehow I'm left cold by their version of Pilates.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4765,4766,"'I thought it was a tuna' doesn't get us off this island, Bob.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4766,4767,And what did you decide to bring with you one this deserted island?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4767,4768,Maybe they are trying to shoot the breeze with us?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4768,4769,"Yes, we know your priority is global warming",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4769,4770,Sea World rejects.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4770,4771,Stunning! You cannot ignore plant intelligence.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4771,4772,"Mocking fish...you're all sick. I knew Flipper, none of you are Flipper.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4772,4773,I think their mocking our situation.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4773,4774,I think I see the guy she tells me not to worry about.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4774,4775,Are you a copyright layer by any chance?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4775,4776,We're being mocked by a pod of dolphins.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4776,4777,You this no we are being cloned on porpoise?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4777,4778,Are we done counting license plates yet?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4778,4779,"Don't need a mirror to see my frizzing hair, because the water is so clear I can see our reflection in it.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4779,4780,"look at this, it looks like improvised visual aid.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4780,4781,Why don't you make like a dolphin and tree?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4781,4782,It takes 8 of them to do what Darrelle Revis can do on his own.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4782,4783,So palm and thanks for all the itch.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4783,4784,What an act that would be at SeaWorld!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4784,4785,Don't worry! Because of the pollution the dolphins have developed identity crisis.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4785,4786,"Well, at least they didn't wear blindfolds and use echolocation.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4786,4787,Do you think a dolphin fountain would enhance our curb appeal?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4787,4788,Maybe String Theory has merit?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4788,4789,We are no longer a 'Happy Holidays' company.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4789,4790,Partial sun just isn't good enough anymore.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4790,4791,It used to be a sports stadium.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4791,4792,Do you think those Dolphins are taking the Mickey ?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4792,4793,It's all a matter of perspective son.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4793,4794,"Damn! Sea World aesthetics, just what we don't need!",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4794,4795,I told you: Trump will win!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4795,4796,Remember the days when our kids thought fish were friends of theirs.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4796,4797,Scientists discover dolphins 'can speak almost like humans.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4797,4798,"I must be flipping out, I am seeing a marriage.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4798,4799,"Hey Ben, my dolphin mimicry mirage has expanded.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4799,4800,There WHERE THE HELl IS NOAH?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4800,4801,I don't know who they think they're kidding.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4801,4802,You guys made the callback scene -- which calls for a canoe.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4802,4803,Smille,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4803,4804,So that's what they're training dolphins to do.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4804,4805,Never doubt the capacity of an individual.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4805,4806,The gray palm parade again?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4806,4807,"""It's gotta be SEA WORLD, cultural contamination"".",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4807,4808,Lewy Body. For sure.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4808,4809,To hell with Christian Riese Lassen.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4809,4810,"Mr. Frisby, I think we've found the dolphins of NIMH!",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4810,4811,"Why is the guy next to Oh sweet Jesus cover wearing helmet,goggles and an A2 Cooper flight jacket",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4811,4812,"Playing ""I spy"" with the dolphins had lost its charm.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4812,4813,"Hey! We requested the Manatee Challenge, not Mannequin!",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4813,4814,"They're mocking us again DOLL, I'm not watching. I know FIN they're really clever",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4814,4815,Is this how you do the mannequin challenge?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4815,4816,"At least at night we can finally watch, Black Mirror.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4816,4817,Flippette's placement as an imitation island base triggered her descent into dolphinrexia.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4817,4818,"Dion, are you seeing this?",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4818,4819,I think I'm seeing a mirage but I can't be sure.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4819,4820,And I thought dolphins were supposed to be cute...,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4820,4821,Thank God Canada has that free health care!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4821,4822,So that's what homeowner association fees look like.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4822,4823,"I know dolphins are mammals, but they don't have to copy us.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4823,4824,Pass 'em by . . . they look too dried out for dinner!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4824,4825,I can see something fun coming up!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4825,4826,"This is dull, finna go over there.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4826,4827,I'm not so sure that they aren't doing it on porpoise.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4827,4828,"Don't be sad. Ya know, God hates a show off.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4828,4829,Quick! Look back ! Those Copy-Cats are going to fall down and splash us !,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4829,4830,I WONDER IF THEY KNOW FLIPPER?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4830,4831,"These are my friends from drama school. Welcome to the sea, where we like to break the fort wall.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4831,4832,THEY were too smart to vote for Trump.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4832,4833,"Look Mike, the penguins R coming !",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4833,4834,I hate showtime.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4834,4835,Welcome. You can see we've grown to like it here.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4835,4836,They must have been released from an aquarium that had porpoise shows.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4836,4837,Looks like you could use a shave.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4837,4838,The plumber will return after THANKSGIVING!!!!!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4838,4839,"Fish, fish every where and not a bone to pick!",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4839,4840,"Huber or not,I'm taking my chances.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4840,4841,I don't remember this part of Blackfish.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4841,4842,"It's like ""Island of the Blue Dophins"" except they're not blue.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4842,4843,"May be they are acting out ""Survivor.""",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4843,4844,Wanna Dance?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4844,4845,I wonder who taught them that behavior.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4845,4846,A billionaire had that island porpoise built,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4846,4847,Seems pretty fishy to me,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4847,4848,"Sure, it's brilliant communication, but I'm so hungry I'd go all Donner Party on Alexander Graham Bell himself.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4848,4849,Oh! Oh! Fantasy or fears just became reality!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4849,4850,'I think they are making fun of us.',1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4850,4851,Symmetry ain't safety; dolphins ain't deliverance!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4851,4852,Is that a mirage?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4852,4853,"Honey, remember that saying about imitation and flattery? I think we got no-fin to worry about.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4853,4854,"No pods, not palms.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4854,4855,"You think you're funny, don't you.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4855,4856,"Honey, do you think they were sustainably sourced?",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4856,4857,"You, know I'm ne'er emerging nether",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4857,4858,This wouldn't happen to me if I was a dolphin,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4858,4859,The elitists are mocking us.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4859,4860,I heard she only starting leaning in after she got the south-facing office.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4860,4861,"The dolphin's escape from Marine Circus Extravaganza wasn't noteworthy...everyone seemed to be bored with the routines, so a new act needed consideration.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4861,4862,Hey Joe you having illusions or allusions? Stupid Dolphins. Why can't we just stick with mermaids,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4862,4863,''We had to rent this place''! ''they just took it''!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4863,4864,They are really well trained in mimicry.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4864,4865,Americans don't work hard enough.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4865,4866,Who knew the Trump supporters looked like trees?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4866,4867,Regis couldn't put a show on like this.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4867,4868,Looks like a grab for story rights.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4868,4869,I thought we had escaped from our inadequacies...,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4869,4870,Too bad you couldn't think of a pun with the word jet-ski.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4870,4871,"It was the board's idea, they wanted a green CEO",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4871,4872,Look out!--it`s Copy Catfish!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4872,4873,I knew that our hypothesis was correct!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4873,4874,"Yes, I know, but the mortgage has to be paid on this first.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4874,4875,Is that the best the new orca can do?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4875,4876,Were having coconuts and they are having caviar.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4876,4877,Drcvb,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4877,4878,Should we send a message by bottle?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4878,4879,Welcome to Dolphin Mock Resort.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4879,4880,I don't know why I keep wondering about the porpoise of life.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4880,4881,Can someone explain to me the porpoise of it all?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4881,4882,And you should see them do shake-a-fin.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4882,4883,Are those guys porpoises or dolphins? I could never tell the difference even at the zoo.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4883,4884,"Now I know what LSD stands for: lavender, sultan Dolphins..",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
+4884,4885,the underwater boss said we won,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0
 4885,4886,I've heard of Easter Island but Dolphin Island?,1.0217391304347827,0.0219793491131929,46.0,45.0,1.0,0.0
 4886,4887,Now they are ape-ing to prove they are smarter than apes,1.0217391304347827,0.0219793491131929,46.0,45.0,1.0,0.0
 4887,4888,Porpoise-ers!,1.0217391304347827,0.0219793491131929,46.0,45.0,1.0,0.0

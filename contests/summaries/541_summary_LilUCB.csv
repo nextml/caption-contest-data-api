@@ -1,10 +1,10 @@
 ,rank,caption,score,precision,count,unfunny,somewhat_funny,funny
-0,1,Let me guess...the Gym Reaper?,1.9225908372827805,0.033509105883958466,633.0,251.0,180.0,202.0
+0,1,Let me guess...the Gym Reaper?,1.9225908372827805,0.03350910588395846,633.0,251.0,180.0,202.0
 1,2,You must be kidding. I've got tickets for 'Hamilton' tonight.,1.8446153846153843,0.0316023860933672,650.0,269.0,213.0,168.0
 2,3,We're divorced---but I'd be delighted to give you his current address.,1.8088962108731463,0.0330515309224665,607.0,270.0,183.0,154.0
 3,4,"No, I get it. I just think it's a little insulting that he sends an intern.",1.782122905027933,0.033834806274366844,537.0,236.0,182.0,119.0
 4,5,It's for you honey,1.7637130801687764,0.037869970774786516,474.0,230.0,126.0,118.0
-5,6,"So this is your idea of ""dressed to kill""?",1.753303964757709,0.03679037560008912,454.0,209.0,148.0,97.0
+5,6,"So this is your idea of ""dressed to kill""?",1.7533039647577089,0.03679037560008912,454.0,209.0,148.0,97.0
 6,7,"Harold, it’s for you.",1.7526427061310783,0.03738668194306402,473.0,229.0,132.0,112.0
 7,8,"We divorced 10 years ago, but I'll be happy to give you his address.",1.7522935779816513,0.045730632849499096,327.0,162.0,84.0,81.0
 8,9,He's in the kitchen washing the toaster.,1.7478260869565216,0.039338798807677634,460.0,236.0,104.0,120.0
@@ -19,13 +19,13 @@
 17,18,"No, I'm not ready. This is just the way I look without my makeup.",1.680672268907563,0.04359998469066044,357.0,196.0,79.0,82.0
 18,19,You call that dressed to kill?,1.6705882352941177,0.041770827538543435,340.0,175.0,102.0,63.0
 19,20,Hold on. Let me get my husband.,1.6686390532544384,0.04463053111718504,338.0,188.0,74.0,76.0
-20,21,"He's out right now but as long as you're here could you trim the hedge?""",1.6686390532544384,0.040069949851688866,338.0,166.0,118.0,54.0
+20,21,"He's out right now but as long as you're here could you trim the hedge?""",1.6686390532544384,0.04006994985168887,338.0,166.0,118.0,54.0
 21,22,Come back on Nov. 9th and I’ll let you know.,1.6646706586826348,0.04370448217692628,334.0,181.0,84.0,69.0
 22,23,"He moved out, but I'll get you his new address.",1.6626506024096386,0.043108485597403885,332.0,177.0,90.0,65.0
 23,24,Thank God you're here. One more debate and I would've done it myself.,1.653125,0.04431833880890128,320.0,175.0,81.0,64.0
 24,25,"No, I won't ""Like, go with you and stuff.""",1.6520376175548592,0.04422174288296516,319.0,174.0,82.0,63.0
 25,26,Sure. Just let me get his Netflix password before you talk to him.,1.6518987341772151,0.042014385238905404,316.0,162.0,102.0,52.0
-26,27,Come back on November the 9th and we'll talk.,1.6487341772151898,0.043690682819440066,316.0,170.0,87.0,59.0
+26,27,Come back on November the 9th and we'll talk.,1.6487341772151898,0.04369068281944007,316.0,170.0,87.0,59.0
 27,28,Get a life.,1.632996632996633,0.04487024307573355,297.0,163.0,80.0,54.0
 28,29,"I see fashion's dead, too.",1.6301369863013702,0.0447359351580561,292.0,159.0,82.0,51.0
 29,30,So much for death with dignity.,1.6279863481228671,0.042488308345732126,293.0,152.0,98.0,43.0
@@ -35,12 +35,12 @@
 33,34,"I'd invite you in, but I guess I don't live here anymore.",1.6236933797909407,0.04674524957110348,287.0,164.0,67.0,56.0
 34,35,He's on the treadmill.,1.6210526315789473,0.04624171356864755,285.0,161.0,71.0,53.0
 35,36,"Sorry, Billy won't be harvesting any souls until he finishes his homework.",1.6094890510948905,0.04671150571910228,274.0,156.0,69.0,49.0
-36,37,"Who are you here for? Actually, how many can you take?",1.608058608058608,0.04599071494449487,273.0,153.0,74.0,46.0
+36,37,"Who are you here for? Actually, how many can you take?",1.6080586080586081,0.045990714944494866,273.0,153.0,74.0,46.0
 37,38,He's not home but you're welcome to wait.,1.6066176470588236,0.046721829478718835,272.0,155.0,69.0,48.0
 38,39,"Good, you're here. I'll go get my husband.",1.6051660516605166,0.046579425207274594,271.0,154.0,70.0,47.0
-39,40,"Grim, huh? I'll show you grim. He's on the couch in his underwear.",1.602996254681648,0.04862410987011328,267.0,158.0,57.0,52.0
+39,40,"Grim, huh? I'll show you grim. He's on the couch in his underwear.",1.6029962546816483,0.04862410987011328,267.0,158.0,57.0,52.0
 40,41,I'm just glad to see a millennial with a job.,1.6022304832713754,0.04444986080132459,269.0,146.0,84.0,39.0
-41,42,"Thank God, I thought it was another Jehovah's Witness.",1.6015037593984962,0.046399579312388015,266.0,150.0,72.0,44.0
+41,42,"Thank God, I thought it was another Jehovah's Witness.",1.6015037593984962,0.04639957931238802,266.0,150.0,72.0,44.0
 42,43,You're too late. I'm already in hell.,1.5984251968503935,0.04880052181062988,254.0,148.0,60.0,46.0
 43,44,"Well, I'll be damned.",1.5954198473282444,0.0454270910276415,262.0,145.0,78.0,39.0
 44,45,"Just my luck, I get the intern.",1.5945945945945943,0.04518549830771969,259.0,142.0,80.0,37.0
@@ -55,18 +55,18 @@
 53,54,You want to move back home for a while? Over my dead body.,1.58,0.04515035123747621,250.0,138.0,79.0,33.0
 54,55,And what are you supposed to be -- the Gym Reaper?,1.5789473684210529,0.048717214728384285,247.0,146.0,59.0,42.0
 55,56,I'll get my husband.,1.5789473684210529,0.04769298778815372,247.0,143.0,65.0,39.0
-56,57,"Ironically, he's in the living room.",1.575510204081633,0.047671274073296216,245.0,142.0,65.0,38.0
-57,58,"Well if your little walk through the valley of the shadow of death goes through my living room, you're going to need to take your shoes off because I just vacuumed.",1.575510204081633,0.044400972101910983,245.0,133.0,83.0,29.0
-58,59,"You look more like the gym reaper, if you ask me.",1.575510204081633,0.04660667715802578,245.0,139.0,71.0,35.0
+56,57,"Ironically, he's in the living room.",1.5755102040816331,0.047671274073296216,245.0,142.0,65.0,38.0
+57,58,"Well if your little walk through the valley of the shadow of death goes through my living room, you're going to need to take your shoes off because I just vacuumed.",1.5755102040816331,0.04440097210191098,245.0,133.0,83.0,29.0
+58,59,"You look more like the gym reaper, if you ask me.",1.5755102040816331,0.04660667715802578,245.0,139.0,71.0,35.0
 59,60,"So good to see you, I was afraid I was going to have to vote this year.",1.5720164609053495,0.05041907023645343,243.0,149.0,49.0,45.0
 60,61,Nice shoes and sweats. You must be the Gym Reaper!,1.5702479338842976,0.04852082914031613,242.0,143.0,60.0,39.0
 61,62,Finally! He's in the den.,1.5654008438818563,0.04898970123112757,237.0,141.0,58.0,38.0
-62,63,I can't come: I'm being audited.,1.561181434599156,0.05150298936129935,237.0,149.0,43.0,45.0
+62,63,I can't come: I'm being audited.,1.5611814345991561,0.05150298936129935,237.0,149.0,43.0,45.0
 63,64,"Herb stepped out for a carton of cigarettes, but you probably knew that.",1.5598290598290598,0.047238085543015916,234.0,135.0,67.0,32.0
 64,65,Thanks for coming on such short notice. He's snoring again.,1.5584415584415583,0.0484972826947985,231.0,136.0,61.0,34.0
 65,66,Sure you are. And I'm the Easter Bunny.,1.55793991416309,0.048939434855539005,233.0,139.0,58.0,36.0
 66,67,"Oh good, I thought you were a Jehovah's Witness.",1.55793991416309,0.04931599083489549,233.0,140.0,56.0,37.0
-67,68,It figures: I just paid my taxes.,1.5506607929515421,0.04879895466818604,227.0,135.0,59.0,33.0
+67,68,It figures: I just paid my taxes.,1.550660792951542,0.04879895466818604,227.0,135.0,59.0,33.0
 68,69,"I don't care why you missed curfew. If Pestilence, Famine, and Death jumped off a bridge, would you jump too?",1.5502183406113537,0.050408674044894346,229.0,141.0,50.0,38.0
 69,70,He's relaxing in the tub with a martini and a few vicodin. Why?,1.5486725663716814,0.04775482323267979,226.0,132.0,64.0,30.0
 70,71,What happened to Death with dignity?,1.5486725663716814,0.049374574520136105,226.0,136.0,56.0,34.0
@@ -74,7 +74,7 @@
 72,73,"All right, don't tell us. Dad and I are just happy you got any job at all.",1.5486725663716814,0.04775482323267979,226.0,132.0,64.0,30.0
 73,74,"You don't scare me, I'm a teacher.",1.5466666666666666,0.04955356249106169,225.0,136.0,55.0,34.0
 74,75,"well, at least I won't have to witness another presidential debate.",1.545045045045045,0.05323682775476346,222.0,143.0,37.0,42.0
-75,76,A hoodie? That could get YOU killed.,1.545045045045045,0.051286802358451386,222.0,138.0,47.0,37.0
+75,76,A hoodie? That could get YOU killed.,1.545045045045045,0.05128680235845138,222.0,138.0,47.0,37.0
 76,77,"If Trump wins, I'm all yours.",1.545045045045045,0.05008035399449126,222.0,135.0,53.0,34.0
 77,78,"Don't go out wearing that hoodie, you'll make people nervous.",1.545045045045045,0.05048570691651902,222.0,136.0,51.0,35.0
 78,79,"You aren't reaping anything, mister, until that room is clean.",1.545045045045045,0.04967169324239367,222.0,134.0,55.0,33.0
@@ -89,7 +89,7 @@
 87,88,You look more like the Grim Rapper.,1.5388127853881282,0.051049906814009886,219.0,136.0,48.0,35.0
 88,89,Typical! I get to die on Casual Friday.,1.5348837209302326,0.05053256304725525,215.0,132.0,51.0,32.0
 89,90,Sorry -- I ran out of Candy. Will Harold do?,1.5324074074074074,0.04992956885883039,216.0,132.0,53.0,31.0
-90,91,Seriously? The grim rapper?,1.5305164319248827,0.050913273973968165,213.0,132.0,49.0,32.0
+90,91,Seriously? The grim rapper?,1.5305164319248827,0.05091327397396817,213.0,132.0,49.0,32.0
 91,92,Your scythe was much bigger in your profile pic.,1.529126213592233,0.05041275118778709,206.0,125.0,53.0,28.0
 92,93,I'm not going anywhere. This place is rent controlled.,1.5283018867924532,0.04977598675241991,212.0,129.0,54.0,29.0
 93,94,So I take it he wasn't at the gym?,1.5283018867924532,0.04932482271175473,212.0,128.0,56.0,28.0
@@ -105,14 +105,14 @@
 103,104,"We’re divorced, John no longer lives here—LET ME GIVE YOU HIS ADDRESS.",1.5148514851485149,0.05120474733904587,202.0,126.0,48.0,28.0
 104,105,"Well, well, well; if it isn't the Grim Rapper.",1.5147058823529411,0.0535956890387161,204.0,133.0,37.0,34.0
 105,106,"Sorry, I beat you to him.",1.5129533678756475,0.05042394123684965,193.0,117.0,53.0,23.0
-106,107,It never occurred to me that Death would observe casual Friday.,1.512690355329949,0.05170316721481753,197.0,123.0,47.0,27.0
+106,107,It never occurred to me that Death would observe casual Friday.,1.5126903553299489,0.05170316721481753,197.0,123.0,47.0,27.0
 107,108,"My husband isn't home, but I would appreciate it very much if you would wait for him.",1.5124378109452736,0.05042577557760422,201.0,124.0,51.0,26.0
 108,109,"If you don't mind, I'd like to see some ID.",1.5121951219512195,0.047716761624318656,205.0,122.0,61.0,22.0
 109,110,"Well, how was practice?",1.51,0.050120457913984964,200.0,123.0,52.0,25.0
 110,111,"""I really wasn't expecting the 'Gym Reaper'"".",1.51,0.05208709366660004,200.0,127.0,44.0,29.0
 111,112,"Let me guess, Casual Friday the 13th?",1.51,0.05061928049457978,200.0,124.0,50.0,26.0
 112,113,You look more like the Grim Rapper to me.,1.5076142131979695,0.05069663326363148,197.0,122.0,50.0,25.0
-113,114,It's the grim rapper!,1.5076142131979695,0.051204941099085514,197.0,123.0,48.0,26.0
+113,114,It's the grim rapper!,1.5076142131979695,0.05120494109908552,197.0,123.0,48.0,26.0
 114,115,"For the record, I'd like to say that I told him to hire an electrician.",1.5076142131979695,0.05318961804464757,197.0,127.0,40.0,30.0
 115,116,"No, thanks. We didn't sow anything this year.",1.5075376884422111,0.05180334894349741,199.0,126.0,45.0,28.0
 116,117,A man finally knocks on my door and look who it is.,1.5075376884422111,0.04877534103816795,199.0,120.0,57.0,22.0
@@ -122,10 +122,10 @@
 120,121,I thought I had a date with Destiny.,1.5050505050505047,0.05298236443633063,198.0,128.0,40.0,30.0
 121,122,"Dressed to kill, you're not.",1.5050505050505047,0.05394144294661325,198.0,130.0,36.0,32.0
 122,123,"The Grim Rapper, I presume.",1.5027322404371584,0.05417439991537072,183.0,117.0,40.0,26.0
-123,124,It's about time. He's downstairs in the den.,1.5025380710659901,0.05463323626348763,197.0,131.0,33.0,33.0
-124,125,Grim rapper? Right.,1.5025380710659901,0.05120750847059802,197.0,124.0,47.0,26.0
+123,124,It's about time. He's downstairs in the den.,1.50253807106599,0.05463323626348763,197.0,131.0,33.0,33.0
+124,125,Grim rapper? Right.,1.50253807106599,0.05120750847059802,197.0,124.0,47.0,26.0
 125,126,"Oh, sure – and I'm the Virgin Mary.",1.5,0.05076730825668095,194.0,121.0,49.0,24.0
-126,127,First tell me the good news.,1.5,0.04861744324435607,194.0,117.0,57.0,20.0
+126,127,First tell me the good news.,1.5,0.048617443244356066,194.0,117.0,57.0,20.0
 127,128,"Since the divorce, he no longer lives here but I'll be happy to give you his new address.",1.5,0.05333291045538598,194.0,126.0,39.0,29.0
 128,129,"Jerry, it's for you.",1.4974358974358974,0.052115875171113865,195.0,125.0,43.0,27.0
 129,130,He's out celebrating. He thought your appointment was yesterday.,1.4974093264248705,0.05354668052685496,193.0,126.0,38.0,29.0
@@ -140,11 +140,11 @@
 138,139,I wouldn't be seen dead with you.,1.4974093264248705,0.050432259502761485,193.0,120.0,50.0,23.0
 139,140,"Let me guess, you're here to 'unfriend' me...",1.4974093264248705,0.05304031136123293,193.0,125.0,40.0,28.0
 140,141,You must be the grim rapper.,1.4973821989528795,0.05346847887923091,191.0,124.0,39.0,28.0
-141,142,"Oh, good. I was afraid you were a Mormon.",1.4947916666666667,0.05426678683332999,192.0,127.0,35.0,30.0
+141,142,"Oh, good. I was afraid you were a Mormon.",1.4947916666666667,0.054266786833329986,192.0,127.0,35.0,30.0
 142,143,"Yes, we're still undecided.",1.4947916666666667,0.048984782688749264,192.0,117.0,55.0,20.0
-143,144,"The sweatsuit hoodie says, 'Look at me, I'm Death, I live in my mom's basement.'",1.4947916666666667,0.05426678683332999,192.0,127.0,35.0,30.0
+143,144,"The sweatsuit hoodie says, 'Look at me, I'm Death, I live in my mom's basement.'",1.4947916666666667,0.054266786833329986,192.0,127.0,35.0,30.0
 144,145,Let me get my husband for you.,1.4947916666666667,0.05116306306627882,192.0,121.0,47.0,24.0
-145,146,"Death be not proud, but have a little self respect.",1.4920634920634919,0.05231285166088559,189.0,121.0,43.0,25.0
+145,146,"Death be not proud, but have a little self respect.",1.492063492063492,0.05231285166088559,189.0,121.0,43.0,25.0
 146,147,He just applied for life insurance. Come back next month.,1.4893617021276595,0.049164924140459663,188.0,115.0,54.0,19.0
 147,148,"Oh, look, it's the Grim Rapper.",1.4893617021276595,0.052521667208372265,188.0,121.0,42.0,25.0
 148,149,Over my dead body will I leave this rent-controlled apartment.,1.4838709677419355,0.048950512319058906,186.0,114.0,54.0,18.0
@@ -166,7 +166,7 @@
 164,165,That outfit alone is killing me.,1.478021978021978,0.05151227914115065,182.0,116.0,45.0,21.0
 165,166,You could've dressed up a bit! This is kind of a big day for me!,1.4722222222222223,0.05251617678446167,180.0,117.0,41.0,22.0
 166,167,I think you're looking for my husband.,1.4722222222222223,0.05426019317463951,180.0,120.0,35.0,25.0
-167,168,You need to get a life.,1.4719101123595506,0.054726326544399996,178.0,119.0,34.0,25.0
+167,168,You need to get a life.,1.4719101123595506,0.0547263265444,178.0,119.0,34.0,25.0
 168,169,Over my dead body.,1.4692737430167595,0.0521284481326666,179.0,116.0,42.0,21.0
 169,170,"If you're not taking your job seriously, why should I?",1.4692737430167595,0.05028979030386272,179.0,113.0,48.0,18.0
 170,171,Are you here for the Republican Party?,1.4692737430167595,0.052727087946879705,179.0,117.0,40.0,22.0
@@ -189,7 +189,7 @@
 187,188,Im here for the Bris.,1.4632768361581918,0.058335525153726885,177.0,126.0,20.0,31.0
 188,189,"Well, I finally get to see Trump's healthcare plan.",1.4602272727272727,0.05336762690006472,176.0,117.0,37.0,22.0
 189,190,You're as disappointing as the rest of my life.,1.4602272727272727,0.05213668066797483,176.0,115.0,41.0,20.0
-190,191,"If you’ve come for my girlish figure, my libido, or my faith in human decency—you’re too late.",1.4602272727272727,0.05397257327457693,176.0,118.0,35.0,23.0
+190,191,"If you’ve come for my girlish figure, my libido, or my faith in human decency—you’re too late.",1.4602272727272727,0.053972573274576933,176.0,118.0,35.0,23.0
 191,192,"Oh, thank goodness, for a moment I thought you were a clown!",1.4602272727272727,0.055162566979335775,176.0,120.0,31.0,25.0
 192,193,"What do you mean it's like unfriending, only longer?",1.4602272727272727,0.05213668066797483,176.0,115.0,41.0,20.0
 193,194,"Someone to see you,dear .",1.4602272727272727,0.05023373643547915,176.0,112.0,47.0,17.0
@@ -212,13 +212,13 @@
 210,211,"Thanks for the offer, but we have a riding mower.",1.4561403508771933,0.051272440741794975,171.0,110.0,44.0,17.0
 211,212,If you don't take those shoes off you'll be the one getting carried out of here.,1.4534883720930232,0.05104241368298865,172.0,111.0,44.0,17.0
 212,213,"Before you take my husband, any chance you can trim the hedges?",1.4534161490683233,0.057070234705701314,161.0,110.0,29.0,22.0
-213,214,"Well, I guess it's better than waiting for the elections",1.4529411764705882,0.054751131221719464,170.0,115.0,33.0,22.0
-214,215,You're not taking my daughter anywhere dressed like that.,1.4529411764705882,0.05411166903527986,170.0,114.0,35.0,21.0
+213,214,"Well, I guess it's better than waiting for the elections",1.4529411764705882,0.05475113122171946,170.0,115.0,33.0,22.0
+214,215,You're not taking my daughter anywhere dressed like that.,1.4529411764705882,0.054111669035279863,170.0,114.0,35.0,21.0
 215,216,I thought you'd be taller.,1.4529411764705882,0.04940422265215516,170.0,107.0,49.0,14.0
 216,217,Was it the salmon mousse?,1.4523809523809523,0.05122502994917315,168.0,108.0,44.0,16.0
 217,218,I might vote for you considering the alternatives,1.4523809523809523,0.05052442670495108,168.0,107.0,46.0,15.0
 218,219,Wait here. I'll get him.,1.4505494505494505,0.05371707743539876,182.0,125.0,32.0,25.0
-219,220,Well it's about time! He's on the couch.,1.4497041420118344,0.054335325521927665,169.0,114.0,34.0,21.0
+219,220,Well it's about time! He's on the couch.,1.4497041420118344,0.05433532552192768,169.0,114.0,34.0,21.0
 220,221,It's about time! He's in the bedroom.,1.4497041420118344,0.05497972333241165,169.0,115.0,32.0,22.0
 221,222,"Come on in. But, just so you know, he's already dead to me.",1.4491017964071855,0.05416008905749695,167.0,112.0,35.0,20.0
 222,223,"So, white is the new black.",1.4464285714285714,0.05256395114561981,168.0,111.0,39.0,18.0
@@ -254,17 +254,17 @@
 252,253,"If you're looking for my husband's libido, I already killed it with this outfit",1.4355828220858895,0.05642590889318305,163.0,114.0,27.0,22.0
 253,254,Would it kill you to put on a nice cloak?,1.4355828220858895,0.053674218636754006,163.0,110.0,35.0,18.0
 254,255,Why can't you just carry a skateboard like your friends?,1.4355828220858895,0.052244052505411656,163.0,108.0,39.0,16.0
-255,256,Don't wear the hoodie. You'll scare people.,1.4347826086956519,0.05557618064650088,161.0,111.0,30.0,20.0
-256,257,Perfect timing. He's just finishing dessert.,1.4347826086956519,0.05416117015119696,161.0,109.0,34.0,18.0
-257,258,"Tell you what -- you give those hedges a quick trim, and I'll bring Harold out with no fuss.",1.4347826086956519,0.05557618064650088,161.0,111.0,30.0,20.0
-258,259,I'd like to use one of my lifelines.,1.4347826086956519,0.05270818578780073,161.0,107.0,38.0,16.0
-259,260,"I don't care if you're here to take who-ever to the great what-ever, take your shoes off!",1.4347826086956519,0.05416117015119696,161.0,109.0,34.0,18.0
-260,261,Frankly I was hoping for something grimmer.,1.4347826086956519,0.05121399560604239,161.0,105.0,42.0,14.0
-261,262,I like the new look! It's definitely less grim.,1.4347826086956519,0.05045030816935545,161.0,104.0,44.0,13.0
-262,263,... I'd still like to see some identification.,1.4347826086956519,0.05196646127540842,161.0,106.0,40.0,15.0
-263,264,Can you come back later when my husband is home?,1.4347826086956519,0.05416117015119696,161.0,109.0,34.0,18.0
+255,256,Don't wear the hoodie. You'll scare people.,1.434782608695652,0.05557618064650088,161.0,111.0,30.0,20.0
+256,257,Perfect timing. He's just finishing dessert.,1.434782608695652,0.05416117015119696,161.0,109.0,34.0,18.0
+257,258,"Tell you what -- you give those hedges a quick trim, and I'll bring Harold out with no fuss.",1.434782608695652,0.05557618064650088,161.0,111.0,30.0,20.0
+258,259,I'd like to use one of my lifelines.,1.434782608695652,0.05270818578780073,161.0,107.0,38.0,16.0
+259,260,"I don't care if you're here to take who-ever to the great what-ever, take your shoes off!",1.434782608695652,0.05416117015119696,161.0,109.0,34.0,18.0
+260,261,Frankly I was hoping for something grimmer.,1.434782608695652,0.05121399560604239,161.0,105.0,42.0,14.0
+261,262,I like the new look! It's definitely less grim.,1.434782608695652,0.05045030816935545,161.0,104.0,44.0,13.0
+262,263,... I'd still like to see some identification.,1.434782608695652,0.05196646127540842,161.0,106.0,40.0,15.0
+263,264,Can you come back later when my husband is home?,1.434782608695652,0.05416117015119696,161.0,109.0,34.0,18.0
 264,265,I was supposed to get a text when you were ten minutes away.,1.4322580645161291,0.05179586339978968,155.0,101.0,41.0,13.0
-265,266,"Somebody to see you, Harry!",1.432098765432099,0.05389267253148793,162.0,110.0,34.0,18.0
+265,266,"Somebody to see you, Harry!",1.4320987654320991,0.05389267253148793,162.0,110.0,34.0,18.0
 266,267,I'll give you $20 to cut the grass and another $500 if you take my husband.,1.43125,0.052919390312712256,160.0,107.0,37.0,16.0
 267,268,can I see some ID,1.43125,0.053657042625087366,160.0,108.0,35.0,17.0
 268,269,"So, you're just going to casually end it?",1.43125,0.05217130934592236,160.0,106.0,39.0,15.0
@@ -331,9 +331,9 @@
 329,330,This is the last time I'll complain about my pizza not being sliced.,1.4066666666666667,0.0544212311072383,150.0,104.0,31.0,15.0
 330,331,"Finally, a man who matches his profile.",1.4066666666666667,0.05523726870366073,150.0,105.0,29.0,16.0
 331,332,Some of us don't accept death so casually.,1.4066666666666667,0.05359276944340968,150.0,103.0,33.0,14.0
-332,333,For whom the doorbell tolls,1.4039735099337747,0.0524699497280197,151.0,103.0,35.0,13.0
-333,334,Can you give me a minute to sign my donor card?,1.4039735099337747,0.05412666686543721,151.0,105.0,31.0,15.0
-334,335,"You reap, but you can't sew?",1.4039735099337747,0.05412666686543721,151.0,105.0,31.0,15.0
+332,333,For whom the doorbell tolls,1.403973509933775,0.0524699497280197,151.0,103.0,35.0,13.0
+333,334,Can you give me a minute to sign my donor card?,1.403973509933775,0.05412666686543721,151.0,105.0,31.0,15.0
+334,335,"You reap, but you can't sew?",1.403973509933775,0.05412666686543721,151.0,105.0,31.0,15.0
 335,336,"Sorry, but we buy our scythes online.",1.4026845637583891,0.05546454958265745,149.0,105.0,28.0,16.0
 336,337,Let me guess. You're looking for the Republican Party.,1.4026845637583891,0.0570763147333592,149.0,107.0,24.0,18.0
 337,338,Forget a tip! You killed the dog and left my husband.,1.4026845637583891,0.05380452413387425,149.0,103.0,32.0,14.0
@@ -371,7 +371,7 @@
 369,370,"Sure, I'll give a donation. The scythe's the limit.",1.4013605442176869,0.05600619661122764,147.0,104.0,27.0,16.0
 370,371,Oh good. I was afraid it was one of those clowns.,1.4013605442176869,0.05516798073828634,147.0,103.0,29.0,15.0
 371,372,Please tell me it's Halloween.,1.4,0.053512004967252086,150.0,104.0,32.0,14.0
-372,373,"Sure, come on in...I just heard they're going to have a fourth presidential debate.",1.398648648648649,0.05228714971627176,148.0,101.0,35.0,12.0
+372,373,"Sure, come on in...I just heard they're going to have a fourth presidential debate.",1.3986486486486491,0.05228714971627176,148.0,101.0,35.0,12.0
 373,374,"Sure, you're scary; not clown scary, but scary.",1.3972602739726028,0.05095169112050315,146.0,98.0,38.0,10.0
 374,375,You don't look like you are taking this job seriously.,1.3972602739726028,0.05095169112050315,146.0,98.0,38.0,10.0
 375,376,You're late. My mother-in-law left ten minutes ago.,1.3972602739726028,0.05453410009523769,146.0,102.0,30.0,14.0
@@ -444,7 +444,7 @@
 442,443,You're late.. he had a heart attack last week!,1.3829787234042554,0.05839769886592594,141.0,104.0,20.0,17.0
 443,444,This is my last Tinder date.,1.3829787234042554,0.05752368303787276,141.0,103.0,22.0,16.0
 444,445,What are you doing here? Who's coaching the Patriots?,1.3829787234042554,0.05481808773078914,141.0,100.0,28.0,13.0
-445,446,Second bedroom on the left.,1.3802816901408448,0.053573149487771164,142.0,100.0,30.0,12.0
+445,446,Second bedroom on the left.,1.3802816901408448,0.05357314948777117,142.0,100.0,30.0,12.0
 446,447,"As if the scythe isn't intimidating enough, you had to wear a hoodie too?",1.3802816901408448,0.051674965934241146,142.0,98.0,34.0,10.0
 447,448,"Sorry, I already died at the office.",1.3802816901408448,0.055406340682029966,142.0,102.0,26.0,14.0
 448,449,Come back when you're dressed to kill.,1.3785714285714286,0.05864858428056737,140.0,104.0,19.0,17.0
@@ -461,24 +461,24 @@
 459,460,You fool! You could be killed walking around this neighborhood with a hoodie!,1.3785714285714286,0.05503232455965843,140.0,100.0,27.0,13.0
 460,461,I'm feeling just fine. Why do you ask?,1.3768115942028984,0.05558122968480083,138.0,99.0,26.0,13.0
 461,462,Is it about the hedge?,1.3768115942028984,0.056524858390548674,138.0,100.0,24.0,14.0
-462,463,Finally.,1.3768115942028984,0.059265666152187715,138.0,103.0,18.0,17.0
+462,463,Finally.,1.3768115942028984,0.05926566615218772,138.0,103.0,18.0,17.0
 463,464,Honey you have a caller,1.3768115942028984,0.05558122968480083,138.0,99.0,26.0,13.0
-464,465,"You've been out giving the other runners heart attacks, haven't you?",1.3768115942028984,0.05364419863956021,138.0,97.0,30.0,11.0
+464,465,"You've been out giving the other runners heart attacks, haven't you?",1.3768115942028984,0.053644198639560214,138.0,97.0,30.0,11.0
 465,466,Would you mind waiting until he's in the shower?,1.3768115942028984,0.05558122968480083,138.0,99.0,26.0,13.0
 466,467,Do me a quick favor. Go down to 14B and scare the hell out of my ex-husband while I grab my coat.,1.3768115942028984,0.056524858390548674,138.0,100.0,24.0,14.0
 467,468,You think you scare me? The last trick-or-treater was a clown.,1.3768115942028984,0.05264896508843833,138.0,96.0,32.0,10.0
 468,469,You sure know to kill a knock knock joke!,1.3768115942028984,0.05745299068689616,138.0,101.0,22.0,15.0
 469,470,I was expecting someone a little older.,1.3768115942028984,0.05558122968480083,138.0,99.0,26.0,13.0
 470,471,Are you here about the gas leak?,1.3768115942028984,0.05264896508843833,138.0,96.0,32.0,10.0
-471,472,I have news for you. You're at my door. I'm not at yours.,1.3768115942028984,0.05364419863956021,138.0,97.0,30.0,11.0
+471,472,I have news for you. You're at my door. I'm not at yours.,1.3768115942028984,0.053644198639560214,138.0,97.0,30.0,11.0
 472,473,The Trump rally is downstairs,1.3768115942028984,0.05558122968480083,138.0,99.0,26.0,13.0
-473,474,I didn't expect you until November 8th.,1.3768115942028984,0.058366365842543025,138.0,102.0,20.0,16.0
-474,475,Tell me more about this farm upstate.,1.3768115942028984,0.058366365842543025,138.0,102.0,20.0,16.0
+473,474,I didn't expect you until November 8th.,1.3768115942028984,0.05836636584254304,138.0,102.0,20.0,16.0
+474,475,Tell me more about this farm upstate.,1.3768115942028984,0.05836636584254304,138.0,102.0,20.0,16.0
 475,476,"Sorry, I support death with dignity.",1.3768115942028984,0.050599807107237146,138.0,94.0,36.0,8.0
 476,477,"""You're late...I already took care of him"".",1.3768115942028984,0.05745299068689616,138.0,101.0,22.0,15.0
-477,478,"Well, it's about time! He's on the couch. We'd like to keep the remote.",1.3768115942028984,0.05364419863956021,138.0,97.0,30.0,11.0
+477,478,"Well, it's about time! He's on the couch. We'd like to keep the remote.",1.3768115942028984,0.053644198639560214,138.0,97.0,30.0,11.0
 478,479,What is this? Casual Friday the 13th?,1.3768115942028984,0.050599807107237146,138.0,94.0,36.0,8.0
-479,480,Another job swooped by a damn millennial.,1.3768115942028984,0.05364419863956021,138.0,97.0,30.0,11.0
+479,480,Another job swooped by a damn millennial.,1.3768115942028984,0.053644198639560214,138.0,97.0,30.0,11.0
 480,481,"I'll take the ""treat""",1.3768115942028984,0.050599807107237146,138.0,94.0,36.0,8.0
 481,482,First day on the job?,1.3768115942028984,0.050599807107237146,138.0,94.0,36.0,8.0
 482,483,You seem awfully casual about this.,1.3768115942028984,0.050599807107237146,138.0,94.0,36.0,8.0
@@ -487,9 +487,9 @@
 485,486,I was never informed about an early termination fee.,1.3768115942028984,0.056524858390548674,138.0,100.0,24.0,14.0
 486,487,"Well, would you look at that! It's the Grim Rapper!",1.3768115942028984,0.056524858390548674,138.0,100.0,24.0,14.0
 487,488,Not a Terminator. I called for an Exterminator.,1.3768115942028984,0.05462130143522388,138.0,98.0,28.0,12.0
-488,489,You don't look anything like your photo in Match.com.,1.3768115942028984,0.058366365842543025,138.0,102.0,20.0,16.0
-489,490,"No, I haven't heard of 'Casualty Friday'...",1.3768115942028984,0.058366365842543025,138.0,102.0,20.0,16.0
-490,491,"Well if it isn't the prodigal son! Finally found a job, I see. Well come on in, don't just stand there letting the heat out. Your father and I aren't made of money, you know. I swear, you kids will be the death of me.",1.3768115942028984,0.059265666152187715,138.0,103.0,18.0,17.0
+488,489,You don't look anything like your photo in Match.com.,1.3768115942028984,0.05836636584254304,138.0,102.0,20.0,16.0
+489,490,"No, I haven't heard of 'Casualty Friday'...",1.3768115942028984,0.05836636584254304,138.0,102.0,20.0,16.0
+490,491,"Well if it isn't the prodigal son! Finally found a job, I see. Well come on in, don't just stand there letting the heat out. Your father and I aren't made of money, you know. I swear, you kids will be the death of me.",1.3768115942028984,0.05926566615218772,138.0,103.0,18.0,17.0
 491,492,"Send someone else, I prefer death with dignity .",1.3768115942028984,0.05558122968480083,138.0,99.0,26.0,13.0
 492,493,You could have at least dressed to kill.,1.3768115942028984,0.05558122968480083,138.0,99.0,26.0,13.0
 493,494,You're too late. He voted early.,1.3741007194244603,0.05890016656169238,139.0,104.0,18.0,17.0
@@ -497,7 +497,7 @@
 495,496,I don't care who you are--I'm not voting for him!,1.3722627737226278,0.05675429259916865,137.0,100.0,23.0,14.0
 496,497,My husband will be back in half an hour. You're welcome to wait.,1.3722627737226278,0.049695616303066674,137.0,93.0,37.0,7.0
 497,498,Come on in. He's hiding in the closet.,1.3722627737226278,0.05675429259916865,137.0,100.0,23.0,14.0
-498,499,"In your case, I'm not coming unless I see some I.D.",1.3722627737226278,0.053842577088812585,137.0,97.0,29.0,11.0
+498,499,"In your case, I'm not coming unless I see some I.D.",1.3722627737226278,0.05384257708881258,137.0,97.0,29.0,11.0
 499,500,Did you bring my cigarettes?,1.3722627737226278,0.055800605027869335,137.0,99.0,25.0,13.0
 500,501,Can you come back when my husband is home?,1.3722627737226278,0.05769221728611084,137.0,101.0,21.0,15.0
 501,502,I don't care if it's Casual Friday. You're not reaping my soul in sneakers.,1.3722627737226278,0.05861513577859905,137.0,102.0,19.0,16.0
@@ -623,7 +623,7 @@
 621,622,"Before you do my husband, could you do the weeds in the back lot ?",1.353846153846154,0.05106094253243229,130.0,91.0,32.0,7.0
 622,623,Who? Never heard of her.,1.3511450381679388,0.05300557158600242,131.0,94.0,28.0,9.0
 623,624,'Sup? Is that all I get? 'Sup?,1.3511450381679388,0.057265608069276885,131.0,98.0,20.0,13.0
-624,625,My lawn or my life?,1.3511450381679388,0.054102037219083784,131.0,95.0,26.0,10.0
+624,625,My lawn or my life?,1.3511450381679388,0.05410203721908378,131.0,95.0,26.0,10.0
 625,626,"Finally, You Got a JOB!",1.3488372093023255,0.055740221001045184,129.0,95.0,23.0,11.0
 626,627,Whew! I thought it was going to be a clown.,1.3488372093023255,0.051210117293503166,129.0,91.0,31.0,7.0
 627,628,You don't look like your profile picture either.,1.3488372093023255,0.05681633803980252,129.0,96.0,21.0,12.0
@@ -712,28 +712,28 @@
 710,711,"""You want the Trump Campaign Office - that's down the street and third building on your left"".",1.3385826771653544,0.061458009398720384,127.0,100.0,11.0,16.0
 711,712,Tough day at the office? You look like death,1.3385826771653544,0.056144145148793546,127.0,95.0,21.0,11.0
 712,713,I gave at the cemetery.,1.3385826771653544,0.05724639212598188,127.0,96.0,19.0,12.0
-713,714,Why the hoody? You think I don't know who you are?,1.3359999999999999,0.05558370612955538,125.0,93.0,22.0,10.0
-714,715,You're telling me those were amanitas and not portobellos?,1.3359999999999999,0.056732536036751324,125.0,94.0,20.0,11.0
-715,716,I think you want my husband.,1.3359999999999999,0.056732536036751324,125.0,94.0,20.0,11.0
-716,717,Come back later. I'm only on season 2 out of 5.,1.3359999999999999,0.053211689232420915,125.0,91.0,26.0,8.0
-717,718,I already did that part. You were suppose to bring a mop.,1.3359999999999999,0.05896308303752714,125.0,96.0,16.0,13.0
-718,719,Thank God! When I heard the knock I thought you were a politician.,1.3359999999999999,0.056732536036751324,125.0,94.0,20.0,11.0
-719,720,You must be here for American Democracy.,1.3359999999999999,0.056732536036751324,125.0,94.0,20.0,11.0
-720,721,You're certainly treating this whole thing a bit too casually for my tastes.,1.3359999999999999,0.05198510953054946,125.0,90.0,28.0,7.0
-721,722,Simply head up to the penthouse... he has orange hair.,1.3359999999999999,0.05441062514833162,125.0,92.0,24.0,9.0
-722,723,You illegals are taking all the good jobs.,1.3359999999999999,0.05785855946379762,125.0,95.0,18.0,12.0
-723,724,He's working late at the office again. You can get him there.,1.3359999999999999,0.05785855946379762,125.0,95.0,18.0,12.0
-724,725,I'll be ready for you as soon as I finish Game of Thrones.,1.3359999999999999,0.056732536036751324,125.0,94.0,20.0,11.0
-725,726,Christ! You just missed him.,1.3359999999999999,0.05441062514833162,125.0,92.0,24.0,9.0
-726,727,Hell has casual Friday?,1.3359999999999999,0.05558370612955538,125.0,93.0,22.0,10.0
-727,728,Who are you supposed to be- the grim Rapper?,1.3359999999999999,0.053211689232420915,125.0,91.0,26.0,8.0
-728,729,Stop right there! We're on the Do Not Call List,1.3359999999999999,0.053211689232420915,125.0,91.0,26.0,8.0
-729,730,"Who are you, the Grim Sneaker?",1.3359999999999999,0.05441062514833162,125.0,92.0,24.0,9.0
-730,731,I guess I won't be able to outrun you.,1.3359999999999999,0.05441062514833162,125.0,92.0,24.0,9.0
-731,732,Who knew Death could be so casual...,1.3359999999999999,0.05558370612955538,125.0,93.0,22.0,10.0
-732,733,I thought you said you were taking me out tonight.,1.3359999999999999,0.061112271087068536,125.0,98.0,12.0,15.0
-733,734,I thought I was ordering Death By Chocolate,1.3359999999999999,0.056732536036751324,125.0,94.0,20.0,11.0
-734,735,We won't be needing you. He killed himself during the last debate.,1.3359999999999999,0.05785855946379762,125.0,95.0,18.0,12.0
+713,714,Why the hoody? You think I don't know who you are?,1.336,0.055583706129555384,125.0,93.0,22.0,10.0
+714,715,You're telling me those were amanitas and not portobellos?,1.336,0.056732536036751324,125.0,94.0,20.0,11.0
+715,716,I think you want my husband.,1.336,0.056732536036751324,125.0,94.0,20.0,11.0
+716,717,Come back later. I'm only on season 2 out of 5.,1.336,0.053211689232420915,125.0,91.0,26.0,8.0
+717,718,I already did that part. You were suppose to bring a mop.,1.336,0.05896308303752714,125.0,96.0,16.0,13.0
+718,719,Thank God! When I heard the knock I thought you were a politician.,1.336,0.056732536036751324,125.0,94.0,20.0,11.0
+719,720,You must be here for American Democracy.,1.336,0.056732536036751324,125.0,94.0,20.0,11.0
+720,721,You're certainly treating this whole thing a bit too casually for my tastes.,1.336,0.05198510953054946,125.0,90.0,28.0,7.0
+721,722,Simply head up to the penthouse... he has orange hair.,1.336,0.05441062514833162,125.0,92.0,24.0,9.0
+722,723,You illegals are taking all the good jobs.,1.336,0.05785855946379762,125.0,95.0,18.0,12.0
+723,724,He's working late at the office again. You can get him there.,1.336,0.05785855946379762,125.0,95.0,18.0,12.0
+724,725,I'll be ready for you as soon as I finish Game of Thrones.,1.336,0.056732536036751324,125.0,94.0,20.0,11.0
+725,726,Christ! You just missed him.,1.336,0.05441062514833162,125.0,92.0,24.0,9.0
+726,727,Hell has casual Friday?,1.336,0.055583706129555384,125.0,93.0,22.0,10.0
+727,728,Who are you supposed to be- the grim Rapper?,1.336,0.053211689232420915,125.0,91.0,26.0,8.0
+728,729,Stop right there! We're on the Do Not Call List,1.336,0.053211689232420915,125.0,91.0,26.0,8.0
+729,730,"Who are you, the Grim Sneaker?",1.336,0.05441062514833162,125.0,92.0,24.0,9.0
+730,731,I guess I won't be able to outrun you.,1.336,0.05441062514833162,125.0,92.0,24.0,9.0
+731,732,Who knew Death could be so casual...,1.336,0.055583706129555384,125.0,93.0,22.0,10.0
+732,733,I thought you said you were taking me out tonight.,1.336,0.061112271087068536,125.0,98.0,12.0,15.0
+733,734,I thought I was ordering Death By Chocolate,1.336,0.056732536036751324,125.0,94.0,20.0,11.0
+734,735,We won't be needing you. He killed himself during the last debate.,1.336,0.05785855946379762,125.0,95.0,18.0,12.0
 735,736,"Reaping the benefits of the gym, I see?",1.3359375,0.05576656182750577,128.0,96.0,21.0,11.0
 736,737,I thought you'd never get here. He's in the back room.,1.3306451612903225,0.05693658528090554,124.0,94.0,19.0,11.0
 737,738,"I'm feeling much better, thanks for asking.",1.3306451612903225,0.05458492517469296,124.0,92.0,23.0,9.0
@@ -815,7 +815,7 @@
 813,814,"I don't care what the teacher in your Grim Reaper training class says, scythe does matter.",1.3225806451612905,0.05315681897175748,124.0,92.0,24.0,8.0
 814,815,Apartment 2B is next door. This is not 2B.,1.3225806451612905,0.05437626087510704,124.0,93.0,22.0,9.0
 815,816,"You make some compelling arguments, but before I commit to a yard sign I need you to explain how he plans to ""make America great again.""",1.3225806451612905,0.05437626087510704,124.0,93.0,22.0,9.0
-816,817,Can you come back after Election Day?,1.3225806451612905,0.051908737796585815,124.0,91.0,26.0,7.0
+816,817,Can you come back after Election Day?,1.3225806451612905,0.05190873779658582,124.0,91.0,26.0,7.0
 817,818,Long black robe in the dryer?,1.3223140495867771,0.0540569998538909,121.0,90.0,23.0,8.0
 818,819,"When I said Get a job, this wasn't what I had in mind.",1.3223140495867771,0.05531636539068268,121.0,91.0,21.0,9.0
 819,820,Finally a date that looks like his picture.,1.3223140495867771,0.05654769072975016,121.0,92.0,19.0,10.0
@@ -897,7 +897,7 @@
 895,896,About time! I was worried I was going to make it to November 8th.,1.3135593220338984,0.05475923166431401,118.0,89.0,21.0,8.0
 896,897,Of course I had to die on casual Friday.,1.3135593220338984,0.05734372289757996,118.0,91.0,17.0,10.0
 897,898,Not tonight. Plague and Famine are grounded!,1.3135593220338984,0.05606637141915128,118.0,90.0,19.0,9.0
-898,899,I think I'm going to have to ask for some ID.,1.3135593220338984,0.049184502090487414,118.0,85.0,29.0,4.0
+898,899,I think I'm going to have to ask for some ID.,1.3135593220338984,0.04918450209048741,118.0,85.0,29.0,4.0
 899,900,Uh-oh. I thought you were only a cliche.,1.3135593220338984,0.05342011700494298,118.0,88.0,23.0,7.0
 900,901,You're taking me out like that?,1.3135593220338984,0.05734372289757996,118.0,91.0,17.0,10.0
 901,902,What's grim is the way you're dressed.,1.3135593220338984,0.05342011700494298,118.0,88.0,23.0,7.0
@@ -926,8 +926,8 @@
 924,925,"I don't care if you're on call, I'm not going out until you change.",1.3076923076923077,0.053552735138737206,117.0,88.0,22.0,7.0
 925,926,Is the dress code now casual eternity?,1.3076923076923077,0.053552735138737206,117.0,88.0,22.0,7.0
 926,927,"Take my husband, please.",1.3076923076923077,0.04925250036146935,117.0,85.0,28.0,4.0
-927,928,You're not half as scary as a clown.,1.3076923076923077,0.050726433032337995,117.0,86.0,26.0,5.0
-928,929,"If it's my time, so be it. But you're not coming in here until you wipe your feet.",1.3076923076923077,0.050726433032337995,117.0,86.0,26.0,5.0
+927,928,You're not half as scary as a clown.,1.3076923076923077,0.050726433032338,117.0,86.0,26.0,5.0
+928,929,"If it's my time, so be it. But you're not coming in here until you wipe your feet.",1.3076923076923077,0.050726433032338,117.0,86.0,26.0,5.0
 929,930,You must be looking for the Trump campaign.,1.3076923076923077,0.0612541324222794,117.0,94.0,10.0,13.0
 930,931,"Yes, that's who I voted for...",1.3076923076923077,0.0612541324222794,117.0,94.0,10.0,13.0
 931,932,You just missed him. He's at the office.,1.3076923076923077,0.053552735138737206,117.0,88.0,22.0,7.0
@@ -949,27 +949,27 @@
 947,948,Could you wait 30 minutes? He's mowing the lawn now.,1.3076923076923077,0.053552735138737206,117.0,88.0,22.0,7.0
 948,949,Not scary enough. Why don't you try a Trump mask instead?,1.3076923076923077,0.05491136182219007,117.0,89.0,20.0,8.0
 949,950,Did hell freeze over?,1.3017241379310345,0.05226479057419204,116.0,87.0,23.0,6.0
-950,951,I guess you realize you're old when even the Grim Reaper looks young.,1.3017241379310345,0.050810267626562385,116.0,86.0,25.0,5.0
-951,952,"He's gone to vote for Trump, but if you hurry you can get him before he pulls the lever.",1.3017241379310345,0.05367991590199647,116.0,88.0,21.0,7.0
+950,951,I guess you realize you're old when even the Grim Reaper looks young.,1.3017241379310345,0.05081026762656239,116.0,86.0,25.0,5.0
+951,952,"He's gone to vote for Trump, but if you hurry you can get him before he pulls the lever.",1.3017241379310345,0.053679915901996465,116.0,88.0,21.0,7.0
 952,953,Congratulations...according to Donald you're the only thing that's certain anymore.,1.3017241379310345,0.05226479057419204,116.0,87.0,23.0,6.0
 953,954,We aren't quite ready yet... can you come back on November 9th?,1.3017241379310345,0.057717488542808164,116.0,91.0,15.0,10.0
-954,955,"Borrow a cup of sugar? Sure, but I think you know that stuff can kill you.",1.3017241379310345,0.050810267626562385,116.0,86.0,25.0,5.0
-955,956,"I'm not going with you, and don't call me 'dude'.",1.3017241379310345,0.05367991590199647,116.0,88.0,21.0,7.0
+954,955,"Borrow a cup of sugar? Sure, but I think you know that stuff can kill you.",1.3017241379310345,0.05081026762656239,116.0,86.0,25.0,5.0
+955,956,"I'm not going with you, and don't call me 'dude'.",1.3017241379310345,0.053679915901996465,116.0,88.0,21.0,7.0
 956,957,Yeah I ordered Take Out. Why do you ask?,1.3017241379310345,0.04931286098779542,116.0,85.0,27.0,4.0
-957,958,"Yes, I would mind if we stopped at the dry cleaners on the way.",1.3017241379310345,0.05367991590199647,116.0,88.0,21.0,7.0
-958,959,Just follow the snoring and you'll find your man.,1.3017241379310345,0.05367991590199647,116.0,88.0,21.0,7.0
+957,958,"Yes, I would mind if we stopped at the dry cleaners on the way.",1.3017241379310345,0.053679915901996465,116.0,88.0,21.0,7.0
+958,959,Just follow the snoring and you'll find your man.,1.3017241379310345,0.053679915901996465,116.0,88.0,21.0,7.0
 959,960,I don't care if you were busy making other house calls. The ad says 20 minutes or it's free.,1.3017241379310345,0.059001978959781085,116.0,92.0,13.0,11.0
 960,961,I think you're looking for my ex-husband two doors down...,1.3017241379310345,0.059001978959781085,116.0,92.0,13.0,11.0
 961,962,Would you mind coming back after November 8th so I can vote for Hillary?,1.3017241379310345,0.05505868150189098,116.0,89.0,19.0,8.0
 962,963,"Great, Come in, let's get this over with. Anything is better than having to vote in this Presidential election.",1.3017241379310345,0.05505868150189098,116.0,89.0,19.0,8.0
 963,964,I didn't know there was a five box minimum for Girl Scout cookies.,1.3017241379310345,0.059001978959781085,116.0,92.0,13.0,11.0
 964,965,My husband already died laughing when we heard Trump was running for president.,1.3017241379310345,0.059001978959781085,116.0,92.0,13.0,11.0
-965,966,"Eh, still not as grim as this election",1.3017241379310345,0.050810267626562385,116.0,86.0,25.0,5.0
+965,966,"Eh, still not as grim as this election",1.3017241379310345,0.05081026762656239,116.0,86.0,25.0,5.0
 966,967,But our computer is only a few years old.,1.3017241379310345,0.05505868150189098,116.0,89.0,19.0,8.0
-967,968,"He just left for a run. If you hurry, you might catch him.",1.3017241379310345,0.050810267626562385,116.0,86.0,25.0,5.0
+967,968,"He just left for a run. If you hurry, you might catch him.",1.3017241379310345,0.05081026762656239,116.0,86.0,25.0,5.0
 968,969,He is hiding in the bathroom.,1.3017241379310345,0.05505868150189098,116.0,89.0,19.0,8.0
 969,970,"This wasn't the sort of edgy role play I had in mind, Harold.",1.3017241379310345,0.05505868150189098,116.0,89.0,19.0,8.0
-970,971,"Hey, it's casual doomsday.",1.3017241379310345,0.05367991590199647,116.0,88.0,21.0,7.0
+970,971,"Hey, it's casual doomsday.",1.3017241379310345,0.053679915901996465,116.0,88.0,21.0,7.0
 971,972,I think you're taking your job a bit too casually.,1.3017241379310345,0.05226479057419204,116.0,87.0,23.0,6.0
 972,973,He's out back.,1.3017241379310345,0.059001978959781085,116.0,92.0,13.0,11.0
 973,974,That hoodie could get you shot.,1.3017241379310345,0.057717488542808164,116.0,91.0,15.0,10.0
@@ -978,12 +978,12 @@
 976,977,"Unfortunately, the man of the house is not in.",1.3017241379310345,0.057717488542808164,116.0,91.0,15.0,10.0
 977,978,Some men always come too early.,1.3017241379310345,0.057717488542808164,116.0,91.0,15.0,10.0
 978,979,You'll have to wait; he's in the bathroom.,1.3017241379310345,0.05226479057419204,116.0,87.0,23.0,6.0
-979,980,So Hell did freeze over?,1.3017241379310345,0.05367991590199647,116.0,88.0,21.0,7.0
+979,980,So Hell did freeze over?,1.3017241379310345,0.053679915901996465,116.0,88.0,21.0,7.0
 980,981,Sorry. I'm a Clinton supporter.,1.3017241379310345,0.059001978959781085,116.0,92.0,13.0,11.0
 981,982,"Today? OK, I suppose I can use an absentee ballot.",1.3017241379310345,0.05505868150189098,116.0,89.0,19.0,8.0
-982,983,"Thank you, but my husband takes care of our lawn.",1.3017241379310345,0.05367991590199647,116.0,88.0,21.0,7.0
+982,983,"Thank you, but my husband takes care of our lawn.",1.3017241379310345,0.053679915901996465,116.0,88.0,21.0,7.0
 983,984,I'm sure you want my husband.,1.3017241379310345,0.056403753830821676,116.0,90.0,17.0,9.0
-984,985,"Emergency number’s on the fridge, I’ll be home by eleven.",1.3017241379310345,0.05367991590199647,116.0,88.0,21.0,7.0
+984,985,"Emergency number’s on the fridge, I’ll be home by eleven.",1.3017241379310345,0.053679915901996465,116.0,88.0,21.0,7.0
 985,986,The gardens in the back.,1.3017241379310345,0.059001978959781085,116.0,92.0,13.0,11.0
 986,987,Would it have killed you to put on a robe?,1.3017241379310345,0.05226479057419204,116.0,87.0,23.0,6.0
 987,988,We already have a landscape service.,1.3017241379310345,0.05226479057419204,116.0,87.0,23.0,6.0
@@ -995,85 +995,85 @@
 993,994,Well no wonder people are living longer.,1.3017241379310345,0.05505868150189098,116.0,89.0,19.0,8.0
 994,995,"Ugh, at least be dressed to kill.",1.3017241379310345,0.057717488542808164,116.0,91.0,15.0,10.0
 995,996,No thanks — I'm for Hillary.,1.3017241379310345,0.056403753830821676,116.0,90.0,17.0,9.0
-996,997,You're early. He's not up yet.,1.3017241379310345,0.05367991590199647,116.0,88.0,21.0,7.0
-997,998,Thank God you're here. Now I have a good excuse for not voting!,1.3017241379310345,0.05367991590199647,116.0,88.0,21.0,7.0
+996,997,You're early. He's not up yet.,1.3017241379310345,0.053679915901996465,116.0,88.0,21.0,7.0
+997,998,Thank God you're here. Now I have a good excuse for not voting!,1.3017241379310345,0.053679915901996465,116.0,88.0,21.0,7.0
 998,999,That's the last time I agree to a blind date.,1.3017241379310345,0.05226479057419204,116.0,87.0,23.0,6.0
-999,1000,Does that price include edging the sidewalk?,1.3017241379310345,0.05367991590199647,116.0,88.0,21.0,7.0
+999,1000,Does that price include edging the sidewalk?,1.3017241379310345,0.053679915901996465,116.0,88.0,21.0,7.0
 1000,1001,Can you come back on November 9th?,1.3017241379310345,0.056403753830821676,116.0,90.0,17.0,9.0
 1001,1002,"Of course, just after I announced my retirement.",1.3017241379310345,0.057717488542808164,116.0,91.0,15.0,10.0
 1002,1003,He's not home yet.,1.3017241379310345,0.059001978959781085,116.0,92.0,13.0,11.0
 1003,1004,"He's not here now. He ran out for a pack of smokes, unless this about second-hand smoke. Then I'm yours.",1.3017241379310345,0.05226479057419204,116.0,87.0,23.0,6.0
 1004,1005,"Well, we've already had a Supergirl, a Batman, and some one from Star Wars, but I'm not familiar with Ingmar Bergman.",1.3017241379310345,0.05505868150189098,116.0,89.0,19.0,8.0
-1005,1006,No. I'm not having breakfast. What are you... some sort of cereal reapist?,1.3017241379310345,0.050810267626562385,116.0,86.0,25.0,5.0
+1005,1006,No. I'm not having breakfast. What are you... some sort of cereal reapist?,1.3017241379310345,0.05081026762656239,116.0,86.0,25.0,5.0
 1006,1007,At last. He's in the first room on the right.,1.3017241379310345,0.056403753830821676,116.0,90.0,17.0,9.0
 1007,1008,This is not what your Airbnb profile looked like.,1.3017241379310345,0.057717488542808164,116.0,91.0,15.0,10.0
 1008,1009,Donald Trump lives next door.,1.3017241379310345,0.057717488542808164,116.0,91.0,15.0,10.0
-1009,1010,Can we wait? I just ordered a pizza.,1.3017241379310345,0.05367991590199647,116.0,88.0,21.0,7.0
+1009,1010,Can we wait? I just ordered a pizza.,1.3017241379310345,0.053679915901996465,116.0,88.0,21.0,7.0
 1010,1011,"You want 2B, this is NOT2B!",1.3017241379310345,0.05505868150189098,116.0,89.0,19.0,8.0
 1011,1012,"Oh great, now even the Grim Reaper is a millennial.",1.2983870967741935,0.04718656677083913,124.0,91.0,29.0,4.0
 1012,1013,I assume that you're trying to appeal more to the Millennials.,1.2982456140350878,0.04973118947453722,114.0,84.0,26.0,4.0
-1013,1014,Let me guess. You want to borrow the lawnmower again.,1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
-1014,1015,I see Casual Fridays have found their way to the Underworld.,1.2982456140350878,0.057004106713264314,114.0,89.0,16.0,9.0
-1015,1016,You just missed him.,1.2982456140350878,0.057004106713264314,114.0,89.0,16.0,9.0
+1013,1014,Let me guess. You want to borrow the lawnmower again.,1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
+1014,1015,I see Casual Fridays have found their way to the Underworld.,1.2982456140350878,0.05700410671326433,114.0,89.0,16.0,9.0
+1015,1016,You just missed him.,1.2982456140350878,0.05700410671326433,114.0,89.0,16.0,9.0
 1016,1017,Did you forget your open carry permit?,1.2982456140350878,0.05421215169984737,114.0,87.0,20.0,7.0
 1017,1018,"Are you, like, Death or whatever?",1.2982456140350878,0.05276079981200326,114.0,86.0,22.0,6.0
-1018,1019,We already pay a man with a power mower.,1.2982456140350878,0.057004106713264314,114.0,89.0,16.0,9.0
+1018,1019,We already pay a man with a power mower.,1.2982456140350878,0.05700410671326433,114.0,89.0,16.0,9.0
 1019,1020,"Subtle, but you're still grounded",1.2982456140350878,0.05276079981200326,114.0,86.0,22.0,6.0
-1020,1021,Like if I need another surprise today.,1.2982456140350878,0.057004106713264314,114.0,89.0,16.0,9.0
-1021,1022,We're not quite ready yet. Can you come back after the election?,1.2982456140350878,0.057004106713264314,114.0,89.0,16.0,9.0
-1022,1023,"That is a clever disguise Mr. Montieth, but as I told you on the phone, we are happy with the amount of life insurance we pesently have.",1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
+1020,1021,Like if I need another surprise today.,1.2982456140350878,0.05700410671326433,114.0,89.0,16.0,9.0
+1021,1022,We're not quite ready yet. Can you come back after the election?,1.2982456140350878,0.05700410671326433,114.0,89.0,16.0,9.0
+1022,1023,"That is a clever disguise Mr. Montieth, but as I told you on the phone, we are happy with the amount of life insurance we pesently have.",1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
 1023,1024,"What do you mean ... ""Trick or treat or else""?",1.2982456140350878,0.0512683781845818,114.0,85.0,24.0,5.0
 1024,1025,I'm not going anywhere if you're dressing like that.,1.2982456140350878,0.05421215169984737,114.0,87.0,20.0,7.0
-1025,1026,You dressed up for my first husband.,1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
-1026,1027,"He said to tell you, he chose Philadelphia.",1.2982456140350878,0.057004106713264314,114.0,89.0,16.0,9.0
-1027,1028,Go reap yourself!,1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
+1025,1026,You dressed up for my first husband.,1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
+1026,1027,"He said to tell you, he chose Philadelphia.",1.2982456140350878,0.05700410671326433,114.0,89.0,16.0,9.0
+1027,1028,Go reap yourself!,1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
 1028,1029,"Oh I see,Death does take a holiday!",1.2982456140350878,0.05276079981200326,114.0,86.0,22.0,6.0
-1029,1030,"""Grim"" does not mean ""schlubby""!",1.2982456140350878,0.057004106713264314,114.0,89.0,16.0,9.0
+1029,1030,"""Grim"" does not mean ""schlubby""!",1.2982456140350878,0.05700410671326433,114.0,89.0,16.0,9.0
 1030,1031,"No, I'd rather not hear about God's plan.",1.2982456140350878,0.04973118947453722,114.0,84.0,26.0,4.0
-1031,1032,November 8th is here already?,1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
-1032,1033,He'll be back in a minute. Please come in and wait.,1.2982456140350878,0.057004106713264314,114.0,89.0,16.0,9.0
-1033,1034,Trump campaign headquarters is two doors down.,1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
+1031,1032,November 8th is here already?,1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
+1032,1033,He'll be back in a minute. Please come in and wait.,1.2982456140350878,0.05700410671326433,114.0,89.0,16.0,9.0
+1033,1034,Trump campaign headquarters is two doors down.,1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
 1034,1035,Did you finish the lawn?,1.2982456140350878,0.0512683781845818,114.0,85.0,24.0,5.0
 1035,1036,You couldn't dress for this?,1.2982456140350878,0.0512683781845818,114.0,85.0,24.0,5.0
 1036,1037,Death is really more of a formal affair.,1.2982456140350878,0.05421215169984737,114.0,87.0,20.0,7.0
 1037,1038,Seriously?!,1.2982456140350878,0.05276079981200326,114.0,86.0,22.0,6.0
-1038,1039,"Sorry, but I don't own a Samsung.",1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
-1039,1040,"Really?"" ""The doorbell?"" ""Don't you knock anymore?",1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
-1040,1041,"No, You can't have a cup of sugar.",1.2982456140350878,0.057004106713264314,114.0,89.0,16.0,9.0
-1041,1042,Didn't you see the No Soliciting sign?,1.2982456140350878,0.057004106713264314,114.0,89.0,16.0,9.0
+1038,1039,"Sorry, but I don't own a Samsung.",1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
+1039,1040,"Really?"" ""The doorbell?"" ""Don't you knock anymore?",1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
+1040,1041,"No, You can't have a cup of sugar.",1.2982456140350878,0.05700410671326433,114.0,89.0,16.0,9.0
+1041,1042,Didn't you see the No Soliciting sign?,1.2982456140350878,0.05700410671326433,114.0,89.0,16.0,9.0
 1042,1043,Really...Casual Friday?,1.2982456140350878,0.05276079981200326,114.0,86.0,22.0,6.0
 1043,1044,"No, Timmy cannot come out and die; he's finishing dinner.",1.2982456140350878,0.05421215169984737,114.0,87.0,20.0,7.0
 1044,1045,Please come back when he's feeling better,1.2982456140350878,0.05276079981200326,114.0,86.0,22.0,6.0
-1045,1046,Fancy that...The not so grim reaper.,1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
+1045,1046,Fancy that...The not so grim reaper.,1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
 1046,1047,The other gangs have guns you know.,1.2982456140350878,0.05276079981200326,114.0,86.0,22.0,6.0
 1047,1048,I don't care if it's a holiday. I want death with dignity.,1.2982456140350878,0.05421215169984737,114.0,87.0,20.0,7.0
 1048,1049,And who may I say is calling?,1.2982456140350878,0.05276079981200326,114.0,86.0,22.0,6.0
-1049,1050,But I turned off location services!,1.2982456140350878,0.057004106713264314,114.0,89.0,16.0,9.0
-1050,1051,"Finish trimming the hedges, then come get me.",1.2982456140350878,0.057004106713264314,114.0,89.0,16.0,9.0
+1049,1050,But I turned off location services!,1.2982456140350878,0.05700410671326433,114.0,89.0,16.0,9.0
+1050,1051,"Finish trimming the hedges, then come get me.",1.2982456140350878,0.05700410671326433,114.0,89.0,16.0,9.0
 1051,1052,For whom does the doorbell ring?,1.2982456140350878,0.04973118947453722,114.0,84.0,26.0,4.0
 1052,1053,And the 'Gym Reaper' is funny how?,1.2982456140350878,0.05421215169984737,114.0,87.0,20.0,7.0
 1053,1054,We do our own hedges.,1.2982456140350878,0.05421215169984737,114.0,87.0,20.0,7.0
 1054,1055,Well...I was just on my way out.,1.2982456140350878,0.05276079981200326,114.0,86.0,22.0,6.0
-1055,1056,I will not leave with you until you put on real pants.,1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
+1055,1056,I will not leave with you until you put on real pants.,1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
 1056,1057,Well... Death is literally at my door.,1.2982456140350878,0.05421215169984737,114.0,87.0,20.0,7.0
-1057,1058,"Mrs. Johnson lived next door, and the funeral was yesterday. Your father must be so proud of you.",1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
+1057,1058,"Mrs. Johnson lived next door, and the funeral was yesterday. Your father must be so proud of you.",1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
 1058,1059,Death takes a casual Friday.,1.2982456140350878,0.05421215169984737,114.0,87.0,20.0,7.0
-1059,1060,"Based on your profile pic, I thought you'd be more corporeal. And taller.",1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
+1059,1060,"Based on your profile pic, I thought you'd be more corporeal. And taller.",1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
 1060,1061,Don’t tell me. It’s Casual Friday.,1.2982456140350878,0.05421215169984737,114.0,87.0,20.0,7.0
 1061,1062,"You call yourself grim, I'll show you grim.",1.2982456140350878,0.05276079981200326,114.0,86.0,22.0,6.0
 1062,1063,He says just give him five or ten minutes to put his pants on.,1.2982456140350878,0.05421215169984737,114.0,87.0,20.0,7.0
 1063,1064,"The bum's not home, but come on in and have a drink while you wait.",1.2982456140350878,0.05835000923138064,114.0,90.0,14.0,10.0
 1064,1065,Let me guess; you're not selling anything.,1.2982456140350878,0.05276079981200326,114.0,86.0,22.0,6.0
 1065,1066,It's all fun and games until somebody loses an eye.,1.2982456140350878,0.05966555934898445,114.0,91.0,12.0,11.0
-1066,1067,Could you swing by after the elections!,1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
+1066,1067,Could you swing by after the elections!,1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
 1067,1068,"Come back when you have some decent clothes and a better attitude, mister.",1.2982456140350878,0.05421215169984737,114.0,87.0,20.0,7.0
 1068,1069,You still need to be home by 9.,1.2982456140350878,0.05276079981200326,114.0,86.0,22.0,6.0
-1069,1070,"I'm going to give you five seconds to say ""Trick or Treat,"" and then I'm going to get nervous.",1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
-1070,1071,"Ah, Cubs in the playoffs again, I guess.",1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
+1069,1070,"I'm going to give you five seconds to say ""Trick or Treat,"" and then I'm going to get nervous.",1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
+1070,1071,"Ah, Cubs in the playoffs again, I guess.",1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
 1071,1072,"Well I was really hoping to go ""out"" in style.",1.2982456140350878,0.0512683781845818,114.0,85.0,24.0,5.0
 1072,1073,Come with you? Like hell I will.,1.2982456140350878,0.05421215169984737,114.0,87.0,20.0,7.0
-1073,1074,Let me guess -- you've been acquired by Facebook.,1.2982456140350878,0.057004106713264314,114.0,89.0,16.0,9.0
-1074,1075,Can we wait until the election's over? I might have a lot of company?,1.2982456140350878,0.055625648643878714,114.0,88.0,18.0,8.0
+1073,1074,Let me guess -- you've been acquired by Facebook.,1.2982456140350878,0.05700410671326433,114.0,89.0,16.0,9.0
+1074,1075,Can we wait until the election's over? I might have a lot of company?,1.2982456140350878,0.05562564864387872,114.0,88.0,18.0,8.0
 1075,1076,Insurance? What kind of insurance?,1.2956521739130435,0.0565657283495849,115.0,90.0,16.0,9.0
 1076,1077,"""Take away? I ordered take-out."" Elaine Ryning, San Francisco. CA",1.2920353982300885,0.057168513421859135,113.0,89.0,15.0,9.0
 1077,1078,Did somebody call for a moyle?,1.2920353982300885,0.055769266751233317,113.0,88.0,17.0,8.0
@@ -1086,7 +1086,7 @@
 1084,1085,"Chin up, don't slouch -- and might we manage a smile?",1.2920353982300885,0.05433399765409451,113.0,87.0,19.0,7.0
 1085,1086,You're early. The election's tomorrow.,1.2920353982300885,0.052859771927053184,113.0,86.0,21.0,6.0
 1086,1087,"My husband will be right out. I told him to hurry up, but you know George...",1.2920353982300885,0.04978051689556809,113.0,84.0,25.0,4.0
-1087,1088,Even YOU have casual Friday?,1.2920353982300885,0.058534321041251995,113.0,90.0,13.0,10.0
+1087,1088,Even YOU have casual Friday?,1.2920353982300885,0.058534321041252,113.0,90.0,13.0,10.0
 1088,1089,"Well, lets hope your'e better than the last one they sent",1.2920353982300885,0.052859771927053184,113.0,86.0,21.0,6.0
 1089,1090,At least this puts an end to my marriage.,1.2920353982300885,0.052859771927053184,113.0,86.0,21.0,6.0
 1090,1091,"Wouldn't you know--the last day of my life, a dress down day.",1.2920353982300885,0.055769266751233317,113.0,88.0,17.0,8.0
@@ -1190,10 +1190,10 @@
 1188,1189,And don't forget to blow the clippings off the driveway.,1.2857142857142858,0.0514096204179772,112.0,85.0,22.0,5.0
 1189,1190,Where do you want to take my soul dressed like that ? To the mall ?,1.2857142857142858,0.0514096204179772,112.0,85.0,22.0,5.0
 1190,1191,Now I see why the low Angie's List rating.,1.2857142857142858,0.05590683816981587,112.0,88.0,16.0,8.0
-1191,1192,You could've dressed up to take me out.,1.2857142857142858,0.052951149490786865,112.0,86.0,20.0,6.0
-1192,1193,"So, white is the new black, I'm guessing?",1.2857142857142858,0.057327565054004714,112.0,89.0,14.0,9.0
+1191,1192,You could've dressed up to take me out.,1.2857142857142858,0.05295114949078687,112.0,86.0,20.0,6.0
+1192,1193,"So, white is the new black, I'm guessing?",1.2857142857142858,0.05732756505400473,112.0,89.0,14.0,9.0
 1193,1194,Thank God! Not a clown!,1.2857142857142858,0.0514096204179772,112.0,85.0,22.0,5.0
-1194,1195,"OK, I choose the right hand !",1.2857142857142858,0.052951149490786865,112.0,86.0,20.0,6.0
+1194,1195,"OK, I choose the right hand !",1.2857142857142858,0.05295114949078687,112.0,86.0,20.0,6.0
 1195,1196,"Jane realized that, somewhere along the line, Flirting With Death had deteriorated into Hanging Out With Death Every Damn Sunday.",1.2857142857142858,0.05590683816981587,112.0,88.0,16.0,8.0
 1196,1197,The Trump sign out front is my husband's; he's out back...,1.2857142857142858,0.053562525965871216,119.0,93.0,18.0,8.0
 1197,1198,"Sydney, your sneakers give you away. I'm out of the peanut butter cups.",1.2857142857142858,0.058713924037627575,112.0,90.0,12.0,10.0
@@ -1204,14 +1204,14 @@
 1202,1203,"I don't care if she was ""dying to meet you""",1.2818181818181815,0.05499536439910965,110.0,86.0,17.0,7.0
 1203,1204,It's about time! He' inside.,1.2818181818181815,0.0593709282357059,110.0,89.0,11.0,10.0
 1204,1205,"Honey, can you bring my Galaxy Note 7?",1.2818181818181815,0.0579491281054039,110.0,88.0,13.0,9.0
-1205,1206,So you're telling me today is casual Friday the 13th?,1.2818181818181815,0.053457314130042385,110.0,85.0,19.0,6.0
-1206,1207,You already have my vote.,1.2818181818181815,0.053457314130042385,110.0,85.0,19.0,6.0
+1205,1206,So you're telling me today is casual Friday the 13th?,1.2818181818181815,0.05345731413004239,110.0,85.0,19.0,6.0
+1206,1207,You already have my vote.,1.2818181818181815,0.05345731413004239,110.0,85.0,19.0,6.0
 1207,1208,"Wow. You look like death, warmed up.",1.2818181818181815,0.0564915549156127,110.0,87.0,15.0,8.0
 1208,1209,Casualty Friday. Great.,1.2818181818181815,0.0564915549156127,110.0,87.0,15.0,8.0
 1209,1210,"Sorry, wrong apartment. Joe and Barbara next door are serving the salmon mousse.",1.2818181818181815,0.0579491281054039,110.0,88.0,13.0,9.0
 1210,1211,You will not go to the polling booth wearing that!,1.2818181818181815,0.06075946667772988,110.0,90.0,9.0,11.0
-1211,1212,Nice hoodie - does that make you the Grim Rapper?,1.2818181818181815,0.053457314130042385,110.0,85.0,19.0,6.0
-1212,1213,Not until after the election.,1.2818181818181815,0.053457314130042385,110.0,85.0,19.0,6.0
+1211,1212,Nice hoodie - does that make you the Grim Rapper?,1.2818181818181815,0.05345731413004239,110.0,85.0,19.0,6.0
+1212,1213,Not until after the election.,1.2818181818181815,0.05345731413004239,110.0,85.0,19.0,6.0
 1213,1214,So that wasn't an ironic profile picture.,1.2818181818181815,0.04855169842363445,110.0,82.0,25.0,3.0
 1214,1215,You looked a lot different on J-Date,1.2818181818181815,0.0579491281054039,110.0,88.0,13.0,9.0
 1215,1216,"I understand your disappointment, but you're now competing with a well-financed pharmaceutical industry.",1.2818181818181815,0.05499536439910965,110.0,86.0,17.0,7.0
@@ -1228,20 +1228,20 @@
 1226,1227,He's working late... again. But you can wait for him on his side of the bed if you like.,1.2818181818181815,0.05187368082761433,110.0,84.0,21.0,5.0
 1227,1228,She's in Assisted Living ... you'll never get her.,1.2818181818181815,0.05187368082761433,110.0,84.0,21.0,5.0
 1228,1229,I wouldn't be caught dead wearing white after Labor Day.,1.2818181818181815,0.05499536439910965,110.0,86.0,17.0,7.0
-1229,1230,Your father is going to kill you.,1.2818181818181815,0.053457314130042385,110.0,85.0,19.0,6.0
+1229,1230,Your father is going to kill you.,1.2818181818181815,0.05345731413004239,110.0,85.0,19.0,6.0
 1230,1231,"Well, there's nothing casual about a date with Death.",1.2818181818181815,0.05187368082761433,110.0,84.0,21.0,5.0
 1231,1232,I'm not going anywhere until I see your credentials.,1.2818181818181815,0.05187368082761433,110.0,84.0,21.0,5.0
 1232,1233,"If you're here for American democracy, you're too late.",1.2818181818181815,0.05187368082761433,110.0,84.0,21.0,5.0
-1233,1234,Now's not a good time. Come back on November 9th.,1.2818181818181815,0.053457314130042385,110.0,85.0,19.0,6.0
+1233,1234,Now's not a good time. Come back on November 9th.,1.2818181818181815,0.05345731413004239,110.0,85.0,19.0,6.0
 1234,1235,You don't look like your picture.,1.2818181818181815,0.05499536439910965,110.0,86.0,17.0,7.0
 1235,1236,"I don't care what the blade is for, you'll be well advised not to walk around this neighborhood with that hood up.",1.2818181818181815,0.05187368082761433,110.0,84.0,21.0,5.0
-1236,1237,"Son, I don't care how life or death your job is, I will get to your laundry when I get to it.",1.2818181818181815,0.053457314130042385,110.0,85.0,19.0,6.0
+1236,1237,"Son, I don't care how life or death your job is, I will get to your laundry when I get to it.",1.2818181818181815,0.05345731413004239,110.0,85.0,19.0,6.0
 1237,1238,Aren't you a scythe for sore eyes.,1.2818181818181815,0.0564915549156127,110.0,87.0,15.0,8.0
 1238,1239,Aren't you a little old for trick or treating?,1.2818181818181815,0.046802369047161715,110.0,81.0,27.0,2.0
 1239,1240,You're here to grab me by the what?,1.2818181818181815,0.0593709282357059,110.0,89.0,11.0,10.0
 1240,1241,"Sorry, he gave it up at the office.",1.2818181818181815,0.0564915549156127,110.0,87.0,15.0,8.0
 1241,1242,So you think you've been hacked?,1.2818181818181815,0.05024015417186113,110.0,83.0,23.0,4.0
-1242,1243,"Funny, you didn't mention the scythe on your Tinder profile.",1.2818181818181815,0.053457314130042385,110.0,85.0,19.0,6.0
+1242,1243,"Funny, you didn't mention the scythe on your Tinder profile.",1.2818181818181815,0.05345731413004239,110.0,85.0,19.0,6.0
 1243,1244,I see athleisure has made its way to the depths of hell.,1.2818181818181815,0.0579491281054039,110.0,88.0,13.0,9.0
 1244,1245,"Sure, you can borrow a cup of sugar.",1.2818181818181815,0.0564915549156127,110.0,87.0,15.0,8.0
 1245,1246,"If you're the Grim Reaper, I'm the Good Fairy!",1.2818181818181815,0.05499536439910965,110.0,86.0,17.0,7.0
@@ -1251,7 +1251,7 @@
 1249,1250,You shouldn't be wearing white after Labor Day.,1.2818181818181815,0.04855169842363445,110.0,82.0,25.0,3.0
 1250,1251,Talk about a casual attitude toward death.,1.2818181818181815,0.0579491281054039,110.0,88.0,13.0,9.0
 1251,1252,I'm just not feeling your grimness.,1.2818181818181815,0.05187368082761433,110.0,84.0,21.0,5.0
-1252,1253,"Alright, jogging or reaping souls; which is it?",1.2818181818181815,0.053457314130042385,110.0,85.0,19.0,6.0
+1252,1253,"Alright, jogging or reaping souls; which is it?",1.2818181818181815,0.05345731413004239,110.0,85.0,19.0,6.0
 1253,1254,Are you familiar with the phrase 'Dress for success?',1.2818181818181815,0.05024015417186113,110.0,83.0,23.0,4.0
 1254,1255,You should have used a more recent profile picture.,1.2818181818181815,0.0579491281054039,110.0,88.0,13.0,9.0
 1255,1256,Could you stop back on November 9th?,1.279279279279279,0.05748078932894865,111.0,89.0,13.0,9.0
@@ -1264,25 +1264,25 @@
 1262,1263,"Well, if it isn't our prodigal son, the grim rapper!",1.275229357798165,0.05192777014046904,109.0,84.0,20.0,5.0
 1263,1264,"Oh, for God's sake, you're telling me they have casual Friday up there too?",1.275229357798165,0.05810397553516821,109.0,88.0,12.0,9.0
 1264,1265,Just my luck I had to die on casual Friday,1.275229357798165,0.05192777014046904,109.0,84.0,20.0,5.0
-1265,1266,They do casual Friday in Hades?,1.275229357798165,0.053538658715631814,109.0,85.0,18.0,6.0
+1265,1266,They do casual Friday in Hades?,1.275229357798165,0.05353865871563181,109.0,85.0,18.0,6.0
 1266,1267,I'll take one box of Samoas-- No make that 100.,1.275229357798165,0.05810397553516821,109.0,88.0,12.0,9.0
-1267,1268,I ordered over an hour ago so I assume this will be free.,1.275229357798165,0.053538658715631814,109.0,85.0,18.0,6.0
+1267,1268,I ordered over an hour ago so I assume this will be free.,1.275229357798165,0.05353865871563181,109.0,85.0,18.0,6.0
 1268,1269,Let me guess. Mos Death?,1.275229357798165,0.05192777014046904,109.0,84.0,20.0,5.0
 1269,1270,Let me guess death takes a holiday .,1.275229357798165,0.055102474013209314,109.0,86.0,16.0,7.0
 1270,1271,"I didn't know Death had a ""casual Friday.""",1.275229357798165,0.050265282715348164,109.0,83.0,22.0,4.0
 1271,1272,"I see you think you're exempt from the "" No Soliciting"" sign?",1.275229357798165,0.05192777014046904,109.0,84.0,20.0,5.0
-1272,1273,You're dropping out to do this?,1.275229357798165,0.053538658715631814,109.0,85.0,18.0,6.0
+1272,1273,You're dropping out to do this?,1.275229357798165,0.05353865871563181,109.0,85.0,18.0,6.0
 1273,1274,"If I'd known this, I'd have cast my vote against Trump early.",1.275229357798165,0.055102474013209314,109.0,86.0,16.0,7.0
 1274,1275,I've never heard of casual Death Day.,1.275229357798165,0.050265282715348164,109.0,83.0,22.0,4.0
-1275,1276,Why can't you dress like the Johnson's gardener?,1.275229357798165,0.053538658715631814,109.0,85.0,18.0,6.0
+1275,1276,Why can't you dress like the Johnson's gardener?,1.275229357798165,0.05353865871563181,109.0,85.0,18.0,6.0
 1276,1277,I told you Marvin--you're dead to me.,1.275229357798165,0.056623116372060585,109.0,87.0,14.0,8.0
-1277,1278,I was hoping you'd be taller.,1.275229357798165,0.053538658715631814,109.0,85.0,18.0,6.0
+1277,1278,I was hoping you'd be taller.,1.275229357798165,0.05353865871563181,109.0,85.0,18.0,6.0
 1278,1279,"Nice try, Ed, but I still won't divorce you.",1.275229357798165,0.05192777014046904,109.0,84.0,20.0,5.0
 1279,1280,Your Father and I forbid you to pledge.,1.275229357798165,0.05192777014046904,109.0,84.0,20.0,5.0
 1280,1281,You're too late. I'm already brain dead from the debates.,1.275229357798165,0.056623116372060585,109.0,87.0,14.0,8.0
 1281,1282,"Y es Im Billys mother,And no he cannot come out and play with you.",1.275229357798165,0.050265282715348164,109.0,83.0,22.0,4.0
 1282,1283,The neighbor boy cuts our lawn.,1.275229357798165,0.05192777014046904,109.0,84.0,20.0,5.0
-1283,1284,At least you could've dressed for the occasion.,1.275229357798165,0.053538658715631814,109.0,85.0,18.0,6.0
+1283,1284,At least you could've dressed for the occasion.,1.275229357798165,0.05353865871563181,109.0,85.0,18.0,6.0
 1284,1285,"Thanks for asking, Mr. Grim Slacker, but my suicide attempt was three weeks ago.",1.275229357798165,0.056623116372060585,109.0,87.0,14.0,8.0
 1285,1286,Its too late. I already did him in.,1.275229357798165,0.055102474013209314,109.0,86.0,16.0,7.0
 1286,1287,Very funny. Where's the pizza?,1.275229357798165,0.055102474013209314,109.0,86.0,16.0,7.0
@@ -1465,28 +1465,28 @@
 1463,1464,Can I bring a carry-on bag?,1.2596153846153846,0.04732420460231771,104.0,79.0,23.0,2.0
 1464,1465,No thanks. Just clean the snow off of the driveway and sidewalk.,1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
 1465,1466,"Double check your calendar, pal. My palm reader says your not due here for another 20 years.",1.2596153846153846,0.05955271465638483,104.0,86.0,9.0,9.0
-1466,1467,"Uh-oh, I knew swiping with reckless abandon was not a good idea.",1.2596153846153846,0.051117446493484466,104.0,81.0,19.0,4.0
-1467,1468,"You're not going out reaping dressed like that, I hope.",1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
+1466,1467,"Uh-oh, I knew swiping with reckless abandon was not a good idea.",1.2596153846153846,0.05111744649348447,104.0,81.0,19.0,4.0
+1467,1468,"You're not going out reaping dressed like that, I hope.",1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
 1468,1469,How can I take death seriously when you show up here in a white tracksuit,1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
 1469,1470,"Yes, we have a date, but you are a few decades early.",1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
 1470,1471,"Huh, looked different on Tinder.",1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
-1471,1472,"No,no. That was last year, this year it's clowns.",1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
+1471,1472,"No,no. That was last year, this year it's clowns.",1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
 1472,1473,You're going to scare the neighbors to death with that hoodie on.,1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
 1473,1474,Playing devil's advocate again?,1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
 1474,1475,You're too early. America hasn't voted yet.,1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
 1475,1476,I'd rather die than go jogging.,1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
 1476,1477,"Have a good time with your friends, don't stay out too late, and try not to be so grim.",1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
-1477,1478,Are you going to do our lawn with that thing? Over my dead body!,1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
+1477,1478,Are you going to do our lawn with that thing? Over my dead body!,1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
 1478,1479,"Don't give me that death stare young man, you're late!",1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
-1479,1480,"If you're supposed to be Death, then I'm Mary Poppins!",1.2596153846153846,0.051117446493484466,104.0,81.0,19.0,4.0
+1479,1480,"If you're supposed to be Death, then I'm Mary Poppins!",1.2596153846153846,0.05111744649348447,104.0,81.0,19.0,4.0
 1480,1481,"You forgot your keys again, didn't you?",1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
 1481,1482,"Face it, Jimmy. You are neither grim, nor a reaper.",1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
-1482,1483,"I told you to get a life, not a scythe",1.2596153846153846,0.049257353142735334,104.0,80.0,21.0,3.0
+1482,1483,"I told you to get a life, not a scythe",1.2596153846153846,0.04925735314273533,104.0,80.0,21.0,3.0
 1483,1484,"I know you came as fast as you could, but he got impatient and took the window.",1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
-1484,1485,Now don’t try to tell me you’ve finished harvesting all those souls already!,1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
+1484,1485,Now don’t try to tell me you’ve finished harvesting all those souls already!,1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
 1485,1486,He's in the bedroom.,1.2596153846153846,0.05796394849868911,104.0,85.0,11.0,8.0
 1486,1487,We are offering organic weed control.,1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
-1487,1488,"No, I said bring over some reefer, Jim.",1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
+1487,1488,"No, I said bring over some reefer, Jim.",1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
 1488,1489,No. You are not going to work at home today.,1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
 1489,1490,"I don't care if your black robe is at the dry cleaners, you look ridiculous.",1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
 1490,1491,Let me guess: Casual Die Day?,1.2596153846153846,0.06260941476900267,104.0,88.0,5.0,11.0
@@ -1494,60 +1494,60 @@
 1492,1493,"How 'bout some candy corn, a Snickers bar...and my mother-in-law?",1.2596153846153846,0.05796394849868911,104.0,85.0,11.0,8.0
 1493,1494,I need to shave my legs first.,1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
 1494,1495,"Yeh, well, dad's on vacation so I'm filling in",1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
-1495,1496,I called for the Exterminator.,1.2596153846153846,0.051117446493484466,104.0,81.0,19.0,4.0
+1495,1496,I called for the Exterminator.,1.2596153846153846,0.05111744649348447,104.0,81.0,19.0,4.0
 1496,1497,"He's not here but you're welcome to come in and wait.""",1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
 1497,1498,"I'm so glad you're here. My husband's about to bore me to death anyway.""",1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
 1498,1499,Let me guess . . . your phone died.,1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
 1499,1500,Not until you show me what's in your pocket.,1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
-1500,1501,I hope you're related to the Reapers that live across the street.,1.2596153846153846,0.051117446493484466,104.0,81.0,19.0,4.0
+1500,1501,I hope you're related to the Reapers that live across the street.,1.2596153846153846,0.05111744649348447,104.0,81.0,19.0,4.0
 1501,1502,It's hard to take you seriously on dress-down Friday's.,1.2596153846153846,0.05955271465638483,104.0,86.0,9.0,9.0
 1502,1503,I don't participate in Casual Friday the Thirteenth.,1.2596153846153846,0.04732420460231771,104.0,79.0,23.0,2.0
 1503,1504,In my opinion you approach your job too casually.,1.2596153846153846,0.04732420460231771,104.0,79.0,23.0,2.0
-1504,1505,"I ordered gothic-tragic, not hip hop-casual.",1.2596153846153846,0.051117446493484466,104.0,81.0,19.0,4.0
-1505,1506,"I hope you're the real thing, because I'm out of Halloween treats.",1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
+1504,1505,"I ordered gothic-tragic, not hip hop-casual.",1.2596153846153846,0.05111744649348447,104.0,81.0,19.0,4.0
+1505,1506,"I hope you're the real thing, because I'm out of Halloween treats.",1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
 1506,1507,You have casual Fridays too?,1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
 1507,1508,Is this your idea of a knock-knock joke?,1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
-1508,1509,Shoes off. House rules.,1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
-1509,1510,You'll find him in his bedroom wasting his life tweeting about some dumb teenage thing.,1.2596153846153846,0.049257353142735334,104.0,80.0,21.0,3.0
-1510,1511,"Get a job, Dave.",1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
+1508,1509,Shoes off. House rules.,1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
+1509,1510,You'll find him in his bedroom wasting his life tweeting about some dumb teenage thing.,1.2596153846153846,0.04925735314273533,104.0,80.0,21.0,3.0
+1510,1511,"Get a job, Dave.",1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
 1511,1512,"Well, it may be casual to you but not to me!",1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
-1512,1513,"I'll tell him you're here, but he won't like that you're out of uniform.",1.2596153846153846,0.051117446493484466,104.0,81.0,19.0,4.0
-1513,1514,I forgot it's casual Friday. Do I have time to put on yoga pants?,1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
-1514,1515,Did my ex-husband send you?,1.2596153846153846,0.051117446493484466,104.0,81.0,19.0,4.0
-1515,1516,"Even in death, I don't get the respect I deserve!",1.2596153846153846,0.051117446493484466,104.0,81.0,19.0,4.0
+1512,1513,"I'll tell him you're here, but he won't like that you're out of uniform.",1.2596153846153846,0.05111744649348447,104.0,81.0,19.0,4.0
+1513,1514,I forgot it's casual Friday. Do I have time to put on yoga pants?,1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
+1514,1515,Did my ex-husband send you?,1.2596153846153846,0.05111744649348447,104.0,81.0,19.0,4.0
+1515,1516,"Even in death, I don't get the respect I deserve!",1.2596153846153846,0.05111744649348447,104.0,81.0,19.0,4.0
 1516,1517,You are taking a big risk by knocking on doors in this neighborhood while wearing a hoodie.,1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
-1517,1518,How can you be so casual at a time like this?,1.2596153846153846,0.051117446493484466,104.0,81.0,19.0,4.0
-1518,1519,You're early. My husband's not home yet!,1.2596153846153846,0.051117446493484466,104.0,81.0,19.0,4.0
+1517,1518,How can you be so casual at a time like this?,1.2596153846153846,0.05111744649348447,104.0,81.0,19.0,4.0
+1518,1519,You're early. My husband's not home yet!,1.2596153846153846,0.05111744649348447,104.0,81.0,19.0,4.0
 1519,1520,Thank god you're here. He's watching football.,1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
 1520,1521,Wipe your feet before you come in.,1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
-1521,1522,This can't be. I'm pro-life!,1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
+1521,1522,This can't be. I'm pro-life!,1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
 1522,1523,"He's not home right now, but please come back at 5:30.",1.2596153846153846,0.05796394849868911,104.0,85.0,11.0,8.0
 1523,1524,He's out playing golf. Please come back at 5.,1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
 1524,1525,You couldn't 've come before the election?,1.2596153846153846,0.05796394849868911,104.0,85.0,11.0,8.0
-1525,1526,It's hard to take you seriously in a hoodie.,1.2596153846153846,0.051117446493484466,104.0,81.0,19.0,4.0
+1525,1526,It's hard to take you seriously in a hoodie.,1.2596153846153846,0.05111744649348447,104.0,81.0,19.0,4.0
 1526,1527,"I'll check. If he's drunk, you can have him.",1.2596153846153846,0.05796394849868911,104.0,85.0,11.0,8.0
 1527,1528,"In fact I HAVE heard the good news, thanks you very much.",1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
 1528,1529,"As you can see, GPS tracking is NOT one hundred percent accurate.",1.2596153846153846,0.05796394849868911,104.0,85.0,11.0,8.0
 1529,1530,Hi Donald.,1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
 1530,1531,"I don't care if it's Saturday, you should still dress appropriately for work.",1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
 1531,1532,Why so grim? Both presidential candidates are here.,1.2596153846153846,0.045308650872167004,104.0,78.0,25.0,1.0
-1532,1533,He's in the basement playing Halo 5.,1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
+1532,1533,He's in the basement playing Halo 5.,1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
 1533,1534,I can sew whatever you reap.,1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
 1534,1535,Is this what I get for dying on a Friday?,1.2596153846153846,0.05796394849868911,104.0,85.0,11.0,8.0
 1535,1536,"Well if you want to come in, you'll have to take off those dirty shoes.",1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
-1536,1537,"Sheesh, you look like death.",1.2596153846153846,0.049257353142735334,104.0,80.0,21.0,3.0
+1536,1537,"Sheesh, you look like death.",1.2596153846153846,0.04925735314273533,104.0,80.0,21.0,3.0
 1537,1538,Is this about Larry's six strikeouts in the company softball game?,1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
 1538,1539,"No, no, someone got the order wrong. I asked to TERMINATE DELIVERY, not deliver termination.",1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
 1539,1540,I wish you'd said something before I went to the store.,1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
 1540,1541,"The casual look isn't fooling anyone, Mister.",1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
-1541,1542,We already have a kid that does the lawn.,1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
+1541,1542,We already have a kid that does the lawn.,1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
 1542,1543,Did someone order a slice?,1.2596153846153846,0.05796394849868911,104.0,85.0,11.0,8.0
 1543,1544,Late as usual.,1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0
 1544,1545,That's what you wear to take a lady out?,1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
-1545,1546,He's not quite ready yet. I'm still working on it.,1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
+1545,1546,He's not quite ready yet. I'm still working on it.,1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
 1546,1547,Did you edge along the sidewalk?,1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0
-1547,1548,I'm not going out with you dressed like that.,1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
-1548,1549,"Late again, your killing me.",1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0
+1547,1548,I'm not going out with you dressed like that.,1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
+1548,1549,"Late again, your killing me.",1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0
 1549,1550,"Wow, you really *aren't* proud!",1.2596153846153846,0.05796394849868911,104.0,85.0,11.0,8.0
 1550,1551,Previous guy used a mower.,1.2571428571428571,0.052464136413634656,105.0,83.0,17.0,5.0
 1551,1552,Sorry - he left earlier this morning on a hunting trip.,1.2571428571428571,0.054181507848883724,105.0,84.0,15.0,6.0
@@ -1759,24 +1759,24 @@
 1757,1758,Really? On a Friday?,1.2450980392156863,0.056487963525501436,102.0,84.0,11.0,7.0
 1758,1759,You still need to be back by 10.,1.2427184466019416,0.04671997869423882,103.0,80.0,21.0,2.0
 1759,1760,"Well I must say, this is not much of a last impression to make.",1.24,0.05340903718028677,100.0,81.0,14.0,5.0
-1760,1761,Come on in. He's in is man cave watching football.,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1760,1761,Come on in. He's in is man cave watching football.,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1761,1762,"There must be some mistake, I swiped left.",1.24,0.05706632681858592,100.0,83.0,10.0,7.0
 1762,1763,You just missed him; try him at the office.,1.24,0.05706632681858592,100.0,83.0,10.0,7.0
-1763,1764,"Hold on a second, I'll get him for you.",1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1763,1764,"Hold on a second, I'll get him for you.",1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1764,1765,Wrong house! I unendorsed him weeks ago!,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1765,1766,He's at the pub with your dad.,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1766,1767,"Oh, I get it. Casualty Friday. Cute.",1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1767,1768,"The Presidential Debates sucked all the life out of me, there is nothing left for you to take.",1.24,0.05706632681858592,100.0,83.0,10.0,7.0
-1768,1769,I shan’t be collected by an intern.,1.24,0.04739688435398098,100.0,78.0,20.0,2.0
+1768,1769,I shan’t be collected by an intern.,1.24,0.047396884353980984,100.0,78.0,20.0,2.0
 1769,1770,What are you...the HIP Reaper? Sweatpants?... Seriously?,1.24,0.0552679423766206,100.0,82.0,12.0,6.0
 1770,1771,Let me guess. You're running for president.,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1771,1772,YOU'RE DEATH? I thought you were the new landscaper!,1.24,0.0552679423766206,100.0,82.0,12.0,6.0
 1772,1773,"Well, I'm very happy to hear you that you finally found a job, Danny, but I'm afraid I can't let you bring your work home.",1.24,0.04948216697442473,100.0,79.0,18.0,3.0
 1773,1774,Would you like to come in for a cold one?,1.24,0.04948216697442473,100.0,79.0,18.0,3.0
 1774,1775,I guess when I asked for a man to come into my life I should've been more specific.,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
-1775,1776,You were supposed to be home two hours ago and don't tell me you were just killing time!,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1775,1776,You were supposed to be home two hours ago and don't tell me you were just killing time!,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1776,1777,You're killing me with those sweats!,1.24,0.0429234695990928,100.0,76.0,24.0,0.0
-1777,1778,"Didn't you see the sign!? It says ""No Soliciting""!",1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1777,1778,"Didn't you see the sign!? It says ""No Soliciting""!",1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1778,1779,Good Harvest?,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1779,1780,"This casual Friday thing has gotten way, way out of hand.",1.24,0.05706632681858592,100.0,83.0,10.0,7.0
 1780,1781,"Sure, he's out back.",1.24,0.05880974288828221,100.0,84.0,8.0,8.0
@@ -1787,35 +1787,35 @@
 1785,1786,I at least thought my death would be a business-casual event.,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1786,1787,I'm still undecided. Please take me now.,1.24,0.05706632681858592,100.0,83.0,10.0,7.0
 1787,1788,"Oh darn, he's out. Can you come back in an hour?",1.24,0.0552679423766206,100.0,82.0,12.0,6.0
-1788,1789,I guess I didn't realize the afterlife had Casual Friday.,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1788,1789,I guess I didn't realize the afterlife had Casual Friday.,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1789,1790,At least take your shoes off.,1.24,0.0552679423766206,100.0,82.0,12.0,6.0
-1790,1791,"No, I'm the slovenly reaper. Some of the work gets farmed out.",1.24,0.04739688435398098,100.0,78.0,20.0,2.0
+1790,1791,"No, I'm the slovenly reaper. Some of the work gets farmed out.",1.24,0.047396884353980984,100.0,78.0,20.0,2.0
 1791,1792,"Yes, I am certain that we only need our weeds whacked.",1.24,0.05340903718028677,100.0,81.0,14.0,5.0
-1792,1793,"The Grim-Hoodie, I presume?",1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1792,1793,"The Grim-Hoodie, I presume?",1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1793,1794,You'd get a better response if you weren't wearing that hoodie.,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1794,1795,He' playing golf today but he says any time before the election is fine,1.24,0.05706632681858592,100.0,83.0,10.0,7.0
 1795,1796,"You can threaten me all you want, Mr. Zuckerberg. I'm not signing up for Facebook.",1.24,0.05340903718028677,100.0,81.0,14.0,5.0
-1796,1797,"So, I haven't been to the gym! You don't have to chop my head off about it!",1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1796,1797,"So, I haven't been to the gym! You don't have to chop my head off about it!",1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1797,1798,We're doing casualty Fridays.,1.24,0.05706632681858592,100.0,83.0,10.0,7.0
 1798,1799,I'm a registered Independent. Why?,1.24,0.04948216697442473,100.0,79.0,18.0,3.0
 1799,1800,"No, Apt. 204 is across the hall, but be sure to come back November 8th.",1.24,0.04948216697442473,100.0,79.0,18.0,3.0
-1800,1801,Nobody wears white after Labor Day.,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1800,1801,Nobody wears white after Labor Day.,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1801,1802,"You're here to cut and run, aren't you?",1.24,0.04948216697442473,100.0,79.0,18.0,3.0
 1802,1803,"Thank god, I was hoping you'd come before the election.",1.24,0.0552679423766206,100.0,82.0,12.0,6.0
 1803,1804,Did you even read the sign? It says NO solicitors.,1.24,0.04948216697442473,100.0,79.0,18.0,3.0
 1804,1805,I thought tonight was a black scythe affair.,1.24,0.0552679423766206,100.0,82.0,12.0,6.0
-1805,1806,He's in the basement playing video games. Good luck.,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1805,1806,He's in the basement playing video games. Good luck.,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1806,1807,Couldn't we at least have dinner first?,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
-1807,1808,That is not concealed carry.,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
-1808,1809,Cigarettes? All I have is candy.,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
-1809,1810,"This should be interesting, my last date died of boredom.",1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1807,1808,That is not concealed carry.,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
+1808,1809,Cigarettes? All I have is candy.,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
+1809,1810,"This should be interesting, my last date died of boredom.",1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1810,1811,Your profile did say you were into The Dead.,1.24,0.04948216697442473,100.0,79.0,18.0,3.0
 1811,1812,Why the long scythe?,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1812,1813,Can you wait until the sixth of November?,1.24,0.04948216697442473,100.0,79.0,18.0,3.0
-1813,1814,Take your hand out of your pocket.,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1813,1814,Take your hand out of your pocket.,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1814,1815,I wouldn't be caught dead on a date with someone dressed like that!,1.24,0.0552679423766206,100.0,82.0,12.0,6.0
 1815,1816,"The grass looks fine, but this month go easier on the hedges.",1.24,0.05340903718028677,100.0,81.0,14.0,5.0
-1816,1817,I don't care what Ben Franklin said. I pay enough in taxes to avoid you for now.,1.24,0.04739688435398098,100.0,78.0,20.0,2.0
+1816,1817,I don't care what Ben Franklin said. I pay enough in taxes to avoid you for now.,1.24,0.047396884353980984,100.0,78.0,20.0,2.0
 1817,1818,"If you're looking for the Trump campaign, it's down the hall.",1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1818,1819,Casual Friday really isn't working for you.,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1819,1820,Come back when I've finished paying off my student loans.,1.24,0.0552679423766206,100.0,82.0,12.0,6.0
@@ -1828,39 +1828,39 @@
 1826,1827,You're too early. Come back later.,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1827,1828,That job of yours must be absolute murder.,1.24,0.04948216697442473,100.0,79.0,18.0,3.0
 1828,1829,You might be giving people the wrong impression.,1.24,0.04948216697442473,100.0,79.0,18.0,3.0
-1829,1830,"I know it's quiet, but I still prefer my string trimmer.",1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1829,1830,"I know it's quiet, but I still prefer my string trimmer.",1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1830,1831,You must be here for America's dignity.,1.24,0.0552679423766206,100.0,82.0,12.0,6.0
 1831,1832,You're too late. The Fitbit already got him.,1.24,0.05880974288828221,100.0,84.0,8.0,8.0
-1832,1833,"Yes, our relationship is dead, but you don't have to dress the part!",1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1832,1833,"Yes, our relationship is dead, but you don't have to dress the part!",1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1833,1834,You're Dead to me.,1.24,0.0552679423766206,100.0,82.0,12.0,6.0
-1834,1835,"You're somewhat scary, but at least you're not a creepy clown.",1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1834,1835,"You're somewhat scary, but at least you're not a creepy clown.",1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1835,1836,"""I know that's you, Frank! I wish you would stop going into ""Reaper-mode"" every time my mother coughs!",1.24,0.05706632681858592,100.0,83.0,10.0,7.0
-1836,1837,You're too late. I already voted Libertarian.,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
-1837,1838,"Since it seems taxes aren't certain, I'm not convinced you are.",1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1836,1837,You're too late. I already voted Libertarian.,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
+1837,1838,"Since it seems taxes aren't certain, I'm not convinced you are.",1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1838,1839,I was terrified until I noticed your grim Reebok's.,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1839,1840,I'm not going out with you looking like that!,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1840,1841,You got the call saying I'd be here between 48 and 53?,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1841,1842,"Reaper...maybe. Grim, not in the least.",1.24,0.05340903718028677,100.0,81.0,14.0,5.0
 1842,1843,"How's the cold Agnes, you look like death""",1.24,0.0552679423766206,100.0,82.0,12.0,6.0
 1843,1844,"No. I ordered a large pizza with pepperoni,",1.24,0.0552679423766206,100.0,82.0,12.0,6.0
-1844,1845,Finally.... I've been dying to see you!,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
-1845,1846,"Yeah, well I'll come for YOU if you aren't back by 10!",1.24,0.051483055955382565,100.0,80.0,16.0,4.0
-1846,1847,So it's casual Friday is it?,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1844,1845,Finally.... I've been dying to see you!,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
+1845,1846,"Yeah, well I'll come for YOU if you aren't back by 10!",1.24,0.05148305595538257,100.0,80.0,16.0,4.0
+1846,1847,So it's casual Friday is it?,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1847,1848,Just make it quick.,1.24,0.05706632681858592,100.0,83.0,10.0,7.0
-1848,1849,"Well you're not exactly a snazzy dresser, but you sure do know how to accessorize.",1.24,0.04739688435398098,100.0,78.0,20.0,2.0
-1849,1850,I guess we could use a little help with the harvest.,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1848,1849,"Well you're not exactly a snazzy dresser, but you sure do know how to accessorize.",1.24,0.047396884353980984,100.0,78.0,20.0,2.0
+1849,1850,I guess we could use a little help with the harvest.,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1850,1851,But I just signed a ten year lease!,1.24,0.04948216697442473,100.0,79.0,18.0,3.0
-1851,1852,Can you wait a minute while I finish The New Yorker magazine cartoon caption contest?,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1851,1852,Can you wait a minute while I finish The New Yorker magazine cartoon caption contest?,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1852,1853,Happy Halloween to my first trick-or-treater I hope.,1.24,0.04948216697442473,100.0,79.0,18.0,3.0
 1853,1854,So casual Friday did die.,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
-1854,1855,"Frankly, you look more Slacker then Reaper.",1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1854,1855,"Frankly, you look more Slacker then Reaper.",1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1855,1856,Are you taking me to my eternal lounging place?,1.24,0.0552679423766206,100.0,82.0,12.0,6.0
 1856,1857,Who buzzed you up?,1.24,0.05706632681858592,100.0,83.0,10.0,7.0
-1857,1858,What is this -- 'Casual Black Friday'?,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1857,1858,What is this -- 'Casual Black Friday'?,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1858,1859,Ever hear of a lawn mower?,1.24,0.0552679423766206,100.0,82.0,12.0,6.0
 1859,1860,You can start with my husband in the basement.,1.24,0.05340903718028677,100.0,81.0,14.0,5.0
-1860,1861,"No, no, I ordered a Weed Whacker!",1.24,0.051483055955382565,100.0,80.0,16.0,4.0
-1861,1862,You really should update your profile picture.,1.24,0.051483055955382565,100.0,80.0,16.0,4.0
+1860,1861,"No, no, I ordered a Weed Whacker!",1.24,0.05148305595538257,100.0,80.0,16.0,4.0
+1861,1862,You really should update your profile picture.,1.24,0.05148305595538257,100.0,80.0,16.0,4.0
 1862,1863,I really don't see a future for us.,1.24,0.04948216697442473,100.0,79.0,18.0,3.0
 1863,1864,The room's already been rented.,1.24,0.04948216697442473,100.0,79.0,18.0,3.0
 1864,1865,"She's in 105 now, down the hall and to the right.",1.24,0.04948216697442473,100.0,79.0,18.0,3.0
@@ -1892,7 +1892,7 @@
 1890,1891,I knew jogging would kill me.,1.2323232323232325,0.05142432808428706,99.0,80.0,15.0,4.0
 1891,1892,This is not a neighborhood where you want to go around in a hoodie.,1.2323232323232325,0.04937933227205968,99.0,79.0,17.0,3.0
 1892,1893,You're NOT from the lawn service?,1.2323232323232325,0.05142432808428706,99.0,80.0,15.0,4.0
-1893,1894,Come on in. I'll get the chess board.,1.2323232323232325,0.055287861646949564,99.0,82.0,11.0,6.0
+1893,1894,Come on in. I'll get the chess board.,1.2323232323232325,0.05528786164694957,99.0,82.0,11.0,6.0
 1894,1895,So it's casual Friday for you too?,1.2323232323232325,0.05712171836331744,99.0,83.0,9.0,7.0
 1895,1896,"Have a good day at work, dear.",1.2323232323232325,0.05142432808428706,99.0,80.0,15.0,4.0
 1896,1897,"You're late, just like my husband.",1.2323232323232325,0.05339105339105341,99.0,81.0,13.0,5.0
@@ -1902,26 +1902,26 @@
 1900,1901,"OK, but I haven't gone running in years.",1.2323232323232325,0.04937933227205968,99.0,79.0,17.0,3.0
 1901,1902,You shouldn't be walking around with your hoodie up.,1.2323232323232325,0.05712171836331744,99.0,83.0,9.0,7.0
 1902,1903,"This is serious business, take your hand out of your pocket and get some  proper shoes.",1.2323232323232325,0.04937933227205968,99.0,79.0,17.0,3.0
-1903,1904,The RNC office is across the street.,1.2323232323232325,0.055287861646949564,99.0,82.0,11.0,6.0
+1903,1904,The RNC office is across the street.,1.2323232323232325,0.05528786164694957,99.0,82.0,11.0,6.0
 1904,1905,"I see that you have casual Fridays, too.",1.2323232323232325,0.04724590344515125,99.0,78.0,19.0,2.0
 1905,1906,"No, the Trump campaign is next door.",1.2323232323232325,0.05889850398833639,99.0,84.0,7.0,8.0
-1906,1907,Ah yes. My husband was expecting you.,1.2323232323232325,0.055287861646949564,99.0,82.0,11.0,6.0
+1906,1907,Ah yes. My husband was expecting you.,1.2323232323232325,0.05528786164694957,99.0,82.0,11.0,6.0
 1907,1908,Lose the scythe! The hoody's scary enough.,1.2323232323232325,0.04724590344515125,99.0,78.0,19.0,2.0
 1908,1909,"City Water Inspector? Sounds reasonable, come on in.",1.2323232323232325,0.05142432808428706,99.0,80.0,15.0,4.0
-1909,1910,"More like the Slim Creeper, I'd say.",1.2323232323232325,0.055287861646949564,99.0,82.0,11.0,6.0
+1909,1910,"More like the Slim Creeper, I'd say.",1.2323232323232325,0.05528786164694957,99.0,82.0,11.0,6.0
 1910,1911,Why don't you comeback this evening when my husband is home.,1.2323232323232325,0.05712171836331744,99.0,83.0,9.0,7.0
 1911,1912,"Well, in that case, come back after 6 o'clock when my husband is home",1.2323232323232325,0.05339105339105341,99.0,81.0,13.0,5.0
 1912,1913,"No, I am NOT interested in voting for Donald Trump.",1.2323232323232325,0.05339105339105341,99.0,81.0,13.0,5.0
 1913,1914,I still think you should have taken the pizza delivery gig.,1.2323232323232325,0.04937933227205968,99.0,79.0,17.0,3.0
 1914,1915,"Really, Reaper? A hoodie and sneakers? Doesn't anybody dress for success these days?",1.2323232323232325,0.05339105339105341,99.0,81.0,13.0,5.0
 1915,1916,"The Joneses are down the hall, next door on the right.",1.2323232323232325,0.05339105339105341,99.0,81.0,13.0,5.0
-1916,1917,I don't care if it is casual Friday it just doesn't seem right,1.2323232323232325,0.055287861646949564,99.0,82.0,11.0,6.0
+1916,1917,I don't care if it is casual Friday it just doesn't seem right,1.2323232323232325,0.05528786164694957,99.0,82.0,11.0,6.0
 1917,1918,That hoodie makes you look threatening.,1.2323232323232325,0.04937933227205968,99.0,79.0,17.0,3.0
 1918,1919,I'm just here to water the plants. Try again tomorrow.,1.2323232323232325,0.05142432808428706,99.0,80.0,15.0,4.0
 1919,1920,Is today your laundry day?,1.2323232323232325,0.05142432808428706,99.0,80.0,15.0,4.0
 1920,1921,Friday?!? You couldn't wait until Monday?!?,1.2323232323232325,0.04724590344515125,99.0,78.0,19.0,2.0
 1921,1922,"It shatters my heart all over again to say this, but I think you're looking for my ex-husband.",1.2323232323232325,0.05712171836331744,99.0,83.0,9.0,7.0
-1922,1923,"Phil will be right out. He's putting on his casual Friday outfit, too.",1.2323232323232325,0.055287861646949564,99.0,82.0,11.0,6.0
+1922,1923,"Phil will be right out. He's putting on his casual Friday outfit, too.",1.2323232323232325,0.05528786164694957,99.0,82.0,11.0,6.0
 1923,1924,Yes I said it was a poor grass cutting job but let's not lose our heads about it.,1.2323232323232325,0.05142432808428706,99.0,80.0,15.0,4.0
 1924,1925,You'll have to come back when he's done with his nap,1.2323232323232325,0.05339105339105341,99.0,81.0,13.0,5.0
 1925,1926,Bob would like to reschedule your appointment.,1.2323232323232325,0.04937933227205968,99.0,79.0,17.0,3.0
@@ -1932,8 +1932,8 @@
 1930,1931,What does it say that you're the first black person I've seen in a New Yorker cartoon?,1.2323232323232325,0.05339105339105341,99.0,81.0,13.0,5.0
 1931,1932,"Do you have any idea whose time it is, mister?",1.2323232323232325,0.05142432808428706,99.0,80.0,15.0,4.0
 1932,1933,"""You're not 'going to make America great again' looking like that"".",1.2323232323232325,0.05142432808428706,99.0,80.0,15.0,4.0
-1933,1934,I knew Tinder would be the death of me.,1.2323232323232325,0.055287861646949564,99.0,82.0,11.0,6.0
-1934,1935,He's down at The Cask and Flagon. I told him he'd pay big-time for going out tonight.,1.2323232323232325,0.055287861646949564,99.0,82.0,11.0,6.0
+1933,1934,I knew Tinder would be the death of me.,1.2323232323232325,0.05528786164694957,99.0,82.0,11.0,6.0
+1934,1935,He's down at The Cask and Flagon. I told him he'd pay big-time for going out tonight.,1.2323232323232325,0.05528786164694957,99.0,82.0,11.0,6.0
 1935,1936,"""I don't care if it took 5 hours. You still only get 10 dollars"".",1.2323232323232325,0.05339105339105341,99.0,81.0,13.0,5.0
 1936,1937,You've no bag and I've no candy. So we're even.,1.2323232323232325,0.05339105339105341,99.0,81.0,13.0,5.0
 1937,1938,There were no casual Fridays when they came for nana.,1.2323232323232325,0.06062323676075039,99.0,85.0,5.0,9.0
@@ -1943,7 +1943,7 @@
 1941,1942,"Do go gentle into that good night, because you're not coming back home to live.",1.2323232323232325,0.04937933227205968,99.0,79.0,17.0,3.0
 1942,1943,"If you're here for the desktop, it's already dead.",1.2323232323232325,0.05339105339105341,99.0,81.0,13.0,5.0
 1943,1944,The Grim Reaper huh. Are you working for Trump?,1.2323232323232325,0.05142432808428706,99.0,80.0,15.0,4.0
-1944,1945,The only thing you are Harry is a grim idiot.,1.2323232323232325,0.055287861646949564,99.0,82.0,11.0,6.0
+1944,1945,The only thing you are Harry is a grim idiot.,1.2323232323232325,0.05528786164694957,99.0,82.0,11.0,6.0
 1945,1946,"With all due respect Mr. Belichick, the NFL dropped the ""sudden death"" format years ago.",1.2323232323232325,0.05339105339105341,99.0,81.0,13.0,5.0
 1946,1947,"Yo! Mister Slacker Reaper, I'm Kelly Arnold not Arnold Kelly.",1.2323232323232325,0.05142432808428706,99.0,80.0,15.0,4.0
 1947,1948,"Sorry, I've already registered to vote.",1.2323232323232325,0.05339105339105341,99.0,81.0,13.0,5.0
@@ -1955,26 +1955,26 @@
 1953,1954,You call that cutting edge technology?,1.2323232323232325,0.05142432808428706,99.0,80.0,15.0,4.0
 1954,1955,"Great, death's gone millennial. Now I suppose you want to praised for finding me.",1.2323232323232325,0.05142432808428706,99.0,80.0,15.0,4.0
 1955,1956,The GOP isn't home.,1.2323232323232325,0.05339105339105341,99.0,81.0,13.0,5.0
-1956,1957,"What part of ""I will survive"" don't you get?",1.23,0.048938221207451914,100.0,80.0,17.0,3.0
+1956,1957,"What part of ""I will survive"" don't you get?",1.23,0.04893822120745192,100.0,80.0,17.0,3.0
 1957,1958,Who in the hell are you?,1.23,0.05096047190685833,100.0,81.0,15.0,4.0
 1958,1959,"Stop slouching, young man.",1.23,0.05478147589295219,100.0,83.0,11.0,6.0
 1959,1960,In this house we take off our shoes.,1.23,0.05290548080293666,100.0,82.0,13.0,5.0
 1960,1961,Can you wait until November 9? There's something very important I need to do.,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 1961,1962,'Killing Me Softly' is just a song...OKAY?!?,1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
-1962,1963,Let me guess - you're campaigning for Donald Trump?,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
-1963,1964,"Sorry, but there are no middle aged females here.",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+1962,1963,Let me guess - you're campaigning for Donald Trump?,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
+1963,1964,"Sorry, but there are no middle aged females here.",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 1964,1965,He's upstairs. Have a seat and I'll get him right away.,1.2268041237113405,0.057707407641741086,97.0,82.0,8.0,7.0
 1965,1966,"It's just, this is kind of a big day for me.",1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
-1966,1967,"Coffee, tea, me?",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+1966,1967,"Coffee, tea, me?",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 1967,1968,Finally. A presidential candidate that I can vote for...,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 1968,1969,But I ordered pizza.,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 1969,1970,You look just like your profile picture.,1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
 1970,1971,Hmm. I always pictured you as being taller and thinner.,1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
 1971,1972,"Next time, call first.",1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 1972,1973,What! I'm not good enough for the original Death?,1.2268041237113405,0.04274001018499223,97.0,75.0,22.0,0.0
-1973,1974,You can forget the pitch. I already voted by mail for your boss.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+1973,1974,You can forget the pitch. I already voted by mail for your boss.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 1974,1975,I think you have the wrong apartment. The GOP lives down the hall.,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
-1975,1976,Cartoon lives matter.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+1975,1976,Cartoon lives matter.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 1976,1977,This is the date I've been waiting for all my life and you dress like that?,1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
 1977,1978,Where in Hell have you been? The lawn died weeks ago!,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 1978,1979,Excuse me. Is this the Rebulican National Committee headquarters?,1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
@@ -1986,23 +1986,23 @@
 1984,1985,I see they told you I'm a runner.,1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
 1985,1986,And which campaign are YOU from?,1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
 1986,1987,Still taking reservations for November?,1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
-1987,1988,"Well, let me change into something more comfortable.",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
-1988,1989,Could you just email me?,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+1987,1988,"Well, let me change into something more comfortable.",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
+1988,1989,Could you just email me?,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 1989,1990,She's not in.,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
-1990,1991,"No, I'm not voting for Trump.",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+1990,1991,"No, I'm not voting for Trump.",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 1991,1992,You looked much younger in your Match.com photo.,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 1992,1993,"Fred, your dress up jokes are killing me.",1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
 1993,1994,this is not what I envisioned when you said you're a cross dresser.,1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
 1994,1995,Thanks for coming. Maybe you can get through to her.,1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
-1995,1996,Leave the wheat. Kill the chaff.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
-1996,1997,You really don't look that grim to me.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+1995,1996,Leave the wheat. Kill the chaff.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
+1996,1997,You really don't look that grim to me.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 1997,1998,Can I wait until election day and then decide?,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 1998,1999,Overkill.,1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
-1999,2000,"No, Johnny can't come out to play.",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+1999,2000,"No, Johnny can't come out to play.",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2000,2001,"Come back after 6, my husband should be home by then.",1.2268041237113405,0.057707407641741086,97.0,82.0,8.0,7.0
 2001,2002,You're late. You had me worried to death!,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
-2002,2003,I think you have the wrong address,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
-2003,2004,"Sorry, I'm out of candy.",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2002,2003,I think you have the wrong address,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
+2003,2004,"Sorry, I'm out of candy.",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2004,2005,"You look like hell, I'm not going anywhere with you dressed like that!",1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
 2005,2006,If you think I'm going to jump right to the bargaining phase . . .,1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
 2006,2007,"Jeez Bill, you look like Death! You're late.",1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
@@ -2017,10 +2017,10 @@
 2015,2016,So THIS is how you're paying off your student loans.,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 2016,2017,"You're not fooling anyone with the sweatpants and sneakers, mister.",1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 2017,2018,I'm dying to know when you started a casual Friday policy.,1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
-2018,2019,Your manager said you would be here between noon and 4. You'll have to come back another day.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2018,2019,Your manager said you would be here between noon and 4. You'll have to come back another day.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2019,2020,"Well, no surprise you didn't get the job, Harold. Look at those shoes!",1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
 2020,2021,My candy or my life??!! Is that the best you could do?,1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
-2021,2022,Turns out I just needed to shut it down and start it up again.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2021,2022,Turns out I just needed to shut it down and start it up again.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2022,2023,"Sorry, the harvest is done. Do you cut hair?",1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
 2023,2024,Well then I get to put on flats.,1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
 2024,2025,I'm sorry but there are no millenials here.,1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
@@ -2029,19 +2029,19 @@
 2027,2028,"Thanks, but I downloaded your app and just took care if it myself.",1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
 2028,2029,"No offense, Death, but you don't look much like your profile picture...",1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
 2029,2030,I always knew I was drop dead gorgeous.,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
-2030,2031,"Young man, you get back in here and change before you kill another living thing!",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
-2031,2032,You know you can't wear white after Labor Day!,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2030,2031,"Young man, you get back in here and change before you kill another living thing!",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
+2031,2032,You know you can't wear white after Labor Day!,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2032,2033,I see you're going through a mid-death crisis.,1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
 2033,2034,Aren't you a little old to be trick-or-treating?,1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
 2034,2035,Was the store all out of clown costumes?,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
-2035,2036,"Thanks, but I've already had my wheat and chaff separated.",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2035,2036,"Thanks, but I've already had my wheat and chaff separated.",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2036,2037,Come back when you get a lawnmower.,1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
 2037,2038,"It's after labor day and you're still wearing white, but I'm the one being sentenced to death?",1.2268041237113405,0.057707407641741086,97.0,82.0,8.0,7.0
 2038,2039,"No, I'm not dressing up for the Ingmar Bergman film festival.",1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
 2039,2040,"What's this, death casual?",1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 2040,2041,Maybe a selfie first?,1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
 2041,2042,I told you I have found someone else to cut the grass.,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
-2042,2043,He's not here. Try Rumsfeld's office.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2042,2043,He's not here. Try Rumsfeld's office.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2043,2044,"I didn't come all the way downstairs to be at death's door, now watcha want.",1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
 2044,2045,I guess they'll call this a casual killing.,1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
 2045,2046,He says he uninstalled the iDead app months ago.,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
@@ -2055,28 +2055,28 @@
 2053,2054,You're too late. He took a job in the Styx.,1.2268041237113405,0.045182796537129546,97.0,76.0,20.0,1.0
 2054,2055,It's casual die-day.,1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
 2055,2056,Casual Friday ma'am,1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
-2056,2057,"Hey, take it easy! I SAID I'd turn my music down.",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2056,2057,"Hey, take it easy! I SAID I'd turn my music down.",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2057,2058,You are not wearing that to vote.,1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
-2058,2059,Just give me a few moments to look up your ratings on Yelp.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2058,2059,Just give me a few moments to look up your ratings on Yelp.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2059,2060,You look like death warmed up!,1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
-2060,2061,Your black robe is at the dry cleaners?,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2060,2061,Your black robe is at the dry cleaners?,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2061,2062,"I'm sorry, but you missed him by about ten minutes.",1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
 2062,2063,Maybe you shouldn't be so casual about death.,1.2268041237113405,0.045182796537129546,97.0,76.0,20.0,1.0
 2063,2064,Your shoe's untied,1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
-2064,2065,How have you not been shot yet?,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2064,2065,How have you not been shot yet?,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2065,2066,"I don't care who your father is, you cannot date my daughter!",1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
 2066,2067,"Oh, so nice of you to come on your day off!",1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
 2067,2068,"Oh, okay but before you do, I've always wondered how to pronounce that thing.",1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
 2068,2069,"No, you can't have your old room back.",1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
 2069,2070,"Geez, Bobby. You almost gave me a heart attack.",1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
-2070,2071,Don't make a mess of it. Unless you want only one star on yelp.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2070,2071,Don't make a mess of it. Unless you want only one star on yelp.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2071,2072,You have great timing - it's election night.,1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
 2072,2073,You must be the death dude.,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 2073,2074,They said you would be here in 30 minutes or less.,1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
 2074,2075,Terminix?,1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
-2075,2076,"I called for a babysitter, not a baby scyther.",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2075,2076,"I called for a babysitter, not a baby scyther.",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2076,2077,You look how I feel!,1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
-2077,2078,Please tell me you're the tax collector!,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2077,2078,Please tell me you're the tax collector!,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2078,2079,"so you are like ""uber for death"" you say?",1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 2079,2080,I'm not one to profile. But you should know that the hoodie is scaring people.,1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
 2080,2081,This could be the death of Casual Fridays.,1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
@@ -2084,22 +2084,22 @@
 2082,2083,You seemed taller in the photos.,1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
 2083,2084,"Can you come back later, I'm doing my kegel exercises?",1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 2084,2085,You took an Uber?,1.2268041237113405,0.057707407641741086,97.0,82.0,8.0,7.0
-2085,2086,Street style wrecks your credibility.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2085,2086,Street style wrecks your credibility.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2086,2087,Is Donald home?,1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
-2087,2088,Some people have a weird idea of how to make hay.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
-2088,2089,And which candidate are you collecting for?,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
-2089,2090,"'No, I don't want him back!""",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2087,2088,Some people have a weird idea of how to make hay.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
+2088,2089,And which candidate are you collecting for?,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
+2089,2090,"'No, I don't want him back!""",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2090,2091,We didn't call an exterminator.,1.2268041237113405,0.057707407641741086,97.0,82.0,8.0,7.0
 2091,2092,Hang on a second. I'll go get him.,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 2092,2093,"What, you couldn't dress for the occasion?",1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
-2093,2094,You've been replaced by a clown.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2093,2094,You've been replaced by a clown.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2094,2095,What happened to your lawnmower?,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
-2095,2096,You first.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
-2096,2097,"So, orange is the new black?",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2095,2096,You first.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
+2096,2097,"So, orange is the new black?",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2097,2098,I suppose we're taking an Uber?,1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
 2098,2099,We broke up. I threw out the sharpener with the rest of your stuff.,1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
-2099,2100,"How was practice,honey?",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
-2100,2101,"Always reaping, never sowing, as usual I see.",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2099,2100,"How was practice,honey?",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
+2100,2101,"Always reaping, never sowing, as usual I see.",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2101,2102,You're late,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 2102,2103,SKYPE. I said SKYPE me.,1.2268041237113405,0.05182484925036311,97.0,79.0,14.0,4.0
 2103,2104,May I have just five minutes with him first?,1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
@@ -2108,12 +2108,12 @@
 2106,2107,Our order was for chicken fajitas.,1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
 2107,2108,"It's Halloween, so I'm not buyin' it.",1.2268041237113405,0.047500123528450434,97.0,77.0,18.0,2.0
 2108,2109,"Sorry to bother you. I think you may have picked up my dry cleaning by mistake: Black cloak, wool, full-length, nice affair.",1.2268041237113405,0.055815484092030174,97.0,81.0,10.0,6.0
-2109,2110,He's in the bedroom. Try not to ruin the sheets. And you're late. Again.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
-2110,2111,"So, coaching the Patriots is just your day job?",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2109,2110,He's in the bedroom. Try not to ruin the sheets. And you're late. Again.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
+2110,2111,"So, coaching the Patriots is just your day job?",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2111,2112,I expected you AFTER the election.,1.2268041237113405,0.045182796537129546,97.0,76.0,20.0,1.0
 2112,2113,What was wrong with the puffy tail and the bunny ears?,1.2268041237113405,0.0497095400051183,97.0,78.0,16.0,3.0
-2113,2114,Please tell me you're selling artisanal lawn care services.,1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
-2114,2115,"When I told you to get a costume that kills, this is not what I had in mind.",1.2268041237113405,0.05385714095758581,97.0,80.0,12.0,5.0
+2113,2114,Please tell me you're selling artisanal lawn care services.,1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
+2114,2115,"When I told you to get a costume that kills, this is not what I had in mind.",1.2268041237113405,0.053857140957585814,97.0,80.0,12.0,5.0
 2115,2116,"Yeah, now you show up. Where were you before the election?",1.2244897959183674,0.053354962259045804,98.0,81.0,12.0,5.0
 2116,2117,"Sorry, I specifically requested a pest exterminator.",1.2244897959183674,0.051345482390755634,98.0,80.0,14.0,4.0
 2117,2118,You're a sight for sore eyes this election season.,1.2244897959183674,0.04925408740616957,98.0,79.0,16.0,3.0
@@ -2127,24 +2127,24 @@
 2125,2126,Bernie lost--get over it.,1.2244897959183674,0.04925408740616957,98.0,79.0,16.0,3.0
 2126,2127,Do you have ID?,1.2244897959183674,0.051345482390755634,98.0,80.0,14.0,4.0
 2127,2128,"Ah, I think you have the wrong home, the address you seek is 725 5th Ave.",1.2244897959183674,0.053354962259045804,98.0,81.0,12.0,5.0
-2128,2129,I'm sorry. I'm a registered Democrat. You want the guy in 406.,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2128,2129,I'm sorry. I'm a registered Democrat. You want the guy in 406.,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2129,2130,We don't want any.,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
 2130,2131,"You’re too old, it’s not Halloween and I haven’t got any candy. Beat it.",1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
 2131,2132,Be careful where you wear that hoodie.,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
-2132,2133,I told you last week that my twin sister is off studying fruit flies in the Sahara.,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2132,2133,I told you last week that my twin sister is off studying fruit flies in the Sahara.,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2133,2134,I've been dead for years so just run along now.,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
-2134,2135,You didn't knock.,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
-2135,2136,So who are you?... the Angel of Def.,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2134,2135,You didn't knock.,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
+2135,2136,So who are you?... the Angel of Def.,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2136,2137,"For Pete's sake, Karl, I said 'pick me up a SLICE.'",1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
-2137,2138,I refuse to go to the afterlife on Casual Friday!,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2137,2138,I refuse to go to the afterlife on Casual Friday!,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2138,2139,you're awful casual about this date,1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
-2139,2140,"Sorry, we have a regular gardener",1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2139,2140,"Sorry, we have a regular gardener",1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2140,2141,You think you can fool me? You're Mark Zuckerberg.,1.21875,0.04730250957698441,96.0,77.0,17.0,2.0
 2141,2142,"Nobody's going to be afraid of death, if you go to work looking like that!",1.21875,0.04730250957698441,96.0,77.0,17.0,2.0
 2142,2143,"No, the grass doesn't need cutting.",1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
 2143,2144,"Funny, but he says he doesn't feel like jogging today.",1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
 2144,2145,Oh nuts! I thought you were the Amazon delivery guy.,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
-2145,2146,""" So, you say you are not a salesman, yet you are making me pay the ultimate price?",1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2145,2146,""" So, you say you are not a salesman, yet you are making me pay the ultimate price?",1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2146,2147,"You,re not grim and you're late.",1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
 2147,2148,I believe this casual Friday business has gone way too far.,1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
 2148,2149,I was told there were no death panels.,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
@@ -2152,7 +2152,7 @@
 2150,2151,what took you so long he died three weeks ago,1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
 2151,2152,"""Unfortunately, my husband's not home right now""!",1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
 2152,2153,You ain't grim enough to reap this soul.,1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
-2153,2154,Casual Friday in the afterlife?! Who knew?!,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2153,2154,Casual Friday in the afterlife?! Who knew?!,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2154,2155,I can't believe they're making you work on your day off.,1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
 2155,2156,He moved to 324 Lake St. Tap the motif of Beethoven's Fifth and he'll open for sure.,1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
 2156,2157,Grim??? Seriously???,1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
@@ -2162,28 +2162,28 @@
 2160,2161,You're late. Dinner's cold.,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
 2161,2162,"Well, you're early.",1.21875,0.04730250957698441,96.0,77.0,17.0,2.0
 2162,2163,I don’t care how good a letter opener it is. I’m not interested.,1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
-2163,2164,"Nice try, Arthur. We're not going to Burning Man.",1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2163,2164,"Nice try, Arthur. We're not going to Burning Man.",1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2164,2165,"So, which candidate are you supposed to be?",1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
-2165,2166,"Yeah, right.",1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2165,2166,"Yeah, right.",1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2166,2167,"Well, speak up! I haven't got all day, you know!",1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
 2167,2168,I saw your ad on Craigslist. Where's the body?,1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
 2168,2169,Oh. You're looking for my husband. He's in the study with one of his interns.,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
 2169,2170,Makes sense. And how is climate change affecting heaven?,1.21875,0.05774096154681594,96.0,82.0,7.0,7.0
 2170,2171,"Thanks, but I've already registered to vote.",1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
 2171,2172,"Old school, huh? The other boy that used to cut my lawn had a gas mower.",1.21875,0.04492470552676631,96.0,76.0,19.0,1.0
-2172,2173,I'm gonna kill my sister for setting up this blind date.,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
-2173,2174,Any chance you got the wrong address?,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
-2174,2175,You just missed him. Maybe come back around 3 this afternoon?,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2172,2173,I'm gonna kill my sister for setting up this blind date.,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
+2173,2174,Any chance you got the wrong address?,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
+2174,2175,You just missed him. Maybe come back around 3 this afternoon?,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2175,2176,What took you so long?! He's in the garage.,1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
 2176,2177,"Hello, my name is Jimmy. I wanted to have 10 minutes of your time to speak to you about Jesus Christ, and the after life.",1.21875,0.04730250957698441,96.0,77.0,17.0,2.0
 2177,2178,"No thanks, I'm with her.",1.21875,0.059609704629069525,96.0,83.0,5.0,8.0
 2178,2179,"How did you find me? On the Internet, I'm a 15 year old hacker from Uzbekistan.",1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
 2179,2180,You're too late. We already voted.,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
-2180,2181,I said get popsicles on your way home.,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2180,2181,I said get popsicles on your way home.,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2181,2182,About time. My will to live died YEARS ago!,1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
 2182,2183,I suspect there's been more rapping than reaping this evening.,1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
 2183,2184,"Sorry, but we already have lawn care.",1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
-2184,2185,"I didn't order soul food, I ordered Chinese.",1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2184,2185,"I didn't order soul food, I ordered Chinese.",1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2185,2186,We gave last year!,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
 2186,2187,"No, the hoodie doesn't make you scarier.",1.21875,0.04730250957698441,96.0,77.0,17.0,2.0
 2187,2188,"I already told you, I'm a Hillary supporter.",1.21875,0.04730250957698441,96.0,77.0,17.0,2.0
@@ -2193,26 +2193,26 @@
 2191,2192,I'm sorry; nobody by that name lives here!,1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
 2192,2193,"I know you are, Dear, but I still want you in by eleven.",1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
 2193,2194,"Whatever you're selling, I don't want any. By the way fella, you look like death warmed over.",1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
-2194,2195,$20 for the front and the back. Looks like you'll need a rake.,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
-2195,2196,Oh for....just once; I thought I might go out with a classy guy.,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
-2196,2197,Sorry - he and his kids just left for Mar-a-Lago. Can I text him for you?,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2194,2195,$20 for the front and the back. Looks like you'll need a rake.,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
+2195,2196,Oh for....just once; I thought I might go out with a classy guy.,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
+2196,2197,Sorry - he and his kids just left for Mar-a-Lago. Can I text him for you?,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2197,2198,I was hoping for a creepy clown.,1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
-2198,2199,"No, my name is Lizzie GORDON and both my parents live in Miami Beach",1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2198,2199,"No, my name is Lizzie GORDON and both my parents live in Miami Beach",1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2199,2200,Your father never left a client in purgatory to go skateboarding with the guys.,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
-2200,2201,And what if I don't want my lawn mowed?,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2200,2201,And what if I don't want my lawn mowed?,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2201,2202,Welcome to Donald Trump's America.,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
 2202,2203,"So, what you really meant your online profile to say was ""zest for THE living?""",1.21875,0.05774096154681594,96.0,82.0,7.0,7.0
 2203,2204,Susie?...I think she lives next door.,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
 2204,2205,You looked taller in your profile picture.,1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
 2205,2206,"No, Ralph's not home. Should I check our insurance coverage?",1.21875,0.04730250957698441,96.0,77.0,17.0,2.0
-2206,2207,I'm not buying your knives.,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2206,2207,I'm not buying your knives.,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2207,2208,You look different than your picture online.,1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
-2208,2209,Does your father know you have his scythe?,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2208,2209,Does your father know you have his scythe?,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2209,2210,Took you long enough!,1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
 2210,2211,It's another Trump canvasser.,1.21875,0.05774096154681594,96.0,82.0,7.0,7.0
-2211,2212,"Seriously, Casual Friday for the Grim Reaper?",1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2211,2212,"Seriously, Casual Friday for the Grim Reaper?",1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2212,2213,"No, I don't know anyone named Shaggy and Scooby doo.",1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
-2213,2214,"All the treats are gone. For the life of me, I'm afraid to ask what your trick might be.",1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2213,2214,"All the treats are gone. For the life of me, I'm afraid to ask what your trick might be.",1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2214,2215,But I just bought a groupon for a massage.,1.21875,0.04492470552676631,96.0,76.0,19.0,1.0
 2215,2216,He's at the Jets game.,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
 2216,2217,"Sorry, I'm Buddhist.",1.21875,0.05774096154681594,96.0,82.0,7.0,7.0
@@ -2224,26 +2224,26 @@
 2222,2223,That w'd be my nephew. He is upstairs texting.,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
 2223,2224,Come back in 30 years!,1.21875,0.04730250957698441,96.0,77.0,17.0,2.0
 2224,2225,"Cut the comedy, Harold. Just cut the weeds.",1.21875,0.04492470552676631,96.0,76.0,19.0,1.0
-2225,2226,The hoodie's a bit much.,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2225,2226,The hoodie's a bit much.,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2226,2227,You're two hours late!,1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
-2227,2228,You're doing casual fridays too?,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
-2228,2229,I think you’re taking the ‘Death be not proud’ thing a little too far.,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2227,2228,You're doing casual fridays too?,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
+2228,2229,I think you’re taking the ‘Death be not proud’ thing a little too far.,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2229,2230,"Sorry, I cut my own lawn.",1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
 2230,2231,"You better put down your hoodie, you might get killed afterwards.",1.21875,0.059609704629069525,96.0,83.0,5.0,8.0
-2231,2232,Worst Friday ever.,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2231,2232,Worst Friday ever.,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2232,2233,I ordered pizza.,1.21875,0.04730250957698441,96.0,77.0,17.0,2.0
 2233,2234,It's a 'health club'. I told you they wouldn't let you in with that thing.,1.21875,0.04730250957698441,96.0,77.0,17.0,2.0
-2234,2235,Did you check his office?,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
-2235,2236,You're looking for Harry Reid next door.,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2234,2235,Did you check his office?,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
+2235,2236,You're looking for Harry Reid next door.,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2236,2237,No thanks. Got one of those. I'm waiting for the brush salesman.,1.21875,0.04492470552676631,96.0,76.0,19.0,1.0
-2237,2238,"I`d never thought death would come knocking at my door. It's a bit of a downer, really.",1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2237,2238,"I`d never thought death would come knocking at my door. It's a bit of a downer, really.",1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2238,2239,Hmmm...but I do have this neighbor....,1.21875,0.04956637628367376,96.0,78.0,15.0,3.0
 2239,2240,What kept you?,1.21875,0.053809127005767406,96.0,80.0,11.0,5.0
-2240,2241,Is volunteering for Trump rewarding?,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2240,2241,Is volunteering for Trump rewarding?,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2241,2242,"COME BACK AT SIX, HE'LL BE HOME BT THEN.",1.21875,0.05774096154681594,96.0,82.0,7.0,7.0
 2242,2243,I do indeed think you are early.,1.21875,0.05580968011677582,96.0,81.0,9.0,6.0
-2243,2244,You want the campaign down the hall,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
-2244,2245,Are you sure we can't handle this online?,1.21875,0.051731266208249464,96.0,79.0,13.0,4.0
+2243,2244,You want the campaign down the hall,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
+2244,2245,Are you sure we can't handle this online?,1.21875,0.05173126620824946,96.0,79.0,13.0,4.0
 2245,2246,"No, I'm voting for Clinton!",1.2164948453608246,0.05527734688022483,97.0,82.0,9.0,6.0
 2246,2247,"First, do everyone a favor and kill that fashion statement!",1.2164948453608246,0.05124482230930155,97.0,80.0,13.0,4.0
 2247,2248,"Well, yes the Cubs are normally ready for you this time of year . . .",1.2164948453608246,0.053299234945862924,97.0,81.0,11.0,5.0
@@ -2278,7 +2278,7 @@
 2276,2277,You kill me!You just kill me!,1.2127659574468086,0.05211680303793994,94.0,78.0,12.0,4.0
 2277,2278,Casual Friday in the nertherworld?,1.2127659574468086,0.04987364594142135,94.0,77.0,14.0,3.0
 2278,2279,It's about time! I've been calling you since the primary season first started!,1.2127659574468086,0.05211680303793994,94.0,78.0,12.0,4.0
-2279,2280,"Of course. Makes sense. As a high school English teacher I always knew my end would somehow include a snarky teenager. Touché young man, touché.",1.2127659574468086,0.058330977680053825,94.0,81.0,6.0,7.0
+2279,2280,"Of course. Makes sense. As a high school English teacher I always knew my end would somehow include a snarky teenager. Touché young man, touché.",1.2127659574468086,0.05833097768005384,94.0,81.0,6.0,7.0
 2280,2281,"No, I'm not interested in buying any subscriptions to Dead People magazine.",1.2127659574468086,0.05211680303793994,94.0,78.0,12.0,4.0
 2281,2282,"Sorry, you're in the wrong 'hood. You need to go down two blocks and cross the River Styx.",1.2127659574468086,0.04987364594142135,94.0,77.0,14.0,3.0
 2282,2283,You're late. The Donald is already gone.,1.2127659574468086,0.05633579996508229,94.0,80.0,8.0,6.0
@@ -2290,7 +2290,7 @@
 2288,2289,He's not here right now. Come back tomorrow.,1.2127659574468086,0.05211680303793994,94.0,78.0,12.0,4.0
 2289,2290,I don't care if the cleaners did lose your robe. I'm not coming.,1.2127659574468086,0.04987364594142135,94.0,77.0,14.0,3.0
 2290,2291,Through the door it sounded more like 'Jim Greeber'.,1.2127659574468086,0.04987364594142135,94.0,77.0,14.0,3.0
-2291,2292,And don't come back until you've got Donald Trump!,1.2127659574468086,0.058330977680053825,94.0,81.0,6.0,7.0
+2291,2292,And don't come back until you've got Donald Trump!,1.2127659574468086,0.05833097768005384,94.0,81.0,6.0,7.0
 2292,2293,"So what happened, they ran out of Trump costumes already; and Hillary wasn't scary enough?",1.2127659574468086,0.05426731758895584,94.0,79.0,10.0,5.0
 2293,2294,Aren't you worried the hoodie might set people off?,1.2127659574468086,0.05426731758895584,94.0,79.0,10.0,5.0
 2294,2295,"No, he can't come out and play",1.2127659574468086,0.05211680303793994,94.0,78.0,12.0,4.0
@@ -2308,8 +2308,8 @@
 2306,2307,So this is what dating on line sends me!,1.2127659574468086,0.05211680303793994,94.0,78.0,12.0,4.0
 2307,2308,"Sorry, this is my husband's night out with the Boys.",1.2127659574468086,0.047524729984346925,94.0,76.0,16.0,2.0
 2308,2309,"Sorry, he has already departed.",1.2127659574468086,0.05426731758895584,94.0,79.0,10.0,5.0
-2309,2310,"Oh, you want to see Grandma? She's right down the...Wait a second...",1.2127659574468086,0.058330977680053825,94.0,81.0,6.0,7.0
-2310,2311,You look older than your picture.,1.2127659574468086,0.058330977680053825,94.0,81.0,6.0,7.0
+2309,2310,"Oh, you want to see Grandma? She's right down the...Wait a second...",1.2127659574468086,0.05833097768005384,94.0,81.0,6.0,7.0
+2310,2311,You look older than your picture.,1.2127659574468086,0.05833097768005384,94.0,81.0,6.0,7.0
 2311,2312,You do seem more relaxed since you took that holiday.,1.2127659574468086,0.04505351662944762,94.0,75.0,18.0,1.0
 2312,2313,I should have known. The Bummed Reaper.,1.2127659574468086,0.05426731758895584,94.0,79.0,10.0,5.0
 2313,2314,"Easy, tiger! I haven't gotten this kinky since Grad School...",1.2127659574468086,0.04987364594142135,94.0,77.0,14.0,3.0
@@ -2472,28 +2472,28 @@
 2470,2471,"So, This is why you dropped out of school?",1.2043010752688172,0.04968140616939365,93.0,77.0,13.0,3.0
 2471,2472,Halloween really separates the wheat from the chaff.,1.2043010752688172,0.0519807292144392,93.0,78.0,11.0,4.0
 2472,2473,"I don't care WHO you are, you're not coming in without taking off those shoes first!",1.2043010752688172,0.0519807292144392,93.0,78.0,11.0,4.0
-2473,2474,Come in! I hope you brought my new glasses.,1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0
-2474,2475,"No, I would not like to contribute to your high school's marching band's trip to Washington, DC.",1.2021276595744679,0.051470677714487066,94.0,79.0,11.0,4.0
-2475,2476,I thought you'd be dressed better.,1.2021276595744679,0.044304501646820114,94.0,76.0,17.0,1.0
-2476,2477,Is Death taking a fashion holiday?,1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0
-2477,2478,You're a day late. He died yesterday.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0
-2478,2479,Trump for President I presume,1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0
-2479,2480,Now I see why they 'Don't Fear the Reaper'.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0
-2480,2481,Not today. My son cut the grass.,1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0
-2481,2482,You're to late. The clown beat you to him. He's in the back.,1.2021276595744679,0.044304501646820114,94.0,76.0,17.0,1.0
-2482,2483,"It's like I keep telling ya, All Lives Matter!",1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0
-2483,2484,Really? This is what you are wearing to Career Day?,1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0
-2484,2485,You seem to have lost the will to kill.,1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0
-2485,2486,He said he'll meet up with you later…he's dressed as a clown.,1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0
-2486,2487,"There may well be a minimum number of boxes your daughter need to sell, but I still think you're being a bit heavy handed.",1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0
-2487,2488,You look exactly like your profile photo.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0
-2488,2489,I already have solar panels.,1.2021276595744679,0.055738602989301216,94.0,81.0,7.0,6.0
-2489,2490,"Wrong apartment, the millineals are two doors down.",1.2021276595744679,0.051470677714487066,94.0,79.0,11.0,4.0
-2490,2491,Your online dating profile say's your someone to die for.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0
-2491,2492,"My husband's out, but I'll call his cell and get him right back for you.",1.2021276595744679,0.044304501646820114,94.0,76.0,17.0,1.0
-2492,2493,You are too late. He passed on last week.,1.2021276595744679,0.044304501646820114,94.0,76.0,17.0,1.0
-2493,2494,The Grim Groper--is that you Donald?,1.2021276595744679,0.055738602989301216,94.0,81.0,7.0,6.0
-2494,2495,"""So what can I do on this fine morning for the most half-assed grim reaper ever?",1.2021276595744679,0.051470677714487066,94.0,79.0,11.0,4.0
+2473,2474,Come in! I hope you brought my new glasses.,1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0
+2474,2475,"No, I would not like to contribute to your high school's marching band's trip to Washington, DC.",1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0
+2475,2476,I thought you'd be dressed better.,1.202127659574468,0.044304501646820114,94.0,76.0,17.0,1.0
+2476,2477,Is Death taking a fashion holiday?,1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0
+2477,2478,You're a day late. He died yesterday.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0
+2478,2479,Trump for President I presume,1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0
+2479,2480,Now I see why they 'Don't Fear the Reaper'.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0
+2480,2481,Not today. My son cut the grass.,1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0
+2481,2482,You're to late. The clown beat you to him. He's in the back.,1.202127659574468,0.044304501646820114,94.0,76.0,17.0,1.0
+2482,2483,"It's like I keep telling ya, All Lives Matter!",1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0
+2483,2484,Really? This is what you are wearing to Career Day?,1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0
+2484,2485,You seem to have lost the will to kill.,1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0
+2485,2486,He said he'll meet up with you later…he's dressed as a clown.,1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0
+2486,2487,"There may well be a minimum number of boxes your daughter need to sell, but I still think you're being a bit heavy handed.",1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0
+2487,2488,You look exactly like your profile photo.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0
+2488,2489,I already have solar panels.,1.202127659574468,0.055738602989301216,94.0,81.0,7.0,6.0
+2489,2490,"Wrong apartment, the millineals are two doors down.",1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0
+2490,2491,Your online dating profile say's your someone to die for.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0
+2491,2492,"My husband's out, but I'll call his cell and get him right back for you.",1.202127659574468,0.044304501646820114,94.0,76.0,17.0,1.0
+2492,2493,You are too late. He passed on last week.,1.202127659574468,0.044304501646820114,94.0,76.0,17.0,1.0
+2493,2494,The Grim Groper--is that you Donald?,1.202127659574468,0.055738602989301216,94.0,81.0,7.0,6.0
+2494,2495,"""So what can I do on this fine morning for the most half-assed grim reaper ever?",1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0
 2495,2496,Thanks. I already voted by absentee ballot.,1.2,0.050970425959652337,95.0,80.0,11.0,4.0
 2496,2497,He took up jogging to IMPROVE his health...,1.2,0.050970425959652337,95.0,80.0,11.0,4.0
 2497,2498,So what are you wearing for Halloween?,1.1978021978021978,0.047449684731754656,91.0,75.0,14.0,2.0
@@ -2815,7 +2815,7 @@
 2813,2814,This is exactly why I always campaigned for the right to Death with dignity.,1.1868131868131868,0.049198925686097635,91.0,77.0,11.0,3.0
 2814,2815,"Sorry, but we don't do casual Friday's here.",1.1868131868131868,0.04665119553093911,91.0,76.0,13.0,2.0
 2815,2816,"I'm seeking an avid reader, not an average reaper.",1.1868131868131868,0.04665119553093911,91.0,76.0,13.0,2.0
-2816,2817,"Even if it is cancer, it's still disrespectful to stare. My face is up here",1.1868131868131868,0.056152782845259666,91.0,80.0,5.0,6.0
+2816,2817,"Even if it is cancer, it's still disrespectful to stare. My face is up here",1.1868131868131868,0.05615278284525967,91.0,80.0,5.0,6.0
 2817,2818,You the termite guy?,1.1868131868131868,0.04395604395604396,91.0,75.0,15.0,1.0
 2818,2819,I'm at a loss for words. What's with the snow suit? Are you lost or has Hell frozen over?,1.1868131868131868,0.05162106675444049,91.0,78.0,9.0,4.0
 2819,2820,Haven’t you heard of email?,1.1868131868131868,0.049198925686097635,91.0,77.0,11.0,3.0
@@ -2831,7 +2831,7 @@
 2829,2830,"No, the white clothes don't make me feel any better about this.",1.1868131868131868,0.05162106675444049,91.0,78.0,9.0,4.0
 2830,2831,You know that hoodie could be deadly.,1.1868131868131868,0.05162106675444049,91.0,78.0,9.0,4.0
 2831,2832,We're you jogging or harvesting souls again?,1.1868131868131868,0.049198925686097635,91.0,77.0,11.0,3.0
-2832,2833,Hello Election 2016. America is in the back waiting for you.,1.1868131868131868,0.056152782845259666,91.0,80.0,5.0,6.0
+2832,2833,Hello Election 2016. America is in the back waiting for you.,1.1868131868131868,0.05615278284525967,91.0,80.0,5.0,6.0
 2833,2834,"Not until you spiff up a little bit, young man.",1.1868131868131868,0.04665119553093911,91.0,76.0,13.0,2.0
 2834,2835,"Nice try, Al, but I've no intention of leaving this earth until you fix the garbage disposal!",1.1868131868131868,0.04665119553093911,91.0,76.0,13.0,2.0
 2835,2836,When are you going to get a real job!,1.1868131868131868,0.05162106675444049,91.0,78.0,9.0,4.0
@@ -2879,44 +2879,44 @@
 2877,2878,It's casual Friday.,1.184782608695652,0.05109724815265259,92.0,79.0,9.0,4.0
 2878,2879,Worst re-branding ever!,1.184782608695652,0.0487035648134137,92.0,78.0,11.0,3.0
 2879,2880,"Goin' for irony, ya' are?! The Grim Reaper?! In activewear?!",1.184782608695652,0.0487035648134137,92.0,78.0,11.0,3.0
-2880,2881,"Now that you're home, the front yard still needs raking.",1.184782608695652,0.046185990108419464,92.0,77.0,13.0,2.0
-2881,2882,"Go back to the where you came from, Donald; I can see right through you.",1.184782608695652,0.053383708301439015,92.0,80.0,7.0,5.0
+2880,2881,"Now that you're home, the front yard still needs raking.",1.184782608695652,0.04618599010841946,92.0,77.0,13.0,2.0
+2881,2882,"Go back to the where you came from, Donald; I can see right through you.",1.184782608695652,0.05338370830143902,92.0,80.0,7.0,5.0
 2882,2883,I'm now more afraid of the creepy clown sightings.,1.184782608695652,0.05109724815265259,92.0,79.0,9.0,4.0
 2883,2884,You just missed the tax collector!,1.1827956989247312,0.05284393687196332,93.0,81.0,7.0,5.0
-2884,2885,"Oh, and I suppose you want to talk about religion too.",1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2884,2885,"Oh, and I suppose you want to talk about religion too.",1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2885,2886,Grim Reaper who?,1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0
-2886,2887,"I said mow the lawn, not kill it.",1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2886,2887,"I said mow the lawn, not kill it.",1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2887,2888,"I'm sorry, but the election isn't until November 8th.",1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0
 2888,2889,"No, I'm not the neighbor that is seeking early retirement.",1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
-2889,2890,"You misheard me, GR. I wasn't looking for casual death.",1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2889,2890,"You misheard me, GR. I wasn't looking for casual death.",1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2890,2891,I thought that Orange was the new black,1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0
 2891,2892,"No, I'm not going to drive you to work! Just take the subway.",1.181818181818182,0.0443973183545807,88.0,73.0,14.0,1.0
 2892,2893,"No, he's out for his daily run around Central Park. Why don't you come back in 30 years?",1.181818181818182,0.0443973183545807,88.0,73.0,14.0,1.0
-2893,2894,Wha' da YOU want?,1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2893,2894,Wha' da YOU want?,1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2894,2895,I'm already registered to vote.,1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2895,2896,"Donald, you're such a bad loser.",1.181818181818182,0.05491861211367989,88.0,77.0,6.0,5.0
 2896,2897,They're sending children now?,1.181818181818182,0.0443973183545807,88.0,73.0,14.0,1.0
 2897,2898,"No, I'm still not voting for her.",1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2898,2899,"I heard her, too. It was Mrs. Beekman. She's above me in 407, not 307.",1.181818181818182,0.0443973183545807,88.0,73.0,14.0,1.0
 2899,2900,Wait a sec...he's in the living room.,1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0
-2900,2901,You want some candy or are you going to stand there playing pocket pinball?,1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2900,2901,You want some candy or are you going to stand there playing pocket pinball?,1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2901,2902,"Please tell me you're just getting a jump on Halloween, right?",1.181818181818182,0.0443973183545807,88.0,73.0,14.0,1.0
 2902,2903,It's about time you found a job.,1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0
-2903,2904,You cometh too late--dinner is over.,1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
-2904,2905,Are you here for my car?,1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2903,2904,You cometh too late--dinner is over.,1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
+2904,2905,Are you here for my car?,1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2905,2906,Does it have benefits?,1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0
-2906,2907,You wanna talk bio honesty? I'm way more Sally Field than you're George Clooney.,1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2906,2907,You wanna talk bio honesty? I'm way more Sally Field than you're George Clooney.,1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2907,2908,Oh my! Your hoodie scared me.,1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0
-2908,2909,"Ummm...that is definitely NOT what I meant by ""I'm dying for some exercise.""",1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2908,2909,"Ummm...that is definitely NOT what I meant by ""I'm dying for some exercise.""",1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2909,2910,"Sadly, this isn't the most terrifying costume I've seen.",1.181818181818182,0.0443973183545807,88.0,73.0,14.0,1.0
-2910,2911,You're late. What took you so long?,1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
-2911,2912,"You can have my varicose veins, hemorrhoids and dandruff; now leave me alone",1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2910,2911,You're late. What took you so long?,1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
+2911,2912,"You can have my varicose veins, hemorrhoids and dandruff; now leave me alone",1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2912,2913,Oh terrific! Now I have to die on casual Friday.,1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2913,2914,"And. the ""trick"", dare I ask?",1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0
 2914,2915,Don't think you're getting anywhere near the p-word after touching that filthy thing!,1.181818181818182,0.0572475936293093,88.0,78.0,4.0,6.0
 2915,2916,"I don't care who you are, I won't let in anyone with a hoodie.",1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0
 2916,2917,"You make a persuasive argument,but I really feel I should sit this election out.",1.181818181818182,0.05491861211367989,88.0,77.0,6.0,5.0
-2917,2918,"No, I'm not an undecided voter.",1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2917,2918,"No, I'm not an undecided voter.",1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2918,2919,Just don't track mud on my beige carpets.,1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2919,2920,I was thinking you would have a lawn mower,1.181818181818182,0.0443973183545807,88.0,73.0,14.0,1.0
 2920,2921,Your home early!,1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0
@@ -2930,27 +2930,27 @@
 2928,2929,"So, how much did my ex' pay you for this visit?",1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2929,2930,Might I trouble you to help me with my cole slaw salad first?,1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0
 2930,2931,Come back later. I still have bills to pay.,1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0
-2931,2932,"Sorry, I ran out of candy.",1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
-2932,2933,"I wouldn't normally call you in, but the kids have been whacking away at Jimmy's birthday party piñata unsuccessfully all afternoon and I have my book club coming over soon.",1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2931,2932,"Sorry, I ran out of candy.",1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
+2932,2933,"I wouldn't normally call you in, but the kids have been whacking away at Jimmy's birthday party piñata unsuccessfully all afternoon and I have my book club coming over soon.",1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2933,2934,Willard gave out at the office.,1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2934,2935,I've told you before that you're just not believable. Your clothes aren't right and the real one doesn't wear athletic shoes! And I can see your eyes! Now go away.,1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2935,2936,"He's not real sweet, but you can have my husband.",1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2936,2937,"I know they say it's the silent killer, but can I borrow a cup of sugar?",1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
-2937,2938,But my DVR is still full!,1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2937,2938,But my DVR is still full!,1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2938,2939,"Well, that would explain where you've been all this time.",1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2939,2940,I think you're looking for George Zimmerman.,1.181818181818182,0.05491861211367989,88.0,77.0,6.0,5.0
 2940,2941,Didn't you learn that taking women against their will is only okay if you've eaten a Tic Tac first?,1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
-2941,2942,Honey - it's the Grin Reaper!,1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2941,2942,Honey - it's the Grin Reaper!,1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2942,2943,"Mr. Grimm Reaper, didn't your mother teach you how to dress? Over my dead body can you enter this house with dirty sneakers and sweatpants!",1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2943,2944,"You again! I told you before, I'm not interested in buying your used scythe!",1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2944,2945,"For the last time, Dad, it's a retirement COMMUNITY.",1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2945,2946,I guess my doctor did not call you. The diagnosis was wrong.,1.181818181818182,0.05491861211367989,88.0,77.0,6.0,5.0
-2946,2947,"Too late, my self-esteem died years ago.",1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2946,2947,"Too late, my self-esteem died years ago.",1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2947,2948,"Well, if all proceeds benefit local schools, how can I say no?",1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2948,2949,"I was like, 'Quit using that phone!' And he was all, 'Why?'",1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2949,2950,Aren't you taking this business casual look too far?,1.181818181818182,0.0443973183545807,88.0,73.0,14.0,1.0
 2950,2951,"Oh, he is one flight up.",1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0
-2951,2952,He's in the man cave watching the ballgame,1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2951,2952,He's in the man cave watching the ballgame,1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2952,2953,"You'll be wanting to visit Loud Larry, three doors down.",1.181818181818182,0.0443973183545807,88.0,73.0,14.0,1.0
 2953,2954,"Sorry, I'm voting third party",1.181818181818182,0.0572475936293093,88.0,78.0,4.0,6.0
 2954,2955,"So you agree that depending on the outcome Nov. 8th, I will go willingly?",1.181818181818182,0.0443973183545807,88.0,73.0,14.0,1.0
@@ -2959,7 +2959,7 @@
 2957,2958,At least you aren't Donald Trump.,1.181818181818182,0.05491861211367989,88.0,77.0,6.0,5.0
 2958,2959,So your not with the landscapers!,1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2959,2960,"""I did not expect you until November 9th of this year"".",1.181818181818182,0.05491861211367989,88.0,77.0,6.0,5.0
-2960,2961,"White, conservative, boring, prudish housewife's life's matters too ya know.",1.181818181818182,0.05248638810814778,88.0,76.0,8.0,4.0
+2960,2961,"White, conservative, boring, prudish housewife's life's matters too ya know.",1.181818181818182,0.052486388108147784,88.0,76.0,8.0,4.0
 2961,2962,Is there any way to just knock me on the side of the head with that sickle and put me into a slight coma twilight thing until Nov 9th?,1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
 2962,2963,"You are a little too early...! Coffee, tea, a game of chess...?",1.181818181818182,0.05491861211367989,88.0,77.0,6.0,5.0
 2963,2964,"I know it's casual Friday, but do you have to whistle?",1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0
@@ -3096,7 +3096,7 @@
 3094,3095,Couldn't you just once be the cheerful reaper?,1.1647058823529413,0.046883426633143835,85.0,73.0,10.0,2.0
 3095,3096,"Hello, Def.",1.1647058823529413,0.046883426633143835,85.0,73.0,10.0,2.0
 3096,3097,Just a moment. Mr. Trump is ready for you and he'll be right down.,1.1647058823529413,0.04978119863646623,85.0,74.0,8.0,3.0
-3097,3098,"Sorry, I don't know where Scooby is.",1.1647058823529413,0.05512160944057386,85.0,76.0,4.0,5.0
+3097,3098,"Sorry, I don't know where Scooby is.",1.1647058823529413,0.055121609440573864,85.0,76.0,4.0,5.0
 3098,3099,"What are you collecting for, ""sickle cell anemia?""",1.1647058823529413,0.04379433351527859,85.0,72.0,12.0,1.0
 3099,3100,This better be a Halloween costume.,1.1647058823529413,0.04379433351527859,85.0,72.0,12.0,1.0
 3100,3101,Would it kill you to show a little respect?,1.1647058823529413,0.04047013223637312,85.0,71.0,14.0,0.0
@@ -3130,7 +3130,7 @@
 3128,3129,"I'm sorry to be the one to tell you, but everybody is replacing their lawns with astroturf.",1.1647058823529413,0.04978119863646623,85.0,74.0,8.0,3.0
 3129,3130,Wait! Don't tell me: You offed my husband during his morning run. Right?,1.1647058823529413,0.05251932770420081,85.0,75.0,6.0,4.0
 3130,3131,Come back Monday. Maybe I'll have something for you to reap then.,1.1647058823529413,0.04978119863646623,85.0,74.0,8.0,3.0
-3131,3132,Go home Halloween is not until the 31st,1.1647058823529413,0.05512160944057386,85.0,76.0,4.0,5.0
+3131,3132,Go home Halloween is not until the 31st,1.1647058823529413,0.055121609440573864,85.0,76.0,4.0,5.0
 3132,3133,Trick... I choose trick.,1.1647058823529413,0.04978119863646623,85.0,74.0,8.0,3.0
 3133,3134,Can you come back tomorrow?,1.1647058823529413,0.046883426633143835,85.0,73.0,10.0,2.0
 3134,3135,"Jinkies! Fred, Daphne, Shaggy, Scoobie, you've got to see this!",1.1647058823529413,0.046883426633143835,85.0,73.0,10.0,2.0
@@ -3189,7 +3189,7 @@
 3187,3188,No one by that name here. Sorry.,1.1647058823529413,0.04379433351527859,85.0,72.0,12.0,1.0
 3188,3189,"Sorry, it's not here. The GOP is on the 13th floor.",1.1647058823529413,0.04379433351527859,85.0,72.0,12.0,1.0
 3189,3190,"Before I scream in terror and faint, can you show me some ID that you're the real deal?",1.1647058823529413,0.046883426633143835,85.0,73.0,10.0,2.0
-3190,3191,"I've been waiting for you for 60 years, the least you can do is dress up for me.",1.1647058823529413,0.05512160944057386,85.0,76.0,4.0,5.0
+3190,3191,"I've been waiting for you for 60 years, the least you can do is dress up for me.",1.1647058823529413,0.055121609440573864,85.0,76.0,4.0,5.0
 3191,3192,It's about time you showed up.,1.1647058823529413,0.046883426633143835,85.0,73.0,10.0,2.0
 3192,3193,Don't just stand there; come in. I'm not supposed to catch a draft.,1.1647058823529413,0.04379433351527859,85.0,72.0,12.0,1.0
 3193,3194,You can start with the grain out back.,1.1647058823529413,0.046883426633143835,85.0,73.0,10.0,2.0
@@ -3282,7 +3282,7 @@
 3280,3281,"Great, you were expelled and now this.",1.1566265060240963,0.04992479713569276,83.0,73.0,7.0,3.0
 3281,3282,Casual Friday.,1.1566265060240963,0.04013614690312246,83.0,70.0,13.0,0.0
 3282,3283,you have any nut allergies?,1.1566265060240963,0.04992479713569276,83.0,73.0,7.0,3.0
-3283,3284,I'd slit my wrists before I let you in here. Not with that posture.,1.1566265060240963,0.05549956837292319,83.0,75.0,3.0,5.0
+3283,3284,I'd slit my wrists before I let you in here. Not with that posture.,1.1566265060240963,0.055499568372923185,83.0,75.0,3.0,5.0
 3284,3285,"You show up late, you can't be bothered to dress up, and you expect a smile?",1.1566265060240963,0.04992479713569276,83.0,73.0,7.0,3.0
 3285,3286,Either you are just tall ...or God is being ironic...either way; we are out of candy.,1.1566265060240963,0.04688951917827401,83.0,72.0,9.0,2.0
 3286,3287,I will not entertain a Grim Reaper in casual attire.,1.1566265060240963,0.04364365530634867,83.0,71.0,11.0,1.0
@@ -3457,7 +3457,7 @@
 3455,3456,Watch out for the police.,1.1566265060240963,0.04364365530634867,83.0,71.0,11.0,1.0
 3456,3457,I'm not going anywhere with you until you change out of that dreadful outfit.,1.1566265060240963,0.04992479713569276,83.0,73.0,7.0,3.0
 3457,3458,"You must be the new neighbor. No loud noise after midnight, mister.",1.1566265060240963,0.04688951917827401,83.0,72.0,9.0,2.0
-3458,3459,Netflix and kill?,1.1566265060240963,0.05549956837292319,83.0,75.0,3.0,5.0
+3458,3459,Netflix and kill?,1.1566265060240963,0.055499568372923185,83.0,75.0,3.0,5.0
 3459,3460,"No, not even for a Scooby snack.",1.1566265060240963,0.04688951917827401,83.0,72.0,9.0,2.0
 3460,3461,"If you're here for candy or me, I'm out.",1.1566265060240963,0.04364365530634867,83.0,71.0,11.0,1.0
 3461,3462,I think that hoodie is to die for!,1.1566265060240963,0.04688951917827401,83.0,72.0,9.0,2.0
@@ -3495,7 +3495,7 @@
 3493,3494,"I knew we'd be dancing, but I'm just not ready for hip hop.",1.1547619047619049,0.04636545572431194,84.0,73.0,9.0,2.0
 3494,3495,My husband is in the back. He's the one you're looking for.,1.1547619047619049,0.05218696149243469,84.0,75.0,5.0,4.0
 3495,3496,You obviously didn't hear about my new immunotherapy.,1.1547619047619049,0.04636545572431194,84.0,73.0,9.0,2.0
-3496,3497,I say just go with the hoodie.,1.1547619047619049,0.03969926975692879,84.0,71.0,13.0,0.0
+3496,3497,I say just go with the hoodie.,1.1547619047619049,0.039699269756928786,84.0,71.0,13.0,0.0
 3497,3498,What do you mean you're from Blue Cross Blue Shield. I thought I was locked into the Bronze plan!,1.1547619047619049,0.04636545572431194,84.0,73.0,9.0,2.0
 3498,3499,"No, Donald, I don't want to be 'boned' by you.",1.1547619047619049,0.049362103046446434,84.0,74.0,7.0,3.0
 3499,3500,"I'm not going to start jogging now, even if it is all down hill.",1.1547619047619049,0.04316125289977419,84.0,72.0,11.0,1.0
@@ -3993,7 +3993,7 @@
 3991,3992,"Whatever, Trump has got the four horseman around the corner.",1.1168831168831168,0.0412303350007502,77.0,69.0,7.0,1.0
 3992,3993,I think North Palm Beach would be a better fit for me.,1.1168831168831168,0.036853453360789004,77.0,68.0,9.0,0.0
 3993,3994,"Yeah, well the hoodie is a nice touch. But nobody uses sickles anymore. You might want to get a John Deere Harvester?",1.1168831168831168,0.04518521908691296,77.0,70.0,5.0,2.0
-3994,3995,I just got this sensible haircut,1.1168831168831168,0.048820769387531784,77.0,71.0,3.0,3.0
+3994,3995,I just got this sensible haircut,1.1168831168831168,0.04882076938753178,77.0,71.0,3.0,3.0
 3995,3996,I don't know the casual Friday look is trending. This is more grim rapper.,1.1168831168831168,0.0412303350007502,77.0,69.0,7.0,1.0
 3996,3997,"Sorry, I had requested the groundskeeper",1.1168831168831168,0.04518521908691296,77.0,70.0,5.0,2.0
 3997,3998,The witch trial is next door.,1.1168831168831168,0.04518521908691296,77.0,70.0,5.0,2.0
@@ -4013,7 +4013,7 @@
 4011,4012,Your embarrassing wardrobe will be the death of me!,1.1168831168831168,0.036853453360789004,77.0,68.0,9.0,0.0
 4012,4013,I told your father that you missed trimming the hedges last time,1.1168831168831168,0.04518521908691296,77.0,70.0,5.0,2.0
 4013,4014,"If you're looking for Sally, she's down the hall.",1.1168831168831168,0.0412303350007502,77.0,69.0,7.0,1.0
-4014,4015,Print is not here. Better luck next time.,1.1168831168831168,0.048820769387531784,77.0,71.0,3.0,3.0
+4014,4015,Print is not here. Better luck next time.,1.1168831168831168,0.04882076938753178,77.0,71.0,3.0,3.0
 4015,4016,Are you the hedge trimmer?,1.1168831168831168,0.0412303350007502,77.0,69.0,7.0,1.0
 4016,4017,"To appear less intimidating, Grim donned the attire of a teenager. His mother was not impressed. She doesn't fear The Reaper.",1.1168831168831168,0.0412303350007502,77.0,69.0,7.0,1.0
 4017,4018,Not now ... I just matched on tinder,1.1168831168831168,0.0412303350007502,77.0,69.0,7.0,1.0
@@ -4024,7 +4024,7 @@
 4022,4023,I thought you were going as Shaggy?,1.1168831168831168,0.05220374529905681,77.0,72.0,1.0,4.0
 4023,4024,"But if I went for a jog right now, I would have a heart-attack!",1.1168831168831168,0.0412303350007502,77.0,69.0,7.0,1.0
 4024,4025,"So, you're Grim's dim reaper in the 'hood.",1.1168831168831168,0.0412303350007502,77.0,69.0,7.0,1.0
-4025,4026,"You're early, trick or treat isn't until the 31st.",1.1168831168831168,0.048820769387531784,77.0,71.0,3.0,3.0
+4025,4026,"You're early, trick or treat isn't until the 31st.",1.1168831168831168,0.04882076938753178,77.0,71.0,3.0,3.0
 4026,4027,I told you to wear something warmer.,1.1168831168831168,0.0412303350007502,77.0,69.0,7.0,1.0
 4027,4028,I imagine you charge by the hour too.,1.1168831168831168,0.036853453360789004,77.0,68.0,9.0,0.0
 4028,4029,"I'm not very happy about the way you cut the grass last week, please see if you can get it shorter today.",1.1168831168831168,0.0412303350007502,77.0,69.0,7.0,1.0
@@ -4069,7 +4069,7 @@
 4067,4068,I know you're in there.,1.1168831168831168,0.04518521908691296,77.0,70.0,5.0,2.0
 4068,4069,When you open the door and karma comes a knockin,1.1168831168831168,0.04518521908691296,77.0,70.0,5.0,2.0
 4069,4070,I'm not paying in advance; you haven't even planted the daisies.,1.1168831168831168,0.0412303350007502,77.0,69.0,7.0,1.0
-4070,4071,Come back tomorrow I have one more sweater to knit,1.1168831168831168,0.048820769387531784,77.0,71.0,3.0,3.0
+4070,4071,Come back tomorrow I have one more sweater to knit,1.1168831168831168,0.04882076938753178,77.0,71.0,3.0,3.0
 4071,4072,"Sorry Grim, I don't think I'll be able to fit dying into my schedule today.",1.1168831168831168,0.036853453360789004,77.0,68.0,9.0,0.0
 4072,4073,I'm not sure that the retirement home will appreciate your particular brand of irony.,1.1153846153846154,0.04821409004061604,78.0,72.0,3.0,3.0
 4073,4074,[Leave This Space Blank To Drive Readers Crazy],1.1153846153846154,0.05155190405256593,78.0,73.0,1.0,4.0
@@ -4079,7 +4079,7 @@
 4077,4078,I'm so sorry. I just bought some cookies.,1.1153846153846154,0.04462732509846739,78.0,71.0,5.0,2.0
 4078,4079,Don't you think you're a bit old to be abusing Casual Friday privileges?,1.1153846153846154,0.04462732509846739,78.0,71.0,5.0,2.0
 4079,4080,I'm all out of goodies will cash be ok?,1.1153846153846154,0.04462732509846739,78.0,71.0,5.0,2.0
-4080,4081,"Sorry, St. Peter mowed the lawn yesterday.",1.1125,0.039752995269682415,80.0,72.0,7.0,1.0
+4080,4081,"Sorry, St. Peter mowed the lawn yesterday.",1.1125,0.03975299526968242,80.0,72.0,7.0,1.0
 4081,4082,Was the store all out of Ken Bone costumes?,1.106666666666667,0.040596158045411716,75.0,68.0,6.0,1.0
 4082,4083,"I have been waiting for 39 years, Jerry.",1.106666666666667,0.04866999865182624,75.0,70.0,2.0,3.0
 4083,4084,"Yes I know what candidate he supports, but you'll have to come back he actually went to the debate.",1.106666666666667,0.03588436550487812,75.0,67.0,8.0,0.0
@@ -4188,7 +4188,7 @@
 4186,4187,"No good, with that sweat suit your grim is not showing.",1.106666666666667,0.040596158045411716,75.0,68.0,6.0,1.0
 4187,4188,"Nice Halloween disguise, but the scythe's a dead giveaway!",1.106666666666667,0.04481526981296005,75.0,69.0,4.0,2.0
 4188,4189,"Hey, it's your Uber Moment of Reckoning, am finally here.",1.106666666666667,0.040596158045411716,75.0,68.0,6.0,1.0
-4189,4190,"I just saw the news. I told you HANNAH Walters, not Anna.",1.106666666666667,0.05224106745778773,75.0,71.0,0.0,4.0
+4189,4190,"I just saw the news. I told you HANNAH Walters, not Anna.",1.106666666666667,0.052241067457787733,75.0,71.0,0.0,4.0
 4190,4191,You are late! Couldn't you dress up a little?,1.106666666666667,0.03588436550487812,75.0,67.0,8.0,0.0
 4191,4192,"Yes, I heard on Nextdoor that you were around.",1.106666666666667,0.04481526981296005,75.0,69.0,4.0,2.0
 4192,4193,Blue Bell. Why?,1.106666666666667,0.04481526981296005,75.0,69.0,4.0,2.0
@@ -4400,20 +4400,20 @@
 4398,4399,"Oh good, I was thinking about the Trump and the election which made me yearn for the sweet release of Death...",1.0933333333333333,0.033816320668333295,75.0,68.0,7.0,0.0
 4399,4400,you know....your 'Casual Friday' attiew is not making this any easier.,1.0933333333333333,0.0387801998950999,75.0,69.0,5.0,1.0
 4400,4401,"No, the creepy clown with orange hair is the guy hiding behind the hedges...not the one you see on the television set.",1.0933333333333333,0.0387801998950999,75.0,69.0,5.0,1.0
-4401,4402,"Hey, I can smell your face. (Clement, age 5)",1.0933333333333333,0.043177126632793265,75.0,70.0,3.0,2.0
+4401,4402,"Hey, I can smell your face. (Clement, age 5)",1.0933333333333333,0.04317712663279327,75.0,70.0,3.0,2.0
 4402,4403,"No, No! I told you, I wanted you Sight Unseen!",1.0933333333333333,0.0387801998950999,75.0,69.0,5.0,1.0
 4403,4404,My robe is still at the die cleaners,1.0933333333333333,0.0387801998950999,75.0,69.0,5.0,1.0
-4404,4405,You traded your bike for THAT?,1.0933333333333333,0.043177126632793265,75.0,70.0,3.0,2.0
+4404,4405,You traded your bike for THAT?,1.0933333333333333,0.04317712663279327,75.0,70.0,3.0,2.0
 4405,4406,Black sickle!? I told you to take your brown one so it matched my shoes!,1.0933333333333333,0.0387801998950999,75.0,69.0,5.0,1.0
 4406,4407,Shouldn't you be carrying a harpoon?,1.0933333333333333,0.047165926521426746,75.0,71.0,1.0,3.0
 4407,4408,"He is not here, he is late.",1.0933333333333333,0.0387801998950999,75.0,69.0,5.0,1.0
 4408,4409,"For the last time, no, I will not pay you by the hour to cut my lawn.",1.0933333333333333,0.033816320668333295,75.0,68.0,7.0,0.0
 4409,4410,"Millennials may be passé, but I don't think they're dead.",1.0933333333333333,0.047165926521426746,75.0,71.0,1.0,3.0
 4410,4411,"You're not here for trick or treat, are you?",1.0933333333333333,0.0387801998950999,75.0,69.0,5.0,1.0
-4411,4412,Did the ghosts just win the pennant?,1.0933333333333333,0.043177126632793265,75.0,70.0,3.0,2.0
+4411,4412,Did the ghosts just win the pennant?,1.0933333333333333,0.04317712663279327,75.0,70.0,3.0,2.0
 4412,4413,I'm being let go? I know they are closing a lot of stores but couldn't you just text me.,1.0933333333333333,0.033816320668333295,75.0,68.0,7.0,0.0
 4413,4414,You're a week ealrly. Halloween is next week.,1.0933333333333333,0.0387801998950999,75.0,69.0,5.0,1.0
-4414,4415,"Never heard of the saying, ""the shoes maketh the man"" I guess.",1.0933333333333333,0.043177126632793265,75.0,70.0,3.0,2.0
+4414,4415,"Never heard of the saying, ""the shoes maketh the man"" I guess.",1.0933333333333333,0.04317712663279327,75.0,70.0,3.0,2.0
 4415,4416,I see my deadbeat son has run out of money again.,1.0933333333333333,0.0387801998950999,75.0,69.0,5.0,1.0
 4416,4417,"I'm sorry, The Trim Reaper is not a sneaker company I want to invest in.",1.0933333333333333,0.0387801998950999,75.0,69.0,5.0,1.0
 4417,4418,"No soliciting, please.",1.0933333333333333,0.0387801998950999,75.0,69.0,5.0,1.0
@@ -4576,7 +4576,7 @@
 4574,4575,So now I know what happens with Converse sneakers.,1.0714285714285714,0.031004097581515382,70.0,65.0,5.0,0.0
 4575,4576,"I already told, I am not interested in going out with you!",1.0714285714285714,0.031004097581515382,70.0,65.0,5.0,0.0
 4576,4577,You and your scythe could use a good peening.,1.0714285714285714,0.031004097581515382,70.0,65.0,5.0,0.0
-4577,4578,"Young man, I told you that you couldn't be Trayvon Martin this year for Halloween!",1.0714285714285714,0.042301435161713,70.0,67.0,1.0,2.0
+4577,4578,"Young man, I told you that you couldn't be Trayvon Martin this year for Halloween!",1.0714285714285714,0.042301435161712996,70.0,67.0,1.0,2.0
 4578,4579,"Sorry honey, you dad went fishing with my husband, god knows when they'll be back",1.0714285714285714,0.031004097581515382,70.0,65.0,5.0,0.0
 4579,4580,My fees double for life and death situations.,1.0714285714285714,0.03708547885348615,70.0,66.0,3.0,1.0
 4580,4581,Weren't you a clown last week?,1.0714285714285714,0.031004097581515382,70.0,65.0,5.0,0.0

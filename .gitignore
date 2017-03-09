@@ -3,4 +3,5 @@ __pycache__/
 .ipynb_checkpoints
 _private/
 _json-responses/
-responses-unzipped
+contests/responses-unzipped/*.csv
+*.cache
