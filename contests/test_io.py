@@ -1,12 +1,13 @@
 import os, sys
 import numpy as np
 import pandas as pd
-sys.path.append('../example-analyses')
+contest_dir = '/'.join(__file__.split('/')[:-1])
+sys.path.append('{contest_dir}/../example-analyses'.format(contest_dir=contest_dir))
 import utils
 
 
 def test_responses():
-    dir = 'responses/'
+    dir = '{contest_dir}/responses/'.format(contest_dir=contest_dir)
     exp_ids = []
     last_header = None
     for file in os.listdir(dir):
@@ -25,7 +26,7 @@ def test_responses():
 
 
 def test_summaries():
-    dir = 'summaries/'
+    dir = '{contest_dir}/summaries/'.format(contest_dir=contest_dir)
     last_header = None
     for file in os.listdir(dir):
         if 'DS_Store' in file or os.path.isdir(dir + file):
