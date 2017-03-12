@@ -15,7 +15,7 @@ def test_responses():
             continue
         if any([s in file for s in ['dueling', '499', '497']]):
             continue
-        df = utils.read_response(file)
+        df = utils.read_responses(file)
         exp_ids += [df.iloc[0]['participant_uid'].split('_')[0]]
 
         if last_header is not None:

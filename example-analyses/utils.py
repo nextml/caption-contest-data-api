@@ -6,12 +6,13 @@ dir_ = os.path.realpath(__file__)
 dir_ = '/'.join(dir_.split('/')[:-1])
 
 
-def read_response(contest):
+def read_responses(contest):
     filename = f'{dir_}/../contests/responses/{contest}'
     with ZipFile(f'{filename}') as myzip:
         csv_file = contest.strip('.zip')
         with myzip.open(csv_file) as f:
             df = pd.read_csv(f, index_col=0)
+        df['timestamp_query_generated'] = pd.to_datetime(df['timestamp_query_generated'])
     return df
 
 
