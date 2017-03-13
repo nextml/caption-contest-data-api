@@ -95,9 +95,13 @@ if __name__ == '__main__':
     filename = 'responses.json'
     app = 'cardinal'
 
-    with open(filename) as data_file:
-        data = json.load(data_file)
+    dfs = []
+    for filename in ['responses-adaptive.json', 'responses-random.json']:
+        with open(filename) as data_file:
+            data = json.load(data_file)
 
-    responses = functions_to_format_data[app](data)
-    df = pd.DataFrame(responses)
+        responses = functions_to_format_data[app](data)
+        dfs += [pd.DataFrame(responses)]
+
+    df = pd.concat(dfs)
     df.to_csv('responses.csv')

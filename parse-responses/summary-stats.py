@@ -20,11 +20,11 @@ def find_score_prec(s):
 
 
 if True:
-    contest = '558'
-    csv = pd.read_csv('./_private/{}_summary.csv'.format(contest))
+    contest = '559'
+    csv = pd.read_csv('./_private/{}_summary-random.csv'.format(contest))
     del csv['email']
     #  csv.to_excel('./531_summary.xlsx')
-    csv.to_csv('{}_summary_LilUCB.csv'.format(contest))
+    csv.to_csv('{}_summary_Random.csv'.format(contest))
     captions = "\n".join(csv['caption'].values.astype('str'))
 
     with open('{}_captions.csv'.format(contest), 'w') as f:
