@@ -92,16 +92,14 @@ def format_carindal_responses(response_dict):
 if __name__ == '__main__':
     functions_to_format_data = {'cardinal': format_carindal_responses,
                                 'dueling': format_dueling_responses}
-    filename = 'responses.json'
+    filename = '556-responses.json'
     app = 'cardinal'
 
     dfs = []
-    for filename in ['responses-adaptive.json', 'responses-random.json']:
-        with open(filename) as data_file:
-            data = json.load(data_file)
+    with open(filename) as data_file:
+        data = json.load(data_file)
 
-        responses = functions_to_format_data[app](data)
-        dfs += [pd.DataFrame(responses)]
+    responses = functions_to_format_data[app](data)
+    df = pd.DataFrame(responses)
 
-    df = pd.concat(dfs)
     df.to_csv('responses.csv')
