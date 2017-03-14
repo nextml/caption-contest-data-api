@@ -10,6 +10,11 @@
 
 ![](example_query.png)
 
+In this contest we ran the two active algorithms with the top 50 captions from
+both experiments. After they completed, we ran random sampling with the top 50
+captions from both trials, and another random 50 captions to find the true
+winner.
+
 This week, for all captions that had at least one duplicate caption, I included a single, exact duplicate of the original caption for comparison purposes. These duplicate captions are listed below:
 
 
