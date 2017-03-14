@@ -38,6 +38,57 @@ def test_summaries():
                 assert all(last_header == df.columns)
                 last_header = df.columns
 
+
+def test_calculate_stats():
+    df = utils.read_summary('513_summary_RoundRobin.csv')
+    for key in ['precision', 'rank']:
+        del df[key]
+    summary = utils.calculate_stats(df)
+
+    for key in ['rank', 'score', 'precision']:
+        assert all(summary[key] == df[key])
+
+
+def test_summary_rank():
+    responses = utils.read_responses('513-responses.csv.zip')
+    summary = utils.init_summary(responses)
+    summary = utils.read_summary('559_summary_LilUCB.csv')
+
+    df = utils.calculate_stats(summary)
+
+    mapping = {rank: mean for rank, mean in zip(df['rank'], df['score'])}
+    for i in range(len(mapping) - 1):
+        assert mapping[i + 1] >= mapping[i + 2]
+
+
+def test_init_summary():
+    responses = utils.read_responses('514-responses.csv.zip')
+    global summary
+    global key
+    summary = utils.init_summary(responses)
+
+    df = utils.read_summary('514_summary_LilUCB.csv')
+
+    for key in ['score', 'funny', 'unfunny', 'somewhat_funny', 'precision']:
+        assert key in df.columns
+        assert key in summary.columns
+
+
+def test_add_target_ids_to_summary():
+    truth = utils.read_summary('513_summary_LilUCB.csv')
+    responses = utils.read_responses('513-responses.csv.zip')
+
+    truth = utils.add_target_ids(truth, responses)
+    for target_id in truth['target_id'].unique():
+        df1 = truth[truth['target_id'] == target_id]
+        df2 = responses[responses['target_id'] == target_id]
+
+        assert all(df1['target_id'].values[0] == df2['target_id'])
+
 if __name__ == "__main__":
+    # test_responses()
     test_summaries()
-    test_responses()
+    # test_calculate_stats()
+    # test_summary_rank()
+    # test_init_summary()
+    # test_add_target_ids_to_summary()
