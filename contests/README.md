@@ -27,3 +27,13 @@ Test have been run to ensure that
 
 * all CSVs have the same columns (in both the response files and summary files)
 * for every zipped JSON file there is a unique response experiment UID
+
+
+## Notes
+* `utils.calculate_stats` and the `{contest}_summary_{alg}.csv` will likely not
+  have the same stats -- while I'm downloading some users answer questions!
+* We have a bug in NEXT when calculating the `network_delay`. If a user takes
+  longer than 24 hours to respond the network delay is negative. The victim
+  line is `delta_datetime.seconds + delta_datetime.microseconds/1000000.` and
+  is fixed by `delta_datetime.total_seconds()`. As of contest 560 this is still
+  present.
