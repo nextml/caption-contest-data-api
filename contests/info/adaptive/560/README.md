@@ -1,15 +1,33 @@
+This contest had two sets of labels:
 
-![](info.png)
+1. unfunny, somewhat funny, funny
+2. unoriginal, somewhat original, original
+
+## Funny
+![](funny/info.png)
 
 Cardinal bandits (aka "how funny is this caption?")
 
 Histogram of when people responded:
 
-![](histogram.png)
+![](funny/histogram.png)
 
 Example query:
 
-![](example_query.png)
+![](funny/example_query.png)
+
+## Original
+![](original/info.png)
+
+Cardinal bandits (aka "how funny is this caption?")
+
+Histogram of when people responded:
+
+![](original/histogram.png)
+
+Example query:
+
+![](original/example_query.png)
 
 This caption contest was also live on the New Yorker caption contest page
 (reloading, ads).
