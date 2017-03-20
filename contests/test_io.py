@@ -39,26 +39,30 @@ def test_summaries():
                 last_header = df.columns
 
 
-def test_calculate_stats():
-    df = utils.read_summary('513_summary_RoundRobin.csv')
-    for key in ['precision', 'rank']:
-        del df[key]
-    summary = utils.calculate_stats(df)
+def test_calculate_stats(errors={'rank': 325, 'score': 1e-10, 'precision': 1e-10}):
+    df = utils.read_summary('536_summary_LilUCB.csv')
+    summary = utils.read_summary('536_summary_LilUCB.csv')
+    for key in errors:
+        if key in summary:
+            del summary[key]
+    summary = utils.calculate_stats(summary)
 
-    for key in ['rank', 'score', 'precision']:
-        assert all(summary[key] == df[key])
+    for key, max_error in errors.items():
+        if max_error == 'allclose':
+            error = np.abs(summary[key] - df[key])
+            assert error.max() < max_error
 
 
-def test_summary_rank():
-    responses = utils.read_responses('513-responses.csv.zip')
+def test_summary_rank(contest='558'):
+    responses = utils.read_responses(f'{contest}-responses.csv.zip')
     summary = utils.init_summary(responses)
-    summary = utils.read_summary('559_summary_LilUCB.csv')
+    summary = utils.read_summary(f'{contest}_summary_LilUCB.csv')
 
     df = utils.calculate_stats(summary)
 
-    mapping = {rank: mean for rank, mean in zip(df['rank'], df['score'])}
-    for i in range(len(mapping) - 1):
-        assert mapping[i + 1] >= mapping[i + 2]
+    ranks = {rank: mean for rank, mean in zip(df['rank'], df['score'])}
+    for i in range(len(ranks) - 1):
+        assert ranks[i + 1] >= ranks[i + 2]
 
 
 def test_init_summary():
@@ -85,10 +89,12 @@ def test_add_target_ids_to_summary():
 
         assert all(df1['target_id'].values[0] == df2['target_id'])
 
+
 if __name__ == "__main__":
     # test_responses()
-    test_summaries()
-    # test_calculate_stats()
+    # test_summaries()
+    test_calculate_stats()
+    # test_stats_generation_from_responses()
     # test_summary_rank()
     # test_init_summary()
     # test_add_target_ids_to_summary()
