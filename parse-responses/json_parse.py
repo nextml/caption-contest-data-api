@@ -92,7 +92,7 @@ def format_carindal_responses(response_dict):
 if __name__ == '__main__':
     functions_to_format_data = {'cardinal': format_carindal_responses,
                                 'dueling': format_dueling_responses}
-    filename = '561-responses.json'
+    filename = 'responses.json'
     app = 'cardinal'
 
     dfs = []
