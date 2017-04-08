@@ -11,7 +11,7 @@
 * `summaries`: The final summary of each contest. How funny was each caption
   and how many votes did it receive for unfunny, somewhat funny and funny?
 
-## Unzipping the data
+## Reading the data
 We do provide a `example-analyses/utils.py` script which provides
 `read_response` and `read_summary`. `read_response` can take in a ZIP filename
 and unzip the result for you.
@@ -28,10 +28,17 @@ Test have been run to ensure that
 * all CSVs have the same columns (in both the response files and summary files)
 * for every zipped JSON file there is a unique response experiment UID
 
+Tests are run with `py.test`
 
 ## Notes
+* The number of responses/participants shown in `info.png` will not match the
+    number of responses/participants generated from the response CSV data.
+    * The number of responses shown are the responses generated, not the number
+      of responses received.
+    * The number of users shown are the number of users that have been shown
+      query, not the number of users that have responded to a query
 * `utils.calculate_stats` and the `{contest}_summary_{alg}.csv` will likely not
-  have the same stats -- while I'm downloading some users answer questions!
+  have the same stats; some users may answer questions while I'm downloading.
 * We have a bug in NEXT when calculating the `network_delay`. If a user takes
   longer than 24 hours to respond the network delay is negative. The victim
   line is `delta_datetime.seconds + delta_datetime.microseconds/1000000.` and
