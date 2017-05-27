@@ -83,6 +83,31 @@ Queries of the form "how funny is this caption?"
 * **Rating:** What the user rated the caption as. This can be either 1, 2 or 3
   depending on if the joke was unfunny, somewhat funny or funny respectively.
 
+## data.world
+This data is available on [data.world] as [stsievert/caption-contest-data]. To
+obtain this data, follow their [install instructions] then run
+
+[stsievert/caption-contest-data]:https://data.world/stsievert/caption-contest-data
+
+``` python
+>>> import datadotworld as dw
+>>> d = dw.DataDotWorld()
+>>> data = d.load_dataset('stsievert/caption-contest-data')
+>>> print(data.tables['orginal/546_summary_LilUCB.csv'][0])
+... OrderedDict([('', '0'),
+                 ('rank', '1'),
+                 ('caption', 'We never should have applauded.'),
+                 ('score', '1.8421052631578947'),
+                 ('precision', '0.04554460512094434'),
+                 ('count', '285.0'),
+                 ('unfunny', '110.0'),
+                 ('somewhat_funny', '110.0'),
+                 ('funny', '65.0')])
+```
+
+[data.world]:https://data.world
+[install instructions]:https://github.com/datadotworld/data.world-py
+
 ### Datasets provided
 * trimmed participant responses, as a CSV (headers included above)
 * a trimmed CSV for each collection scheme, as detailed below.
