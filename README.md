@@ -10,13 +10,14 @@ the one below and we provide information to the below questions/the answer/etc:
 
 
 
-After publishing 547 on 2016-12-04, we provide
+After publishing 571 on 2016-06-04, we provide
 
 * about **2.2 million** responses to 18 different caption contests that include
   passive and possibly adaptive algorithms. These can be founds in
   `contests/{passive, passive+adaptive}`.
-* about **10.4 million** responses to 27 different contests in
+* about **18.4 million** responses to 43 different contests in
   `contests/adaptive-only contests`. These only use one adaptive algorithm.
+* ratings on over **363,000** different captions
 
 For each response, we record
 
