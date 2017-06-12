@@ -86,9 +86,9 @@ Queries of the form "how funny is this caption?"
 
 ## data.world
 This data is available on [data.world] as [stsievert/caption-contest-data]. To
-obtain this data, follow their [install instructions] then run
-
-[stsievert/caption-contest-data]:https://data.world/stsievert/caption-contest-data
+obtain this data, follow their [install instructions] use a [data.world integration],
+which includes interfaces for different languages.
+For example, here's their Python integration with these data:
 
 ``` python
 >>> import datadotworld as dw
@@ -106,6 +106,8 @@ obtain this data, follow their [install instructions] then run
                  ('funny', '65.0')])
 ```
 
+[stsievert/caption-contest-data]:https://data.world/stsievert/caption-contest-data
+[data.world integration]:https://data.world/integrations
 [data.world]:https://data.world
 [install instructions]:https://github.com/datadotworld/data.world-py
 
