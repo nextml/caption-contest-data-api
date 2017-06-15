@@ -34,6 +34,7 @@ description and detail is given in the individual folder.
 [`contests/`]:contests/
 [`contests/random+adaptive/505/`]:contests/random+adaptive/505
 
+
 ## Dataset high-level description
 These datasets are part of the "cartoon caption contest" where given a cartoon
 users are supposed to write a funny caption. Our algorithms help determine the
@@ -84,6 +85,7 @@ Queries of the form "how funny is this caption?"
 * **Rating:** What the user rated the caption as. This can be either 1, 2 or 3
   depending on if the joke was unfunny, somewhat funny or funny respectively.
 
+
 ## data.world
 This data is available on [data.world] as [stsievert/caption-contest-data]. To
 obtain this data, follow their [install instructions] then run
@@ -132,6 +134,16 @@ with the "LilUCB" algorithm.
 [507]:contests/507/
 [New Yorker Caption Contest]:http://contest.newyorker.com
 [Cartoon Lounge: Show Me the Funny]:http://www.newyorker.com/cartoons/bob-mankoff/cartoon-lounge-show-me-the-funny
+
+## Credit
+This dataset would not be possible without [The New Yorker] and their [Caption
+Contest] as well as [The New Yorker cartoonists]. More of their work is
+available at Condé Nast:
+https://condenaststore.com/conde-nast-brand/cartoonbank
+
+[The New Yorker cartoonists]:https://en.wikipedia.org/wiki/Category:The_New_Yorker_cartoonists
+[The New Yorker]:http://newyorker.com
+[Caption Contest]:http://contest.newyorker.com
 
 ## Example queries
 In earlier experiments, sample queries are also shown (minus 509). Other experiments have specified that the experiment setup being
