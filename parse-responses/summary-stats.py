@@ -18,32 +18,20 @@ def find_score_prec(s):
 
     return score, prec
 
-
-if True:
-    contest = '575'
+if __name__ == "__main__":
+    contest = '576'
     csv = pd.read_csv('./_private/{}_summary.csv'.format(contest))
     del csv['email']
     #  csv.to_excel('./531_summary.xlsx')
     csv.to_csv('{}_summary_KLUCB.csv'.format(contest))
-    captions = "\n".join(csv['caption'].values.astype('str'))
 
-    with open('{}_captions.csv'.format(contest), 'w') as f:
-        print(captions, file=f)
-else:
-    # Read in the summary file (downloaded from dashboard then copy pasted into
-    # file)
-    # s == summary (but s is quicker to type than summary)
-    filename = './531_summary.csv'
-    contest = '527'
-    for contest in ['527', '528', '529', '530']:
-        filename = '../adaptive-only-contests/{0}/{0}_summary_LilUCB.csv'.format(contest)
+    caption_counts =  csv['caption'].value_counts()
+    repeat_captions = caption_counts[caption_counts > 1]
 
-        s = pd.read_csv(filename)
-        score, prec = find_score_prec(s)
-        s['Score'] = score
-        s['Precision'] = prec
+    files = {f'{contest}': csv['caption'].values.astype('str'),
+             f'{contest}_repeat': list(repeat_captions.index)}
 
-        s.sort_values(by='Score', ascending=False, inplace=True)
-
-        s.to_csv('{0}_summary_LilUCB-more.csv'.format(contest))
-        s.to_excel('{0}_summary.xlsx'.format(contest))
+    for prefix, captions in files.items():
+        with open('{}_captions.csv'.format(prefix), 'w') as f:
+            captions = "\n".join(captions)
+            print(captions, file=f)
