@@ -40,8 +40,9 @@ def read_responses(contest, duplicates=None):
 
     """
 
-    filename = f'{dir_}/../contests/responses/{contest}'
-    with ZipFile(f'{filename}') as myzip:
+    filename = '{dir_}/../contests/responses/{contest}'.format(dir_=dir_,
+            contest=contest)
+    with ZipFile('{filename}'.format(filename=filename)) as myzip:
         csv_file = contest.strip('.zip')
         with myzip.open(csv_file) as f:
             df = pd.read_csv(f, index_col=0)
@@ -142,9 +143,11 @@ def add_captions(summary, responses):
 
 
 def read_summary(contest):
-    filename = f'{dir_}/../contests/summaries/{contest}'
+    filename = '{dir_}/../contests/summaries/{contest}'.format(
+                                                dir_=dir_, contest=contest)
     df = pd.read_csv(filename, index_col=0)
     df['caption'] = df.apply(lambda row: str(row['caption']).strip('\n'), axis=1)
+    df['contest'] = contest
 
     return df
 
@@ -176,16 +179,62 @@ def summary_from_responses(responses, alg=None,
     return summary
 
 
-if __name__ == "__main__":
-    # read_summary('520_summary_LilUCB.csv')
-    contest = '559-active'
-    responses = read_responses(f'{contest}-responses.csv.zip')
-    # print(responses.head())
-    summary_hat = {}
-    for alg in ['LilUCB', 'KLUCB']:
-        summary_hat = summary_from_responses(responses, alg=alg)
+def read_all_responses():
+    data = []
+    for filename in os.listdir(dir_ + '/../contests/responses/'):
+        if 'Store' in filename or any([d in filename for d in ['497', '499', 'dueling']]):
+            continue
+        df = read_responses(filename)
+        name = filename.strip('-responses.csv.zip')
+        df['contest-name'] = name
+        data += [df]
+    return pd.concat(data)
 
-        ranks = {rank: score for rank, score in zip(summary_hat['rank'],
-                                                    summary_hat['score'])}
-        for i in np.arange(1, len(ranks) - 1):
-            assert ranks[i] >= ranks[i+1]
+
+def read_all_summaries():
+    """
+    Read all summaries.
+
+    Returns
+    -------
+    df : pd.DataFrame
+        Dataframe with all summaries from all algorithms and all contests.
+
+    Notes
+    -----
+    - Some contests have more than one
+    - Contests 527, 528, 529, 530 and 531 are missing the rank column. These
+      missing values castered to `np.nan`.
+
+    """
+    data = []
+    for filename in os.listdir(dir_ + '/../contests/summaries/'):
+        if any([d in filename for d in ['497', '499', 'dueling', 'munging', 'Store']]):
+            continue
+        df = read_summary(filename)
+        print(filename)
+        print(df.columns)
+        contest = int(filename.split('_')[0])
+        alg = filename.replace('.csv', '').strip('_')[-1]
+        df['contest'] = contest
+        df['alg'] = alg
+        data += [df]
+    return pd.concat(data)
+
+
+if __name__ == "__main__":
+    df = read_all_summaries()
+
+    if False:
+        # read_summary('520_summary_LilUCB.csv')
+        contest = '559-active'
+        responses = read_responses('{contest}-responses.csv.zip'.format(contest=contest))
+        # print(responses.head())
+        summary_hat = {}
+        for alg in ['LilUCB', 'KLUCB']:
+            summary_hat = summary_from_responses(responses, alg=alg)
+
+            ranks = {rank: score for rank, score in zip(summary_hat['rank'],
+                                                        summary_hat['score'])}
+            for i in np.arange(1, len(ranks) - 1):
+                assert ranks[i] >= ranks[i+1]
