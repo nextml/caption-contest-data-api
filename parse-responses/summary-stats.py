@@ -19,7 +19,7 @@ def find_score_prec(s):
     return score, prec
 
 if __name__ == "__main__":
-    contest = '582'
+    contest = '583'
     csv = pd.read_csv('./_private/{}_summary.csv'.format(contest))
     del csv['email']
     #  csv.to_excel('./531_summary.xlsx')
