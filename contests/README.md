@@ -22,6 +22,15 @@ Otherwise, after downloading this repo (either via zip or with `git clone`),
 2. `python zip_tools.py unzip`. This assumes that the directory
    `responses-unzipped` exists.
 
+## Backend system change
+We switched from NEXT to a specialized system that more fully utilizes Amazon AWS for all contests after (and including) 587. Switching to this system means that
+
+* the summaries are available
+* there is no participants.json available
+* histograms are not available
+
+We switched because we wanted a specialized system that could run at scale at low cost.
+
 ## Tests
 Test have been run to ensure that
 

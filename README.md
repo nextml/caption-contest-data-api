@@ -8,8 +8,6 @@ the one below and we provide information to the below questions/the answer/etc:
 | ![](example-queries/query_newyorker.png) | ![](example-queries/query_cardinal.png) | ![](example-queries/query_dueling.png) |
 | Cardinal bandits                         | Cardinal bandits                        | Dueling bandits                        |
 
-
-
 After publishing 571 on 2016-06-04, we provide
 
 * about **2.2 million** responses to 18 different caption contests that include
