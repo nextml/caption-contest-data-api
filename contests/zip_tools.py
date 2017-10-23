@@ -11,11 +11,20 @@ Usage:
         Write the uncompressed ZIP files as CSV files to this directory
 
 """
-import os, sys
+import os
+import sys
+from subprocess import DEVNULL, call
 
-if __name__ == "__main__":
+
+def cli():
     operation = sys.argv[1]
-    print(operation)
+
+    if call('git lfs env', shell=True,
+                       stdout=DEVNULL, stderr=DEVNULL) != 0:
+        print('''Git LFS is not installed.
+Install Git LFS and run `git lfs pull` in this repository to pull the contents of the data files.''')
+        return
+
     if operation == 'zip':
         in_dir = 'responses-unzipped'
         out_dir = 'responses'
@@ -33,3 +42,7 @@ if __name__ == "__main__":
             assert file[-4:] == '.zip'
             filename = file[:-4]
             os.system(f'cd {in_dir}; unzip {file}; mv {filename} ../{out_dir}')
+
+
+if __name__ == "__main__":
+    cli()
