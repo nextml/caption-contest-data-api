@@ -35,9 +35,11 @@ for key in ['alt_description', 'alt_type', 'primary_type', 'primary_description'
     del df[key]
 
 df['contest'] = contest
+df['exp_uid'] = exp_uid
 
 df.to_csv(f'_private/{contest}_summary.csv')
 del df['email']
+del df['exp_uid']
 df.to_csv(f'{contest}_summary_KLUCB.csv')
 
 caption_counts = df['caption'].value_counts()
