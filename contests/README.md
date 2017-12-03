@@ -41,7 +41,7 @@ Tests are run with `py.test`
 
 ## Notes
 * The number of responses/participants shown in `info.png` will not match the
-    number of responses/participants generated from the response CSV data.
+  number of responses/participants generated from the response CSV data.
     * The number of responses shown are the responses generated, not the number
       of responses received.
     * The number of users shown are the number of users that have been shown
@@ -53,3 +53,7 @@ Tests are run with `py.test`
   line is `delta_datetime.seconds + delta_datetime.microseconds/1000000.` and
   is fixed by `delta_datetime.total_seconds()`. As of contest 560 this is still
   present.
+* We had some bug with contests 591 and 592 that effected the mean and
+  precision (i.e., means of >3 (even though max score is 3) and precisions in
+  0.001 range). It *appears* this did not effected the *ordering* of the
+  captions -- it *seems* the funny captions are still highest.
