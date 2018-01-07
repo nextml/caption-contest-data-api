@@ -213,7 +213,7 @@ def read_all_summaries():
             continue
         df = read_summary(filename)
         print(filename)
-        print(df.columns)
+        #  print(df.columns)
         contest = int(filename.split('_')[0])
         alg = filename.replace('.csv', '').strip('_')[-1]
         df['contest'] = contest
