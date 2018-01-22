@@ -37,7 +37,7 @@ for key in ['alt_description', 'alt_type', 'primary_type', 'primary_description'
 df['contest'] = contest
 df['exp_uid'] = exp_uid
 
-df.to_csv(f'_private/{contest}_summary.csv')
+df.to_csv(f'{contest}_summary_private.csv')
 del df['email']
 del df['exp_uid']
 df.to_csv(f'{contest}_summary_KLUCB.csv')
