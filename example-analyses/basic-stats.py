@@ -14,7 +14,7 @@ def get_stats(filename):
             'n_participants': n_participants,
             'contest': filename.split('-')[0]}
 
-if False:
+if True:
     data = [get_stats(filename)
             for filename in os.listdir('../contests/responses')
             if 'zip' in filename and all([s not in filename
@@ -26,6 +26,7 @@ else:
 
 total_contests = len(df['contest'].unique())
 total_ratings = df['n_responses'].sum()
+total_captions = df['n_captions'].sum()
 
 avg_ratings = df['n_responses'].mean()
 avg_users = df['n_participants'].mean()
@@ -34,8 +35,10 @@ max_users = df['n_participants'].max()
 
 print(f"total_contests = {total_contests}")
 print(f"total_ratings = {total_ratings}")
+print(f"total_captions = {total_captions}")
+
 print(f"avg_ratings = {avg_ratings}")
-print(f"avg_ussrk = {avg_users}")
+print(f"avg_users = {avg_users}")
 print(f"max_ratings = {max_ratings}")
 print(f"max_ussrk = {max_users}")
 
