@@ -38,7 +38,8 @@ df['contest'] = contest
 df['exp_uid'] = exp_uid
 
 df.to_csv(f'{contest}_summary_private.csv')
-del df['email']
+if 'email' in df.columns:
+    del df['email']
 del df['exp_uid']
 df.to_csv(f'{contest}_summary_KLUCB.csv')
 
