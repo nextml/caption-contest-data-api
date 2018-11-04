@@ -2,53 +2,64 @@ import requests
 import sys
 import pandas as pd
 
-def _get_json(url):
-    r = requests.get(url)
-    return r.json()
-
-def get_target(targets, id):
-    for target in targets:
-        print(target, type(target))
-        if int(target['target_id']) == int(id):
-            return target
-    raise ValueError('Target not found in targets')
-
 if len(sys.argv) < 3:
-    raise ValueError('Usage: get_summary_csv.py [exp_uid] [contest]')
+    raise ValueError("Usage: get_summary_csv.py [exp_uid] [contest]")
 
 exp_uid = sys.argv[1]
 contest = sys.argv[2]
 
-url = f'https://s3-us-west-2.amazonaws.com/next2-cardinalbandits/{exp_uid}/'
+url = "https://s3-us-west-2.amazonaws.com/next2newyorker/"
 
-targets = _get_json(url + 'targets.json')
-ranks = _get_json(url + 'ranks.json')
+html = requests.get(url + exp_uid)
+ranks = requests.get(url + exp_uid + "/ranks.json").json()
+targets = requests.get(url + exp_uid + "/targets.json").json()
+votes = requests.get(url + exp_uid + "/votes.json").json()
 
-df = pd.DataFrame(ranks, columns=['target_id', 'mean', 'precision', 'count'])
-targets = pd.DataFrame(targets)
-targets['target_id'] = pd.to_numeric(targets['target_id'])
-df = df.merge(targets, on='target_id')
+captions = [
+    {"target_id": r[0], "score": r[1], "precision": r[2], "count": r[3], "rank": k + 1}
+    for k, r in enumerate(ranks)
+]
 
-df['score'] = df['mean']
-df['caption'] = df['primary_description']
-for key in ['alt_description', 'alt_type', 'primary_type', 'primary_description']:
-    del df[key]
+descriptions = {t["target_id"]: t["primary_description"] for t in targets}
 
-df['contest'] = contest
-df['exp_uid'] = exp_uid
+for cap in captions:
+    key = str(cap["target_id"])
+    cap["caption"] = descriptions[key]
+    cap["funny"] = votes[key]["funny"]
+    cap["unfunny"] = votes[key]["not"]
+    cap["somewhat_funny"] = votes[key]["somewhat"]
 
-df.to_csv(f'{contest}_summary_private.csv')
-if 'email' in df.columns:
-    del df['email']
-del df['exp_uid']
-df.to_csv(f'{contest}_summary_KLUCB.csv')
+assert all(a["score"] >= b["score"] for a, b in zip(captions, captions[1:]))
+for cap in captions:
+    assert cap["funny"] + cap["unfunny"] + cap["somewhat_funny"] == cap["count"]
+    assert set(cap.keys()) == {
+        "target_id",
+        "score",
+        "precision",
+        "count",
+        "rank",
+        "caption",
+        "funny",
+        "unfunny",
+        "somewhat_funny",
+    }
 
-caption_counts = df['caption'].value_counts()
+df = pd.DataFrame(captions)
+df["contest"] = contest
+df["exp_uid"] = exp_uid
+
+df.to_csv(f"{contest}_summary_private.csv")
+del df["exp_uid"]
+df.to_csv(f"{contest}_summary_KLUCB.csv")
+
+caption_counts = df["caption"].value_counts()
 repeat_captions = caption_counts[caption_counts > 1]
-files = {f'{contest}': df['caption'].values.astype('str'),
-         f'{contest}_repeat': list(repeat_captions.index)}
+files = {
+    f"{contest}": df["caption"].values.astype("str"),
+    f"{contest}_repeat": list(repeat_captions.index),
+}
 
 for prefix, captions in files.items():
-    with open('{}_captions.csv'.format(prefix), 'w') as f:
+    with open("{}_captions.csv".format(prefix), "w") as f:
         captions = "\n".join(captions)
         print(captions, file=f)
