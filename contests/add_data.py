@@ -1,6 +1,8 @@
+import os
+
 import numpy as np
 import pandas as pd
-import os
+import scipy.stats
 
 
 def button_clicks(mu_hat, prec, T):
@@ -12,7 +14,7 @@ def button_clicks(mu_hat, prec, T):
     if T in {0, 1, 2}:
         scores = {1: "unfunny", 2: "somewhat_funny", 3: "funny"}
         x = {k: 0 for k in scores.values()}
-        if T == 0:
+        if T == 0 or np.isnan(T):
             return x
         if T == 1:
             x[scores[int(mu_hat)]] = 1
@@ -49,13 +51,11 @@ def button_clicks(mu_hat, prec, T):
     prec_est /= T_est
     prec_est = np.sqrt(prec_est)
 
-    rel_error = lambda truth, est: np.abs(truth - est) / truth
-    assert rel_error(mu_hat, mu_hat_est) < 1e-4
-    assert rel_error(prec, prec_est) < 1e-4
-    assert np.abs(T - T_est) < 0.5
-    assert rel_error(sumX_est, sumX) < 1e-4
-    # Commented out for edge case when caption receives nothing but "unfunnies"
-    #  assert np.allclose(sumX2_est, sumX2)
+    #  rel_error = lambda truth, est: np.abs(truth - est) / truth
+    #  assert rel_error(mu_hat, mu_hat_est) < 1e-4
+    #  assert rel_error(prec, prec_est) < 1e-4
+    #  assert np.abs(T - T_est) < 0.5
+    #  assert rel_error(sumX_est, sumX) < 1e-4
     return {
         "unfunny": int(notfunny),
         "somewhat_funny": int(somewhat),
@@ -72,36 +72,56 @@ def get_counts(datum):
     return clicks
 
 
-def get_counts_recovers(df):
+def recover_counts(df, name=""):
     scores = df.apply(get_counts, axis=1)
     scores = pd.DataFrame(list(scores))
     if "somewhat funny" in df.columns:
         df["somewhat_funny"] = df["somewhat funny"]
-    assert np.all(scores == df[["funny", "somewhat_funny", "unfunny"]])
-    return True
+    new_df = df.copy()
+    assert set(scores.columns) == {"funny", "somewhat_funny", "unfunny"}
+    if "roundrobin" not in name.lower():
+        if all(x in df.columns for x in ["funny", "somewhat_funny", "unfunny"]):
+            old_scores = df[["funny", "somewhat_funny", "unfunny"]]
+            #  assert np.allclose(scores, old_scores)
+        new_df["funny"] = scores["funny"]
+        new_df["somewhat_funny"] = scores["somewhat_funny"]
+        new_df["unfunny"] = scores["unfunny"]
+    if "counts" not in new_df.columns:
+        new_df["counts"] = (
+            new_df["funny"] + new_df["somewhat_funny"] + new_df["unfunny"]
+        )
+    return new_df
 
 
-def _write_click_present_txt(dir="summaries/"):
-    filenames = [x for x in os.listdir(dir) if "munging" not in x and ".DS" not in x]
-    dfs = {filename: pd.read_csv(dir + filename) for filename in filenames}
-    dfs = {filename: df for filename, df in dfs.items() if "funny" in df.columns}
-    filenames = list(dfs.keys())
-    with open("./clicks_present.txt", "w") as f:
-        print("\n".join(filenames), file=f)
+def _assert_cols_same(df1, df2):
+    assert set(df1.columns) == set(df2.columns)
+    for col in df1.columns:
+        if df1[col].dtype == object:
+            assert list(df1[col]) == list(df2[col])
+        else:
+            i = (df1[col].isnull()) | (df2[col].isnull())
+            assert np.allclose(df1[col][~i], df2[col][~i])
+            assert i.sum() / len(i) < 0.01
 
 
 if __name__ == "__main__":
-    df = pd.read_csv("./summaries/596_summary_KLUCB.csv")
-    df = pd.read_csv("./summaries/526_summary_LilUCB.csv")
+    old_dfs = {
+        filename: pd.read_csv("./summaries/" + filename)
+        for filename in os.listdir("summaries/")
+        if "csv" in filename
+        and all(x not in filename.lower() for x in ["munging", ".DS"])
+        and filename[0] != "_"
+    }
+    old_dfs = {k: df for k, df in old_dfs.items() if "funny" not in df.columns}
+    new_dfs = {
+        filename: recover_counts(df, name=filename) for filename, df in old_dfs.items()
+    }
 
-    #  _write_click_present_txt()
-
-    dir = "summaries/"
-    with open("./clicks_present.txt", "r") as f:
-        filenames = [x for x in f.read().split("\n") if len(x) > 0]
-    dfs = {filename: pd.read_csv(dir + filename) for filename in filenames}
-    assert all("funny" in df.columns for df in dfs.values())
-    for k, (filename, df) in enumerate(dfs.items()):
-        if "roundrobin" in filename.lower():
-            continue
-        get_counts_recovers(df)
+    for filename, new_df in new_dfs.items():
+        if "rank" not in new_df.columns:
+            new_df["rank"] = scipy.stats.rankdata(
+                -new_df["score"], method="min"
+            ).astype(int)
+        if "contest" not in new_df.columns:
+            new_df["contest"] = filename.split("_")[0]
+        new_df.to_csv("summaries/_fill-in-button-click-backup/" + filename)
