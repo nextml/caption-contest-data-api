@@ -77,6 +77,7 @@ if __name__ == "__main__":
                 del df[col]
         if "count" not in df.columns:
             df["count"] = df["unfunny"] + df["funny"] + df["somewhat_funny"]
+
         test_columns(df)
         test_means(df)
         test_counts(df)
