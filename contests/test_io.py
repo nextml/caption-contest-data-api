@@ -1,6 +1,8 @@
 import os, sys
 import numpy as np
 import pandas as pd
+import pytest
+
 contest_dir = '/'.join(os.path.abspath(__file__).split('/')[:-1])
 sys.path.append(contest_dir + '/../example-analyses')
 import utils
@@ -39,18 +41,21 @@ def test_summaries():
                 last_header = df.columns
 
 
-def test_calculate_stats(errors={'rank': 325, 'score': 1e-10, 'precision': 1e-10}):
-    df = utils.read_summary('536_summary_LilUCB.csv')
-    summary = utils.read_summary('536_summary_LilUCB.csv')
-    for key in errors:
-        if key in summary:
-            del summary[key]
-    summary = utils.calculate_stats(summary)
+@pytest.mark.parametrize( "contest", [532, 533, 534, 535, 536, 537, 538, 539,
+                                      541, 542, 543, 544, 545, 546, 547, 548],
+)
+def test_calculate_stats(contest):
+    tol = {536: 0.025, 537: 0.013, 538: 0.013, 539: 0.014, 542: 0.016}
+    fname = "{}_summary_LilUCB.csv".format(contest)
+    df1 = utils.read_summary(fname)
+    df2 = utils.read_summary(fname)
+    df2.drop(columns=["score", "precision"])
 
-    for key, max_error in errors.items():
-        if max_error == 'allclose':
-            error = np.abs(summary[key] - df[key])
-            assert error.max() < max_error
+    df2 = utils.calculate_stats(df2)
+
+    for col in ["score", "precision"]:
+        diff = np.abs(df1[col] - df2[col])
+        assert diff.max() < tol.get(contest, max(tol))
 
 
 def test_summary_rank(contest='558'):
