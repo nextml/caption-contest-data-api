@@ -8,8 +8,8 @@ the one below and we provide information to the below questions/the answer/etc:
 | ![](example-queries/query_newyorker.png) | ![](example-queries/query_cardinal.png) | ![](example-queries/query_dueling.png) |
 | Cardinal bandits                         | Cardinal bandits                        | Dueling bandits                        |
 
-We provide about **33 million ratings** on **441,479 unique captions**
-during **88 contests** after publishing 598 on 2018-01-07.
+We provide over **89 million ratings** on over **750,000 unique captions**
+during **155 contests** after publishing contest 652 on 2019-03-03.
 
 For each response, we record
 
