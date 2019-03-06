@@ -26,11 +26,11 @@ def test_summary(f, df, expected_cols=expected_cols):
     cols = set(df.columns)
     top = df["score"].idxmax()
     bottom = df["score"].idxmin()
-    assert df.T[top]["rank"] == 1  # fails for certain contests
+    assert df.loc[top]["rank"] == 1  # fails for certain contests
     assert expected_cols.issubset(cols), "Missing columns {} in {}".format(
         expected_cols - cols, f
     )  # a lot of dfs are missing column "contest"
-    assert df.T[bottom]["rank"] == len(df)  # often fails; use scipy.stats.rankdata
+    assert df.loc[bottom]["rank"] == len(df)  # often fails; use scipy.stats.rankdata
 
 
 @pytest.mark.parametrize("df", [df])
