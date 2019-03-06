@@ -65,6 +65,10 @@ def test_calculate_stats(contest):
         diff = np.abs(df1[col] - df2[col])
         assert diff.max() < tol.get(contest, max(tol))
 
+    high_scores = df1["score"] > 1.05
+    assert len(df1) * 0.5 < high_scores.sum(), "Testing more than half the df"
+    assert np.allclose(df1["score"][high_scores], df2["score"][high_scores])
+
 
 def test_summary_rank(contest="558"):
     responses = utils.read_responses(f"{contest}-responses.csv.zip")
