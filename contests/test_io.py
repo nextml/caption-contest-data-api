@@ -69,6 +69,26 @@ def test_calculate_stats(contest):
     assert len(df1) * 0.5 < high_scores.sum(), "Testing more than half the df"
     assert np.allclose(df1["score"][high_scores], df2["score"][high_scores])
 
+    assert np.abs(df1["count"] - df2["count"]).max() < 10
+    diff = np.abs(df1["unfunny"] - df2["unfunny"]) / df1["count"]
+    if contest in {536, 543, 544, 545}:
+        assert diff.median() < 0.13
+        assert diff.max() < 0.15
+    else:
+        assert diff.median() < 0.02
+        assert diff.max() < 0.11
+
+    diff = np.abs(df1["funny"] - df2["funny"]) / df1["count"]
+    assert diff.median() < 0.02
+    assert diff.max() < 0.15
+
+    diff = np.abs(df1["somewhat_funny"] - df2["somewhat_funny"]) / df1["count"]
+    assert diff.median() < 0.05
+    if contest in {533, 534, 535, 536, 537, 538, 543, 544, 545, 546, 547}:
+        assert diff.max() < 0.3
+    else:
+        assert diff.max() < 0.16
+
 
 def test_summary_rank(contest="558"):
     responses = utils.read_responses(f"{contest}-responses.csv.zip")
