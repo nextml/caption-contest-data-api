@@ -5,7 +5,7 @@ import pandas as pd
 import pytest
 
 from add_data import recover_counts
-from test_dataframes import df, filenames
+from test_summaries import df, filenames
 
 
 def poor_reconstruction(filename):

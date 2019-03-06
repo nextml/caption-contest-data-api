@@ -41,6 +41,9 @@ def test_columns(df):
     }
     assert expected_cols == set(df.columns)
 
+    # Make sure the best caption comes first
+    assert df["rank"].iloc[0] == 1
+
 
 def test_counts(df):
     expected_count = df["funny"] + df["somewhat_funny"] + df["unfunny"]
@@ -71,27 +74,5 @@ if __name__ == "__main__":
     dfs = {fname: pd.read_csv("summaries/" + fname) for fname in filenames}
 
     for fname, df in dfs.items():
-        rank = scipy.stats.rankdata(-df["score"], method="min").astype(int)
-
-        df["rank"] = rank
-
-        rank_score = {r: s for r, s in zip(df["rank"], df["score"])}
-        ranks = sorted(list(rank_score.keys()))
-        ranks = np.array(ranks)
-
-        for k in rank_score:
-            if k >= 2:
-                i = (ranks == k).argmax()
-                if np.isnan(rank_score[k]):
-                    continue
-                assert rank_score[ranks[i - 1]] >= rank_score[k]
-        for col in ["Unnamed: 0", "Unnamed: 0.1"]:
-            if col in df:
-                del df[col]
-        if "count" not in df.columns:
-            df["count"] = df["unfunny"] + df["funny"] + df["somewhat_funny"]
-
-        test_columns(df)
-        test_means(df)
-        test_counts(df)
-        #  df.to_csv("summaries/" + fname, index=False)
+        df = df.sort_values(by="rank")
+        df.to_csv("summaries/" + fname, index=False)
