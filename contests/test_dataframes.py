@@ -15,10 +15,14 @@ filenames = [
 def df(request):
     filename = request.param
     df = pd.read_csv("summaries/" + filename)
+    df.filename = filename
     return df
 
 
 def test_columns(df):
+    rank_score = {r: s for r, s in zip(df["rank"], df["score"])}
+    ranks = sorted(list(rank_score.keys()))
+    ranks = np.array(ranks)
     for k in rank_score:
         if k >= 2:
             i = (ranks == k).argmax()
@@ -38,17 +42,22 @@ def test_columns(df):
     assert expected_cols == set(df.columns)
 
 
-if __name__ == "__main__":
-    bad_dfs = [
-        "529_summary_LilUCB.csv",
-        "527_summary_LilUCB.csv",
-        "530_summary_LilUCB.csv",
-        "528_summary_LilUCB.csv",
-    ]
-    bad_dfs = filenames
-    bad_dfs = {fname: pd.read_csv("summaries/" + fname) for fname in bad_dfs}
+def test_counts(df):
+    expected_count = df["funny"] + df["somewhat_funny"] + df["unfunny"]
+    assert (df["count"] == expected_count).all()
 
-    for fname, df in bad_dfs.items():
+
+def test_means(df):
+    predicted_score = df["unfunny"] + 2 * df["somewhat_funny"] + 3 * df["funny"]
+    predicted_score /= df["count"]
+    nan = np.isnan(predicted_score) | df["score"].isnull()
+    assert np.allclose(df["score"][~nan], predicted_score[~nan])
+
+
+if __name__ == "__main__":
+    dfs = {fname: pd.read_csv("summaries/" + fname) for fname in filenames}
+
+    for fname, df in dfs.items():
         rank = scipy.stats.rankdata(-df["score"], method="min").astype(int)
 
         df["rank"] = rank
@@ -69,4 +78,6 @@ if __name__ == "__main__":
         if "count" not in df.columns:
             df["count"] = df["unfunny"] + df["funny"] + df["somewhat_funny"]
         test_columns(df)
-        #  df.to_csv("summaries/" + fname)
+        test_means(df)
+        test_counts(df)
+        df.to_csv("summaries/" + fname, index=False)
