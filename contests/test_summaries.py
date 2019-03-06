@@ -75,4 +75,4 @@ if __name__ == "__main__":
 
     for fname, df in dfs.items():
         df = df.sort_values(by="rank")
-        df.to_csv("summaries/" + fname, index=False)
+        #  df.to_csv("summaries/" + fname, index=False)
