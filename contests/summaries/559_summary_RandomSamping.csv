@@ -106,9 +106,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny
 53,"Argh! A perfect execution!
 ",1.3148936170212766,0.027557312206871888,470.0,355.0,82.0,33.0
 54,"Gotta be from Penzance.
-",1.3106796116504855,0.027086256349779236,412.0,302.0,92.0,18.0
+",1.3106796116504855,0.02708625634977924,412.0,302.0,92.0,18.0
 55,"I don't think this is his first time.
-",1.3101265822784811,0.02666489859347173,474.0,356.0,89.0,29.0
+",1.3101265822784811,0.026664898593471733,474.0,356.0,89.0,29.0
 56,"Truth be told, boys, I don't think he ever really self-identified as a pirate.
 ",1.3099787685774946,0.027113894967363897,471.0,356.0,84.0,31.0
 57,"His private diving lessons cost me an arm and a leg.
@@ -146,7 +146,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny
 73,"Now, that's what I call execution.
 ",1.277056277056277,0.027110452752289547,462.0,366.0,64.0,32.0
 74,"He gets a 10 on his execution.
-",1.2751091703056772,0.026889370628641215,458.0,362.0,66.0,30.0
+",1.2751091703056772,0.026889370628641208,458.0,362.0,66.0,30.0
 75,"He takes all the fun out of it.
 ",1.2747252747252746,0.02590842070716456,455.0,354.0,77.0,24.0
 76,"Oh now he shows some enthusiasm for the job.
@@ -252,7 +252,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny
 126,"Davy Jones finally got to use the gym clothes in his locker.
 ",1.1431767337807606,0.02013645739831025,447.0,396.0,38.0,13.0
 127,"I see we're off to a flying start.
-",1.1415929203539823,0.019427329575560814,452.0,399.0,42.0,11.0
+",1.1415929203539823,0.01942732957556081,452.0,399.0,42.0,11.0
 128,"Keep an eye on him matey, I don't like the looks of this.
 ",1.1322869955156951,0.01893989284051171,446.0,397.0,39.0,10.0
 129,"Did he just say his pronoun is 'wheeeee'?
