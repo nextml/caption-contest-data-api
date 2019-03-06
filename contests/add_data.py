@@ -64,30 +64,26 @@ def button_clicks(mu_hat, prec, T):
 
 
 def get_counts(datum):
-    try:
-        count = datum["count"]
-    except KeyError:
-        count = datum["funny"] + datum["unfunny"] + datum["somewhat funny"]
-    clicks = button_clicks(datum["score"], datum["precision"], count)
+    counts = datum["count"] if "count" in datum else datum["funny"] + datum["unfunny"] + datum["somewhat_funny"]
+    clicks = button_clicks(datum["score"], datum["precision"], counts)
     return clicks
 
 
 def recover_counts(df, name=""):
+    if "somewhat funny" in df:
+        df["somewhat_funny"] = df["somewhat funny"]
+
     scores = df.apply(get_counts, axis=1)
     scores = pd.DataFrame(list(scores))
-    if "somewhat funny" in df.columns:
-        df["somewhat_funny"] = df["somewhat funny"]
+
     new_df = df.copy()
     assert set(scores.columns) == {"funny", "somewhat_funny", "unfunny"}
     if "roundrobin" not in name.lower():
-        if all(x in df.columns for x in ["funny", "somewhat_funny", "unfunny"]):
-            old_scores = df[["funny", "somewhat_funny", "unfunny"]]
-            #  assert np.allclose(scores, old_scores)
         new_df["funny"] = scores["funny"]
         new_df["somewhat_funny"] = scores["somewhat_funny"]
         new_df["unfunny"] = scores["unfunny"]
-    if "counts" not in new_df.columns:
-        new_df["counts"] = (
+    if "count" not in new_df.columns:
+        new_df["count"] = (
             new_df["funny"] + new_df["somewhat_funny"] + new_df["unfunny"]
         )
     return new_df
@@ -112,7 +108,11 @@ if __name__ == "__main__":
         and all(x not in filename.lower() for x in ["munging", ".DS"])
         and filename[0] != "_"
     }
+    assert len(old_dfs) == 155
     old_dfs = {k: df for k, df in old_dfs.items() if "funny" not in df.columns}
+    after = len(old_dfs)
+    assert len(old_dfs) == 8
+
     new_dfs = {
         filename: recover_counts(df, name=filename) for filename, df in old_dfs.items()
     }

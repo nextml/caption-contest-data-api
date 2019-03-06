@@ -26,6 +26,8 @@ def test_mostly_good_reconstructions(filenames):
 
 @pytest.mark.parametrize("filename", filenames)
 def test_recover(filename):
+    """
+    """
     df = pd.read_csv("summaries/" + filename)
     new_df = recover_counts(df)
     assert set(df.index) == set(new_df.index)
