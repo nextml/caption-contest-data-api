@@ -38,12 +38,14 @@ def test_columns(df):
         "unfunny",
         "somewhat_funny",
         "funny",
+        "contest",
     }
     assert expected_cols == set(df.columns)
 
     # Make sure the best caption comes first
     assert df["rank"].iloc[0] == 1
-
+    contest = int(df.filename[:3])
+    assert (df["contest"] == contest).all()
 
 def test_counts(df):
     expected_count = df["funny"] + df["somewhat_funny"] + df["unfunny"]
@@ -74,5 +76,7 @@ if __name__ == "__main__":
     dfs = {fname: pd.read_csv("summaries/" + fname) for fname in filenames}
 
     for fname, df in dfs.items():
-        df = df.sort_values(by="rank")
+        contest = int(fname[:3])
+        df["contest"] = contest
+        test_columns(df)
         #  df.to_csv("summaries/" + fname, index=False)
