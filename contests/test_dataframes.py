@@ -54,6 +54,19 @@ def test_means(df):
     assert np.allclose(df["score"][~nan], predicted_score[~nan])
 
 
+def test_few_nulls(df):
+    for col in df.columns:
+        nulls = df[col].isnull().sum()
+        if col == "caption":
+            assert nulls <= 3, "Sometimes people don't submit *anything*"
+        elif col in {"score", "precision"} and any(
+            x in df.filename for x in ["520", "521"]
+        ):
+            assert nulls == 1
+        else:
+            assert nulls == 0, f"{col}"
+
+
 if __name__ == "__main__":
     dfs = {fname: pd.read_csv("summaries/" + fname) for fname in filenames}
 
