@@ -26,18 +26,26 @@ def test_mostly_good_reconstructions(filenames):
 
 @pytest.mark.parametrize("filename", filenames)
 def test_recover(filename):
-    """
-    """
     df = pd.read_csv("summaries/" + filename)
     new_df = recover_counts(df)
+    assert new_df is not df
     assert set(df.index) == set(new_df.index)
+    assert {
+        # "rank",
+        "caption",
+        "score",
+        "precision",
+        # "count",
+        "unfunny",
+        "somewhat_funny",
+        "funny",
+    }.issubset(set(df.columns).union({"somewhat funny", "somewhat_funny"}))
     for col in df.columns:
-        if col in {"funny", "unfunny", "somewhat_funny"} and poor_reconstruction(
-            filename
-        ):
-            assert np.abs(new_df[col] - df[col]).max() <= 4
-        elif df[col].dtype == object:
+        if df[col].dtype == object:
             assert list(new_df[col]) == list(df[col])
-        else:
+        elif col in {"funny", "unfunny", "somewhat_funny"}:
             diff = np.abs(new_df[col] - df[col])
-            assert np.allclose(new_df[col], df[col]) or diff.max() < 1e-7
+            if poor_reconstruction(filename):
+                assert np.abs(new_df[col] - df[col]).max() <= 4
+            else:
+                assert np.allclose(new_df[col], df[col]) or diff.max() < 1e-7
