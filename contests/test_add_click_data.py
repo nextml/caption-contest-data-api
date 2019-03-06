@@ -30,16 +30,6 @@ def test_recover(filename, df):
     new_df = recover_counts(df)
     assert new_df is not df
     assert set(df.index) == set(new_df.index)
-    assert {
-        # "rank",
-        "caption",
-        "score",
-        "precision",
-        # "count",
-        "unfunny",
-        "somewhat_funny",
-        "funny",
-    }.issubset(set(df.columns).union({"somewhat funny", "somewhat_funny"}))
     for col in df.columns:
         if df[col].dtype == object:
             assert list(new_df[col]) == list(df[col])
