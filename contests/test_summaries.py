@@ -7,7 +7,7 @@ import scipy.stats
 filenames = [
     f
     for f in os.listdir("summaries/")
-    if ".DS" not in f and f[0] != "_" and int(f[:3]) < 587
+    if f[0] not in {"_", "."}
 ]
 
 
@@ -49,14 +49,23 @@ def test_columns(df):
 
 def test_counts(df):
     expected_count = df["funny"] + df["somewhat_funny"] + df["unfunny"]
-    assert (df["count"] == expected_count).all()
+    diff = np.abs(df["count"] - expected_count)
+    assert diff.max() <= 3
 
 
 def test_means(df):
+    df.dropna(inplace=True)
     predicted_score = df["unfunny"] + 2 * df["somewhat_funny"] + 3 * df["funny"]
     predicted_score /= df["count"]
-    nan = np.isnan(predicted_score) | df["score"].isnull()
-    assert np.allclose(df["score"][~nan], predicted_score[~nan])
+
+    assert df["score"].min() >= 1
+    assert df["score"].max() <= 3
+
+    diff = np.abs(predicted_score - df["score"])
+    assert diff.median() <= 0.01
+    assert diff.quantile(0.8) <= 0.02
+    assert diff.quantile(0.9) <= 0.03
+    assert diff.quantile(0.99) <= 0.04
 
 
 def test_few_nulls(df):

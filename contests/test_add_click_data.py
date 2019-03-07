@@ -5,7 +5,18 @@ import pandas as pd
 import pytest
 
 from add_data import recover_counts
-from test_summaries import df, filenames
+
+filenames = [
+    f for f in os.listdir("summaries/") if ".DS" not in f and f[0] not in {"_", "."}
+]
+
+
+@pytest.fixture(params=filenames)
+def df(request):
+    filename = request.param
+    df = pd.read_csv("summaries/" + filename)
+    df.filename = filename
+    return df
 
 
 def poor_reconstruction(filename):
