@@ -92,4 +92,4 @@ if __name__ == "__main__":
             good_cols = [col for col in df.columns if "Unnamed" not in col]
             print(fname, bad_cols, good_cols)
             df = df[good_cols]
-            #  df.to_csv("summaries/" + fname, index=False)
+            df.to_csv("summaries/" + fname, index=False)
