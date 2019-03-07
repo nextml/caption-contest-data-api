@@ -9,6 +9,7 @@ from add_data import recover_counts
 filenames = [
     f for f in os.listdir("summaries/") if ".DS" not in f and f[0] not in {"_", "."}
 ]
+filenames = sorted(filenames)
 
 
 @pytest.fixture(params=filenames)

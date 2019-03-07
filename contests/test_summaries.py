@@ -9,6 +9,8 @@ filenames = [
     for f in os.listdir("summaries/")
     if f[0] not in {"_", "."}
 ]
+filenames = sorted(filenames)
+
 
 
 @pytest.fixture(params=filenames)
@@ -85,7 +87,9 @@ if __name__ == "__main__":
     dfs = {fname: pd.read_csv("summaries/" + fname) for fname in filenames}
 
     for fname, df in dfs.items():
-        contest = int(fname[:3])
-        df["contest"] = contest
-        test_columns(df)
-        #  df.to_csv("summaries/" + fname, index=False)
+        bad_cols = [col for col in df.columns if "Unnamed" in col]
+        if len(bad_cols) > 0:
+            good_cols = [col for col in df.columns if "Unnamed" not in col]
+            print(fname, bad_cols, good_cols)
+            df = df[good_cols]
+            #  df.to_csv("summaries/" + fname, index=False)
