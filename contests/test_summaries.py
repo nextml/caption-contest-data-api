@@ -102,5 +102,5 @@ if __name__ == "__main__":
                 assert diff2.max() == 0
                 df["count"] = expected_count
                 del df["counts"]
-                #  df.to_csv("summaries/" + fname)
+                df.to_csv("summaries/" + fname)
         test_counts(df)
