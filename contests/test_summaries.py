@@ -93,4 +93,4 @@ if __name__ == "__main__":
             expected_score /= df["count"]
             df["score"] = expected_score
             test_means(df)
-            #  df.to_csv("summaries/" + fname)
+            df.to_csv("summaries/" + fname)
