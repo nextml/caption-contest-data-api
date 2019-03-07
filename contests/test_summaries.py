@@ -4,13 +4,8 @@ import numpy as np
 import os
 import scipy.stats
 
-filenames = [
-    f
-    for f in os.listdir("summaries/")
-    if f[0] not in {"_", "."}
-]
+filenames = [f for f in os.listdir("summaries/") if f[0] not in {"_", "."}]
 filenames = sorted(filenames)
-
 
 
 @pytest.fixture(params=filenames)
@@ -42,12 +37,16 @@ def test_columns(df):
         "funny",
         "contest",
     }
-    assert expected_cols == set(df.columns)
+    assert expected_cols == set(df.columns) - {"target_id"}
+    contest = int(df.filename[:3])
+    if contest >= 587:
+        assert "target_id" in set(df.columns)
 
     # Make sure the best caption comes first
     assert df["rank"].iloc[0] == 1
     contest = int(df.filename[:3])
     assert (df["contest"] == contest).all()
+
 
 def test_counts(df):
     expected_count = df["funny"] + df["somewhat_funny"] + df["unfunny"]
@@ -87,9 +86,21 @@ if __name__ == "__main__":
     dfs = {fname: pd.read_csv("summaries/" + fname) for fname in filenames}
 
     for fname, df in dfs.items():
-        bad_cols = [col for col in df.columns if "Unnamed" in col]
-        if len(bad_cols) > 0:
-            good_cols = [col for col in df.columns if "Unnamed" not in col]
-            print(fname, bad_cols, good_cols)
-            df = df[good_cols]
-            df.to_csv("summaries/" + fname, index=False)
+        #  score_col = {col for col in df.columns if "score" in col or "mean" in col}
+        #  print(score_col, fname)
+        df.filename = fname
+        count_cols = [col for col in df.columns if "count" in col]
+        if len(count_cols) > 1:
+            #  print(fname, count_cols)
+            diff = np.abs(df["count"] - df["counts"])
+            if not diff.max() == 0:
+                assert diff.max() == 1
+                expected_count = df["funny"] + df["somewhat_funny"] + df["unfunny"]
+                diff1 = np.abs(expected_count - df["count"])
+                diff2 = np.abs(expected_count - df["counts"])
+                assert diff1.max() == 1
+                assert diff2.max() == 0
+                df["count"] = expected_count
+                del df["counts"]
+                #  df.to_csv("summaries/" + fname)
+        test_counts(df)
