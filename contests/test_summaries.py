@@ -16,7 +16,7 @@ def df(request):
     return df
 
 
-def test_columns(df):
+def test_ranks(df):
     rank_score = {r: s for r, s in zip(df["rank"], df["score"])}
     ranks = sorted(list(rank_score.keys()))
     ranks = np.array(ranks)
@@ -26,6 +26,9 @@ def test_columns(df):
             if np.isnan(rank_score[k]):
                 continue
             assert rank_score[ranks[i - 1]] >= rank_score[k]
+
+
+def test_columns(df):
     expected_cols = {
         "rank",
         "caption",
@@ -86,11 +89,11 @@ if __name__ == "__main__":
     dfs = {fname: pd.read_csv("summaries/" + fname) for fname in filenames}
 
     for fname, df in dfs.items():
-        score_col = {col for col in df.columns if "score" in col or "mean" in col}
         df.filename = fname
-        if df["score"].min() < 1 or df["score"].max() > 3:
-            expected_score = df.unfunny + 2 * df.somewhat_funny + 3 * df.funny
-            expected_score /= df["count"]
-            df["score"] = expected_score
-            test_means(df)
-            df.to_csv("summaries/" + fname)
+        bad_cols = [col for col in df.columns if "Unnamed" in col]
+        if len(bad_cols) > 0:
+            good_cols = [col for col in df.columns if "Unnamed" not in col]
+            df = df[good_cols]
+            bad_cols2 = [col for col in df.columns if "Unnamed" in col]
+            assert len(bad_cols2) == 0
+            df.to_csv("summaries/" + fname, index=False)
