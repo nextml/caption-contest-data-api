@@ -86,21 +86,11 @@ if __name__ == "__main__":
     dfs = {fname: pd.read_csv("summaries/" + fname) for fname in filenames}
 
     for fname, df in dfs.items():
-        #  score_col = {col for col in df.columns if "score" in col or "mean" in col}
-        #  print(score_col, fname)
+        score_col = {col for col in df.columns if "score" in col or "mean" in col}
         df.filename = fname
-        count_cols = [col for col in df.columns if "count" in col]
-        if len(count_cols) > 1:
-            #  print(fname, count_cols)
-            diff = np.abs(df["count"] - df["counts"])
-            if not diff.max() == 0:
-                assert diff.max() == 1
-                expected_count = df["funny"] + df["somewhat_funny"] + df["unfunny"]
-                diff1 = np.abs(expected_count - df["count"])
-                diff2 = np.abs(expected_count - df["counts"])
-                assert diff1.max() == 1
-                assert diff2.max() == 0
-                df["count"] = expected_count
-                del df["counts"]
-                df.to_csv("summaries/" + fname)
-        test_counts(df)
+        if df["score"].min() < 1 or df["score"].max() > 3:
+            expected_score = df.unfunny + 2 * df.somewhat_funny + 3 * df.funny
+            expected_score /= df["count"]
+            df["score"] = expected_score
+            test_means(df)
+            #  df.to_csv("summaries/" + fname)
