@@ -20,12 +20,15 @@ def test_ranks(df):
     rank_score = {r: s for r, s in zip(df["rank"], df["score"])}
     ranks = sorted(list(rank_score.keys()))
     ranks = np.array(ranks)
-    for k in rank_score:
-        if k >= 2:
-            i = (ranks == k).argmax()
-            if np.isnan(rank_score[k]):
-                continue
-            assert rank_score[ranks[i - 1]] >= rank_score[k]
+    for rank, score in rank_score.items():
+        if np.isnan(score):
+            continue
+        i = (ranks == rank).argmax()
+        if i == 0:
+            continue
+        better_score = rank_score[ranks[i - 1]]
+        if np.abs(better_score - score) > 1e-2:
+            assert better_score >= score
 
 
 def test_columns(df):
@@ -64,6 +67,13 @@ def test_means(df):
 
     assert df["score"].min() >= 1
     assert df["score"].max() <= 3
+    if "600" in df.filename:
+        hacked = df["score"] > 2.5
+        assert hacked.sum() == 1
+        assert df["score"][~hacked].max() < 2.1
+        hacked = hacked.idxmax()
+        row = df.loc[hacked]
+        assert row["funny"] == 923 and row["count"] == 924
 
     diff = np.abs(predicted_score - df["score"])
     assert diff.median() <= 0.01
@@ -77,23 +87,48 @@ def test_few_nulls(df):
         nulls = df[col].isnull().sum()
         if col == "caption":
             assert nulls <= 3, "Sometimes people don't submit *anything*"
-        elif col in {"score", "precision"} and any(
-            x in df.filename for x in ["520", "521"]
-        ):
-            assert nulls == 1
         else:
             assert nulls == 0, f"{col}"
 
 
+def ranks(scores):
+    return scipy.stats.rankdata(-scores, method="min").astype(int)
+
+
+#  if __name__ == "__main__":
+#  dfs = {fname: pd.read_csv("summaries/" + fname) for fname in filenames}
+
+#  for fname, df in dfs.items():
+#  df.filename = fname
+
+
+def test_main(df):
+    try:
+        test_means(df)
+    except AssertionError:
+        assert "mean" in df
+        expected_score = df.unfunny + 2 * df.somewhat_funny + 3 * df.funny
+        expected_score /= df["count"]
+        old_scores = df["score"].copy()
+        df["score"] = expected_score
+        diff = np.abs(df["score"] - old_scores)
+        assert diff.max() < 0.55
+        df["rank"] = ranks(df["score"])
+
+    #  test_means(df)
+    test_ranks(df)
+    #  test_few_nulls(df)
+    #  test_counts(df)
+
 if __name__ == "__main__":
     dfs = {fname: pd.read_csv("summaries/" + fname) for fname in filenames}
-
     for fname, df in dfs.items():
-        df.filename = fname
-        bad_cols = [col for col in df.columns if "Unnamed" in col]
-        if len(bad_cols) > 0:
-            good_cols = [col for col in df.columns if "Unnamed" not in col]
-            df = df[good_cols]
-            bad_cols2 = [col for col in df.columns if "Unnamed" in col]
-            assert len(bad_cols2) == 0
-            df.to_csv("summaries/" + fname, index=False)
+        contest = int(fname[:3])
+        if 587 <= contest <= 636:
+            continue
+
+        cols = ["caption", "unfunny", "somewhat_funny", "funny", "count", "contest"]
+        if "target_id" in df:
+            cols += ["target_id"]
+        raw = df[cols]
+        raw.to_csv(f"raw-clicks/{contest}.csv", index=False)
