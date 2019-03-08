@@ -94,27 +94,3 @@ def test_few_nulls(df):
             assert nulls in {0, 1}
         else:
             assert nulls == 0, f"{col}"
-
-
-def ranks(scores):
-    return scipy.stats.rankdata(-scores, method="min").astype(int)
-
-
-def test_main(df):
-    test_means(df)  # tests the 'score' column
-    if "mean" in df:
-        del df["mean"]
-    test_counts(df)  # test the 'count' column
-    if "counts" in df:
-        del df["counts"]
-    try:
-        test_columns(df)
-    except AssertionError as e:
-        assert "funniest first" in str(e)
-        df.sort_values(by='rank', inplace=True)
-    test_columns(df)
-    test_counts(df)  # test the 'count' column
-    test_means(df)  # tests the 'score' column
-    test_few_nulls(df)
-    test_ranks(df)
-    df.to_csv("summaries/" + df.filename, index=False)
