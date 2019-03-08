@@ -35,7 +35,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 34,I don’t lie. I stand uprightly for what I endorse.,1.5590277777777777,0.032876996621812024,576.0,362.0,106.0,108.0,567
 35,You act like I'm the first person to ever try to sleep their way to the top.,1.5572232645403377,0.031057247901372768,533.0,307.0,155.0,71.0,567
 36,The last thing I remember is taking an Ambien.,1.5540275049115913,0.0313274082571422,509.0,291.0,154.0,64.0,567
-37,"Well if this isn't business casual, I don't know what is.",1.5513833992094859,0.03084812131620499,506.0,286.0,161.0,59.0,567
+37,"Well if this isn't business casual, I don't know what is.",1.551383399209486,0.03084812131620499,506.0,286.0,161.0,59.0,567
 38,I told you I would sleep on it.,1.5465346534653466,0.02934378668881342,505.0,276.0,182.0,47.0,567
 39,"If need be, I'm ready to pull an all-nighter.",1.5450901803607215,0.03013942478292508,499.0,278.0,170.0,51.0,567
 40,It needs another strap and more Velcro.,1.5430327868852458,0.03487762337942826,488.0,307.0,97.0,84.0,567
@@ -70,11 +70,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 69,"It's called multitasking, Jim...I thought you'd be pleased.",1.5121293800539084,0.035263313213002835,371.0,220.0,112.0,39.0,567
 70,You said sleep on it. I'm not done.,1.5070422535211268,0.03440226027147639,355.0,205.0,120.0,30.0,567
 71,"I'm Tim, the new embedded journalist.",1.5061728395061729,0.08263308904040252,81.0,52.0,17.0,12.0,567
-72,"Fine, I'll consider this my wake-up call.",1.505681818181818,0.03598484848484849,352.0,210.0,106.0,36.0,567
+72,"Fine, I'll consider this my wake-up call.",1.5056818181818181,0.03598484848484849,352.0,210.0,106.0,36.0,567
 73,I rest my case.,1.5014836795252229,0.03900264777085787,337.0,212.0,81.0,44.0,567
 74,My sleep number is 24/7.,1.5014749262536873,0.03814817460162017,339.0,210.0,88.0,41.0,567
 74,You're damn right I'm gonna sleep my way to the top!,1.5014749262536873,0.03768784589634972,339.0,208.0,92.0,39.0,567
-76,"You can't welsh on the bet now, Dave; do you know how much I spent on Velcro alone?",1.498452012383901,0.04145652427842567,323.0,211.0,63.0,49.0,567
+76,"You can't welsh on the bet now, Dave; do you know how much I spent on Velcro alone?",1.498452012383901,0.041456524278425666,323.0,211.0,63.0,49.0,567
 77,I couldn't get out of bed this morning.,1.496932515337423,0.038555431619489725,326.0,202.0,86.0,38.0,567
 78,"You power nap your way, Bob, and I'll power nap mine.",1.4953560371517027,0.037817178282989104,323.0,197.0,92.0,34.0,567
 79,Get ready for the longest filibuster in the history of Congress!,1.4952978056426331,0.039433567890522006,319.0,200.0,80.0,39.0,567
@@ -87,9 +87,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 86,Make it quick. I have a 2 AM.,1.4847457627118643,0.03896525042393032,295.0,181.0,85.0,29.0,567
 87,The standing desk wasn't working for me.,1.480565371024735,0.04045996311354829,283.0,177.0,76.0,30.0,567
 88,I'm working the night shift.,1.4791666666666667,0.04173199202687208,240.0,145.0,75.0,20.0,567
-89,"Technically speaking, I'm NOT laying down on the job",1.4765342960288808,0.040773128153730534,277.0,174.0,74.0,29.0,567
+89,"Technically speaking, I'm NOT laying down on the job",1.4765342960288808,0.04077312815373053,277.0,174.0,74.0,29.0,567
 90,I'm an efficiency expert. Why?,1.4744525547445255,0.04043842241444322,274.0,171.0,76.0,27.0,567
-91,And where was the outrage over Alan's standing desk?,1.474074074074074,0.04316389179289853,270.0,176.0,60.0,34.0,567
+91,And where was the outrage over Alan's standing desk?,1.474074074074074,0.043163891792898534,270.0,176.0,60.0,34.0,567
 92,Does this bed make me look tired?,1.4736842105263157,0.04710534843117371,228.0,149.0,50.0,29.0,567
 93,Why? All the guys at Fox have them.,1.4721189591078068,0.04359950430559592,269.0,177.0,57.0,35.0,567
 93,Even though I couldn't get out of bed this morning I came to work.,1.4721189591078068,0.03924622906084292,269.0,164.0,83.0,22.0,567
@@ -128,8 +128,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 127,I tried the standup desk but this just seemed a better fit.,1.4405940594059403,0.04907577127626283,202.0,137.0,41.0,24.0,567
 128,"Since you decided to cancel Casual Friday, I decided to start Mattress Monday.",1.4378109452736318,0.04770155895528142,201.0,134.0,46.0,21.0,567
 129,Could you untuck me for the meeting?,1.4362745098039216,0.04614250638066393,204.0,134.0,51.0,19.0,567
-130,...and then I told the genie: 'I want to stay in bed forever.',1.4347826086956519,0.0451351656838579,207.0,135.0,54.0,18.0,567
-130,I don't think you understand the gravity of this situation.,1.4347826086956519,0.04300668227342939,207.0,131.0,62.0,14.0,567
+130,...and then I told the genie: 'I want to stay in bed forever.',1.434782608695652,0.0451351656838579,207.0,135.0,54.0,18.0,567
+130,I don't think you understand the gravity of this situation.,1.434782608695652,0.04300668227342939,207.0,131.0,62.0,14.0,567
 132,"Did you, or did you not, tell me to 'make myself at home', Mr. Brenner?",1.434065934065934,0.04888061257780178,182.0,120.0,45.0,17.0,567
 133,"Well what does business casual mean to you, Tom?",1.4334975369458127,0.04884966959656852,203.0,139.0,40.0,24.0,567
 134,I don't get out of bed for less than $100K,1.4321608040201006,0.04905951973555385,199.0,136.0,40.0,23.0,567
@@ -149,7 +149,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 147,How's this for multitasking?,1.4166666666666667,0.04652745930387499,180.0,118.0,49.0,13.0,567
 147,I don't get out of bed for less than a million.,1.4166666666666667,0.0689308493223759,96.0,66.0,20.0,10.0,567
 147,"I was under cover, but I was made.",1.4166666666666667,0.05098349923543166,180.0,125.0,35.0,20.0,567
-151,The hardest part was getting on the escalator.,1.416184971098266,0.04988044655788999,173.0,117.0,40.0,16.0,567
+151,The hardest part was getting on the escalator.,1.416184971098266,0.049880446557889986,173.0,117.0,40.0,16.0,567
 152,Don't just stand there. Tuck me in.,1.4157303370786516,0.05262003416172617,178.0,126.0,30.0,22.0,567
 152,This isn't the kind of work-life balance I envisioned.,1.4157303370786516,0.04550371745719568,178.0,115.0,52.0,11.0,567
 152,My work-life boundaries seem increasingly blurred.,1.4157303370786516,0.048867045774922346,178.0,120.0,42.0,16.0,567
@@ -165,7 +165,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 159,Pull back the covers? I don't think you are ready for full transparency!,1.409356725146199,0.0528984557418739,171.0,121.0,30.0,20.0,567
 165,It's a lot healthier than sitting behind a desk all day.,1.4082840236686391,0.048515727293649606,169.0,113.0,43.0,13.0,567
 166,My mother was a kangaroo,1.4081632653061225,0.05353508403214995,147.0,100.0,34.0,13.0,567
-167,I will not take this lying down.,1.4047619047619049,0.050825867788722584,168.0,116.0,36.0,16.0,567
+167,I will not take this lying down.,1.4047619047619049,0.05082586778872258,168.0,116.0,36.0,16.0,567
 168,"It's called multitasking, Jim.",1.4036144578313252,0.05196322151403699,166.0,116.0,33.0,17.0,567
 168,"An affair at work. No, why do you ask?",1.4036144578313252,0.04519958228752586,166.0,107.0,51.0,8.0,567
 170,I'm just having a bad Velcro moment.,1.4012345679012346,0.05968752602058176,162.0,124.0,11.0,27.0,567
@@ -239,7 +239,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 237,I'm not going to let this job force me outside of my comfort zone!,1.3643410852713178,0.056050987844882064,129.0,93.0,25.0,11.0,567
 237,I commute from a bedroom community.,1.3643410852713178,0.04789410215603642,129.0,86.0,39.0,4.0,567
 240,Of course I'm wearing pants.,1.3622047244094488,0.05552725463969795,127.0,91.0,26.0,10.0,567
-240,Meet my new invention - the Murphy's Law Bed.,1.3622047244094488,0.050826553099834866,127.0,87.0,34.0,6.0,567
+240,Meet my new invention - the Murphy's Law Bed.,1.3622047244094488,0.05082655309983487,127.0,87.0,34.0,6.0,567
 240,"I'm working undercover, you idiot.",1.3622047244094488,0.05439017954437158,127.0,90.0,28.0,9.0,567
 240,Sorry I'm late. I had trouble getting out of bed this morning.,1.3622047244094488,0.05322881976820542,127.0,89.0,30.0,8.0,567
 240,"What can I do? I told all my Twitter followers if Donald Trump won the election, I wouldn't get out of bed ever again!",1.3622047244094488,0.05773425986126105,127.0,93.0,22.0,12.0,567
@@ -256,14 +256,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 254,Obviously I'm not your stereotypical homeless person.,1.3577235772357723,0.06013233584616524,123.0,92.0,18.0,13.0,567
 254,"Ebenezer, I am the ghost of ""Work/Life Balance"".",1.3577235772357723,0.06123053025771386,123.0,93.0,16.0,14.0,567
 254,You ever have one of those mornings where you just can't get out of bed?,1.3577235772357723,0.05552276766351616,123.0,88.0,26.0,9.0,567
-258,I'm trying to strike a better work-life balance.,1.352459016393443,0.053240896208334575,122.0,86.0,29.0,7.0,567
-258,I'm temping at Ikea.,1.352459016393443,0.050632272665750176,122.0,84.0,33.0,5.0,567
-258,"Look, you knew my name was Murphy when you hired me!",1.352459016393443,0.054498403884430835,122.0,87.0,27.0,8.0,567
-258,I'm 24/7.,1.352459016393443,0.05693015035741894,122.0,89.0,23.0,10.0,567
+258,I'm trying to strike a better work-life balance.,1.3524590163934427,0.053240896208334575,122.0,86.0,29.0,7.0,567
+258,I'm temping at Ikea.,1.3524590163934427,0.050632272665750176,122.0,84.0,33.0,5.0,567
+258,"Look, you knew my name was Murphy when you hired me!",1.3524590163934427,0.054498403884430835,122.0,87.0,27.0,8.0,567
+258,I'm 24/7.,1.3524590163934427,0.05693015035741894,122.0,89.0,23.0,10.0,567
 262,I'm late because I had to tie myself to the roof of my car!,1.3516483516483515,0.06878258712409595,91.0,68.0,14.0,9.0,567
 263,I'm going under cover!,1.35,0.05755280123479645,120.0,88.0,22.0,10.0,567
 263,"That's all you have to say? ""Where's the fitted sheet?""",1.35,0.05755280123479645,120.0,88.0,22.0,10.0,567
-263,"My therapist says dreams of being naked at work are typical, but this one has him stumped.",1.35,0.05377877706628421,120.0,85.0,28.0,7.0,567
+263,"My therapist says dreams of being naked at work are typical, but this one has him stumped.",1.35,0.053778777066284214,120.0,85.0,28.0,7.0,567
 263,"Doctor's orders, I can't leave the bed.",1.35,0.05755280123479645,120.0,88.0,22.0,10.0,567
 263,Like you said...I made my bed...now I'm laying in it.,1.35,0.05755280123479645,120.0,88.0,22.0,10.0,567
 268,You told me to get myself 'embedded' in the company!,1.347457627118644,0.0529816723455347,118.0,83.0,29.0,6.0,567
@@ -301,10 +301,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 298,I thought your speech was today.,1.3333333333333333,0.05883370913485065,108.0,80.0,20.0,8.0,567
 298,I don't give a sheet what you think.,1.3333333333333333,0.0644490992697109,108.0,84.0,12.0,12.0,567
 302,I got stuck behind a sectional sofa on Rte. 3.,1.330188679245283,0.05800160810920526,106.0,78.0,21.0,7.0,567
-302,Why does everyone always say I look like I just woke up?,1.330188679245283,0.054816033280596865,106.0,76.0,25.0,5.0,567
+302,Why does everyone always say I look like I just woke up?,1.330188679245283,0.05481603328059687,106.0,76.0,25.0,5.0,567
 302,Don't ever wake a person who is sleepworking.,1.330188679245283,0.05315169785907448,106.0,75.0,27.0,4.0,567
 302,If the company let employees take sick days I wouldn't have to do this.,1.330188679245283,0.05315169785907448,106.0,75.0,27.0,4.0,567
-302,"What do you mean this isn't ""work-life balance""",1.330188679245283,0.054816033280596865,106.0,76.0,25.0,5.0,567
+302,"What do you mean this isn't ""work-life balance""",1.330188679245283,0.05481603328059687,106.0,76.0,25.0,5.0,567
 302,"If I have to use a standing desk, I might as well be comfortable.",1.330188679245283,0.05800160810920526,106.0,78.0,21.0,7.0,567
 302,I can deduct it as a home office!,1.330188679245283,0.056431303581759164,106.0,77.0,23.0,6.0,567
 302,I'm trying to make this my dream job.,1.330188679245283,0.0595305053108991,106.0,79.0,19.0,8.0,567
@@ -330,7 +330,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 326,Now tell me a story.,1.3163265306122451,0.05909219044420198,98.0,73.0,19.0,6.0,567
 326,Listen! I want that budget report on my duvet in 45 minutes or we are going to have to reassess your commitment to this company.,1.3163265306122451,0.060846367247508214,98.0,74.0,17.0,7.0,567
 326,"What do you want from me? I'm up, aren't I?",1.3163265306122451,0.05728432190197445,98.0,72.0,21.0,5.0,567
-326,Well you won't let me work from home!,1.3163265306122451,0.053485574357198584,98.0,70.0,25.0,3.0,567
+326,Well you won't let me work from home!,1.3163265306122451,0.05348557435719858,98.0,70.0,25.0,3.0,567
 333,You mind getting the door? I left my ID in my pull-out sofa.,1.3125,0.06161656333481269,96.0,73.0,16.0,7.0,567
 333,It's my emotional support mattress.,1.3125,0.06161656333481269,96.0,73.0,16.0,7.0,567
 333,Don't knock it. I'm finally going to get my dream job.,1.3125,0.05794829062159566,96.0,71.0,20.0,5.0,567
@@ -1064,12 +1064,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1054,Don't knock it til you've tried it.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,I'm working from bed today.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,I thought I'd take a sick day at work.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
-1054,I'm fed up with these millennials always asking for a better work/life balance!,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,567
+1054,I'm fed up with these millennials always asking for a better work/life balance!,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,567
 1054,"It's called memory foam, this should help increase my production.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,"What!!? You said today was ""business casual!!",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,Upside: No commuting. Downside: I catch a lot of sheet.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,The employee manual only says that I cannot lie down in my office.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
-1054,And then the Genie just disappeared!,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,567
+1054,And then the Genie just disappeared!,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,567
 1054,Now you can't accuse me of getting out on the wrong side.,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,567
 1054,What made you think I was kidding?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,"I thought you said we were ""going to the mattresses"".",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
@@ -1081,9 +1081,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1054,what makes you think I can't multitask?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,My wife says men are bad at multi-tasking. I'm out to prove her wrong.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,"Sorry not sorry, dad, but I’m gonna bail on Bring Your Millennial to Work Day.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
-1054,"Sorry I'm late, but I just couldn't get out of bed",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,567
+1054,"Sorry I'm late, but I just couldn't get out of bed",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,567
 1054,"If you're not floating in the air, then I must be standing up.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
-1054,"So you can't think of one goddam funny thing to say? I'm walking around in a bed at work and you don't think thats funny? Because let me tell you something it's funny ok, it's funny!",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,567
+1054,"So you can't think of one goddam funny thing to say? I'm walking around in a bed at work and you don't think thats funny? Because let me tell you something it's funny ok, it's funny!",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,567
 1054,"Well, if you're gonna make us use standing desks!",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,"He said, ""You can leave anytime you like, but you can never check out.""",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,"I know getting dressed in bed is odd, but how did you get stuck to my ceiling?",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
@@ -1100,29 +1100,29 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1054,I'm ready for court.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,I thought we valued work-life balance.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,What? What's the problem? I choose comfort as my lifestyle!,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,567
-1054,I’m just living the dream.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,567
-1054,Everyone says naps help productivity.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,567
+1054,I’m just living the dream.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,567
+1054,Everyone says naps help productivity.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,567
 1054,NOW who got up on the wrong side of the bed? Huh?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
-1054,I don't see how this qualifies as sleeping on the job,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,567
+1054,I don't see how this qualifies as sleeping on the job,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,567
 1054,No one at the office has my back.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,"If it's all the same to you, I thought I'd work from the office this morning.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,My chiropractor said I should work at a sleeping desk.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,I thought it was bring your bed to work day?!,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,What side did I get up on now?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,"Again, I was downsized, so I now have a position working out of my bed.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
-1054,"C'mon - a couple weeks ago, Woodbridge got that hamster-wheel desk.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,567
+1054,"C'mon - a couple weeks ago, Woodbridge got that hamster-wheel desk.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,567
 1054,The company's future: 24/7.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
-1054,"Before condemning it, I thought I should at least experience life as a pocket protector.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,567
+1054,"Before condemning it, I thought I should at least experience life as a pocket protector.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,567
 1054,I had a dream about work last night.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,What?! I'm multi-tasking!,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
-1054,"What, you think I slept my way to the top?",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,567
+1054,"What, you think I slept my way to the top?",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,567
 1054,I know I am late! I couldn't get out of bed.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,This isn't what I meant by stay-cation.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,"What are you talking about, Murphy?! This is a great idea!",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,Hey! I don't get out of bed for less than ten thousand dollars.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,What do you mean I'm being downsized? I live here!,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,I really need to sleep on this decision.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
-1054,The divorce has left me with this.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,567
+1054,The divorce has left me with this.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,567
 1054,"Well your assnine insurance doctor, said to go to work but stay in bed as much as possible.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,"Okay, I said that I COULD do your job in my sleep … not that I WOULD.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,I'm saving my sick days for later.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
@@ -1135,7 +1135,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1054,"OK, it's an improvement. But I'm still not flying United again.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,My wife left me. She says I'm a workaholic.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,ARE we gonna fuck or WHAT?,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,567
-1054,When we say we're on 24/7 we mean it.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,567
+1054,When we say we're on 24/7 we mean it.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,567
 1054,It's one of those 'work from home' scams.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,Remind me never to book a B&B online again.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,I assume you've heard our competitors are 'going to the mattresses.',1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
@@ -1146,7 +1146,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1054,This aint my idea of pillow talk.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,My doctor put me on bed rest to reduce work stress.,1.1702127659574468,0.08228438837349525,47.0,43.0,0.0,4.0,567
 1054,Just couldn't get out of bed this morning.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
-1054,I told you I wouldn't take this lying down.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,567
+1054,I told you I wouldn't take this lying down.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,567
 1054,Listen. I am here to work and dream big!,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,"So, this is not what you had in mind for work life balance?",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,"So what, tell him I don't give a sheet any more.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
@@ -1156,7 +1156,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1054,I'm erect and ready for business. Think this will satisfy her?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
 1054,The office is no place for your pillow talk!,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,567
 1054,"I'm Som Nambulist, your productivity consultant.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,567
-1054,It helps me get a jump on the traffic,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,567
+1054,It helps me get a jump on the traffic,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,567
 1054,I warned you that we're going to the mattresses on this.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,Hopefully the home office deduction still exists in the new tax code!,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
 1054,The bed got up on the wrong side of me this morning.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,567
@@ -3414,20 +3414,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,I know I get much too wrapped up in my work.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Why does the car pool have to start so early?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,My wife complains that I take my home to work with me.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,You're angry? I've been up all night!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,You're angry? I've been up all night!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"The rent is right, but it doesn't include any utilities.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,My doctor prescribed a sleeping pillow.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"But dad, I was only one minute late yesterday!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Why can't we just have all the meetings on PST?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I work from home!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,He says to keep an eye out for a much larger white metaphor.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,He says to keep an eye out for a much larger white metaphor.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"Hoverboard, man!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Hello! Irony.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Single use or the all inclusive upscale model?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Then they dragged me out of international business class because United overbooked again.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,Wait till you see who is in here with me!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,Wait till you see who is in here with me!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"Don't look at me that way, do you know how difficult it is to hold this pillow up?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,Okay! My next cup will be decaf.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,Okay! My next cup will be decaf.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,I do *not* sleep on the job!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,You're the one who said I need to relax more.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,So which part of 'One Bed Apartment' did you not understand?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3447,13 +3447,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,"Yes I know, but I couldn't face getting out of bed this morning.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Bedouin! Bed-you-in! Get it?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Gimme a break. I just got in from the airport, and it's three A.M. The spreadsheet can wait till tomorrow.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,Get tickets for Billy Joel at the Garden. That is all. Goodnight!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,Get tickets for Billy Joel at the Garden. That is all. Goodnight!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,You're just jealous you didn't think of it first.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I thought working from home would be less stressful.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,You're unhappy? I'm the one who has to spend to spend work in bed!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,No! No! NO! I couldn't get out because of OBAMA!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I do my best work under the sheets.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,"But it's the latest thing, Mr. Chamberlain....the ""Power Nap Pro to Go!""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,"But it's the latest thing, Mr. Chamberlain....the ""Power Nap Pro to Go!""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,Can you believe she left me for her yoga teacher?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Dad, I AM up!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,It's how I handle the rest of my work.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3499,7 +3499,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,I'm home. I'm working. We have a policy.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Now this is how you power nap.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I'm opening a home office!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,They were out of magic carpets!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,They were out of magic carpets!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,I was not sleeping on the job! Prove it!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Sir, we have to keep up with current trends in employee perks. HR and I love this one.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Didn't you say that today was take your bed to work day?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3540,7 +3540,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,I sublet my office to myself.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"I've gone to the mattresses. Now, about that canolli...",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Bring your mattress to work day was a joke Bill.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,This new insurance sick day policy crap has really gotten ridiculous!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,This new insurance sick day policy crap has really gotten ridiculous!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,I call it 'Snooze-a-Communiting' -- and a side benefit is I don't have to buy pants.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Untuck me or I'll call the pilot!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,You can't sack me,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3583,7 +3583,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,Dang it Jim I said on the desk not the wall!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,So where do I put my change of underwear you cheapskate!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Bedder business enough for you?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,What? I just couldn't find my pants!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,What? I just couldn't find my pants!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"You told me to do the report, but I insisted that I would sleep on it.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,This our blanket offer!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,567
 3396,"It's the new baggage class, where you never encounter a flight attendant.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3604,13 +3604,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,"Sorry boss, I just couldn't get out of bed this morning. But hey - I'm here!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"What, like you don't hate Mondays?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Chill out! It's casual Friday.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,"Look sir, I'm trying to work overtime here.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,"Look sir, I'm trying to work overtime here.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,It's alternative business casual.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Love my Murphy bed Travel Pro upgrade.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"I'm bedded to my work, sir.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,We could market this as a new perk for our executive team,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,So you've never done anything out of order?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,You told me to rethink my work-life balance!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,You told me to rethink my work-life balance!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,My wife's lucky - she works nights.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Damn if i'm gonna pay a hotel to get untucked.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"I call this 'Business Up Top, Party in the Sack.'",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3641,7 +3641,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,I told you i'm a standup guy with a tireless work ethic!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Have you seen my bed? I've been looking all over for it.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"If I'm going to working late so often, I need a bigger office door.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,I do not feel this ensemble is inappropriate for work.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,I do not feel this ensemble is inappropriate for work.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"I can work with a broken foot, I just ran out of Vicodin.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,It's the best way to fall asleep in a meeting.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I'm tired of relaxing.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3660,7 +3660,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,"Murphy, your bed is malfunctioning again.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Frequent powernaps!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,The doctor said it would clear up in three-and-a-half to eight years.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,"I'm not leaving, until you hear me out!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,"I'm not leaving, until you hear me out!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,I can live with mandatory recess but not the nap time.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"It's a new concept, bed and business.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"A little R&R is part of multi-tasking, eh?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3685,7 +3685,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,I got here as fast as I could!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,8 unproductive hours each night? No way to get ahead!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,My wife says that I'm a good salesman in bed.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,"Okay, this is great for first class but where's the plane?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,"Okay, this is great for first class but where's the plane?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,Any rumors you've heard about me sleeping on the job are simply not true.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Dialed the sleep number to zero, feeling great every morning!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I had a real hard time getting out of bed this morning.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3702,7 +3702,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,"With this arrangement, I can bill more hours!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Of course I was in the Military!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I'm not sleeping on the job. I'm on the job while I'm sleeping.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,What do you mean there's no such thing as tempur-pedic coffee?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,What do you mean there's no such thing as tempur-pedic coffee?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"You said ""personal time."" Is this it?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,This office needs to revisit its idea of a 'stay-cation'!!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Why?...Because I didn't want to get out of the wrong side of bed.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3729,8 +3729,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,"If standing is the new sitting, then napping is the new standing.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"I've foregone undressing and lowering my Murphy bed in eager anticipation, what do you mean you forgot to prepare a bedtime story?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,What do you mean I'm late?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,"It's a commentary on the business of art, I call it ""In Bed with Rauschenberg"".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
-3396,"All I heard from you was ""Stay in bed Frank."" I'm not sure what your problem is.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,"It's a commentary on the business of art, I call it ""In Bed with Rauschenberg"".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
+3396,"All I heard from you was ""Stay in bed Frank."" I'm not sure what your problem is.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"Bed rest, my ass!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,You insisted that that I should be insanely well prepared for a long meeting!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Fake News! ""Meme Confronts Maker: Demands Longer Life Span!""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3763,7 +3763,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,Hey I told you I don't want to get out of bed on Mondays,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Here is compension for the inconvience.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,My pants are still at the dry cleaner.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,"These hedge fund guys hire three or four of us at one time and the first to spring them from the slammer gets an ""annual bonus"".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,"These hedge fund guys hire three or four of us at one time and the first to spring them from the slammer gets an ""annual bonus"".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,Haven't you ever seen a Murphy Desk!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I know. I'm late. I just couldn't get out of bed.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Needless to say this is ""AbSerta"".",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3800,7 +3800,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,The job description said undercover.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Okay, call me in about an hour, please.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,We hired a new ergonomics consultant.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,I'm practicing for my trip to Tokyo.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,I'm practicing for my trip to Tokyo.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,So I overslept a bit. You don't need to make a federal case of it!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"So, I like my bedhead like I like my coffee, authentic, organic, and fresh.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I take my home work with me,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3815,7 +3815,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,"That's right, called in on home office day.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Scoff if you must, but I'm ready for anything. Plus, it saves on the commute (and on pants).",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I can work 24 hrs a day. That's it!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,"There must be a better way of saying ""no sleeping on the job""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,"There must be a better way of saying ""no sleeping on the job""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,You can get these almost for free on Deal Dash dot com,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Hey boss. Bring me my Depends and I'm good for the night.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"If you need to contact me, I will be staying at my usual ""air-mattressBnB.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,567
@@ -3844,7 +3844,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,My plan is to fit into the overhead compartment.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"If I'm gonna make Phi Beta Kappa, I gotta have a bigger room.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Multitasking.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,I'm tucked.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,I'm tucked.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"But you said office attire was ""business casual""!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,This is for the busy executive who wants to rest on the go.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Your speaking could disrupt my mastery of time management.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3870,13 +3870,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,"Those mattress, sheets and pillow commercials are seductive.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Sorry I'm late. I had a hard time getting up this morning.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,It makes my New Jersey Transit ride into Penn Station more palatable.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,I've been promoted to your bed.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,I've been promoted to your bed.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"Well then, apparently I didn't understand what you meant by ""get some rest"" and ""we need you to work extra hard starting now into the unforeseeable future.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Look, you said I could sleep during office hours as long as I was standing up.",1.0,0.04256282653793743,24.0,24.0,0.0,0.0,567
 3396,You're probably wondering how I fit in the elevator.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Oh, you want one, too. Is that it!?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,"If you think this is efficient, I'm also wearing diapers.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
-3396,Are the figures ready? No... But I did sleep at a Holiday Inn last night.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,"If you think this is efficient, I'm also wearing diapers.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
+3396,Are the figures ready? No... But I did sleep at a Holiday Inn last night.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,What? I thought you would be into the whole Wolf from Wall Street role-play!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,You said business- casual Friday!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"In the future, maybe a little less starch?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3890,13 +3890,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,It was either the Mobile Murphy or no Continental breakfast!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"What do you think this is, a cold formula commercial?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"I don't need to explain myself to you Jones, now call a locksmith and get me my 3rd quarter projections",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,I'm not ready to put the issue to bed!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,I'm not ready to put the issue to bed!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"What am I, a stand-up comedian?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"I'd like you to find the guest who removed the ""do not disturb"" sign.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,They overbooked the bed and breakfast too.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Well this USED TO BE the only place I got 8 hours uninterrupted!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Multitasking.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,Seriously... It's Egyptian 800 thread count!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,Seriously... It's Egyptian 800 thread count!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,What? They put me on night shift.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Sorry, my twin won't leave me alone.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,You said 'casual Friday.',1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3911,17 +3911,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,This is how I get a quick start to my day,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Is this your idea of working from home?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,567
 3396,I nap while working ~ sleep less and work more.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,Oh yeah? Well I quit!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,Oh yeah? Well I quit!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,I said no tuck!!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,See? Men can have it all too!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,My portable home office,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,Wait'll you see it turn into a desk.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
-3396,I can't take many more all nighters!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,Wait'll you see it turn into a desk.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
+3396,I can't take many more all nighters!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,Get Murphy in here!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Don't you realize I need to rest?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Hey, can you help me out of this giant's pocket liner?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,Don't you want me to be more productive?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
-3396,Sleeping on the job can be hard on one's back.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,Don't you want me to be more productive?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
+3396,Sleeping on the job can be hard on one's back.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,Marsha gets to use a Sit-To-Stand!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Now, this is what I meant by ""multitasking"". Got it?",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,567
 3396,Galileo had skeptics too. I'm telling you - my new invention is going to change tele-commuting from this point forward!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3941,7 +3941,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,Our productivity initiative is making huge progress but for the remaining bottleneck problem at subway turnstiles.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"But you said ""Business Casual.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,This puts our company's vertical integration to bed.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,"Then she said, ""I'll bet you don't forget to pick up my tampons THIS time!""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,"Then she said, ""I'll bet you don't forget to pick up my tampons THIS time!""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"It's a bed Segway, my own design.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Don't get mad. It's the only way I can dream up solutions.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,It's our new efficiency program.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3965,7 +3965,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,But I'm allowed a carry-on.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"... And, if hired, I promise to work 24/7!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Well I'm sorry I forgot to bring home the bacon!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,I love this! No need to leave my bed for our boring meetings anymore.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,I love this! No need to leave my bed for our boring meetings anymore.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,My Mom said it was OK!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"What do you mean ""I should have stayed at a Holiday Inn Express last night?""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,It's called United Airlines First Class.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -3996,7 +3996,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,"I said, give me my teddy, and I'll be your best sleeper agent!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I'm taking power napping to a whole new level.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Working from home today?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,Can't a guy sleep in a little bit around here?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,Can't a guy sleep in a little bit around here?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,I'm taking casual day to a new level.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,So what? Bruce has a treadmill desk!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Still beats commuting.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -4137,7 +4137,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,'I hate getting out of bed in the morning.',1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Well you won't let me work from home!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,And you say I can't do my job from bed.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,"I'm not saying that coffee can't do miracles, but maybe it isn't cut out for this particular job.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,"I'm not saying that coffee can't do miracles, but maybe it isn't cut out for this particular job.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"My Fitbit says I'm not getting enough sleep at night, so I added a power nap coffee break!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Of course I can get you a container for anything.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,This is not business class with benefits!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -4147,7 +4147,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,"You heard me, I'm not taking this lying down.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Have you tried commuting from Brooklyn?!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I must have dozed off during the meeting.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,"Work from home you said, bed IS my home",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,"Work from home you said, bed IS my home",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,You're fired. For inefficiency.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,567
 3396,As long as I'm comfortable who gives a sheet?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Yes, I now feel ready to go to work on time, but I still can't seem to get out of bed.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -4207,7 +4207,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,Then suddenly my whole career was put to bed.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,All this for a lousy 38 thousand a year.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,This wasn't what I meant when I said we needed to make more blanket loans.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,"If you must know, I'm moonlighting as a mattress tester.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,"If you must know, I'm moonlighting as a mattress tester.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"You see, it doesn't suit me!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,But I don't want to go to marriage counseling!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"So, I was in a rush... AND had my hands full...",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -4246,7 +4246,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,"It's Murphy's law, you fool.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I don't care what Trump says.... keeping me here is not going to bring back the coal industry.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,But I don't have a daughter!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,Prepare to launch,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,Prepare to launch,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,You lie!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Really, Mr. Murphy, I've been working on your taxes day and night.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I want to work at home!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -4262,7 +4262,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,I got the idea from Seinfeld. Giddyup.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Because I'm late to my 9 o'clock and my legs are still asleep!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"And I said 'Who cares if nobody else can fit in the elevator, the doctor said I need bed rest!'",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,I got tired of just stealing your towels .,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,I got tired of just stealing your towels .,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,Now I know why you are the first one at the office every morning.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,HR told me that a sit-down meeting is considered sexual harassment.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Pet?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -4279,7 +4279,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,I thought we were in this together.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,The dog ate my pants.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Can you believe he said I needed to adjust my work-life balance?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,I really needed a house call.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,I really needed a house call.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,We will make millions promoting this way of resting.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"No."" It does not enhance 'available 24/7.'",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,This is certainly a unique interpretation of the firm's BYOD policy.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -4344,7 +4344,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,They said it's part of their new pre-re-accommodation program.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"It also comes in a Double, Queen and King, for small meetings.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"See? Business and Beer. I am a stand-up, 24/7 guy.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,Learning to operate in this position will prepare me for future space travel,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,Learning to operate in this position will prepare me for future space travel,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"Just in terms of workflow, having to lie in the bed AFTER I've made the bed seems ill advised.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Seriously, no problem boss.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,What? No wireless?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -4353,7 +4353,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,"Efficiency is my name, 24-7 is my game.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,These 24/7 meetings stink!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,Did you have that dream again where you didn't shit the bed?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,"Murphy, how are the investors going to hear my pitch if I'm trapped?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,"Murphy, how are the investors going to hear my pitch if I'm trapped?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,This is how I roll!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I call it multi-tasking.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,I thought you liked multitasking!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
@@ -4387,7 +4387,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3396,"I don't care what the editors say. I don't lie down; I lay down. In fact, if I choose, I lay up.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,No! I said: too bad that I can't get an app for sex.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,What did you expect from a guy named Murphy?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
-3396,I'm on call 24/7--you got a problem with that!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,567
+3396,I'm on call 24/7--you got a problem with that!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,567
 3396,"It keeps me ready, okay!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Quick power nap, then I'm good to go.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567
 3396,"Well, you asked me to get it done, even if I had to stay all night.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,567

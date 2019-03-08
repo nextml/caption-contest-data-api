@@ -1,9 +1,9 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1,"Yes, I see the train but I think we can beat it.",2.081543502002184,0.015514813069772596,2747.0,805.0,913.0,1029.0,582
 2,"Well technically, you ran the red light.",2.0571578395385424,0.01732326532030209,1907.0,494.0,810.0,603.0,582
-3,I'll order. You pick up.,2.048738532110092,0.018090828028375527,1744.0,457.0,745.0,542.0,582
+3,I'll order. You pick up.,2.0487385321100917,0.018090828028375527,1744.0,457.0,745.0,542.0,582
 4,We finished in first and third place.,2.0201380897583427,0.01792780578559215,1738.0,468.0,767.0,503.0,582
-5,"You can knock off the heavy breathing back there, Gwendolyn. I know you're not pedaling.",1.99092970521542,0.016215282143527417,2205.0,649.0,927.0,629.0,582
+5,"You can knock off the heavy breathing back there, Gwendolyn. I know you're not pedaling.",1.9909297052154198,0.016215282143527417,2205.0,649.0,927.0,629.0,582
 6,This would be a lot easier if you dropped the restraining order.,1.9494736842105265,0.018472093111190368,1900.0,666.0,664.0,570.0,582
 7,"I'll place the order, you pick up",1.9379679144385027,0.02482985279182548,935.0,300.0,393.0,242.0,582
 8,"""I told you it was a long bike ride."" - Arman Roberts, age 6",1.9375,0.02382876552374889,1120.0,393.0,404.0,323.0,582
@@ -15,7 +15,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 14,We are not doing a wheelie. Don't call me again.,1.87374749498998,0.02560009917102085,998.0,397.0,330.0,271.0,582
 15,"Since you'll be home first, can you start dinner?",1.8714788732394363,0.0321854075245008,568.0,208.0,225.0,135.0,582
 16,"When you say ""turn here,"" is that your ""here"" or my ""here""?",1.87085635359116,0.0193295066577084,1448.0,497.0,641.0,310.0,582
-17,What do you mean--a metaphor for our relationship?,1.861892583120205,0.02800767903640724,782.0,301.0,288.0,193.0,582
+17,What do you mean--a metaphor for our relationship?,1.8618925831202051,0.02800767903640724,782.0,301.0,288.0,193.0,582
 18,Pothole in 10 seconds.,1.8490384615384616,0.02225736706675562,1040.0,358.0,481.0,201.0,582
 19,You seem distant today.,1.8129251700680271,0.04605478237554151,294.0,124.0,101.0,69.0,582
 20,"Hi, it's me. I'm running a little behind.",1.7912457912457913,0.043852343350203216,297.0,122.0,115.0,60.0,582
@@ -33,7 +33,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 32,"No, we're not there yet!",1.6908602150537635,0.027197346767267042,744.0,355.0,264.0,125.0,582
 33,I think I can make the light.,1.6891719745222933,0.02686432086693951,785.0,382.0,265.0,138.0,582
 34,"When I arrive, I'll tell them you're coming.",1.682367149758454,0.024152946395121583,828.0,373.0,345.0,110.0,582
-35,"Remember, no more yellow lights.",1.6757940854326396,0.024259439575837892,913.0,441.0,327.0,145.0,582
+35,"Remember, no more yellow lights.",1.6757940854326396,0.02425943957583789,913.0,441.0,327.0,145.0,582
 36,"Next time, we go to the bike shop, not one of those big chain stores.",1.6707132018209407,0.03027870977531868,659.0,343.0,190.0,126.0,582
 37,That's weird. I've got four bars.,1.6636904761904765,0.028489912441575237,672.0,334.0,230.0,108.0,582
 38,Pull up your shorts.,1.6625463535228675,0.027791504519057004,809.0,435.0,212.0,162.0,582
@@ -60,10 +60,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 59,It's clear we've grown further apart.,1.5952380952380951,0.03642473306666677,378.0,202.0,127.0,49.0,582
 60,"Its on our way. How about, I order the pizza but you have to pick it up?",1.5932203389830508,0.03510227062559053,413.0,223.0,135.0,55.0,582
 61,"Wait a second, you'll see.",1.5928571428571427,0.03482120090786719,420.0,227.0,137.0,56.0,582
-62,Hold your breath in about two seconds.,1.591687041564792,0.03637636847929646,409.0,228.0,120.0,61.0,582
+62,Hold your breath in about two seconds.,1.5916870415647921,0.03637636847929646,409.0,228.0,120.0,61.0,582
 63,Pick up the pace. You're falling behind.,1.5913461538461535,0.0368576311691972,416.0,237.0,112.0,67.0,582
 64,Call when you get there.,1.5912408759124088,0.03473651572362201,411.0,220.0,139.0,52.0,582
-65,I'm in front so of course I'm going faster than you.,1.5859375,0.039301109791965334,384.0,226.0,91.0,67.0,582
+65,I'm in front so of course I'm going faster than you.,1.5859375,0.03930110979196533,384.0,226.0,91.0,67.0,582
 66,"What do you mean, 'We've grown apart'?",1.5829015544041452,0.035172596846587224,386.0,206.0,135.0,45.0,582
 67,I can't hear you. Text me!,1.5694444444444444,0.048880299339391024,216.0,122.0,65.0,29.0,582
 68,Let me get back to you.,1.5640243902439024,0.03941840173997799,328.0,186.0,99.0,43.0,582
@@ -81,7 +81,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 80,Get ready. I'm going to pop a wheelie.,1.5412186379928314,0.04327852149654884,279.0,166.0,75.0,38.0,582
 81,People are starting to notice we're separated.,1.539855072463768,0.040834766859765684,276.0,156.0,91.0,29.0,582
 82,Melania invented it.,1.5370370370370368,0.04768200196837191,270.0,174.0,47.0,49.0,582
-83,Let's hope we find a place to turn around before dusk.,1.5325670498084292,0.041161514348162134,261.0,147.0,89.0,25.0,582
+83,Let's hope we find a place to turn around before dusk.,1.5325670498084292,0.04116151434816213,261.0,147.0,89.0,25.0,582
 83,They all say you aren't pedaling!,1.5325670498084292,0.04291424565061922,261.0,152.0,79.0,30.0,582
 85,I don't get it. How much more space do you need?,1.5296442687747036,0.04097203173086558,253.0,141.0,90.0,22.0,582
 85,There's a drawbridge ahead. Good luck to you.,1.5296442687747036,0.04356942230812765,253.0,148.0,76.0,29.0,582
@@ -118,7 +118,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 116,We're now both exiting and entering Rhode Island.,1.4775280898876404,0.05051946004578002,178.0,111.0,49.0,18.0,582
 118,It was you who wanted a trial separation.,1.4745762711864407,0.050081979923231,177.0,110.0,50.0,17.0,582
 119,I thought I told you never to call me here.,1.4709302325581397,0.051778728173269714,172.0,109.0,45.0,18.0,582
-119,Let's eat inside. The drive-thru is a real pain.,1.4709302325581397,0.05044836745854767,172.0,107.0,49.0,16.0,582
+119,Let's eat inside. The drive-thru is a real pain.,1.4709302325581397,0.050448367458547666,172.0,107.0,49.0,16.0,582
 121,Let the brake off.,1.4705882352941178,0.05353918355746256,170.0,110.0,40.0,20.0,582
 121,"I understand, but legally I don't have to stop at a yellow light.",1.4705882352941178,0.05087228714047126,170.0,106.0,48.0,16.0,582
 121,Siri says make a u-ey.,1.4705882352941178,0.05087228714047126,170.0,106.0,48.0,16.0,582
@@ -148,7 +148,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 147,"I know the judge said 50 feet, but this is ridiculous.",1.4368932038834952,0.06712658259671728,103.0,69.0,23.0,11.0,582
 148,"No Dear, I cherish our together time....",1.4357142857142855,0.05572166393815257,140.0,92.0,35.0,13.0,582
 149,Run one more yellow light and I'm filing for a divorce!,1.4338235294117647,0.05393270829674189,136.0,87.0,39.0,10.0,582
-149,Trust me. It's straight the whole way.,1.4338235294117647,0.04972933919455293,136.0,83.0,47.0,6.0,582
+149,Trust me. It's straight the whole way.,1.4338235294117647,0.049729339194552934,136.0,83.0,47.0,6.0,582
 149,"Wanted to warn you, in 5 seconds you may smell something.",1.4338235294117647,0.06059095854446371,136.0,94.0,25.0,17.0,582
 152,"Slow down, turn left, watch out for the dog, are you listening?",1.4296296296296296,0.058107942426101324,135.0,91.0,30.0,14.0,582
 153,Try to keep up.,1.4285714285714286,0.055753209787899057,133.0,87.0,35.0,11.0,582
@@ -265,7 +265,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 257,But we ARE doing an activity together right now and this IS talking.,1.3522727272727273,0.06864826514209985,88.0,65.0,15.0,8.0,582
 257,You should of thought of that before we headed to Lombard Street.,1.3522727272727273,0.06671844787737746,88.0,64.0,17.0,7.0,582
 257,"I know the therapist said to balance being alone and in tandem, but this is ridiculous",1.3522727272727273,0.07413692309896043,88.0,68.0,9.0,11.0,582
-257,"About 75 degrees, slight wind. How is it back there?",1.3522727272727273,0.056081959558290984,88.0,59.0,27.0,2.0,582
+257,"About 75 degrees, slight wind. How is it back there?",1.3522727272727273,0.05608195955829098,88.0,59.0,27.0,2.0,582
 268,I love it when we spend quality time together.,1.3488372093023255,0.0697218273136729,86.0,64.0,14.0,8.0,582
 268,I think this cartoon is Somewhat Funny. How are you voting?,1.3488372093023255,0.06773134719419151,86.0,63.0,16.0,7.0,582
 268,We're In a long distance relationship,1.3488372093023255,0.063563667061499,86.0,61.0,20.0,5.0,582
@@ -3187,7 +3187,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2953,I'm afraid I have to end this date; you seemed a lot taller before we got started.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,582
 2953,I don't think the long distance is working.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,582
 2953,My idea? You're breaking up.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,582
-2953,"Hey Larry, could pull your weight back there? You remember what happened to ""Middle Man"" Eddie.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,582
+2953,"Hey Larry, could pull your weight back there? You remember what happened to ""Middle Man"" Eddie.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,582
 2953,When I looked-left and the corner I noticed .... you wore the wrong cycling shirt again.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,582
 2953,Absence makes the heart grow fonder.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,582
 2953,"Honey, it's great you're showing an interest in my hobby, but it's not bringing us any closer together.",1.0,0.05716619504750295,18.0,18.0,0.0,0.0,582
@@ -3377,7 +3377,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2953,I’m so evil. I’m so stupid.” “Kill me. Please don’t kill me.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,582
 2953,What do you call a married couple on a tandem bike? Divorced.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,582
 2953,Hey Mary... what do you say we stop by Marineworld and pick up that great little canoe we saw last week?,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,582
-2953,"You should know, I'm Bi-Cyclual",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,582
+2953,"You should know, I'm Bi-Cyclual",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,582
 2953,"No, those shorts STILL make you ass look fat.",1.0,0.060633906259083235,17.0,17.0,0.0,0.0,582
 2953,Pothole coming your way.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,582
 2953,Well here's that fork on the road. You go left and I 'll go right and will meet up later.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,582

@@ -3,7 +3,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2,Call him Ishmeow.,1.7448770491803278,0.025882376637258786,976.0,475.0,275.0,226.0,566
 3,The Canary Islands? Who told him we should go there?,1.7358490566037736,0.038250867954302055,424.0,202.0,132.0,90.0,566
 4,Am I the only one who misses the parrot?,1.7054507337526206,0.02486777960368746,954.0,463.0,309.0,182.0,566
-5,Well what do you think happened to the parrot?,1.6833855799373039,0.0417738642225026,319.0,155.0,110.0,54.0,566
+5,Well what do you think happened to the parrot?,1.683385579937304,0.0417738642225026,319.0,155.0,110.0,54.0,566
 6,"That's Ahab's brother, Rehab. He's in pet therapy.",1.6737739872068231,0.02639164881709177,938.0,509.0,226.0,203.0,566
 7,Apparently the cat cost him an arm and a leg.,1.67109634551495,0.044452936303737485,301.0,155.0,90.0,56.0,566
 8,He calls it Ishmeow,1.6596736596736597,0.026506569935430872,858.0,454.0,242.0,162.0,566
@@ -47,9 +47,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 46,"Like I always say, you're either a cat person or a great white whale person.",1.4693877551020411,0.0421751481260348,294.0,196.0,58.0,40.0,566
 47,I say we still go ahead with the mutiny.,1.4666666666666666,0.04231579848881682,285.0,189.0,59.0,37.0,566
 48,He calls it Moby Lick.,1.465346534653465,0.049193642134389065,202.0,132.0,46.0,24.0,566
-49,Doesn't he ever wonder what ate his parrot?,1.4623655913978495,0.04269046055464407,279.0,186.0,57.0,36.0,566
+49,Doesn't he ever wonder what ate his parrot?,1.4623655913978495,0.042690460554644066,279.0,186.0,57.0,36.0,566
 50,"Look, all I'm saying is that I think a hook is more intimidating.",1.4620938628158844,0.04261687705725399,277.0,184.0,58.0,35.0,566
-51,It keeps his mind off whales,1.45985401459854,0.04105152359711448,274.0,177.0,68.0,29.0,566
+51,It keeps his mind off whales,1.4598540145985401,0.04105152359711448,274.0,177.0,68.0,29.0,566
 52,This is going to wreck our brand.,1.4566037735849056,0.0423965703065669,265.0,174.0,61.0,30.0,566
 53,I don't think the new guy gets the whole 'bloodthirsty' thing.,1.4562737642585548,0.04263393348157432,263.0,173.0,60.0,30.0,566
 54,"Teaching Polly to say ""Here kitty"" was a terrible idea.",1.4549180327868851,0.042778447695937936,244.0,157.0,63.0,24.0,566
@@ -67,10 +67,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 66,"I don't care what the captain says, I won't shout out, ""Thar she purrs!""",1.4303797468354431,0.054149056708913436,158.0,107.0,34.0,17.0,566
 67,Quite frankly I feel like he's lost his edge.,1.4285714285714286,0.04505379224596762,217.0,145.0,51.0,21.0,566
 67,Call me Ishmeow'el.,1.4285714285714286,0.04781067433943445,217.0,151.0,39.0,27.0,566
-69,Should we make him walk the plank or clean the litter box?,1.4279069767441859,0.045828497785681516,215.0,145.0,48.0,22.0,566
+69,Should we make him walk the plank or clean the litter box?,1.427906976744186,0.045828497785681516,215.0,145.0,48.0,22.0,566
 70,Worst prequel ever.,1.4230769230769231,0.04837791325516391,208.0,145.0,38.0,25.0,566
-71,We both know what happened to Petey. Parrots don't just fly away.,1.417910447761194,0.04755084275245966,201.0,138.0,42.0,21.0,566
-72,I'll mutiny before I call him 'cat'n.',1.416243654822335,0.048777667630142664,197.0,137.0,38.0,22.0,566
+71,We both know what happened to Petey. Parrots don't just fly away.,1.4179104477611941,0.04755084275245966,201.0,138.0,42.0,21.0,566
+72,I'll mutiny before I call him 'cat'n.',1.416243654822335,0.04877766763014266,197.0,137.0,38.0,22.0,566
 73,"If you do turn this into a novel, Herman, you might want to change a few details.",1.4153846153846157,0.050205458427122325,195.0,138.0,33.0,24.0,566
 73,I prefer sea dogs.,1.4153846153846157,0.04580003605932912,195.0,130.0,49.0,16.0,566
 73,"We get more ""likes"" when he's holding the cat.",1.4153846153846157,0.048053258780822325,195.0,134.0,41.0,20.0,566
@@ -94,7 +94,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 91,He calls it Ishmeow,1.3977272727272727,0.05101536912204789,176.0,125.0,32.0,19.0,566
 94,It explains the box on the poop deck.,1.3953488372093024,0.05186455407035079,172.0,123.0,30.0,19.0,566
 94,I think we've lost some of our swagger.,1.3953488372093024,0.047052478966425115,172.0,116.0,44.0,12.0,566
-94,Cap'n changed after he read TS Elliot,1.3953488372093024,0.051204809470517414,172.0,122.0,32.0,18.0,566
+94,Cap'n changed after he read TS Elliot,1.3953488372093024,0.05120480947051741,172.0,122.0,32.0,18.0,566
 97,I guess we'll be hunting tuna now.,1.3928571428571428,0.05275130241339858,168.0,121.0,28.0,19.0,566
 98,"Remember when they used to call us ""bloodthirsty?""",1.391566265060241,0.048167664142761336,166.0,113.0,41.0,12.0,566
 98,"Well, call me Ishmew.",1.391566265060241,0.054564622422590914,166.0,122.0,23.0,21.0,566
@@ -103,7 +103,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 100,Apparently my parrot was too loud.,1.3865030674846626,0.04870912088602549,163.0,112.0,39.0,12.0,566
 100,"I dare you to shout, ""Thar she meows!""",1.3865030674846626,0.049480489281416525,163.0,113.0,37.0,13.0,566
 104,It's actually very simple; he's nuts.,1.3858267716535433,0.05920698715856916,127.0,91.0,23.0,13.0,566
-105,The captain isn't going to like the treasure it buried.,1.3855421686746987,0.05103002616913079,166.0,118.0,32.0,16.0,566
+105,The captain isn't going to like the treasure it buried.,1.3855421686746987,0.051030026169130785,166.0,118.0,32.0,16.0,566
 105,Do you think he realizes that peg leg is nothing but a scratch post?,1.3855421686746987,0.049578471845818366,166.0,116.0,36.0,14.0,566
 107,"No shark. No, 'twas mice what ate his leg.",1.3846153846153846,0.05101252579888596,156.0,109.0,34.0,13.0,566
 108,"Aye, he's much been better since he dumped the comfort whale.",1.3836477987421385,0.050314465408805034,159.0,111.0,35.0,13.0,566
@@ -122,7 +122,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 121,"So, he still hasn't figured out what happened to the parrot?",1.3716216216216215,0.056136902731296484,148.0,110.0,21.0,17.0,566
 122,Nothing's been the same since he got that complimentary Green Peace tote bag.,1.3698630136986298,0.05499490991187378,146.0,107.0,24.0,15.0,566
 122,"When the story's told, let's make it whale rather than a cat.",1.3698630136986298,0.0575139987314723,146.0,110.0,18.0,18.0,566
-122,His parrot left him for another pirate.,1.3698630136986298,0.054129167783419266,146.0,106.0,26.0,14.0,566
+122,His parrot left him for another pirate.,1.3698630136986298,0.05412916778341927,146.0,106.0,26.0,14.0,566
 125,We haven't caught a thing since he joined AARP.,1.3680555555555556,0.055528232402997126,144.0,106.0,23.0,15.0,566
 125,We'll resume the whale hunt once cuddle time is over.,1.3680555555555556,0.0528394672799222,144.0,103.0,29.0,12.0,566
 127,I really thought he was a whale person.,1.3669064748201438,0.052209930592511375,139.0,98.0,31.0,10.0,566
@@ -144,17 +144,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 140,"If I had my own built-in scratching post, cats would follow me too.",1.3533834586466165,0.056675064770256335,133.0,99.0,21.0,13.0,566
 140,The whale got his leg. The cat got his tongue.,1.3533834586466165,0.05357517584716371,133.0,96.0,27.0,10.0,566
 140,"""Puritan chic. Last month he was a Viking. Can't just wear a bandanna and eye patch like everyone else."" .",1.3533834586466165,0.05767134585966844,133.0,100.0,19.0,14.0,566
-146,Three days of chasing and he finally captures the great white cat,1.3511450381679388,0.054102037219083784,131.0,95.0,26.0,10.0,566
+146,Three days of chasing and he finally captures the great white cat,1.3511450381679388,0.05410203721908378,131.0,95.0,26.0,10.0,566
 146,I've got a ball of yarn. I could say it's from the both of us.,1.3511450381679388,0.05517671830900627,131.0,96.0,24.0,11.0,566
-146,Well I heard he was allergic to parrots,1.3511450381679388,0.054102037219083784,131.0,95.0,26.0,10.0,566
-146,Apparently he calls him Ishmael.,1.3511450381679388,0.054102037219083784,131.0,95.0,26.0,10.0,566
+146,Well I heard he was allergic to parrots,1.3511450381679388,0.05410203721908378,131.0,95.0,26.0,10.0,566
+146,Apparently he calls him Ishmael.,1.3511450381679388,0.05410203721908378,131.0,95.0,26.0,10.0,566
 146,"... And there's treasure buried in her litter box, or so they say.",1.3511450381679388,0.05517671830900627,131.0,96.0,24.0,11.0,566
 151,He's gotten more pussy than both of us combined.,1.3488372093023255,0.06191701238990679,129.0,101.0,11.0,17.0,566
 151,We're going to need a litter box on the poop deck,1.3488372093023255,0.055740221001045184,129.0,95.0,23.0,11.0,566
 151,We should take away his copy of 'The Life of Pi.',1.3488372093023255,0.058909628502211875,129.0,98.0,17.0,14.0,566
-154,So he finally settles for a Great White Cat. Pathetic.,1.346456692913386,0.052885673699763484,127.0,91.0,28.0,8.0,566
-154,Could it be that he's ready to move on?,1.346456692913386,0.05519839885887648,127.0,93.0,24.0,10.0,566
-154,"Yeah... I don't think you're getting your cat back, Dave.",1.346456692913386,0.05519839885887648,127.0,93.0,24.0,10.0,566
+154,So he finally settles for a Great White Cat. Pathetic.,1.3464566929133859,0.052885673699763484,127.0,91.0,28.0,8.0,566
+154,Could it be that he's ready to move on?,1.3464566929133859,0.05519839885887648,127.0,93.0,24.0,10.0,566
+154,"Yeah... I don't think you're getting your cat back, Dave.",1.3464566929133859,0.05519839885887648,127.0,93.0,24.0,10.0,566
 157,He has a scratching post for a leg.,1.344,0.05460001181613956,125.0,91.0,25.0,9.0,566
 157,How are we supposed to get to North Korea if we have to sail to Mar-a-Lago every weekend?,1.344,0.058036695844234015,125.0,94.0,19.0,12.0,566
 157,Cats love him. They call him Fishmael.,1.344,0.05460001181613956,125.0,91.0,25.0,9.0,566
@@ -367,16 +367,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 362,Ahab has mellowed since he started taking Prozac.,1.2597402597402598,0.056687428890267476,77.0,59.0,16.0,2.0,566
 362,You tell him what happened to his parrot.,1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,566
 362,He's just not fitting in.,1.2597402597402598,0.06510572243024297,77.0,62.0,10.0,5.0,566
-362,Cats love him. He's got a gentle touch and a built-in scratching post.,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,566
+362,Cats love him. He's got a gentle touch and a built-in scratching post.,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,566
 362,I'm not sure about Corporate's re-branding strategy.,1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,566
 362,He went and named the little scamp Moby Dickens.,1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,566
 362,"I tell ye, Starbuck, It's an ungodly obsession with the beast.",1.2597402597402598,0.06510572243024297,77.0,62.0,10.0,5.0,566
-362,"He went from ""Arrrrr"" to ""Awwwww"" overnight.",1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,566
+362,"He went from ""Arrrrr"" to ""Awwwww"" overnight.",1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,566
 362,Hey... is that Daniel Day-Lewis?,1.2597402597402598,0.06767952860963261,77.0,63.0,8.0,6.0,566
 362,Last voyage it was gerbils.,1.2597402597402598,0.06510572243024297,77.0,62.0,10.0,5.0,566
-362,"Aye, there's them that claim he's a leprechaun.",1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,566
-362,"Yesterday he even said, ""Whale, what Whale""?",1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,566
-362,That's how he and Moby Dick were in the early days too.,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,566
+362,"Aye, there's them that claim he's a leprechaun.",1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,566
+362,"Yesterday he even said, ""Whale, what Whale""?",1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,566
+362,That's how he and Moby Dick were in the early days too.,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,566
 362,We hated that damn parrot.,1.2597402597402598,0.06767952860963261,77.0,63.0,8.0,6.0,566
 362,Maybe getting a cat to catch a parrot was a bad idea.,1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,566
 362,It's the Zoloft.,1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,566
@@ -3295,7 +3295,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,sshush pretend to be asleep,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Lets discuss your hemorrhoid results.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He was diagnosed with stage 4 termites.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,He took my spot.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,He took my spot.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,He's grown a lot since the new life coach came aboard.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"He couldn't pillage birdseed, his parrot left him, he was never the same.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,They're both a little OCD.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3333,7 +3333,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,He doesn't even mind Fluffy using it as a scratching post.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He loves that cat more than he loves me!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Cap and cat have a mutual need: Scratch my leg and I'll scratch yours.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,"He looks sweet, but Mr. Cuddles is deadly in a hand to claw battle.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,"He looks sweet, but Mr. Cuddles is deadly in a hand to claw battle.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,Ever since his parrot died he's been obsessed with that pussy!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,....and who are you?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,To the captain its whale that got away- to the cat its the lost cat food.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3344,9 +3344,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,He keeps telling her it's a fish.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Apparently, the doctors couldn’t reattach it. But he was in need of a scratching post anyway.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,A little crazy! You Think?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Hopefully it'll follow the rats off the ship.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Hopefully it'll follow the rats off the ship.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,"Don't worry, I hear he's a vegan.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,I guess the parrot didn't suit his new look.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,I guess the parrot didn't suit his new look.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,You'll never guess what he's using for a litter box!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,That bloody cat is a distraction,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,So uncool.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3354,7 +3354,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,The Captain wants a sweet potato! What's a sweet potato?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Mr. Tinkles takes his mind off the whale.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,All we got from this adventure was scurvy...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,I told him bringing a cat on a ship is bad luck.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,I told him bringing a cat on a ship is bad luck.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,"I don't care if the man seems married to his American cat, he won't get past immigration.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Should we tell Captain Ahab that Moby wasn't a duck? Nah, let Tiddles get the credit. I got a feeling about this one.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Moby Dick --no-no! Moby Dick ? No .. from now on he wants us to look for mice.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3363,7 +3363,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,We got them on sail!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,I still say the bird was more menacing.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He’s mow so old he’s lost all the swash in his buckle.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,He (the cat) is his own best friend (of the man),1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,He (the cat) is his own best friend (of the man),1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,He's lost his 'Aarg!',1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,a,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,More rats is a small price to pay for fewer executive orders.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3374,13 +3374,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,I just assumed Ahab was more of a dog person.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,That dose of Xanax has really calmed down Captain Ahab.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Is anyone going to tell him that is not what grabbing pussy means?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,The only cat who likes me for more than just my pegleg,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
-3293,"I hate to tell him, it's the only chair on board.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
-3293,There's the guy from Greenpeace.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,The only cat who likes me for more than just my pegleg,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
+3293,"I hate to tell him, it's the only chair on board.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
+3293,There's the guy from Greenpeace.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,I see the Captain brought his husband along.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Arrrggg, John's been acting differently since he went on The Bachelor.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,And that’s Captain Abe-hab,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,He couldn't just get a parrot like everyone else could he?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,He couldn't just get a parrot like everyone else could he?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,Arr! That's not what I was askin' for.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Ye poop deck sitters ain't do anything but talk to cats,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He uses it as a whip.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3390,7 +3390,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,I love the new mobile home.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Rumor has it Polly wanted stock options.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He says he's hiding from the Nobel Prize Committee.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,"""When they advertise 'flaming hot,' it looks like they mean it"".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,"""When they advertise 'flaming hot,' it looks like they mean it"".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,I don't care how long he was the captain. He shouldn't be allowed lifetime free travel.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Yes, his cat o' nine tails was more overtly menacing, but this just creeps me out.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,The Captain said if I don't shape up I'll get the cat.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3416,7 +3416,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,"Apparently, he misinterpreted the memo about Casual Friday.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Does he have a Handicap Sticker for sitting in that zone?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,I don't trust a man with big eyebrows.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Pass it along...we're changin' the cat's name from Moby to Jehovah.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Pass it along...we're changin' the cat's name from Moby to Jehovah.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,White whales are out and white cats are in from what I hear.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,They call him 'Dishonest Abe.',1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Looks like the cat dragged in one of those deplorables.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3435,9 +3435,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,Scurvy's nothing up side a potted captain.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Is grabbing them by the pussy a walk the plank-able offense?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,That's how the lion got his leg.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,"He asks us to call him ""Mr. Fluffy"".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,"He asks us to call him ""Mr. Fluffy"".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,Mr. Belligerent won't give up his seat for ye crew.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Captain says hands off. We’re not overbooked.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Captain says hands off. We’re not overbooked.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,He's calling it his therapy cat.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Have you seen Mr. Squawks ?"" ""No, and if i don't soon that's one cat that won't be coming back.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He prefers this to the Pirate Retirement Cruise.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3447,11 +3447,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,"Great,my agent sends me to audition for Waiting For Godot meets Pirates of the Caribbean!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,It's the pussycat before the piracy act.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,She is Ahab's Registered Emotional Companion.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,"I have to admit the absence of plundering surprised me. But now that you tell me the Captain named his cat Treasure, it's beginning to make more sense.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,"I have to admit the absence of plundering surprised me. But now that you tell me the Captain named his cat Treasure, it's beginning to make more sense.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,She only loves him for his leg.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"He said,""Call me for EACH MEAL!"" Guess he doesn't want the midnight buffet.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"It's a symbiotic relationship. The cat gives emotional support for the Cap'ns ""Cetacean Paranois Syndrome"".... and the cat has a scratching post.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,The old devil hasn't been the same since the results of the Georgia Special Election came in. He just sits there stroking that cat and singing nursery rhymes over and over again.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,The old devil hasn't been the same since the results of the Georgia Special Election came in. He just sits there stroking that cat and singing nursery rhymes over and over again.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,He's obsessed with the white mouse that took his leg.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"I’m tired of chasing that damned white cat, too, Mr. Starbuck!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,That's Schrodinger's cat.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3462,10 +3462,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,When the cook said we were eating calf .....,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,'Call me Ishmeow?' Not bloody likely!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,I don't have the heart to tell him the Airbnb isn't pet friendly,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Call Ripley. The cat ate the whale.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Call Ripley. The cat ate the whale.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,Let's throw the cat overboard and see what the reverend does.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,It's a stowaway. If we tell the Captain we'll get a reward.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
-3293,Are you sure Captain Flint okayed this?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,It's a stowaway. If we tell the Captain we'll get a reward.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
+3293,Are you sure Captain Flint okayed this?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,"That's the cat who ate he parrot ,now where's the plank",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Just last night I heard him singing ""yo-ho-ho and a bottle of milk."" Sad.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Claims he's off the Pequod, out of New Bedford… Fluffy seems to have a strange affinity for him.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3479,9 +3479,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,I can't believe they ate the whole thing!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Today a lap. Tomorrow a scratch post.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He's obsessed with the White Cat!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,“The Great White Lilliputian” just doesn’t work for me.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,“The Great White Lilliputian” just doesn’t work for me.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,Looks like the cap'n will be wantin' us to pillage Dublin today.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Polly wanted a pre-nup.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Polly wanted a pre-nup.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,"Hey, where's the parrot?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He's on a mission to dispel the stereotype.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"He keeps mumbling ""Tonto and Hi Ho Silver.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3493,7 +3493,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,He asked me to find some carpeting so he can make his stump into a scratching post.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"White whale, white cat. Do you think this can cure him of his mania?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Aye...but his last therapy pet was a white whale,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,He replaced his leg with a scratching post.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,He replaced his leg with a scratching post.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,HERE kitty kITTY,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"It's really annoying. He keeps saying ""Purr Matey.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"They like to roll their ""rrrrrr""s together.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3513,16 +3513,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,I would but his son owns the company.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,I'd throw him off the yardarm if I could,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Before you get too jealous, just know it only wants to use his peg leg as a scratch post.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Look at that little pussy,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Look at that little pussy,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,"'Tis a great yarn, Ishmael, but the ending stinks.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"HE SHOULD FISH INSTEAD, FOR PROTEIN",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Ahab's theory is as long as the cat hasn't used up all its nine lives, by keeping it on board, we're safe.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Yes, indeed, Pussy did eat M.D.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Captain 'Scratching Post' strikes again.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Do you see a USB port on the horizon? That guy is looking for a mouse.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Do you see a USB port on the horizon? That guy is looking for a mouse.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,So what if he has a nine lives and for legs? We could take care of him too.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Mea Culpa, Jack. The chest was marked: ""Scratchin' Post""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,"He named the cat ""Ishmael.""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,"He named the cat ""Ishmael.""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,We're changin' course. Cap'n's after the Great Grey Guppy.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He's having it for dinner.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Ahab is hoping the white cat can help lead us to the white whale.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3531,7 +3531,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,Aarrr...that's him. He be the fella making the Thanksgiving feast.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He calls him Stumpy. Now he has two of 'em.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,I see what Joe meant about heading for a cathouse last port?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,"The damn cat chewed his leg off, and he STILL won't keel haul it.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,"The damn cat chewed his leg off, and he STILL won't keel haul it.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,"Ishmael! Fishmael! So, he survived a white whale attack.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"He says his fondest dreams have come true.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Sure, it takes his mind off whale-hunting. But we still have to clean the litter box.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3556,15 +3556,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,Isn't he supposed to have a parrot?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Maybe kitten therapy reduces obsessive compulsive disorder.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Poor guy. His appeal to be a pirate was denied. He was told he didn't have a leg to stand on.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,And we thought the Mobius strip was complicated.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,And we thought the Mobius strip was complicated.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,He's so much calmer about that whale thingie since we got him the car.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Anything to distract him - his last obsession was murder on the crew.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,two but hole pirates and a guy content with his pussy.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,two but hole pirates and a guy content with his pussy.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,"I will save you from mouser cat slavery, Fluffy!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Old Blackbeard certainly seems to be in a better mood since he got that therapy kitten.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,That thing will be bait before long.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"If rats eat my leg, Captain says I get a kitty, too.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,"Moby cat, why?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,"Moby cat, why?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,His other leg was put under a spell.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Ahah has lost interest lets go home,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He’s a cat scratch fever survivor.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3573,7 +3573,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,Cats are better than people,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He's always been a cat person.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,CATastrophic ship happens,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Turns out that all along he was really looking for a white abyssinian male.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Turns out that all along he was really looking for a white abyssinian male.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,What is this preoccupation with white animals?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Arrrgh! The boss gets the top deck view and the cats, he will never understand what it takes to keep this ship afloat.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He keeps begging us to give him a quarter.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3584,7 +3584,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,"Yeah, Ishmael, it is very touching, but as soon as fake news Herman gets a hold of it,it won't be Moby Cat anymore!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Arggghn't they purrfect together.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"They were both blubbering at Whale Watchers and before you could say ""Holy Mackerel!"", it's Kismet!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,"That cat killed all the rats, now what am I going to cook?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,"That cat killed all the rats, now what am I going to cook?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,I wonder if Melville would consider writing a prequel called 'Moggy Dick'?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"I'm just saying, the cat would have caught mice anyway. Now, the captain is paying this ""cat whisperer"", and we have to give up one of our seasick days.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Shiver me timbers! He wants us to call her Miss Violet.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3601,14 +3601,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,"He says the whale is as white as that pussycat, but not so easy to tame.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He likes cats. They don't pee on his leg.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Captain thinks if we all pet his ""magic cat"" we`ll avoid the storm. Dont worry he only does that when he loses the map. We havent capsized yet.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Somehow I doubt that he ever played the lead in 'Pirates of the Caribbean.',1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Somehow I doubt that he ever played the lead in 'Pirates of the Caribbean.',1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,It began when he started watching reruns of the Love Boat.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"He's a rambler, He's a gambler, he's a long way from home.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,They say he's after that great white whale just for a lifetime supply of cat food,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,"I signed on to hunt whales, not ""tasty tuna tidbits.""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,"I signed on to hunt whales, not ""tasty tuna tidbits.""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,He believes Wall is just an imagination.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"'The Pirates of Murmansk?' No, I don't like the sound of it.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Cat told him that yarn would make a good novel,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Cat told him that yarn would make a good novel,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,That's certainly not my idea of the Pirate's Life !,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Who do you think it is? It's Captain Abe Hab.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"that cat will ""purr"" anyone for the wifi password",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3624,7 +3624,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,"I don't care what he says, that cat is _not_ the captain.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He's having a midlife crisis,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,April 17th (just got this issue): Your labs came back. The report indicates inflammation.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,"No, they're no problem for him. It's only the white whales that trigger his allergic reaction.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,"No, they're no problem for him. It's only the white whales that trigger his allergic reaction.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,Is that Cat Stevens over there? No its the ships cat.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Unless Mr. Muffins is a Kardashian, he'll never get through immigration.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Looks like the Cratchit's haven't heard of Amazon Prime,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3632,10 +3632,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,"I'm not sure about the cat, but I've got him pegged.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Now he says we shipped to tend the white kitty till she kneads our legs and rolls paws up.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Aye, he's been askin' for his ""mini me.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Say hello to my little friend...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Say hello to my little friend...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,Every second guy on here is a Shipster these days.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Me, I'm more of a parrot person.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,We had mistaken a floating treasure with a cat.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,We had mistaken a floating treasure with a cat.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,Umm...looks like Elvis and Tupac reached reached out to Abe.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"If the cat was black, he would have walked the plank.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Ugh, cat guy onboard",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3644,11 +3644,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,He grabbed her after taking her furniture shopping.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He became a member of PETA!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,The best way to catch catfish..? Happy bait.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,The sideshow proves that a house cat is more agreeable to his disposition.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,The sideshow proves that a house cat is more agreeable to his disposition.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,Five bucks says it's him,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,I knew I should have brought my tux on board.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,"The Captain keeps muttering over and over ""Call Me Feral"" after that big white rat was caught",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
-3293,"Argh, how long 'til Blackbeard is posting cat videos?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,"The Captain keeps muttering over and over ""Call Me Feral"" after that big white rat was caught",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
+3293,"Argh, how long 'til Blackbeard is posting cat videos?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,He's motivating for his role in 'Mutiny on the Bounty.',1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,I keep trying to convince him to get a parrot.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Why wouldn't Puss love him best? He has a built-in scratching post.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3671,8 +3671,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,"Mini-me, the sharks will have frikin' ""lasers"" on their heads.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"With all of the d-con we put out, that feline doesn't have a snowball's chance in hell for a good meal.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,I bet you two doubloons that's a kosher kitty.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,He said the cat is called a familiar and he's taking it to Salem for his girlfriend.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
-3293,"He prefers to call it his ""scratching post"" now.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,He said the cat is called a familiar and he's taking it to Salem for his girlfriend.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
+3293,"He prefers to call it his ""scratching post"" now.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,Be careful; it might have flees,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,I think that cat is steering us towards catnip!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Captain wants to feed little Harpoon white whale tongue for dinner,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3683,7 +3683,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,He just finished reading The Power of Meow.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"When I retire, I'd rather have a patch on my left eye and hook for a left hand rather than a wooden left leg.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,They Call Him The Calm Before The Storm.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Lost eez bloomin ed I tellya... err since Moby took off eez blimey leg...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Lost eez bloomin ed I tellya... err since Moby took off eez blimey leg...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,"Well, I want a captain.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Ut don't telll him that that's the cat that ate his parrot,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He calls it his Little White Wailer.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3700,19 +3700,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,"I just told him, safety-wise, if you want to chase something, chase the cat around a little.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Looks like kibbles for dinner.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"The Captain's peg was heavy, and as a result also crippling as he began talking to imaginary cats.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Do you really think we can trust a leader who grabs pussy?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Do you really think we can trust a leader who grabs pussy?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,"I've seen this before. Low ""T.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He's got the cat that ate the fish.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Cap'n Ahab says the cat DOES belong to Ishmael!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"""Normally I'm not a fan of comfort pets, but he hasn't mentioned the white you-know-what since Fluffy came on board.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Ar-ventually yous got to stop pillaging and tie the knot, lest....",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,We keep it around as an incentive for our work.. It's a rich man at peace.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,We keep it around as an incentive for our work.. It's a rich man at peace.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,I still say there's something strange about that cat!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Don't let the peg fool ya! He put all his plunder into Apple.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,It'll be a good change for dinner,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,It'll be a good change for dinner,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,They bonded after a cat fight left him unable to meow.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Peg-leg or not; lose the cat and dress like one of us pirates.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
-3293,"You don't want to get on the Captain's bad side, Matey! He'll pout at you all day!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Peg-leg or not; lose the cat and dress like one of us pirates.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
+3293,"You don't want to get on the Captain's bad side, Matey! He'll pout at you all day!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,"Ever since Fluffy brought the captain that white mouse, they have been inseparable.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Which one is Peggy and which one is Patty?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,... his latest obsession. She's even got her claws into his peg.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3720,11 +3720,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,"She got the house, the leg and the parrot; he got the ship, us and the cat. ""She got the house, the leg and the parrot. He got the ship, us and the cat.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,'Tis said his favorite story is 'Puss in Boot.',1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"If we dump the cat first, Ole Tophat is gone easy peasy",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,if that is his pre-event enjoyment he deserves the plank.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,if that is his pre-event enjoyment he deserves the plank.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,"His ""Hey diddle,diddle"" gets me every time.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,".. said he's from Pennsylvania, where ever that is.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Stovepipe stowaway.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Cat's got his tongue. He won't surrender!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Cat's got his tongue. He won't surrender!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,"Aye it's strange, but he saves a ton on scratching posts.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,His name is Philip Nolan: The cat is just added punishment.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,I'm afraid our Captain is in trouble if he tries to win Pirate of the Month award,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3750,8 +3750,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,Ishmael's a pussy.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,And he said he plans to get another one and call it 'Dixie',1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Let's just keelhaul him, he's nothing but a ""degenerate fairy"".",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Waiting for the CAT-CH.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
-3293,"The Irish man and his cat Lucky Charms promised us gold, but all we got was cereal with marshmallows in the shape of stars, moons, and hearts.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Waiting for the CAT-CH.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
+3293,"The Irish man and his cat Lucky Charms promised us gold, but all we got was cereal with marshmallows in the shape of stars, moons, and hearts.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,I think I prefer the vengeful Ahab to this one.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He lost his leg and his armada.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Which movie does it remind you of?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3780,7 +3780,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,"Well, I can tell you it's not a cold ...",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"If that's the great white beast, then you can call me Ismael.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Only Dr. Freud needs a ""May West"", his cat has nine lives.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Cap'n's got a bad case of cat scratch fever.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Cap'n's got a bad case of cat scratch fever.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,They say he's the cat's meow,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Poor captain. Had to settle for a kitten.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,This voyage has been right peaceful since Cap'n Ahab was captured by the Great White Cat.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3795,11 +3795,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,It's Moby bait,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"""All this time we thought he was looking for that bloody whale"" Frank Ryning, San Francisco, CA",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Aye, mate.....I told him the name of our ship was My Flower!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,Gross and weird,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,Gross and weird,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,Bearded Pussyfoot is losing his edge,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"He just keeps muttering, ""From Hell's heart I grab at thee.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,We throw the cat overboard and the Captain becomes whale bait.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,"Dude won't shut up about post rock. Seriously, fuck that neckbeard.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,"Dude won't shut up about post rock. Seriously, fuck that neckbeard.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,I think it's the cat that ate Long John Silver's canary.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Captain Saul is undercover ..... but the peg leg gives him away.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Remember, a nod means no in Russian!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3810,14 +3810,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,For the past three months he has been sitting there mumbling about the Electoral College.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Ahab loves the white cat, but don't get him started on the white whale.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Aye, matey, that's why we have no rats.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,So the cat’s name is Ishmael?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,So the cat’s name is Ishmael?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,Growing a huge Instagram following is easier than you think...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Like I always says: Cap'n Ahab ain't nothing but a big pussycat.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,The Somalis would have nipped this in the bud.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Ishmael says it's catastrophic.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"I don't think this whale thing is going to work out.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Mass transit keeps gettin' better and better.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,It's a gift from the whale.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,It's a gift from the whale.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,I worry about the cat as Ahab eases into retirement.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,I wonder if Starbuck will be allowed into Mara Lago?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"Arghh, maybe that Pray Away the Pirate actually does work.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3838,7 +3838,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,So much for being the captain's pet.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,I tell you he's mad. Training the cat to use his leg as a scratching post!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,You might want to consider an anti-inflammatory diet.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,I feel bad making him walk the plank with a plank.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,I feel bad making him walk the plank with a plank.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,Long John looks different after he hired the PR firm.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,He says his name is Dr. Seuss.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,"He was up all night watching James Bond movies on his new 70"" 4K satellite ready TV.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
@@ -3850,7 +3850,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3293,I told you,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,Better for us if he obsesses over a white cat than a white whale.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
 3293,I hear he even keeps catnip in the hollowed out leg!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,-- Yes and I also heard he has a lot of mice in the hold!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,-- Yes and I also heard he has a lot of mice in the hold!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,"Aye, Matey, methinks the new cat has caught her mouse.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566
-3293,"It's Nantucket therapy: whale bites off a leg, they give you a cat.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,566
+3293,"It's Nantucket therapy: whale bites off a leg, they give you a cat.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,566
 3293,I told you he would take the poop deck too literally!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,566

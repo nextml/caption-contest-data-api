@@ -6,13 +6,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5,Hopefully cooking the books works better than laundering the money.,1.9678502879078688,0.016852367355941818,2084.0,651.0,849.0,584.0,574
 6,"No, I won't be going back to work on Monday. Why do you ask?",1.9645320197044336,0.01196921240488906,4060.0,1255.0,1694.0,1111.0,574
 7,Cases like this are rare.,1.9494300518134715,0.011207563130492334,4825.0,1590.0,1889.0,1346.0,574
-8,Dinner will be brief tonight.,1.948605577689244,0.015144399456481024,2510.0,790.0,1059.0,661.0,574
+8,Dinner will be brief tonight.,1.9486055776892441,0.015144399456481024,2510.0,790.0,1059.0,661.0,574
 9,How often do you turn over your portfolio?,1.938155136268344,0.014230020341128543,2862.0,923.0,1193.0,746.0,574
 10,"Not really sure,my boss just said, ""Put it on the back burner.""",1.937221269296741,0.014027834394371963,2915.0,933.0,1232.0,750.0,574
 11,I roast my case.,1.8966455122393475,0.011889094544866231,4412.0,1627.0,1614.0,1171.0,574
 12,I normally love grilling but this feels like work.,1.8699264182292905,0.011856894768531813,4213.0,1557.0,1647.0,1009.0,574
-13,"I should've said, 'I'll eat my hat.'",1.8437593534869798,0.013227496096103492,3341.0,1278.0,1307.0,756.0,574
-14,It's lambskin. I think a Merlot would go better.,1.836105976586568,0.013118806963524394,3246.0,1216.0,1346.0,684.0,574
+13,"I should've said, 'I'll eat my hat.'",1.84375935348698,0.013227496096103492,3341.0,1278.0,1307.0,756.0,574
+14,It's lambskin. I think a Merlot would go better.,1.8361059765865682,0.013118806963524394,3246.0,1216.0,1346.0,684.0,574
 15,"No Dear, it's not done until it opens.",1.8220112726194009,0.013132451603771848,3371.0,1333.0,1305.0,733.0,574
 16,I got this recipe from one of Martha Stewart's old accountants.,1.8024017467248907,0.014809952805399115,2748.0,1153.0,985.0,610.0,574
 17,Two words I never hear at the office: Well done.,1.7931896282411746,0.013623342890867396,3201.0,1350.0,1163.0,688.0,574
@@ -21,7 +21,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 20,You want files with that?,1.7693164933135217,0.015035879493425662,2692.0,1201.0,911.0,580.0,574
 21,They just told me to cook the books.,1.7683863885839737,0.02451270612307012,911.0,379.0,364.0,168.0,574
 22,Ask the kids how they want their backpacks.,1.7600299962504686,0.015235459357006447,2667.0,1222.0,863.0,582.0,574
-23,"The secret is to stuff it with mindless paperwork, and slather it with years of misery and stress",1.7505376344086019,0.020748789865516308,1395.0,636.0,471.0,288.0,574
+23,"The secret is to stuff it with mindless paperwork, and slather it with years of misery and stress",1.750537634408602,0.020748789865516308,1395.0,636.0,471.0,288.0,574
 24,"It's free range, grass-fed brief",1.7476190476190476,0.055588528660650366,210.0,101.0,61.0,48.0,574
 25,Should I get started on the white collared greens?,1.7435897435897436,0.022753105938149474,1131.0,513.0,395.0,223.0,574
 26,Did something happen at work today that you need to tell me about?,1.7409168081494055,0.013393628834822823,2945.0,1258.0,1192.0,495.0,574
@@ -40,7 +40,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 39,"So, you didn't say brief bisket?",1.6625463535228675,0.026379476143487297,809.0,410.0,262.0,137.0,574
 40,Samsonite has all the flavor of Hermès but at a fraction of the price.,1.6501035196687368,0.01922653939361604,1449.0,730.0,496.0,223.0,574
 41,I prefer mine with just a little pink slip in the middle.,1.6434782608695653,0.030344836464717955,575.0,291.0,198.0,86.0,574
-42,"We call it ""Cooking the books.""",1.6417322834645667,0.019927522494337945,1270.0,629.0,467.0,174.0,574
+42,"We call it ""Cooking the books.""",1.641732283464567,0.019927522494337945,1270.0,629.0,467.0,174.0,574
 43,I don't get it. My father made a fortune cooking the books.,1.6406721240844464,0.014967518399682309,2321.0,1170.0,815.0,336.0,574
 44,"Maybe he said, 'beef steaks.'",1.6305,0.016465735186064687,2000.0,1048.0,643.0,309.0,574
 45,"How do you like yours? Rare, medium, or impervious to forensic audit?",1.62873399715505,0.028258998327743937,703.0,376.0,212.0,115.0,574
@@ -50,7 +50,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 49,"Don't ask me about my business, Kay. Don't ever ask me about my business.",1.5988225399495375,0.02131306991344188,1189.0,655.0,356.0,178.0,574
 50,It's an old Enron recipe,1.5986577181208053,0.027031004683222285,745.0,412.0,220.0,113.0,574
 51,Everything at work is fine. Why do you ask?,1.5896757114493714,0.01867352865356401,1511.0,835.0,461.0,215.0,574
-52,Are you planning on doing this to everything you got from the Trump store?,1.5856079404466499,0.03815075628049645,403.0,236.0,98.0,69.0,574
+52,Are you planning on doing this to everything you got from the Trump store?,1.58560794044665,0.03815075628049645,403.0,236.0,98.0,69.0,574
 53,All the juicy stuff is on the inside.,1.5700609225413402,0.020150852257074026,1149.0,621.0,401.0,127.0,574
 54,I like a job that's well done.,1.5659037095501185,0.019552962624933487,1267.0,701.0,415.0,151.0,574
 55,How was your day?,1.5656370656370655,0.03111462648836189,518.0,291.0,161.0,66.0,574
@@ -80,7 +80,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 79,I promise this is my last case.,1.4956822107081174,0.028442801736107175,579.0,355.0,161.0,63.0,574
 80,"That's right, briefcase chicken -- nobody believed in beer can chicken, either.",1.4947735191637632,0.02808809614868063,574.0,348.0,168.0,58.0,574
 81,"Do you like yours briefed, underbriefed, or totally classified?",1.493421052631579,0.028319163056754693,608.0,380.0,156.0,72.0,574
-82,... and on the eighth day he cremated hamsters.,1.492201039861352,0.03084551459104135,577.0,379.0,112.0,86.0,574
+82,... and on the eighth day he cremated hamsters.,1.4922010398613519,0.03084551459104135,577.0,379.0,112.0,86.0,574
 83,We really should buy a paper shredder.,1.4899082568807342,0.029395929432570782,545.0,338.0,147.0,60.0,574
 84,So you're not going to work on Monday?,1.486146095717884,0.03468867021778232,397.0,249.0,103.0,45.0,574
 85,I'll give it a couple more minutes to make sure there's no pink slip in there.,1.4845360824742269,0.031106241842787617,485.0,303.0,129.0,53.0,574
@@ -105,7 +105,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 104,"Honey, did they want those documents singed? Or signed?",1.4397759103641457,0.035030053289103406,357.0,234.0,89.0,34.0,574
 105,"You took the steak to work again, didn't you?",1.4396551724137931,0.03473955360520445,348.0,225.0,93.0,30.0,574
 106,It combines my contempt for both my work and suburbia.,1.4396284829721362,0.037922507868823035,323.0,216.0,72.0,35.0,574
-107,"We are what we eat, Margaret.",1.4358974358974361,0.03753662963794307,312.0,206.0,76.0,30.0,574
+107,"We are what we eat, Margaret.",1.435897435897436,0.03753662963794307,312.0,206.0,76.0,30.0,574
 108,This case will be done briefly.,1.432748538011696,0.03338130215903766,342.0,217.0,102.0,23.0,574
 109,I'm gonna need a bigger grill for the photocopier.,1.4318936877076411,0.03821223888260008,301.0,200.0,72.0,29.0,574
 110,Well isn't that just the perfect ending to a perfect day. We're out of propane.,1.429657794676806,0.04039695589079824,263.0,174.0,65.0,24.0,574
@@ -122,11 +122,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 121,The senior partners will be pleased: a well-done brief.,1.4150326797385622,0.03560122507381872,306.0,201.0,83.0,22.0,574
 122,How does he like his covfefe?,1.4146341463414631,0.055991090108240174,164.0,118.0,24.0,22.0,574
 123,Let's do his shoes next.,1.4137931034482758,0.0393938647710922,261.0,174.0,66.0,21.0,574
-124,It's full of half-baked ideas.,1.413427561837456,0.0375670674375933,283.0,188.0,73.0,22.0,574
+124,It's full of half-baked ideas.,1.4134275618374559,0.0375670674375933,283.0,188.0,73.0,22.0,574
 125,I got wallets for the kids.,1.412811387900356,0.03841580084410097,281.0,189.0,68.0,24.0,574
 126,"Honey, Gary called from the office. He's wondering why there's raw meat on your desk.",1.4126984126984128,0.04190632368996895,252.0,173.0,54.0,25.0,574
 127,"It was my boss who said, 'Put that brief of yours on the back burner for the weekend'!",1.4119718309859155,0.037462849391630484,284.0,189.0,73.0,22.0,574
-128,Where's the breef?,1.4113712374581941,0.038255800786648975,299.0,205.0,65.0,29.0,574
+128,Where's the breef?,1.411371237458194,0.038255800786648975,299.0,205.0,65.0,29.0,574
 129,"Wait, we own a shredder?",1.4089219330855018,0.03888720576544074,269.0,181.0,66.0,22.0,574
 130,It was harvested locally on Wall Street.,1.4082840236686391,0.046286592663834315,169.0,110.0,49.0,10.0,574
 131,"When the brief's done, I'll grill the witnesses.",1.408239700374532,0.04015224621361359,267.0,183.0,59.0,25.0,574
@@ -210,7 +210,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 209,Want to bet the burgers are on my desk?,1.3559322033898304,0.046918483490431366,177.0,128.0,35.0,14.0,574
 209,My grandfather Otto called it briefkäse.,1.3559322033898304,0.047597746043585486,177.0,129.0,33.0,15.0,574
 211,I have a feeling the steak is at the 4:00 meeting,1.3556701030927836,0.04692873935890778,194.0,144.0,31.0,19.0,574
-212,Looks like Amazon Whole Foods has some kinks to work out.,1.3555555555555556,0.044999635988749266,180.0,128.0,40.0,12.0,574
+212,Looks like Amazon Whole Foods has some kinks to work out.,1.3555555555555556,0.04499963598874927,180.0,128.0,40.0,12.0,574
 213,It's time we bought a shredder.,1.3542857142857143,0.04656837609749233,175.0,126.0,36.0,13.0,574
 214,Too literal for a retirement party?,1.353932584269663,0.04531719786391684,178.0,127.0,39.0,12.0,574
 214,$8.95 a pound and it tastes like leather.,1.353932584269663,0.04737180953313717,178.0,130.0,33.0,15.0,574
@@ -224,7 +224,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 222,Are you sure you ordered it from Omaha Steaks and not Berkshire Hathaway?,1.3488372093023255,0.045567043816550114,172.0,123.0,38.0,11.0,574
 224,This leather is the closest I can get to affording meat right now.,1.3486238532110089,0.05433336583582644,109.0,76.0,28.0,5.0,574
 225,"Boss said I had to find a way to ""cook the books"".",1.3473053892215572,0.04646678323802848,167.0,120.0,36.0,11.0,574
-226,Now do you believe that I'm on vacation?,1.3454545454545457,0.04759907817909181,165.0,120.0,33.0,12.0,574
+226,Now do you believe that I'm on vacation?,1.3454545454545457,0.047599078179091814,165.0,120.0,33.0,12.0,574
 227,"I don't know, I guess I thought it would be symbolic.",1.343558282208589,0.04952273016210272,163.0,121.0,28.0,14.0,574
 228,"Good news, it's a juicy case.",1.3416149068322982,0.04834656691816547,161.0,118.0,31.0,12.0,574
 228,"It's not cooking the books, strictly speaking.",1.3416149068322982,0.05069822272457918,161.0,121.0,25.0,15.0,574
@@ -235,7 +235,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 233,"That's not what your boss meant when he said you need to ""cook the books.""",1.3372781065088757,0.043520393522249255,169.0,120.0,41.0,8.0,574
 235,I'm not sure this is the best way to upload files to the cloud.,1.3357664233576645,0.05411112028631798,137.0,103.0,22.0,12.0,574
 236,I thought I left it on the train,1.3353293413173652,0.046219754103286666,167.0,122.0,34.0,11.0,574
-236,This is a lot less cathartic than I'd imagined.,1.3353293413173652,0.044631557619949185,167.0,120.0,38.0,9.0,574
+236,This is a lot less cathartic than I'd imagined.,1.3353293413173652,0.04463155761994919,167.0,120.0,38.0,9.0,574
 236,"He said, ""there are no tapes"", so there aren't going to be any.",1.3353293413173652,0.04543259625506299,167.0,121.0,36.0,10.0,574
 239,Where's the breef?,1.3333333333333333,0.057344006347969774,108.0,79.0,22.0,7.0,574
 239,We'll have to go hunting again soon. This is the last of the lawyer.,1.3333333333333333,0.049939764198077816,153.0,114.0,27.0,12.0,574
@@ -263,8 +263,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 259,Did I mention I didn't get the promotion?,1.3270440251572326,0.04845914545711881,159.0,119.0,28.0,12.0,574
 259,"Portobello? Sorry, I thought you said your portfolio.",1.3270440251572326,0.04592879587725085,159.0,116.0,34.0,9.0,574
 259,The books are almost done.,1.3270440251572326,0.04763063386660092,159.0,118.0,30.0,11.0,574
-265,See? You didn't look everywhere!,1.326530612244898,0.04937713361303564,147.0,109.0,28.0,10.0,574
-265,We're gonna need more A-1.,1.326530612244898,0.04937713361303564,147.0,109.0,28.0,10.0,574
+265,See? You didn't look everywhere!,1.3265306122448979,0.04937713361303564,147.0,109.0,28.0,10.0,574
+265,We're gonna need more A-1.,1.3265306122448979,0.04937713361303564,147.0,109.0,28.0,10.0,574
 267,"Dear, I think 'en cocotte' means cooked in a paper bag.",1.3255813953488371,0.04817753059944208,129.0,92.0,32.0,5.0,574
 268,I don't know if this is the way we cook the books.,1.32484076433121,0.04626906562597957,157.0,115.0,33.0,9.0,574
 269,"Sure it feels icky, but dad's disposition of remains directive was explicit.",1.3241379310344827,0.049791479579978114,145.0,108.0,27.0,10.0,574
@@ -276,7 +276,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 272,This dinner will be brief.,1.3225806451612905,0.04750629695740086,155.0,115.0,30.0,10.0,574
 276,"Phillip's first attempts at ""work-life balance"" were awkward at best.",1.3216783216783217,0.05118645375973846,143.0,108.0,24.0,11.0,574
 277,"There go our birth certificates, social security cards, and driver's licenses. Maybe we can get deported to a sane country.",1.3214285714285714,0.0529381895800962,140.0,107.0,21.0,12.0,574
-278,"""So, take it home with you. And I don't care how long it takes, it better be well done!"" Word for word , that's what he said.",1.319672131147541,0.05367713401923101,122.0,91.0,23.0,8.0,574
+278,"""So, take it home with you. And I don't care how long it takes, it better be well done!"" Word for word , that's what he said.",1.319672131147541,0.053677134019231014,122.0,91.0,23.0,8.0,574
 279,"He said ""cook the books,"" not the brief case.""",1.318840579710145,0.050372049880031126,138.0,103.0,26.0,9.0,574
 279,Did I leave my lunch at the office?,1.318840579710145,0.049310819160903706,138.0,102.0,28.0,8.0,574
 279,Anyone can do a job. They hired me for a job well-done.,1.318840579710145,0.05342942052378381,138.0,106.0,20.0,12.0,574
@@ -285,9 +285,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 279,I thought I'd try briefsteak.,1.318840579710145,0.05141137940099779,138.0,104.0,24.0,10.0,574
 279,Let our vacation commence!,1.318840579710145,0.05141137940099779,138.0,104.0,24.0,10.0,574
 279,"It will be ready briefly, Susan.",1.318840579710145,0.050372049880031126,138.0,103.0,26.0,9.0,574
-279,Just some half baked ideas I've had...,1.318840579710145,0.04822624144096607,138.0,101.0,30.0,7.0,574
+279,Just some half baked ideas I've had...,1.318840579710145,0.048226241440966065,138.0,101.0,30.0,7.0,574
 279,"I’m aiming for charred on the outside, untraceable on the inside.",1.318840579710145,0.05342942052378381,138.0,106.0,20.0,12.0,574
-279,It seems like the work is never done.,1.318840579710145,0.04822624144096607,138.0,101.0,30.0,7.0,574
+279,It seems like the work is never done.,1.318840579710145,0.048226241440966065,138.0,101.0,30.0,7.0,574
 279,Bad day at the office dear?,1.318840579710145,0.05141137940099779,138.0,104.0,24.0,10.0,574
 279,FILETS? I thought your note said FILES.,1.318840579710145,0.05141137940099779,138.0,104.0,24.0,10.0,574
 279,Best way I can think of to celebrate retirement!,1.318840579710145,0.05141137940099779,138.0,104.0,24.0,10.0,574
@@ -311,7 +311,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 309,I'm still not completely sold on the Wall Street Journal's food section.,1.3125,0.05258355359596866,144.0,112.0,19.0,13.0,574
 309,Overcooked it. Now it's too leathery.,1.3125,0.05258355359596866,144.0,112.0,19.0,13.0,574
 309,These frozen accounts are always a little tricky.,1.3125,0.0497358504240635,144.0,109.0,25.0,10.0,574
-313,This cornish game hen is looking more and more like a corinthian leather attache case.,1.3119999999999998,0.050052875267866934,125.0,92.0,27.0,6.0,574
+313,This cornish game hen is looking more and more like a corinthian leather attache case.,1.3119999999999998,0.05005287526786693,125.0,92.0,27.0,6.0,574
 313,My work-life balance is off again.,1.3119999999999998,0.05132565226711845,125.0,93.0,25.0,7.0,574
 315,It's an old Enron family recipe,1.3106060606060606,0.051725462308485695,132.0,100.0,23.0,9.0,574
 316,"My boss said that even my briefcase showed more intelligence. Well,frankly,I don't need that kind of competition.",1.310077519379845,0.0548059137301522,129.0,100.0,18.0,11.0,574
@@ -334,15 +334,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 333,Grill marks give it a sense of gravitas.,1.3027522935779816,0.05606987285089937,109.0,83.0,19.0,7.0,574
 334,Yeah I've been keeping some work on the back-burner.,1.3025210084033614,0.05140750983953546,119.0,89.0,24.0,6.0,574
 335,I'll throw on the pager and smartphones when they're done marinating.,1.3017241379310345,0.05226479057419204,116.0,87.0,23.0,6.0,574
-335,Perhaps I should have brined it first.,1.3017241379310345,0.050810267626562385,116.0,86.0,25.0,5.0,574
+335,Perhaps I should have brined it first.,1.3017241379310345,0.05081026762656239,116.0,86.0,25.0,5.0,574
 337,We're gonna need more condiments.,1.3015873015873016,0.051970493789666346,126.0,96.0,22.0,8.0,574
 337,The man who mistook his briefcase for a steak.,1.3015873015873016,0.051970493789666346,126.0,96.0,22.0,8.0,574
 337,And I found your car keys in the refrigerator!,1.3015873015873016,0.04816616907944171,126.0,93.0,28.0,5.0,574
 340,Maybe I shouldn't leave it on so long. Last time you said it tasted like shoe leather.,1.3008130081300813,0.05528808073352992,123.0,96.0,17.0,10.0,574
 340,"Yes honey, you are picking up notes of leather.",1.3008130081300813,0.05282245572242656,123.0,94.0,21.0,8.0,574
-342,The Senator said to give the attache a good grilling.,1.300751879699248,0.05117102432494618,133.0,102.0,22.0,9.0,574
+342,The Senator said to give the attache a good grilling.,1.300751879699248,0.051171024324946184,133.0,102.0,22.0,9.0,574
 342,I love the smell of quarterly reports in the evening.,1.300751879699248,0.0500455049321264,133.0,101.0,24.0,8.0,574
-342,So where on earth would I have put the burgers?,1.300751879699248,0.05117102432494618,133.0,102.0,22.0,9.0,574
+342,So where on earth would I have put the burgers?,1.300751879699248,0.051171024324946184,133.0,102.0,22.0,9.0,574
 342,Did I take the Laptop out?,1.300751879699248,0.0500455049321264,133.0,101.0,24.0,8.0,574
 342,I've always wanted to cook the books.,1.300751879699248,0.04771488479296578,133.0,99.0,28.0,6.0,574
 342,How long until the books are cooked?,1.300751879699248,0.04650579602859467,133.0,98.0,30.0,5.0,574
@@ -377,7 +377,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 376,It is the sacred tradition of the Corporate Raider to never let any part of your prey go to waste.,1.2905982905982911,0.05158814240459157,117.0,89.0,22.0,6.0,574
 377,Margaret's passive aggressive messages about Phil being a work-a-holic finally started to sink in.,1.2903225806451613,0.05092147674264367,124.0,95.0,22.0,7.0,574
 377,Nothing pairs with a fine Trump wine like a prime Trump steak,1.2903225806451613,0.05092147674264367,124.0,95.0,22.0,7.0,574
-377,"Yes, work does seem to be heating up",1.2903225806451613,0.046899954829051814,124.0,92.0,28.0,4.0,574
+377,"Yes, work does seem to be heating up",1.2903225806451613,0.04689995482905181,124.0,92.0,28.0,4.0,574
 377,"Ed, use your words..",1.2903225806451613,0.05092147674264367,124.0,95.0,22.0,7.0,574
 377,"Hon, now I'm thinking the shredder would be better.",1.2903225806451613,0.04401528229881185,124.0,90.0,32.0,2.0,574
 377,I think I overcooked it-- feels kind of leathery.,1.2903225806451613,0.04961719913588533,124.0,94.0,24.0,6.0,574
@@ -390,10 +390,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 377,It'll be done briefly.,1.2903225806451613,0.05092147674264367,124.0,95.0,22.0,7.0,574
 377,I think it opens when it's done.,1.2903225806451613,0.04827769781719712,124.0,93.0,26.0,5.0,574
 377,I must have left the steak on my desk.,1.2903225806451613,0.04961719913588533,124.0,94.0,24.0,6.0,574
-377,I'm trying to recall the combination to check if it's done.,1.2903225806451613,0.046899954829051814,124.0,92.0,28.0,4.0,574
+377,I'm trying to recall the combination to check if it's done.,1.2903225806451613,0.04689995482905181,124.0,92.0,28.0,4.0,574
 377,Let's turn up the heat and break this case wide open.,1.2903225806451613,0.05219317136573615,124.0,96.0,20.0,8.0,574
 394,Oh yeah. Now I remember where I hid it.,1.2892561983471074,0.04900949552247163,121.0,91.0,25.0,5.0,574
-395,Argentine beef isn't the same since they've been lobbying to rejoin the emerging-markets index.,1.289156626506024,0.06534368660666384,83.0,65.0,12.0,6.0,574
+395,Argentine beef isn't the same since they've been lobbying to rejoin the emerging-markets index.,1.2891566265060241,0.06534368660666384,83.0,65.0,12.0,6.0,574
 396,It pairs well with burnt coffee.,1.2870370370370372,0.0510379051440824,108.0,81.0,23.0,4.0,574
 397,Fine. And how was you day?,1.286885245901639,0.05003657813472293,122.0,93.0,23.0,6.0,574
 397,So that's where its been all winter,1.286885245901639,0.05137258167851917,122.0,94.0,21.0,7.0,574
@@ -455,8 +455,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 442,Do we really have to have this open casket viewing and cremation ceremony everytime the NYT rejects one of your manuscripts?,1.2743362831858407,0.05369970173362177,113.0,89.0,17.0,7.0,574
 442,Of course it all depends on the marinade.,1.2743362831858407,0.04908741720232113,113.0,86.0,23.0,4.0,574
 442,Aren't you supposed to take them out of the wrapper when you cook the books?,1.2743362831858407,0.05369970173362177,113.0,89.0,17.0,7.0,574
-457,Anything but a veggie burger.,1.2736842105263158,0.05278812106176287,95.0,72.0,20.0,3.0,574
-458,We bought the wrong kind of buns.,1.2735849056603774,0.05283179307023458,106.0,82.0,19.0,5.0,574
+457,Anything but a veggie burger.,1.2736842105263158,0.052788121061762866,95.0,72.0,20.0,3.0,574
+458,We bought the wrong kind of buns.,1.2735849056603774,0.052831793070234584,106.0,82.0,19.0,5.0,574
 459,Really? You said 'brisket'?,1.2718446601941749,0.05552335626607256,103.0,81.0,16.0,6.0,574
 460,We're having beefcase,1.2702702702702702,0.05110722608295724,111.0,86.0,20.0,5.0,574
 460,Real leather always takes a little longer!,1.2702702702702702,0.05110722608295724,111.0,86.0,20.0,5.0,574
@@ -517,12 +517,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 506,Great retirement party.,1.2641509433962264,0.05412355966797255,106.0,84.0,16.0,6.0,574
 517,"It's a Workburger -- instead of the work consuming me, I consume the work.",1.2602739726027397,0.06477744730187722,73.0,58.0,11.0,4.0,574
 518,"I don't think ""office BBQ"" means what you think it means.",1.2596153846153846,0.054648022203794944,104.0,83.0,15.0,6.0,574
-518,"I got it at Whole Foods. They call it ""Brief Steak.""",1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0,574
+518,"I got it at Whole Foods. They call it ""Brief Steak.""",1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0,574
 518,I already cooked the books.,1.2596153846153846,0.05955271465638483,104.0,86.0,9.0,9.0,574
-518,Simply cooking the books is so passe.,1.2596153846153846,0.051117446493484466,104.0,81.0,19.0,4.0,574
+518,Simply cooking the books is so passe.,1.2596153846153846,0.05111744649348447,104.0,81.0,19.0,4.0,574
 518,I hope that's not leather. I'm vegan.,1.2596153846153846,0.05955271465638483,104.0,86.0,9.0,9.0,574
 518,"You said it'd be quick."" ""NO! I said it'd be brief.",1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0,574
-518,No...no...I'm still vegan - it's fake leather.,1.2596153846153846,0.049257353142735334,104.0,80.0,21.0,3.0,574
+518,No...no...I'm still vegan - it's fake leather.,1.2596153846153846,0.04925735314273533,104.0,80.0,21.0,3.0,574
 525,It's work life balance.,1.2575757575757576,0.06933115715364845,66.0,53.0,9.0,4.0,574
 526,"When the lock finally broke, I swore I'd give it a Viking funeral.",1.2574257425742574,0.057425742574257435,101.0,82.0,12.0,7.0,574
 526,It should open when it's done - just like clams,1.2574257425742574,0.0500563352861962,101.0,78.0,20.0,3.0,574
@@ -1116,11 +1116,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1114,Your right Gwen. I think I have been working too hard.,1.196078431372549,0.0627450980392157,51.0,42.0,8.0,1.0,574
 1116,"If the steak tastes like leather, so be it.",1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0,574
 1116,Bobby's hiding his porn again.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0,574
-1116,Over easy. Case closed.,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0,574
-1116,Put it on the back burner. Put it on the grill. What's the difference?,1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0,574
+1116,Over easy. Case closed.,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0,574
+1116,Put it on the back burner. Put it on the grill. What's the difference?,1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0,574
 1116,I told him his proposal has been moved to the front burner.,1.1944444444444444,0.058136451415040535,72.0,61.0,8.0,3.0,574
 1116,It's not how you balance a budget -- it's how you cook the books.,1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0,574
-1116,"""It's the new spam"".",1.1944444444444444,0.05096444220900333,72.0,59.0,12.0,1.0,574
+1116,"""It's the new spam"".",1.1944444444444444,0.050964442209003334,72.0,59.0,12.0,1.0,574
 1116,"I'm cooking the books.... Do we want it Enron, Worldcom or something in the middle like Tesco?",1.1944444444444444,0.05466818705978922,72.0,60.0,10.0,2.0,574
 1116,The guys at the office say more than three minutes a side and it'll taste like shoe leather.,1.1944444444444444,0.06451604138965672,72.0,63.0,4.0,5.0,574
 1116,Who is DJT?,1.1944444444444444,0.06451604138965672,72.0,63.0,4.0,5.0,574
@@ -1203,9 +1203,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1197,Blue Apron offers brief recipes but this is too literal for my taste.,1.1833333333333331,0.05570131537800454,60.0,50.0,9.0,1.0,574
 1197,What am I supposed to do with this spatula?,1.1833333333333331,0.060560781750670575,60.0,51.0,7.0,2.0,574
 1197,I'm just hopeless at this. Honey maybe you should make dinner?,1.1833333333333331,0.060560781750670575,60.0,51.0,7.0,2.0,574
-1205,Cooking the books? Of course! That's what they hire me for.,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,Cooking the books? Of course! That's what they hire me for.,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,Don't grill too long--the mortgage papers should be slightly bloody.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
-1205,"Well....technically it is from a cow, so ......why not?",1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,"Well....technically it is from a cow, so ......why not?",1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,I want my briefcase to display the stigmata of our suburban existence.,1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
 1205,My only option was to cook the books,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,'My boss insisted that this project be well-done.',1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
@@ -1213,7 +1213,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1205,But how do you know when the books are fully cooked?,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,It'll be done briefly.,1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
 1205,"sure it's cruel, but who uses these things anymore anyway?",1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
-1205,Don't Forget the Tenderizer. The Last One Was quite Tough.,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,Don't Forget the Tenderizer. The Last One Was quite Tough.,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,Every time You grill it tastes like leather.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,No no. I said brief taste!,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,It's a bit leathery,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
@@ -1224,15 +1224,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1205,"Your suppose to grill the clients dear, not the case...",1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,Are you sure you ordered the beef case special?,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,This is my contribution to relaxed Fridays.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
-1205,"Get a grip Harold, I said beef not brief for heaven's sake!",1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
-1205,"I wish that when he said, 'Get rid of it--eat it if you have to!' he had suggested a seasoning or sauce.",1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,"Get a grip Harold, I said beef not brief for heaven's sake!",1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
+1205,"I wish that when he said, 'Get rid of it--eat it if you have to!' he had suggested a seasoning or sauce.",1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,"Not exactly what I expected when you said ""retirement party, "" Nancy.",1.181818181818182,0.06444705063259695,66.0,58.0,4.0,4.0,574
 1205,Filet mignon has to be handled with respect.,1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
 1205,I'm afraid the handle's going to be underdone.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,"Honey, it was bad enough when you brought your work to bed.",1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
-1205,Just flip it,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,Just flip it,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,"Hmm, I thought I smelled an attorney.",1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
-1205,The boss said I need to bring the heat.,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,The boss said I need to bring the heat.,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,They said you'd have to work through dinner when they hired you.,1.181818181818182,0.047839528325837946,66.0,54.0,12.0,0.0,574
 1205,Boss told me that my work was half baked.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,Now that is work well done.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
@@ -1243,30 +1243,30 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1205,Can you think of a better way to destroy the evidence?,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,Sometimes cooking the books is not enough.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,They keep telling me my resume needs more sizzle.,1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
-1205,"Maybe my work-life balance really is an issue, honey.",1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,"Maybe my work-life balance really is an issue, honey.",1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,I wanna make sure it's fireproof.,1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
 1205,Do you suppose this is what my boss meant when he told me to cook the books?,1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
 1205,There is a possibility that the boss asked for beefsteak and not briefcase.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,"Honey, you really need to separate work from home life.",1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
-1205,"And the best part is, it's vegan!",1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
-1205,Are you sure there are no copies in the cloud?,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,"And the best part is, it's vegan!",1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
+1205,Are you sure there are no copies in the cloud?,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,I told you.. my job is at steak.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
-1205,"Hurry up, those books won't cook themselves!",1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,"Hurry up, those books won't cook themselves!",1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,"That's vegan leather, right?",1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
 1205,My work is almost done.,1.181818181818182,0.047839528325837946,66.0,54.0,12.0,0.0,574
-1205,Pork folio?,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
-1205,It comes from Russia — it needs grilling.,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,Pork folio?,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
+1205,It comes from Russia — it needs grilling.,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,"""Are you sure this is what they meant when they said 'cook the books'""?",1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
 1205,"Did I really say ""I'll eat my work if I'm wrong?""",1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
-1205,I like a job well done.,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
-1205,I couldn't find the shredder.,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,I like a job well done.,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
+1205,I couldn't find the shredder.,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,"So, did your boss tell you to cook the books?",1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
-1205,It's grass-fed leather.,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
-1205,I feel like a burnt-out case.,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
-1205,Work has been medium well today.,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
-1205,"When the boss told me to cook the books, I forgot to ask him how long.",1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
-1205,So - - how would you like your books cooked?,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
-1205,We need more life balance...,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,It's grass-fed leather.,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
+1205,I feel like a burnt-out case.,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
+1205,Work has been medium well today.,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
+1205,"When the boss told me to cook the books, I forgot to ask him how long.",1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
+1205,So - - how would you like your books cooked?,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
+1205,We need more life balance...,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,And I thought I left it on the train,1.181818181818182,0.047839528325837946,66.0,54.0,12.0,0.0,574
 1205,Looks like all sizzle and no steak.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,"""Where did you get the buns?",1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
@@ -1275,10 +1275,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1205,"And when it opens, the books have been cooked.",1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,Steaks are so expensive it was cheaper to just cook the money,1.181818181818182,0.06444705063259695,66.0,58.0,4.0,4.0,574
 1205,Doing case work on the weekend sucks.,1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
-1205,"I can't stick a fork in it, it's like leather.",1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,"I can't stick a fork in it, it's like leather.",1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,"Y'know, what I'm really craving is loafers.",1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
-1205,It was either this or getting my feet held to the fire.,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
-1205,Tom says this really locks in the juices.,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,It was either this or getting my feet held to the fire.,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
+1205,Tom says this really locks in the juices.,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,They asked me to cook the books.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,You're going to need a bigger spatula!,1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
 1205,THERE MUST BE ANEASIER WAY TO COOK THE BOOKS,1.181818181818182,0.047839528325837946,66.0,54.0,12.0,0.0,574
@@ -1292,15 +1292,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1205,Just like your mother-in-law.,1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
 1205,I'll show them 'gluten-free',1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
 1205,You can't just delete top secret documents.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
-1205,Maybe Gordon Ramsay was just being ironic,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,Maybe Gordon Ramsay was just being ironic,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,It's called exposure therapy.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,"""This might be a little chewy"" !",1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,I don't want to over cook it and have it taste like leather.,1.181818181818182,0.047839528325837946,66.0,54.0,12.0,0.0,574
-1205,I'm cooking the books.,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,I'm cooking the books.,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,The contents are quite rare.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,A man's work is never done.,1.181818181818182,0.06796780709601408,66.0,59.0,2.0,5.0,574
 1205,""" My presentation is just getting warmed up. ""  Submitted by Neil L. Sachs, Monmouth Junction, NJ",1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
-1205,Are you sure it's free range?,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,Are you sure it's free range?,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,Looks like it's time to smother the secrets in the secret sauce.,1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
 1205,This one is cooking much better than the tablet.,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,It's filet million. I have to flip it right before it bursts.,1.181818181818182,0.047839528325837946,66.0,54.0,12.0,0.0,574
@@ -1324,10 +1324,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1205,Grill marks always rattle opposing counsel.,1.181818181818182,0.06444705063259695,66.0,58.0,4.0,4.0,574
 1205,"But honey, the Blue Apron instructions didn't say anything about opening it.",1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
 1205,Another job well done...,1.181818181818182,0.05675404305280447,66.0,56.0,8.0,2.0,574
-1205,I hope we have barbeque sauce.,1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
-1205,"Y'know, I think I just remembered where I left my briefcase.",1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,I hope we have barbeque sauce.,1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
+1205,"Y'know, I think I just remembered where I left my briefcase.",1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1205,I'm just warming up my briefs.,1.181818181818182,0.06072249887018855,66.0,57.0,6.0,3.0,574
-1205,"I literally JUST flipped it, Deb. Get off my briefcase.",1.181818181818182,0.05248638810814778,66.0,55.0,10.0,1.0,574
+1205,"I literally JUST flipped it, Deb. Get off my briefcase.",1.181818181818182,0.052486388108147784,66.0,55.0,10.0,1.0,574
 1330,Handle's mine.,1.180327868852459,0.049633612362253984,61.0,50.0,11.0,0.0,574
 1330,It doesn't appear to be working.,1.180327868852459,0.05963548986123849,61.0,52.0,7.0,2.0,574
 1332,Are you thinking of retiring again?,1.1791044776119404,0.05596638009319952,67.0,57.0,8.0,2.0,574
@@ -1588,70 +1588,70 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1584,Leather is the new aluminum foil.,1.162790697674419,0.06597285053646279,43.0,37.0,5.0,1.0,574
 1584,"I don't know. I was sitting at my desk when I suddenly thought, I don't want it well done, I want it incinerated.",1.162790697674419,0.07389070794069667,43.0,38.0,3.0,2.0,574
 1584,They'll never freeze my assets!,1.162790697674419,0.06597285053646279,43.0,37.0,5.0,1.0,574
-1590,I love the smell of cowhide in the morning.,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,I love the smell of cowhide in the morning.,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,"Grill-marking for the SVP opening, Alice. Smell that Waygu leather kicking me upstairs.",1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
-1590,"Grilled, blackened, fired, and toasted. How was your day?",1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,"Grilled, blackened, fired, and toasted. How was your day?",1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,Capitalism just doesn't seem to burn that well.,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
-1590,Now they can subpoena whatever they want.,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,Now they can subpoena whatever they want.,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,I never dreamed retirement would smell this good.,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
-1590,"I said ""Beefsteak"" not Briefcase. Well, Leather is beef...I'll need a bigger spatula.",1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
-1590,"The company frowns on cooking the books, but grilling the briefcase was not admonished.",1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,"I said ""Beefsteak"" not Briefcase. Well, Leather is beef...I'll need a bigger spatula.",1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
+1590,"The company frowns on cooking the books, but grilling the briefcase was not admonished.",1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,"...then he said ""go cook the books"" ?",1.1551724137931034,0.04795720603166536,58.0,49.0,9.0,0.0,574
 1590,Needs more career.,1.1551724137931034,0.04795720603166536,58.0,49.0,9.0,0.0,574
 1590,Are the case files still cold?,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,The recipe said to encase the chicken.,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,Good grilling can improve even the toughest cuts of meat.,1.1551724137931034,0.06414651699844254,58.0,52.0,3.0,3.0,574
 1590,"Honey have you seen my glasses, this steak seems to be taking a long time to cook.",1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
-1590,How 'bout some well done memorandums for dessert?,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,How 'bout some well done memorandums for dessert?,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,"Another minute or so, and this report will be done.",1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,I thought I told you not to bring your work home,1.1551724137931034,0.04795720603166536,58.0,49.0,9.0,0.0,574
-1590,Happy Retirement!,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,Happy Retirement!,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,We need to grill these mortgage backed securities before we tranche them up,1.1551724137931034,0.06414651699844254,58.0,52.0,3.0,3.0,574
-1590,Why not? I already cooked the books...,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,Why not? I already cooked the books...,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,"Oh no honey, I said the BEEF case ... Not the briefcase!!!",1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,"Chefs say to make it brief, in this case.",1.1551724137931034,0.06414651699844254,58.0,52.0,3.0,3.0,574
 1590,you really need to relax and not bring your work home,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
-1590,"Are you sure this is what Julian Assange meant when he said he wanted your agency's ""hot secrets""?",1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
-1590,Dudley was finding it increasingly dificuly to find a work/play balance.,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,"Are you sure this is what Julian Assange meant when he said he wanted your agency's ""hot secrets""?",1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
+1590,Dudley was finding it increasingly dificuly to find a work/play balance.,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,I'm heating up my presentation.,1.1551724137931034,0.04795720603166536,58.0,49.0,9.0,0.0,574
 1590,Smells like Wallstreet.,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
-1590,"First of all, honey, 'cooking the books' is not the accepted legal term.",1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,"First of all, honey, 'cooking the books' is not the accepted legal term.",1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,"Thanks, but I'm glutton free.",1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,Don't forget the Nylon wallets; Martha is a vegan.,1.1551724137931034,0.06414651699844254,58.0,52.0,3.0,3.0,574
 1590,"Dear, I don'r think that's what they mean about a holiday from work.",1.1551724137931034,0.04795720603166536,58.0,49.0,9.0,0.0,574
 1590,I thought I'd practice for the grilling I'm getting Monday...,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,"I don't think this is what they meant by ""dry aged beef""",1.1551724137931034,0.04795720603166536,58.0,49.0,9.0,0.0,574
-1590,It's not easy being a caseatarian,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,It's not easy being a caseatarian,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,"If we slice it thinly, it should be digestible.",1.1551724137931034,0.06414651699844254,58.0,52.0,3.0,3.0,574
 1590,"There were no witnesses, so we're grilling the affidavits instead.",1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,"Honey, would you get me some tenderizer?",1.1551724137931034,0.06414651699844254,58.0,52.0,3.0,3.0,574
 1590,Did you remember to take out the tax returns?,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
-1590,It's a tough case to crack.,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
-1590,Are you sure this is the best way to cook the books?,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,It's a tough case to crack.,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
+1590,Are you sure this is the best way to cook the books?,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,Won't it be obvious that you cooked the books?,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,"That's a briefcase, dear, not a beefcase.",1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,"If I cook it briefly, it will be a rare case.",1.1551724137931034,0.04795720603166536,58.0,49.0,9.0,0.0,574
 1590,Maybe you should have married a hunter-gatherer.,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
-1590,Having a hot case sounded much better on Law and Order.,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,Having a hot case sounded much better on Law and Order.,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,It should be done by the time I'm 65.,1.1551724137931034,0.04795720603166536,58.0,49.0,9.0,0.0,574
-1590,Secrets are best well done.,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,Secrets are best well done.,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,This is not what I had in mind when I said we have to cook the books,1.1551724137931034,0.04795720603166536,58.0,49.0,9.0,0.0,574
-1590,"I know you're an honest accountant, but I don't think this is what your client meant when he asked you to cook the books!",1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,"I know you're an honest accountant, but I don't think this is what your client meant when he asked you to cook the books!",1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,"Love that delicious complexity of spread sheet litter, ball point ink, and forgotten tuna sandwiches.",1.1551724137931034,0.06414651699844254,58.0,52.0,3.0,3.0,574
-1590,"Give it another hour, it's hard to tell when lawyers are done.",1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,"Give it another hour, it's hard to tell when lawyers are done.",1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,"Technically, it's still leather and comes from a cow so...",1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
-1590,"Well, I guess my mother was right; I'm going to have to be the breadwinner in this marriage.",1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,"Well, I guess my mother was right; I'm going to have to be the breadwinner in this marriage.",1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,Shit.,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
-1590,"So when the handle is crispy, it's done Martha.",1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,"So when the handle is crispy, it's done Martha.",1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,"Unfortunately, Trumpcare only covered an American lager.",1.1551724137931034,0.06414651699844254,58.0,52.0,3.0,3.0,574
 1590,I'm going to to get grilled tomorrow in the boardroom. I thought I'd prepare myself.,1.1551724137931034,0.06414651699844254,58.0,52.0,3.0,3.0,574
 1590,It's my top secret recipe.,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,I'm getting even for the grilling I got at work today.,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
-1590,"And then he said, ""Chambers, you're not doing anything with your weekend until everything in this briefcase is done."" I think it's just about ready.",1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,"And then he said, ""Chambers, you're not doing anything with your weekend until everything in this briefcase is done."" I think it's just about ready.",1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,It was a job well done.,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,That is a rare medium well done.,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,The food channel said business dinners are the latest thing.,1.1551724137931034,0.04795720603166536,58.0,49.0,9.0,0.0,574
-1590,"Oh don't worry, it will be well done.",1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,"Oh don't worry, it will be well done.",1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,"I could have boiled it, but grilling gives it that nice charbroiled taste.",1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,Boss says to cook the books.,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,My boss says he'd like to see my work well done.,1.1551724137931034,0.06414651699844254,58.0,52.0,3.0,3.0,574
@@ -1659,19 +1659,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1590,Vinny said I should start cooking the books.,1.1551724137931034,0.04795720603166536,58.0,49.0,9.0,0.0,574
 1590,"I shouldn't be telling you this, but I was told to cook the books",1.1551724137931034,0.06414651699844254,58.0,52.0,3.0,3.0,574
 1590,I have the amicus briefs marinating in the fridge.,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
-1590,How do you like your leather?,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
-1590,"Well, you told me you didn't like my briefs...",1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
-1590,"Honey, will you grab a bigger spatula?",1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,How do you like your leather?,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
+1590,"Well, you told me you didn't like my briefs...",1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
+1590,"Honey, will you grab a bigger spatula?",1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,First day of summer. I decided to cook the books al fresco.,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
-1590,Is this going to be enough for all the board members?,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
-1590,We turn it after 20 minutes and serve when both clasps pop.,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
-1590,It looked so much better on Masterchef.,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,Is this going to be enough for all the board members?,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
+1590,We turn it after 20 minutes and serve when both clasps pop.,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
+1590,It looked so much better on Masterchef.,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,"Dear...I know how you love to grill, but they'll still say ""you cooked the books.""",1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,"Alright, it's time to stop bringing work home.",1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1590,"Your portfolio, well done?",1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
-1590,"Grilling his attache, Gus fundamentally misunderstood Mr. Mueller's advice.",1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
-1590,Nothing better than a job well-done.,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
-1590,Let's see the Russians hack these files.,1.1551724137931034,0.053896700157983334,58.0,50.0,7.0,1.0,574
+1590,"Grilling his attache, Gus fundamentally misunderstood Mr. Mueller's advice.",1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
+1590,Nothing better than a job well-done.,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
+1590,Let's see the Russians hack these files.,1.1551724137931034,0.05389670015798333,58.0,50.0,7.0,1.0,574
 1590,A grill? Whatever happened to getting a gold watch at retirement!,1.1551724137931034,0.05924369135592007,58.0,51.0,5.0,2.0,574
 1675,The online review called it a briefcase grill.,1.1538461538461535,0.06938979556801479,52.0,47.0,2.0,3.0,574
 1675,How do you like your pigskin?,1.1538461538461535,0.06938979556801479,52.0,47.0,2.0,3.0,574
@@ -2638,7 +2638,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2632,"I know I could have gotten a handle on this case, if I had just started it in the right direction.",1.1063829787234043,0.04546036031565445,47.0,42.0,5.0,0.0,574
 2632,"I'm cooking the books, just in case",1.1063829787234043,0.06258420823527418,47.0,44.0,1.0,2.0,574
 2632,I think 'well done' is in order...,1.1063829787234043,0.05469656058869374,47.0,43.0,3.0,1.0,574
-2640,"Honey, I don't think that's what they mean by 'cooking the books'.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,574
+2640,"Honey, I don't think that's what they mean by 'cooking the books'.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,574
 2640,"Well, it doesn't smell as bad as when we cooked the actual books.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,574
 2640,The butcher said the case sale was the best value.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,574
 2640,"Dear, that's a case of brief, not beef.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,574

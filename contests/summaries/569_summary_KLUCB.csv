@@ -24,7 +24,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 23,"Yes, sir. How high, sir?",1.5743243243243243,0.04122006470321528,296.0,164.0,94.0,38.0,569
 24,The motion to limit Briggs to 3 cappuccinos is seconded.,1.568561872909699,0.02911793252689333,598.0,336.0,184.0,78.0,569
 25,"Yup, ANOTHER giant leap for man, kinda.",1.567699836867863,0.032343047451795164,613.0,386.0,106.0,121.0,569
-26,I’m from the oversight committee.,1.5673876871880201,0.02804010274251064,601.0,328.0,205.0,68.0,569
+26,I’m from the oversight committee.,1.56738768718802,0.02804010274251064,601.0,328.0,205.0,68.0,569
 27,"How high, Boss?",1.5659432387312189,0.031041088517623175,599.0,359.0,141.0,99.0,569
 28,There he goes. Jumping to conclusions again.,1.5634517766497462,0.02910474883026548,591.0,333.0,183.0,75.0,569
 29,"""WOW !!! New bullet-speed escalator !!!",1.5613126079447324,0.032641587445393916,579.0,361.0,111.0,107.0,569
@@ -54,7 +54,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 53,I'd like to float this idea by you,1.4884488448844884,0.03676858058015913,303.0,179.0,100.0,24.0,569
 54,Paul will now demonstrate our new economy class boarding process.,1.4847457627118643,0.04263885164870746,295.0,194.0,59.0,42.0,569
 55,I don't believe you recognize the gravity of our situation,1.4845360824742269,0.037183775493957016,291.0,172.0,97.0,22.0,569
-56,"Let the record show four yeas, five nays, and one cannonball.",1.4827586206896552,0.040638883222062466,290.0,183.0,74.0,33.0,569
+56,"Let the record show four yeas, five nays, and one cannonball.",1.4827586206896552,0.04063888322206247,290.0,183.0,74.0,33.0,569
 57,Finally got his raise,1.4694656488549618,0.04210951382821165,262.0,167.0,67.0,28.0,569
 57,Guess he didn't get the placebo.,1.4694656488549618,0.04313877076593813,262.0,170.0,61.0,31.0,569
 59,"You said you wanted it in Power Point or Acrobat, right?",1.46875,0.04100267506815986,256.0,159.0,74.0,23.0,569
@@ -66,9 +66,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 65,"'Lets dive right in' is just an expression, Bob.",1.4615384615384617,0.04164593119240165,247.0,155.0,70.0,22.0,569
 65,He's our new head of disruptive technology.,1.4615384615384617,0.04281506173781343,247.0,158.0,64.0,25.0,569
 67,I see that Jason got the Ritalin account,1.4609053497942386,0.04598985218295342,243.0,163.0,48.0,32.0,569
-67,At least I'm not naked in this dream.,1.4609053497942386,0.04253205013431378,243.0,154.0,66.0,23.0,569
+67,At least I'm not naked in this dream.,1.4609053497942386,0.042532050134313784,243.0,154.0,66.0,23.0,569
 69,You must learn how to handle ejection.,1.4525862068965518,0.0430838513445123,232.0,148.0,63.0,21.0,569
-69,I miss the old days when we just showed sales trends with a chart.,1.4525862068965518,0.044364121260144065,232.0,151.0,57.0,24.0,569
+69,I miss the old days when we just showed sales trends with a chart.,1.4525862068965518,0.04436412126014407,232.0,151.0,57.0,24.0,569
 69,My United flight was over booked.,1.4525862068965518,0.04681975301304176,232.0,157.0,45.0,30.0,569
 72,"Use your words, Carlson.",1.4517543859649122,0.04535569683049518,228.0,150.0,53.0,25.0,569
 73,Just jump in when you're ready!,1.4513274336283186,0.044338157470338486,226.0,146.0,58.0,22.0,569
@@ -76,7 +76,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 74,The CEO's son in law has arrived.....let's start.,1.4444444444444444,0.04671217173530405,216.0,144.0,48.0,24.0,569
 74,"It appears there are no strings attached, but that's all part of the illusion.",1.4444444444444444,0.043365455529440836,216.0,137.0,62.0,17.0,569
 77,"See Miss Jones, no glass ceiling.",1.4416243654822336,0.05052779553776605,197.0,135.0,37.0,25.0,569
-78,I guess he isn't aware of the gravity of the situation.,1.4407582938388626,0.04195877620135786,211.0,131.0,67.0,13.0,569
+78,I guess he isn't aware of the gravity of the situation.,1.4407582938388626,0.041958776201357864,211.0,131.0,67.0,13.0,569
 78,And now Jim will represent our quarterly profits through performance art.,1.4407582938388626,0.04703088645338261,211.0,141.0,47.0,23.0,569
 80,Fred's jumping to conclusions again.,1.4401913875598091,0.04329924940138409,209.0,132.0,62.0,15.0,569
 81,"Fighter Ejection Seats, Inc., welcomes a new Board member.",1.4378109452736318,0.04770155895528142,201.0,134.0,46.0,21.0,569
@@ -90,7 +90,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 89,We weren't expecting you to just drop in.,1.4232804232804233,0.044428895711089794,189.0,121.0,56.0,12.0,569
 89,I believe all the golden parachutes are gone.,1.4232804232804233,0.04749066461691298,189.0,126.0,46.0,17.0,569
 91,The mental gymnastics come next.,1.4216216216216215,0.04881483561452056,185.0,125.0,42.0,18.0,569
-91,"Sorry, my Fitbit says I need to do just 20 more.",1.4216216216216215,0.050003969734748584,185.0,127.0,38.0,20.0,569
+91,"Sorry, my Fitbit says I need to do just 20 more.",1.4216216216216215,0.05000396973474858,185.0,127.0,38.0,20.0,569
 91,That new coffee machine is great,1.4216216216216215,0.050588055861182736,185.0,128.0,36.0,21.0,569
 94,Perhaps the Adderall vending machine wasn't such a good idea.,1.4207650273224044,0.05039956033284691,183.0,126.0,37.0,20.0,569
 94,"When our sales went through the roof, we should have repaired it .",1.4207650273224044,0.04980026547486637,183.0,125.0,39.0,19.0,569
@@ -144,12 +144,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 143,I'm here with the results of our investment in medical marijuana,1.3785714285714286,0.054090496610040256,140.0,99.0,29.0,12.0,569
 143,"Mr. Rogers, you're a lightweight and will always be a lightweight.""",1.3785714285714286,0.054090496610040256,140.0,99.0,29.0,12.0,569
 143,"Oops, sorry, wrong meeting!",1.3785714285714286,0.05595830295280936,140.0,101.0,25.0,14.0,569
-143,The last thing we need in here is a loose canon,1.3785714285714286,0.056869206010610004,140.0,102.0,23.0,15.0,569
+143,The last thing we need in here is a loose canon,1.3785714285714286,0.05686920601061,140.0,102.0,23.0,15.0,569
 143,He's high again.,1.3785714285714286,0.054090496610040256,140.0,99.0,29.0,12.0,569
 148,I'm from the House Oversight Committee.,1.3768115942028984,0.04846408395601443,138.0,92.0,40.0,6.0,569
 148,And we're all supposed to pretend like he's made a big splash.,1.3768115942028984,0.05264896508843833,138.0,96.0,32.0,10.0,569
-148,Make a note to adjust the espresso machine settings again.,1.3768115942028984,0.05364419863956021,138.0,97.0,30.0,11.0,569
-148,"If Roger learned one thing at Camp Winnetonka, it was a cannonball is most effective when least expected",1.3768115942028984,0.051634552405212183,138.0,95.0,34.0,9.0,569
+148,Make a note to adjust the espresso machine settings again.,1.3768115942028984,0.053644198639560214,138.0,97.0,30.0,11.0,569
+148,"If Roger learned one thing at Camp Winnetonka, it was a cannonball is most effective when least expected",1.3768115942028984,0.05163455240521218,138.0,95.0,34.0,9.0,569
 152,Once again John doesn't understand the gravity of the situation.,1.375,0.049986381587654234,136.0,92.0,37.0,7.0,569
 153,"Fred, did you want to jump in here?",1.3731343283582091,0.054709362357805484,134.0,95.0,28.0,11.0,569
 154,Do I hear a second to the motion to add de-caf in the break room?,1.3722627737226278,0.04860362201303367,137.0,92.0,39.0,6.0,569
@@ -166,7 +166,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 162,I miss Powerpoint.,1.368421052631579,0.05387013849675357,133.0,94.0,29.0,10.0,569
 162,"There he goes, droning on again.",1.368421052631579,0.0505986988172737,133.0,91.0,35.0,7.0,569
 162,Paradigm shift!,1.368421052631579,0.05387013849675357,133.0,94.0,29.0,10.0,569
-168,It's Take Your Inner-Child to Work Day.,1.366412213740458,0.05547648390638386,131.0,94.0,26.0,11.0,569
+168,It's Take Your Inner-Child to Work Day.,1.366412213740458,0.055476483906383864,131.0,94.0,26.0,11.0,569
 168,Let's see if he lands on his feet.,1.366412213740458,0.05106741640449481,131.0,90.0,34.0,7.0,569
 168,I guess that part of his resume wasn't embellished.,1.366412213740458,0.057554494966143774,131.0,96.0,22.0,13.0,569
 168,United executives continue their efforts in developing passenger ejection seats,1.366412213740458,0.05652503939593115,131.0,95.0,24.0,12.0,569
@@ -183,7 +183,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 180,Look who decided to drop in.,1.3622047244094488,0.0520415495250018,127.0,88.0,32.0,7.0,569
 180,"Drew, quick - draw that man a chair!",1.3622047244094488,0.0588067099800737,127.0,94.0,20.0,13.0,569
 180,Let's take a deeper dive into the analytics.,1.3622047244094488,0.05439017954437158,127.0,90.0,28.0,9.0,569
-180,I miss the days when he'd just bounce ideas off us.,1.3622047244094488,0.050826553099834866,127.0,87.0,34.0,6.0,569
+180,I miss the days when he'd just bounce ideas off us.,1.3622047244094488,0.05082655309983487,127.0,87.0,34.0,6.0,569
 180,"Michael, drained of ideas, pitches himself.",1.3622047244094488,0.05552725463969795,127.0,91.0,26.0,10.0,569
 187,I hope he drowns in paperwork.,1.3619047619047622,0.060709796573247675,105.0,75.0,22.0,8.0,569
 188,"Davis realized that his vantage point, though advantageous, was not sustainable.",1.36,0.05724874981026842,125.0,91.0,23.0,11.0,569
@@ -213,7 +213,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 209,"He just got back from one of those ""I Believe I Can Fly"" seminars.",1.347457627118644,0.054331594456391664,118.0,84.0,27.0,7.0,569
 209,I'm in.,1.347457627118644,0.056935500871268675,118.0,86.0,23.0,9.0,569
 209,We debated mounting a moose head on the wall . . .,1.347457627118644,0.05942541849032836,118.0,88.0,19.0,11.0,569
-215,The boss just told me to take a flying leap.,1.3473684210526315,0.059426940574010004,95.0,67.0,23.0,5.0,569
+215,The boss just told me to take a flying leap.,1.3473684210526315,0.05942694057401,95.0,67.0,23.0,5.0,569
 216,I've invited an expert in corporate bailouts...,1.3448275862068966,0.054900002151741116,116.0,83.0,26.0,7.0,569
 216,Chair....Quick!,1.3448275862068966,0.05624886908856425,116.0,84.0,24.0,8.0,569
 218,It really did take a leap of faith.,1.3421052631578947,0.052612168443685096,114.0,80.0,29.0,5.0,569
@@ -273,7 +273,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 262,And Jenkins will demonstrate how quickly our share price is sinking,1.3269230769230769,0.058679627409754964,104.0,77.0,20.0,7.0,569
 273,"'Can't you just walk through the door like everyone else?""",1.3267326732673268,0.06151376066142205,101.0,76.0,17.0,8.0,569
 273,"And now, a visual demonstration of how big a dive the stock market took this morning.",1.3267326732673268,0.06310279354110175,101.0,77.0,15.0,9.0,569
-275,His manager told him in his last annual review that he needed to make more of a splash in meetings.,1.3235294117647058,0.05425366748901866,102.0,73.0,25.0,4.0,569
+275,His manager told him in his last annual review that he needed to make more of a splash in meetings.,1.3235294117647058,0.054253667489018664,102.0,73.0,25.0,4.0,569
 275,"A simple 'I beg to differ, Irwin' would have sufficed.",1.3235294117647058,0.057721179453808814,102.0,75.0,21.0,6.0,569
 275,"You have the chairs, but I have the floor.",1.3235294117647058,0.06256313403142062,102.0,78.0,15.0,9.0,569
 275,"Parker, you're new here but just so you know, ""jump right in"" is a polite way of saying ""shut the hell up.""",1.3235294117647058,0.06409588754825384,102.0,79.0,13.0,10.0,569
@@ -298,7 +298,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 292,Finkleman will now present his views on cloud computing.,1.3163265306122451,0.05728432190197445,98.0,72.0,21.0,5.0,569
 292,"Bob, you need to stop jumping to conclusions.",1.3163265306122451,0.05541750716194499,98.0,71.0,23.0,4.0,569
 292,"As usual, always trying to make a big splash.",1.3163265306122451,0.05728432190197445,98.0,72.0,21.0,5.0,569
-292,HR said to dive right in.,1.3163265306122451,0.053485574357198584,98.0,70.0,25.0,3.0,569
+292,HR said to dive right in.,1.3163265306122451,0.05348557435719858,98.0,70.0,25.0,3.0,569
 292,He's just an intern. This is his first office pool...,1.3163265306122451,0.060846367247508214,98.0,74.0,17.0,7.0,569
 292,"OK, we've got a quorum.",1.3163265306122451,0.05728432190197445,98.0,72.0,21.0,5.0,569
 292,Some things you just can't show on PowerPoint.,1.3163265306122451,0.05728432190197445,98.0,72.0,21.0,5.0,569
@@ -741,8 +741,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 669,We did tell him to dive right in...,1.2424242424242424,0.06130137276858365,66.0,52.0,12.0,2.0,569
 669,"Come down, Jim. Inflation is not the answer.",1.2424242424242424,0.06848546733222884,66.0,54.0,8.0,4.0,569
 669,Just thought I would drop in.,1.2424242424242424,0.07180849324358678,66.0,55.0,6.0,5.0,569
-743,"As you can see, overhead is way too high.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,569
-743,The market must be up.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,569
+743,"As you can see, overhead is way too high.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,569
+743,The market must be up.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,569
 745,You've got male!,1.234375,0.06585136695439135,64.0,52.0,9.0,3.0,569
 745,Not everyone gets the subtleties of the assertiveness training program.,1.234375,0.05783026057090191,64.0,50.0,13.0,1.0,569
 745,"So this is the ""bomb shell"" we all expected.",1.234375,0.05783026057090191,64.0,50.0,13.0,1.0,569
@@ -1578,7 +1578,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1405,The last CEO didn't make much of a splash.,1.18,0.05488392203513874,50.0,41.0,9.0,0.0,569
 1405,Someone put espresso in the coffee maker again.,1.18,0.06187545093630779,50.0,42.0,7.0,1.0,569
 1579,"Bob, you'd make more of an impact if you jumped from the window and not the door.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
-1579,Frank decides to jump into the discussion.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,Frank decides to jump into the discussion.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,I said I was going to fly in to the board meeting,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,Board Games,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,Too much coffee?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
@@ -1587,41 +1587,41 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1579,No need to panic. Our mail room is testing new executive instant messaging service,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,Look's like he forgot his golden parachute.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,My kids say that the door is last year and I should use the vents.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
-1579,Bill always likes to jump right into a problem.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,Bill always likes to jump right into a problem.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,Acrobat Reader v 1.0,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,I'm drawing a blank on the new guy's name but give me a moment at it'll hit me.,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,569
 1579,"His nickname is ""Drone""",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,"This round of executive musical chairs is over, Statton. Back to the floor.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,Oh look! Phil's replacement dropped in early.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
-1579,Is this disruptive enough?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,Is this disruptive enough?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,"Here he comes, diving into the conversation again!",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,"Careful, Biggers. You're on a slippery slope there.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,"I told you people, no Millenials on the board",1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,569
-1579,He's on the springboard for success!,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,He's on the springboard for success!,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,All in favor? So moved.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,When the cannon ball salesman forgot to bring his Power Point presentation ...,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,Our objectives are speed and imagination.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,Decaf doesn't seem to help.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,"Will Trump lie? I thought you said ""Will, jump high""!",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,"No, no -- I said you've gotta DIVE on in.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
-1579,I'll take that as an abstention.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
-1579,John is just thinking above the box again.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,I'll take that as an abstention.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
+1579,John is just thinking above the box again.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,"Sorry, can't help it — I got into Bitcoin at 230!",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,Please welcome our new law clerk from Barnum and Bailey LLP.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
-1579,"Our sales are hovering at an all-time high, not unlike Dave.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,"Our sales are hovering at an all-time high, not unlike Dave.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,Boy are my arms tired.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,Who put caffeine in the water cooler again?,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,569
 1579,I call it flubber,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
-1579,Sorry to interrupt. It's just my 2:00 pm caffeine rush.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
-1579,"That's right, he's the CEO's son-in-law, but he went to Yale on a scholarship, and he's been overcompensating ever since.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,Sorry to interrupt. It's just my 2:00 pm caffeine rush.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
+1579,"That's right, he's the CEO's son-in-law, but he went to Yale on a scholarship, and he's been overcompensating ever since.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,"Let's jump into this, shall we?",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,Diving head first into a project just don't cut it no more!,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,Nice of you to drop in.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,The para-legal has landed.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,"OK, bring me up to speed.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
-1579,His attempt at making a big splash at these meetings seems a little desperate....,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,His attempt at making a big splash at these meetings seems a little desperate....,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,"Dammit Johnson, I mean jump right in to the agenda!",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
-1579,And now a report from the Australian office,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,And now a report from the Australian office,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,we were just leaving,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,"Wiggins! Glad you could make it, pull up a . . . .",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,Blue-sky thinking coming through!,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
@@ -1638,24 +1638,24 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1579,Lateral thinker Metaphorical Mike dive bombed the writers' pool.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,Where's my seat?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,From the overall perspective....,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
-1579,Mergerball!,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
-1579,He thinks this is a Spring-board Meeting.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,Mergerball!,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
+1579,He thinks this is a Spring-board Meeting.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,This just in!,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,"Steve, you heard wrong, we are not bouncing each other off of our ideas.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,The Russian judge gave him a 4.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,About that golden parachuuuuuuuuute!,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
-1579,It's a new energy drink called Cannonball.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,It's a new energy drink called Cannonball.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,He said Warren Buffett does this all the time,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
-1579,I don't see those projections being grounded in reality.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
-1579,Intern season!!!,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,I don't see those projections being grounded in reality.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
+1579,Intern season!!!,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,"Well, did ask Herman to drop in at any time.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,I knew the windowless offices would work out,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
-1579,If I can jump in here...,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,If I can jump in here...,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,"Taking the term, ""deep dive"" to a new level",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,"That's not what we meant by ""Spring an idea on us""",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,I have an important announcement ... Cannonball!,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,"John, you can levitate as long as you want, but we still don't have another chair!",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
-1579,Quick. A chair!,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,Quick. A chair!,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,The Donald is here!,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,""" I said TRUMP not JUMPa'",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,J.B.'s going to jump start the meeting again.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
@@ -1672,20 +1672,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1579,See what happens when you don't give me that golden parachute!?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,"If the board approves, next I'm going lengthwise!",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,Launch?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
-1579,"Lesson # 13 ..... ""Oftentimes advice is not meant to be applied literally"".",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,"Lesson # 13 ..... ""Oftentimes advice is not meant to be applied literally"".",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,"Get with it Rick, ""outside the box"" is finished.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,It would be easier to finish this project if the director wasn't hovering over us.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,"Bring it on home, Sully.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
-1579,That's it then. Cannonball passes 5-4.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,That's it then. Cannonball passes 5-4.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,Elmer floated his idea to the Board of Directors,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
-1579,Somebody's all in.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,Somebody's all in.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,Bill's knee replacement surgery had some side effects.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,Cannonballing into the management pool,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,I asked Bob to jump in on our discussion regarding the lack of employee respect.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,"Again unable to ""read the room"", Chad does his cannonball to lighten the mood.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,An activist investor has asked to join the board.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,That's his gainer; you ought to see his loser.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
-1579,I hope nobody notices that my socks don't match.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,I hope nobody notices that my socks don't match.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,When will we stop serving espresso before these afternoon meetings?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,It's the new Air Boardman!,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,He says he always takes the high road.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
@@ -1702,22 +1702,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1579,The Diving Board didn't anticipate having this kind of problem.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,The amazon drones are getting more and more lifelike.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,"This shows that a man can break the ""glass ceiling,too""!",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
-1579,Mind if I play through?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,Mind if I play through?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,The newest member of the team makes his entrance.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,I sure hope there are no 'tapes' of this meeting...,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
-1579,That's not what I meant when I told everyone to be ready to dive right in...,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,That's not what I meant when I told everyone to be ready to dive right in...,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,Here comes Kushner.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
-1579,Here's Johnny!,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
-1579,"We said this is a budget meeting, not a bungee meeting.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,Here's Johnny!,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
+1579,"We said this is a budget meeting, not a bungee meeting.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,"We still cannot hear you, David!",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
-1579,So let's welcome Tom from our Australian office.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
-1579,Staff: another errant bombshell from the WH,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,So let's welcome Tom from our Australian office.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
+1579,Staff: another errant bombshell from the WH,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,It's always the quiet ones who lose it.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
-1579,I think head-quarters may have forgotten something when they parachuted him in.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,I think head-quarters may have forgotten something when they parachuted him in.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,"Well, congratulations, Martha, you broke the glass ceiling.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,"""We are beginning to see some evidence that these activist investors are becoming a real nuisance"".",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
-1579,"Ah Hickman, this is not what I had in mind for an ice breaker.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
-1579,Who else is all in?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,"Ah Hickman, this is not what I had in mind for an ice breaker.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
+1579,Who else is all in?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,summer interns always try to make a big splash,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,Whose bright idea was it to make this a diving board room?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,My Kingdom for a Chair!,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
@@ -1727,11 +1727,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1579,You're flyered!,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
 1579,Mark's been elevated to the Board.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,Once again this guy is practicing one up-man-ship.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,569
-1579,"""Bannonball!"" Business as usual at Breitbart News",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,"""Bannonball!"" Business as usual at Breitbart News",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,"Don't mind me, just pretend I'm a fly on the wall.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,We should have waited tell the end of the meeting to announce raises.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,It looks like Tabler has had another revelation.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
-1579,He does all his business on the fly.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,569
+1579,He does all his business on the fly.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,569
 1579,And now 'Footwear' demonstrates to the board it's latest 'Kangroo-Line' sport shoe.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1579,Why isn't he coming down?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,569
 1736,"Anybody else take ""Jump in any time"" to mean ""Jump in any time""?",1.1666666666666667,0.06198070316648412,48.0,41.0,6.0,1.0,569
@@ -4544,7 +4544,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4536,Well it's safer than a belly-flop...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Don't question him...he's the chairman of the diving board,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,"Fly with me, loosen up, and hire me, baby: I’m New York tough!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,I overheard his dad tell him to make a splash on his first day on the job.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,I overheard his dad tell him to make a splash on his first day on the job.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,I'm buying in 100%!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,"None were level on the mind, nobody up at his word.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,"Koch has decided to ""bail out.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
@@ -4585,7 +4585,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4536,New Idea Man is running late today.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,"Yes, a Squatty Potty Bungee Jumping Contest promotion!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,INDUSTRY DISRUPTIOOOOOOONNNNN!!!!!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,He's always leapfrogged his way to the boardroom.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,He's always leapfrogged his way to the boardroom.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,'We didn't ask for a circus act!',1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Cannonballing into your DMs like a millennial trying to make their place at the table.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,He should be the one hanging after the quarterly report,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
@@ -4634,7 +4634,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4536,Bor-iiiiiing!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,"What a lovely story, darling! Well, please keep in touch.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,He disrupts his own business.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,"If he wants to make a splash here, this is the wrong way to do it.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,"If he wants to make a splash here, this is the wrong way to do it.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,He thinks he can levitate.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Let's revisit overthinking.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,You can't Scrooge McDuck into digital money!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
@@ -4665,7 +4665,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4536,"Wow! He went from the hot seat to ejector seat in one fell swoop!""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Another regulation just bit the dust!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Sorry--my swim class ran a little late.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,Movie Pitch: Cannonball Run 3!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,Movie Pitch: Cannonball Run 3!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,Hawkins always jumps in when he's not wanted.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Knight to Pawn's chair.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Always room for one more suit at the table.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
@@ -4701,7 +4701,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4536,Here's Director Comey now.......who seems to have forgotten his instructions and mentioned the dress after all...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Dark pool!!!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Watch now as Bob deploys his golden parachute.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,You may want to think twice about the next meeting's seating arrangement.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,You may want to think twice about the next meeting's seating arrangement.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,The intern makes a big splash.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Either it's bonus time or he's being high on life again.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,"Member of the Board, Star Skateboards: not star skateboarder.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
@@ -4724,19 +4724,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4536,"I don't know who he is or where he came from, but I want some of that.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,no wonder our numbers are so up and down with Joe as our CFO,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Not bored..,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,Ouch time!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,Ouch time!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,this new take on the trust fall is a great icebreaker,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,"See, there’s no “glass ceiling”. It’s a total hoax.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,n,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Painting a jumper on the wall is the boss's idea of a joke.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Looks like Human Relations failed again.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,"Of course, this recommendation implies some elevated risk.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,"It's Adderley, the meeting bomber.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,"It's Adderley, the meeting bomber.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,"OK, that's five BLTs, three ham on rye, mine and a pack of aspirin.  Can you believe this works!?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,The CEO hopes for a soft landing from the UFO!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,"Sorry, not the breakthrough I was expecting.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,"Sorry, not the breakthrough I was expecting.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,I got caught up parenting.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,"If he sticks the landing, we'll know it was good month.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,"If he sticks the landing, we'll know it was good month.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,Here comes the replacement for the guy who did the belly flop.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,He needs a golden parachute!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,"Lean in, not jump in!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
@@ -4748,7 +4748,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4536,oh boy!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,NOW will you look at me?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,CALABUNGA,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,I've got a great idea for the car rental ads.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,I've got a great idea for the car rental ads.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,"Not parkour, freerunning.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,"Damn, I really hate these acrobatic entrances.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,A typical day at the Acme Diving Board Company,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
@@ -4774,7 +4774,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4536,It's been a long winter!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Now for a report on the end of regulations.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Cannon-buyout!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,POTUS IS IN EARLY TODAY..,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,POTUS IS IN EARLY TODAY..,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,Ready or not! - Cannonball!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,"I'm here 'til I get a seat at the table, dammit!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Hi! I'm the new board member. May I drop in?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
@@ -4782,7 +4782,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4536,The moment Wilson's courage arrived.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,HE'S AT IT AGAIN! WE'RE GOING TO NEED ANOTHER NEW TABLE!!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Does he know it's not a bathing suit?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,This just in!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,This just in!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,Conferencecaaaaaaaaalll!!!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,He’s not taking calls from Mike Flynn,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,"A new hot investment opportunity called Levishoes, short for levitation shoes!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
@@ -4804,13 +4804,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4536,"Our stocks are gonna take a vertical jump, a vertical jump like this-- loook!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,I see you found the I.C.E. buckets.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,"Well, that certainly got a rise out of Henry!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,"We know, you have a jet pack.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,"We know, you have a jet pack.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,You idiot! Just because we took away your chair ....,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,All the bets off!..,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Canon MF820CDN!!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Let's see if you land on your feet,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,want to make sure you see all the angles.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,Okay. So maybe these new shoes are worth $495.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,Okay. So maybe these new shoes are worth $495.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,You guys keep telling me to jump in anytime... here I am!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,I thought you said there would be no eavesdropping.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Sorry I'm late. Reporters had me cornered in the bushes.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,569
@@ -4830,8 +4830,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4536,He just found out CHICAGO CUBS won world series.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Who invited Cannonbill?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Why do you keep doing that whenever I use the word Matrix?!!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,We fired him for not doing a good job.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,We fired him for not doing a good job.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,Looks like Davis is all in.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
-4536,Listen to what I say and do it my way!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,569
+4536,Listen to what I say and do it my way!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,569
 4536,Brace for impact!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569
 4536,Don't you just love those whoopee cushions?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,569

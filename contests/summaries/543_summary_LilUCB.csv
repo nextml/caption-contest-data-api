@@ -24,7 +24,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 23,Are we speaking metaphorically?,1.5714285714285714,0.05573179372938391,168.0,95.0,50.0,23.0,543
 23,"Great, now I’m living with two Dumbos.",1.5714285714285714,0.06004194224292365,168.0,102.0,36.0,30.0,543
 25,I would have preferred a bumper sticker.,1.5670731707317074,0.059381757669091324,164.0,98.0,39.0,27.0,543
-26,"That reminds me, your mother called.",1.565217391304348,0.05962005002152604,161.0,96.0,39.0,26.0,543
+26,"That reminds me, your mother called.",1.5652173913043481,0.05962005002152604,161.0,96.0,39.0,26.0,543
 27,"At least, for once, you're using the word ""literally"" correctly!",1.5617283950617284,0.05804720190769784,162.0,95.0,43.0,24.0,543
 27,Isn't it enough to just tell our friends we're Republicans?,1.5617283950617284,0.056710803001808974,162.0,93.0,47.0,22.0,543
 27,We had a hellava lot more room when he was just a metaphor.,1.5617283950617284,0.05603065179889005,162.0,92.0,49.0,21.0,543
@@ -163,22 +163,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 156,Mind if I crack a window?,1.4416666666666669,0.05772997286135944,120.0,76.0,35.0,9.0,543
 156,Be Patient. It will disappear on November 8.,1.4416666666666669,0.0687990551582137,120.0,86.0,15.0,19.0,543
 164,At least HE won't forget our anniversary.,1.4369747899159664,0.06042937974377825,119.0,78.0,30.0,11.0,543
-165,"I'm torn. I like what he stands for, but he was born in Kenya.",1.435897435897436,0.06580411878457867,117.0,81.0,21.0,15.0,543
-165,What elephant?,1.435897435897436,0.06908160897082624,117.0,84.0,15.0,18.0,543
-165,Now you want to talk about it!,1.435897435897436,0.061161533529695014,117.0,77.0,29.0,11.0,543
-165,"Geez, Richard, to think there could be a bigger ass than you in this room.",1.435897435897436,0.06467472329037989,117.0,80.0,23.0,14.0,543
-165,He's just not the party animal he used to be.,1.435897435897436,0.06580411878457867,117.0,81.0,21.0,15.0,543
-165,"Fine, what do you want to talk about?",1.435897435897436,0.06352525180083488,117.0,79.0,25.0,13.0,543
-165,What elephant?,1.435897435897436,0.06580411878457867,117.0,81.0,21.0,15.0,543
-165,What elephant?,1.435897435897436,0.07014008065525641,117.0,85.0,13.0,19.0,543
-165,He's now whining that this Cartoon Caption Contest is rigged too.,1.435897435897436,0.06352525180083488,117.0,79.0,25.0,13.0,543
-165,"Paint it white, and we'll sell it on Saturday.",1.435897435897436,0.06235459405714819,117.0,78.0,27.0,12.0,543
-165,"When you said you were entertaining the biggest republican ass in town, I thought you meant....",1.435897435897436,0.06467472329037989,117.0,80.0,23.0,14.0,543
-165,Trump said she was too fat to represent the GOP.,1.435897435897436,0.06800666497976803,117.0,83.0,17.0,17.0,543
-165,"No, he's the one who's pretending we're not here.",1.435897435897436,0.061161533529695014,117.0,77.0,29.0,11.0,543
-165,I said this place needed more ELEGANCE.,1.435897435897436,0.06580411878457867,117.0,81.0,21.0,15.0,543
-165,What metaphor?,1.435897435897436,0.061161533529695014,117.0,77.0,29.0,11.0,543
-165,You haven't said a thing about the new rug.,1.435897435897436,0.058702715022804004,117.0,75.0,33.0,9.0,543
+165,"I'm torn. I like what he stands for, but he was born in Kenya.",1.4358974358974361,0.06580411878457867,117.0,81.0,21.0,15.0,543
+165,What elephant?,1.4358974358974361,0.06908160897082624,117.0,84.0,15.0,18.0,543
+165,Now you want to talk about it!,1.4358974358974361,0.061161533529695014,117.0,77.0,29.0,11.0,543
+165,"Geez, Richard, to think there could be a bigger ass than you in this room.",1.4358974358974361,0.06467472329037989,117.0,80.0,23.0,14.0,543
+165,He's just not the party animal he used to be.,1.4358974358974361,0.06580411878457867,117.0,81.0,21.0,15.0,543
+165,"Fine, what do you want to talk about?",1.4358974358974361,0.06352525180083488,117.0,79.0,25.0,13.0,543
+165,What elephant?,1.4358974358974361,0.06580411878457867,117.0,81.0,21.0,15.0,543
+165,What elephant?,1.4358974358974361,0.07014008065525641,117.0,85.0,13.0,19.0,543
+165,He's now whining that this Cartoon Caption Contest is rigged too.,1.4358974358974361,0.06352525180083488,117.0,79.0,25.0,13.0,543
+165,"Paint it white, and we'll sell it on Saturday.",1.4358974358974361,0.06235459405714819,117.0,78.0,27.0,12.0,543
+165,"When you said you were entertaining the biggest republican ass in town, I thought you meant....",1.4358974358974361,0.06467472329037989,117.0,80.0,23.0,14.0,543
+165,Trump said she was too fat to represent the GOP.,1.4358974358974361,0.06800666497976803,117.0,83.0,17.0,17.0,543
+165,"No, he's the one who's pretending we're not here.",1.4358974358974361,0.061161533529695014,117.0,77.0,29.0,11.0,543
+165,I said this place needed more ELEGANCE.,1.4358974358974361,0.06580411878457867,117.0,81.0,21.0,15.0,543
+165,What metaphor?,1.4358974358974361,0.061161533529695014,117.0,77.0,29.0,11.0,543
+165,You haven't said a thing about the new rug.,1.4358974358974361,0.058702715022804,117.0,75.0,33.0,9.0,543
 181,It's so sad to think that he and the donkey in 4A used to play so well together.,1.4339622641509433,0.06705037990613959,106.0,72.0,22.0,12.0,543
 182,They didn't mention this in the Airbnb listing.,1.4322033898305084,0.06075341062605188,118.0,78.0,29.0,11.0,543
 183,Ignore what?,1.4310344827586208,0.06388724363834551,116.0,79.0,24.0,13.0,543
@@ -257,24 +257,24 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 248,Couldn't we have just gotten the bumper sticker?,1.4036697247706422,0.06532709467894847,109.0,77.0,20.0,12.0,543
 248,"You left the back door open, didn't you?",1.4036697247706422,0.05990033921408343,109.0,73.0,28.0,8.0,543
 258,"Even if we're not going to talk about it, we should at least do something about the smell.",1.4,0.06289709020331513,105.0,72.0,24.0,9.0,543
-259,Can we at least talk about it?,1.3981481481481481,0.06569886146018218,108.0,77.0,19.0,12.0,543
-259,The Humane Society said he was a lab mix.,1.3981481481481481,0.06700306458433393,108.0,78.0,17.0,13.0,543
-259,What elephant?,1.3981481481481481,0.06700306458433393,108.0,78.0,17.0,13.0,543
-259,But what if the elephant in the room is the elephant in the room?,1.3981481481481481,0.06300952201142132,108.0,75.0,23.0,10.0,543
-259,He's only hiding here till November 9th.,1.3981481481481481,0.061620853593402775,108.0,74.0,25.0,9.0,543
-259,What elephant?,1.3981481481481481,0.07077161481326431,108.0,81.0,11.0,16.0,543
-259,What elephant?,1.3981481481481481,0.07317623928799206,108.0,83.0,7.0,18.0,543
-259,I always thought it was a metaphor.,1.3981481481481481,0.061620853593402775,108.0,74.0,25.0,9.0,543
-259,"Because he remembered my birthday, that's why.",1.3981481481481481,0.06020016055669095,108.0,73.0,27.0,8.0,543
-259,"Dear, I think there's a cliché in the room.",1.3981481481481481,0.06300952201142132,108.0,75.0,23.0,10.0,543
-259,Why can't you use metaphors like everyone else?,1.3981481481481481,0.06300952201142132,108.0,75.0,23.0,10.0,543
-259,"Honey, remember those drugs I had leftover from college?",1.3981481481481481,0.06300952201142132,108.0,75.0,23.0,10.0,543
-259,It was this or the 800 lb. gorilla.,1.3981481481481481,0.06569886146018218,108.0,77.0,19.0,12.0,543
-259,What elephant?,1.3981481481481481,0.06700306458433393,108.0,78.0,17.0,13.0,543
-259,The what?,1.3981481481481481,0.06436823852363835,108.0,76.0,21.0,11.0,543
-259,"You know, you could have just gotten a lawn sign",1.3981481481481481,0.06436823852363835,108.0,76.0,21.0,11.0,543
-259,"I DID say no at first. But when he threw in the rhino I just couldn't resist. By the way, don't go in the den.",1.3981481481481481,0.061620853593402775,108.0,74.0,25.0,9.0,543
-259,"A simple 'Trump/Pence' lawn sign didn't do it, huh?",1.3981481481481481,0.06300952201142132,108.0,75.0,23.0,10.0,543
+259,Can we at least talk about it?,1.398148148148148,0.06569886146018218,108.0,77.0,19.0,12.0,543
+259,The Humane Society said he was a lab mix.,1.398148148148148,0.06700306458433393,108.0,78.0,17.0,13.0,543
+259,What elephant?,1.398148148148148,0.06700306458433393,108.0,78.0,17.0,13.0,543
+259,But what if the elephant in the room is the elephant in the room?,1.398148148148148,0.06300952201142132,108.0,75.0,23.0,10.0,543
+259,He's only hiding here till November 9th.,1.398148148148148,0.061620853593402775,108.0,74.0,25.0,9.0,543
+259,What elephant?,1.398148148148148,0.07077161481326431,108.0,81.0,11.0,16.0,543
+259,What elephant?,1.398148148148148,0.07317623928799206,108.0,83.0,7.0,18.0,543
+259,I always thought it was a metaphor.,1.398148148148148,0.061620853593402775,108.0,74.0,25.0,9.0,543
+259,"Because he remembered my birthday, that's why.",1.398148148148148,0.06020016055669095,108.0,73.0,27.0,8.0,543
+259,"Dear, I think there's a cliché in the room.",1.398148148148148,0.06300952201142132,108.0,75.0,23.0,10.0,543
+259,Why can't you use metaphors like everyone else?,1.398148148148148,0.06300952201142132,108.0,75.0,23.0,10.0,543
+259,"Honey, remember those drugs I had leftover from college?",1.398148148148148,0.06300952201142132,108.0,75.0,23.0,10.0,543
+259,It was this or the 800 lb. gorilla.,1.398148148148148,0.06569886146018218,108.0,77.0,19.0,12.0,543
+259,What elephant?,1.398148148148148,0.06700306458433393,108.0,78.0,17.0,13.0,543
+259,The what?,1.398148148148148,0.06436823852363835,108.0,76.0,21.0,11.0,543
+259,"You know, you could have just gotten a lawn sign",1.398148148148148,0.06436823852363835,108.0,76.0,21.0,11.0,543
+259,"I DID say no at first. But when he threw in the rhino I just couldn't resist. By the way, don't go in the den.",1.398148148148148,0.061620853593402775,108.0,74.0,25.0,9.0,543
+259,"A simple 'Trump/Pence' lawn sign didn't do it, huh?",1.398148148148148,0.06300952201142132,108.0,75.0,23.0,10.0,543
 277,Call the exterminator and say we still have them.,1.3944954128440368,0.0651957357961096,109.0,78.0,19.0,12.0,543
 277,"First the political phone calls, now this! What's next?",1.3944954128440368,0.06775155567668646,109.0,80.0,15.0,14.0,543
 279,They were having a trunk sale.,1.3925233644859814,0.06472410602326141,107.0,76.0,20.0,11.0,543
@@ -790,7 +790,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 776,I am still voting Democrat,1.3186813186813189,0.06607636252675386,91.0,70.0,13.0,8.0,543
 776,No there isn't.,1.3186813186813189,0.06607636252675386,91.0,70.0,13.0,8.0,543
 776,We'd be talking about it if it was a donkey.,1.3186813186813189,0.06607636252675386,91.0,70.0,13.0,8.0,543
-776,Maybe after the election it will go away.,1.3186813186813189,0.05608105262711981,91.0,65.0,23.0,3.0,543
+776,Maybe after the election it will go away.,1.3186813186813189,0.056081052627119814,91.0,65.0,23.0,3.0,543
 776,"Oh, and we will need a litter box.",1.3186813186813189,0.06027839540138963,91.0,67.0,19.0,5.0,543
 794,Did it occur to you that we are the elephants in his room?,1.3176470588235294,0.06309426655597128,85.0,63.0,17.0,5.0,543
 794,"No Harold, that's not the roar of the crowd I hear.",1.3176470588235294,0.06943502435147364,85.0,66.0,11.0,8.0,543
@@ -1110,7 +1110,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1102,I've never liked this rug.,1.2906976744186047,0.056978838008374014,86.0,64.0,19.0,3.0,543
 1102,You get the feeling that it is trying to ignore us?,1.2906976744186047,0.05452513337505023,86.0,63.0,21.0,2.0,543
 1102,"""Martha, I need an eight-letter word for pachyderm. ..?",1.2906976744186047,0.061593697755692074,86.0,66.0,15.0,5.0,543
-1112,It's a good thing the lamp was included.,1.2891566265060241,0.058208438379146125,83.0,62.0,18.0,3.0,543
+1112,It's a good thing the lamp was included.,1.289156626506024,0.058208438379146125,83.0,62.0,18.0,3.0,543
 1113,I still think that the new rug would have flattened out on its own.,1.2873563218390804,0.06097323038936246,87.0,67.0,15.0,5.0,543
 1114,I've been trying to tell you... there's a donkey in the kitchen.,1.2857142857142858,0.06005215884396795,84.0,64.0,16.0,4.0,543
 1114,"Well, It's this or an 800-pound gorilla!",1.2857142857142858,0.06683447448552096,84.0,67.0,10.0,7.0,543
@@ -1361,7 +1361,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1351,"It's your turn, and this time make sure you remember the plastic bags AND the shovel.",1.271604938271605,0.06576319676747686,81.0,65.0,10.0,6.0,543
 1351,"Honey, what do you think of my new haircut?",1.271604938271605,0.06576319676747686,81.0,65.0,10.0,6.0,543
 1351,There are easier ways to annoy the downstairs neighbor.,1.271604938271605,0.05274076385998471,81.0,60.0,20.0,1.0,543
-1351,It's time we talked about him.,1.271604938271605,0.05558983853046626,81.0,61.0,18.0,2.0,543
+1351,It's time we talked about him.,1.271604938271605,0.055589838530466264,81.0,61.0,18.0,2.0,543
 1351,"Look on the Bright Side, he'll Deflate after the Election.",1.271604938271605,0.06806937655353193,81.0,66.0,8.0,7.0,543
 1351,"We agreed, no politics before bed.",1.271604938271605,0.05829984668206215,81.0,62.0,16.0,3.0,543
 1351,Shouldn't talking about it make it disappear?,1.271604938271605,0.06337314947017575,81.0,64.0,12.0,5.0,543
@@ -1378,12 +1378,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1351,I assume you're undecided bigly.,1.271604938271605,0.05829984668206215,81.0,62.0,16.0,3.0,543
 1351,"Graham dear, do you recall if the lease said anything about pets?",1.271604938271605,0.05829984668206215,81.0,62.0,16.0,3.0,543
 1351,Isn't anyone going to address the people in the room?,1.271604938271605,0.05829984668206215,81.0,62.0,16.0,3.0,543
-1351,You didn’t get him microchipped?,1.271604938271605,0.05558983853046626,81.0,61.0,18.0,2.0,543
+1351,You didn’t get him microchipped?,1.271604938271605,0.055589838530466264,81.0,61.0,18.0,2.0,543
 1351,I just have a funny feeling that there's something else you have to tell me.,1.271604938271605,0.0702999430988046,81.0,67.0,6.0,8.0,543
 1351,"No, I don't want a divorce I want to talk about the elephant in the room.",1.271604938271605,0.0702999430988046,81.0,67.0,6.0,8.0,543
 1351,"Honey, it's time that we discuss the Republican in the room.",1.271604938271605,0.06576319676747686,81.0,65.0,10.0,6.0,543
 1351,No - It's YOUR turn to take him to the curb.,1.271604938271605,0.06337314947017575,81.0,64.0,12.0,5.0,543
-1351,I guess downsizing is out of the question.,1.271604938271605,0.05558983853046626,81.0,61.0,18.0,2.0,543
+1351,I guess downsizing is out of the question.,1.271604938271605,0.055589838530466264,81.0,61.0,18.0,2.0,543
 1351,He just needs a place to stay until after the election.,1.271604938271605,0.06576319676747686,81.0,65.0,10.0,6.0,543
 1387,He said he is only hiding here until after the election,1.2682926829268293,0.0602333625227449,82.0,64.0,14.0,4.0,543
 1387,"""Ok, how about an 8 letter word for 'pachyderm'""!",1.2682926829268293,0.057679665728435664,82.0,63.0,16.0,3.0,543
@@ -2070,7 +2070,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2064,This is not what I meant when I said 'African Decor.',1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0,543
 2064,"You can ignore me by reading the paper, but you can't ignore him.",1.2236842105263157,0.0664875247776744,76.0,65.0,5.0,6.0,543
 2064,'Do you think ears are for show? I CAN HEAR YOU!',1.2236842105263157,0.063794308195006,76.0,64.0,7.0,5.0,543
-2064,It's your turn to clean up.,1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0,543
+2064,It's your turn to clean up.,1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0,543
 2064,"Honey, I don't want to adopt again. There. I said it.",1.2236842105263157,0.063794308195006,76.0,64.0,7.0,5.0,543
 2064,I think the landlord's getting suspicious.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0,543
 2064,You can call it a cliché if you want but I still think we have to discuss it.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0,543
@@ -2474,26 +2474,26 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2462,He's moving out as soon as he pays off his student debt.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,"well, you’re never using one click shopping again…",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,Did you order the litter like I asked you to?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
-2462,"Look, I'm sorry, but we've GOT to talk about him.",1.1971830985915493,0.047554769059532785,71.0,57.0,14.0,0.0,543
-2462,I've exhausted my genteelisms,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,"Look, I'm sorry, but we've GOT to talk about him.",1.1971830985915493,0.04755476905953279,71.0,57.0,14.0,0.0,543
+2462,I've exhausted my genteelisms,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,"No, I said I live WITH Dumbo.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
-2462,They said she'd bring our blood pressure down.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
-2462,I see a lot of gray area in this election.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
-2462,"I know you said, 'marry me, marry my elephant' but does he have to spend every day in the house with us?!",1.1971830985915493,0.047554769059532785,71.0,57.0,14.0,0.0,543
+2462,They said she'd bring our blood pressure down.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
+2462,I see a lot of gray area in this election.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
+2462,"I know you said, 'marry me, marry my elephant' but does he have to spend every day in the house with us?!",1.1971830985915493,0.04755476905953279,71.0,57.0,14.0,0.0,543
 2462,"Alexa, how do I eliminate pet odor?",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,"If you haven't been eating all those peanuts, then please tell me who the hell is?",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,Don't you think it's time we talked about it?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,"Ok, someone has to bring this up.....How on earth do we get the elephant out of the room....",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
-2462,"What I asked for dear, was an ivory accented trunk.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,"What I asked for dear, was an ivory accented trunk.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,"He may resent us now for kicking him out, but he’ll thank us later after he learns to get by on his own.",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,"Hey honey, get a load of this stupid cartoon in the New Yorker.",1.1971830985915493,0.06537223030395355,71.0,62.0,4.0,5.0,543
 2462,Really?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,It's time to address the G.O.P nominee in the room.,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
-2462,"What a relief! When you called me at work and said you wanted to discuss the elephant in the room, I figured I was in big trouble.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,"What a relief! When you called me at work and said you wanted to discuss the elephant in the room, I figured I was in big trouble.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,What elephant in the room?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
-2462,Do you think he knows we voted early?,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,Do you think he knows we voted early?,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,What is an eight letter word for Savannah pooper?,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
-2462,I still don't want to discuss it.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,I still don't want to discuss it.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,We're going to need bigger pooper scooper.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,WHY won't you talk about it?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,It's glaringly obvious you're ignoring me.,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
@@ -2504,15 +2504,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2462,Which room?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,It's a metaphor for our mutual disinterest.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,Who do you think drew him here?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
-2462,We need to talk.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,We need to talk.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,"Ok, I'll go get the leash while you drive the pooper-scooper around front.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,I don't want to say anything but I think he's in the wrong room.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,"Darling, would you bring our guest a chair?",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,Can't we please STOP talking about the elephant in the room?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,"Tell me again -- Trump can't win, right?",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
-2462,What was wrong with the giraffe?,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,What was wrong with the giraffe?,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,I'm not falling for that elephant in the room trick again.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
-2462,I think he wants us out of the room.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,I think he wants us out of the room.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,This place is a zoo!,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,"If it's not one circus,it's another.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,Save the Circus Animals my foot! Couldn't we have rescued a kitten instead?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
@@ -2522,13 +2522,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2462,"So then what is stopping us, if we both want to talk about it!?",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,I'd be really worried if there were also a mouse in the room.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,There must be an easier way to flatten the rug.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
-2462,"Well, are we going to talk about it?",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,"Well, are we going to talk about it?",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,I think a two bedroom with a jungle view would be perfect,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,Well yes.....but why not just a lawn sign.,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
 2462,I'm not the one who said anything would be better than the 800-pound gorilla.,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
 2462,"It wasn't funny the FIRST time you ""rang for the butler!""",1.1971830985915493,0.06537223030395355,71.0,62.0,4.0,5.0,543
 2462,What's a three letter word for donkey?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
-2462,Your therapy pachyderm squashed my support Schnauzer.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,Your therapy pachyderm squashed my support Schnauzer.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,OLYPHANT! I said I like Tim OLYPHANT.,1.1971830985915493,0.0683808670743116,71.0,63.0,2.0,6.0,543
 2462,"I told you, there's no such thing as a teacup elephant.",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,There must be something besides Trump we could talk about.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
@@ -2537,8 +2537,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2462,It's the Republican parties 'Last Hurrah!',1.1971830985915493,0.06537223030395355,71.0,62.0,4.0,5.0,543
 2462,"Okay, if you insist, we can talk about it.",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
 2462,"Hurry up and figure it out. In 15 minutes, I have to be in another room.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
-2462,"""See honey? Isn't it better just to suppress our feelings when we disagree on topics we're deeply, emotionally invested in?",1.1971830985915493,0.047554769059532785,71.0,57.0,14.0,0.0,543
-2462,"Yes, of course I'm speaking metaphorically.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,"""See honey? Isn't it better just to suppress our feelings when we disagree on topics we're deeply, emotionally invested in?",1.1971830985915493,0.04755476905953279,71.0,57.0,14.0,0.0,543
+2462,"Yes, of course I'm speaking metaphorically.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,But it's really difficult not to talk about it.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,"If we don't talk about him, maybe he'll just go away.",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,I'll bet he gets trampled.,1.1971830985915493,0.06537223030395355,71.0,62.0,4.0,5.0,543
@@ -2548,7 +2548,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2462,It's like you don't even want to talk about it.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,"Of curse I'm a loyal Republican, but I don't see why it has to hide out at our house.",1.1971830985915493,0.06537223030395355,71.0,62.0,4.0,5.0,543
 2462,We should have gone with the RINO.,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
-2462,Have you built a boat in the basement too?,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,Have you built a boat in the basement too?,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,"I'm not acknowledging it, per se. I'm just saying that I'm tired of picking up 400 pounds of manure everyday.",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
 2462,Is it blocking your light?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,There's something we need to talk about.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
@@ -2558,7 +2558,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2462,"Face reality, honey—she’s pregnant.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,"I think Slow-Pokey wants to go out, dear.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,I'm talking about a REAL elephant in the room.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
-2462,I've addressed the elephant in the room. It's ours.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,I've addressed the elephant in the room. It's ours.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,No!... It's YOUR turn to change the litter box!,1.1971830985915493,0.06537223030395355,71.0,62.0,4.0,5.0,543
 2462,"Harold, can you really dispute that our life has become a cliche?",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,It is time we talked about the elephant in the room,1.1971830985915493,0.0683808670743116,71.0,63.0,2.0,6.0,543
@@ -2566,23 +2566,23 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2462,I think you are taking the Party support too far.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,Let's talk about something else.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,"""Honey, what are your plans with the Trump piñata? You have two more weeks, max",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
-2462,It's not funny anymore.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,It's not funny anymore.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,Next time I want vaulted ceilings.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,Can we talk about the elephant in the room?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
-2462,How much longer are we going to go before we address that godawful rug?,1.1971830985915493,0.047554769059532785,71.0,57.0,14.0,0.0,543
+2462,How much longer are we going to go before we address that godawful rug?,1.1971830985915493,0.04755476905953279,71.0,57.0,14.0,0.0,543
 2462,Why did you think that naming it would help?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,"Is it me, or is there something we should be talking about?",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,"I don't know where the Republican Party goes after Trump, but it isn't here.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,Is this our therapist's idea of a joke?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,"But Marty, it was the last one left at the Barney's trunk sale!",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
-2462,Really? You're telling me you can't see it?,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,Really? You're telling me you can't see it?,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,I don't want to talk about it.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,It is Donald Trump's favorite pet peeve.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,I think it's time for us to clear the air now.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
-2462,"Darn, what's that phrase again for the obvious problem that everyone is ignoring?",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,"Darn, what's that phrase again for the obvious problem that everyone is ignoring?",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,I haven't followed politics in a while. What's new?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,I told you we should have left that elephant under the table.,1.1971830985915493,0.0683808670743116,71.0,63.0,2.0,6.0,543
-2462,"I know what it is, and I don't need to keep hearing you say it.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,"I know what it is, and I don't need to keep hearing you say it.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,Plus there's still that unicorn in the garden.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,"Dear, I think it's time you took him for his nightly rampage.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,No! I am certainly not going to pull his finger.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
@@ -2592,13 +2592,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2462,"Is this the new elephant in the room, or the old one?",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
 2462,Wonder if elephants have hindsight?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,"No, you get the shovel.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
-2462,"I wonder if he knows, that we know he's in here...",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,"I wonder if he knows, that we know he's in here...",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,"OK, fine. If I agree to talk about the elephant in the room, will he finally go away?",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,"You know that any caption contest entry about 'the elephant in the room' doesn't stand a chance, right?",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
-2462,"Really, Do you have to be so literal?",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,"Really, Do you have to be so literal?",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,What elephant? It's just a mirage of Trump pretending not to be a donkey.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
-2462,Where's the donkey?,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
-2462,"Honey, there's something I've been meaning to talk to you about.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,Where's the donkey?,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
+2462,"Honey, there's something I've been meaning to talk to you about.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,"Oh, don't mention it.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,We'd be better off just getting him stuffed.,1.1971830985915493,0.06537223030395355,71.0,62.0,4.0,5.0,543
 2462,Can we stop talking about him?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
@@ -2606,16 +2606,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2462,I try not to think about it.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,I swear I hear the kitchen faucet dripping again.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,"No more excuses, we need a high volume toilet!",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
-2462,Is there? I hadn't noticed.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
-2462,"I don't know about you, but I plan on ignoring it.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,Is there? I hadn't noticed.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
+2462,"I don't know about you, but I plan on ignoring it.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,"It's just until the election's over, and then we'll let him free.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,"5 letters across, starts with T: Makes loud noises and habitually hurls mud.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,Do you expect me to cook for both of you?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,"Dear, put the paper down and there is something we have to talk about.",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
-2462,"Let me guess, there is an elephant in the room.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,"Let me guess, there is an elephant in the room.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,"If you think Trump's a problem, consider this: the maid just quit.",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
 2462,"He looked cold, so I let him in.",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
-2462,It's your turn to ignore!,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,It's your turn to ignore!,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,you pick it up next time.....,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
 2462,Speaking of Republican asses...,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,I don't want to sound cliche but...,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
@@ -2625,16 +2625,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2462,Race in America? I thought it was our sex life.,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
 2462,I think you're missing something really big!,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
 2462,You are losing it. There is no elephant in this room.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
-2462,I don't care if it is a rescue animal.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,I don't care if it is a rescue animal.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,I know.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
-2462,"Maybe it was okay having him around early in the primaries, but that was then and this is now.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,"Maybe it was okay having him around early in the primaries, but that was then and this is now.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,Was there something we needed to talk about?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,I mean that literally. And we have to deal with it.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,"I am not even going to say it Honey, it just to easy!",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
 2462,Looks like the GOP Establishment got kicked out of the Tea Party next door.,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
 2462,We're going to need a bigger litter box.,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
 2462,"YOU get under there, Mr. Twister champ.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
-2462,"He's also scared of mice, but at least he won't forget our anniversary.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,"He's also scared of mice, but at least he won't forget our anniversary.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,i thought you said he was a horse's ass,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,Okay 41 across..Large pachyderm....No don't tell me it's on the tip of my tongue...ummm.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,"I don't mind that your parents are Republicans, but agreeing to watch their pet while they're away is ridiculous.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
@@ -2644,9 +2644,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2462,"Well, Mr. Figure of Speech, we have to, because I just Googled it: every 6 hours and 20 pounds a pop.""",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
 2462,Voting Democrat; need the space!,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
 2462,"-------- in the room"" meaning an unspoken presence. ""Honey, what is an 8 letter word for...",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,543
-2462,"Honey, it's just our imagination. Everything is just fine.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,"Honey, it's just our imagination. Everything is just fine.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,Can we talk about the elephant in the room?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
-2462,She's waiting patiently for you to walk her.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,543
+2462,She's waiting patiently for you to walk her.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,543
 2462,So you showed them that the bylaws permit elephants as 'comfort animals'. Now what?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
 2462,"What elephant, Honey?",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,543
 2462,"Mary, we need to talk about your volunteer work at the rescue shelter.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,543
@@ -4231,11 +4231,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4230,I prefer an outsider.,1.1384615384615384,0.04842183966159297,65.0,57.0,7.0,1.0,543
 4230,We should rearrange the furniture.,1.1384615384615384,0.04842183966159297,65.0,57.0,7.0,1.0,543
 4232,"While he's in here, can't we decorate him for Christmas?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,We need to talk...,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,Now about the elephant in the room -- not this one .....,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,We need to talk...,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,Now about the elephant in the room -- not this one .....,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,Your pet no longer fits our life style.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,"I thin by talking about it, we made it bigger.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,"I've been meaning to ask, what exactly is wrong with ordering takeout? Or do you want to cook?",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"I thin by talking about it, we made it bigger.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,"I've been meaning to ask, what exactly is wrong with ordering takeout? Or do you want to cook?",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,But isn't it better to actually have the elephant in the room?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,My god Peter. Now he's grabbing pachyderm pussy!!!,1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,543
 4232,We cant ingnore it much longer ..,1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,543
@@ -4245,116 +4245,116 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4232,"I know this is your quiet time, but we HAVE to talk about the elephant in the room.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"The inspector from Housing Authority stopped by today and said, ""we have to address the elephant in the room"". He laughed as if it was funny.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"He wishes he could forget that you didn't walk him yesterday, but he just can't.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,It was speaking metaphorically.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,It was speaking metaphorically.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"Hey Corky, Bimbo goes or I go.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,I guess there's little left to say.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,I guess there's little left to say.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,Are we going to discuss the elephant in the room?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,I know you do not want to discuss it but the curbs on our street are overwhelmed.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,Those Trump boys will never find him here.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,"I know it's ""The Elephant"" in the room ... but there's really an elephant in the room!",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,I know you do not want to discuss it but the curbs on our street are overwhelmed.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,Those Trump boys will never find him here.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,"I know it's ""The Elephant"" in the room ... but there's really an elephant in the room!",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,Did I mention we're having company?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"I really don't feel like talking about it, dear.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,Let's discuss the elephant in the room.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Let's discuss the elephant in the room.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"Week after week, you check for your name in the back of that magazine, but your submissions will never be picked for the caption contest!",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Don't try and pretend the whole thing doesn't smell.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,Have you read anything about a lost trump?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,"Sure the other apartments were nice, but this is the real DUMBO.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Have you read anything about a lost trump?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,"Sure the other apartments were nice, but this is the real DUMBO.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"Now that he's grown too big to ignore, I think we should give him a name. Does ""Donald T. Rump"" sound too ridiculous?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,I think the problem between us is that you have a monkey on your back.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,I think the problem between us is that you have a monkey on your back.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,I thought you said it would leave once the election was over.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,We need to talk about the elephant dung in the room.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,What elephant? What room?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,Wait -- you support Trump?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Wait -- you support Trump?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,I'll be the one to bring up the elephant in the room.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"Honey, get the air freshner! No, it's not my imagination, something around here really stinks!",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,"From this day forth, we shall call all elephants in the room Trump.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,You don't want to hear it but I'm voting for a donkey.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,I think I would be remiss if I didn't address this development.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,"Next time you bet on the election, make the stakes a little more reasonable.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,I think I would be remiss if I didn't address this development.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,"Next time you bet on the election, make the stakes a little more reasonable.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,I am going to ignore the obvious people in the room.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,Can we talk about the elephant in the room? Donald Trump may be President!,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Can we talk about the elephant in the room? Donald Trump may be President!,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,Now can we talk about the elephant in the room?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,"I’m not kidding, there's an elephant in the room.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,Elephant? I don't see any elephant.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"I'm waiting for the other ""shoe"" to drop.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,"Sooner or later, he'll have to confront the truth about our marriage.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"Sooner or later, he'll have to confront the truth about our marriage.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"All I said was ""It's time to deal with the elephant in the room""",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Remember to bring a shovel and a big bag.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,We absolutely can't downsize until we address the Elephant in the Room.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,He came with the rug.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,Is this your way of saying we don't need any more furniture?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Is this your way of saying we don't need any more furniture?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,It's not that I mind taking him walkies Gerald. I'm just thinking about all the poop bags.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,"Endangered species, my ass! He's never gonna' leave.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"Endangered species, my ass! He's never gonna' leave.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"Dear, I have to tell you something.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,Relax Donald … the elephant isn’t really in the room until Gloria Allred says so!,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"So, how do you think we should re-start the Party?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"Whatever you do, i'm not voting for Trump.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Why can't you just acknowledge the elephant in the room?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,They talk as if I am nor even in the same room.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,Do I have to paint it pink before you address it?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,"Reince, do you think the ""Trump brand"" will ever recover?",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,Where are all of our peanuts going to?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Do I have to paint it pink before you address it?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,"Reince, do you think the ""Trump brand"" will ever recover?",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,Where are all of our peanuts going to?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,How much longer to you want to ignore the elephant in the room.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,"No, this is not what is meant by a figure of speech!",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"No, this is not what is meant by a figure of speech!",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"OK, let's vote Democratic.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Did you see the bedroom this morning?! Maybe we shouldn't have been in such a hurry to get him out of diapers.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"The elephant in the room may have small hands, but he has a big butt!",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,We need to talk.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,We need to talk.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"OK, OK. You made your point...let's talk.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,Today? oh not much to speak of.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,Do you think he knows we're here??,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Today? oh not much to speak of.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,Do you think he knows we're here??,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,He escaped from the Republican circus.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,Maybe it's time we talk to the Elephant in the room!,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,"Oh, him? Well, I stopped off at Costco this afternoon to pick up groceries, and it turns out they're selling pets now...",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Maybe it's time we talk to the Elephant in the room!,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,"Oh, him? Well, I stopped off at Costco this afternoon to pick up groceries, and it turns out they're selling pets now...",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,Well maybe the thing would leave if we stopped addressing it?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,I'll be happy when this election is over and we don't throw our political beliefs in each other's faces.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,Stop avoiding the subject.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,Are you going to tell me what that Trump bumper sticker is doing on your car?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,I'll be happy when this election is over and we don't throw our political beliefs in each other's faces.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,Stop avoiding the subject.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,Are you going to tell me what that Trump bumper sticker is doing on your car?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,I told you not to let her watch the debate!,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"It'll only be a few days: he's in witness protection. Not a word to the Trump ""children"", understand? They sue at the drop of a hat...",1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,543
 4232,I wish they'd stop talking about me.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,I'm not ignoring you - but there really is an elephant in here!,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,Talk about the elephant in the room!,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,I'm not ignoring you - but there really is an elephant in here!,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,Talk about the elephant in the room!,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,Is it too late to build a wall between us and him.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"Well, he can't fit in the bathroom, that's why he's here!",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,"Sure, I'm perfectly happy in our marriage, why?",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"Sure, I'm perfectly happy in our marriage, why?",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"Dear, you are hallucinating again. It's pink, not blue.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,Who knew they could grow so big?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,"She says to him: Finally, an end in sight.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,Got Peanuts?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Got Peanuts?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,We're changing this elephant to a Donkey come Novemer 8th!,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,I think we need to talk...,1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,543
-4232,"Peter, I explicitly said we were not going to mention the elephant in the room!",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"Peter, I explicitly said we were not going to mention the elephant in the room!",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,Judging by this elephant the Republicans are bigger than we thought!,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Schrodinger's Elephant is back!,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"He was a cute calf when we first saw him in the, ""Adopt a Pet"", ad.",1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,543
 4232,Eleven women!,1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,543
 4232,"Harold, your unwillingness to admit your affair is not the elephant in the room. The real issue is...the elephant in the room.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,You said you wanted to help. He'll be back on his feet in 4 years or so.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,OK-- YOU MADE YOUR POINT--YOUR VOTING REPUBLICAN.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,OK-- YOU MADE YOUR POINT--YOUR VOTING REPUBLICAN.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"Oh, come on honey, pull my finger.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,This house isn't big enough for the three of us.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,It was easier to ignore when its trump was smaller.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,One more remark about the elephant in the room and I'm out of here.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,I hope the elephant in the room doesn't become an issue between us.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,I hope the elephant in the room doesn't become an issue between us.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"'If you say so, dear' is not a solution.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,He's un-endorsed Trump,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,He's un-endorsed Trump,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"I know you're GOP, big-ly, but ...",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,What's that smell?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,Your turn to take him out.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Your turn to take him out.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,You're the one who smells like the African savanna.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,Let's stop ignoring the elephant in the room.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,"I'm still voting for Hillary, and you are my symbol mister jackass.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Let's stop ignoring the elephant in the room.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,"I'm still voting for Hillary, and you are my symbol mister jackass.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"I'm sorry, Darling.Is there something on your mind??",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,I think it's time we talk about the elephant in the room.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,I meant the soap.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,I meant the soap.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,I had a call from the condo association today about our Wilbur.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,With this election there is one in every room in the house!,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"I realize this elephant-in-the-room therapy is the trend, but to me, it stinks.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Now what was it you wanted to talk about?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,I think we need to talk about what's coming.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,Did you toot?!,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,But when was the last time you acknowledged me?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Did you toot?!,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,But when was the last time you acknowledged me?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,What elephant in the room?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,That's what you get for buying peanuts in bulk again.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,I'm not going to say it. It's too cliché.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
@@ -4364,21 +4364,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4232,"First the giant python in the office, then the whale in the car, and now the elephant in the house -- where will it end, Bob?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"Well, I hope 'MR. FLYING CARPET' is house-trained.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"Have you seen the movie ""There Will Be Blood?""",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,"She thinks the Republicans can't see her, if she can't see them.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"She thinks the Republicans can't see her, if she can't see them.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,I miss when it was just up to his eye.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,I don't care that you won't talk about it - I care that you won't clean up after it.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,I think it's time to cancel our monthly contribution to Trump 2016.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,We chose the wrong pet - and neither of us has had the courage to bring it up,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,How long are we supposed to pretend this is normal?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,"Im just heading out, can I get you guys anything?"" ""I'm fine honey, Peter do you want anything from outside?"" ""No I'm fine, thanks though",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,We REALLY need to talk about the elephant in this room.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"Im just heading out, can I get you guys anything?"" ""I'm fine honey, Peter do you want anything from outside?"" ""No I'm fine, thanks though",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,We REALLY need to talk about the elephant in this room.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,Get him out now before he gets a leg up on both of us.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"But, darling, he won't go away unless you acknowledge you voted for Trump.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,He isn't pink. He isn't white. He's just...here. Shh!,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"Why did someone write ""127 Main Street"" on the side of him?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"What elephant, dear?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,NOW can we address the elephant in the room?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,I thought the Ringling Bros and Barnum & Bailey circus elephants retired in Florida.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,I thought the Ringling Bros and Barnum & Bailey circus elephants retired in Florida.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"Seriously?, you won't even talk about this elephant in the room?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Let's keep her mate in the spare bedroom until we get the HOA bylaws revised.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,The peanut-breath is starting to get to me.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
@@ -4386,22 +4386,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4232,We've got to stop ignoring the elephant in the room !,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"It may sound like a cliche, but we really have to talk about it.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Let's continue to ignore the elephant in the room.,1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,543
-4232,So Trish is going to be staying with us until her lawsuit against the bariatric surgeon is resolved.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,What elephant? What room?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,We're still not addressing the elephant in the room.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,That's the trouble with Trump. Every household has one now.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,So Trish is going to be staying with us until her lawsuit against the bariatric surgeon is resolved.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,What elephant? What room?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,We're still not addressing the elephant in the room.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,That's the trouble with Trump. Every household has one now.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,I know you like reading the newspaper but we need to discuss the elephant in the room.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,Is this a leed up to another one of your complaints about my mother?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,I told you to get a gorilla,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"she said the sign at the circus said ""elephants need not apply"".",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"And how was your day, dear ?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,You never want to talk about the elephant in the room!,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,I think his GPS was rigged.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,"GOP...gone, Trump Party... WRONG, Rump Party!!",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,I think his GPS was rigged.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,"GOP...gone, Trump Party... WRONG, Rump Party!!",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,Need I say it?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"Be supportive, he's transitioning, he just hasn't decided to what yet.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,I do want to talk about the elephant in the room.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,I'm hiding him from the Trump boys.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,I do want to talk about the elephant in the room.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,I'm hiding him from the Trump boys.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"Honey, you already made your point.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,How was your day?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"This new coffee table isn't as big and unwieldy as the crooked media makes it out to be, believe me.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
@@ -4410,9 +4410,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4232,"I was going to make an overused joke here, but forget it.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,Can we trade this in for a donkey!?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"No, you're the ass....I told you to change parties years ago.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,"I said we should invest in DUMBO, not Dumbo.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,"Honey, let's talk about it.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,"You can't ignore the elephant in the room forever, Jimmy.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"I said we should invest in DUMBO, not Dumbo.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,"Honey, let's talk about it.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,"You can't ignore the elephant in the room forever, Jimmy.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,I'm leaving you.,1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,543
 4232,He's just a little nervous about the elections.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,The realtor never brought it up.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
@@ -4421,25 +4421,25 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4232,He's not the ONLY elephant in the room.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,I still think the condo was a bad idea.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"No, I was referring to the one between us.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,Can we talk?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Can we talk?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,I hope you didn't feed him any beans for dinner.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"George ... we need to address the elephant in the room . It's the ceiling ... it's too high and you know it , we need to get it redone.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"Like Trump, we'll have a lot of excrement to clean up.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"If we forget about it, will it just go away?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Don’t worry — I stocked up on extra air fresheners.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,Relax. He needs a place to store his trunk for a few days. He first got retired by Ringling Brothers and then fired by the Trump campaign.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Relax. He needs a place to store his trunk for a few days. He first got retired by Ringling Brothers and then fired by the Trump campaign.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,A few hands of bridge? Where are we going to find a fourth at this hour?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,I think he needs to go for a walk.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,I feel like we should address it,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,Does the elephant go right or left?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,That's not what I'm reading at #riggedmedia.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,"Sooner or later, one of us is going to have to bring up a yuuuuge issue.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,I feel like we should address it,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,Does the elephant go right or left?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,That's not what I'm reading at #riggedmedia.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,"Sooner or later, one of us is going to have to bring up a yuuuuge issue.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"Donald, I think we need to discuss the Elephant in the room.",1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,543
-4232,"My list is long, and feeding him prunes just adds to the list!",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"My list is long, and feeding him prunes just adds to the list!",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"But if there is no one there to hear him, Irving, does he make a sound?",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,Thank God the Trump Laxative™ doesn't work.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,He's practicing his concession speech.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,Too on the nose?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Too on the nose?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"I admit I chuckled at ""pachy-dorm"" but that was in January, Carl.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Do you really think the bad lighting in here is the elephant in the room?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,That offhand remark about how big she's gotten ... did you really consider her feelings?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
@@ -4449,45 +4449,45 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4232,Seriously? I can't imagine there's anything significant we haven't already discussed.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,"He's depressed, he wants to watch the Ronnie Raygun marathon again.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,When Donald leaves the room he takes all the oxygen with him.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,I don't want to talk about it.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,I don't want to talk about it.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"I know it's endangered, but keeping it is not going to save the Party!",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,But it's your turn to walk him!,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,"Look, he's gluten intolerant. The oats were just NOT a good idea.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,But it's your turn to walk him!,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,"Look, he's gluten intolerant. The oats were just NOT a good idea.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"For so-called limited government, it sure is HUGE, obnoxious, and foul.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,"Listen, I don't want to talk about it!",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"Listen, I don't want to talk about it!",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"So I told her, ""It's a Chris Ofili elephant,"" and she hadn't a clue.",1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,543
 4232,Are you really voting for Trump?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,"Uh-oh, I forgot to buy the training pads.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,"Oh, yes, I agree, this year's presidential campaign has gone exceptionally well.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"Uh-oh, I forgot to buy the training pads.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,"Oh, yes, I agree, this year's presidential campaign has gone exceptionally well.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,Don't worry about him. That rule's only for 800 lb. gorillas.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Can we talk?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,Well??? Are we???,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Well??? Are we???,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,I 'll take an elephant in the room any day over an 800 pound gorilla.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"This way, I'll never forget your birthday.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Let's hope he remembers where he is!,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,"Bob: Crossword - 10 across (8 letters): ""White Unspoken Awkwardness in the Room."" Mary: Elephino. Bob: Yeah I'm not sure either.",1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,543
 4232,He used to be in the big tent.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Do you think we can get the taxidermist to also stuff our couch?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,"Honey, I smell the stench of the Republican Party.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"Honey, I smell the stench of the Republican Party.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,I thought we agreed to vote Democrat this year.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,"Come on, I’ve heard your thoughts on everything else.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
-4232,Next time we're getting a toy poodle.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"Come on, I’ve heard your thoughts on everything else.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
+4232,Next time we're getting a toy poodle.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,I suppose we should talk about him.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,So what's the shovel in the room?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Do you want to talk about it?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Why did you promise to elephant-sit over the holidays?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Tuck Frump.,1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,543
 4232,"He can criticize women's bodies all day long, but what an ass!",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,"Honey, is it something you ate?",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"Honey, is it something you ate?",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,I'm tired of politics. The end is near.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,"If you wanted peanuts, all you had to do was ask.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,"If you wanted peanuts, all you had to do was ask.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,So?? NOW can we talk about it??!!,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
-4232,I call him that because he trumpets.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,I call him that because he trumpets.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,But Larry I am talking about the elephant in the room,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,H e is fed up being a figure of speech!,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,H e is fed up being a figure of speech!,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"Ted, I think it's time we went back to the therapist.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,543
 4232,"So, I guess neither of us is going to address Babar, then?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
-4232,Did they really mean it literally?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,543
+4232,Did they really mean it literally?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,543
 4232,"Yes, I know I did, but I assumed you meant a dog or a cat.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4232,Relax! If he's not house trained I'll take him back to SPCA,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,543
 4492,"He doesn't belong here. This is a foyer, not a room.",1.1285714285714286,0.04951704046747739,70.0,63.0,5.0,2.0,543
@@ -4529,7 +4529,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4525,Can we delete this? It worked for her emails.,1.125,0.0472455591261534,64.0,57.0,6.0,1.0,543
 4525,Isn't it time to address the elephant in the room,1.125,0.0472455591261534,64.0,57.0,6.0,1.0,543
 4530,"Nobody wants him, not even the Towers.",1.1230769230769229,0.05593476758557304,65.0,60.0,2.0,3.0,543
-4530,We're going to need a bigger room.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,543
+4530,We're going to need a bigger room.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,543
 4532,I think the g-o-r-i-l-l-a was better company.,1.1212121212121209,0.05070666827479246,66.0,60.0,4.0,2.0,543
 4533,Looks like the 400 lb Gorilla didn't work,1.1166666666666667,0.04179359199028118,60.0,53.0,7.0,0.0,543
 4533,Now let's talk about the room in the elephant.,1.1166666666666667,0.0480798927085172,60.0,54.0,5.0,1.0,543
@@ -5146,7 +5146,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,What time do you think we should leave for the Trump rally?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,There's a pink-faced guy with big hair outside insisting on squeezing inside.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"This seems a little on the nose, even for you, honey.",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
-5141,The elephant in the room grows when I read the paper.,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,The elephant in the room grows when I read the paper.,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,Don't say a word. We'll pretend it never happened.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"We could use a bigger house, Mr. Elephant Tight-Ass.",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,I can't remember when we discussed this in earnest,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
@@ -5155,13 +5155,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,Who invited Rosie O' Donnell? - Trump 2016,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,My shrink says that I have been in denial all my life and that I am a closet Republican and that's why I feel this primal urge to vote for Trump.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,But specifically the one part of the elephant in the room.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
-5141,The new 'Pick up after your pet' proposition' just passed.,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,The new 'Pick up after your pet' proposition' just passed.,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,Could you please convince him that the election is over?,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
-5141,Who knew we'd sublet from Brooke Shields!,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,Who knew we'd sublet from Brooke Shields!,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,Let's discuss the elephant in the room.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
-5141,"Peter, we need to discuss the elephant in the room: we need more lamps.",1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,"Peter, we need to discuss the elephant in the room: we need more lamps.",1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,You're thge Republican--you walk him.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
-5141,Hm.. how much for this house?,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,Hm.. how much for this house?,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,BBBBBBIIIIIIIIIIGGGGGGG,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"ya know, I don't appreciate your nightly greeting: ""what's up, elephant butt!""",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,I think we need a bigger kitchen.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
@@ -5175,7 +5175,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,Have you seen our waiter?,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,I'm afraid our friends aren't being kind about him when they talk about the elephant in the room.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,Must you always bring up the elephant in the room?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
-5141,Trump represents the last gasp of 1950's misogyny.,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,Trump represents the last gasp of 1950's misogyny.,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,"So it walked in front me. Believe me, I'm not impressed.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,There are so many issues facing the next president.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,So.... what you're saying is our political system has some flaws.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
@@ -5199,14 +5199,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,Yes he works for Foundation Sturdy To Go and knows its going to pass mustard.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"He just followed me home.Check the 'lost pet""section.",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,You're the one who used the cliche.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
-5141,"Why are you ignoring the elephant in the room? No, seriously there is an elephant in the room.",1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,"Why are you ignoring the elephant in the room? No, seriously there is an elephant in the room.",1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,"All I said was, I don't think any amount of plastic surgery will help.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,What happens when the elephant in the room is actually an elephant in the room?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,How long will we be able to ignore the elephant turds in the room?,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
-5141,"Just like the fifty shades of grey before, it stinks.",1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,"Just like the fifty shades of grey before, it stinks.",1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,I'm voting for Trump.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"It's a super pachyderm, there all this time.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
-5141,I thought you did!,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,I thought you did!,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,I've always appreciated your candor,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"' No, I did not vote Republican in the primary. """,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,She says she'd rather be back in the circus.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
@@ -5214,7 +5214,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,I hope you're satisfied that you've now succeeded in making the elephant in the room angry.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,Did you hear what I just said.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"Before you say anything, Jim, shouldn't we call pest control?",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
-5141,You might want to start talking. I taught her to sit.,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,You might want to start talking. I taught her to sit.,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,herbert is going through his midlife metamorphosis.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"Marty, I think what the therapist meant was follow your dreams, not follow up on your dreams!",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"I'm sorry I said that about your mother. Now can you tell the elephant to leave the room, please?",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
@@ -5255,7 +5255,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,I suppose sooner or later I will have to address the people in the room... but not today.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,I don't care if he's an Animorph he's our son and we need to be supportive.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,How does Congress get anything done in here?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
-5141,"Phew! Ed, I think he needs to go out.",1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,"Phew! Ed, I think he needs to go out.",1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,"Don't you think calling him ""Donald"" is a touch too literal?",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,It's obvious the Bonsai-Elephant Project hasn't worked as planned!,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,I don't see why we can't have at least one room just for ourselves.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
@@ -5283,7 +5283,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,"Oh, no, he's come home! You know what that means.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,Hope she finds the bathroom,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"Honey, is this your way of telling me that you are voting for Donald Trump?",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
-5141,"I've often wondered about the ""The Elephant in the Room"".",1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,"I've often wondered about the ""The Elephant in the Room"".",1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,I'm not sure she's ready for Middle Zoo yet.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,Please don't talk about me.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"Listen, here's the deal, I'm not gonna judge you for all that sexy Sonic the Hedgehog stuff you look at on the internet and you're not gonna judge me for buying this elephant. His name is Travis.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
@@ -5297,7 +5297,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,"Apparently, it wandered in starving during the storm and someone from the hotel fed it until it couldn't move.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"I have to be honest. I don't think you thought through this whole ""pet sitting for the boss"" thing very well.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"Is it me, or is it PACH-y-derm-ed in here?!",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
-5141,You brought it into the room; you better be ready to clean up it's mess.,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,You brought it into the room; you better be ready to clean up it's mess.,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,You didn't want to discuss him when he was outside.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,The time has come for a new Republican icon!,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,Didn't you say 'ignorance is bliss'?,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
@@ -5314,11 +5314,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,"Avoiding the zookeeper, Ella took refuge in the Smith's living room.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,Just keep not talking.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,I think donkey would be better here,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
-5141,Do you smell popcorn?,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,Do you smell popcorn?,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,"When I suggested being foster parents, I had something different in mind.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"Honey, it's been a week, we need to discuss the elephant in the room.",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,Should we talk about the 800-pound gorilla in the room?,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
-5141,That's so rude. You don't see the Democrats parading their donkey around.,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,That's so rude. You don't see the Democrats parading their donkey around.,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,You wanted him. You got him. And now you have to clean the carpets.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,DonD....Don't you think it will shed more light on our situation if we discuss the elephant in the room?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,Let's start by talking about your inability to make any decision on home decorating.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
@@ -5361,7 +5361,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,We can't keep ignoring him.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"Quick, change her back! Here comes little Timmy looking for Grandma!",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"Please, let me keep him!",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
-5141,Is this what you meant when you said you liked ta party?,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,Is this what you meant when you said you liked ta party?,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,"I'm not going to talk about you-know-who, but we really need a bigger place.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,I know you're a staunch Republican but it's time to acknowledge the elephant in the room.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,You should probably cover your eyes when he releases dear.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
@@ -5369,13 +5369,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,Is it the Donald or Miss Universe?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"I realize you're a supporter, but keeping it here won't stop the rumors.",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"I get the point, Larry",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
-5141,Should we worry about what will become of the political hay?,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,Should we worry about what will become of the political hay?,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,"Mouse Alert: system test in three, two, one...",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,I wonder if Trump knows?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"Okay, your boss isn't just a horse's ass.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"We've been over this: no ifs, ands, or butts...",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"I thanked him for it, but he said, ""Don't mention it.""",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
-5141,"You know, in some ways, I feel like Peanuts rescued me.",1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,"You know, in some ways, I feel like Peanuts rescued me.",1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,"I know it's a jungle out there, but I wish you wouldn't bring your work home.",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"If you think we'll get our apartment back, I'd be up for sending him to Washington.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,When will potty training ever end?,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
@@ -5393,8 +5393,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,"Our life has grown a tad predictable, don't you think?",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"Look at that! He extends the full length of the room, from his trunk to his trump.",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"Gerry, it's time to talk about the elephant in the room.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
-5141,You're telling me this thing is nuclear?!,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
-5141,I'm just going to ignore the fact there are people in the room.,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,You're telling me this thing is nuclear?!,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
+5141,I'm just going to ignore the fact there are people in the room.,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,"Believe me, she was not my first choice.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,It's your turn to shovel out the rose petals.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,You just raised a vegitarian as a condition of acceptance for homestay,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
@@ -5402,7 +5402,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,No I won't discuss it-- it's your elephant!,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,I don't see the elephant in the room. Do you see the elephant in the room?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"OK, tell me again EXACTLY what made you invite ""it"" in when you found it sitting outside the back door....",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
-5141,"Okay, Okay, I apologize for not believing that you were a Big Game Hunter.",1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,"Okay, Okay, I apologize for not believing that you were a Big Game Hunter.",1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,OK...We'll flip a coin to decide who housebreaks him.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,Oh I Just remembered I have to go vote!,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,Our relationship is becoming a circus,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
@@ -5418,7 +5418,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,"Don't look now, but is that the same elephant from our flight down here?",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"It's almost 2017, it's time for a magnetic flap.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"Musicianship aside, I just can't bring myself to support a band called 'Loverboy'",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
-5141,"Don't get me wrong. The rug's nice, but given how small this room is...I mean, criminy!...do I really have to share this space with these rude, inane people?",1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,"Don't get me wrong. The rug's nice, but given how small this room is...I mean, criminy!...do I really have to share this space with these rude, inane people?",1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,Quick! Take him for a walk. He needs to go to the bathroom.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,We can't keep ignoring the elephant in the room !,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,Are you going to address this or just pretend it's not in the room?,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
@@ -5429,17 +5429,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5141,Why didn't you tell me we signed up for a white elephant?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"No, you sit there. I'll walk Mr. Wrinkles again.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"I was ready to accept it, but you had to invite him to live with us!",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
-5141,"Yes, she's my mother but must you always be so literal??",1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,"Yes, she's my mother but must you always be so literal??",1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,I told you before: We should not be reading during his bedtime.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
-5141,I can't talk to you with the elephant in the room.,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
-5141,Another anniversary celebrating together,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,I can't talk to you with the elephant in the room.,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
+5141,Another anniversary celebrating together,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,Before we start we just have to know who is the elephant in the room -- Me?,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"He was not careful with the diet as he was reared , and now there is no way out .",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,Check Ebay for what elephant manure goes for.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,"Honey, I think it's your turn to apply the Miracle Anti-Wrinkle Cream.",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
-5141,I still don’t see that 600 pound gorilla in the room.,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,I still don’t see that 600 pound gorilla in the room.,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,"I know you want folks to see you are a Republican, but enough is enough!",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
-5141,"WHAT CAN WE DO, HE'S CONSTIPATED?",1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,543
+5141,"WHAT CAN WE DO, HE'S CONSTIPATED?",1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,543
 5141,Trump Library Rule #1: Don't Mention It. Or anything else.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,543
 5141,"speaking of which, you voting for Trump?",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543
 5141,May we discuss the elephant in the room now?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,543

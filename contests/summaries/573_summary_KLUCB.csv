@@ -17,21 +17,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 16,The ale for what cures you.,1.875,0.029509434780298525,744.0,293.0,251.0,200.0,573
 17,This is what happens when you're admitted to a university hospital on the weekend.,1.8727931190583973,0.016346217948331174,2209.0,810.0,870.0,529.0,573
 18,Thank goodness for the Affordable Beer Act.,1.871667699938004,0.019338849612541488,1613.0,603.0,614.0,396.0,573
-19,"Blue Ribbon, Blue Shield ... It all sounded the same when I signed up for health care.",1.85838779956427,0.02564414785266574,918.0,351.0,346.0,221.0,573
-20,The doctor's coming in later to give me a shot.,1.8534435261707989,0.018746177383549292,1815.0,731.0,619.0,465.0,573
+19,"Blue Ribbon, Blue Shield ... It all sounded the same when I signed up for health care.",1.8583877995642701,0.02564414785266574,918.0,351.0,346.0,221.0,573
+20,The doctor's coming in later to give me a shot.,1.8534435261707989,0.01874617738354929,1815.0,731.0,619.0,465.0,573
 21,It's craft blood from a little bank in the Finger Lakes region.,1.842350203606748,0.019319497935101227,1719.0,708.0,574.0,437.0,573
 22,Couldn't you just use medical marijuana like everybody else.,1.8399539435808865,0.01867374203312905,1737.0,687.0,641.0,409.0,573
 23,"One is a placebo, the other's a single malt.",1.8164867517173704,0.0234961211722091,1019.0,397.0,412.0,210.0,573
-24,I was just transferred to the fraternity ward.,1.814565826330532,0.01846386602750161,1785.0,739.0,638.0,408.0,573
+24,I was just transferred to the fraternity ward.,1.8145658263305318,0.01846386602750161,1785.0,739.0,638.0,408.0,573
 25,"I'm aleing, Susan.",1.79923273657289,0.019950299699459988,1564.0,675.0,528.0,361.0,573
 26,"Yea, this is the anesthesia you get when you have no insurance.",1.7982646420824295,0.03596126184721025,461.0,193.0,168.0,100.0,573
-27,They gave a me choice of painkillers.,1.7961302501179799,0.015483288381182712,2119.0,798.0,955.0,366.0,573
+27,They gave a me choice of painkillers.,1.79613025011798,0.015483288381182712,2119.0,798.0,955.0,366.0,573
 28,"Two cans ago I was beginning to question Trumpcare, but now, not so much.",1.7851037851037852,0.018606989408166203,1638.0,678.0,634.0,326.0,573
 29,"Medical license? No, but he has a liquor license.",1.7836764174792343,0.015107854469142118,2769.0,1239.0,890.0,640.0,573
 30,"He also wears a foam ""we're #1"" finger for my prostate exam.",1.7790626902008522,0.019754567681487444,1643.0,748.0,510.0,385.0,573
 31,I'm supposed to push that button if I need more nachos.,1.7742805755395683,0.022802084791925376,1112.0,475.0,413.0,224.0,573
 32,Things are different with Trumpcare.,1.762081784386617,0.04722406164835584,269.0,120.0,93.0,56.0,573
-33,It's the only treatment covered by my insurance.,1.75531914893617,0.014939537961374738,2914.0,1391.0,845.0,678.0,573
+33,It's the only treatment covered by my insurance.,1.7553191489361701,0.014939537961374738,2914.0,1391.0,845.0,678.0,573
 34,They said my blood type is Bud positive.,1.7496259351620949,0.016934759624996784,2005.0,890.0,727.0,388.0,573
 35,The doctor said to live it up while I still have insurance.,1.7492236024844718,0.020431751535914904,1288.0,548.0,515.0,225.0,573
 36,"Well, they said 'nothing by mouth.' What else was I to do?",1.7415287628053586,0.020786010331678508,1269.0,554.0,489.0,226.0,573
@@ -58,18 +58,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 57,"The nurse asked me how I was doing, and I said I could really use a couple of beers.",1.6161904761904762,0.02239313319877319,1050.0,555.0,343.0,152.0,573
 58,And you said voting for this health care bill was a bad idea.,1.6136363636363635,0.022887003543352973,1012.0,539.0,325.0,148.0,573
 59,Insurance said the Keg was out-of-network.,1.6134831460674155,0.023716618216135986,890.0,461.0,312.0,117.0,573
-60,They're measuring my carbonation footprint.,1.611641221374046,0.025915613048268168,1048.0,651.0,153.0,244.0,573
+60,They're measuring my carbonation footprint.,1.6116412213740459,0.025915613048268168,1048.0,651.0,153.0,244.0,573
 61,They told me this is how they do it here in Milwaukee.,1.610340479192938,0.02481013051021101,793.0,408.0,286.0,99.0,573
 62,The doctor said he'll check on me at half time.,1.6015831134564644,0.03611339519375165,379.0,199.0,132.0,48.0,573
 63,I told you the health care benefit package at the brewery was great.,1.600284495021337,0.026274052564999987,703.0,367.0,250.0,86.0,573
-64,It tastes great and is less billing.,1.5995475113122173,0.024752346866255732,884.0,487.0,264.0,133.0,573
+64,It tastes great and is less billing.,1.5995475113122173,0.02475234686625573,884.0,487.0,264.0,133.0,573
 65,Next time lets not select the red neck plan,1.5957696827262045,0.025407299978139872,851.0,475.0,245.0,131.0,573
 66,I'm starting to think that this isn't a real hospital.,1.5945330296127562,0.0339654810119135,439.0,236.0,145.0,58.0,573
 67,"Sorry, everything goes out one ear and out the other.",1.5930372148859544,0.027101393835809704,833.0,493.0,186.0,154.0,573
 68,Trump's tweets are making more sense every day.,1.5873544093178036,0.029586908817114257,601.0,333.0,183.0,85.0,573
 69,You're looking better by the minute......,1.5852047556142668,0.02623033357158716,757.0,419.0,233.0,105.0,573
 70,Nothing between my beers ?????,1.5828804347826086,0.028224612646018464,736.0,433.0,177.0,126.0,573
-71,The doctor only said I couldn't DRINK beer.,1.5796089385474859,0.02586406877741181,716.0,385.0,247.0,84.0,573
+71,The doctor only said I couldn't DRINK beer.,1.579608938547486,0.02586406877741181,716.0,385.0,247.0,84.0,573
 72,Medical marijuana is so 2015.,1.5775075987841944,0.026802056361695213,658.0,353.0,230.0,75.0,573
 73,"Now, this is what I call IV league treatment!",1.5766423357664234,0.04491323729562901,274.0,158.0,74.0,42.0,573
 74,It's a little more hoppy than my last IV.,1.5765124555160142,0.02856237430723956,562.0,298.0,204.0,60.0,573
@@ -90,7 +90,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 89,"No, it's actually drawing the beer OUT of my body",1.5469483568075115,0.03466500693325595,426.0,249.0,121.0,56.0,573
 90,They found traces of blood in my alcoholstream.,1.5379746835443038,0.03229369916768679,474.0,277.0,139.0,58.0,573
 91,The doctor says I have only three months to party.,1.536866359447005,0.0340525708483812,434.0,256.0,123.0,55.0,573
-92,The doctor is an old fraternity brother. Why?,1.535483870967742,0.03262582358663617,465.0,273.0,135.0,57.0,573
+92,The doctor is an old fraternity brother. Why?,1.5354838709677419,0.03262582358663617,465.0,273.0,135.0,57.0,573
 93,"No, no...it's completely different from beer, it's medicinal beer.",1.5353075170842825,0.03407065156766528,439.0,261.0,121.0,57.0,573
 94,"It’s a mix of beer, electrolytes, adrenaline and hopeless optimism.",1.534521158129176,0.03228884343609801,449.0,258.0,142.0,49.0,573
 95,You have to admire a hospital that considers every alternative to opioids.,1.5320088300220749,0.032085028613814105,453.0,261.0,143.0,49.0,573
@@ -120,7 +120,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 119,Doc says I should be tailgating again in no time.,1.488817891373802,0.039219423388476206,313.0,196.0,81.0,36.0,573
 120,"Believe it or not, this is the twelfth step.",1.488599348534202,0.04058162461209098,307.0,196.0,72.0,39.0,573
 121,I'm multi-flasking.,1.4868421052631582,0.0386988985195218,304.0,187.0,86.0,31.0,573
-122,"Frankly, I don't want to beat this thing.",1.4846416382252559,0.03945442479656778,293.0,181.0,82.0,30.0,573
+122,"Frankly, I don't want to beat this thing.",1.484641638225256,0.03945442479656778,293.0,181.0,82.0,30.0,573
 123,Wait until you see how they serve the jello.,1.4828767123287672,0.04242152227863367,292.0,191.0,61.0,40.0,573
 124,I'm sort of liking the pre-op coverage from our new health insurance plan.,1.4813559322033898,0.03587895172755368,295.0,172.0,104.0,19.0,573
 124,My Bud count was low!,1.4813559322033898,0.0404128723225837,295.0,187.0,74.0,34.0,573
@@ -147,7 +147,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 146,Best. Colonoscopy. Ever.,1.4529914529914532,0.046910903656034966,234.0,159.0,44.0,31.0,573
 147,Cerebral bypass ... Trump invented it.,1.4525862068965518,0.047216610160392455,232.0,158.0,43.0,31.0,573
 148,Wanna hook up?,1.4497816593886463,0.04603993206361357,229.0,153.0,49.0,27.0,573
-149,I'm I.P.A. positive,1.4493392070484579,0.04717413101595811,227.0,154.0,44.0,29.0,573
+149,I'm I.P.A. positive,1.449339207048458,0.04717413101595811,227.0,154.0,44.0,29.0,573
 150,"Maybe ""fraternity sponsored clinical trial"" should have tipped you off.",1.4469026548672566,0.04341898316954272,226.0,145.0,61.0,20.0,573
 150,"Don't give me that look, it's Blood Light.",1.4469026548672566,0.04519439751271183,226.0,149.0,53.0,24.0,573
 152,No co-pay and it comes with nachos.,1.445945945945946,0.0448868037042139,222.0,145.0,55.0,22.0,573
@@ -159,17 +159,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 158,Exactly what was their excuse for taking me off the liver transplant list?,1.4407582938388626,0.04937192492427892,211.0,146.0,37.0,28.0,573
 159,"Hey, it's Anheuser Busch Medical Center. What did you expect?",1.4392523364485983,0.04460993251529003,214.0,139.0,56.0,19.0,573
 160,I'm trying to listen to what my body is telling me.,1.4386792452830188,0.045890502925021656,212.0,140.0,51.0,21.0,573
-161,This second opinion thing was a good idea.,1.4380952380952379,0.04097669457921625,210.0,129.0,70.0,11.0,573
-161,Don't ask where they put the catheter.,1.4380952380952379,0.04813572510447668,210.0,143.0,42.0,25.0,573
-163,We already met the deductible so I figured why not?,1.4375,0.044999767743733585,208.0,135.0,55.0,18.0,573
+161,This second opinion thing was a good idea.,1.438095238095238,0.04097669457921625,210.0,129.0,70.0,11.0,573
+161,Don't ask where they put the catheter.,1.438095238095238,0.04813572510447668,210.0,143.0,42.0,25.0,573
+163,We already met the deductible so I figured why not?,1.4375,0.04499976774373359,208.0,135.0,55.0,18.0,573
 164,Wait'll you see how I have to take the pills.,1.4334975369458127,0.04983810710868509,203.0,141.0,36.0,26.0,573
 164,It was this or medical marijuana,1.4334975369458127,0.04628632053303406,203.0,134.0,50.0,19.0,573
 164,I think I might be getting the placebo.,1.4334975369458127,0.04522031366547466,203.0,132.0,54.0,17.0,573
 167,"The Doctor said, ""Take Dos Equis and call me in the morning.""",1.430939226519337,0.05028669809466228,181.0,122.0,40.0,19.0,573
 168,Now go put on your nurse outfit.,1.4306930693069306,0.0453572541352749,202.0,132.0,53.0,17.0,573
 169,I've changed my mind about holistic therapy.,1.4292929292929293,0.043115511910804136,198.0,125.0,61.0,12.0,573
-170,The doc says I can resume normal asinine activities as soon as my beer levels are stabilized.,1.4285714285714286,0.04631925705411306,196.0,129.0,50.0,17.0,573
-170,You have nothing to worry about. My blood type is IPA.,1.4285714285714286,0.04631925705411306,196.0,129.0,50.0,17.0,573
+170,The doc says I can resume normal asinine activities as soon as my beer levels are stabilized.,1.4285714285714286,0.046319257054113064,196.0,129.0,50.0,17.0,573
+170,You have nothing to worry about. My blood type is IPA.,1.4285714285714286,0.046319257054113064,196.0,129.0,50.0,17.0,573
 172,The doctor and me were at lager heads.,1.425531914893617,0.04828302621351919,188.0,126.0,44.0,18.0,573
 172,"Well, this is a college hospital after all.",1.425531914893617,0.04648206901623953,188.0,123.0,50.0,15.0,573
 174,They say I'm in recovery! Just don't know what from.,1.4240837696335078,0.0434934944948056,191.0,121.0,59.0,11.0,573
@@ -196,23 +196,23 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 190,What pain?,1.4069767441860466,0.0499937531481122,172.0,118.0,38.0,16.0,573
 190,Apparently the intern belonged to a fraternity.,1.4069767441860466,0.0506692688899172,172.0,119.0,36.0,17.0,573
 197,I can hear the ocean.,1.406060606060606,0.052221152401023166,165.0,115.0,33.0,17.0,573
-198,The operation is working; you look better already.,1.4052287581699343,0.05281702200632338,153.0,105.0,34.0,14.0,573
+198,The operation is working; you look better already.,1.4052287581699343,0.052817022006323384,153.0,105.0,34.0,14.0,573
 199,Paul Ryan says it WILL be covered under the GOP healthcare bill.,1.4050632911392404,0.05238639142539371,158.0,109.0,34.0,15.0,573
 200,It's not helping with the spasms but I'm much better with my lager rhythms.,1.4049079754601228,0.05195418953589972,163.0,113.0,34.0,16.0,573
 201,And then they took my pulse with a big foam finger!,1.4047619047619049,0.05011968512517808,168.0,115.0,38.0,15.0,573
 201,They told me it's called Bloodweiser.,1.4047619047619049,0.04793876133941991,168.0,112.0,44.0,12.0,573
 203,"Apparently, there was too much blood in my alcohol system.",1.4036144578313252,0.046787187767832215,166.0,109.0,47.0,10.0,573
 203,"At this point, they say they just want me to be comfortable.",1.4036144578313252,0.04907238520395907,166.0,112.0,41.0,13.0,573
-203,I'm dying for some pretzels.,1.4036144578313252,0.05053847732036759,166.0,114.0,37.0,15.0,573
+203,I'm dying for some pretzels.,1.4036144578313252,0.050538477320367585,166.0,114.0,37.0,15.0,573
 203,"Okay, so you were right. Everything does go in one ear and out the other.",1.4036144578313252,0.04600023466347325,166.0,108.0,49.0,9.0,573
 207,It's part of their new Blue Cross/ Pabst Blue Ribbon treatment plan.,1.4024390243902438,0.0509666488633309,164.0,113.0,36.0,15.0,573
-208,"Doctor's order, Mom... I swear !",1.3987730061349692,0.04809471242634666,163.0,109.0,43.0,11.0,573
+208,"Doctor's order, Mom... I swear !",1.3987730061349692,0.048094712426346664,163.0,109.0,43.0,11.0,573
 208,The tests indicated that my hops level was dangerously low.,1.3987730061349692,0.05114746143777525,163.0,113.0,35.0,15.0,573
-208,it's in one ear and out the other,1.3987730061349692,0.053322452097080995,163.0,116.0,29.0,18.0,573
+208,it's in one ear and out the other,1.3987730061349692,0.053322452097081,163.0,116.0,29.0,18.0,573
 208,My employer went with a plan that excludes general anesthesia.,1.3987730061349692,0.05402799514774196,163.0,117.0,27.0,19.0,573
 208,It only hurts when I think.,1.3987730061349692,0.05609140171007692,163.0,120.0,21.0,22.0,573
 213,It's a double by-Pabst.,1.3975155279503106,0.05006168795961327,161.0,110.0,38.0,13.0,573
-213,The doctor prescribed it to take the edge off of visiting hours.,1.3975155279503106,0.047678646653478984,161.0,107.0,44.0,10.0,573
+213,The doctor prescribed it to take the edge off of visiting hours.,1.3975155279503106,0.04767864665347898,161.0,107.0,44.0,10.0,573
 213,The worst part is having a giant foam hand for catheter.,1.3975155279503106,0.051589263461221065,161.0,112.0,34.0,15.0,573
 216,They granted my final wish.,1.3963414634146345,0.05305206974070464,164.0,117.0,29.0,18.0,573
 216,"Since the election, merely drinking wasn't enough.",1.3963414634146345,0.05234219526047176,164.0,116.0,31.0,17.0,573
@@ -309,15 +309,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 306,I think you have to be a patient.,1.3553719008264462,0.05230171018941072,121.0,84.0,31.0,6.0,573
 309,Turns out the anesthesiologist is also a homebrewer.,1.3543307086614174,0.057580642933061185,127.0,94.0,21.0,12.0,573
 309,My blood type is Anheuser-Busch.,1.3543307086614174,0.05187107629325119,127.0,89.0,31.0,7.0,573
-311,Turns out all your advice was wrong.,1.352459016393443,0.05693015035741894,122.0,89.0,23.0,10.0,573
-311,The doctor wants me to continue treatment till the divorce is final.,1.352459016393443,0.05572754276687998,122.0,88.0,25.0,9.0,573
-311,The Chaplain visited and said it's last call.,1.352459016393443,0.05693015035741894,122.0,89.0,23.0,10.0,573
-311,"Don’t worry, my physician is Dr. Pepper.",1.352459016393443,0.06150588595617409,122.0,93.0,15.0,14.0,573
-311,Budridden,1.352459016393443,0.05572754276687998,122.0,88.0,25.0,9.0,573
-311,"Well, his diploma looked real to me.",1.352459016393443,0.05572754276687998,122.0,88.0,25.0,9.0,573
-311,"And at that moment, Bill understood how his craft beer obsession was destroying his family.",1.352459016393443,0.0592621971705919,122.0,91.0,19.0,12.0,573
-311,This isn't what it looks like.,1.352459016393443,0.05810787396388047,122.0,90.0,21.0,11.0,573
-311,It's socialized medicine.,1.352459016393443,0.05693015035741894,122.0,89.0,23.0,10.0,573
+311,Turns out all your advice was wrong.,1.3524590163934427,0.05693015035741894,122.0,89.0,23.0,10.0,573
+311,The doctor wants me to continue treatment till the divorce is final.,1.3524590163934427,0.05572754276687998,122.0,88.0,25.0,9.0,573
+311,The Chaplain visited and said it's last call.,1.3524590163934427,0.05693015035741894,122.0,89.0,23.0,10.0,573
+311,"Don’t worry, my physician is Dr. Pepper.",1.3524590163934427,0.06150588595617409,122.0,93.0,15.0,14.0,573
+311,Budridden,1.3524590163934427,0.05572754276687998,122.0,88.0,25.0,9.0,573
+311,"Well, his diploma looked real to me.",1.3524590163934427,0.05572754276687998,122.0,88.0,25.0,9.0,573
+311,"And at that moment, Bill understood how his craft beer obsession was destroying his family.",1.3524590163934427,0.0592621971705919,122.0,91.0,19.0,12.0,573
+311,This isn't what it looks like.,1.3524590163934427,0.05810787396388047,122.0,90.0,21.0,11.0,573
+311,It's socialized medicine.,1.3524590163934427,0.05693015035741894,122.0,89.0,23.0,10.0,573
 320,No more opioids.,1.3513513513513509,0.07799892829182492,74.0,56.0,10.0,8.0,573
 321,They've tested it extensively on hamsters.,1.35,0.07137882535360719,80.0,59.0,14.0,7.0,573
 321,I am LOVING Trumpcare!,1.35,0.05632289860760916,120.0,87.0,24.0,9.0,573
@@ -390,7 +390,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 384,Turns out I have a rare blood type: IPA.,1.330188679245283,0.0595305053108991,106.0,79.0,19.0,8.0,573
 384,I know its a teaching hospital but this is ridiculous.,1.330188679245283,0.056431303581759164,106.0,77.0,23.0,6.0,573
 384,"So I said ""I don't care if you save my life, just make me look ridiculous.""",1.330188679245283,0.0595305053108991,106.0,79.0,19.0,8.0,573
-384,"My insurance plan only covers domestic, not even craft beer.",1.330188679245283,0.054816033280596865,106.0,76.0,25.0,5.0,573
+384,"My insurance plan only covers domestic, not even craft beer.",1.330188679245283,0.05481603328059687,106.0,76.0,25.0,5.0,573
 393,The doctor told me it was an Irish IV.,1.3269230769230769,0.05706655917051207,104.0,76.0,22.0,6.0,573
 393,I'm here to get my tubes tied,1.3269230769230769,0.058679627409754964,104.0,77.0,20.0,7.0,573
 393,Doctor said I have to wear them for the rest of our marriage.,1.3269230769230769,0.05706655917051207,104.0,76.0,22.0,6.0,573
@@ -509,7 +509,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 500,A wide variety of choices is highly correlated to satisfaction with a health care plan. It comes down to market forces.,1.2988505747126438,0.059209220260835936,87.0,65.0,18.0,4.0,573
 500,It's a fluid situation.,1.2988505747126438,0.059209220260835936,87.0,65.0,18.0,4.0,573
 500,"Quick, the bedpan again!",1.2988505747126438,0.06356373318662188,87.0,67.0,14.0,6.0,573
-500,Everything you say dear is going in one ear and out the other,1.2988505747126438,0.05199814559011098,87.0,62.0,24.0,1.0,573
+500,Everything you say dear is going in one ear and out the other,1.2988505747126438,0.051998145590110983,87.0,62.0,24.0,1.0,573
 500,Gwyneth Paltrow said it works.,1.2988505747126438,0.06563273865215431,87.0,68.0,12.0,7.0,573
 500,It's called compassionate care.,1.2988505747126438,0.059209220260835936,87.0,65.0,18.0,4.0,573
 500,I shouldn't have quit Scientology cold turkey.,1.2988505747126438,0.06563273865215431,87.0,68.0,12.0,7.0,573
@@ -521,9 +521,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 500,I'm afraid this is the only treatment covered under Trump's healthcare plan.,1.2988505747126438,0.06356373318662188,87.0,67.0,14.0,6.0,573
 500,The nurses got sick of me using the IV pole for air guitar.,1.2988505747126438,0.059209220260835936,87.0,65.0,18.0,4.0,573
 522,The doctor thinks I'll be ready for the playoffs!,1.2987012987012987,0.06149464148430615,77.0,57.0,17.0,3.0,573
-523,Our new insurance plan only covers IVs purchased at Spencer's Gifts.,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,573
-523,It’s actually the newest product created as a result of the merger of Pfizer and Anheuser-Busch,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,573
-523,I think my Doc is what the AA calls an enabler.,1.2978723404255321,0.06386790595182304,94.0,74.0,12.0,8.0,573
+523,Our new insurance plan only covers IVs purchased at Spencer's Gifts.,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,573
+523,It’s actually the newest product created as a result of the merger of Pfizer and Anheuser-Busch,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,573
+523,I think my Doc is what the AA calls an enabler.,1.297872340425532,0.06386790595182304,94.0,74.0,12.0,8.0,573
 526,It's a feedback loop that keeps me from obsessively submitting multiple entries to The New Yorker caption contests.,1.2967032967032968,0.06536178175295372,91.0,72.0,11.0,8.0,573
 526,It's a non-narcotic pain management plan,1.2967032967032968,0.06346622936428876,91.0,71.0,13.0,7.0,573
 526,"It's an audio filter. It filters out criticisms, and recycles compliments directly into my bloodstream.",1.2967032967032968,0.06536178175295372,91.0,72.0,11.0,8.0,573
@@ -621,32 +621,32 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 608,"There trying to prove the theorem .....""in one ear and out the other""",1.2921348314606742,0.06230638486746865,89.0,69.0,14.0,6.0,573
 621,Trumpcare.,1.2894736842105263,0.06705794685479435,76.0,59.0,12.0,5.0,573
 621,I feel great -- it's gin and key limes today.,1.2894736842105263,0.06438859404737743,76.0,58.0,14.0,4.0,573
-623,It's the best I could get with Trumpcare.,1.289156626506024,0.06068015045143841,83.0,63.0,16.0,4.0,573
-623,"Relax, it's light beer.",1.289156626506024,0.06534368660666384,83.0,65.0,12.0,6.0,573
-623,I'm rooting for my body to win.,1.289156626506024,0.06305504753054708,83.0,64.0,14.0,5.0,573
-623,They want to run a few tests before releasing me back into the bar.,1.289156626506024,0.06305504753054708,83.0,64.0,14.0,5.0,573
-623,"Honey, of course I'm taking this surgery seriously!",1.289156626506024,0.058208438379146125,83.0,62.0,18.0,3.0,573
-623,I've never felt better.,1.289156626506024,0.058208438379146125,83.0,62.0,18.0,3.0,573
-623,I'm starting to have doubts about 'repeal and replace'.,1.289156626506024,0.058208438379146125,83.0,62.0,18.0,3.0,573
-623,I saw it on Dr. Oz.,1.289156626506024,0.06068015045143841,83.0,63.0,16.0,4.0,573
-623,"First, do no pharm.",1.289156626506024,0.06305504753054708,83.0,64.0,14.0,5.0,573
-623,"Once I can identify for the doctors which is Coke and which is Pepsi, I'm outa here.",1.289156626506024,0.058208438379146125,83.0,62.0,18.0,3.0,573
-623,They tell me I won't be able to wear the cheesehead ever again.,1.289156626506024,0.05291980326870227,83.0,60.0,22.0,1.0,573
-623,It goes in one ear and comes out the other.,1.289156626506024,0.058208438379146125,83.0,62.0,18.0,3.0,573
-623,"They're beer buds. Hey, they laughed at Einstein.",1.289156626506024,0.06305504753054708,83.0,64.0,14.0,5.0,573
-623,It's called Alternative Intensive Care.,1.289156626506024,0.06305504753054708,83.0,64.0,14.0,5.0,573
-623,I can stop whenever I want.,1.289156626506024,0.058208438379146125,83.0,62.0,18.0,3.0,573
-623,He one of the top Sports Medicine doctors in his field,1.289156626506024,0.06068015045143841,83.0,63.0,16.0,4.0,573
-623,"The doctor said that ten years ago, my IPA type didn't even exist.",1.289156626506024,0.06305504753054708,83.0,64.0,14.0,5.0,573
-623,They asked what I miss the most.,1.289156626506024,0.06068015045143841,83.0,63.0,16.0,4.0,573
-623,Our PPO is now an IPA.,1.289156626506024,0.06305504753054708,83.0,64.0,14.0,5.0,573
-623,The angel in my right can says I should divorce you. The devil in my left can says I have less than a year left anyway.,1.289156626506024,0.06305504753054708,83.0,64.0,14.0,5.0,573
-623,It's a preexisting condition.,1.289156626506024,0.06755483505730918,83.0,66.0,10.0,7.0,573
-623,"It's hard to get on Dr. Pepper's surgery schedule, but it's worth it.",1.289156626506024,0.06068015045143841,83.0,63.0,16.0,4.0,573
-623,"I'm less nauseous, but I still have that mobile phone feeling.",1.289156626506024,0.06534368660666384,83.0,65.0,12.0,6.0,573
-623,"Or course...but, by the same token, our entire marriage could be considered a placebo.",1.289156626506024,0.06305504753054708,83.0,64.0,14.0,5.0,573
-623,But how's my color?,1.289156626506024,0.06068015045143841,83.0,63.0,16.0,4.0,573
-623,I feel really good but I have to pee a lot.,1.289156626506024,0.058208438379146125,83.0,62.0,18.0,3.0,573
+623,It's the best I could get with Trumpcare.,1.2891566265060241,0.06068015045143841,83.0,63.0,16.0,4.0,573
+623,"Relax, it's light beer.",1.2891566265060241,0.06534368660666384,83.0,65.0,12.0,6.0,573
+623,I'm rooting for my body to win.,1.2891566265060241,0.06305504753054708,83.0,64.0,14.0,5.0,573
+623,They want to run a few tests before releasing me back into the bar.,1.2891566265060241,0.06305504753054708,83.0,64.0,14.0,5.0,573
+623,"Honey, of course I'm taking this surgery seriously!",1.2891566265060241,0.058208438379146125,83.0,62.0,18.0,3.0,573
+623,I've never felt better.,1.2891566265060241,0.058208438379146125,83.0,62.0,18.0,3.0,573
+623,I'm starting to have doubts about 'repeal and replace'.,1.2891566265060241,0.058208438379146125,83.0,62.0,18.0,3.0,573
+623,I saw it on Dr. Oz.,1.2891566265060241,0.06068015045143841,83.0,63.0,16.0,4.0,573
+623,"First, do no pharm.",1.2891566265060241,0.06305504753054708,83.0,64.0,14.0,5.0,573
+623,"Once I can identify for the doctors which is Coke and which is Pepsi, I'm outa here.",1.2891566265060241,0.058208438379146125,83.0,62.0,18.0,3.0,573
+623,They tell me I won't be able to wear the cheesehead ever again.,1.2891566265060241,0.05291980326870227,83.0,60.0,22.0,1.0,573
+623,It goes in one ear and comes out the other.,1.2891566265060241,0.058208438379146125,83.0,62.0,18.0,3.0,573
+623,"They're beer buds. Hey, they laughed at Einstein.",1.2891566265060241,0.06305504753054708,83.0,64.0,14.0,5.0,573
+623,It's called Alternative Intensive Care.,1.2891566265060241,0.06305504753054708,83.0,64.0,14.0,5.0,573
+623,I can stop whenever I want.,1.2891566265060241,0.058208438379146125,83.0,62.0,18.0,3.0,573
+623,He one of the top Sports Medicine doctors in his field,1.2891566265060241,0.06068015045143841,83.0,63.0,16.0,4.0,573
+623,"The doctor said that ten years ago, my IPA type didn't even exist.",1.2891566265060241,0.06305504753054708,83.0,64.0,14.0,5.0,573
+623,They asked what I miss the most.,1.2891566265060241,0.06068015045143841,83.0,63.0,16.0,4.0,573
+623,Our PPO is now an IPA.,1.2891566265060241,0.06305504753054708,83.0,64.0,14.0,5.0,573
+623,The angel in my right can says I should divorce you. The devil in my left can says I have less than a year left anyway.,1.2891566265060241,0.06305504753054708,83.0,64.0,14.0,5.0,573
+623,It's a preexisting condition.,1.2891566265060241,0.06755483505730918,83.0,66.0,10.0,7.0,573
+623,"It's hard to get on Dr. Pepper's surgery schedule, but it's worth it.",1.2891566265060241,0.06068015045143841,83.0,63.0,16.0,4.0,573
+623,"I'm less nauseous, but I still have that mobile phone feeling.",1.2891566265060241,0.06534368660666384,83.0,65.0,12.0,6.0,573
+623,"Or course...but, by the same token, our entire marriage could be considered a placebo.",1.2891566265060241,0.06305504753054708,83.0,64.0,14.0,5.0,573
+623,But how's my color?,1.2891566265060241,0.06068015045143841,83.0,63.0,16.0,4.0,573
+623,I feel really good but I have to pee a lot.,1.2891566265060241,0.058208438379146125,83.0,62.0,18.0,3.0,573
 649,Finding hats is going to be a problem.,1.2888888888888892,0.0575063247771442,90.0,68.0,18.0,4.0,573
 649,I'm an IV League football fan.,1.2888888888888892,0.06368705566900054,90.0,71.0,12.0,7.0,573
 649,They work great. I can hear the ocean.,1.2888888888888892,0.05529276172553746,90.0,67.0,20.0,3.0,573
@@ -743,7 +743,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 730,"I've lost some hearing, but my elbows never felt better.",1.2727272727272727,0.06306254323811783,77.0,60.0,13.0,4.0,573
 743,I slipped the nurse a twenty.,1.271604938271605,0.06576319676747686,81.0,65.0,10.0,6.0,573
 743,The doctor is an old frat buddy.,1.271604938271605,0.06576319676747686,81.0,65.0,10.0,6.0,573
-743,"Doctor Budweiser, why?",1.271604938271605,0.055589838530466264,81.0,61.0,18.0,2.0,573
+743,"Doctor Budweiser, why?",1.271604938271605,0.05558983853046626,81.0,61.0,18.0,2.0,573
 743,The surgeon said it's a technique he learned in Sigma Chi.,1.271604938271605,0.0608893594847293,81.0,63.0,14.0,4.0,573
 743,"My arms are still numb, but I can hear the ocean.",1.271604938271605,0.06337314947017575,81.0,64.0,12.0,5.0,573
 743,My blood type is IPA,1.271604938271605,0.0608893594847293,81.0,63.0,14.0,4.0,573
@@ -1017,99 +1017,99 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 947,The doctors were right. You do look hotter.,1.2388059701492538,0.056625888853681215,67.0,52.0,14.0,1.0,573
 947,"Rum on the right, Coke on the left.",1.2388059701492538,0.06755252320668872,67.0,55.0,8.0,4.0,573
 947,"The only trouble is, it seems to be making my hands smaller.",1.2388059701492538,0.056625888853681215,67.0,52.0,14.0,1.0,573
-1019,It's comments like that that put me in here.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,Recommended therapy was just keep me comfortable.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,What are you looking at? You've never tripped over your IV pole?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,"If you want your witch doctor, you can keep your witch doctor.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,So how much patent work does your firm do?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,"In a few days, these can be replaced by light beer.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,Could you turn on the game?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,The business office told me this is what my HMO covers for 'internal medicine',1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,So what I say still goes in one ear and out the other!,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,Maybe the ACA wasn't so bad.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,Your health plan leaves something to be desired.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,My only health exchange is sponsored by a brewery.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,573
-1019,"My insurance wouldn't cover laser eye surgery, so I opted for permanent beer goggles.",1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,573
-1019,I'm ok with canned music but not the technology.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,Turns out I have Spring Break Fever.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,573
-1019,The doctors say I'll be cool enough to leave soon.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,573
-1019,My doctor specializes in sports medicine.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,"If I had legs, this IV would make me very mobile.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,Less filling.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,"Where there's Bud, there's life.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,I chose basic economy.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,"I told you, beer fixes everything.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,This reuse not recycle thing is getting out of hand.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,I know but it's not as bad as what they did with the call button for the nurse!,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,This is the self-service ward.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,"They don't get many cures, but the days really fly by.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,I decided to try Scientology.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,Well the doctor said beer better not touch my lips.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,What kind of messages are you getting ?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,Bud Light was all my insurance would cover.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,I hope I didn't mix these up with my catheter tubes.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,Just getting my head back into the game.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,The doctor was my frat brother. How did you know?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,I'm at .08 so tomorrow they put me on a six-pack,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,I always wanted to go out with a bang.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,573
-1019,Dr. Pepper says I'll be going home in a couple of days.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,Seems like the old-fashioned 'drip' is gone. They're now all into mobile devices and recycling.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,How did you know doc Watson and I were pledge brothers together ?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,You think I look like a butterfly??!! So much for compassion.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,"Apparently, the yeast infection has spread to my brain.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,It's the little things that keep me feeling alive,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,I've exhausted my coverage for everything except placebos.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,573
-1019,"It's pending approval at the FDA,",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,They tried in vein,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,"I know, but I told the doctor I was ambidextrous.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,I'm gonna say coming to St. Brewski's is a huge mistake.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,"50% IV, 50% ABV.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,My bartender has hospital prvileges.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,573
-1019,I would love to hookup with you.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,They only use these for sports injuries.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,"It's classified as a ""useful preexisting condition.""",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,"In layman's terms, you suffered the mother of all brain farts.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,I told you I needed a beer.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,If we had better insurance I could afford real IV bags.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,"Screw the Mayo Clinic, I'll take my chances here.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,Nothing like cold beer to relieve a migraine.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,"I know, Mom. But on the other hand, the nurses are very nice here.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,"Take me out to the ER. Take me out to the docs. Buy me some codeine and viacadine, I won't know if I ever get back! Let them root, root, root for my own spleen. If they don't cure it's a shame. For it's 1, 2, 3 cuts and out at the old gall game.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,My anesthesiologist's a frat bro.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,"Yeah, he was a fraternity brother. Why do you ask?",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,And that's not all - I have a catheter too!,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,573
-1019,"Just think of them as training wheels for my new liver, Sweetheart.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,insurance did not cover the stand....,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,"I'm told its experimental, but it seems promising.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,"Unfortunately, with our new insurance, we can only keep our bartender.",1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,573
-1019,They claim it will cure my Pepsi addiction,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,573
-1019,They're gradually easing me back into my normal health maintenance program.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,Help yourself to the coffee. I'm almost done with mine.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,They told me it's all in my head.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,"A mirror, give me a mirror.",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,573
-1019,You're kidding. You've never heard of beer therapy?,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,"Honey, a placebo is fake medicine.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,Exceptionally stupid is still exceptional.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,When you said 'transitioning' I didn't realize that meant butterfly.,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,573
-1019,I guess they put me in the experimental group.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,573
-1019,It beats a beer enema,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,573
-1019,I don't care if our insurance doesn't cover it.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,"Nevertheless, he persisted.",1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,573
-1019,The nurse took away my giant foam finger after I spilled my tapioca.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,"It's like morphine, but a lot cheaper.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,Are we still on for Friday night?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,"Woof, woof, I'm a dog.""""Meow meow, I'm a cat.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,The doctor's an old fraternity brother of mine.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,The doctor says I can switch to a souvenir cup in a couple weeks.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,"Sort of plasma, one is creme of tomato ,the other is beef bouillon",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,573
-1019,They say this is all my insurance will pay for.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,Typical Obamacare; it doesn't cover this retox center's craft brews.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,"In one ear, out the other!",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
-1019,Turns out 'intravenous beer helmet' is a pre-existing condition.,1.238095238095238,0.0821426467367569,42.0,34.0,6.0,2.0,573
-1019,"They're drawing blood from me and filling beer cans with it, something for the night shift they said.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,573
-1019,"Honey, can I help it if the night nurse likes football too ?",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,573
-1019,Sure you don't want a sip?,1.238095238095238,0.05409160326162522,63.0,48.0,15.0,0.0,573
-1019,I'm answering no more questions until you scratch my nose.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,It's comments like that that put me in here.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,Recommended therapy was just keep me comfortable.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,What are you looking at? You've never tripped over your IV pole?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,"If you want your witch doctor, you can keep your witch doctor.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,So how much patent work does your firm do?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,"In a few days, these can be replaced by light beer.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,Could you turn on the game?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,The business office told me this is what my HMO covers for 'internal medicine',1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,So what I say still goes in one ear and out the other!,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,Maybe the ACA wasn't so bad.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,Your health plan leaves something to be desired.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,My only health exchange is sponsored by a brewery.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,573
+1019,"My insurance wouldn't cover laser eye surgery, so I opted for permanent beer goggles.",1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,573
+1019,I'm ok with canned music but not the technology.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,Turns out I have Spring Break Fever.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,573
+1019,The doctors say I'll be cool enough to leave soon.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,573
+1019,My doctor specializes in sports medicine.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,"If I had legs, this IV would make me very mobile.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,Less filling.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,"Where there's Bud, there's life.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,I chose basic economy.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,"I told you, beer fixes everything.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,This reuse not recycle thing is getting out of hand.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,I know but it's not as bad as what they did with the call button for the nurse!,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,This is the self-service ward.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,"They don't get many cures, but the days really fly by.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,I decided to try Scientology.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,Well the doctor said beer better not touch my lips.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,What kind of messages are you getting ?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,Bud Light was all my insurance would cover.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,I hope I didn't mix these up with my catheter tubes.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,Just getting my head back into the game.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,The doctor was my frat brother. How did you know?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,I'm at .08 so tomorrow they put me on a six-pack,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,I always wanted to go out with a bang.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,573
+1019,Dr. Pepper says I'll be going home in a couple of days.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,Seems like the old-fashioned 'drip' is gone. They're now all into mobile devices and recycling.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,How did you know doc Watson and I were pledge brothers together ?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,You think I look like a butterfly??!! So much for compassion.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,"Apparently, the yeast infection has spread to my brain.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,It's the little things that keep me feeling alive,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,I've exhausted my coverage for everything except placebos.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,573
+1019,"It's pending approval at the FDA,",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,They tried in vein,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,"I know, but I told the doctor I was ambidextrous.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,I'm gonna say coming to St. Brewski's is a huge mistake.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,"50% IV, 50% ABV.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,My bartender has hospital prvileges.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,573
+1019,I would love to hookup with you.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,They only use these for sports injuries.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,"It's classified as a ""useful preexisting condition.""",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,"In layman's terms, you suffered the mother of all brain farts.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,I told you I needed a beer.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,If we had better insurance I could afford real IV bags.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,"Screw the Mayo Clinic, I'll take my chances here.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,Nothing like cold beer to relieve a migraine.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,"I know, Mom. But on the other hand, the nurses are very nice here.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,"Take me out to the ER. Take me out to the docs. Buy me some codeine and viacadine, I won't know if I ever get back! Let them root, root, root for my own spleen. If they don't cure it's a shame. For it's 1, 2, 3 cuts and out at the old gall game.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,My anesthesiologist's a frat bro.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,"Yeah, he was a fraternity brother. Why do you ask?",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,And that's not all - I have a catheter too!,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,573
+1019,"Just think of them as training wheels for my new liver, Sweetheart.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,insurance did not cover the stand....,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,"I'm told its experimental, but it seems promising.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,"Unfortunately, with our new insurance, we can only keep our bartender.",1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,573
+1019,They claim it will cure my Pepsi addiction,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,573
+1019,They're gradually easing me back into my normal health maintenance program.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,Help yourself to the coffee. I'm almost done with mine.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,They told me it's all in my head.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,"A mirror, give me a mirror.",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,573
+1019,You're kidding. You've never heard of beer therapy?,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,"Honey, a placebo is fake medicine.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,Exceptionally stupid is still exceptional.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,When you said 'transitioning' I didn't realize that meant butterfly.,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,573
+1019,I guess they put me in the experimental group.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,573
+1019,It beats a beer enema,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,573
+1019,I don't care if our insurance doesn't cover it.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,"Nevertheless, he persisted.",1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,573
+1019,The nurse took away my giant foam finger after I spilled my tapioca.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,"It's like morphine, but a lot cheaper.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,Are we still on for Friday night?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,"Woof, woof, I'm a dog.""""Meow meow, I'm a cat.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,The doctor's an old fraternity brother of mine.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,The doctor says I can switch to a souvenir cup in a couple weeks.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,"Sort of plasma, one is creme of tomato ,the other is beef bouillon",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,573
+1019,They say this is all my insurance will pay for.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,Typical Obamacare; it doesn't cover this retox center's craft brews.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,"In one ear, out the other!",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
+1019,Turns out 'intravenous beer helmet' is a pre-existing condition.,1.2380952380952381,0.0821426467367569,42.0,34.0,6.0,2.0,573
+1019,"They're drawing blood from me and filling beer cans with it, something for the night shift they said.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,573
+1019,"Honey, can I help it if the night nurse likes football too ?",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,573
+1019,Sure you don't want a sip?,1.2380952380952381,0.05409160326162522,63.0,48.0,15.0,0.0,573
+1019,I'm answering no more questions until you scratch my nose.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,573
 1112,"I'm not getting any better, but at least I feel sexier.",1.2363636363636363,0.07323058165814894,55.0,45.0,7.0,3.0,573
 1112,"I told you, it runs in my veins.",1.2363636363636363,0.07769246271931078,55.0,46.0,5.0,4.0,573
 1112,Best part is I don't need to belch.,1.2363636363636363,0.06337126117720455,55.0,43.0,11.0,1.0,573
@@ -2098,9 +2098,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2094,I kicked my drinking habit.,1.1714285714285717,0.07653981537301309,35.0,30.0,4.0,1.0,573
 2094,It's stronger than Viagra. Get ready!,1.1714285714285717,0.07653981537301309,35.0,30.0,4.0,1.0,573
 2099,"They disapproved of my brainchild, so I hadda do the needle sticks myself.",1.170731707317073,0.059494199598295,41.0,34.0,7.0,0.0,573
-2100,They have me NPO,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,573
-2100,"Okay, maybe it wasn't such a good idea to mainline beer!",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,573
-2100,This way I feel like I'm actually at the game.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,573
+2100,They have me NPO,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,573
+2100,"Okay, maybe it wasn't such a good idea to mainline beer!",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,573
+2100,This way I feel like I'm actually at the game.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,573
 2103,"Now my left hand knows what my right hand is doing. Wait, or is it my right hand that knows...?",1.1666666666666667,0.06198070316648412,48.0,41.0,6.0,1.0,573
 2103,"It is not exactly a new idea, I have seen it at sporting events.",1.1666666666666667,0.06198070316648412,48.0,41.0,6.0,1.0,573
 2103,Stop judging me Diane. Lack of beer is a type of dehydration.,1.1666666666666667,0.06198070316648412,48.0,41.0,6.0,1.0,573
@@ -4256,19 +4256,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4255,Can you get the nurse to get an I V rack in here? I've got a real headache!,1.0344827586206895,0.035093120317179816,29.0,28.0,1.0,0.0,573
 4255,They prescribed me the new Beats by Dre,1.0344827586206895,0.035093120317179816,29.0,28.0,1.0,0.0,573
 4255,"What's wrong, Martha? You haven't heard of MindBody medicine?",1.0344827586206895,0.035093120317179816,29.0,28.0,1.0,0.0,573
-4258,It's OK...My body has a mind of its own.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,I've never seen you turn down a buy one get one free offer.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,The aversion therapy isn't working ... I still want the coffee ...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,"Not only that, but they block out your voice.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,It's OK...My body has a mind of its own.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,I've never seen you turn down a buy one get one free offer.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,The aversion therapy isn't working ... I still want the coffee ...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,"Not only that, but they block out your voice.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,They'll blow your mind.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"I can't help noticing that there's no TV in here, and it's on the wrong channel.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"This ""Billy Carter Treatment"" comes highly recommended!!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Okay, mom, I admit it. If I weren't wearing headphones, I would have heard the bus that hit me.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Okay, mom, I admit it. If I weren't wearing headphones, I would have heard the bus that hit me.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,They call it a Boilermaker.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Premium aside, this high-risk pool is pretty great.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The doctor said the cure would blow my mind.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's the secret McConnell-Ryan Sleight-of-Hand Procedure: the Right removes what the Left provides.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Thank God you're here! I'm not supposed to think anything sexual.""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Thank God you're here! I'm not supposed to think anything sexual.""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,The side effects are a slight buzz and a brain freeze.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Join me for a couple of brews .,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"I know what you're thinking, but it's addicting.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4278,7 +4278,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"No, really insurance covers this",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"With all the political noise, I needed a brain drain and TV abstinence.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,What's score now?,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,573
-4258,I think visiting hours end at kickoff.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,I think visiting hours end at kickoff.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,I'm testing out the cost cutting measures for the new Republican health plan!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,Things go better with Coke.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,"When I told you to be more creative in life, this is not what I meant.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
@@ -4287,22 +4287,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,Well if everyone else is rooting for me...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Sarah thought her air balloon trip might end in drowning, but she didn't predict that no one would notice.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Who are you, again?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Double-double IPAs beat single HMOs.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Double-double IPAs beat single HMOs.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,I'm prepping for Sunday Night Football,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"When we get home, you'll have to change out the tomato juice cans.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Please as the nurse for my chaser.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's like organic music.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Now that just stupid!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Now that just stupid!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"It's a new contraption for stabilizing my brain waves; when I breathe slowly and calmly, my brain waves relax.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,How in the hell did ISIS get beyond security?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's supposed to make my eyes recede and my hands bigger.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Honey, I appreciate your can do attitude, but if the Doctor says the cans on your head don't do anything, we really listen.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Honey, I appreciate your can do attitude, but if the Doctor says the cans on your head don't do anything, we really listen.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,The doctor told me you have two days left. Do you want me to tell him you don't want anymore tomato soup or do you want to switch brands?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"I'm obviously not in the VIP suite, I asked for orange slices to go with the Blue Moon two hours ago.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's a beer transfusion. Beer brings cheer.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Starbucks offered an all-inclusive hospital sponsorship if I post to Instagram.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,Doc says it will help me reduce stress.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,I just needed coffee.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,I just needed coffee.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,It uses biometric feedback until I can come up with something that isn't classified as a pre-existing condition.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,They said I would be released twice as fast.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"No, I feel terrible, but the doctors swear my Fitbit will never need charging again.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4322,7 +4322,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"No, he said, ""Brace yourself for a speedy recovery"" and then left.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Beer me, sweetheart!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,positively reinforced,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Look mom..like, no hands!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Look mom..like, no hands!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,They said it was popular for Youth in Asia.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Alive! Alive! I'm alive!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"One more operation to finish the wings, then we can get the hell out of this chrysalis.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4333,22 +4333,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"""He'll fix healthcare,"" you said. Where's that nurse? I need another can of plasma!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"My insurance didn't cover the medical cart, we got the sports package!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"I said I wanted 'Bud' antlers, but the bartender heard 'blood'.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,It was either this or the giant #1 foam finger.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,It was either this or the giant #1 foam finger.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,I don't even have to call him in the morning!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,No it's not all beer. The one on the left is fill with wine.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,the earth is shaped like a cig you dumb bitch,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,573
 4258,I'm pledging ABO.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,When I asked for both sweet and dry vermouth they gave me a funny look.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
-4258,Want to play hospital beer pong?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Want to play hospital beer pong?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,I only go big or go home.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Gastric bypass surgery,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,All I did was tell a nurse she reminded me of Catch- 22 and I woke up like this.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,All I did was tell a nurse she reminded me of Catch- 22 and I woke up like this.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"Look honey, no hands!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Who says Obamacare doesn't work,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"This procedure is proven to delete memory of: ""This is Rachel from credit card services.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Darling you look scepticalbut I truly believe that beer is the answer.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Gotta love this concierge medicine.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Fetch me a six-pack,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Fetch me a six-pack,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"Well, at least our premiums are lower.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I hope they install the kiss cam next.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,This way it will Coors through my veins.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4358,21 +4358,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,It's for the TV reception,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It’s morphine. I’m a Mets fan.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I still think Obamacare is amazing,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,There are other less dramatic treatments for migraines,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,There are other less dramatic treatments for migraines,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,The new Beereats from Dr. Dre,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I think I may need to get a second opinion.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Can we talk?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Don't worry honey, it's just a clinical experiment to determine the limit of the Blood-Beer-Barrier, or the Beer-Brain-Barrier.......one of those........ I think.....",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,OMG take this off and give me my amnesia back!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,OMG take this off and give me my amnesia back!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"I was told: If it hurts-nod"".",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,It's supposed to help with the withdrawal.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,Proof that hands are the most difficult part of the body to draw,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,It's supposed to help with the withdrawal.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,Proof that hands are the most difficult part of the body to draw,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,It's called the Trump Treatment. It takes ego from my head and feeds it into my tiny hands to make them grow larger.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,Did you bring the cooler?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Next, scratch the itch under my chin.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I've always believed in the power of positive thinking.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,. . . and each container is also adaptable for Lite beer.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,573
-4258,"The music is still in me, I am just at a loss for words.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"The music is still in me, I am just at a loss for words.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"Yes, I know, Frank... but we had to do something to make you stop thinking of my mother in that way.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Honey, I am gaining energy with the new IV's that they inserted in my arms!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The hangover would kill me.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4382,26 +4382,26 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"It's called radial humeral feedback, to teach me not to clench my fists when I hear about another tweet.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I feel like my head is about to explode.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,These sports medicine hospitals sure have their own way of doing things.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Sorry, I've already donated the Super Bowl tickets to charity.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Sorry, I've already donated the Super Bowl tickets to charity.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,The doctor says it's just precautionary but it seems small hands syndrome has beeen designated a pre-existing condition.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"The doctor said 'Think positively! ' ,",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"The doctor said 'Think positively! ' ,",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,They tell me I have a severe beer deficiency.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,They said I'll be good as new for the second half.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Because they ran out of fluted stem ware...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's designed to relieve my headaches induced by your nagging.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's Meatless Monday.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"They're earphone IV's, of course. Amazing percussion.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"They're earphone IV's, of course. Amazing percussion.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"What I asked for was ""canned beer""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It is not like I am an alcoholic. It is just diet coke.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Gene therapy is about being a good listener.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,"At Mar-a-Lago we prefer the most biggest balls. (this kindly replaces my earlier entry - only one! - i hit ""submit"" without wit)",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"You're the one who said you'd die for more sex, so why am I the one stuck in this place with a five hour erection?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"I ,am in another ""world"" my world is jump to the music. or good bye.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"I said ""intervention,"" not intravenous.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"I said ""intervention,"" not intravenous.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,I'm trying to improve my muscle memory.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,I'm not sure if hearing a heartbeat in stereo adds much to the mono version.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Ok, I'm now all-in on Trumpcare.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"I just want you to know that I still love you, but I think you have a drinking problem.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"I just want you to know that I still love you, but I think you have a drinking problem.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,My insurance might not cover double dipping.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Dear, I do say you look a bit tapped out.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I'm getting ready for my beerless surgery,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4413,14 +4413,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"I Want ""Stairway To Heaven"" played at my funeral.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's my own medical plan: Obrewma Care,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"You're the bomb, Harold.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,It's worth it if we can get free cable.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,It's worth it if we can get free cable.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"If it makes your hands get larger, I'll try it also.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The doctors are hopeful we will find a foam finger donor before fall.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Inebriation is the best medicine. It makes no demands.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,And the suppositories he gave me looked like beer nuts.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Inebriation is the best medicine. It makes no demands.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,And the suppositories he gave me looked like beer nuts.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Only 53 calories each AND gluten free!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,We can definitely go shopping next weekend.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Sadly, the morphine helmet may not be covered under Trumpcare.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Sadly, the morphine helmet may not be covered under Trumpcare.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,They ran out of IV poles.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,"My brain cells were reproducing at an alarming rate, but the lite beer is working wonders.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,My tinnitus blocks you out.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4435,11 +4435,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,If beer-ears don't work we'll try leeches,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Hairofthedogalimumab.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I guess they are prescribing fewer opioids.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Ones a bud the other a miller lite,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Ones a bud the other a miller lite,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Beer me another transfusion bag,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It beats the beer funnel going in my mouth.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,573
 4258,"Being ambidextrous, I really don't mind.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,My doctors from Olympia Washington it's the water on the brain,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,My doctors from Olympia Washington it's the water on the brain,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"No, my dear, what I have is a solution.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Relax! It was a two-for-one sale!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,This time I'll try for counter-clockwise.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4453,7 +4453,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,He said his name was Picasso.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I'm avoiding left brain-right brain short circuits.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,573
 4258,This is the latest in blood collecting technology.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Honey, don't worry. It's the 4th of July special treatment.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Honey, don't worry. It's the 4th of July special treatment.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,You said you wanted me to stop DRINKING!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Mm mmoth z glood shhhut.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Honey, I've got such a headache!",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,573
@@ -4463,35 +4463,35 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,Don't look at me with those eyes. These beer transfusions were YOUR idea.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's an automatic sheep counter that will put me to sleep.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"MY LAWYERS A CROOK, AND MY DOCTOR A QUACK,STILL DIDNT GET A SETTLEMENT FOR MY BACK......",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Oh, for Pete's sake!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Oh, for Pete's sake!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"""Doctors listened to my 'Beer Me'"".",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,One is for beer and the other for ale.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The doctor ran out of Oxi prescriptions.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The doctor has limited me to two cans of Bud a day.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Who wants to drink insulin, anyway?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Who wants to drink insulin, anyway?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,I forgot about the explosives in the garage. OK?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I'm in no pain since they put me on this beer I V.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I told you to stick with decaf/,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"I'm sorry Bob, I just don't think ivPod is catchy.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,What's ailing you?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's TrumpCare's 'Domestic Beer IV' #MAGA.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Honey, there are much simpler ways of getting rid of a brain freeze.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Honey, there are much simpler ways of getting rid of a brain freeze.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Medicine. Party politics. All the same.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Dr Artois stoutly believes oral therapy pales in comparison for what ails me.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Dr Artois stoutly believes oral therapy pales in comparison for what ails me.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Not funny? Good thing you weren't here for my enema.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I don't have the energy for this.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,573
-4258,"Doc Carter says my bilirubin count is low, so...",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Doc Carter says my bilirubin count is low, so...",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,They say the elephant ears transplant will take a little longer.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,573
-4258,"And instead of a respirator, I will have a breathalyzer.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"And instead of a respirator, I will have a breathalyzer.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"I pledged to 'frat hard, frat often,' Ma.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,They ran out of dark beer!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's all about being radical Babe!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"I may not be, but you are starting to look better.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"I may not be, but you are starting to look better.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Treatment to improve my hand-eye cord-ination!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The next round of treatments are shots.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Far out! They're trying a balanced news input.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
-4258,I need to pee. Where's my bed keg?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,You're disgusted but the woman that I married would be inspired.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,I need to pee. Where's my bed keg?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,You're disgusted but the woman that I married would be inspired.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,The doc really liked the idea of my beer hat.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"No, but like, you are my best friend and I’m not just saying that. I really do love you.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,I'm still recovering from the Fyre Festival.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4500,7 +4500,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"Are you sure our insurance covers intravenous nagging, dear?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The doctor looked a lot like ol' frat-house Freddy.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Actually, some people are calling it the latest advancement in stem cell technology.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,573
-4258,"Veins of the forearm, forward to victory! Varices, schmarices! Esophagus, schmesophagus!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Veins of the forearm, forward to victory! Varices, schmarices! Esophagus, schmesophagus!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,The left one is a Hefeweizen with hints of clove and the right one is an IPA from Red Hook.,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,573
 4258,It's the latest in patient's rights. I have the final say over what goes into my body.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Wow!... that's going right from my head to my toes.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4509,11 +4509,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,Western culture's answer to mind-body training.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"This treatment won't help you with the ""honey do"" list.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The doctors say it's twice as effective.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Oh, Wow!! They work great! The Doctor says as I heal the bass sound will get better and better!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Oh, Wow!! They work great! The Doctor says as I heal the bass sound will get better and better!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,They won't remove it until they know what it is for.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Who would have thought that beer had medical value.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,And you're sure Trumpcare is going to cover this?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,It's not a drinking problem - it's dialysis.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,It's not a drinking problem - it's dialysis.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Republicans.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Just think of them as a BOGO.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"See Phil, you're not a genius. Are you sure Linda? Me=IV2 (squared)",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4526,10 +4526,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,They said I should pop the pills.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,573
 4258,It's much easier to go to the bathroom this way.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,And I pee through a catheter.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,573
-4258,It's called Obsessive Recycling.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,It's called Obsessive Recycling.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,""" The doctor wanted me to become high-drated"".",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The can on the left is my reserve supply.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,The perfect pour... my Doctor is an Irishman.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,The perfect pour... my Doctor is an Irishman.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,This hospital is good at self-remedy.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Integrative Tailgating. Its a thing.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,AHCA.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4537,13 +4537,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,But it's a light beer.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"See, I told you this hat would be useful some day!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"I know you don't like my old frat brothers, but it's really making me feel better.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Yes of course the coffee is argh-anic!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Yes of course the coffee is argh-anic!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"So you're getting your batteries charged for us, dear.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,They said it was a brain bong.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,I say the hell with doctor's orders on beer.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,I say the hell with doctor's orders on beer.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,I knew something like this might happen when my insurance provider bought that baseball team!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,This procedure allows me to eliminate the middle man!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,After firing all the doctors I realized that nobody knew how complicated being a doctor is.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,After firing all the doctors I realized that nobody knew how complicated being a doctor is.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,The doctor explains it as 'IPA input for IP outcome.',1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I will never again allow alcohol to pass my lips.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,My shrink wanted me to blend my scitistic and artific sides or maybe it was my crea-log-it-icky-spheres.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4560,9 +4560,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,I'm being transferred to Gen Med for the #partychallenge.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,They tell me this is our best method of communication.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Well, it's no Obamacare. That's for sure.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"He says""What Do You Want?????????? She answers ""Really now, You know what I want!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"He says""What Do You Want?????????? She answers ""Really now, You know what I want!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"Either treat me better, or I will ignite both bombs.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,I hope Siri doesn't tell my cardiologist about last week's wing-eating contest,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,I hope Siri doesn't tell my cardiologist about last week's wing-eating contest,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"I told you government has no business in our healthcare, do you have to be so dramatic ?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,This new treatment regime is pure dynamite. I can hardly wait to get back to my old Xbox games!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,All I have to do to hear you better is raise my hands.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4572,72 +4572,72 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,I think it's time to start paying for our own cable television.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Doctor says you can move your arms using this device but I am against the doctor's medical advice.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,well I am going to tell the doctor about your beer addiction if you won't!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,And you told me it was a foolish buy!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,And you told me it was a foolish buy!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,What beer cans?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"The bronze plan only covers ""CAN SCANS""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Don't you know that morphine is dangerous?!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Nil by mouth.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Albert, this monitoring your inner narrative may have gone too far.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,But it's craft beer.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,"The best part is I can't hear anything with these bottles strapped to my head. What were you saying about our discount insurance plan, dear?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,Would you like it if I handed you a cold glass of beer?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,"when they said that Red Bull makes you fly, I wasn't thinking of Dumbo's ears...",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Albert, this monitoring your inner narrative may have gone too far.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,But it's craft beer.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,"The best part is I can't hear anything with these bottles strapped to my head. What were you saying about our discount insurance plan, dear?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,Would you like it if I handed you a cold glass of beer?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,"when they said that Red Bull makes you fly, I wasn't thinking of Dumbo's ears...",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,I've got two free hands to FUCK with. Ah? AH?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"I know I can be aggravating, but really George, this is going too far !",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"I'll be back at work any day with this fibromyalgia workaround, promise",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"'You only live once', they say!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"'You only live once', they say!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,They got me hooked up to these cords because of my soda addiction. Help me please.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,All they said was I should not DRINK coffee,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,All they said was I should not DRINK coffee,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"It's the ""Good Old Days"" therapy. I listen to Lucy piped in 12 hours a day.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,at least i don't have to hear my mother talking...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,at least i don't have to hear my mother talking...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Alt-rehab -- an explosion of sound.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,They also have a hockey fan version that somehow involves a live octopus.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It’s the new IV technique for patient mobility and ease of caregiver workload.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Just a couple pills , and I'm all set for Star War's audition....",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The landscaper wants the tree trimmer to call the gutter cleaner.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Have a head holiday!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,I told you that sooner or later you'll breakdown and join AAA,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,I told you that sooner or later you'll breakdown and join AAA,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,I've only just started stage 2 of my Chicago Bears detox.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's Trumpcare.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,The Brew Crew hooked you up?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,The Brew Crew hooked you up?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"They ran out of I V stands, so Dr. MacGuyver came up with this contraption.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"YES DEAR, THIS IS COVERED BY OBAMACARE",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"YES DEAR, THIS IS COVERED BY OBAMACARE",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,See? Redbull does give you wings!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's a clinical trial for fantasy football addiction.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Really Henry.. An emergency Beer - Fusion is not going to get me here any faster.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,How's that Virtual Reality working for you?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,How's that Virtual Reality working for you?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"I love beer, it's in my blood!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The Beer/Brain drip is a great post-op treatment.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,May be Bob Mueller should look in to this!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,May be Bob Mueller should look in to this!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Mother told me you would end up like this.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Are you sure it was Dr. Dre who sold you those?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"They said if part of a balanced intake, beer is fine.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"They said if part of a balanced intake, beer is fine.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,This cheap biofeedback mechanism is for the birds. Cheep. Cheep.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,573
 4258,They said the pain will definitely stop.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Oh yes, I can definitely hear you better this way..",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,I told you I needed more coffee.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Good news! This hospital accepts bitcoin.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The doctor can't decide whether its twins or double vision.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"""Next week, 'Kegs' "".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"""Next week, 'Kegs' "".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"Well, 'staying woke' has its drawbacks, Cheryl...",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Actually they don't consider it experimental at all.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,". . . and this one is ""the butterfly"". Next, I can do ""donkey's ears"".",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's the newest beer type.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,It's the ACA....don't ask.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,Just pretend you're tailgating.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,It's the ACA....don't ask.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,Just pretend you're tailgating.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"Darling, you've never looked as beautiful as you do tonight.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,The benefit to this treatment of my blocked carotid arteries is that I can't hear you Mom.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,The benefit to this treatment of my blocked carotid arteries is that I can't hear you Mom.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Then why are you is in the bed?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Beer is my life.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Beer is my life.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"Mom, I swear, the bill is included in tuition.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,As long as it's not Obamacare I don't mind.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Apparently, Joan, the blood brain barrier is a real thing.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,573
 4258,I liked your real ears better.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,573
-4258,I'll have to wear it for a year.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,I'll have to wear it for a year.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"From past clinical trials, the results are very promising.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"That's what the doctor said, Bud Light IV is the best I can get with my Bronze insurance plan.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Did you check with our insurance company to make sure that beer-hat treatment is a covered expense?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Gravity feed... cost savings benefit of Healthcare Reform Act,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Gravity feed... cost savings benefit of Healthcare Reform Act,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,this warms me up for dialysis later,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Well, how do YOU 'Dew?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I don't like coffee.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4645,22 +4645,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,The new millenium way of passive resistance.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's a new way to give you two IV's,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Doc says they've done all they can.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,You know I need my beer.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,You know I need my beer.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,The cardiologist recommended this caffeine patch to reduce my bean intake. The right is 500 mL of expresso macchiato and the left is 500 mL iced cafe mocha.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,No idea. And I also don't know why the surgeon kept calling me 'Rabbi.',1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I'm fully recharged.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Don't worry, Darling. It is called Dynamite Therapy",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,When I was a conductor they knew instinctively what to do.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"it's like a beer-bong on steroids, and it's covered in my plan!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Treatment recommended for stage fright. They’re drawing out my butterflies.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Treatment recommended for stage fright. They’re drawing out my butterflies.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"I think you should check my prescription, this doesn't seem very professional.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,He said to chug two and bro-down in the morning.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"You said you were going to spend the summer, ""mainlining the complete works of James Joyce,"" so I thought.....",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The doctor is an old fraternity brother of mine and said this treatment will get me back to being my old self.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Dr. Starbuck's orders.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"I'm sorry dear, but the guys said this is the most efficient way to pre-game",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Since they found me in a beer helmet, I thought it was a nice touch.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,"Yeah, for life I got phone, TV and Internet - for one low price.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Since they found me in a beer helmet, I thought it was a nice touch.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,"Yeah, for life I got phone, TV and Internet - for one low price.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Tough mind - tough body,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Reinventing Obamacare has got to start somewhere.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Look, I know it looks bad,... but beer is sooo good!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4669,12 +4669,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"Don't worry, it's only light beer.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,A few more pints and I'll be unstable.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Recycling Clinic.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
-4258,"I may look like beer, but it feels like I haven't met you yet.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"I may look like beer, but it feels like I haven't met you yet.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Soup cans would have been less expensive!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"J - E - T - S, Jets!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,I told them I can't unbutton and pee with a single hand.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,The technical support is excellent.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,Never thought Tinnitus would be a fond memory.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,I told them I can't unbutton and pee with a single hand.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,The technical support is excellent.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,Never thought Tinnitus would be a fond memory.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Our ward is going to have a toga party.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Gotta support the team.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I feel like a recycle plant.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4686,18 +4686,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"And then I said ""Oh yeah?""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Does insurance cover this? It was much simpler in college; we just drank this stuff.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I told them I'm covered under Bannon-Care.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,They are replacing opioids with beer. Something about taxation and social acceptability.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,They are replacing opioids with beer. Something about taxation and social acceptability.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"Actually, it's a HOPSital, and I'm okay going out of pocket for it.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Since when does feeling younger get frowned upon?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,Sterile steroids in sterio,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,I'm somewhere between AC and DC.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Since when does feeling younger get frowned upon?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,Sterile steroids in sterio,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,I'm somewhere between AC and DC.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,I hear the anesthesiologist uses a lampshade.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,They insisted that it be taken intravenously.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,"I know things got a bit out of hand at the office party, but I'm just trying to avoid a hangover.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,"I was enjoying a wonderful bowel movement... and the next thing I knew, here I was in this hospital bed.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,They insisted that it be taken intravenously.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,"I know things got a bit out of hand at the office party, but I'm just trying to avoid a hangover.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,"I was enjoying a wonderful bowel movement... and the next thing I knew, here I was in this hospital bed.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,It is not like your face-lift. I'm getting a younger brain.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Well Margaret, you'd be surprised how tiresome drinking your own pee can become.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"I can see you don't like my new invention for the after-five IV drip system, but it's going to make you a rich widow.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"I can see you don't like my new invention for the after-five IV drip system, but it's going to make you a rich widow.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"Honey, it's covfefe for the brain.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The doctor said this is the worst case of recycling mania she's ever seen,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"On this date in 1977, Larry Cannon first combined his love for his beer helmets with his habit of self-medicating. His wife was not amused.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4705,7 +4705,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,The I.V. pole was extra,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,They call it Beer Goggles 2.0,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"You're not going to believe this, but intravenous beer is known to be the best medicine for my particular condition.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,With any luck at all they will fix your hearing so you listen to me.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,With any luck at all they will fix your hearing so you listen to me.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"Clinical trials for a new, portable IV technology have been inconclusive.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It was Nurse Appreciation Day at the ballpark.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Not to worry. They're lo-carb.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4724,7 +4724,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"Doc said ""polyphonic arrhythmia.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,You're so vein.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,573
 4258,They tell me some rich guy is financing this test treatment for small hands.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,I can feel my beer senses kicking in now.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,I can feel my beer senses kicking in now.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Just trying to keep my alcohol swabs moist.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,Make sure this treatment is covered.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,I keep telling you Janet. I can't help how I look or how I act. My DNA matches me too closely to Picasso.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4733,11 +4733,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"Their stuff is probably better than that homebrew, you know.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Honey, enough with all the lectures from these medical people about how to avoid another heart attack! This beta blocker bong is just another one of the doctor's head games!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I drink to forget - so this makes sure I keep drinking.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Hospital cutbacks. But as an unexpected side effect, I now have excellent posture.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Hospital cutbacks. But as an unexpected side effect, I now have excellent posture.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Regular or de-caf?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"For the tenth time, the doctor told me you could take those off if you wanted to hear me.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,They hope to find your moral compass in there,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,It's the latest trend in face augmentation. It's called eyeball plumping!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,It's the latest trend in face augmentation. It's called eyeball plumping!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,The moment you realize you should have swiped left.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I already had the apparatus.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I knew I should have been worried when my Doctor had a fraternity shirt on!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
@@ -4753,11 +4753,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"My heart's much better, but something's off with my liver.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Let's just call it what it is.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Uh, what's the score again?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,It's Schaefer . . .for when you're having more than one.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,It's Schaefer . . .for when you're having more than one.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,I can't tell if you're coming or going.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,My new treatment is sponsored by Monster Energy Drink !,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Gosh, that doctor was friendly but he seemed to have an odd sense of humor.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,It helps me grow a moustache on my penis,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,It helps me grow a moustache on my penis,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Attaching them to my arms was less painful than the alternative.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Turns out, my old frat brother is a doctor.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Son, I knew you were drinking the Kool-Aid, but this is a bit much.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4773,13 +4773,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,The oncologist and I belonged to the same fraternity,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Pilsner and Porter. You got a problem?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Would it help if I said its the King of Beers?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Well, I suppose I can give the new ""'Murrican Health Care Plan"" a chance . . .",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,All I can hear is my blood lapping on the shore.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Well, I suppose I can give the new ""'Murrican Health Care Plan"" a chance . . .",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,All I can hear is my blood lapping on the shore.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Hospital responds to cutbacks: B.Y.O.I.V,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,How 'bout them Yankees? Think they'll go all the way this year?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Fortunately, the treatment is two cans of beer daily, administered intravenously",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Fortunately, the treatment is two cans of beer daily, administered intravenously",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"Even on his deathbed, George never forgot his fraternity days.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Apart from anything else, it's downright insulting to me--having earlids installed.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Apart from anything else, it's downright insulting to me--having earlids installed.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"I'm telling you, Margaret, Ponce de León would have absolutely died for this.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Besides this, how's your day?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,That last basketball game was too much for him.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4798,28 +4798,28 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,I only ordered one juice but then this happened.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,You never said don't drip.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It was cheaper than a kidney transplant.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"My instructor was Mr. Langley, and he taught me to sing a song. If you'd like to hear it I can sing it for you.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"My instructor was Mr. Langley, and he taught me to sing a song. If you'd like to hear it I can sing it for you.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,It does help my headaches.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"'I think you're being very suppressive, Judy.'",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Who wouldn't enjoy some top flight plasma while watching a game?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,They say I'll have to miss our fantasy draft.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Who wouldn't enjoy some top flight plasma while watching a game?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,They say I'll have to miss our fantasy draft.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Gotta love those sports injuries.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,We really do need to look for a better plan soon.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,They ran out of IV poles.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Beer bong? No dear, wrong.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"OK you were right: A decent nose job costs more than $150 bucks. Ugh! And the ""free anesthetic"" is no prize either.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"OK you were right: A decent nose job costs more than $150 bucks. Ugh! And the ""free anesthetic"" is no prize either.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"Aparently a little ""hair of the dog"" is the best cure for alcohol poisoning.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Do it yourself medicine is the New Federal Health Care Plan.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Look! No hands! Honey. . .um,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Look! No hands! Honey. . .um,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Apparently Congress thinks blood is overrated.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Stan this is ridiculous! Our son was joking when he said u would get a faster and longer buzz chugging it that way.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I am connecting my electrolytes,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Honey, next come you come could you please bring my tin foil hat",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,I'm still nauseous but my ear-forearm coordination is much improved.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,I'm still nauseous but my ear-forearm coordination is much improved.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"Beer wings. Beer wings! Never heard of them? Great symmetry, don't you think?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,I simply asked to be connected to Youtube.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,I simply asked to be connected to Youtube.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Would you like to try?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Just looking at your face, makes me want to barf.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Just looking at your face, makes me want to barf.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,The nurses are rooting for me too.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,They're re-purposing my brain.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,So great to hear the new arteries in STEREO !,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4834,14 +4834,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,Apparently it's an auto-immune disease.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"You know, you can learn a lot by not listening to the news.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"""What is it, two for one happy hour?",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,573
-4258,It's called beer-brain bypass.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,It's called beer-brain bypass.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,I think Dr. Frankenstein is playing head games with me again.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Well dear, impressive but not too subtle!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Chemo can be fun, too.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,Don't worry - it's just ketchup!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Chemo can be fun, too.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,Don't worry - it's just ketchup!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,My mother warned me about girls like you.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,It's called drunk care.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,If all else fails they will keep my head afloat.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,If all else fails they will keep my head afloat.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Cuts to Medicare have forced the Hospital to limit its supply of IV poles.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"3, 2, 1....and there goes the buzzer on visiting hours.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,My doctor says he got this idea from a college fraternity brother.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
@@ -4851,7 +4851,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"What? It""s craftmatic beer.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Well, doc did prescribe nitroglycerin.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,They say that we need to put our hands on a glowing globe.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,This is not breaking my promise.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,This is not breaking my promise.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"Husband: ""Put on the game, and IV me."" Wife: ""'The Playoffs' is NOT a medical condition!""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Thanks for coming in, Thelma. That first $100 was for the doctor. Now I need another for the night nurse.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,This recycling has really cut down on my expenses for alcohol.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4862,8 +4862,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"... but what really matters, is that they make pèndent...!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Honestly honey, the doctor said you would be as good as new in 10 years.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,They're playing STAIRWAY TO HEAVEN.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,What a coincidence. Apparently my doctor is a Sigma Chi too.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,The doctor prescribed The Hair of the Dog!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,What a coincidence. Apparently my doctor is a Sigma Chi too.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,The doctor prescribed The Hair of the Dog!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,You should what they hooked up to my catheter...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Okay, it's no more mustard and ketchup on every meal...",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Yes, honey. You have a co-pay on that too.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4878,7 +4878,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,The doc said this would help me be able to watch the news.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,The doc says it’ll restore the balance of my right brain creativity with my left brain logic.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,573
 4258,If I remember correctly I can't live without my soda pop cans!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"But Honey, we're saving $89.95 a day by not using an IV stand.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"But Honey, we're saving $89.95 a day by not using an IV stand.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,They're taking the beer out of my blood and putting it back where it belongs.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"It's called a ""microbiological brew"".",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"No complaints, except the drip keeps me awake.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4906,7 +4906,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"It's just like going to the ball game, and without having to fiddle with a straw.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,IPA has healing properties.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I nearly didn't make it Jane. Two weeks abroad without an IPA!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,They didn't have a charger.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,They didn't have a charger.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Thank God I've got the foley!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,He's even better at doctoring than he was at hazing.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,Do you think this be covered under 'Trumpcare' too?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
@@ -4914,38 +4914,38 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4258,"""Mom says I married a 12 year-old. I'm thinking I married a BOOZY 12 year-old.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,These tubes are really restricting my pity-seeking selfie taking ability.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,It's what got me through college.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Reunion anxiety's a bitch.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Reunion anxiety's a bitch.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,What are you thinking Sam?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"But honey, my doctor says hair of the dog really works.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Preparation H I V. President Trump's explanation for his small hands,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Preparation H I V. President Trump's explanation for his small hands,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,I'm testing the efficacy of mindfulness.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I'm too weak to take a selfie.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,"Why yes, the liver donor was a Jets fan. How did you know?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"I tried using the IV to quit drinking, but it was all in vein.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"Don't worry dear,this beer life support system seems to be working.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,They said I need to increase my liquid intake.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"Don't worry dear,this beer life support system seems to be working.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,They said I need to increase my liquid intake.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,It's Game 7.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"The halftime score is MRSA 10, antibiotics 7.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,573
 4258,"Actually, they need the bed.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,I'm being deprogrammed.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
-4258,"Mind you, power of the personalized medicine will blow your mind.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,I'm being deprogrammed.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
+4258,"Mind you, power of the personalized medicine will blow your mind.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"This new ""pop treatment"" really works.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Just take it off and they'll let you go.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"It's to stop me scratching it - one move and my head will explode, they said.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"It replaces Obamacare. I don't feel good about this, but I thought it would be worse.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,It's the best they can do with our Caronacare coverage.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,It's the best they can do with our Caronacare coverage.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"No, I don't think this is an example of double loop feedback.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"""I have anchor management issues"" should have won the last one!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,This is the Sport model for the active man,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,This is the Sport model for the active man,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,"And to top it off, I got canned today.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,"Yes, I do think saving half the copay by bringing our own cans of blood is worth it.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,I'm not allowed anything by mouth. Thank god for late night infomercials!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,It's so comforting my fraternity brother's in charge.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,It's so comforting my fraternity brother's in charge.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,I think I remember Dr. Howard now from Delta Lambda Phi.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Technically . . . it's not drinking.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,"""'I was hoping that these things are beer cans but possibly that may be the next step"".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,"""'I was hoping that these things are beer cans but possibly that may be the next step"".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,My doctor is one of my old frat brothers.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Someone keeps stealing my catheter and urine bag.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
 4258,Tommy can you beer me?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573
-4258,Now I can go to the game!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,573
+4258,Now I can go to the game!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,573
 4258,Are you sure this will replace brain cells from last night?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,573

@@ -8,7 +8,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 7,You should see his water noodle.,1.6732673267326732,0.053089293359529915,202.0,101.0,66.0,35.0,572
 8,"This ""mine is bigger than yours"" thing between you and your brother has got to stop, Harry.",1.6696914700544463,0.03329181062231607,551.0,289.0,155.0,107.0,572
 9,"No chance of us getting them mixed up, I initialed mine.",1.6649305555555556,0.031389500095584034,576.0,292.0,185.0,99.0,572
-10,Costco. Why?,1.664351851851852,0.03666712209683107,432.0,222.0,133.0,77.0,572
+10,Costco. Why?,1.6643518518518519,0.03666712209683107,432.0,222.0,133.0,77.0,572
 11,It keeps blowing over from Mar-a-Lago. You'd think they would build a wall.,1.6566523605150214,0.051349299611014115,233.0,125.0,63.0,45.0,572
 12,Not Freudian. Trumpian.,1.6363636363636365,0.05806591007608841,187.0,105.0,45.0,37.0,572
 13,"He has a bigger house, a bigger car, and now a bigger ball - need I go on?",1.6344086021505375,0.02703994086864254,930.0,548.0,174.0,208.0,572
@@ -66,10 +66,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 65,We've sent someone to find a pin.,1.4537037037037035,0.04629629629629629,216.0,141.0,52.0,23.0,572
 66,Trump insisted we use his ball,1.4497607655502391,0.04884629774339146,209.0,141.0,42.0,26.0,572
 67,At least mine has the same colors..!!..,1.4492753623188406,0.04774778159612394,207.0,137.0,47.0,23.0,572
-68,I'm gonna try to squeeze in a swim.,1.4470588235294115,0.053431997897286934,170.0,114.0,36.0,20.0,572
+68,I'm gonna try to squeeze in a swim.,1.4470588235294115,0.05343199789728693,170.0,114.0,36.0,20.0,572
 69,What part of spontaneously capricious polychromatic spherical mega-erratic subdivision do you not understand?,1.4416666666666669,0.06567451502246546,120.0,83.0,21.0,16.0,572
 70,"Hey, I tried to tell him it wasn't about size. . . but you know Donald!",1.4375,0.051496475590614925,192.0,133.0,34.0,25.0,572
-71,"Don't get too Freudian on me, Harold. It's just another man's beach ball.",1.4368421052631581,0.04682694318739025,190.0,123.0,51.0,16.0,572
+71,"Don't get too Freudian on me, Harold. It's just another man's beach ball.",1.436842105263158,0.04682694318739025,190.0,123.0,51.0,16.0,572
 72,This piece is called 'Covfefe'. It explores the relationship between ego and intellect.,1.4365079365079363,0.06015433246061176,126.0,84.0,29.0,13.0,572
 73,what on earth made you pick a ball with those colors?,1.433862433862434,0.046377038354902686,189.0,122.0,52.0,15.0,572
 74,We're just going to have to get used to having Christo in our neighborhood.,1.4331550802139037,0.04969993293164697,187.0,126.0,41.0,20.0,572
@@ -83,12 +83,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 82,Where am I going to pee?,1.4228571428571428,0.05457962094302942,175.0,125.0,26.0,24.0,572
 83,Looks like Trump got here first.,1.4219653179190752,0.05319365426322111,173.0,121.0,31.0,21.0,572
 84,"No one wants to swim, we're all out of breath.",1.4184397163120568,0.05527496741908386,141.0,95.0,33.0,13.0,572
-85,Don't be deflated because your ball is small; you nailed the color scheme.,1.4176470588235297,0.055138675543331586,170.0,122.0,25.0,23.0,572
+85,Don't be deflated because your ball is small; you nailed the color scheme.,1.4176470588235297,0.05513867554333159,170.0,122.0,25.0,23.0,572
 86,This must be your first Texas pool party.,1.4166666666666667,0.0556327284540314,168.0,121.0,24.0,23.0,572
 87,Let's quietly leave. I just don't see us fitting in.,1.4146341463414631,0.053251623216199966,164.0,114.0,32.0,18.0,572
-88,"Honey, remember this is Mar-a-Lago, it's his pool, just get over it.",1.4135338345864659,0.06235287495303735,133.0,96.0,19.0,18.0,572
+88,"Honey, remember this is Mar-a-Lago, it's his pool, just get over it.",1.413533834586466,0.06235287495303735,133.0,96.0,19.0,18.0,572
 89,I get a lower rate on my insurance if no one actually swims in the pool.,1.413333333333333,0.07848413699442558,75.0,52.0,15.0,8.0,572
-90,"Don't worry, Donnie. You can tweet that yours is bigger.",1.4122807017543861,0.06330370961077003,114.0,79.0,23.0,12.0,572
+90,"Don't worry, Donnie. You can tweet that yours is bigger.",1.412280701754386,0.06330370961077003,114.0,79.0,23.0,12.0,572
 91,"Sorry, I thought you'd have a bigger pool.",1.411214953271028,0.07145275758427383,107.0,79.0,12.0,16.0,572
 92,Amazon said it was 12 inches,1.4110429447852757,0.05202122434448237,163.0,112.0,35.0,16.0,572
 93,They do this every time the lifeguard goes on a break.,1.409937888198758,0.04943159029148683,161.0,107.0,42.0,12.0,572
@@ -97,9 +97,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 96,"You know little Donnie needs to have the bigly, hugely, most beautiful Covfefe in the pool, right?",1.4090909090909092,0.05420414962422671,154.0,107.0,31.0,16.0,572
 97,The ad said they had a big ballroom,1.4088050314465408,0.0514218164458514,159.0,108.0,37.0,14.0,572
 97,I thought cold water made them shrink?,1.4088050314465408,0.05515669212426425,159.0,113.0,27.0,19.0,572
-99,So that's a large and that's a medium?,1.4080000000000001,0.05575985375090739,125.0,83.0,33.0,9.0,572
+99,So that's a large and that's a medium?,1.408,0.05575985375090739,125.0,83.0,33.0,9.0,572
 100,"I bet whoever's ball that is, he's wearing a Speedo.",1.4076433121019107,0.05418574132121578,157.0,110.0,30.0,17.0,572
-100,Remember the Pool Regulations we forgot to vote on last fall ??,1.4076433121019107,0.052657154574411814,157.0,108.0,34.0,15.0,572
+100,Remember the Pool Regulations we forgot to vote on last fall ??,1.4076433121019107,0.05265715457441181,157.0,108.0,34.0,15.0,572
 102,And you should see the size of his noodle.,1.4038461538461535,0.05440013969494285,156.0,110.0,29.0,17.0,572
 102,Trust me. The pool is a LOT cleaner this way.,1.4038461538461535,0.0496296008768612,156.0,104.0,41.0,11.0,572
 104,"""No, seriously... You should take a picture of that hot air balloon stuck in our pool -- and then send it to 'The New Yorker' for their next caption contest. You won't believe the number of idiots who won't ""get it"".",1.4025974025974026,0.0556764091383909,154.0,110.0,26.0,18.0,572
@@ -139,17 +139,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 136,They always have to outdo us,1.3636363636363635,0.057495957457606925,121.0,87.0,24.0,10.0,572
 136,"We decided the flag was too ""in your face.""",1.3636363636363635,0.057495957457606925,121.0,87.0,24.0,10.0,572
 140,"Didn't I tell you that there will always be someone with bigger, more colorful balls than yours?",1.3619047619047622,0.060709796573247675,105.0,75.0,22.0,8.0,572
-141,They always have to outdo us,1.3613445378151259,0.056899790518810986,119.0,85.0,25.0,9.0,572
-141,Go big or go home.,1.3613445378151259,0.056899790518810986,119.0,85.0,25.0,9.0,572
+141,They always have to outdo us,1.361344537815126,0.056899790518810986,119.0,85.0,25.0,9.0,572
+141,Go big or go home.,1.361344537815126,0.056899790518810986,119.0,85.0,25.0,9.0,572
 143,"Thanks, Ted, but I think we're good.",1.358974358974359,0.05623717519128432,117.0,83.0,26.0,8.0,572
 144,It's beautiful! What was your inspiration?,1.3565217391304347,0.05685812008546452,115.0,82.0,25.0,8.0,572
 145,We are going to have Mexico pay for the ball.,1.3559322033898304,0.0642831449054553,118.0,91.0,12.0,15.0,572
 145,In case we lose the other one.,1.3559322033898304,0.05452894924516757,118.0,83.0,28.0,7.0,572
 147,I use this one in my bathtub.,1.3534482758620692,0.059045773346185534,116.0,85.0,21.0,10.0,572
 147,"Bob, you look a little deflated.",1.3534482758620692,0.05644956399376876,116.0,83.0,25.0,8.0,572
-149,Don't blow this out of proportion!,1.350877192982456,0.058419987280790564,114.0,83.0,22.0,9.0,572
-149,"And over here is the ""Trump pool "" It's filled with hot air .",1.350877192982456,0.058419987280790564,114.0,83.0,22.0,9.0,572
-149,You don't have the balls to compete!,1.350877192982456,0.05569904957571332,114.0,81.0,26.0,7.0,572
+149,Don't blow this out of proportion!,1.3508771929824561,0.058419987280790564,114.0,83.0,22.0,9.0,572
+149,"And over here is the ""Trump pool "" It's filled with hot air .",1.3508771929824561,0.058419987280790564,114.0,83.0,22.0,9.0,572
+149,You don't have the balls to compete!,1.3508771929824561,0.05569904957571332,114.0,81.0,26.0,7.0,572
 152,Donald got here first.,1.3482142857142858,0.0630491593720164,112.0,85.0,15.0,12.0,572
 152,He says he wants to make pool parties great again.,1.3482142857142858,0.061760192168117185,112.0,84.0,17.0,11.0,572
 154,No one was worrying about inflation.,1.3454545454545457,0.05838579756406175,110.0,80.0,22.0,8.0,572
@@ -182,7 +182,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 180,I keep getting reminded of why we don't like them.,1.33,0.0532859638121892,100.0,70.0,27.0,3.0,572
 180,Bet Dr. Freud never anticipated this one.,1.33,0.06365151334819268,100.0,76.0,15.0,9.0,572
 180,The Joneses win again.,1.33,0.06521913333934569,100.0,77.0,13.0,10.0,572
-184,I told you it would fit.,1.326530612244898,0.057611316528512535,98.0,71.0,22.0,5.0,572
+184,I told you it would fit.,1.3265306122448979,0.057611316528512535,98.0,71.0,22.0,5.0,572
 185,"Simply point your wand at it and say ""Engorgio!""",1.3253012048192772,0.06438851763577322,83.0,61.0,17.0,5.0,572
 185,Don’t be so quick to judge.,1.3253012048192772,0.0709045575696184,83.0,64.0,11.0,8.0,572
 187,"I ordered twenty one-foot beach balls, not one twenty-foot beach ball. Darned autocorrect!",1.3229166666666667,0.058292200410131785,96.0,70.0,21.0,5.0,572
@@ -369,33 +369,33 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 359,"Like I tell your father, it's not the size of the beach ball that counts, but the way you bounce it",1.2461538461538462,0.06944411571256842,65.0,53.0,8.0,4.0,572
 359,"Well, someone's over-compensating.",1.2461538461538462,0.06589169884235313,65.0,52.0,10.0,3.0,572
 359,We're good.,1.2461538461538462,0.0760527689741738,65.0,55.0,4.0,6.0,572
-371,Who left the Viagra in the pool?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,572
-371,My penis is still bigger.,1.238095238095238,0.08068538240656772,63.0,55.0,1.0,7.0,572
-371,We should have just gotten him a bottle of wine.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,572
-371,Nobody brings a New York beach ball to a Texas party.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,572
-371,I tire of your perceived sense of inadequacy.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,572
-371,Don't let that thing get near the water.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,572
-371,I guess I misunderstood the evite which said to bring something for a large pool party.,1.238095238095238,0.05409160326162522,63.0,48.0,15.0,0.0,572
-371,We'll play with yours after Donald leaves.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,572
-371,Has anybody seen Barry?,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,572
-371,"He ate a double serving of the chili, changed into his rainbow Speedo, and didn't wait 30 minutes before jumping in.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,572
-371,Just drop it in very chlorinated water and voila...!,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,572
-371,"Q: ""How do you think this pool party is going?"" A: ""Well, looks like everyone is having a ball!""",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,572
-371,I decided to make my backyard a metaphor for my divorce.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,572
-371,Consider this your last year to chair the LGBT decorating committee.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,572
-371,"So, who's your pool guy?",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,572
-371,So that's a covfefe!,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,572
-371,We asked Donald to contribute something substantial and meaningful.,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,572
-371,I hope it accepts this offering.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,572
-371,I wouldn't anger the mother.,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,572
-371,I think it's a sponge. It was smaller than yours when she threw it into the pool.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,572
-371,It made a big splash a few weeks ago.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,572
-371,"If the President says it is a ""Really, Really, big ball"", then it is a really, really big ball..",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,572
-371,Whoever did that has a lot of balls,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,572
-371,I'm sorry honey . . .I thought they were in Mar a Lago this weekend!,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,572
-371,"In his pool back in Texas,you wouldn't even notice it.",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,572
-371,"Pardon me, would you happen to have a pin?",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,572
-371,Put it away.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,572
+371,Who left the Viagra in the pool?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,572
+371,My penis is still bigger.,1.2380952380952381,0.08068538240656772,63.0,55.0,1.0,7.0,572
+371,We should have just gotten him a bottle of wine.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,572
+371,Nobody brings a New York beach ball to a Texas party.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,572
+371,I tire of your perceived sense of inadequacy.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,572
+371,Don't let that thing get near the water.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,572
+371,I guess I misunderstood the evite which said to bring something for a large pool party.,1.2380952380952381,0.05409160326162522,63.0,48.0,15.0,0.0,572
+371,We'll play with yours after Donald leaves.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,572
+371,Has anybody seen Barry?,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,572
+371,"He ate a double serving of the chili, changed into his rainbow Speedo, and didn't wait 30 minutes before jumping in.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,572
+371,Just drop it in very chlorinated water and voila...!,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,572
+371,"Q: ""How do you think this pool party is going?"" A: ""Well, looks like everyone is having a ball!""",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,572
+371,I decided to make my backyard a metaphor for my divorce.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,572
+371,Consider this your last year to chair the LGBT decorating committee.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,572
+371,"So, who's your pool guy?",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,572
+371,So that's a covfefe!,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,572
+371,We asked Donald to contribute something substantial and meaningful.,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,572
+371,I hope it accepts this offering.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,572
+371,I wouldn't anger the mother.,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,572
+371,I think it's a sponge. It was smaller than yours when she threw it into the pool.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,572
+371,It made a big splash a few weeks ago.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,572
+371,"If the President says it is a ""Really, Really, big ball"", then it is a really, really big ball..",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,572
+371,Whoever did that has a lot of balls,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,572
+371,I'm sorry honey . . .I thought they were in Mar a Lago this weekend!,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,572
+371,"In his pool back in Texas,you wouldn't even notice it.",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,572
+371,"Pardon me, would you happen to have a pin?",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,572
+371,Put it away.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,572
 398,I told you not to throw your viagra in the pool.,1.234375,0.06951571243822256,64.0,53.0,7.0,4.0,572
 398,"But, where are the children?",1.234375,0.053369535239372906,64.0,49.0,15.0,0.0,572
 398,Sometimes size does count.,1.234375,0.06585136695439135,64.0,52.0,9.0,3.0,572
@@ -865,7 +865,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 862,Got a pin ?,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,572
 862,Where's mom?,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,572
 862,The parachute's a little loud but you have to admire his aim.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,572
-862,"Well, someone's compensating.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,572
+862,"Well, someone's compensating.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,572
 862,Well they did say only one toy...,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,572
 862,The covfefe is beautiful this time of year,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,572
 862,"At Sunnycrest, we go big or go home.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,572
@@ -901,8 +901,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 862,Trump brought it.,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,572
 862,I don't know why I feel so inadequate!,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,572
 862,You'll never be half the man your father is.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,572
-862,It looked smaller online,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,572
-862,Talk about inflation!!!,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,572
+862,It looked smaller online,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,572
+862,Talk about inflation!!!,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,572
 862,They should have thrown it back by now.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,572
 862,I find it a bit ostentatious.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,572
 862,I told you sweetheart. Sometimes things can be too large to effectively play with.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,572
@@ -914,7 +914,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 862,"Bigger is better, Gary. It's ALWAYS better.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,572
 862,I knew we should have gone to Costco.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,572
 862,"Honey, yours is just fine.",1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,572
-862,Enjoy it. They grow up so quickly.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,572
+862,Enjoy it. They grow up so quickly.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,572
 862,"Welcome to Texas, and thanks for the pretty ping pong ball.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,572
 862,Ok. If it lasts more than four hours we see the doctor.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,572
 862,It's my subtle way of letting the association know they should construct a larger pool.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,572
@@ -2081,7 +2081,6 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1738,"I don't know, could they be related?",1.09375,0.0523514603733822,32.0,29.0,3.0,0.0,572
 1738,You're right we have the biggest beachball in the neighborhood and your little one doesn't make the grade.,1.09375,0.0689695906576505,32.0,30.0,1.0,1.0,572
 1738,"Marco, you know that Donald has always had a thing about size.",1.09375,0.0523514603733822,32.0,29.0,3.0,0.0,572
-1738,,1.09375,0.0689695906576505,32.0,30.0,1.0,1.0,572
 1738,But the extra large was a much better deal.,1.09375,0.0689695906576505,32.0,30.0,1.0,1.0,572
 1738,You know he has an inferiority complex.,1.09375,0.0689695906576505,32.0,30.0,1.0,1.0,572
 1738,I'm gonna take my little ball and go home.,1.09375,0.0689695906576505,32.0,30.0,1.0,1.0,572
@@ -5353,7 +5352,6 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4059,It takes real balls to have a pool party during the draught.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,572
 4059,"This way, it's always adult swim time!",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,572
 4059,It's quite a dramatic piece of art,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,572
-4059,,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,572
 4059,He said it had to be HUGE.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,572
 4059,I don't want to play. I'm just going to take my ball home,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,572
 4059,You mean the jumbo edition?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,572

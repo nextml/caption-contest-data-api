@@ -1,6 +1,6 @@
 caption,funny,somewhat_funny,unfunny,count,score,precision,rank,contest
 "We're pretentious, not ostentatious.",19.0,2.0,11.0,32.0,2.25,0.16800537625806175,1,512
-Broga meets on the 2nd floor.,7.0,2.0,7.0,16.0,2.0,0.24152294576982397,2,512
+Broga meets on the 2nd floor.,7.0,2.0,7.0,16.0,2.0,0.241522945769824,2,512
 Please put that back in reception.,1.0,7.0,2.0,10.0,1.9,0.1795054935711501,3,512
 "I told you to bring your own, that's from our lobby.",2.0,8.0,4.0,14.0,1.8571428571428568,0.1771924779845835,4,512
 "Let her out, Fred.",4.0,3.0,6.0,13.0,1.8461538461538465,0.2492592576310716,5,512
@@ -8,8 +8,8 @@ First visit?,3.0,5.0,5.0,13.0,1.8461538461538465,0.22205779584216376,5,512
 "I'm sorry, but we cancelled the order because Governor Christie has dropped the class.",3.0,4.0,5.0,12.0,1.8333333333333333,0.2409996018270737,7,512
 "Sorry, that won't fly!",2.0,6.0,4.0,12.0,1.8333333333333333,0.207193853502687,7,512
 "I'm sorry, we don't allow performance enhancing rugs.",1.0,8.0,3.0,12.0,1.8333333333333333,0.1666666666666666,7,512
-Man cave yoga is in the back.,3.0,3.0,5.0,11.0,1.8181818181818181,0.2634795772034443,10,512
-"Look, you and I both know that doesn't fly in here.",4.0,1.0,6.0,11.0,1.8181818181818181,0.2959785562927219,10,512
+Man cave yoga is in the back.,3.0,3.0,5.0,11.0,1.818181818181818,0.2634795772034443,10,512
+"Look, you and I both know that doesn't fly in here.",4.0,1.0,6.0,11.0,1.818181818181818,0.2959785562927219,10,512
 Yoga for idiots is tomorrow.,3.0,5.0,6.0,14.0,1.7857142857142858,0.21428571428571425,12,512
 I assume you are new at this.,3.0,1.0,5.0,9.0,1.7777777777777777,0.32394177193585005,13,512
 First class?,3.0,4.0,6.0,13.0,1.7692307692307692,0.23076923076923075,14,512

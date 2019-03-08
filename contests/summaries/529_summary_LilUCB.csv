@@ -1,6 +1,6 @@
 unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 70,48,Of course I understand the gravity of the situation.,1.8728323699421965,0.06222190776983042,55,1,173,529
-69,43,It's easy once you realize there's nothing to it.,1.8433734939759039,0.06277265051980242,54,2,166,529
+69,43,It's easy once you realize there's nothing to it.,1.843373493975904,0.06277265051980242,54,2,166,529
 64,36,There's really nothing to it.,1.8205128205128205,0.06267221401223981,56,3,156,529
 61,33,I'm virtually there.,1.808219178082192,0.06470387361334426,52,4,146,529
 64,31,"Can't stop now, i'm virtually there.",1.7870967741935484,0.06070877053433048,60,5,155,529
@@ -12,7 +12,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 61,26,"No, the hard part is knowing when you've reached the top.",1.7388059701492538,0.06609581846758031,47,11,134,529
 61,29,I'm headed for an air B&B.,1.7377049180327868,0.07435153313422606,32,12,122,529
 58,26,Can you lend me a few bucks? I have no visible means of support.,1.7377049180327868,0.07156606380651546,38,12,122,529
-53,18,The ink is much thinner up here.,1.7328244274809161,0.06016656024183885,60,14,131,529
+53,18,The ink is much thinner up here.,1.732824427480916,0.06016656024183885,60,14,131,529
 64,28,"See, nothing to it!",1.7251908396946565,0.06943563714516487,39,15,131,529
 61,27,Anyone can climb a mountain that's There.,1.7235772357723578,0.07237411965478882,35,16,123,529
 64,29,"Why? Because it is not there, that's why.",1.7222222222222223,0.07271504627066272,33,17,126,529
@@ -35,9 +35,9 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 59,19,My GPS says there is a mountain here!,1.6638655462184877,0.06780304314547941,41,34,119,529
 59,22,I climb it because it's not there.,1.6605504587155964,0.07624845323123647,28,35,109,529
 57,20,The Marcel Marceau School of Rock Climbing,1.6605504587155964,0.07398673725432847,32,35,109,529
-55,19,Now do you appreciate the gravity of the situation?,1.6603773584905661,0.07449957934820994,32,37,106,529
-58,22,If you see the cartoonist have him drop me a line.,1.6603773584905661,0.07803378038395753,26,37,106,529
-56,20,"Wait, you can see me?",1.6603773584905661,0.0756959830002715,30,37,106,529
+55,19,Now do you appreciate the gravity of the situation?,1.660377358490566,0.07449957934820994,32,37,106,529
+58,22,If you see the cartoonist have him drop me a line.,1.660377358490566,0.07803378038395753,26,37,106,529
+56,20,"Wait, you can see me?",1.660377358490566,0.0756959830002715,30,37,106,529
 57,19,I'm climbing it because it's NOT there.,1.6545454545454543,0.07241383667858442,34,40,110,529
 55,20,Do you know my brother-in-law? He also has no visible means of support.,1.6534653465346534,0.07889790817083776,26,41,101,529
 45,15,I don't think you fully appreciate the gravity of the situation.,1.6511627906976745,0.08231839334243711,26,42,86,529
@@ -119,13 +119,13 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 47,10,Quick! Draw a net!,1.569767441860465,0.07496592509001362,29,117,86,529
 50,13,Why? Because it's not there.,1.569767441860465,0.08025386818249987,23,117,86,529
 47,10,Climbing is the easy part; it's the pretending that's hard.,1.569767441860465,0.07496592509001362,29,117,86,529
-48,10,Quick! Toss me a pencil!,1.5681818181818181,0.0737052195583165,30,121,88,529
-53,15,Mexico paid for it.,1.5681818181818181,0.08208912528105163,20,121,88,529
+48,10,Quick! Toss me a pencil!,1.568181818181818,0.0737052195583165,30,121,88,529
+53,15,Mexico paid for it.,1.568181818181818,0.08208912528105163,20,121,88,529
 47,12,I'm well aware of the gravity of my predicament.,1.5679012345679009,0.08228652066411386,22,123,81,529
 52,13,"Obviously, he's drawing the mountain last.",1.5666666666666669,0.07749189478779536,25,124,90,529
 52,13,"What do you mean by ""No visible means of Support""?",1.5666666666666669,0.07749189478779536,25,124,90,529
 47,11,Why am I doing this? Because it's not there.,1.5662650602409638,0.07891560657074274,25,126,83,529
-55,15,Sketch the darn rocks! I look like an idiot!,1.565217391304348,0.0792709672331495,22,127,92,529
+55,15,Sketch the darn rocks! I look like an idiot!,1.5652173913043481,0.0792709672331495,22,127,92,529
 52,15,It's Trump's idea. Only Mexicans can see it.,1.5647058823529412,0.08442764761416073,18,128,85,529
 49,12,"Don't just stand there, draw a ladder!",1.5647058823529412,0.07929496545939799,24,128,85,529
 51,14,The mountain went to Mohammed.,1.5647058823529412,0.08275213372984998,20,128,85,529
@@ -139,7 +139,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 45,11,These virtual reality goggles are amazing.,1.5584415584415583,0.08368950053315871,21,138,77,529
 49,11,I'm going to get my stuff from the cloud.,1.5581395348837208,0.07688293224284161,26,139,86,529
 48,13,Just tell them to finish the damn drawing before I fall off the page.,1.5569620253164558,0.08592403112428552,18,140,79,529
-49,10,Scaling Mont Blanc,1.5568181818181819,0.07381589567214164,29,141,88,529
+49,10,Scaling Mont Blanc,1.556818181818182,0.07381589567214164,29,141,88,529
 54,14,Well of course there's no wall. He hasn't been elected yet.,1.5555555555555556,0.07918295493562587,22,142,90,529
 47,10,It's the Emporer's new wall.,1.5542168674698795,0.07714607514979338,26,143,83,529
 46,9,The mountain is metaphorical.,1.5542168674698795,0.07521740856176325,28,143,83,529
@@ -394,7 +394,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 46,7,"What do you mean, you're not recording it?",1.4583333333333333,0.07896409714862605,19,392,72,529
 46,7,"""Hey Sipress, finish your damn cartoon. You're leaving me hanging here"".",1.4583333333333333,0.07896409714862605,19,392,72,529
 46,7,The descent is actually more difficult.,1.4583333333333333,0.07896409714862605,19,392,72,529
-42,10,I've had it! I'll never do another New Yorker cartoon caption contest again. Never!,1.4576271186440677,0.100617711967647,7,396,59,529
+42,10,I've had it! I'll never do another New Yorker cartoon caption contest again. Never!,1.4576271186440677,0.10061771196764699,7,396,59,529
 47,9,Cause of death: Mime climbing accident.,1.457142857142857,0.08557614817775881,14,397,70,529
 45,7,I have a poor grasp of virtual reality.,1.457142857142857,0.08059230600401784,18,397,70,529
 49,11,It's the one that he got Mexico to pay for.,1.457142857142857,0.09028529496456338,10,397,70,529
@@ -442,7 +442,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 44,7,"For some reason, I feel like I'm forgetting something.",1.4477611940298507,0.08314156702361689,16,434,67,529
 46,9,Can you throw me that rope there?,1.4477611940298507,0.08841429882032517,12,434,67,529
 50,8,"Actually, the hardest part is finding the invisible Sherpas.",1.4473684210526316,0.07812436518670987,18,443,76,529
-40,4,i'm half way where?,1.4461538461538461,0.07605276897417383,21,444,65,529
+40,4,i'm half way where?,1.446153846153846,0.07605276897417383,21,444,65,529
 51,10,Transcendental mountain climbing?,1.445945945945946,0.08418411244300389,13,445,74,529
 45,5,I'm pretty sure it's the Ambien.,1.4444444444444444,0.07371456839364933,22,446,72,529
 48,9,Don't wake me up. Don't wake me up.,1.4428571428571428,0.0854550946590917,13,447,70,529
@@ -483,12 +483,12 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 46,6,I'm trying to overcome my fear of heights and open spaces at the same time.,1.4366197183098592,0.07699694097818995,19,480,71,529
 47,7,My GPS say's there is a mountain here. So I'm climbing !,1.4366197183098592,0.07956722570833041,17,480,71,529
 47,7,Google Street View said said it was here!,1.4366197183098592,0.07956722570833041,17,480,71,529
-45,6,"What do you mean, ""What mountain?""",1.434782608695652,0.07855868313763514,18,485,69,529
-45,6,Could I borrow a pen?,1.434782608695652,0.07855868313763514,18,485,69,529
-46,7,Enough with the 'Off the wall' comments!,1.434782608695652,0.0812263759860361,16,485,69,529
-45,6,...And now I wish to speak to you about a matter of some gravity...,1.434782608695652,0.07855868313763514,18,485,69,529
-45,6,I left my air guitar up here somewhere.,1.434782608695652,0.07855868313763514,18,485,69,529
-44,5,It's coming down that's hard.,1.434782608695652,0.07579715850092153,20,485,69,529
+45,6,"What do you mean, ""What mountain?""",1.4347826086956519,0.07855868313763514,18,485,69,529
+45,6,Could I borrow a pen?,1.4347826086956519,0.07855868313763514,18,485,69,529
+46,7,Enough with the 'Off the wall' comments!,1.4347826086956519,0.0812263759860361,16,485,69,529
+45,6,...And now I wish to speak to you about a matter of some gravity...,1.4347826086956519,0.07855868313763514,18,485,69,529
+45,6,I left my air guitar up here somewhere.,1.4347826086956519,0.07855868313763514,18,485,69,529
+44,5,It's coming down that's hard.,1.4347826086956519,0.07579715850092153,20,485,69,529
 45,7,See you on the other side.,1.4328358208955223,0.08297902226008498,15,491,67,529
 43,5,Legal sent me. I'm off to find your glass ceiling.,1.4328358208955223,0.07733660237230819,19,491,67,529
 48,10,"Conceptually, I am using revolutionary free climbing techniques. In reality, I am screwed.",1.4328358208955223,0.09078750045221223,9,491,67,529
@@ -555,16 +555,16 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 41,5,"You're right, this might be the densest humidity ever.",1.4193548387096775,0.08146070968255369,16,552,62,529
 52,9,The Emperor's New Climb,1.4189189189189189,0.08164986234534165,13,555,74,529
 37,5,Darn you Pokemon Go!,1.4181818181818182,0.08872804547877877,13,556,55,529
-43,4,What happened to the green screen?,1.4179104477611941,0.07412768371020566,20,557,67,529
-45,6,Tell me I'm not gifted Dad!,1.4179104477611941,0.0799967596905491,16,557,67,529
-45,6,"Of course you can't see it, it's a virtual climbing wall.",1.4179104477611941,0.0799967596905491,16,557,67,529
-44,5,"I know, I know! I should have pulled the cord sooner.",1.4179104477611941,0.07711807522632988,18,557,67,529
-44,5,There really is a glass ceiling!,1.4179104477611941,0.07711807522632988,18,557,67,529
-45,6,"You may not see it, but my Pokemon Go app says there's a Pikachu at the summit.",1.4179104477611941,0.0799967596905491,16,557,67,529
-46,7,Don't just stand there. Throw me that rope!,1.4179104477611941,0.08277539245066162,14,557,67,529
-47,8,The trick is don't look down.,1.4179104477611941,0.08546373283290776,12,557,67,529
-46,7,Come back! I was joking; he didn't win the election!,1.4179104477611941,0.08277539245066162,14,557,67,529
-43,4,You just visualize the wall.,1.4179104477611941,0.07412768371020566,20,557,67,529
+43,4,What happened to the green screen?,1.417910447761194,0.07412768371020566,20,557,67,529
+45,6,Tell me I'm not gifted Dad!,1.417910447761194,0.0799967596905491,16,557,67,529
+45,6,"Of course you can't see it, it's a virtual climbing wall.",1.417910447761194,0.0799967596905491,16,557,67,529
+44,5,"I know, I know! I should have pulled the cord sooner.",1.417910447761194,0.07711807522632988,18,557,67,529
+44,5,There really is a glass ceiling!,1.417910447761194,0.07711807522632988,18,557,67,529
+45,6,"You may not see it, but my Pokemon Go app says there's a Pikachu at the summit.",1.417910447761194,0.0799967596905491,16,557,67,529
+46,7,Don't just stand there. Throw me that rope!,1.417910447761194,0.08277539245066162,14,557,67,529
+47,8,The trick is don't look down.,1.417910447761194,0.08546373283290776,12,557,67,529
+46,7,Come back! I was joking; he didn't win the election!,1.417910447761194,0.08277539245066162,14,557,67,529
+43,4,You just visualize the wall.,1.417910447761194,0.07412768371020566,20,557,67,529
 49,7,My therapist told me I needed to overcome the obstacles in my head.,1.4166666666666667,0.07849822820284491,16,567,72,529
 43,8,There's a PokeStop up here somewhere.,1.4166666666666667,0.09294815597246528,9,567,60,529
 40,5,The most challenging obstacles are those you can't see!,1.4166666666666667,0.08333333333333333,15,567,60,529
@@ -1044,50 +1044,50 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 46,6,I think I found Nowhere.,1.3548387096774193,0.0832216659692613,10,1037,62,529
 50,6,Creative use of white space is so overrated.,1.3529411764705883,0.0777332110449888,12,1044,68,529
 49,5,It's a blind summit.,1.3529411764705883,0.07485633264187075,14,1044,68,529
-36,1,Could have sworn it was right here!,1.3518518518518519,0.07072257295398894,17,1046,54,529
-39,4,I climb mountains because they are there. It's finding them that's really hard.,1.3518518518518519,0.08425033165473296,11,1046,54,529
-38,3,"Call Sipress! Tell him I need a mountain, now!",1.3518518518518519,0.07999566465981618,13,1046,54,529
-40,5,"OK, but can you walk on water?",1.3518518518518519,0.08830022878508999,9,1046,54,529
-40,5,It was here a second ago!!!,1.3518518518518519,0.08830022878508999,9,1046,54,529
-38,3,"What do you mean, didn't I forget something?",1.3518518518518519,0.07999566465981618,13,1046,54,529
-42,5,Donald Trump College of Skydiving! I'm suing.,1.3508771929824561,0.08485291737959999,10,1052,57,529
-42,5,Playing air guitar is a gateway activity,1.3508771929824561,0.08485291737959999,10,1052,57,529
-39,2,the stairway to heaven is a mental thing,1.3508771929824561,0.07294051233511402,16,1052,57,529
-42,5,This was hard enough before global warming.,1.3508771929824561,0.08485291737959999,10,1052,57,529
-44,7,"You'll never surmount Trump's ego.""",1.3508771929824561,0.09194101598258213,6,1052,57,529
-42,5,Harold forgot where he put his Purple Crayon.,1.3508771929824561,0.08485291737959999,10,1052,57,529
-41,4,"All right, then--NOT because it's there.",1.3508771929824561,0.08107682265474593,12,1052,57,529
-41,4,You are driving me up the... up the... you are driving me crazy!,1.3508771929824561,0.08107682265474593,12,1052,57,529
-40,3,This is it...I've found the stairway to Heaven!,1.3508771929824561,0.07711604732965131,14,1052,57,529
-41,4,Don't say anything. It will blow my imagination.,1.3508771929824561,0.08107682265474593,12,1052,57,529
-42,5,"Don't worry about me, I'm a social climber.",1.3508771929824561,0.08485291737959999,10,1052,57,529
-41,4,I'm trying to climb out of this cartoon,1.3508771929824561,0.08107682265474593,12,1052,57,529
-40,3,"If you help me get down, I'll tell you how I got up here.",1.3508771929824561,0.07711604732965131,14,1052,57,529
-42,5,Lost WiFi...limited data...tell wife...,1.3508771929824561,0.08485291737959999,10,1052,57,529
-43,6,"Why, you ask? Because it's _not_ there!",1.3508771929824561,0.08846798293094131,8,1052,57,529
-43,6,I used to be a mime,1.3508771929824561,0.08846798293094131,8,1052,57,529
-43,6,Not more impossible than what Trump has done.,1.3508771929824561,0.08846798293094131,8,1052,57,529
-39,2,"If you have a pencil, would you mind drawing a mountain?",1.3508771929824561,0.07294051233511402,16,1052,57,529
-42,5,It's called visualizing,1.3508771929824561,0.08485291737959999,10,1052,57,529
-42,5,The FAA limits me to no more than four hundred feet of altitude.,1.3508771929824561,0.08485291737959999,10,1052,57,529
-41,4,"Virtual beanstalk, my ass.",1.3508771929824561,0.08107682265474593,12,1052,57,529
-41,4,i'm getting air sick...,1.3508771929824561,0.08107682265474593,12,1052,57,529
-41,4,Hey! Cut it out. Put back the ladder.,1.3508771929824561,0.08107682265474593,12,1052,57,529
-41,4,"I just tell myself, don't look down.",1.3508771929824561,0.08107682265474593,12,1052,57,529
-40,3,Escaping Reality only seems impossible until you try it...,1.3508771929824561,0.07711604732965131,14,1052,57,529
-43,6,Call me when Trump has left office.,1.3508771929824561,0.08846798293094131,8,1052,57,529
-38,1,"You know what they say, ""Fake it til you make it.""",1.3508771929824561,0.06851096206935661,18,1052,57,529
-41,4,The Emperor's New Mountain,1.3508771929824561,0.08107682265474593,12,1052,57,529
-41,4,I can't remember: Am I supposed to be conceptual or surreal?,1.3508771929824561,0.08107682265474593,12,1052,57,529
-39,2,Don't just stand there. Find me a mountain!,1.3508771929824561,0.07294051233511402,16,1052,57,529
-40,3,The wall's the easy part. What you really have to look out for are those invisible Border Patrol agents.,1.3508771929824561,0.07711604732965131,14,1052,57,529
-39,2,Everyone forgets about the walls that support the glass ceiling,1.3508771929824561,0.07294051233511402,16,1052,57,529
-41,4,This Pokemon Go thing is just getting weird.,1.3508771929824561,0.08107682265474593,12,1052,57,529
-44,7,The cartoonist is on a break,1.3508771929824561,0.09194101598258213,6,1052,57,529
-44,7,"When I climb out of this page, it's not going to need a caption.",1.3508771929824561,0.09194101598258213,6,1052,57,529
-42,5,Any fool can jump out of a plane.,1.3508771929824561,0.08485291737959999,10,1052,57,529
-40,3,Don't tell me life isn't an illusion.,1.3508771929824561,0.07711604732965131,14,1052,57,529
-41,4,I couldn't afford virtual rock climbing. This is pretend rock climbing.,1.3508771929824561,0.08107682265474593,12,1052,57,529
+36,1,Could have sworn it was right here!,1.351851851851852,0.07072257295398894,17,1046,54,529
+39,4,I climb mountains because they are there. It's finding them that's really hard.,1.351851851851852,0.08425033165473296,11,1046,54,529
+38,3,"Call Sipress! Tell him I need a mountain, now!",1.351851851851852,0.07999566465981618,13,1046,54,529
+40,5,"OK, but can you walk on water?",1.351851851851852,0.08830022878508999,9,1046,54,529
+40,5,It was here a second ago!!!,1.351851851851852,0.08830022878508999,9,1046,54,529
+38,3,"What do you mean, didn't I forget something?",1.351851851851852,0.07999566465981618,13,1046,54,529
+42,5,Donald Trump College of Skydiving! I'm suing.,1.350877192982456,0.08485291737959999,10,1052,57,529
+42,5,Playing air guitar is a gateway activity,1.350877192982456,0.08485291737959999,10,1052,57,529
+39,2,the stairway to heaven is a mental thing,1.350877192982456,0.07294051233511402,16,1052,57,529
+42,5,This was hard enough before global warming.,1.350877192982456,0.08485291737959999,10,1052,57,529
+44,7,"You'll never surmount Trump's ego.""",1.350877192982456,0.09194101598258213,6,1052,57,529
+42,5,Harold forgot where he put his Purple Crayon.,1.350877192982456,0.08485291737959999,10,1052,57,529
+41,4,"All right, then--NOT because it's there.",1.350877192982456,0.08107682265474593,12,1052,57,529
+41,4,You are driving me up the... up the... you are driving me crazy!,1.350877192982456,0.08107682265474593,12,1052,57,529
+40,3,This is it...I've found the stairway to Heaven!,1.350877192982456,0.07711604732965131,14,1052,57,529
+41,4,Don't say anything. It will blow my imagination.,1.350877192982456,0.08107682265474593,12,1052,57,529
+42,5,"Don't worry about me, I'm a social climber.",1.350877192982456,0.08485291737959999,10,1052,57,529
+41,4,I'm trying to climb out of this cartoon,1.350877192982456,0.08107682265474593,12,1052,57,529
+40,3,"If you help me get down, I'll tell you how I got up here.",1.350877192982456,0.07711604732965131,14,1052,57,529
+42,5,Lost WiFi...limited data...tell wife...,1.350877192982456,0.08485291737959999,10,1052,57,529
+43,6,"Why, you ask? Because it's _not_ there!",1.350877192982456,0.08846798293094131,8,1052,57,529
+43,6,I used to be a mime,1.350877192982456,0.08846798293094131,8,1052,57,529
+43,6,Not more impossible than what Trump has done.,1.350877192982456,0.08846798293094131,8,1052,57,529
+39,2,"If you have a pencil, would you mind drawing a mountain?",1.350877192982456,0.07294051233511402,16,1052,57,529
+42,5,It's called visualizing,1.350877192982456,0.08485291737959999,10,1052,57,529
+42,5,The FAA limits me to no more than four hundred feet of altitude.,1.350877192982456,0.08485291737959999,10,1052,57,529
+41,4,"Virtual beanstalk, my ass.",1.350877192982456,0.08107682265474593,12,1052,57,529
+41,4,i'm getting air sick...,1.350877192982456,0.08107682265474593,12,1052,57,529
+41,4,Hey! Cut it out. Put back the ladder.,1.350877192982456,0.08107682265474593,12,1052,57,529
+41,4,"I just tell myself, don't look down.",1.350877192982456,0.08107682265474593,12,1052,57,529
+40,3,Escaping Reality only seems impossible until you try it...,1.350877192982456,0.07711604732965131,14,1052,57,529
+43,6,Call me when Trump has left office.,1.350877192982456,0.08846798293094131,8,1052,57,529
+38,1,"You know what they say, ""Fake it til you make it.""",1.350877192982456,0.06851096206935661,18,1052,57,529
+41,4,The Emperor's New Mountain,1.350877192982456,0.08107682265474593,12,1052,57,529
+41,4,I can't remember: Am I supposed to be conceptual or surreal?,1.350877192982456,0.08107682265474593,12,1052,57,529
+39,2,Don't just stand there. Find me a mountain!,1.350877192982456,0.07294051233511402,16,1052,57,529
+40,3,The wall's the easy part. What you really have to look out for are those invisible Border Patrol agents.,1.350877192982456,0.07711604732965131,14,1052,57,529
+39,2,Everyone forgets about the walls that support the glass ceiling,1.350877192982456,0.07294051233511402,16,1052,57,529
+41,4,This Pokemon Go thing is just getting weird.,1.350877192982456,0.08107682265474593,12,1052,57,529
+44,7,The cartoonist is on a break,1.350877192982456,0.09194101598258213,6,1052,57,529
+44,7,"When I climb out of this page, it's not going to need a caption.",1.350877192982456,0.09194101598258213,6,1052,57,529
+42,5,Any fool can jump out of a plane.,1.350877192982456,0.08485291737959999,10,1052,57,529
+40,3,Don't tell me life isn't an illusion.,1.350877192982456,0.07711604732965131,14,1052,57,529
+41,4,I couldn't afford virtual rock climbing. This is pretend rock climbing.,1.350877192982456,0.08107682265474593,12,1052,57,529
 44,5,"I bet you can't see the glass ceiling, either!",1.35,0.08173610561099652,11,1090,60,529
 46,7,Wow! Global warming really happens fast!,1.35,0.08837835970008064,7,1090,60,529
 44,5,"Yeah, well, how many Pokemon do you have?",1.35,0.08173610561099652,11,1090,60,529
@@ -1569,75 +1569,75 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 42,3,I still can't find that glass ceiling,1.3035714285714286,0.07610503190500345,11,1561,56,529
 45,6,He's climbing the nonexistent part of the wall that Mexico paid for.,1.3035714285714286,0.08797742795350147,5,1561,56,529
 41,2,Wipe that look off your face - I've already broken the world record!,1.3035714285714286,0.07171209962001493,13,1561,56,529
-41,4,This job has got me climbing the walls.,1.3018867924528301,0.08340062640672652,8,1571,53,529
-40,3,Am I at your expectations yet!?,1.3018867924528301,0.07893019118245996,10,1571,53,529
-41,4,Everyone says I have a knack for making a mountain out of a molehill.,1.3018867924528301,0.08340062640672652,8,1571,53,529
-41,4,...and I paid for the climb in bitcoin.,1.3018867924528301,0.08340062640672652,8,1571,53,529
-40,3,Congress refused to renew the mountain infrastructure bill.,1.3018867924528301,0.07893019118245996,10,1571,53,529
-39,2,"What?! No, you're not high, I am.",1.3018867924528301,0.07419087326056348,12,1571,53,529
-39,2,"Zen master Dogen asked the koan, ""How does one climb without hands or feet?"" but I discovered how to climb without the mountain.",1.3018867924528301,0.07419087326056348,12,1571,53,529
-40,3,Just playing Pokemon Go.,1.3018867924528301,0.07893019118245996,10,1571,53,529
-39,2,Last year this was like totally ice!!!,1.3018867924528301,0.07419087326056348,12,1571,53,529
-38,1,"Oh, sure. Next you're going to tell me the Emperor has no clothes.",1.3018867924528301,0.06912739160586275,14,1571,53,529
-41,4,"How come nobody talks about the ""glass mountain""?",1.3018867924528301,0.08340062640672652,8,1571,53,529
-41,4,The best Mime school money can buy!,1.3018867924528301,0.08340062640672652,8,1571,53,529
-38,1,"I think ""Defying Gravity"" only works on Broadway.",1.3018867924528301,0.06912739160586275,14,1571,53,529
-40,3,I guess I'm just not clear on the difference between performance art and endurance training.,1.3018867924528301,0.07893019118245996,10,1571,53,529
-41,4,Virtual reality climbing wall - just go with it.,1.3018867924528301,0.08340062640672652,8,1571,53,529
-39,2,Donald said he'd build it!,1.3018867924528301,0.07419087326056348,12,1571,53,529
-40,3,You're just going to have to take my word for it--this one is way taller than Everest.,1.3018867924528301,0.07893019118245996,10,1571,53,529
-40,3,And you said global warming isn't real.,1.3018867924528301,0.07893019118245996,10,1571,53,529
-41,4,"Yes, I'm an ice climber. No, global warming doesn't stop me.",1.3018867924528301,0.08340062640672652,8,1571,53,529
-41,4,This would go a lot easier if there were a wall here,1.3018867924528301,0.08340062640672652,8,1571,53,529
-41,4,"Move along, now. Nothing to see here.",1.3018867924528301,0.08340062640672652,8,1571,53,529
-40,3,Free climbing really has evolved since I was a kid.,1.3018867924528301,0.07893019118245996,10,1571,53,529
-39,2,I'm taking miming to a whole new level.,1.3018867924528301,0.07419087326056348,12,1571,53,529
-40,3,My psychiatrist said that I should stop climbing the walls.,1.3018867924528301,0.07893019118245996,10,1571,53,529
-39,2,"'Because it's there,"" just seemed so limiting.",1.3018867924528301,0.07419087326056348,12,1571,53,529
-41,4,I'm cross-border training.,1.3018867924528301,0.08340062640672652,8,1571,53,529
-40,3,"Pop, don't you understand? I've just gotta see where the x axis leads me.",1.3018867924528301,0.07893019118245996,10,1571,53,529
-39,2,"It was there! It was there, I swear!",1.3018867924528301,0.07419087326056348,12,1571,53,529
-41,4,Soccer cleats and baby powder. You'd be surprised.,1.3018867924528301,0.08340062640672652,8,1571,53,529
-39,2,"There's a rare Pokemon, just over this wall. I can see it.",1.3018867924528301,0.07419087326056348,12,1571,53,529
-41,4,I'm reaching new heights for minimalist cartoons everywhere.,1.3018867924528301,0.08340062640672652,8,1571,53,529
-42,5,Watch out for the glass ceiling!,1.3018867924528301,0.08764333340288387,6,1571,53,529
-41,4,Visibility sure is awful today.,1.3018867924528301,0.08340062640672652,8,1571,53,529
-39,2,"Yes, I'm on my own here; I'm an anti-social climber.",1.3018867924528301,0.07419087326056348,12,1571,53,529
-40,3,Behold the future of travel to Mexico.,1.3018867924528301,0.07893019118245996,10,1571,53,529
-41,4,A few more feet to climb and I can start thinking outside the box.,1.3018867924528301,0.08340062640672652,8,1571,53,529
-38,1,We're very competitive. My wife said she just broke through the glass ceiling.,1.3018867924528301,0.06912739160586275,14,1571,53,529
-41,4,Look closer. Right now it's just a mole hill.,1.3018867924528301,0.08340062640672652,8,1571,53,529
-39,2,"Breaking the glass ceiling is hard enough, I should not have to climb the glass wall to get there.",1.3018867924528301,0.07419087326056348,12,1571,53,529
-41,4,Check out virtual reality.org/faith,1.3018867924528301,0.08340062640672652,8,1571,53,529
-39,2,"Stairway to Heaven, in the age of copyright dispute.",1.3018867924528301,0.07419087326056348,12,1571,53,529
-39,2,I hit auto eject instead of auto pilot.,1.3018867924528301,0.07419087326056348,12,1571,53,529
-41,4,i wore cleated shoes so i could hit the ground running,1.3018867924528301,0.08340062640672652,8,1571,53,529
-40,3,"I'm practicing, in case Trump is elected",1.3018867924528301,0.07893019118245996,10,1571,53,529
-41,4,How could you send the CGI guys to lunch now?,1.3018867924528301,0.08340062640672652,8,1571,53,529
-38,1,Hey! Tell Sipress that NOW would be a great time to pencil in that pickaxe!,1.3018867924528301,0.06912739160586275,14,1571,53,529
-40,3,I'm taking free climbing to the extreme.,1.3018867924528301,0.07893019118245996,10,1571,53,529
-40,3,I promised my kids we'd go to Magic Mountain.,1.3018867924528301,0.07893019118245996,10,1571,53,529
-40,3,"No worries, I'm just testing out Trump's wall.",1.3018867924528301,0.07893019118245996,10,1571,53,529
-40,3,I'm not hiking. This is art.,1.3018867924528301,0.07893019118245996,10,1571,53,529
-42,5,. . . getting paid to test effectiveness of Trump's 'wall' !,1.3018867924528301,0.08764333340288387,6,1571,53,529
-39,2,"Have faith, there IS a stairway to Heaven.",1.3018867924528301,0.07419087326056348,12,1571,53,529
-40,3,"As a mime, I've had to up my game lately.",1.3018867924528301,0.07893019118245996,10,1571,53,529
-39,2,Virtual mountain climbing still hurts my back.,1.3018867924528301,0.07419087326056348,12,1571,53,529
-39,2,That's Sipress for you. He takes a bathroom break and leaves me with nothing to hold on to.,1.3018867924528301,0.07419087326056348,12,1571,53,529
-40,3,I'm telling you - it was the GLUTEN that was holding me back!,1.3018867924528301,0.07893019118245996,10,1571,53,529
-38,1,"Remember, on a virtual wall, wherever you go, there you are...",1.3018867924528301,0.06912739160586275,14,1571,53,529
-39,2,Tell me this isn't the best mime performance you've ever seen.,1.3018867924528301,0.07419087326056348,12,1571,53,529
-40,3,I hope you haven't burned bridges on your way up.,1.3018867924528301,0.07893019118245996,10,1571,53,529
-40,3,"The secret to air-climbing is really, really, really good cleats.",1.3018867924528301,0.07893019118245996,10,1571,53,529
-41,4,Catch me if you can!,1.3018867924528301,0.08340062640672652,8,1571,53,529
-40,3,"Why climb it? To paraphrase Mallory, 'Because it's not there.'",1.3018867924528301,0.07893019118245996,10,1571,53,529
-39,2,"What do you mean, 'where is my Virtual Reality headset?'",1.3018867924528301,0.07419087326056348,12,1571,53,529
-39,2,I use the black holes.,1.3018867924528301,0.07419087326056348,12,1571,53,529
-39,2,Does your leap of imagination include a ladder?,1.3018867924528301,0.07419087326056348,12,1571,53,529
-40,3,I get it -- you think you're too good for a metaphor!,1.3018867924528301,0.07893019118245996,10,1571,53,529
-42,5,Best mime I've ever seen.,1.3018867924528301,0.08764333340288387,6,1571,53,529
-41,4,How does my butt look?,1.3018867924528301,0.08340062640672652,8,1571,53,529
-40,3,Am I touching the void yet?,1.3018867924528301,0.07893019118245996,10,1571,53,529
+41,4,This job has got me climbing the walls.,1.30188679245283,0.08340062640672652,8,1571,53,529
+40,3,Am I at your expectations yet!?,1.30188679245283,0.07893019118245996,10,1571,53,529
+41,4,Everyone says I have a knack for making a mountain out of a molehill.,1.30188679245283,0.08340062640672652,8,1571,53,529
+41,4,...and I paid for the climb in bitcoin.,1.30188679245283,0.08340062640672652,8,1571,53,529
+40,3,Congress refused to renew the mountain infrastructure bill.,1.30188679245283,0.07893019118245996,10,1571,53,529
+39,2,"What?! No, you're not high, I am.",1.30188679245283,0.07419087326056348,12,1571,53,529
+39,2,"Zen master Dogen asked the koan, ""How does one climb without hands or feet?"" but I discovered how to climb without the mountain.",1.30188679245283,0.07419087326056348,12,1571,53,529
+40,3,Just playing Pokemon Go.,1.30188679245283,0.07893019118245996,10,1571,53,529
+39,2,Last year this was like totally ice!!!,1.30188679245283,0.07419087326056348,12,1571,53,529
+38,1,"Oh, sure. Next you're going to tell me the Emperor has no clothes.",1.30188679245283,0.06912739160586275,14,1571,53,529
+41,4,"How come nobody talks about the ""glass mountain""?",1.30188679245283,0.08340062640672652,8,1571,53,529
+41,4,The best Mime school money can buy!,1.30188679245283,0.08340062640672652,8,1571,53,529
+38,1,"I think ""Defying Gravity"" only works on Broadway.",1.30188679245283,0.06912739160586275,14,1571,53,529
+40,3,I guess I'm just not clear on the difference between performance art and endurance training.,1.30188679245283,0.07893019118245996,10,1571,53,529
+41,4,Virtual reality climbing wall - just go with it.,1.30188679245283,0.08340062640672652,8,1571,53,529
+39,2,Donald said he'd build it!,1.30188679245283,0.07419087326056348,12,1571,53,529
+40,3,You're just going to have to take my word for it--this one is way taller than Everest.,1.30188679245283,0.07893019118245996,10,1571,53,529
+40,3,And you said global warming isn't real.,1.30188679245283,0.07893019118245996,10,1571,53,529
+41,4,"Yes, I'm an ice climber. No, global warming doesn't stop me.",1.30188679245283,0.08340062640672652,8,1571,53,529
+41,4,This would go a lot easier if there were a wall here,1.30188679245283,0.08340062640672652,8,1571,53,529
+41,4,"Move along, now. Nothing to see here.",1.30188679245283,0.08340062640672652,8,1571,53,529
+40,3,Free climbing really has evolved since I was a kid.,1.30188679245283,0.07893019118245996,10,1571,53,529
+39,2,I'm taking miming to a whole new level.,1.30188679245283,0.07419087326056348,12,1571,53,529
+40,3,My psychiatrist said that I should stop climbing the walls.,1.30188679245283,0.07893019118245996,10,1571,53,529
+39,2,"'Because it's there,"" just seemed so limiting.",1.30188679245283,0.07419087326056348,12,1571,53,529
+41,4,I'm cross-border training.,1.30188679245283,0.08340062640672652,8,1571,53,529
+40,3,"Pop, don't you understand? I've just gotta see where the x axis leads me.",1.30188679245283,0.07893019118245996,10,1571,53,529
+39,2,"It was there! It was there, I swear!",1.30188679245283,0.07419087326056348,12,1571,53,529
+41,4,Soccer cleats and baby powder. You'd be surprised.,1.30188679245283,0.08340062640672652,8,1571,53,529
+39,2,"There's a rare Pokemon, just over this wall. I can see it.",1.30188679245283,0.07419087326056348,12,1571,53,529
+41,4,I'm reaching new heights for minimalist cartoons everywhere.,1.30188679245283,0.08340062640672652,8,1571,53,529
+42,5,Watch out for the glass ceiling!,1.30188679245283,0.08764333340288387,6,1571,53,529
+41,4,Visibility sure is awful today.,1.30188679245283,0.08340062640672652,8,1571,53,529
+39,2,"Yes, I'm on my own here; I'm an anti-social climber.",1.30188679245283,0.07419087326056348,12,1571,53,529
+40,3,Behold the future of travel to Mexico.,1.30188679245283,0.07893019118245996,10,1571,53,529
+41,4,A few more feet to climb and I can start thinking outside the box.,1.30188679245283,0.08340062640672652,8,1571,53,529
+38,1,We're very competitive. My wife said she just broke through the glass ceiling.,1.30188679245283,0.06912739160586275,14,1571,53,529
+41,4,Look closer. Right now it's just a mole hill.,1.30188679245283,0.08340062640672652,8,1571,53,529
+39,2,"Breaking the glass ceiling is hard enough, I should not have to climb the glass wall to get there.",1.30188679245283,0.07419087326056348,12,1571,53,529
+41,4,Check out virtual reality.org/faith,1.30188679245283,0.08340062640672652,8,1571,53,529
+39,2,"Stairway to Heaven, in the age of copyright dispute.",1.30188679245283,0.07419087326056348,12,1571,53,529
+39,2,I hit auto eject instead of auto pilot.,1.30188679245283,0.07419087326056348,12,1571,53,529
+41,4,i wore cleated shoes so i could hit the ground running,1.30188679245283,0.08340062640672652,8,1571,53,529
+40,3,"I'm practicing, in case Trump is elected",1.30188679245283,0.07893019118245996,10,1571,53,529
+41,4,How could you send the CGI guys to lunch now?,1.30188679245283,0.08340062640672652,8,1571,53,529
+38,1,Hey! Tell Sipress that NOW would be a great time to pencil in that pickaxe!,1.30188679245283,0.06912739160586275,14,1571,53,529
+40,3,I'm taking free climbing to the extreme.,1.30188679245283,0.07893019118245996,10,1571,53,529
+40,3,I promised my kids we'd go to Magic Mountain.,1.30188679245283,0.07893019118245996,10,1571,53,529
+40,3,"No worries, I'm just testing out Trump's wall.",1.30188679245283,0.07893019118245996,10,1571,53,529
+40,3,I'm not hiking. This is art.,1.30188679245283,0.07893019118245996,10,1571,53,529
+42,5,. . . getting paid to test effectiveness of Trump's 'wall' !,1.30188679245283,0.08764333340288387,6,1571,53,529
+39,2,"Have faith, there IS a stairway to Heaven.",1.30188679245283,0.07419087326056348,12,1571,53,529
+40,3,"As a mime, I've had to up my game lately.",1.30188679245283,0.07893019118245996,10,1571,53,529
+39,2,Virtual mountain climbing still hurts my back.,1.30188679245283,0.07419087326056348,12,1571,53,529
+39,2,That's Sipress for you. He takes a bathroom break and leaves me with nothing to hold on to.,1.30188679245283,0.07419087326056348,12,1571,53,529
+40,3,I'm telling you - it was the GLUTEN that was holding me back!,1.30188679245283,0.07893019118245996,10,1571,53,529
+38,1,"Remember, on a virtual wall, wherever you go, there you are...",1.30188679245283,0.06912739160586275,14,1571,53,529
+39,2,Tell me this isn't the best mime performance you've ever seen.,1.30188679245283,0.07419087326056348,12,1571,53,529
+40,3,I hope you haven't burned bridges on your way up.,1.30188679245283,0.07893019118245996,10,1571,53,529
+40,3,"The secret to air-climbing is really, really, really good cleats.",1.30188679245283,0.07893019118245996,10,1571,53,529
+41,4,Catch me if you can!,1.30188679245283,0.08340062640672652,8,1571,53,529
+40,3,"Why climb it? To paraphrase Mallory, 'Because it's not there.'",1.30188679245283,0.07893019118245996,10,1571,53,529
+39,2,"What do you mean, 'where is my Virtual Reality headset?'",1.30188679245283,0.07419087326056348,12,1571,53,529
+39,2,I use the black holes.,1.30188679245283,0.07419087326056348,12,1571,53,529
+39,2,Does your leap of imagination include a ladder?,1.30188679245283,0.07419087326056348,12,1571,53,529
+40,3,I get it -- you think you're too good for a metaphor!,1.30188679245283,0.07893019118245996,10,1571,53,529
+42,5,Best mime I've ever seen.,1.30188679245283,0.08764333340288387,6,1571,53,529
+41,4,How does my butt look?,1.30188679245283,0.08340062640672652,8,1571,53,529
+40,3,Am I touching the void yet?,1.30188679245283,0.07893019118245996,10,1571,53,529
 38,3,I need to think outside this box.,1.3,0.08206518066482897,9,1640,50,529
 37,2,Darn! That's the fastest melting glacier ever.,1.3,0.0769309258162072,11,1640,50,529
 37,2,"If it's imaginary, you really need to concentrate.",1.3,0.0769309258162072,11,1640,50,529
@@ -1654,7 +1654,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 39,4,"I sucked up every balloon in the party store, it works.",1.3,0.08689660757568886,7,1640,50,529
 37,2,I'll show those Fitbit guys that take the stairs!,1.3,0.0769309258162072,11,1640,50,529
 43,3,One of us is drunk.,1.2982456140350878,0.07494740127471518,11,1655,57,529
-36,3,Too much stealth!,1.297872340425532,0.08556766756593656,8,1656,47,529
+36,3,Too much stealth!,1.2978723404255321,0.08556766756593656,8,1656,47,529
 40,2,"Yes, but is it art?",1.2962962962962965,0.07301833256126636,12,1657,54,529
 41,3,Corporate ladders are for sissies.,1.2962962962962965,0.07765622260704179,10,1657,54,529
 41,3,Ugh... Pokémon Go is really getting sophisticated.,1.2962962962962965,0.07765622260704179,10,1657,54,529
@@ -1880,7 +1880,6 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 38,2,I'm OK its just snow blindness...,1.28,0.07580856663669484,10,1866,50,529
 39,3,"I can't get grip, the air is thinner up here.",1.28,0.08101398216433042,8,1866,50,529
 39,3,Someone raised the bar too high.,1.28,0.08101398216433042,8,1866,50,529
-37,1,,1.28,0.07021831844254002,12,1866,50,529
 39,3,Call my lawyer!,1.28,0.08101398216433042,8,1866,50,529
 38,2,I'm at the end of my rope!,1.28,0.07580856663669484,10,1866,50,529
 39,3,"Faith, Hope and a Blue Screen!",1.28,0.08101398216433042,8,1866,50,529
@@ -2088,13 +2087,13 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 41,2,I couldn't wait for Trump to build the wall.,1.2641509433962264,0.07203723938303844,10,2085,53,529
 41,2,"Wow, that is one impressive mime!",1.2641509433962264,0.07203723938303844,10,2085,53,529
 40,1,I used to get high playing air guitar.,1.2641509433962264,0.06681073606086448,12,2085,53,529
-39,0,Social climbing isn't all they claimed it would be.,1.2641509433962264,0.061139063192526995,14,2085,53,529
+39,0,Social climbing isn't all they claimed it would be.,1.2641509433962264,0.061139063192527,14,2085,53,529
 40,1,Let me show you what I learnt at mime class.,1.2641509433962264,0.06681073606086448,12,2085,53,529
 41,2,And she got the Mexicans to pay for this?,1.2641509433962264,0.07203723938303844,10,2085,53,529
 42,3,Repair. Someone just broke the glass ceiling.,1.2641509433962264,0.07690938345133104,8,2085,53,529
 42,3,Get Sipress back in here to finish drawing this bean stalk,1.2641509433962264,0.07690938345133104,8,2085,53,529
-33,2,It was a lot easier with a real rock wall.,1.2619047619047619,0.0838914444945207,7,2095,42,529
-32,1,"For my elevator phobia, my therapist suggested I think outside the box.",1.2619047619047619,0.0766572519305696,9,2095,42,529
+33,2,It was a lot easier with a real rock wall.,1.261904761904762,0.0838914444945207,7,2095,42,529
+32,1,"For my elevator phobia, my therapist suggested I think outside the box.",1.261904761904762,0.0766572519305696,9,2095,42,529
 38,4,"Is it just me, or do you see what I see.",1.2608695652173914,0.09027484928926048,4,2097,46,529
 36,2,This is the third and final air delivery attempt.,1.2608695652173914,0.07884910439846632,8,2097,46,529
 35,1,This is one better than pulling yourself up by your bootstraps.,1.2608695652173914,0.072463768115942,10,2097,46,529
@@ -3258,8 +3257,8 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 35,1,My Mother told me there would be days like these!,1.170731707317073,0.06898602743283391,5,3228,41,529
 34,0,It just takes a bit of clear thinking.,1.170731707317073,0.059494199598294974,7,3228,41,529
 41,2,"Don't just sit there, somebody adjust the picture on the wall.",1.1702127659574468,0.07014685887189226,4,3259,47,529
-39,0,But absolutely everybody does it because it's there.,1.1702127659574468,0.055411578656325414,8,3259,47,529
-39,0,It's not an actual glass ceiling.,1.1702127659574468,0.055411578656325414,8,3259,47,529
+39,0,But absolutely everybody does it because it's there.,1.1702127659574468,0.05541157865632541,8,3259,47,529
+39,0,It's not an actual glass ceiling.,1.1702127659574468,0.05541157865632541,8,3259,47,529
 41,2,Pulling oneself up by the bootstraps of the New Economy.,1.1702127659574468,0.07014685887189226,4,3259,47,529
 40,1,I am practicing scaling a glacier that has melted.,1.1702127659574468,0.0632100658866106,6,3259,47,529
 37,2,He's a little off the wall.,1.1666666666666667,0.07556728291396758,3,3264,42,529

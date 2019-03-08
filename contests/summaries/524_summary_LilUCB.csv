@@ -6,12 +6,12 @@ This seems to be a case of reptile dysfunction.,44.0,62.0,121.0,227.0,1.66079295
 Are you licensed to carry small arms?,49.0,92.0,147.0,288.0,1.6597222222222223,0.04436020556760984,5,524
 Don't give me that endangered species crap!,41.0,63.0,119.0,223.0,1.6502242152466369,0.05177679441419754,6,524
 Harry has his usual dream before his mother-in-law's visit.,49.0,81.0,152.0,282.0,1.6347517730496457,0.04540680848490072,7,524
-Did your momma tell you there would be knights like this?,37.0,69.0,124.0,230.0,1.6217391304347826,0.04931490091451653,8,524
+Did your momma tell you there would be knights like this?,37.0,69.0,124.0,230.0,1.6217391304347826,0.049314900914516534,8,524
 "Smoke-blowing, tiny hands - I know a Trumpasaurus when I see one!",37.0,43.0,110.0,190.0,1.6157894736842104,0.05755450519945207,9,524
 "Trust me, this is wrong on so many levels.",39.0,27.0,106.0,172.0,1.6104651162790695,0.06358150040716379,10,524
 just as I suspected all puff no magic,31.0,61.0,113.0,205.0,1.6,0.05156563609073754,11,524
 Hold your fire!,26.0,52.0,100.0,178.0,1.5842696629213484,0.054979886171730816,12,524
-Maybe the song was about pot after all.,25.0,45.0,94.0,164.0,1.579268292682927,0.05801388592797364,13,524
+Maybe the song was about pot after all.,25.0,45.0,94.0,164.0,1.5792682926829267,0.05801388592797364,13,524
 "Blowhard. Tiny hands. Republican, right?",24.0,34.0,90.0,148.0,1.554054054054054,0.062346545412954216,14,524
 Smoking is bad for your lunge.,17.0,41.0,80.0,138.0,1.5434782608695652,0.06007820040325065,15,524
 "It must be June, the Knights keep getting shorter.",23.0,24.0,84.0,131.0,1.5343511450381682,0.06793464262988393,16,524
@@ -68,8 +68,8 @@ Make it look good....my girlfriend is watching,7.0,25.0,57.0,89.0,1.438202247191
 "Exercise is a great start but, now you need to stop smoking.",10.0,22.0,64.0,96.0,1.4375,0.06916243910140922,67,524
 "Try making an effort, will you? No wonder you're practically extinct.",7.0,24.0,56.0,87.0,1.4367816091954022,0.06878708093398182,68,524
 "Moments later, Trogdor tired of swordplay and simply ate Steve.",12.0,17.0,65.0,94.0,1.4361702127659577,0.07341478178761326,69,524
-Whaddya mean I’m toast.,8.0,24.0,60.0,92.0,1.434782608695652,0.0679090969120005,70,524
-I miss the old flame.,10.0,20.0,62.0,92.0,1.434782608695652,0.07134023079498843,70,524
+Whaddya mean I’m toast.,8.0,24.0,60.0,92.0,1.4347826086956519,0.0679090969120005,70,524
+I miss the old flame.,10.0,20.0,62.0,92.0,1.4347826086956519,0.07134023079498843,70,524
 "In the original script, I think you were supposed to be a windmill.",9.0,21.0,60.0,90.0,1.4333333333333331,0.07075480335110425,72,524
 Your arms looked a lot bigger on Facebook.,12.0,15.0,63.0,90.0,1.4333333333333331,0.07586373222868367,72,524
 "My kingdom, my rules.",7.0,25.0,58.0,90.0,1.4333333333333331,0.06713319906706948,72,524
@@ -143,7 +143,7 @@ I thought we agreed --no Mexican food before the duel.,8.0,14.0,54.0,76.0,1.3947
 Ha ha! I have a shield and you don't!,6.0,16.0,49.0,71.0,1.3943661971830985,0.07633156847497467,142,524
 "Your challenge, my choice of weapons. Deal with it.",5.0,21.0,53.0,79.0,1.3924050632911391,0.068407302811123,143,524
 Spare my life and I'll pay for your braces.,9.0,13.0,57.0,79.0,1.3924050632911391,0.07731648502864777,143,524
-"If you were really a ""magic dragon"" you wouldn't need the sword.",7.0,15.0,52.0,74.0,1.3918918918918919,0.0765257433764715,145,524
+"If you were really a ""magic dragon"" you wouldn't need the sword.",7.0,15.0,52.0,74.0,1.391891891891892,0.0765257433764715,145,524
 Saint George. What's yours?,7.0,11.0,46.0,64.0,1.390625,0.08515039070784358,146,524
 "Actually, I prefer the online game.",4.0,22.0,51.0,77.0,1.3896103896103895,0.06705361541080132,147,524
 "Okay, she's watching now. Make your death look realistic.",7.0,16.0,54.0,77.0,1.3896103896103895,0.07430664733813769,147,524
@@ -369,7 +369,7 @@ I usually fight fire with fire.,3.0,13.0,42.0,58.0,1.3275862068965518,0.07536132
 Back off! I'm an endangered species you idiot!,5.0,8.0,42.0,55.0,1.3272727272727274,0.08627942021843484,368,524
 "Rules are rules, and you lost the coin toss...",3.0,12.0,40.0,55.0,1.3272727272727274,0.07808544682863712,368,524
 "See, this is so much more environmentally friendly.",2.0,14.0,39.0,55.0,1.3272727272727274,0.07364737831740681,368,524
-"Don't get me wrong, but have you considered alternating your leg and back workouts with arms, core, and cardio?",5.0,6.0,38.0,49.0,1.3265306122448979,0.09398470666427278,371,524
+"Don't get me wrong, but have you considered alternating your leg and back workouts with arms, core, and cardio?",5.0,6.0,38.0,49.0,1.326530612244898,0.09398470666427278,371,524
 "this way, children's story books will be really confusing",4.0,13.0,48.0,65.0,1.3230769230769228,0.07307692307692308,372,524
 "Now remember, you take the dive in the third round.",3.0,15.0,47.0,65.0,1.3230769230769228,0.06970988061689178,372,524
 "I am taking you seriously, I just love my yoga pants.",4.0,13.0,48.0,65.0,1.3230769230769228,0.07307692307692308,372,524
@@ -495,10 +495,10 @@ You're just another blowhard with little hands.,4.0,9.0,43.0,56.0,1.303571428571
 Is the sword really necessary?,3.0,11.0,42.0,56.0,1.3035714285714286,0.07610503190500345,488,524
 "Hey, I just want to frolick in the autumn mist!",6.0,5.0,45.0,56.0,1.3035714285714286,0.08797742795350147,488,524
 "Hey, I didn't invent the expression ""Dragon Breath,"" I'm just telling you how it is.",4.0,9.0,43.0,56.0,1.3035714285714286,0.08025787519372939,488,524
-I don't see where this class will help me in the real world.,3.0,10.0,40.0,53.0,1.3018867924528301,0.07893019118245996,497,524
-"One day, this will be a game.",2.0,12.0,39.0,53.0,1.3018867924528301,0.07419087326056348,497,524
-Your mother's a garter snake!,2.0,12.0,39.0,53.0,1.3018867924528301,0.07419087326056348,497,524
-Awww...did widdle dwagon wun out of pwopane?,5.0,6.0,42.0,53.0,1.3018867924528301,0.08764333340288387,497,524
+I don't see where this class will help me in the real world.,3.0,10.0,40.0,53.0,1.30188679245283,0.07893019118245996,497,524
+"One day, this will be a game.",2.0,12.0,39.0,53.0,1.30188679245283,0.07419087326056348,497,524
+Your mother's a garter snake!,2.0,12.0,39.0,53.0,1.30188679245283,0.07419087326056348,497,524
+Awww...did widdle dwagon wun out of pwopane?,5.0,6.0,42.0,53.0,1.30188679245283,0.08764333340288387,497,524
 I should've brought a pen.,5.0,9.0,49.0,63.0,1.3015873015873016,0.07718458811550716,501,524
 The smoking is going to kill you.,5.0,9.0,49.0,63.0,1.3015873015873016,0.07718458811550716,501,524
 No wonder you're single with that breath.,2.0,15.0,46.0,63.0,1.3015873015873016,0.06649332547157367,501,524
@@ -788,7 +788,7 @@ We'll make a fortune from Pay-Per-View.,2.0,11.0,44.0,57.0,1.263157894736842,0.0
 "Puff on this, magic dragon!",1.0,13.0,43.0,57.0,1.263157894736842,0.06394662066252167,786,524
 Do you want me to wait while you get a shield?,3.0,9.0,45.0,57.0,1.263157894736842,0.07309106050835933,786,524
 "Remember the rules, no fire in a knife fight",2.0,11.0,44.0,57.0,1.263157894736842,0.0686712218487231,786,524
-"It's not the size of your sword, but how you use it!",1.0,9.0,32.0,42.0,1.2619047619047619,0.0766572519305696,790,524
+"It's not the size of your sword, but how you use it!",1.0,9.0,32.0,42.0,1.261904761904762,0.0766572519305696,790,524
 Jab me again and you're walking home.,1.0,10.0,35.0,46.0,1.2608695652173914,0.072463768115942,791,524
 I don't care if you think it was below the belt!,0.0,12.0,34.0,46.0,1.2608695652173914,0.06545849153992006,791,524
 This could drag on all night.,4.0,5.0,41.0,50.0,1.26,0.08480469759803333,793,524
@@ -1021,8 +1021,8 @@ Boring! I liked it better with me flying and you on a horse.,1.0,9.0,36.0,46.0,1
 Isn't this much more fun than gobbling me down in one bite?,0.0,11.0,35.0,46.0,1.2391304347826086,0.06358669845936317,1008,524
 "That's right, twerp! I took a fencing class! By the way, how are your 'learning to breathe fire' classes going?",0.0,11.0,35.0,46.0,1.2391304347826086,0.06358669845936317,1008,524
 "Seems like your sword would be a lot bigger, buddy.",2.0,7.0,37.0,46.0,1.2391304347826086,0.0773022339309831,1008,524
-Under armoured. It's the latest thing.,1.0,8.0,33.0,42.0,1.2380952380952381,0.0747393753458591,1023,524
-C'mon! Put your heart into it! Show some spark!,3.0,4.0,35.0,42.0,1.2380952380952381,0.08893174123309444,1023,524
+Under armoured. It's the latest thing.,1.0,8.0,33.0,42.0,1.238095238095238,0.0747393753458591,1023,524
+C'mon! Put your heart into it! Show some spark!,3.0,4.0,35.0,42.0,1.238095238095238,0.08893174123309444,1023,524
 "Extinct? I'll show you who's extinct, George!",1.0,7.0,30.0,38.0,1.236842105263158,0.07942011137921938,1025,524
 "By George, I've had it with your second hand smoke.",2.0,9.0,44.0,55.0,1.2363636363636363,0.06847859093607389,1026,524
 I admire your rapid adaptation!,2.0,9.0,44.0,55.0,1.2363636363636363,0.06847859093607389,1026,524
@@ -3468,7 +3468,7 @@ I feel like Kung Pao tonight.,0.0,2.0,38.0,40.0,1.05,0.03489912202260563,3466,52
 In all fairy tales the dragon dies and the man wins...but not this time,0.0,2.0,38.0,40.0,1.05,0.03489912202260563,3466,524
 """Paper, I know you have grown up, but either we go back to strings and sealing wax, or you are toast.",0.0,2.0,40.0,42.0,1.0476190476190477,0.033258585512837065,3468,524
 Who’s got the fire in the belly now?,0.0,2.0,40.0,42.0,1.0476190476190477,0.033258585512837065,3468,524
-"You Brits don't listen, I said I turned vegetarian!",0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,3468,524
+"You Brits don't listen, I said I turned vegetarian!",0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,3468,524
 "Sorry Hillary, you're just not firey enough.",0.0,2.0,41.0,43.0,1.0465116279069768,0.03249479679096613,3471,524
 Georgie porgy you're going into my pudding pie!,0.0,1.0,22.0,23.0,1.0434782608695652,0.04445542244743871,3472,524
 "Whatcha think, you're a magic dragon?",0.0,1.0,23.0,24.0,1.0416666666666667,0.04256282653793743,3473,524
@@ -3774,7 +3774,7 @@ It was self defense!,0.0,1.0,35.0,36.0,1.0277777777777777,0.02817180849095056,37
 Wait until you have to sneeze with your jaw is wired shut.,0.0,1.0,38.0,39.0,1.0256410256410255,0.02597621667330656,3773,524
 This is what the fight between Trump as the Dragon against Bernie...feel the burn!,0.0,1.0,40.0,41.0,1.024390243902439,0.02469323991623974,3774,524
 "That idiot Caesar said, 'No, you won't be needing the Catapult!'",0.0,1.0,40.0,41.0,1.024390243902439,0.02469323991623974,3774,524
-Stupid knight! I will defeat you and save the princess!,0.0,1.0,41.0,42.0,1.0238095238095235,0.024098134635594,3776,524
+Stupid knight! I will defeat you and save the princess!,0.0,1.0,41.0,42.0,1.0238095238095235,0.024098134635593998,3776,524
 "Very considerate of you, old boy, not to blow you smoke in my direction.",0.0,0.0,23.0,23.0,1.0,0.04445542244743871,3777,524
 They're changed the rules on me.,0.0,0.0,30.0,30.0,1.0,0.03390317518104052,3777,524
 "This is the the dragon version of Nemo, he has a lucky arm rather than a lucky fin.",0.0,0.0,31.0,31.0,1.0,0.032791291789197645,3777,524
@@ -3837,7 +3837,7 @@ So we meet again... Dragonian!,0.0,0.0,27.0,27.0,1.0,0.03774256780481986,3777,52
 All that smoking is going to make you extinct and is bad for our air quality!,0.0,0.0,28.0,28.0,1.0,0.0363696483726654,3777,524
 They're cheaper than satellite or cable TV.,0.0,0.0,27.0,27.0,1.0,0.03774256780481986,3777,524
 "I'm think I'm allergic to swords, that's why they hurt!",0.0,0.0,30.0,30.0,1.0,0.03390317518104052,3777,524
-Sorry I couldn't find a sword your use. I didn't think a javelin would have the same effect.,0.0,0.0,21.0,21.0,1.0,0.048795003647426664,3777,524
+Sorry I couldn't find a sword your use. I didn't think a javelin would have the same effect.,0.0,0.0,21.0,21.0,1.0,0.04879500364742666,3777,524
 "Smile, Hillary!",0.0,0.0,27.0,27.0,1.0,0.03774256780481986,3777,524
 Humor me Xantho. Sharpen my knife for our barbeque,0.0,0.0,30.0,30.0,1.0,0.03390317518104052,3777,524
 "You better have brought your best, overgrown lizard.",0.0,0.0,30.0,30.0,1.0,0.03390317518104052,3777,524
@@ -3899,7 +3899,7 @@ Saint George goofing around with the dragon.,0.0,0.0,29.0,29.0,1.0,0.03509312031
 And don't even think about saying Rumplesnitz.,0.0,0.0,28.0,28.0,1.0,0.0363696483726654,3777,524
 "Don't worry, you only need the sword to survive.",0.0,0.0,27.0,27.0,1.0,0.03774256780481986,3777,524
 Game of Thrones Season Seven -- John Snow's resurrection from retirement,0.0,0.0,27.0,27.0,1.0,0.03774256780481986,3777,524
-This is why Disney hates dragons... Come up another princess story that involve killing dragons.,0.0,0.0,42.0,42.0,1.0,0.024098134635594,3777,524
+This is why Disney hates dragons... Come up another princess story that involve killing dragons.,0.0,0.0,42.0,42.0,1.0,0.024098134635593998,3777,524
 The Powerful Fire Breathing World Powers battling ISIS ... and getting fed up ...,0.0,0.0,28.0,28.0,1.0,0.0363696483726654,3777,524
 The outsourcing of fire production to human companies took its toll on the dragon's job prospects.,0.0,0.0,26.0,26.0,1.0,0.039223227027636816,3777,524
 """My lord, I thinketh I have spied a mouse in thine dungeon,"" she speaketh. Wenches! Sheesheth!",0.0,0.0,27.0,27.0,1.0,0.03774256780481986,3777,524

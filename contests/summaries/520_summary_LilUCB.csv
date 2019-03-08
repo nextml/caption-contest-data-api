@@ -6,10 +6,10 @@ You're right; some of us bruise easier than others.,58.0,104.0,73.0,235.0,1.9361
 Would you feel more comfortable on the floor ?,137.0,181.0,173.0,491.0,1.9266802443991853,0.03574252527985605,5,520
 I am required to report those bruises.,73.0,104.0,112.0,289.0,1.8650519031141868,0.046470100133617714,6,520
 You say you've been feeling empty since the split?,83.0,97.0,140.0,320.0,1.821875,0.045662880954888435,7,520
-Maybe you'd be more comfortable on the floor.,52.0,80.0,92.0,224.0,1.821428571428572,0.05234284133728842,8,520
+Maybe you'd be more comfortable on the floor.,52.0,80.0,92.0,224.0,1.8214285714285716,0.05234284133728842,8,520
 I'm going to be brutally honest. You're an accident waiting to happen.,53.0,76.0,95.0,224.0,1.8125,0.05296407258950028,9,520
 And you blame yourself for the split?,57.0,62.0,101.0,220.0,1.8,0.05564818623250184,10,520
-How was life after the split?,50.0,103.0,102.0,255.0,1.7960784313725489,0.046723109038174934,11,520
+How was life after the split?,50.0,103.0,102.0,255.0,1.7960784313725489,0.04672310903817493,11,520
 What I think isn't important. Do you think you're an accident waiting to happen?,39.0,77.0,81.0,197.0,1.7868020304568528,0.05362776474107128,12,520
 Perhaps you're hanging around with the wrong bunch.,36.0,72.0,76.0,184.0,1.7826086956521738,0.055389168269374005,13,520
 I can tell that something's been eating at you.,38.0,77.0,81.0,196.0,1.7806122448979589,0.05354182980380108,14,520
@@ -50,7 +50,7 @@ So when did you first begin to feel like garbage?,20.0,32.0,56.0,108.0,1.6666666
 So you feel like you're empty inside?,21.0,40.0,63.0,124.0,1.6612903225806452,0.06763694985629749,49,520
 You seem to bruise easily.,15.0,42.0,52.0,109.0,1.6605504587155964,0.06800414666035806,50,520
 We both know there's no such thing as an accident.,14.0,44.0,51.0,109.0,1.6605504587155964,0.06674330901068648,50,520
-My last patient was nuts.,20.0,30.0,56.0,106.0,1.6603773584905661,0.0756959830002715,52,520
+My last patient was nuts.,20.0,30.0,56.0,106.0,1.660377358490566,0.0756959830002715,52,520
 "And in this recurring nightmare, nobody slips?",17.0,28.0,49.0,94.0,1.6595744680851063,0.07939543856205852,53,520
 Show me where the monkey touched you.,21.0,27.0,57.0,105.0,1.6571428571428573,0.07754069170249725,54,520
 "No offense, I am thick skinned",9.0,24.0,31.0,64.0,1.65625,0.08969400693999784,55,520
@@ -171,8 +171,8 @@ And you feel responsible for the split?,10.0,22.0,42.0,74.0,1.5675675675675675,0
 What do you mean you bring people down?,6.0,26.0,35.0,67.0,1.5671641791044777,0.08020744417363072,170,520
 Talk more about your feelings of being used and discarded.,7.0,29.0,40.0,76.0,1.5657894736842106,0.07570841181516923,171,520
 I think we can rule out low potassium as the cause of your depression.,10.0,23.0,43.0,76.0,1.5657894736842106,0.08236744016006946,171,520
-Thanks for finally opening up.,11.0,17.0,41.0,69.0,1.565217391304348,0.09111944904271024,173,520
-Let's face the facts: you're spoiled rotten.,11.0,22.0,45.0,78.0,1.564102564102564,0.08280333007661038,174,520
+Thanks for finally opening up.,11.0,17.0,41.0,69.0,1.5652173913043481,0.09111944904271024,173,520
+Let's face the facts: you're spoiled rotten.,11.0,22.0,45.0,78.0,1.5641025641025639,0.08280333007661038,174,520
 There used to be a whole bunch of us that hung out together . . .,8.0,24.0,39.0,71.0,1.5633802816901408,0.08205704048917391,175,520
 How long would you say you've felt empty inside?,8.0,24.0,39.0,71.0,1.5633802816901408,0.08205704048917391,175,520
 Would you like to talk about what's eating you?,9.0,22.0,40.0,71.0,1.5633802816901408,0.08447350105662399,175,520
@@ -185,9 +185,9 @@ You're definitely not completely bananas.,13.0,12.0,43.0,68.0,1.5588235294117647
 What am I writing down? My grocery list.,7.0,20.0,34.0,61.0,1.5573770491803278,0.08908947477570603,184,520
 "Calm down, sometimes a banana is just a banana.",10.0,19.0,41.0,70.0,1.5571428571428572,0.08784447551293458,185,520
 Well it could just mean you've moved past the phallic stage.,10.0,20.0,42.0,72.0,1.5555555555555556,0.08596522045053062,186,520
-When did you first feel like 'an accident waiting to happen.'?,10.0,16.0,39.0,65.0,1.5538461538461539,0.09310552643777084,187,520
-How does it make you feel when others call you an accident waiting to happen?,11.0,14.0,40.0,65.0,1.5538461538461539,0.09565253934958376,187,520
-Perhaps it was actually a Freudian slip.,11.0,14.0,40.0,65.0,1.5538461538461539,0.09565253934958376,187,520
+When did you first feel like 'an accident waiting to happen.'?,10.0,16.0,39.0,65.0,1.553846153846154,0.09310552643777084,187,520
+How does it make you feel when others call you an accident waiting to happen?,11.0,14.0,40.0,65.0,1.553846153846154,0.09565253934958376,187,520
+Perhaps it was actually a Freudian slip.,11.0,14.0,40.0,65.0,1.553846153846154,0.09565253934958376,187,520
 So you only feel fulfilled when someone steps on you?,11.0,15.0,41.0,67.0,1.5522388059701493,0.09338980835528536,190,520
 "He slipped, he fell. You've got to stop blaming yourself.",6.0,25.0,36.0,67.0,1.5522388059701493,0.08037559413633588,190,520
 The monkey nightmares are back.,8.0,21.0,38.0,67.0,1.5522388059701493,0.08581843742178114,190,520
@@ -350,7 +350,7 @@ My initial diagnosis is separation anxiety.,4.0,20.0,32.0,56.0,1.5,0.08451542547
 "What do you mean you ""gave him the slip""?",5.0,17.0,32.0,54.0,1.5,0.09061479586639896,315,520
 You aren't responsible for other people's accidents.,7.0,12.0,33.0,52.0,1.5,0.10090091909944687,315,520
 Lets try focusing on the chimp.,8.0,11.0,35.0,54.0,1.5,0.10152574692465634,315,520
-We've all had a few slip-ups!,8.0,15.0,40.0,63.0,1.492063492063492,0.09015267210270868,352,520
+We've all had a few slip-ups!,8.0,15.0,40.0,63.0,1.4920634920634919,0.09015267210270868,352,520
 Well? What's eating you?,7.0,16.0,38.0,61.0,1.4918032786885247,0.0893906231548788,353,520
 It almost sounds like you want to be stepped on.,4.0,20.0,33.0,57.0,1.4912280701754386,0.08348159874659886,354,520
 When did you start feeling this emptiness inside?,4.0,20.0,33.0,57.0,1.4912280701754386,0.08348159874659886,354,520
@@ -389,7 +389,7 @@ Doesn't it feel good to open up?,6.0,12.0,31.0,49.0,1.4897959183673468,0.1015293
 When did you first realize you were really a plantain?,7.0,9.0,31.0,47.0,1.4893617021276595,0.10912290309195162,386,520
 Let's work on finding your inner self.,6.0,10.0,29.0,45.0,1.4888888888888892,0.10834951964030606,389,520
 "The thing is, I've always felt like a vegetable.",6.0,10.0,29.0,45.0,1.4888888888888892,0.10834951964030606,389,520
-Maybe making people slip and fall isn't for you. Have you considered composting?,5.0,10.0,26.0,41.0,1.4878048780487805,0.11110284852615,391,520
+Maybe making people slip and fall isn't for you. Have you considered composting?,5.0,10.0,26.0,41.0,1.4878048780487805,0.11110284852614999,391,520
 Have you tried a potassium supplement?,9.0,13.0,42.0,64.0,1.484375,0.09180775803015674,392,520
 It's a clear cut case of banana split personality.,7.0,17.0,40.0,64.0,1.484375,0.08623572892056006,392,520
 I think what we're dealing with is a split personality.,5.0,20.0,37.0,62.0,1.4838709677419355,0.08208653739375367,394,520
@@ -612,36 +612,36 @@ So he left you for a sundae?,5.0,11.0,32.0,48.0,1.4375,0.09832935140393093,595,5
 I believe you have a split personality.,5.0,11.0,32.0,48.0,1.4375,0.09832935140393093,595,520
 "So he ran off with a little Chiquita, eh?",6.0,9.0,33.0,48.0,1.4375,0.10273843570063136,595,520
 "I know, but eventually we're all compost.",7.0,10.0,38.0,55.0,1.4363636363636365,0.09627274793894024,613,520
-Remember what Freud said: There are no accidents.,4.0,9.0,26.0,39.0,1.435897435897436,0.10894458591456893,614,520
-Do you want to slip on something more comfortable?,6.0,8.0,32.0,46.0,1.434782608695652,0.10610437807375724,615,520
-Tell me more about why you think life is fruitless.,5.0,10.0,31.0,46.0,1.434782608695652,0.10144927536231883,615,520
-So people step on you?,5.0,10.0,31.0,46.0,1.434782608695652,0.10144927536231883,615,520
-Stop calling me Chiquita!,3.0,14.0,29.0,46.0,1.434782608695652,0.0914307843222464,615,520
-It's like he only cared about what was on the inside...,3.0,14.0,29.0,46.0,1.434782608695652,0.0914307843222464,615,520
-Had you considered that perhaps they are laughing with you?,4.0,12.0,30.0,46.0,1.434782608695652,0.09657003622584162,615,520
-You need to stop blaming yourself for others' slip-ups.,6.0,8.0,32.0,46.0,1.434782608695652,0.10610437807375724,615,520
-What did the monkey do next?,4.0,12.0,30.0,46.0,1.434782608695652,0.09657003622584162,615,520
-I'm just tired of people stepping all over me!,5.0,10.0,31.0,46.0,1.434782608695652,0.10144927536231883,615,520
-"So... what I'm hearing is, it's one Freudian slip after another.",5.0,10.0,31.0,46.0,1.434782608695652,0.10144927536231883,615,520
-I'm not so sure that bananopause is a real thing.,5.0,10.0,31.0,46.0,1.434782608695652,0.10144927536231883,615,520
-I'm sure there are plenty of people out there who think you're still funny.,3.0,14.0,29.0,46.0,1.434782608695652,0.0914307843222464,615,520
-I'm tired of being blamed for other people's slip-ups.,3.0,14.0,29.0,46.0,1.434782608695652,0.0914307843222464,615,520
-Is it possible you might be a Freudian slip?,5.0,10.0,31.0,46.0,1.434782608695652,0.10144927536231883,615,520
-"So, what makes you think I would fall for you?",3.0,14.0,29.0,46.0,1.434782608695652,0.0914307843222464,615,520
-When did you first notice you'd lost touch with your inner self?,2.0,16.0,28.0,46.0,1.434782608695652,0.08598490999531203,615,520
+Remember what Freud said: There are no accidents.,4.0,9.0,26.0,39.0,1.4358974358974361,0.10894458591456893,614,520
+Do you want to slip on something more comfortable?,6.0,8.0,32.0,46.0,1.4347826086956519,0.10610437807375724,615,520
+Tell me more about why you think life is fruitless.,5.0,10.0,31.0,46.0,1.4347826086956519,0.10144927536231883,615,520
+So people step on you?,5.0,10.0,31.0,46.0,1.4347826086956519,0.10144927536231883,615,520
+Stop calling me Chiquita!,3.0,14.0,29.0,46.0,1.4347826086956519,0.0914307843222464,615,520
+It's like he only cared about what was on the inside...,3.0,14.0,29.0,46.0,1.4347826086956519,0.0914307843222464,615,520
+Had you considered that perhaps they are laughing with you?,4.0,12.0,30.0,46.0,1.4347826086956519,0.09657003622584162,615,520
+You need to stop blaming yourself for others' slip-ups.,6.0,8.0,32.0,46.0,1.4347826086956519,0.10610437807375724,615,520
+What did the monkey do next?,4.0,12.0,30.0,46.0,1.4347826086956519,0.09657003622584162,615,520
+I'm just tired of people stepping all over me!,5.0,10.0,31.0,46.0,1.4347826086956519,0.10144927536231883,615,520
+"So... what I'm hearing is, it's one Freudian slip after another.",5.0,10.0,31.0,46.0,1.4347826086956519,0.10144927536231883,615,520
+I'm not so sure that bananopause is a real thing.,5.0,10.0,31.0,46.0,1.4347826086956519,0.10144927536231883,615,520
+I'm sure there are plenty of people out there who think you're still funny.,3.0,14.0,29.0,46.0,1.4347826086956519,0.0914307843222464,615,520
+I'm tired of being blamed for other people's slip-ups.,3.0,14.0,29.0,46.0,1.4347826086956519,0.0914307843222464,615,520
+Is it possible you might be a Freudian slip?,5.0,10.0,31.0,46.0,1.4347826086956519,0.10144927536231883,615,520
+"So, what makes you think I would fall for you?",3.0,14.0,29.0,46.0,1.4347826086956519,0.0914307843222464,615,520
+When did you first notice you'd lost touch with your inner self?,2.0,16.0,28.0,46.0,1.4347826086956519,0.08598490999531203,615,520
 This business of you just lying on the floor is very passive aggressive.,4.0,15.0,34.0,53.0,1.4339622641509433,0.08733032049795691,631,520
 You can be open here.,7.0,9.0,37.0,53.0,1.4339622641509433,0.0990133985533268,631,520
-You feel like everyone steps all over you?,4.0,11.0,29.0,44.0,1.4318181818181819,0.09967031951757234,633,520
-How do you really peel?,6.0,7.0,31.0,44.0,1.4318181818181819,0.1097649192483534,633,520
-Tell me about the first time you made a Freudian slip.,5.0,9.0,30.0,44.0,1.4318181818181819,0.10483918659149474,633,520
-When did you shed your inner self?,5.0,9.0,30.0,44.0,1.4318181818181819,0.10483918659149474,633,520
-We need to peel back a bit more.,5.0,9.0,30.0,44.0,1.4318181818181819,0.10483918659149474,633,520
-I wonder if you unconsciously want people to slip and fall.,2.0,15.0,27.0,44.0,1.4318181818181819,0.08843080734603967,633,520
-I feel used and discarded.,5.0,9.0,30.0,44.0,1.4318181818181819,0.10483918659149474,633,520
-"Causing harm to others may be morally indefensible, but when I picture it, it still makes me laugh.",3.0,13.0,28.0,44.0,1.4318181818181819,0.0942183110669241,633,520
-"Really, you must let go of the guilt. You're the one who keeps getting stepped on!",4.0,11.0,29.0,44.0,1.4318181818181819,0.09967031951757234,633,520
-Well maybe you should try Standup>,6.0,7.0,31.0,44.0,1.4318181818181819,0.1097649192483534,633,520
-Any issues other than experiencing an empty feeling?,5.0,9.0,30.0,44.0,1.4318181818181819,0.10483918659149474,633,520
+You feel like everyone steps all over you?,4.0,11.0,29.0,44.0,1.431818181818182,0.09967031951757234,633,520
+How do you really peel?,6.0,7.0,31.0,44.0,1.431818181818182,0.1097649192483534,633,520
+Tell me about the first time you made a Freudian slip.,5.0,9.0,30.0,44.0,1.431818181818182,0.10483918659149474,633,520
+When did you shed your inner self?,5.0,9.0,30.0,44.0,1.431818181818182,0.10483918659149474,633,520
+We need to peel back a bit more.,5.0,9.0,30.0,44.0,1.431818181818182,0.10483918659149474,633,520
+I wonder if you unconsciously want people to slip and fall.,2.0,15.0,27.0,44.0,1.431818181818182,0.08843080734603967,633,520
+I feel used and discarded.,5.0,9.0,30.0,44.0,1.431818181818182,0.10483918659149474,633,520
+"Causing harm to others may be morally indefensible, but when I picture it, it still makes me laugh.",3.0,13.0,28.0,44.0,1.431818181818182,0.0942183110669241,633,520
+"Really, you must let go of the guilt. You're the one who keeps getting stepped on!",4.0,11.0,29.0,44.0,1.431818181818182,0.09967031951757234,633,520
+Well maybe you should try Standup>,6.0,7.0,31.0,44.0,1.431818181818182,0.1097649192483534,633,520
+Any issues other than experiencing an empty feeling?,5.0,9.0,30.0,44.0,1.431818181818182,0.10483918659149474,633,520
 Your life isn't a joke.,6.0,10.0,35.0,51.0,1.4313725490196083,0.09803921568627452,644,520
 "I couldn't help it,doc, she was getting under my skin.",6.0,10.0,35.0,51.0,1.4313725490196083,0.09803921568627452,644,520
 I suppose that was a breach of the physician-patient relationship.,7.0,8.0,36.0,51.0,1.4313725490196083,0.1019607843137255,644,520
@@ -807,7 +807,7 @@ Peeling away the layers to get at the truth.. forgive me. It's just an expressio
 I'm just a joke.,8.0,3.0,35.0,46.0,1.4130434782608696,0.11452943826162522,803,520
 Let's talk about your family tree.,4.0,11.0,31.0,46.0,1.4130434782608696,0.09618865800605866,803,520
 I admit it. I slipped up.,4.0,11.0,31.0,46.0,1.4130434782608696,0.09618865800605866,803,520
-Something seems to be eating you up inside.,6.0,7.0,33.0,46.0,1.4130434782608696,0.10575738782120599,803,520
+Something seems to be eating you up inside.,6.0,7.0,33.0,46.0,1.4130434782608696,0.105757387821206,803,520
 Why do you keep dating monkeys if you feel they always take more than they give?,2.0,15.0,29.0,46.0,1.4130434782608696,0.08555636025011852,803,520
 So you feel you were labeled?,2.0,15.0,29.0,46.0,1.4130434782608696,0.08555636025011852,803,520
 "I used to be young, ripe, and full of life, but now I feel like things are always slipping away from me.",6.0,9.0,36.0,51.0,1.4117647058823528,0.0977249866225656,812,520
@@ -1643,7 +1643,7 @@ So how long since you split?,1.0,9.0,23.0,33.0,1.3333333333333333,0.094012679136
 "So, why don't you think it was an accident?",3.0,5.0,25.0,33.0,1.3333333333333333,0.11236664374387367,1578,520
 Life is driving me bananas.,3.0,5.0,25.0,33.0,1.3333333333333333,0.11236664374387367,1578,520
 And for how long have you had this sense that you've lost your comic timing?,5.0,8.0,42.0,55.0,1.3272727272727274,0.08627942021843484,1644,520
-You are clearly not the victim here.,4.0,8.0,37.0,49.0,1.3265306122448979,0.08934643222152172,1645,520
+You are clearly not the victim here.,4.0,8.0,37.0,49.0,1.326530612244898,0.08934643222152172,1645,520
 "Plastic surgery just isn't an option for your condition, it would be fruitless.",3.0,9.0,34.0,46.0,1.326086956521739,0.08821552344077216,1646,520
 Separation anxiety is traumatic but you shouldn't feel like garbage.,2.0,10.0,31.0,43.0,1.3255813953488371,0.08627218916306675,1647,520
 "Personally, when choosing a partner I look more for substance than a peel.",4.0,6.0,33.0,43.0,1.3255813953488371,0.09827375054982752,1647,520
@@ -1995,7 +1995,7 @@ Wow... so plantains really are bananas.,1.0,8.0,24.0,33.0,1.303030303030303,0.09
 "So you were deserted for ice cream, syrup, and whipped cream. You still have appeal.",2.0,6.0,25.0,33.0,1.303030303030303,0.10192139429601296,1970,520
 I feel like I've lost the best part of me,3.0,4.0,26.0,33.0,1.303030303030303,0.11082377907824087,1970,520
 A Freudian slip you say...,4.0,5.0,34.0,43.0,1.3023255813953492,0.0972198460849993,1996,520
-Let's re-visit your cereal and milk obsession.,3.0,10.0,40.0,53.0,1.3018867924528301,0.07893019118245996,1997,520
+Let's re-visit your cereal and milk obsession.,3.0,10.0,40.0,53.0,1.30188679245283,0.07893019118245996,1997,520
 They laugh at you because they fear you.,2.0,5.0,23.0,30.0,1.3,0.10880753861644933,1998,520
 When did you start having this feeling of emptiness?,2.0,5.0,23.0,30.0,1.3,0.10880753861644933,1998,520
 Do you think all women find you appealing?,3.0,3.0,24.0,30.0,1.3,0.118903032065977,1998,520
@@ -2137,7 +2137,7 @@ When they called you yellow..how did that make you peel?,2.0,5.0,23.0,30.0,1.3,0
 when did this sense of emptiness begin and how do you feel about it?,2.0,5.0,23.0,30.0,1.3,0.10880753861644933,1998,520
 This Trump hairpiece idea is a delusion.,3.0,3.0,24.0,30.0,1.3,0.118903032065977,1998,520
 "It doesn't matter what anyone says, you do have appeal.",4.0,9.0,44.0,57.0,1.2982456140350878,0.07901695624277917,2138,520
-"Internal medicine is not my forte, but I believe your potassium level is slipping.",3.0,8.0,36.0,47.0,1.297872340425532,0.08556766756593656,2139,520
+"Internal medicine is not my forte, but I believe your potassium level is slipping.",3.0,8.0,36.0,47.0,1.2978723404255321,0.08556766756593656,2139,520
 "So, have you always thought of yourself as 'appealing'?",2.0,7.0,28.0,37.0,1.2972972972972974,0.09384084079279124,2140,520
 And you were still living as a male then?,3.0,5.0,29.0,37.0,1.2972972972972974,0.10152637540166344,2140,520
 "What you are saying is that after being a comedy movie prop for so long, you think that you would like to direct.",4.0,3.0,30.0,37.0,1.2972972972972974,0.10866971244878214,2140,520
@@ -2547,8 +2547,8 @@ I feel like everyone avoids me,2.0,5.0,27.0,34.0,1.2647058823529411,0.0972786900
 Not every slip is Freudian; sometimes it's just slapstick.,2.0,10.0,41.0,53.0,1.2641509433962264,0.07203723938303844,2546,520
 So talk to me about why you believe people fall on you all the time.,2.0,6.0,30.0,38.0,1.263157894736842,0.08992023117655254,2547,520
 "I thought I was pure banana. Then, I found out my mother was a plantain.",0.0,10.0,28.0,38.0,1.263157894736842,0.07239266372688179,2547,520
-Don't feel bad. Fruedian slips are not your fault.,2.0,7.0,33.0,42.0,1.2619047619047619,0.0838914444945207,2549,520
-I feel guilty about the clown.,1.0,9.0,32.0,42.0,1.2619047619047619,0.0766572519305696,2549,520
+Don't feel bad. Fruedian slips are not your fault.,2.0,7.0,33.0,42.0,1.261904761904762,0.0838914444945207,2549,520
+I feel guilty about the clown.,1.0,9.0,32.0,42.0,1.261904761904762,0.0766572519305696,2549,520
 "The question isn’t, why didn’t they laugh? The question is, why do you think it’s funny?",4.0,9.0,52.0,65.0,1.2615384615384615,0.07029102647114255,2551,520
 Help me understand why your Psychosexual development is stuck in the phallic stage.,3.0,12.0,54.0,69.0,1.2608695652173914,0.0641428961840637,2552,520
 "So, you're still feeling empty?",0.0,6.0,17.0,23.0,1.2608695652173914,0.09361833424764432,2552,520
@@ -2950,14 +2950,14 @@ I need you to open up more.,0.0,6.0,19.0,25.0,1.24,0.0871779788708135,2905,520
 "Now, tell me why you and your wife split.",1.0,4.0,20.0,25.0,1.24,0.10456258094238748,2905,520
 My diagnosis is that you fear everyone you meet is going to fall down.,1.0,4.0,20.0,25.0,1.24,0.10456258094238748,2905,520
 Explain to me why you feel people look at you as slippery and that you have no appeal.,1.0,4.0,20.0,25.0,1.24,0.10456258094238748,2905,520
-But what about MY peelings!,1.0,3.0,17.0,21.0,1.2380952380952381,0.11761037176408068,2952,520
-So when did you start feeling that you had lost your appeal?,1.0,3.0,17.0,21.0,1.2380952380952381,0.11761037176408068,2952,520
-Your slip is showing.,2.0,1.0,18.0,21.0,1.2380952380952381,0.13636020060263193,2952,520
-"Now, Mr. banana peel you said you like to give people the slip... tell me more about that.",1.0,8.0,33.0,42.0,1.2380952380952381,0.0747393753458591,2952,520
-When did you first start having nightmares of gorillas?,0.0,5.0,16.0,21.0,1.2380952380952381,0.09523809523809523,2952,520
-So you feel like part of you has been missing ever since the incident with the gorilla?,1.0,3.0,17.0,21.0,1.2380952380952381,0.11761037176408068,2952,520
-"So when you yelled back, 'Eat my lunch, Buddy!' what did you expect?",1.0,3.0,17.0,21.0,1.2380952380952381,0.11761037176408068,2952,520
-"Berry, I know you are misunderstood, but you have thick skin.",1.0,3.0,17.0,21.0,1.2380952380952381,0.11761037176408068,2952,520
+But what about MY peelings!,1.0,3.0,17.0,21.0,1.238095238095238,0.11761037176408068,2952,520
+So when did you start feeling that you had lost your appeal?,1.0,3.0,17.0,21.0,1.238095238095238,0.11761037176408068,2952,520
+Your slip is showing.,2.0,1.0,18.0,21.0,1.238095238095238,0.13636020060263193,2952,520
+"Now, Mr. banana peel you said you like to give people the slip... tell me more about that.",1.0,8.0,33.0,42.0,1.238095238095238,0.0747393753458591,2952,520
+When did you first start having nightmares of gorillas?,0.0,5.0,16.0,21.0,1.238095238095238,0.09523809523809523,2952,520
+So you feel like part of you has been missing ever since the incident with the gorilla?,1.0,3.0,17.0,21.0,1.238095238095238,0.11761037176408068,2952,520
+"So when you yelled back, 'Eat my lunch, Buddy!' what did you expect?",1.0,3.0,17.0,21.0,1.238095238095238,0.11761037176408068,2952,520
+"Berry, I know you are misunderstood, but you have thick skin.",1.0,3.0,17.0,21.0,1.238095238095238,0.11761037176408068,2952,520
 Thank you; I find you appealing too.,0.0,9.0,29.0,38.0,1.236842105263158,0.06989334006042335,2960,520
 So what time of the day do you find yourself more appealing?,0.0,9.0,29.0,38.0,1.236842105263158,0.06989334006042335,2960,520
 'Tell me more about how you think the chimpanzee was using you in your relationship.',3.0,6.0,42.0,51.0,1.2352941176470589,0.07714633558002353,2962,520
@@ -4273,7 +4273,7 @@ She slipped on you! Do you blame yourself?,0.0,6.0,32.0,38.0,1.1578947368421053,
 Let's peel back the layers of your childhood,0.0,3.0,16.0,19.0,1.1578947368421053,0.08594700851870801,4266,520
 You think people are laughing at you?,1.0,1.0,17.0,19.0,1.1578947368421053,0.11504278112810527,4266,520
 Why do you feel it was Freudian?,1.0,1.0,17.0,19.0,1.1578947368421053,0.11504278112810527,4266,520
-Let me ask the questions. Do you think people find you appealing?,1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,4266,520
+Let me ask the questions. Do you think people find you appealing?,1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,4266,520
 What's got you split three ways?,0.0,3.0,16.0,19.0,1.1578947368421053,0.08594700851870801,4266,520
 Everybody always blames ME for their slip-ups!!,1.0,1.0,17.0,19.0,1.1578947368421053,0.11504278112810527,4266,520
 "Tell me again about your day at the zoo, especially the part about the monkey house.",0.0,3.0,16.0,19.0,1.1578947368421053,0.08594700851870801,4266,520
@@ -4445,7 +4445,7 @@ We knew that when you began the gender reassignment it was going to be s slipper
 I hate it when they use the bathroom and snack during sessions!,1.0,1.0,19.0,21.0,1.1428571428571428,0.10432810619146024,4425,520
 You shouldn't let people put you down in the first place.,1.0,1.0,19.0,21.0,1.1428571428571428,0.10432810619146024,4425,520
 "I understand that he fell, but I really think you're missing what 'Freudian' means.",0.0,3.0,18.0,21.0,1.1428571428571428,0.07824607964359519,4425,520
-Please forgive me. I peeled away your vulnerable facade and devoured your inner self.,0.0,7.0,42.0,49.0,1.1428571428571428,0.050507627227610534,4425,520
+Please forgive me. I peeled away your vulnerable facade and devoured your inner self.,0.0,7.0,42.0,49.0,1.1428571428571428,0.05050762722761053,4425,520
 “You feel failure because you went on a bowl of cereal instead of fulfilling a dream of being Bananas Foster?,1.0,1.0,19.0,21.0,1.1428571428571428,0.10432810619146024,4425,520
 "Well, in your case going bananas may not be all that bad.",1.0,1.0,19.0,21.0,1.1428571428571428,0.10432810619146024,4425,520
 "Sorry, the doctor - patient relationship prevents me from ""Slipping the Light Fantastic"" with you.",0.0,3.0,18.0,21.0,1.1428571428571428,0.07824607964359519,4425,520
@@ -4636,7 +4636,7 @@ Tell me about whatever 'appeels' to you ....,0.0,3.0,18.0,21.0,1.142857142857142
 "Now, what's this fetish about?",0.0,3.0,18.0,21.0,1.1428571428571428,0.07824607964359519,4425,520
 Let's get in touch with your inner self.,1.0,1.0,19.0,21.0,1.1428571428571428,0.10432810619146024,4425,520
 When did you first start to feel that you were different?,0.0,3.0,18.0,21.0,1.1428571428571428,0.07824607964359519,4425,520
-Of course you feel abandoned...,0.0,7.0,42.0,49.0,1.1428571428571428,0.050507627227610534,4425,520
+Of course you feel abandoned...,0.0,7.0,42.0,49.0,1.1428571428571428,0.05050762722761053,4425,520
 I think you're showing early signs of PTSD,0.0,3.0,18.0,21.0,1.1428571428571428,0.07824607964359519,4425,520
 Over and over I hear 'slip and fall' in my head.,1.0,1.0,19.0,21.0,1.1428571428571428,0.10432810619146024,4425,520
 So when did you go bananas?,1.0,1.0,19.0,21.0,1.1428571428571428,0.10432810619146024,4425,520
@@ -5458,7 +5458,7 @@ I feel so empty and used! I also sense a lack of purpose.,0.0,2.0,20.0,22.0,1.09
 I'm the shrink...not you.,0.0,2.0,20.0,22.0,1.0909090909090908,0.06273323266748672,5434,520
 "YOU DREMPT YOU SAW GONZILLA, THEN WHAT HAPPENED?",0.0,2.0,20.0,22.0,1.0909090909090908,0.06273323266748672,5434,520
 "I'm sorry to hear about your boyfriend, but bananas split all the time.",0.0,2.0,20.0,22.0,1.0909090909090908,0.06273323266748672,5434,520
-"So, you say you've never been the same since you woke up to find a tarantula in your crate?",0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,5460,520
+"So, you say you've never been the same since you woke up to find a tarantula in your crate?",0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,5460,520
 I constantly feel scapegoated.,0.0,3.0,31.0,34.0,1.088235294117647,0.04937482703908927,5461,520
 This would be a lot more productive if you said something other than 'K'.,0.0,3.0,31.0,34.0,1.088235294117647,0.04937482703908927,5461,520
 You need to remind them that sometimes a banana is just a banana.,0.0,3.0,31.0,34.0,1.088235294117647,0.04937482703908927,5461,520
@@ -6043,20 +6043,20 @@ So that is when you started to lose your grip?,0.0,1.0,19.0,20.0,1.05,0.05129891
 Quit looking at my legs--I'm not a slippery person.,0.0,1.0,19.0,20.0,1.05,0.051298917604257706,6027,520
 They said I was ready. Now I feel as if someone stripped my dignity right out of me.,0.0,1.0,19.0,20.0,1.05,0.051298917604257706,6027,520
 Tell me about your relationship with Pogo,0.0,1.0,19.0,20.0,1.05,0.051298917604257706,6027,520
-"Quick, Henry, the banana spray!",1.0,0.0,40.0,41.0,1.048780487804878,0.04878048780487807,6045,520
-"No, ""Banana Split"" is not a condition listed in the DSM.",0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,6046,520
-And they told me a minor in Animal Behavior would be pointless.,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,6046,520
-What would Freud say about you talking to me?,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,6046,520
-"No, I didn't just fart. And, yes, I do own a Toyota. So what, you think you're so special? You think because you're friends with Josh you are better than me? I think you need to leave.",0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,6046,520
-Banana Bread? It's a sexual thing.,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,6046,520
-How are you coping with this deep sense that your life's mission has passed on to others?,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,6046,520
-"If you think that I will fall for this trick, you are nuts.",0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,6046,520
-"I'm going to level with you, this seems like the product of a very slippery mind.",0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,6046,520
-"So, you've gone back to your cage before my first question?",0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,6046,520
-"Maybe look at this way, the thing about being a peal is that you are still a survivor.",0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,6046,520
-Even Cruz blames me for his campaign having one foot in the grave.,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,6046,520
-Skin treatment.,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,6046,520
-"Look, you just need to understand that slip-ups happen and that you shouldn't be caught up in a bunch about it.",0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,6046,520
+"Quick, Henry, the banana spray!",1.0,0.0,40.0,41.0,1.0487804878048779,0.04878048780487807,6045,520
+"No, ""Banana Split"" is not a condition listed in the DSM.",0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,6046,520
+And they told me a minor in Animal Behavior would be pointless.,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,6046,520
+What would Freud say about you talking to me?,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,6046,520
+"No, I didn't just fart. And, yes, I do own a Toyota. So what, you think you're so special? You think because you're friends with Josh you are better than me? I think you need to leave.",0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,6046,520
+Banana Bread? It's a sexual thing.,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,6046,520
+How are you coping with this deep sense that your life's mission has passed on to others?,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,6046,520
+"If you think that I will fall for this trick, you are nuts.",0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,6046,520
+"I'm going to level with you, this seems like the product of a very slippery mind.",0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,6046,520
+"So, you've gone back to your cage before my first question?",0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,6046,520
+"Maybe look at this way, the thing about being a peal is that you are still a survivor.",0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,6046,520
+Even Cruz blames me for his campaign having one foot in the grave.,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,6046,520
+Skin treatment.,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,6046,520
+"Look, you just need to understand that slip-ups happen and that you shouldn't be caught up in a bunch about it.",0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,6046,520
 You're no longer appealing to her.,0.0,1.0,21.0,22.0,1.0454545454545454,0.046524210519923545,6059,520
 "Tell me, did you always find it amusing when you felt yourself starting to slip?",0.0,2.0,42.0,44.0,1.0454545454545454,0.031765283723713976,6059,520
 Tell me again about the nightmare where you wake up underwater and can't breathe.,0.0,1.0,21.0,22.0,1.0454545454545454,0.046524210519923545,6059,520
@@ -6124,7 +6124,7 @@ You gotta stop beating yourself up for the slip and fall.,0.0,0.0,15.0,15.0,1.0,
 "I understand your concern, but not every slip is necessarily Freudian.",0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
 You aren't bananas. Actually you are quite appealing.,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,6109,520
 "So, you say people are always slipping up around you?",0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
-St tell me why you think your legs suck.,0.0,0.0,21.0,21.0,1.0,0.048795003647426664,6109,520
+St tell me why you think your legs suck.,0.0,0.0,21.0,21.0,1.0,0.04879500364742666,6109,520
 You say you feel empty inside. Tell me about your mother,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
 "Well if you'er frustrated bc ""Well, I'm sorry, but if you're depressed because you can not find a straight partner, this will require multiple sessions to resolve.""",0.0,0.0,19.0,19.0,1.0,0.05407380704358751,6109,520
 How long have you had sexual attraction to other flowers,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,6109,520
@@ -6185,7 +6185,7 @@ You say you are unappealing. When do you first remember having these feelings?,0
 "So, you think you're no longer a peeling.",0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
 We could plead life?,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
 I preferred the potato. It's not a banana lounge.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
-"Tell me, how did you feel when to be slipped over? And the previous time?",0.0,0.0,21.0,21.0,1.0,0.048795003647426664,6109,520
+"Tell me, how did you feel when to be slipped over? And the previous time?",0.0,0.0,21.0,21.0,1.0,0.04879500364742666,6109,520
 "Before we start, I think you should know I'm more of a Jungian anal-ist...err!",0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
 Why can't you accept the fact that you're a very appealing banana peel?,0.0,0.0,19.0,19.0,1.0,0.05407380704358751,6109,520
 I'm tired of getting slipped on all the time,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
@@ -6476,7 +6476,7 @@ Note to self: Tell Macy’s they sent the wrong slip cover.,0.0,0.0,16.0,16.0,1.
 "So, I see you've kept letting the wolves out there eat you for lunch.",0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
 What's eating you is up inside?,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
 It's not rhetorical question.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
-So instead of being squashed you want to be the one who falls? You realize that poses another set of problems?,0.0,0.0,21.0,21.0,1.0,0.048795003647426664,6109,520
+So instead of being squashed you want to be the one who falls? You realize that poses another set of problems?,0.0,0.0,21.0,21.0,1.0,0.04879500364742666,6109,520
 everything has problems,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
 I FIND YOUR THERAPY APPALL-ING. NO WAIT.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
 And you think you're pretty splayed out liked that?,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,6109,520
@@ -6518,7 +6518,7 @@ You have to take responsibility; that wasn't a Freudian slip!,0.0,0.0,15.0,15.0,
 Just because you feel like a fish out of water doesn't necessarily mean you're squidzophrenic.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
 You shouldn't feel guilty that his leg was broken,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
 I don't think this is a good time to step it up,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
-Did you grow up in the middle?,0.0,0.0,21.0,21.0,1.0,0.048795003647426664,6109,520
+Did you grow up in the middle?,0.0,0.0,21.0,21.0,1.0,0.04879500364742666,6109,520
 I can see why you think going on is fruitless Mr. Dole.,0.0,0.0,13.0,13.0,1.0,0.08006407690254358,6109,520
 Tell me more about your Mama.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
 "So, how did you decide on yellow?",0.0,0.0,14.0,14.0,1.0,0.07412493166611013,6109,520
@@ -6644,4 +6644,3 @@ The banana peel is challenged.,0.0,0.0,17.0,17.0,1.0,0.060633906259083235,6109,5
 O. M. G! Now I need therapy–and a huge fruit salad...,0.0,0.0,14.0,14.0,1.0,0.07412493166611013,6109,520
 I get this rush when someone slips on me and cries out in pain. Is that normal?,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,6109,520
 "Mr. Candidate for the President, what happened to your brain?",0.0,0.0,20.0,20.0,1.0,0.051298917604257706,6109,520
-,0.0,0.0,0.0,0.0,,,6646,520

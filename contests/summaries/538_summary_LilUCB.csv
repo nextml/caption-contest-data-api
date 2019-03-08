@@ -5,7 +5,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4,"First of all, I'd like to apologize for the whole laser light thing.",1.7757757757757755,0.024932658158073925,999.0,447.0,329.0,223.0,538
 5,"I may be a little prick, but at least I'm not a giant pussy.",1.7593406593406593,0.027647600382879958,910.0,452.0,225.0,233.0,538
 6,Don't forget I'm still the only one who knows how to operate the can opener.,1.741161616161616,0.027678451892314347,792.0,369.0,259.0,164.0,538
-7,"Kids, stay in the thimble.",1.733231707317073,0.03037022336564402,656.0,309.0,213.0,134.0,538
+7,"Kids, stay in the thimble.",1.7332317073170733,0.03037022336564402,656.0,309.0,213.0,134.0,538
 8,"If you are going to rip-up the sofa, you are going to learn how to fix it!",1.6978851963746224,0.029684234763884095,662.0,323.0,216.0,123.0,538
 9,Kill me and the can opener dies with me.,1.6587591240875912,0.03242655895740811,548.0,283.0,169.0,96.0,538
 10,"If you eat me, you won't have anyone around to ignore anymore.",1.6501901140684407,0.031935283383464116,526.0,265.0,180.0,81.0,538
@@ -17,7 +17,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 16,"Seriously, you'll just cough me up.",1.585,0.0360233494314542,400.0,221.0,124.0,55.0,538
 17,One of us is having a bad dream.,1.5672043010752688,0.03838234554346958,372.0,217.0,99.0,56.0,538
 18,"""Honey...was the cat food made by Monsanto?",1.5636856368563683,0.03883098931549855,369.0,218.0,94.0,57.0,538
-19,"It was then that Bill realized he had made a terrible mistake wishing for ""a ton of pussy.""",1.5441176470588236,0.041061973630294984,340.0,210.0,75.0,55.0,538
+19,"It was then that Bill realized he had made a terrible mistake wishing for ""a ton of pussy.""",1.5441176470588236,0.04106197363029498,340.0,210.0,75.0,55.0,538
 20,"So that would be a no on the cat sweater, then.",1.5347432024169183,0.039258723832808574,331.0,197.0,91.0,43.0,538
 21,I thought I'd sew a pussycat.,1.5292307692307692,0.043030092574540005,325.0,210.0,58.0,57.0,538
 22,"Easy now, kitty. How about we work together until we figure out whose dream this is.",1.5251572327044025,0.03975236598663372,318.0,191.0,87.0,40.0,538
@@ -29,7 +29,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 27,Looks like my wish for a shrink may have been misinterpreted.,1.5067114093959733,0.038690076049781134,298.0,176.0,93.0,29.0,538
 29,Remember how everyone was saying you should be neutered but I said no?,1.5066666666666666,0.039078953706781834,300.0,179.0,90.0,31.0,538
 29,Don't make me call the dog.,1.5066666666666666,0.0402038654728559,300.0,183.0,82.0,35.0,538
-31,Keep in mind I only get one life.,1.5017064846416381,0.04091860186467761,293.0,181.0,77.0,35.0,538
+31,Keep in mind I only get one life.,1.501706484641638,0.04091860186467761,293.0,181.0,77.0,35.0,538
 32,"“If you stop calling me, “a little man”, I will stop calling you, “a big pussy”.",1.4982817869415808,0.04309799745561107,291.0,188.0,61.0,42.0,538
 33,Small Lives Matter,1.4965277777777777,0.040859861221285015,288.0,178.0,77.0,33.0,538
 33,Calm down. It's the catnip talking.,1.4965277777777777,0.04056268714575671,288.0,177.0,79.0,32.0,538
@@ -46,7 +46,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 45,"When the sign said 'World's Biggest Cathouse', I guess I misunderstood.",1.4541832669322712,0.04266483993698026,251.0,163.0,62.0,26.0,538
 46,This situation has gotten completely out of proportion.,1.4538152610441768,0.042151706343648496,249.0,160.0,65.0,24.0,538
 47,I guess you're not a person-cat.,1.4516129032258065,0.04340752301211286,248.0,163.0,58.0,27.0,538
-48,You have nine lives and I have ten needles. Any questions?,1.4489795918367347,0.04416661572685247,245.0,163.0,54.0,28.0,538
+48,You have nine lives and I have ten needles. Any questions?,1.4489795918367347,0.044166615726852466,245.0,163.0,54.0,28.0,538
 48,"If you'd just work with me, I think we have a best selling children's book here.",1.4489795918367347,0.0426247102436088,245.0,159.0,62.0,24.0,538
 50,"Look, neither of us want an alteration",1.4467213114754098,0.045787865812054254,244.0,167.0,45.0,32.0,538
 50,I have GOT to start reading the list of side effects with my medication.,1.4467213114754098,0.04194299728686055,244.0,157.0,65.0,22.0,538
@@ -80,7 +80,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 78,Oh yeah? Good luck working the can opener.,1.4196428571428572,0.04304474607579383,224.0,149.0,56.0,19.0,538
 78,"Honey, would you mind putting Precious outside for a while?",1.4196428571428572,0.043507339629411855,224.0,150.0,54.0,20.0,538
 81,This was much more fun when you were a kitten.,1.4170403587443947,0.040751843822727216,223.0,144.0,65.0,14.0,538
-82,"Honey, the cat's outta the bag...",1.4136363636363636,0.04209121795672279,220.0,145.0,59.0,16.0,538
+82,"Honey, the cat's outta the bag...",1.4136363636363636,0.042091217956722785,220.0,145.0,59.0,16.0,538
 82,"Honey, I think we can leave the debate over 'shrank' or 'shrunk' for another day.",1.4136363636363636,0.04541197674607562,220.0,152.0,45.0,23.0,538
 82,It said 'condensed milk.' Who knew?,1.4136363636363636,0.04495260428018607,220.0,151.0,47.0,22.0,538
 85,"""Take shrinking,"" they said. ""It's the best super power,"" they said.",1.4109589041095891,0.044139067400198434,219.0,149.0,50.0,20.0,538
@@ -93,14 +93,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 92,Last time I take LSD.,1.4088669950738917,0.046078220926605684,203.0,139.0,45.0,19.0,538
 93,I should have known the genie would confuse my wish for a ton of pussy.,1.408256880733945,0.04703735696275708,218.0,155.0,37.0,26.0,538
 93,Alice! Where's the pill that makes you larger?,1.408256880733945,0.0442588447563642,218.0,149.0,49.0,20.0,538
-93,"Well, I didn't try to eat you when I was the bigger one.",1.408256880733945,0.04792774582987527,218.0,157.0,33.0,28.0,538
+93,"Well, I didn't try to eat you when I was the bigger one.",1.408256880733945,0.047927745829875266,218.0,157.0,33.0,28.0,538
 96,"I may be a big pussy, but I'm not afraid of a little prick.",1.4074074074074074,0.04550135778708484,216.0,150.0,44.0,22.0,538
 96,This is the last time I house sit for Stephen King's cat!,1.4074074074074074,0.04256730702841993,216.0,144.0,56.0,16.0,538
 96,I know this is a dream because I don't sew.,1.4074074074074074,0.04256730702841993,216.0,144.0,56.0,16.0,538
 99,You're not what I told the genie I wanted lots of!,1.4046511627906977,0.04840317995278416,215.0,156.0,31.0,28.0,538
 99,"Honey, the cat hasn't forgotten we had him neutered.",1.4046511627906977,0.044666736398773096,215.0,148.0,47.0,20.0,538
 99,This is going to hurt me more than it does you.,1.4046511627906977,0.0474966336416127,215.0,154.0,35.0,26.0,538
-102,"Tell me where the ball of yarn is, and nobody gets hurt",1.400943396226415,0.04458513727380178,212.0,146.0,47.0,19.0,538
+102,"Tell me where the ball of yarn is, and nobody gets hurt",1.400943396226415,0.044585137273801784,212.0,146.0,47.0,19.0,538
 103,"THIS was the point of my bringing the sewing kit in, kitten.",1.4,0.04637705924825156,210.0,148.0,40.0,22.0,538
 103,Why do I always have to be Androcles?,1.4,0.04385190179924178,210.0,143.0,50.0,17.0,538
 105,Stop being such a big pussy and let me get that splinter.,1.3981042654028435,0.04716260680472927,211.0,151.0,36.0,24.0,538
@@ -120,7 +120,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 119,It's time for the fat cats to answer to the little guys.,1.3861386138613858,0.04959845364107962,202.0,150.0,26.0,26.0,538
 119,C'mon. You're blowing this whole thing out of proportion.,1.3861386138613858,0.04207594803043968,202.0,136.0,54.0,12.0,538
 121,"Just remember, I'm the only one who knows where the Friskies are kept!",1.3830845771144278,0.04390811515168759,201.0,139.0,47.0,15.0,538
-121,Sorry about that whole neutering thing,1.3830845771144278,0.043337874110214065,201.0,138.0,49.0,14.0,538
+121,Sorry about that whole neutering thing,1.3830845771144278,0.04333787411021407,201.0,138.0,49.0,14.0,538
 121,"Hey, I think I hear the sound of the can opener!",1.3830845771144278,0.040977632401938316,201.0,134.0,57.0,10.0,538
 124,I'm done playing cat and mouse.,1.3819095477386936,0.04362131363676786,199.0,137.0,48.0,14.0,538
 124,Now do something cute for the Internet.,1.3819095477386936,0.04362131363676786,199.0,137.0,48.0,14.0,538
@@ -183,19 +183,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 182,How's that cerebral cortex and opposable thumbs working out for you NOW!,1.3532608695652173,0.046253702014598434,184.0,134.0,35.0,15.0,538
 182,"See, this is why I'm a dog person.",1.3532608695652173,0.04689137960540127,184.0,135.0,33.0,16.0,538
 182,Okay! I'm sorry about the neutering thing!,1.3532608695652173,0.046253702014598434,184.0,134.0,35.0,15.0,538
-182,"I was against having you fixed, remember?",1.3532608695652173,0.04360984779937858,184.0,130.0,43.0,11.0,538
+182,"I was against having you fixed, remember?",1.3532608695652173,0.043609847799378584,184.0,130.0,43.0,11.0,538
 182,"Okay, things seemed to have changed since last night, but I'm still in charge.",1.3532608695652173,0.047520500971058977,184.0,136.0,31.0,17.0,538
 182,"Personally, I think you are blowing this little sliver in your paw WAY out of proportion.",1.3532608695652173,0.04428561116578995,184.0,131.0,41.0,12.0,538
-182,You should try it. The dog crochets.,1.3532608695652173,0.044951216752943585,184.0,132.0,39.0,13.0,538
+182,You should try it. The dog crochets.,1.3532608695652173,0.04495121675294359,184.0,132.0,39.0,13.0,538
 182,Oh relax. You should be able to take a little needling.,1.3532608695652173,0.048141401556072216,184.0,137.0,29.0,18.0,538
 190,"If you don't kill me, the vet bills will.",1.3526011560693645,0.04691423385365367,173.0,125.0,35.0,13.0,538
 191,Taxidermy looked so much easier online.,1.349726775956284,0.04764857088030682,183.0,136.0,30.0,17.0,538
 191,Calm down - you took some bad catnip.,1.349726775956284,0.0415925851990669,183.0,127.0,48.0,8.0,538
-193,"It's not fair. You're bigger, stronger and you have nine lives.",1.3480662983425415,0.045372688746795266,181.0,131.0,37.0,13.0,538
-193,"Nevertheless, you see my point.",1.3480662983425415,0.045372688746795266,181.0,131.0,37.0,13.0,538
+193,"It's not fair. You're bigger, stronger and you have nine lives.",1.3480662983425415,0.04537268874679527,181.0,131.0,37.0,13.0,538
+193,"Nevertheless, you see my point.",1.3480662983425415,0.04537268874679527,181.0,131.0,37.0,13.0,538
 193,"OK, OK...A cat is man's best friend.",1.3480662983425415,0.040360493117383066,181.0,124.0,51.0,6.0,538
 193,No more GMO cat-nip for you!,1.3480662983425415,0.04469109005057415,181.0,130.0,39.0,12.0,538
-193,I'm sorry about all those YouTube videos of you that I posted.,1.3480662983425415,0.045372688746795266,181.0,131.0,37.0,13.0,538
+193,I'm sorry about all those YouTube videos of you that I posted.,1.3480662983425415,0.04537268874679527,181.0,131.0,37.0,13.0,538
 193,Exactly what did you do with Thumbelina?,1.3480662983425415,0.04258088147623798,181.0,127.0,45.0,9.0,538
 193,"Don't you recognize me? Before that damned genie showed up, I'm the one that fed you every day and cleaned out your litter box!",1.3480662983425415,0.046044198747709736,181.0,132.0,35.0,14.0,538
 193,Please tell me you’re litter trained.,1.3480662983425415,0.0439989338018945,181.0,129.0,41.0,11.0,538
@@ -220,7 +220,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 219,You're right. I lied. I knew she made the salmon for you and I ate it anyway.,1.3426966292134832,0.04716810754513311,178.0,132.0,31.0,15.0,538
 219,"Just remember you're a living organism on this planet, and you're very safe. You've just taken catnip, a heavy drug. Relax, stay inside and listen to some music, Okay? Do you have any Allman Brothers?",1.3426966292134832,0.04439493756177605,178.0,128.0,39.0,11.0,538
 219,"When I said I was making a calico quilt, don’t worry, I didn’t mean you.",1.3426966292134832,0.04849526073264136,178.0,134.0,27.0,17.0,538
-219,I think someone put catnip in my LSD.,1.3426966292134832,0.040663381816690214,178.0,123.0,49.0,6.0,538
+219,I think someone put catnip in my LSD.,1.3426966292134832,0.04066338181669021,178.0,123.0,49.0,6.0,538
 219,"Hey, look over there! A laser dot!",1.3426966292134832,0.04716810754513311,178.0,132.0,31.0,15.0,538
 219,I think this is gonna hurt me more than its gonna hurt you.,1.3426966292134832,0.0491453994346946,178.0,135.0,25.0,18.0,538
 219,"Let's keep this in perspective, shall we!",1.3426966292134832,0.042941245172635235,178.0,126.0,43.0,9.0,538
@@ -251,17 +251,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 244,I can only imagine how this looks from your perspective...,1.3333333333333333,0.04489287208837785,174.0,127.0,36.0,11.0,538
 244,"Relax, you're already neutered.",1.3333333333333333,0.04261511070239779,174.0,124.0,42.0,8.0,538
 244,Do you really think I'm afraid of a little prick?,1.3333333333333333,0.04634923408702686,174.0,129.0,32.0,13.0,538
-244,Curiosity killed the man,1.3333333333333333,0.04414667820219519,174.0,126.0,38.0,10.0,538
+244,Curiosity killed the man,1.3333333333333333,0.044146678202195186,174.0,126.0,38.0,10.0,538
 244,Don't make me mix metaphors.,1.3333333333333333,0.04634923408702686,174.0,129.0,32.0,13.0,538
 244,"For Pete's sake, I'm a man, not a mouse.",1.3333333333333333,0.04562686415258816,174.0,128.0,34.0,12.0,538
 256,I know this is going to sound weird... but can you help me come up with a caption for what we're doing here?,1.3313953488372092,0.046687668350930536,172.0,128.0,31.0,13.0,538
 256,You mis-heard me. I said cats are in a basket of ADORABLES.,1.3313953488372092,0.04741031356203872,172.0,129.0,29.0,14.0,538
 256,This pussy isn't afraid of a little prick!,1.3313953488372092,0.049515009846145534,172.0,132.0,23.0,17.0,538
-256,"Okay, I get it. You don't like chasing the laser pointer.",1.3313953488372092,0.04289220320786426,172.0,123.0,41.0,8.0,538
+256,"Okay, I get it. You don't like chasing the laser pointer.",1.3313953488372092,0.042892203207864264,172.0,123.0,41.0,8.0,538
 256,Calm down. It's not catgut.,1.3313953488372092,0.04520773677190418,172.0,126.0,35.0,11.0,538
 256,I feel like Roald Dahl would know what to do in my situation,1.3313953488372092,0.04444929704768598,172.0,125.0,37.0,10.0,538
 256,"I know you probably don't want to hear this right now, but a stitch in time does save nine.",1.3313953488372092,0.04520773677190418,172.0,126.0,35.0,11.0,538
-256,I think there's a nursery rhyme in here somewhere.,1.3313953488372092,0.04289220320786426,172.0,123.0,41.0,8.0,538
+256,I think there's a nursery rhyme in here somewhere.,1.3313953488372092,0.042892203207864264,172.0,123.0,41.0,8.0,538
 256,"Honey, I think I took the wrong pills this morning.",1.3313953488372092,0.04367768940808423,172.0,124.0,39.0,9.0,538
 256,"I've got a threaded needle, and I'm not afraid to use it.",1.3313953488372092,0.04367768940808423,172.0,124.0,39.0,9.0,538
 256,"I have to clean your dirty litter, and you're the one who's pissed?",1.3313953488372092,0.04209206148456463,172.0,122.0,43.0,7.0,538
@@ -303,7 +303,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 302,No; I don't use Cat Gut.,1.3109756097560976,0.04623334529222424,164.0,124.0,29.0,11.0,538
 302,It's just a sliver. Don't be such a big pussy.,1.3109756097560976,0.04623334529222424,164.0,124.0,29.0,11.0,538
 302,"You got your wish, smarty; so who's going to operate the can opener so you can get fed?",1.3109756097560976,0.04373867990289973,164.0,121.0,35.0,8.0,538
-302,"No, you are not a ""fat cat."" You are ""plus size.""",1.3109756097560976,0.04199331758118013,164.0,119.0,39.0,6.0,538
+302,"No, you are not a ""fat cat."" You are ""plus size.""",1.3109756097560976,0.041993317581180134,164.0,119.0,39.0,6.0,538
 302,"Much to the chagrin of his father, Tom Thumb ultimately dropped out of his veterinary medicine program and went on to pursue a career in the arts.",1.3109756097560976,0.04782421578117623,164.0,126.0,25.0,13.0,538
 302,"Laser pointer trick isn’t so funny now little man, is it?",1.3109756097560976,0.04623334529222424,164.0,124.0,29.0,11.0,538
 302,This'll hurt me more than it will you.,1.3109756097560976,0.04936384317756245,164.0,128.0,21.0,15.0,538
@@ -320,7 +320,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 302,"""I know what you're thinking: have I gone through eight lives, or only seven?",1.3109756097560976,0.04782421578117623,164.0,126.0,25.0,13.0,538
 302,"I may be tiny, but I'm the one with opposable thumbs.",1.3109756097560976,0.04373867990289973,164.0,121.0,35.0,8.0,538
 321,That's all you got? 'MEOW?',1.3090909090909093,0.04599092250979997,165.0,125.0,29.0,11.0,538
-322,No more needlepoint until you catch those mice.,1.308641975308642,0.048978485107978066,162.0,126.0,22.0,14.0,538
+322,No more needlepoint until you catch those mice.,1.308641975308642,0.04897848510797807,162.0,126.0,22.0,14.0,538
 322,Whose nightmare is this?,1.308641975308642,0.04574021271339177,162.0,122.0,30.0,10.0,538
 322,Why couldn't you be this good at cornering mice?,1.308641975308642,0.041337160988131436,162.0,117.0,40.0,5.0,538
 322,Everyone gets out alive. It's a Disney production.,1.308641975308642,0.04818932213022822,162.0,125.0,24.0,13.0,538
@@ -346,24 +346,24 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 331,"Trust me, this video is going viral",1.3043478260869563,0.04042042087832036,161.0,116.0,41.0,4.0,538
 331,"I may be small, but the Rotweiler just came up behind you.",1.3043478260869563,0.0440950045945313,161.0,120.0,33.0,8.0,538
 331,I'm tired of playing cat and mouse.,1.3043478260869563,0.04666142609104571,161.0,123.0,27.0,11.0,538
-348,(Just a typical day for a member of America's shrinking middle class.),1.3018867924528301,0.04348733785309519,159.0,118.0,34.0,7.0,538
-348,"Look, I am not ""The Brave little tailor"", and you are NOT ""Puss in Boots""",1.3018867924528301,0.04784564800532317,159.0,123.0,24.0,12.0,538
-348,"Go ahead, make my day.",1.3018867924528301,0.04784564800532317,159.0,123.0,24.0,12.0,538
-348,"En garde, fluffy.",1.3018867924528301,0.04439324328599177,159.0,119.0,32.0,8.0,538
-348,"Honey. Call the pet store, NOW!",1.3018867924528301,0.04700632443777409,159.0,122.0,26.0,11.0,538
-348,Remember this going to hurt me a lot more than you.,1.3018867924528301,0.048670499575711096,159.0,124.0,22.0,13.0,538
-348,Yeah it's Cat Gut!,1.3018867924528301,0.04700632443777409,159.0,122.0,26.0,11.0,538
-348,I'll clean the litter box when I damn well please!,1.3018867924528301,0.04784564800532317,159.0,123.0,24.0,12.0,538
-348,I regret not getting you declawed when I had the chance.,1.3018867924528301,0.04348733785309519,159.0,118.0,34.0,7.0,538
-348,I knew I should have had you declawed.,1.3018867924528301,0.04615173930903655,159.0,121.0,28.0,10.0,538
-348,I won't use catgut!,1.3018867924528301,0.04700632443777409,159.0,122.0,26.0,11.0,538
-348,"I may be small, but at least I'm not a pussy.",1.3018867924528301,0.04784564800532317,159.0,123.0,24.0,12.0,538
-348,I wish we had you de-clawed before the power plant blew up.,1.3018867924528301,0.04700632443777409,159.0,122.0,26.0,11.0,538
-348,"Ok, I had you neutered. You scratched my teak coffee table. That's even in my book.",1.3018867924528301,0.04615173930903655,159.0,121.0,28.0,10.0,538
-348,Maybe we don't need to spay you after all?,1.3018867924528301,0.04700632443777409,159.0,122.0,26.0,11.0,538
-348,"I'm sorry, but you need to floss.",1.3018867924528301,0.04784564800532317,159.0,123.0,24.0,12.0,538
-348,"Fine, I'll start buying the premium cat food!",1.3018867924528301,0.04161640976525041,159.0,116.0,38.0,5.0,538
-348,This is going to hurt me more than you,1.3018867924528301,0.0510651742056102,159.0,127.0,16.0,16.0,538
+348,(Just a typical day for a member of America's shrinking middle class.),1.30188679245283,0.043487337853095186,159.0,118.0,34.0,7.0,538
+348,"Look, I am not ""The Brave little tailor"", and you are NOT ""Puss in Boots""",1.30188679245283,0.04784564800532317,159.0,123.0,24.0,12.0,538
+348,"Go ahead, make my day.",1.30188679245283,0.04784564800532317,159.0,123.0,24.0,12.0,538
+348,"En garde, fluffy.",1.30188679245283,0.04439324328599177,159.0,119.0,32.0,8.0,538
+348,"Honey. Call the pet store, NOW!",1.30188679245283,0.04700632443777409,159.0,122.0,26.0,11.0,538
+348,Remember this going to hurt me a lot more than you.,1.30188679245283,0.048670499575711096,159.0,124.0,22.0,13.0,538
+348,Yeah it's Cat Gut!,1.30188679245283,0.04700632443777409,159.0,122.0,26.0,11.0,538
+348,I'll clean the litter box when I damn well please!,1.30188679245283,0.04784564800532317,159.0,123.0,24.0,12.0,538
+348,I regret not getting you declawed when I had the chance.,1.30188679245283,0.043487337853095186,159.0,118.0,34.0,7.0,538
+348,I knew I should have had you declawed.,1.30188679245283,0.04615173930903655,159.0,121.0,28.0,10.0,538
+348,I won't use catgut!,1.30188679245283,0.04700632443777409,159.0,122.0,26.0,11.0,538
+348,"I may be small, but at least I'm not a pussy.",1.30188679245283,0.04784564800532317,159.0,123.0,24.0,12.0,538
+348,I wish we had you de-clawed before the power plant blew up.,1.30188679245283,0.04700632443777409,159.0,122.0,26.0,11.0,538
+348,"Ok, I had you neutered. You scratched my teak coffee table. That's even in my book.",1.30188679245283,0.04615173930903655,159.0,121.0,28.0,10.0,538
+348,Maybe we don't need to spay you after all?,1.30188679245283,0.04700632443777409,159.0,122.0,26.0,11.0,538
+348,"I'm sorry, but you need to floss.",1.30188679245283,0.04784564800532317,159.0,123.0,24.0,12.0,538
+348,"Fine, I'll start buying the premium cat food!",1.30188679245283,0.04161640976525041,159.0,116.0,38.0,5.0,538
+348,This is going to hurt me more than you,1.30188679245283,0.0510651742056102,159.0,127.0,16.0,16.0,538
 366,"Look, you're not making this fitting any easier.",1.301282051282051,0.04494263579716196,156.0,117.0,31.0,8.0,538
 367,"Look, basically we're both giant pussies.",1.2974683544303798,0.04709533892254246,158.0,122.0,25.0,11.0,538
 367,"C'mon, you big pussy!",1.2974683544303798,0.04709533892254246,158.0,122.0,25.0,11.0,538
@@ -376,15 +376,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 367,Stop playing with your food!,1.2974683544303798,0.04623143187427462,158.0,121.0,27.0,10.0,538
 376,I never thought I'd say no to pussy.,1.294871794871795,0.04915998150394331,156.0,123.0,20.0,13.0,538
 376,"Steve, be reasonable. Put the needle down. It was always going to end this way.",1.294871794871795,0.04744763228645306,156.0,121.0,24.0,11.0,538
-376,"In this final moment of clarity, Alice's tailor regretted several of his decisions.",1.294871794871795,0.04567112695908519,156.0,119.0,28.0,9.0,538
-376,"Well, you're not ignoring me anymore, so at least there's that.",1.294871794871795,0.040893604732511864,156.0,114.0,38.0,4.0,538
+376,"In this final moment of clarity, Alice's tailor regretted several of his decisions.",1.294871794871795,0.045671126959085186,156.0,119.0,28.0,9.0,538
+376,"Well, you're not ignoring me anymore, so at least there's that.",1.294871794871795,0.04089360473251186,156.0,114.0,38.0,4.0,538
 376,It'll hurt me more than it'll hurt you,1.294871794871795,0.04744763228645306,156.0,121.0,24.0,11.0,538
 376,This is exactly why I threw out your catnip stash in the first place.,1.294871794871795,0.046567851825606806,156.0,120.0,26.0,10.0,538
 376,Don't make me call my best friend.,1.294871794871795,0.0438226638377369,156.0,117.0,32.0,7.0,538
 376,I think you're blowing this out of proportion.,1.294871794871795,0.04475643922134653,156.0,118.0,30.0,8.0,538
 376,It's just a splinter. Don't be a pussy.,1.294871794871795,0.04999416733386846,156.0,124.0,18.0,14.0,538
-376,"So, that's a 'no' on the pumpkin costume for Halloween this year?",1.294871794871795,0.04567112695908519,156.0,119.0,28.0,9.0,538
-376,Don't make me get the knitting needles.,1.294871794871795,0.04567112695908519,156.0,119.0,28.0,9.0,538
+376,"So, that's a 'no' on the pumpkin costume for Halloween this year?",1.294871794871795,0.045671126959085186,156.0,119.0,28.0,9.0,538
+376,Don't make me get the knitting needles.,1.294871794871795,0.045671126959085186,156.0,119.0,28.0,9.0,538
 387,*Not drawn to scale*,1.2903225806451613,0.04926586469355507,155.0,123.0,19.0,13.0,538
 387,I know the situation has changed a bit between us but you can't be still upset about the laser pointer.,1.2903225806451613,0.048408039037357235,155.0,122.0,21.0,12.0,538
 387,This will go viral.,1.2903225806451613,0.042902391076419716,155.0,116.0,33.0,6.0,538
@@ -415,25 +415,25 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 406,I'm gonna need a bigger needle!,1.2875816993464049,0.04317268249474997,153.0,115.0,32.0,6.0,538
 415,It wasn't my idea to get you neutered.,1.2857142857142858,0.044865648136121684,154.0,118.0,28.0,8.0,538
 416,Imagine the trouble you'll be in when I wake up.,1.2828947368421053,0.04517284411080173,152.0,117.0,27.0,8.0,538
-416,"God, I thought you couldn't get any bossier.",1.2828947368421053,0.046127261145655185,152.0,118.0,25.0,9.0,538
+416,"God, I thought you couldn't get any bossier.",1.2828947368421053,0.04612726114565519,152.0,118.0,25.0,9.0,538
 416,"If you can strike that pose every time, we're gonna be really big in Vegas.",1.2828947368421053,0.04218021713833117,152.0,114.0,33.0,5.0,538
 416,"Just so you know, I wasn't the one who saran wrapped the litter box.",1.2828947368421053,0.0470623267225511,152.0,119.0,23.0,10.0,538
 416,"It's a play on words, stupid. ""Darn cat!""",1.2828947368421053,0.0470623267225511,152.0,119.0,23.0,10.0,538
 416,"Sure I'm domesticated, but don't push your luck.",1.2828947368421053,0.04218021713833117,152.0,114.0,33.0,5.0,538
 416,So you lost your mittens. No need for a hissing fit.,1.2828947368421053,0.04517284411080173,152.0,117.0,27.0,8.0,538
-416,This is what we get for living near power lines!,1.2828947368421053,0.046127261145655185,152.0,118.0,25.0,9.0,538
-416,"Don't worry, I know a guy who got a camel through.",1.2828947368421053,0.046127261145655185,152.0,118.0,25.0,9.0,538
+416,This is what we get for living near power lines!,1.2828947368421053,0.04612726114565519,152.0,118.0,25.0,9.0,538
+416,"Don't worry, I know a guy who got a camel through.",1.2828947368421053,0.04612726114565519,152.0,118.0,25.0,9.0,538
 416,"Touché, Pussycat.",1.2828947368421053,0.0470623267225511,152.0,119.0,23.0,10.0,538
-416,Darn Kitty,1.2828947368421053,0.046127261145655185,152.0,118.0,25.0,9.0,538
+416,Darn Kitty,1.2828947368421053,0.04612726114565519,152.0,118.0,25.0,9.0,538
 416,"On the other hand, have you ever seen a 3 inch talking mouse carrying a threaded needle?",1.2828947368421053,0.04320079968678175,152.0,115.0,31.0,6.0,538
 416,HONEY! You forgot to shrink the cat!,1.2828947368421053,0.04517284411080173,152.0,117.0,27.0,8.0,538
 416,"Once you're trained, your going to be an internet sensation. You're gonna be huge!",1.2828947368421053,0.04419782199744823,152.0,116.0,29.0,7.0,538
 416,"Watch out, this is threaded!",1.2828947368421053,0.04320079968678175,152.0,115.0,31.0,6.0,538
-416,I told them this would happen if they took away our guns.,1.2828947368421053,0.046127261145655185,152.0,118.0,25.0,9.0,538
+416,I told them this would happen if they took away our guns.,1.2828947368421053,0.04612726114565519,152.0,118.0,25.0,9.0,538
 416,You're still a big pussy.,1.2828947368421053,0.0470623267225511,152.0,119.0,23.0,10.0,538
-416,"When I figure out how to take that 'large' pill, you are so declawed.",1.2828947368421053,0.046127261145655185,152.0,118.0,25.0,9.0,538
+416,"When I figure out how to take that 'large' pill, you are so declawed.",1.2828947368421053,0.04612726114565519,152.0,118.0,25.0,9.0,538
 416,And here I thought Aunt Nancy was the one who would get eaten by her cats.,1.2828947368421053,0.0470623267225511,152.0,119.0,23.0,10.0,538
-416,Where's a laser pointer when you really need one?,1.2828947368421053,0.046127261145655185,152.0,118.0,25.0,9.0,538
+416,Where's a laser pointer when you really need one?,1.2828947368421053,0.04612726114565519,152.0,118.0,25.0,9.0,538
 416,"Well, you're not a camel, but then again, I'm not a rich man.",1.2828947368421053,0.04797917227590346,152.0,120.0,21.0,11.0,538
 416,You've been feeding at Russia's Olympic training table?,1.2828947368421053,0.0470623267225511,152.0,119.0,23.0,10.0,538
 438,"Kids put down the shrink ray, NOW!",1.28,0.043473358346302636,150.0,114.0,30.0,6.0,538
@@ -508,9 +508,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 489,I thought those mushrooms I foraged looked odd.,1.272108843537415,0.0415856427340037,147.0,111.0,32.0,4.0,538
 489,"Of course it's sharp, but that's not the point.",1.272108843537415,0.04482108389973243,147.0,114.0,26.0,7.0,538
 489,"Well, now you know what it feels like.",1.272108843537415,0.04482108389973243,147.0,114.0,26.0,7.0,538
-489,"Back off, Mittens. I don't know where your stupid ball of yarn is.",1.272108843537415,0.042691376666907185,147.0,112.0,30.0,5.0,538
+489,"Back off, Mittens. I don't know where your stupid ball of yarn is.",1.272108843537415,0.04269137666690719,147.0,112.0,30.0,5.0,538
 489,Dang! That genie did warn me about wording my three wishes very carefully.,1.272108843537415,0.046854087144858135,147.0,116.0,22.0,9.0,538
-489,"Don't worry it's nylon thread, not cat's gut.",1.272108843537415,0.042691376666907185,147.0,112.0,30.0,5.0,538
+489,"Don't worry it's nylon thread, not cat's gut.",1.272108843537415,0.04269137666690719,147.0,112.0,30.0,5.0,538
 513,I was just measuring your inseam.,1.2714285714285714,0.05153637211580678,140.0,114.0,14.0,12.0,538
 514,So this is what the brown acid I got at Woodstock was all about.,1.2702702702702702,0.044555159261554095,148.0,115.0,26.0,7.0,538
 514,You got to ask yourself one question... am I feline lucky?,1.2702702702702702,0.04754942909114845,148.0,118.0,20.0,10.0,538
@@ -543,20 +543,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 539,"What do you mean, I look like a mouse?",1.2653061224489797,0.04561319813620343,147.0,116.0,23.0,8.0,538
 543,"""Me ow?"" You ow.",1.2638888888888888,0.0482664828977629,144.0,116.0,18.0,10.0,538
 543,Now who's the fuzzy snugglekins?,1.2638888888888888,0.044058517710195935,144.0,112.0,26.0,6.0,538
-543,"I'm sorry I called them ""canine teeth."" They still need cleaning.",1.2638888888888888,0.046210422818557334,144.0,114.0,22.0,8.0,538
+543,"I'm sorry I called them ""canine teeth."" They still need cleaning.",1.2638888888888888,0.04621042281855733,144.0,114.0,22.0,8.0,538
 543,"Ibricadibra? No, Urbicadurba? Nuts! What’s my password?",1.2638888888888888,0.04294214579750938,144.0,111.0,28.0,5.0,538
 543,"You told the genie, ""Diminish my husband, show me nice threads and wrap me in fur.""",1.2638888888888888,0.04926234331053625,144.0,117.0,16.0,11.0,538
-543,It's only fair to tell you that the pin is mightier than the claw.,1.2638888888888888,0.046210422818557334,144.0,114.0,22.0,8.0,538
-543,"Feeling frisky, punk?",1.2638888888888888,0.046210422818557334,144.0,114.0,22.0,8.0,538
-543,I'm in sew much trouble.,1.2638888888888888,0.046210422818557334,144.0,114.0,22.0,8.0,538
-543,I promise to never complain about your butt in my face again.,1.2638888888888888,0.04724963782078061,144.0,115.0,20.0,9.0,538
+543,It's only fair to tell you that the pin is mightier than the claw.,1.2638888888888888,0.04621042281855733,144.0,114.0,22.0,8.0,538
+543,"Feeling frisky, punk?",1.2638888888888888,0.04621042281855733,144.0,114.0,22.0,8.0,538
+543,I'm in sew much trouble.,1.2638888888888888,0.04621042281855733,144.0,114.0,22.0,8.0,538
+543,I promise to never complain about your butt in my face again.,1.2638888888888888,0.047249637820780614,144.0,115.0,20.0,9.0,538
 543,Maybe it will heal without stitches,1.2638888888888888,0.04294214579750938,144.0,111.0,28.0,5.0,538
 543,"You see, opposable thumbs still beat claws",1.2638888888888888,0.0451472931629876,144.0,113.0,24.0,7.0,538
 543,"""Last time I date a 'cat lady'"".",1.2638888888888888,0.044058517710195935,144.0,112.0,26.0,6.0,538
 543,We're going to need a bigger spool.,1.2638888888888888,0.044058517710195935,144.0,112.0,26.0,6.0,538
 543,"No, seriously, we haven't used cat gut for years now.",1.2638888888888888,0.04294214579750938,144.0,111.0,28.0,5.0,538
-543,"Honey, you're not you when you're hungry. You should eat a snickers.",1.2638888888888888,0.04724963782078061,144.0,115.0,20.0,9.0,538
-543,Scratch the furniture! Scratch the furniture!,1.2638888888888888,0.04724963782078061,144.0,115.0,20.0,9.0,538
+543,"Honey, you're not you when you're hungry. You should eat a snickers.",1.2638888888888888,0.047249637820780614,144.0,115.0,20.0,9.0,538
+543,Scratch the furniture! Scratch the furniture!,1.2638888888888888,0.047249637820780614,144.0,115.0,20.0,9.0,538
 543,I promise you it's not catgut!,1.2638888888888888,0.0451472931629876,144.0,113.0,24.0,7.0,538
 560,A stich in time saves 9. You are on your 8th life. Think about it.,1.2635135135135136,0.044314025996588666,148.0,116.0,25.0,7.0,538
 561,"FYI, Your litterbox does not clean itself.",1.2627737226277371,0.0477825970113275,137.0,109.0,20.0,8.0,538
@@ -587,7 +587,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 585,'A stitch in time saves nine.' Where do you want it?,1.2569444444444444,0.04267034486824543,144.0,112.0,27.0,5.0,538
 585,Me ow? No--You ow!,1.2569444444444444,0.04267034486824543,144.0,112.0,27.0,5.0,538
 588,I certainly hope I wake up soon.,1.255813953488372,0.049560898653272935,129.0,104.0,17.0,8.0,538
-589,"C'mon ya big pussy, hold still and I'll get that splinter out.",1.25531914893617,0.04656841805556058,141.0,113.0,20.0,8.0,538
+589,"C'mon ya big pussy, hold still and I'll get that splinter out.",1.25531914893617,0.046568418055560584,141.0,113.0,20.0,8.0,538
 589,"Honestly, I'm a tailor not a vet.",1.25531914893617,0.04076802604037715,141.0,108.0,30.0,3.0,538
 589,How was I supposed to know it was catgut?,1.25531914893617,0.0454675756732613,141.0,112.0,22.0,7.0,538
 589,"I told you, my name is Thumb. I bought this house from the Mouse family in a short sale.",1.25531914893617,0.04433941040440237,141.0,111.0,24.0,6.0,538
@@ -602,10 +602,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 589,You go to war with the weapons you have.,1.25531914893617,0.0454675756732613,141.0,112.0,22.0,7.0,538
 589,"Okay, okay, I'll stop trying to needle you.",1.25531914893617,0.04764383152928802,141.0,114.0,18.0,9.0,538
 589,"Please hold still. Remember ""A stitch in time will save your nine""!",1.25531914893617,0.04199225011621297,141.0,109.0,28.0,4.0,538
-589,I am *not* looking forward to cleaning your litter box.,1.25531914893617,0.04656841805556058,141.0,113.0,20.0,8.0,538
+589,I am *not* looking forward to cleaning your litter box.,1.25531914893617,0.046568418055560584,141.0,113.0,20.0,8.0,538
 589,Back away! I had to go to ridiculous lengths to thread this thing!,1.25531914893617,0.04433941040440237,141.0,111.0,24.0,6.0,538
 589,"I’ll show YOU a little prick, ya big pussy.",1.25531914893617,0.04764383152928802,141.0,114.0,18.0,9.0,538
-589,You're missing the point.,1.25531914893617,0.04656841805556058,141.0,113.0,20.0,8.0,538
+589,You're missing the point.,1.25531914893617,0.046568418055560584,141.0,113.0,20.0,8.0,538
 589,I'm just trying to get the splinter out.,1.25531914893617,0.04764383152928802,141.0,114.0,18.0,9.0,538
 589,You see? How would you like it if I scratched you?,1.25531914893617,0.04199225011621297,141.0,109.0,28.0,4.0,538
 589,"But a stitch in time could save all nine, big guy.",1.25531914893617,0.04433941040440237,141.0,111.0,24.0,6.0,538
@@ -704,7 +704,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 700,She calls you Fluffy? Nonsense! In my book you're Tiger!,1.2408759124087592,0.04337315922182596,137.0,109.0,23.0,5.0,538
 700,"Stitch in time saves nine lives, Mr Snuggles.",1.2408759124087592,0.04211755849911165,137.0,108.0,25.0,4.0,538
 700,There! Now do you see my point?,1.2408759124087592,0.04459342045456528,137.0,110.0,21.0,6.0,538
-706,Who knew taxidermy would ever get this big?,1.2380952380952381,0.04280420010332235,126.0,99.0,24.0,3.0,538
+706,Who knew taxidermy would ever get this big?,1.238095238095238,0.04280420010332235,126.0,99.0,24.0,3.0,538
 707,Sew vindictive.,1.2370370370370372,0.044866249739212716,135.0,109.0,20.0,6.0,538
 707,"Soft kitty, warm kitty, little ball of fur...",1.2370370370370372,0.04608186937587221,135.0,110.0,18.0,7.0,538
 707,He probably smells my dog on me.,1.2370370370370372,0.047266235355573775,135.0,111.0,16.0,8.0,538
@@ -783,7 +783,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 738,"Yes, I am a little prick!",1.2330827067669172,0.04638592364753896,133.0,109.0,17.0,7.0,538
 783,Day 7 in the land of the giants. Tim's deliberate attempt to create a 'lion and the thorn' friendship went horribly wrong.,1.2325581395348837,0.04861406199461602,129.0,107.0,14.0,8.0,538
 783,"Well, this is a catastrophe.",1.2325581395348837,0.04192501483097662,129.0,102.0,24.0,3.0,538
-785,"I've got your nine lives right here, pal.",1.2301587301587302,0.042407993275749185,126.0,100.0,23.0,3.0,538
+785,"I've got your nine lives right here, pal.",1.2301587301587302,0.04240799327574919,126.0,100.0,23.0,3.0,538
 785,...and where's Thumbelina!?,1.2301587301587302,0.046683940221754726,126.0,103.0,17.0,6.0,538
 785,"Patches, we'll harpoon the yarn ball and have it out from under the fridge in no time.",1.2301587301587302,0.043879631045168496,126.0,101.0,21.0,4.0,538
 788,"Look, I've been shrinking for weeks, and you're not helping at all.",1.2272727272727273,0.042464704276476285,132.0,106.0,22.0,4.0,538
@@ -815,14 +815,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 813,I'm Tom: Are you Jerry?,1.2265625,0.04602138612702957,128.0,105.0,17.0,6.0,538
 815,This had better be a nightmare!,1.2255639097744362,0.0447984033376428,133.0,109.0,18.0,6.0,538
 815,"Schrödinger said ""dead or alive"", so take your pick.",1.2255639097744362,0.04217884076757722,133.0,107.0,22.0,4.0,538
-815,I said new litter not neuter!,1.2255639097744362,0.047273029040961784,133.0,111.0,14.0,8.0,538
+815,I said new litter not neuter!,1.2255639097744362,0.04727302904096178,133.0,111.0,14.0,8.0,538
 815,I should probably stop drinking before bed.,1.2255639097744362,0.04217884076757722,133.0,107.0,22.0,4.0,538
-815,The label said the mushroom would make me tall!,1.2255639097744362,0.047273029040961784,133.0,111.0,14.0,8.0,538
+815,The label said the mushroom would make me tall!,1.2255639097744362,0.04727302904096178,133.0,111.0,14.0,8.0,538
 815,I see you followed the thread.,1.2255639097744362,0.03938543227376263,133.0,105.0,26.0,2.0,538
 815,"But remember, a stitch in time saves nine lives.",1.2255639097744362,0.048462980111218516,133.0,112.0,12.0,9.0,538
-815,Pause!,1.2255639097744362,0.04605234096280959,133.0,110.0,16.0,7.0,538
+815,Pause!,1.2255639097744362,0.046052340962809586,133.0,110.0,16.0,7.0,538
 815,How many lives do you have left?,1.2255639097744362,0.04350834144218072,133.0,108.0,20.0,5.0,538
-815,No---You can't have any more Human Growth Hormone!,1.2255639097744362,0.047273029040961784,133.0,111.0,14.0,8.0,538
+815,No---You can't have any more Human Growth Hormone!,1.2255639097744362,0.04727302904096178,133.0,111.0,14.0,8.0,538
 825,"Stop being a pussycat, this won't hurt.",1.2230769230769232,0.04793329769039266,130.0,109.0,13.0,8.0,538
 825,"You've had your fun, Merlin. Now switch me back!",1.2230769230769232,0.0426680054603956,130.0,105.0,21.0,4.0,538
 825,"It's not how big it is, it's what I do with it.",1.2230769230769232,0.04667269483433476,130.0,108.0,15.0,7.0,538
@@ -883,19 +883,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 881,En garde!,1.2213740458015268,0.04237527217403552,131.0,106.0,21.0,4.0,538
 881,Don't you want the splinter out?,1.2213740458015268,0.04634633888574685,131.0,109.0,15.0,7.0,538
 884,"Louise, come out now. You're taking this Halloween thing too far.",1.21875,0.04826913047376049,128.0,108.0,12.0,8.0,538
-884,Trump-size hands don't fail me now.,1.21875,0.04564916170716533,128.0,106.0,16.0,6.0,538
+884,Trump-size hands don't fail me now.,1.21875,0.045649161707165334,128.0,106.0,16.0,6.0,538
 884,If you don't hold still I'll never finish,1.21875,0.0398963655025738,128.0,102.0,24.0,2.0,538
 884,Claritin has had unexpected side effects for me.,1.21875,0.04140955779017634,128.0,103.0,22.0,3.0,538
 884,But I don't have a ball of yarn!,1.21875,0.04140955779017634,128.0,103.0,22.0,3.0,538
-884,Just wait until the spell wears off.,1.21875,0.04564916170716533,128.0,106.0,16.0,6.0,538
+884,Just wait until the spell wears off.,1.21875,0.045649161707165334,128.0,106.0,16.0,6.0,538
 884,Do you think I'm a man or a mouse?,1.21875,0.042869371029220206,128.0,104.0,20.0,4.0,538
 884,Remember where your catnip comes from.,1.21875,0.042869371029220206,128.0,104.0,20.0,4.0,538
-884,A stitch in time saves nine :: A stitch in thine saves mine,1.21875,0.04697741436722461,128.0,107.0,14.0,7.0,538
+884,A stitch in time saves nine :: A stitch in thine saves mine,1.21875,0.046977414367224614,128.0,107.0,14.0,7.0,538
 884,Really? You're sitting during the national anthem?,1.21875,0.04428108477108411,128.0,105.0,18.0,5.0,538
-884,where are my internet royalties little man!,1.21875,0.04564916170716533,128.0,106.0,16.0,6.0,538
+884,where are my internet royalties little man!,1.21875,0.045649161707165334,128.0,106.0,16.0,6.0,538
 884,I knew I should have gotten a dog.,1.21875,0.04428108477108411,128.0,105.0,18.0,5.0,538
 884,How about truce now and I'll pull a thorn out of your paw at some later date?,1.21875,0.0398963655025738,128.0,102.0,24.0,2.0,538
-884,Um...meow?,1.21875,0.04564916170716533,128.0,106.0,16.0,6.0,538
+884,Um...meow?,1.21875,0.045649161707165334,128.0,106.0,16.0,6.0,538
 884,This twine ain't big enough for the both of us.,1.21875,0.04428108477108411,128.0,105.0,18.0,5.0,538
 884,Never underestimate the commitment of a Lilliputian taxidermist!,1.21875,0.04428108477108411,128.0,105.0,18.0,5.0,538
 884,Remember! I saved you from the pound.,1.21875,0.04140955779017634,128.0,103.0,22.0,3.0,538
@@ -908,25 +908,25 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 884,"If I'm dreaming, I'd like to wake up now!",1.21875,0.042869371029220206,128.0,104.0,20.0,4.0,538
 884,A stitch can save nine lives.,1.21875,0.04140955779017634,128.0,103.0,22.0,3.0,538
 884,"MAN ! Not a mouse, not a mouse..... good kitty, goooood kitty.",1.21875,0.04428108477108411,128.0,105.0,18.0,5.0,538
-884,I'm a man not a mouse! I refuse to play dead.,1.21875,0.04564916170716533,128.0,106.0,16.0,6.0,538
+884,I'm a man not a mouse! I refuse to play dead.,1.21875,0.045649161707165334,128.0,106.0,16.0,6.0,538
 884,I might need a bigger bag of catnip.,1.21875,0.042869371029220206,128.0,104.0,20.0,4.0,538
 884,Uhm ... Arf? ... Woof Woof? ... Grrrrr? ...,1.21875,0.04952716883444788,128.0,109.0,10.0,9.0,538
 884,But I can't reach your treats jar any more.,1.21875,0.04140955779017634,128.0,103.0,22.0,3.0,538
-884,It was my ball of yarn first,1.21875,0.04564916170716533,128.0,106.0,16.0,6.0,538
+884,It was my ball of yarn first,1.21875,0.045649161707165334,128.0,106.0,16.0,6.0,538
 884,Where's the moderator?,1.21875,0.04428108477108411,128.0,105.0,18.0,5.0,538
 884,Suddenly Tom realized ITT Tech really didn't teach him the skills necessary for this job.,1.21875,0.042869371029220206,128.0,104.0,20.0,4.0,538
 884,that's some thorn you had stuck in your paw,1.21875,0.04428108477108411,128.0,105.0,18.0,5.0,538
 884,"Don't worry, I am not going to neuter you",1.21875,0.042869371029220206,128.0,104.0,20.0,4.0,538
-884,"I know you are angry, but surely you can appreciate the irony of me having got YOUR tongue.",1.21875,0.04564916170716533,128.0,106.0,16.0,6.0,538
+884,"I know you are angry, but surely you can appreciate the irony of me having got YOUR tongue.",1.21875,0.045649161707165334,128.0,106.0,16.0,6.0,538
 884,Aren't you happy that we micro surgeons don't use catgut any more?,1.21875,0.042869371029220206,128.0,104.0,20.0,4.0,538
-884,Good kitty!,1.21875,0.04564916170716533,128.0,106.0,16.0,6.0,538
+884,Good kitty!,1.21875,0.045649161707165334,128.0,106.0,16.0,6.0,538
 884,"You know this is going to go viral, don't you?",1.21875,0.04428108477108411,128.0,105.0,18.0,5.0,538
-884,Be careful what you wish for!,1.21875,0.04564916170716533,128.0,106.0,16.0,6.0,538
-884,Wow! Things are really different in Canada.,1.21875,0.04697741436722461,128.0,107.0,14.0,7.0,538
+884,Be careful what you wish for!,1.21875,0.045649161707165334,128.0,106.0,16.0,6.0,538
+884,Wow! Things are really different in Canada.,1.21875,0.046977414367224614,128.0,107.0,14.0,7.0,538
 884,I told you cat gut is not made from cat guts!,1.21875,0.042869371029220206,128.0,104.0,20.0,4.0,538
 884,You should see what I did with the Gingham Dog.,1.21875,0.04428108477108411,128.0,105.0,18.0,5.0,538
-884,Is that all you got?,1.21875,0.04697741436722461,128.0,107.0,14.0,7.0,538
-884,You are going to reap what you sew,1.21875,0.04564916170716533,128.0,106.0,16.0,6.0,538
+884,Is that all you got?,1.21875,0.046977414367224614,128.0,107.0,14.0,7.0,538
+884,You are going to reap what you sew,1.21875,0.045649161707165334,128.0,106.0,16.0,6.0,538
 884,You're big enough to fix your own pajamas,1.21875,0.042869371029220206,128.0,104.0,20.0,4.0,538
 884,I think you can see my point.,1.21875,0.042869371029220206,128.0,104.0,20.0,4.0,538
 931,I'll save nine my way.,1.2177419354838708,0.03893494859040116,124.0,98.0,25.0,1.0,538
@@ -957,57 +957,57 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 938,You should've seen the hay.,1.2125984251968505,0.04276109906832521,127.0,104.0,19.0,4.0,538
 938,"Darn, cat.",1.2125984251968505,0.04127380787591863,127.0,103.0,21.0,3.0,538
 958,"They told me that the revival of ""Cats"" on Broadway was going to be big, but I didn't believe them.",1.208,0.04294933248946162,125.0,103.0,18.0,4.0,538
-958,"Yes, Honey, I know Siegfreid .... or was it Roy .... got bitten trying this.",1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
+958,"Yes, Honey, I know Siegfreid .... or was it Roy .... got bitten trying this.",1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
 958,"Seriously, we must revisit those tartar control treats.",1.208,0.0472413159795943,125.0,106.0,12.0,7.0,538
 958,My subconscious really needs to stop taking my catnaps so literally.,1.208,0.04294933248946162,125.0,103.0,18.0,4.0,538
-958,"Hmm, I dont recall how Gulliver handled this one...",1.208,0.04141995778879799,125.0,102.0,20.0,3.0,538
-958,Hold still now and let me take out the splinter.,1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
-958,"I don't need your ""stitch in time to save nine!""",1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
-958,"I threaded the needle for you, but it's only going to get harder from here.",1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
-958,My stitch in time trumps your nine.,1.208,0.04141995778879799,125.0,102.0,20.0,3.0,538
+958,"Hmm, I dont recall how Gulliver handled this one...",1.208,0.041419957788797986,125.0,102.0,20.0,3.0,538
+958,Hold still now and let me take out the splinter.,1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
+958,"I don't need your ""stitch in time to save nine!""",1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
+958,"I threaded the needle for you, but it's only going to get harder from here.",1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
+958,My stitch in time trumps your nine.,1.208,0.041419957788797986,125.0,102.0,20.0,3.0,538
 958,"Stop dawdling! If you're to visit the queen, I have to finish your boots then get back to the beanstalk before I'm missed!",1.208,0.04294933248946162,125.0,103.0,18.0,4.0,538
 958,Reason #37 to Neuter your pets.,1.208,0.04294933248946162,125.0,103.0,18.0,4.0,538
-958,"I know I promised you a ball of yarn, but this is close and there's no need to take that tone with me!",1.208,0.04141995778879799,125.0,102.0,20.0,3.0,538
+958,"I know I promised you a ball of yarn, but this is close and there's no need to take that tone with me!",1.208,0.041419957788797986,125.0,102.0,20.0,3.0,538
 958,"I know the last alterations were painful, but I promise, this won't hurt too much.",1.208,0.04294933248946162,125.0,103.0,18.0,4.0,538
 958,Fine! Less work reconfiguring the shrink ray; more tummy rubs.,1.208,0.04294933248946162,125.0,103.0,18.0,4.0,538
-958,Don't you know me? I used to be big.,1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
-958,Don't give me any of that Stitch in time saves nine crap!,1.208,0.048587798813574466,125.0,107.0,10.0,8.0,538
-958,Wait till I tell my analyst – Dr. Katz – about this dream!,1.208,0.04141995778879799,125.0,102.0,20.0,3.0,538
+958,Don't you know me? I used to be big.,1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
+958,Don't give me any of that Stitch in time saves nine crap!,1.208,0.04858779881357447,125.0,107.0,10.0,8.0,538
+958,Wait till I tell my analyst – Dr. Katz – about this dream!,1.208,0.041419957788797986,125.0,102.0,20.0,3.0,538
 958,"Well, Muffy, I never liked you much, either.",1.208,0.04294933248946162,125.0,103.0,18.0,4.0,538
 958,Do you want to be in this musical or not?,1.208,0.04585531242309178,125.0,105.0,14.0,6.0,538
-958,This is definitely going viral.,1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
+958,This is definitely going viral.,1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
 958,"Nothing's changed around here, Timmy--stay off the kitchen counters!",1.208,0.04294933248946162,125.0,103.0,18.0,4.0,538
-958,Back down fur ball! You're not messing with some whack-job cat hoarder here.,1.208,0.04141995778879799,125.0,102.0,20.0,3.0,538
-958,"Trust me, it won't hurt a bit...",1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
-958,Think of all the wet food I've given you,1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
-958,"Easy now, the job description read: 'Fixing Big Buttons'. Honest mistake.",1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
+958,Back down fur ball! You're not messing with some whack-job cat hoarder here.,1.208,0.041419957788797986,125.0,102.0,20.0,3.0,538
+958,"Trust me, it won't hurt a bit...",1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
+958,Think of all the wet food I've given you,1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
+958,"Easy now, the job description read: 'Fixing Big Buttons'. Honest mistake.",1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
 958,what would martha stewart do?,1.208,0.04585531242309178,125.0,105.0,14.0,6.0,538
-958,"I'm sure you harbor a few complaints, but just think about my fine can opener skills.",1.208,0.04141995778879799,125.0,102.0,20.0,3.0,538
+958,"I'm sure you harbor a few complaints, but just think about my fine can opener skills.",1.208,0.041419957788797986,125.0,102.0,20.0,3.0,538
 958,"Look, I don't like this forced perspective any more than you do.",1.208,0.039831904864835316,125.0,101.0,22.0,2.0,538
 958,The mice from Cinderella made this look so much easier,1.208,0.04294933248946162,125.0,103.0,18.0,4.0,538
 958,Samantha! Call your mother.,1.208,0.0472413159795943,125.0,106.0,12.0,7.0,538
-958,The witch says I can either put your tail back where I found it or stay this size forever.,1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
-958,"It was her idea to call you ""Snickers.""",1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
-958,"You picked up a splinter. Now we're not going to hurt each other, are we?",1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
+958,The witch says I can either put your tail back where I found it or stay this size forever.,1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
+958,"It was her idea to call you ""Snickers.""",1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
+958,"You picked up a splinter. Now we're not going to hurt each other, are we?",1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
 958,"Hold on a minute, I'm thinking of a caption!",1.208,0.04585531242309178,125.0,105.0,14.0,6.0,538
 958,Sharpen your claws on something I don't have to mend.,1.208,0.039831904864835316,125.0,101.0,22.0,2.0,538
 958,"Suddenly, I realize naming you 'Fluffy' may have been a misnomer.",1.208,0.039831904864835316,125.0,101.0,22.0,2.0,538
-958,Put down your weapon and nobody gets hurt.,1.208,0.04141995778879799,125.0,102.0,20.0,3.0,538
+958,Put down your weapon and nobody gets hurt.,1.208,0.041419957788797986,125.0,102.0,20.0,3.0,538
 958,Put down the needle and crawl slowly back into your thimble.,1.208,0.0472413159795943,125.0,106.0,12.0,7.0,538
-958,"Oh wait. Maybe it's anesthetic first, then cut, then snip and then stitch!",1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
-958,oh fuck,1.208,0.048587798813574466,125.0,107.0,10.0,8.0,538
+958,"Oh wait. Maybe it's anesthetic first, then cut, then snip and then stitch!",1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
+958,oh fuck,1.208,0.04858779881357447,125.0,107.0,10.0,8.0,538
 958,And so you're assuming it was me that smoked your catnip,1.208,0.039831904864835316,125.0,101.0,22.0,2.0,538
-958,You might feel a little prick?,1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
-958,"Trust me, whiskers. A stitch in time saves nine lives.",1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
-958,Jim's taxidermied Mother-in-Law was now complete.,1.208,0.051174590469073813,125.0,109.0,6.0,10.0,538
-958,Come near me and I promise you I’ll sew.,1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
+958,You might feel a little prick?,1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
+958,"Trust me, whiskers. A stitch in time saves nine lives.",1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
+958,Jim's taxidermied Mother-in-Law was now complete.,1.208,0.05117459046907381,125.0,109.0,6.0,10.0,538
+958,Come near me and I promise you I’ll sew.,1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
 958,Pause please?,1.208,0.04294933248946162,125.0,103.0,18.0,4.0,538
-958,"Watch it,this thing is loaded.",1.208,0.04141995778879799,125.0,102.0,20.0,3.0,538
-958,I hope you got a giant discount on this home neutering kit.,1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
+958,"Watch it,this thing is loaded.",1.208,0.041419957788797986,125.0,102.0,20.0,3.0,538
+958,I hope you got a giant discount on this home neutering kit.,1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
 958,"You win -- based on our new relationship dynamics, no more dry cat food.",1.208,0.04294933248946162,125.0,103.0,18.0,4.0,538
 958,If you think you are bad take a look at what I did to the dog.,1.208,0.04294933248946162,125.0,103.0,18.0,4.0,538
-958,Just trust me -- kittens are overrated.,1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
-958,Just because I've shrunk doesn't mean the sweater I'm making for you will.,1.208,0.04442608939975293,125.0,104.0,16.0,5.0,538
+958,Just trust me -- kittens are overrated.,1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
+958,Just because I've shrunk doesn't mean the sweater I'm making for you will.,1.208,0.044426089399752934,125.0,104.0,16.0,5.0,538
 1010,It is I Don Quixote.,1.2063492063492065,0.04551986877189821,126.0,106.0,14.0,6.0,538
 1011,The eye of the tiger. I thought there might be a common thread.,1.2032520325203253,0.04612008731725397,123.0,104.0,13.0,6.0,538
 1011,"It's just a sewing needle, you big pussy.",1.2032520325203253,0.04155986513665221,123.0,101.0,19.0,3.0,538
@@ -1302,7 +1302,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1271,"STOP, little man - i'd rather impale my paw on your shiny stick than hear another story about 'your world'",1.1794871794871795,0.03764232176376304,117.0,97.0,19.0,1.0,538
 1271,"Sir, you opted for a health insurance plan that only covers the mini program of splinter removal.",1.1794871794871795,0.039551316085490784,117.0,98.0,17.0,2.0,538
 1271,You ever hear the one about the lion and the mouse?,1.1794871794871795,0.041372319495311546,117.0,99.0,15.0,3.0,538
-1271,"Who you calling needle dick, you big PUSSY!",1.1794871794871795,0.047969966497101814,117.0,103.0,7.0,7.0,538
+1271,"Who you calling needle dick, you big PUSSY!",1.1794871794871795,0.04796996649710181,117.0,103.0,7.0,7.0,538
 1271,What don't you understand when I say I don't want mittens ?,1.1794871794871795,0.041372319495311546,117.0,99.0,15.0,3.0,538
 1271,"You won't feel a thing, I promise.",1.1794871794871795,0.044792781260796964,117.0,101.0,11.0,5.0,538
 1271,"i'm small, not mousey.",1.1794871794871795,0.04311648219358659,117.0,100.0,13.0,4.0,538
@@ -1419,7 +1419,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1417,I didn't realize this is what he meant by 'It's gonna be huge.',1.1724137931034482,0.04111610442786581,116.0,99.0,14.0,3.0,538
 1417,Pushy cat.,1.1724137931034482,0.04290057203353385,116.0,100.0,12.0,4.0,538
 1417,That's the last can of Puss 'n Boots for you!,1.1724137931034482,0.04461372118850528,116.0,101.0,10.0,5.0,538
-1417,...and l would rather stick this needle in my eye than take you to see 'Cats'...again!,1.1724137931034482,0.046263475396547384,116.0,102.0,8.0,6.0,538
+1417,...and l would rather stick this needle in my eye than take you to see 'Cats'...again!,1.1724137931034482,0.04626347539654738,116.0,102.0,8.0,6.0,538
 1417,I'm only going to tell you one more time: get back in the bag.,1.1724137931034482,0.03925059242663615,116.0,98.0,16.0,2.0,538
 1417,You're the one that's gonna be hanging by a thread.,1.1724137931034482,0.04461372118850528,116.0,101.0,10.0,5.0,538
 1417,Don't be a scaredy-cat. It'll only take a few little stitches.,1.1724137931034482,0.037291875366635134,116.0,97.0,18.0,1.0,538
@@ -1484,7 +1484,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1481,"Okay, I'll sew whatever you want.",1.1666666666666667,0.039237940843730015,114.0,97.0,15.0,2.0,538
 1484,"Cat: I thought you'd be bigger. Guy: And, I suppose cows fly now too? Cat: And, there are pink unicorns. Guy: Who's president? Cat: Trump. Guy: Eat me.",1.1652173913043478,0.04266205659437598,115.0,100.0,11.0,4.0,538
 1484,"Now, don't get catty. . .",1.1652173913043478,0.03892223619305935,115.0,98.0,15.0,2.0,538
-1484,We forgot your tetanus shot.,1.1652173913043478,0.04441403352723618,115.0,101.0,9.0,5.0,538
+1484,We forgot your tetanus shot.,1.1652173913043478,0.044414033527236184,115.0,101.0,9.0,5.0,538
 1484,Not what I meant when I said we needed a big cat to help with jobs around here.,1.1652173913043478,0.040834982203559474,115.0,99.0,13.0,3.0,538
 1484,I can use this to get that thorn out of your paw.,1.1652173913043478,0.036910502150087024,115.0,97.0,17.0,1.0,538
 1489,Feeling sharp enough to keep this thread going?,1.1637931034482758,0.0423166572149465,116.0,101.0,11.0,4.0,538
@@ -1771,24 +1771,24 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1699,"For the last time, I've never even been to Gloucester!",1.148148148148148,0.041214713585381466,108.0,95.0,10.0,3.0,538
 1699,"Let's get to the point, you are my pet.",1.148148148148148,0.03677651537147867,108.0,93.0,14.0,1.0,538
 1699,what will I do when you go into heat?,1.148148148148148,0.03434300243631002,108.0,92.0,16.0,0.0,538
-1773,I say you're no Puss in Boots and I'm not Stuart Little.,1.146788990825688,0.038722568630423185,109.0,95.0,12.0,2.0,538
-1773,"""Seriously..I'm not half the mouse you think I am""!",1.146788990825688,0.038722568630423185,109.0,95.0,12.0,2.0,538
-1773,"Needless to say, you cannot infringe upon my 2nd amendment right to bear arms.",1.146788990825688,0.038722568630423185,109.0,95.0,12.0,2.0,538
-1773,"You don't scare me, you're just a big pussy cat",1.146788990825688,0.038722568630423185,109.0,95.0,12.0,2.0,538
-1773,". . . and by the way, don't call me Ishmael.",1.146788990825688,0.038722568630423185,109.0,95.0,12.0,2.0,538
-1773,Down girl!,1.146788990825688,0.038722568630423185,109.0,95.0,12.0,2.0,538
-1773,You call that a needle?,1.146788990825688,0.0408574593758024,109.0,96.0,10.0,3.0,538
-1773,Poetic justice for declawing.,1.146788990825688,0.038722568630423185,109.0,95.0,12.0,2.0,538
-1773,You can't fool me! That's not a laser pointer!,1.146788990825688,0.04482322296823781,109.0,98.0,6.0,5.0,538
+1773,I say you're no Puss in Boots and I'm not Stuart Little.,1.1467889908256879,0.03872256863042319,109.0,95.0,12.0,2.0,538
+1773,"""Seriously..I'm not half the mouse you think I am""!",1.1467889908256879,0.03872256863042319,109.0,95.0,12.0,2.0,538
+1773,"Needless to say, you cannot infringe upon my 2nd amendment right to bear arms.",1.1467889908256879,0.03872256863042319,109.0,95.0,12.0,2.0,538
+1773,"You don't scare me, you're just a big pussy cat",1.1467889908256879,0.03872256863042319,109.0,95.0,12.0,2.0,538
+1773,". . . and by the way, don't call me Ishmael.",1.1467889908256879,0.03872256863042319,109.0,95.0,12.0,2.0,538
+1773,Down girl!,1.1467889908256879,0.03872256863042319,109.0,95.0,12.0,2.0,538
+1773,You call that a needle?,1.1467889908256879,0.0408574593758024,109.0,96.0,10.0,3.0,538
+1773,Poetic justice for declawing.,1.1467889908256879,0.03872256863042319,109.0,95.0,12.0,2.0,538
+1773,You can't fool me! That's not a laser pointer!,1.1467889908256879,0.04482322296823781,109.0,98.0,6.0,5.0,538
 1782,I swear I'm not a mouse - I'm just a beta male.,1.1454545454545455,0.03615452803788169,110.0,95.0,14.0,1.0,538
-1783,Are you sure you're a vet?,1.1401869158878504,0.04292390146965119,107.0,96.0,7.0,4.0,538
+1783,Are you sure you're a vet?,1.1401869158878504,0.042923901469651186,107.0,96.0,7.0,4.0,538
 1783,"Yet another discarded sketch by Michaelangelo before he settled on the final version of the ""Creation of Adam.""",1.1401869158878504,0.03859779567366521,107.0,94.0,11.0,2.0,538
 1783,And in this dramatic photo we witness Tom Thumbs struggle with fluffy his cat.,1.1401869158878504,0.03859779567366521,107.0,94.0,11.0,2.0,538
-1783,There is nothing more satisfying than taming a pussy.,1.1401869158878504,0.04292390146965119,107.0,96.0,7.0,4.0,538
+1783,There is nothing more satisfying than taming a pussy.,1.1401869158878504,0.042923901469651186,107.0,96.0,7.0,4.0,538
 1783,"If I had nine lives, I'd take that stitch-in-time thing pretty seriously.",1.1401869158878504,0.036241607133388136,107.0,93.0,13.0,1.0,538
 1783,Can't we talk about this?,1.1401869158878504,0.03859779567366521,107.0,94.0,11.0,2.0,538
 1783,If you keep acting up I will not sew your tail on.,1.1401869158878504,0.040818201505225166,107.0,95.0,9.0,3.0,538
-1783,"Precious, I know you think I'm a little prick.",1.1401869158878504,0.04292390146965119,107.0,96.0,7.0,4.0,538
+1783,"Precious, I know you think I'm a little prick.",1.1401869158878504,0.042923901469651186,107.0,96.0,7.0,4.0,538
 1783,"Remember that old saying, ""A stitch in time and you are a dead cat.""",1.1401869158878504,0.03859779567366521,107.0,94.0,11.0,2.0,538
 1783,"OK, I'll stop singing, ""Sew, a needle pulling thread,"" if you stop spewing out those oversized fur balls.",1.1401869158878504,0.040818201505225166,107.0,95.0,9.0,3.0,538
 1783,"But you were my favorite character on the ""Sopranos.""",1.1401869158878504,0.036241607133388136,107.0,93.0,13.0,1.0,538
@@ -2025,7 +2025,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1965,I asked my liberal friend to politicize this. Even he struggled...,1.1262135922330097,0.04064867995265392,103.0,93.0,7.0,3.0,538
 1965,Was it 'a stitch in time saves nine?' or 'a cat has nine lives?' Either way - oh hell.,1.1262135922330097,0.03288180278808632,103.0,90.0,13.0,0.0,538
 1965,I must have cataracts.,1.1262135922330097,0.03823542562589994,103.0,92.0,9.0,2.0,538
-1965,"Finding himself hanging by a thread Brad yells, ""Help meow-t!!""",1.1262135922330097,0.04508935572940039,103.0,95.0,3.0,5.0,538
+1965,"Finding himself hanging by a thread Brad yells, ""Help meow-t!!""",1.1262135922330097,0.045089355729400385,103.0,95.0,3.0,5.0,538
 1965,It's just so hard to teach an old cat new tricks.,1.1262135922330097,0.035659225506089784,103.0,91.0,11.0,1.0,538
 1965,"Bring it on, Catnip. I think your bark is worse than your bite....",1.1262135922330097,0.035659225506089784,103.0,91.0,11.0,1.0,538
 1965,"I know, I know, but we're talking ANOTHER nine.",1.1262135922330097,0.03823542562589994,103.0,92.0,9.0,2.0,538
@@ -2061,7 +2061,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1965,We'll see which one of us needs stitches!,1.1262135922330097,0.035659225506089784,103.0,91.0,11.0,1.0,538
 1965,"Scardy Cat, Scardy Cat!",1.1262135922330097,0.03823542562589994,103.0,92.0,9.0,2.0,538
 1965,"And when you awake, you’ll be nice and calm.",1.1262135922330097,0.03823542562589994,103.0,92.0,9.0,2.0,538
-1965,I said Borrower not borrow fur.,1.1262135922330097,0.04508935572940039,103.0,95.0,3.0,5.0,538
+1965,I said Borrower not borrow fur.,1.1262135922330097,0.045089355729400385,103.0,95.0,3.0,5.0,538
 1965,I don't work with yarn.,1.1262135922330097,0.03823542562589994,103.0,92.0,9.0,2.0,538
 1965,"That's right, it's gonna be you-ow when I'm back to size!",1.1262135922330097,0.03823542562589994,103.0,92.0,9.0,2.0,538
 1965,Okay! All right! We'll get a divorce!,1.1262135922330097,0.03823542562589994,103.0,92.0,9.0,2.0,538
@@ -2077,7 +2077,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2075,Why does Gulliver's cat need a sweater?,1.125,0.032586702869168815,104.0,91.0,13.0,0.0,538
 2075,"You can huff and you can puff,but I'll stick you with my piny pin pin!",1.125,0.037885435178386336,104.0,93.0,9.0,2.0,538
 2075,"This isn't quite what I meant when I said ""I dream of being a lion tamer"".....",1.125,0.04027421875147701,104.0,94.0,7.0,3.0,538
-2075,"Oh no, you've had your nine lives",1.125,0.042529039413416465,104.0,95.0,5.0,4.0,538
+2075,"Oh no, you've had your nine lives",1.125,0.04252903941341647,104.0,95.0,5.0,4.0,538
 2075,"Kitty, before you swipe, let me prey.",1.125,0.03533553029557649,104.0,92.0,11.0,1.0,538
 2081,I can stop the limp!,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,It's a stitch in time and you already have nine; I'm asking for just one.,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
@@ -2088,10 +2088,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2081,"Watch out, I have frightened-person-holding-a-needle-like reflexes.",1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,Well THIS is an unflattering metaphor for my penis!,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,You say that your mitten is not lost but it needs a stitch?,1.1188118811881191,0.0323567022541944,101.0,89.0,12.0,0.0,538
-2081,New York Fashion Week critics were enormously catty this year.,1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,New York Fashion Week critics were enormously catty this year.,1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,I promise you it won't hurt!,1.1188118811881191,0.0323567022541944,101.0,89.0,12.0,0.0,538
 2081,i keep trying to tell you - i'm making the mittens.,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
-2081,I knew I should not have used the thimble for Monopoly,1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,I knew I should not have used the thimble for Monopoly,1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,A domesticated cat would wear a thimble!,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,I'm a protected species. I've reverse evolved.,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,Now hold on. You told me to wish for anything. Do you understand now that size matters?,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
@@ -2107,12 +2107,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2081,"Hey, I may be the Incredible Shrinking Man, but that doesn't give you the right to go all 'puma' on me!",1.1188118811881191,0.0323567022541944,101.0,89.0,12.0,0.0,538
 2081,"Back off, or your next stitch in time will lose you nine.",1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,The Cat and the Incredible Shrinking Man finally came to an agreement. Two mice per day.,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
-2081,Life just ain't as thimble as it used to be,1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
-2081,I CAN HEAR MY ANALYST NOW...,1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,Life just ain't as thimble as it used to be,1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
+2081,I CAN HEAR MY ANALYST NOW...,1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,Me and the rest of the Lilliputians joined Garment Maker's Union Local 31. You feelin' me?,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,Go ahead - make my crochet.,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,"Hey, relax kitty. This stitch in time will save you nine later!",1.1188118811881191,0.0323567022541944,101.0,89.0,12.0,0.0,538
-2081,Who's the bad kitty who got into my HGH?,1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,Who's the bad kitty who got into my HGH?,1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,Wait! Can I get some catnip before you try this?,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,I just flossed my Great Dane.,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,I am NOT going to wear that silly bell around my neck.,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
@@ -2122,7 +2122,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2081,"So, you want a Donald Trump costume for Halloween.",1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,Now try it with the thimble.,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,"Feel Steinbeck's point in ""Of Mice and Men.""",1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
-2081,I'm sorry you're upset - I asked for your help because T.S. Eliot told me you were the practical kind.,1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,I'm sorry you're upset - I asked for your help because T.S. Eliot told me you were the practical kind.,1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,This is NOT Alice's Wonderland!,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,"Really, try to have a positive outlook? I can't even turn things around in my dreams.",1.1188118811881191,0.0323567022541944,101.0,89.0,12.0,0.0,538
 2081,"I know. I saw that movie, too. And the cat doesn't get the incredible shrinking man.",1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
@@ -2130,20 +2130,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2081,"Look, I know this is your favorite game, but it's way too dangerous - you could get hurt...",1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,No more just playing with balls of yarn: It's high time you started doing  a little sewing for me!,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,"Yes, but Me Ow is just what you asked for, right?",1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
-2081,Have you seen a ball of yellow yarn?,1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,Have you seen a ball of yellow yarn?,1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,Sure was a bad day to put catnip in my pants.,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,Jack be nimble and Jack be quick!!!,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
-2081,"So you know, I'm more into the S than the M.",1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,"So you know, I'm more into the S than the M.",1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,Its payback time for eating all my sweaters,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,"""So, you're not buying 'a stitch in time saves one'?",1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,"Storage Box #1 Bar Code #1 Microfilm #1 Interim Billing? 87-16 ""Tom Thumb's final moments.""",1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,"I'll use this, I thread you not.",1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,I clawed a rip in the drapes for a REASON! It was blocking my view of the birds.,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,Honest. I was just going to devise a fishing pole to catch us some fish.,1.1188118811881191,0.042883975896450884,101.0,93.0,4.0,4.0,538
-2081,"Whoa, whoa, whoa, whoa, whoa. Slow down. I'm going to fucking vote for Hillary, OK? Relax. And don't act like I have some obligation to pretend to be excited about her. 'Cause I'm not. I'm just not. Like, not at all.",1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,"Whoa, whoa, whoa, whoa, whoa. Slow down. I'm going to fucking vote for Hillary, OK? Relax. And don't act like I have some obligation to pretend to be excited about her. 'Cause I'm not. I'm just not. Like, not at all.",1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,Voodoo Shmoodoo. The only reason I haven't eaten you yet is because you said you could sew me up a Carolina jersey.,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,Tell me again. Your degree in surgery from was where?,1.1188118811881191,0.0323567022541944,101.0,89.0,12.0,0.0,538
-2081,I dreamed your mother is coming for a visit.,1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,I dreamed your mother is coming for a visit.,1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,Now you'll know how I feel when you scratch me you big stupid cat!,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,And this little piggy ran all the way where?,1.1188118811881191,0.0323567022541944,101.0,89.0,12.0,0.0,538
 2081,"In my heart I was always Bob, never Tinkerbell",1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
@@ -2160,7 +2160,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2081,"Sorry, Kitty, we are totally out of steroids.",1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,The last great act of defiance.,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,A stitch in time saves nine? Next you'll be telling me how the early bird gets the worm.,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
-2081,Do I look like a mouse?,1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,Do I look like a mouse?,1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,"I am trying to help, don't be such a fraidy cat!",1.1188118811881191,0.0323567022541944,101.0,89.0,12.0,0.0,538
 2081,"No big deal, it's just your manhood.",1.1188118811881191,0.0323567022541944,101.0,89.0,12.0,0.0,538
 2081,"Enough with the needling already! We agreed: I do the hunting, you do the hemming.",1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
@@ -2169,25 +2169,25 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2081,Don't be such a ... coward.,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,"Believe me, I know how to thread the needle.",1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,I thought Lewis Carroll magic died with him!,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
-2081,"Make it count Tom, this is his last life.",1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,"Make it count Tom, this is his last life.",1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,"So, this is how you really see me, huh?!",1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
-2081,"Honey, can you call the Crazy Cat Lady in the Shoe again?!",1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,"Honey, can you call the Crazy Cat Lady in the Shoe again?!",1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,'Did you ever read Moby Dick?',1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,We can do this the hard way or the easy way. Quit peeing in my sandbox!,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,"Do not fold, spindle or mutilate, my ass!",1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,"Tomorrow, you're Costco's problem!",1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
-2081,You want me to stitch what?,1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,You want me to stitch what?,1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,"Alice... I thought you said ""White R-A-B-B-I-T !!!",1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
-2081,how does this keep happing?,1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
-2081,"Think twice, big mama has just stepped away for a moment and she really likes me.",1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,how does this keep happing?,1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
+2081,"Think twice, big mama has just stepped away for a moment and she really likes me.",1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,Limit the 2nd amendment and our society will go to the dogs.,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,Back off or she will make YOU a Halloween costume.,1.1188118811881191,0.0323567022541944,101.0,89.0,12.0,0.0,538
 2081,"So you don't like me calling you , thimble, spooly or snippers. How about Toast?",1.1188118811881191,0.04513374780214445,101.0,94.0,2.0,5.0,538
 2081,Be a good boy or I’ll get Siegfried,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,"They greenlighted ‘Honey, I shrunk the Haberdasher’ but passed on ‘That Darned Cat’.",1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,538
 2081,"Sorry, but you have to stay perfectly still if you want your fursuit to fit just right.",1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
-2081,"Sew, can we hit the paws button.",1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
-2081,So what happened to the camel?,1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,538
+2081,"Sew, can we hit the paws button.",1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
+2081,So what happened to the camel?,1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,538
 2081,Ip Sew Cat Sew,1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,"Trust me. I may look small, but I can sew up your curiosity.",1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
 2081,"Far, a long long way to run. I forgot the next line. Give me a hint",1.1188118811881191,0.037986784343071005,101.0,91.0,8.0,2.0,538
@@ -3039,7 +3039,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3025,How many times do I have to tell you: No Knot; No Tail;!,1.0348837209302326,0.01990177259155108,86.0,83.0,3.0,0.0,538
 3025,Cm'on kitty don't make me hurt you for eating my food again!,1.0348837209302326,0.01990177259155108,86.0,83.0,3.0,0.0,538
 3025,But to whom would you deliver me?,1.0348837209302326,0.02587814451430635,86.0,84.0,1.0,1.0,538
-3041,Witness me...,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,538
+3041,Witness me...,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,538
 3042,""" Excuse me cat, would you help me sew my wild oats"". I sow will not.",1.0240963855421688,0.016934504301174116,83.0,81.0,2.0,0.0,538
 3042,"Life is short, be aware of the dangers ahead.",1.0240963855421688,0.016934504301174116,83.0,81.0,2.0,0.0,538
 3042,I hope that I've sufficiently camouflaged my intentions.,1.0240963855421688,0.016934504301174116,83.0,81.0,2.0,0.0,538

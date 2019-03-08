@@ -5,22 +5,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4,"From the ashes, your bill will magically appear.",1.8326086956521737,0.041412888401802316,460.0,226.0,85.0,149.0,565
 5,The good news is this disease will be named after you.,1.6754966887417218,0.045258647807786816,302.0,158.0,84.0,60.0,565
 6,"As you can see, we take patient confidentiality very seriously.",1.6738351254480286,0.045887442327341314,279.0,142.0,86.0,51.0,565
-7,Let's handle the burning questions first.,1.6723549488054608,0.044908371485807334,293.0,150.0,89.0,54.0,565
-8,I'm going to refer you an exorcist in your network.,1.6579925650557619,0.04806286283160858,269.0,145.0,71.0,53.0,565
+7,Let's handle the burning questions first.,1.6723549488054608,0.04490837148580733,293.0,150.0,89.0,54.0,565
+8,I'm going to refer you an exorcist in your network.,1.657992565055762,0.04806286283160858,269.0,145.0,71.0,53.0,565
 9,Your wife said it's best if you don't know who the father is.,1.6561264822134387,0.05180156762532457,253.0,144.0,52.0,57.0,565
 10,"Actually, this time, it is as bad as it looks.",1.654450261780105,0.0568275170378187,191.0,103.0,51.0,37.0,565
-11,The tests do confirm you are a flaming asshole.,1.6468085106382981,0.05286570536592389,235.0,133.0,52.0,50.0,565
+11,The tests do confirm you are a flaming asshole.,1.646808510638298,0.05286570536592389,235.0,133.0,52.0,50.0,565
 12,"So the labs all come back normal, but I’d still like to get you to an exorcist.",1.6443514644351465,0.052162186332727865,239.0,135.0,54.0,50.0,565
 13,We finally got a reply from your insurance.,1.641350210970464,0.051181207317603165,237.0,131.0,60.0,46.0,565
 13,Any family history of spontaneous combustion?,1.641350210970464,0.051181207317603165,237.0,131.0,60.0,46.0,565
 15,"Damn it Jim, I’m a doctor, not an exorcist!",1.616161616161616,0.04878366786148894,198.0,99.0,76.0,23.0,565
 15,I think there's a good chance this'll be named for you.,1.616161616161616,0.057469828459003475,198.0,117.0,40.0,41.0,565
-17,I recommend plenty of liquids.,1.6157635467980296,0.054102881650729996,203.0,114.0,53.0,36.0,565
+17,I recommend plenty of liquids.,1.6157635467980296,0.05410288165073,203.0,114.0,53.0,36.0,565
 18,"We still don't know what you have, but we're pretty sure it's biblical.",1.615,0.05336773911165291,200.0,110.0,57.0,33.0,565
 19,"Honestly, I wouldn't even bother putting your pants back on.",1.5988700564971752,0.05847525860023856,177.0,103.0,42.0,32.0,565
 20,We found a match,1.5932203389830508,0.05907388114645125,177.0,105.0,39.0,33.0,565
-21,"In this case, the best treatment is diet and exorcism.",1.591954022988506,0.05283433416877828,174.0,92.0,61.0,21.0,565
-21,Nothing that bed rest and an exorcism won't fix.,1.591954022988506,0.05407724478159635,174.0,94.0,57.0,23.0,565
+21,"In this case, the best treatment is diet and exorcism.",1.5919540229885059,0.05283433416877828,174.0,92.0,61.0,21.0,565
+21,Nothing that bed rest and an exorcism won't fix.,1.5919540229885059,0.05407724478159635,174.0,94.0,57.0,23.0,565
 23,"Well, it's definitely not a cold.",1.5882352941176472,0.05508480649242788,170.0,93.0,54.0,23.0,565
 24,Looks like it's just general inflammation.,1.5857988165680474,0.05661569229931724,169.0,95.0,49.0,25.0,565
 25,"If you look closer at my degree on the wall, you'll notice it actually says infernal medicine.",1.5833333333333333,0.06232225898271921,156.0,93.0,35.0,28.0,565
@@ -107,7 +107,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 102,"Uh, any exorcisms you didn't tell us about?",1.4444444444444444,0.07027283689263067,81.0,51.0,24.0,6.0,565
 102,It appears your insurance has been declined.,1.4444444444444444,0.07453559924999299,81.0,53.0,20.0,8.0,565
 108,We are committed to maintaining the privacy of patient results.,1.44,0.08107387355352509,75.0,51.0,15.0,9.0,565
-109,I'd say your bowel is beyond merely irritable.,1.4358974358974361,0.08076751289210134,78.0,54.0,14.0,10.0,565
+109,I'd say your bowel is beyond merely irritable.,1.435897435897436,0.08076751289210134,78.0,54.0,14.0,10.0,565
 110,You just finished paying off my mortgage.,1.4342105263157894,0.08447054156038708,76.0,54.0,11.0,11.0,565
 110,"So, you say your laser vision is acting up.",1.4342105263157894,0.07570841181516923,76.0,50.0,19.0,7.0,565
 110,Our top priority is getting this inflammation under control.,1.4342105263157894,0.07570841181516923,76.0,50.0,19.0,7.0,565
@@ -282,37 +282,37 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 269,"With your pants testing positive, I’d say you’re a pathological liar.",1.3571428571428572,0.08983596678192861,56.0,42.0,8.0,6.0,565
 269,"Well, it's definitely not a cold.",1.3571428571428572,0.08983596678192861,56.0,42.0,8.0,6.0,565
 269,"So, you say it's a burning sensation?",1.3571428571428572,0.0822909449996929,56.0,40.0,12.0,4.0,565
-284,I will need a list of the last five people you've been intimate with. Immediately.,1.3529411764705883,0.092136000976241,51.0,38.0,8.0,5.0,565
-284,I see here you didn't cut down on spicy foods.,1.3529411764705883,0.092136000976241,51.0,38.0,8.0,5.0,565
-284,Your health plan went from repeal and replace to incinerate.,1.3529411764705883,0.092136000976241,51.0,38.0,8.0,5.0,565
-287,It reduces my malpractice premiums.,1.351851851851852,0.09217235172797736,54.0,41.0,7.0,6.0,565
-287,"The DNA test shows you to be a mix of Northern Italian, Montenegrin, and spawn of Satan.",1.351851851851852,0.08830022878508999,54.0,40.0,9.0,5.0,565
-287,This is your brain on politics,1.351851851851852,0.09217235172797736,54.0,41.0,7.0,6.0,565
-287,"Looks like you're covered under ACA.... Oh, wait...",1.351851851851852,0.09217235172797736,54.0,41.0,7.0,6.0,565
-287,Your health is perfect but your soul worries me.,1.351851851851852,0.08425033165473296,54.0,39.0,11.0,4.0,565
-287,Results are in...your gonna have to back off on the Sriracha.,1.351851851851852,0.09588823933430372,54.0,42.0,5.0,7.0,565
-287,Usually that only happens during urination.,1.351851851851852,0.07999566465981618,54.0,38.0,13.0,3.0,565
-287,And the chili pepper eating contest? When was that?,1.351851851851852,0.08425033165473296,54.0,39.0,11.0,4.0,565
-287,You were right. You shouldn't have come in.,1.351851851851852,0.07550161816013631,54.0,37.0,15.0,2.0,565
-287,Your insurance says you can burn in hell before they’ll cover this.,1.351851851851852,0.07550161816013631,54.0,37.0,15.0,2.0,565
-287,Now let's test your reflexes....,1.351851851851852,0.09217235172797736,54.0,41.0,7.0,6.0,565
-287,You're worried about side effects?,1.351851851851852,0.08830022878508999,54.0,40.0,9.0,5.0,565
-287,Ya... um... it's not good.,1.351851851851852,0.08425033165473296,54.0,39.0,11.0,4.0,565
-287,"If it's any consolation, Inflammatory Bill Disease is an extremely common condition.",1.351851851851852,0.08830022878508999,54.0,40.0,9.0,5.0,565
-287,Your results are difficult to interpret.,1.351851851851852,0.08425033165473296,54.0,39.0,11.0,4.0,565
-287,Your test results look like hell!,1.351851851851852,0.08830022878508999,54.0,40.0,9.0,5.0,565
-287,"On the other hand, your pyrokinesis is just fine.",1.351851851851852,0.08830022878508999,54.0,40.0,9.0,5.0,565
-287,In cases like this we like to treat fire with fire.,1.351851851851852,0.08425033165473296,54.0,39.0,11.0,4.0,565
-287,Paul Ryan American Care Act - Version 2.0,1.351851851851852,0.08830022878508999,54.0,40.0,9.0,5.0,565
-287,I won't keep you in suspense.,1.351851851851852,0.08830022878508999,54.0,40.0,9.0,5.0,565
-287,I'm going to refer your case to a specialist. A priest.,1.351851851851852,0.07072257295398894,54.0,36.0,17.0,1.0,565
-287,How recently since you returned from Burning Man?,1.351851851851852,0.08425033165473296,54.0,39.0,11.0,4.0,565
-287,The medication has a few side effects.,1.351851851851852,0.08425033165473296,54.0,39.0,11.0,4.0,565
-287,Is there a history of spontaneous combustion in your family?,1.351851851851852,0.07999566465981618,54.0,38.0,13.0,3.0,565
-287,Let's start with the good news.,1.351851851851852,0.09217235172797736,54.0,41.0,7.0,6.0,565
-287,"At least the results are conclusive, you have to be happy about that.",1.351851851851852,0.08425033165473296,54.0,39.0,11.0,4.0,565
-287,I'm afraid you're going to have to tell your wife about this.,1.351851851851852,0.08425033165473296,54.0,39.0,11.0,4.0,565
-287,"Well, we can rule out hypothermia.",1.351851851851852,0.08425033165473296,54.0,39.0,11.0,4.0,565
+284,I will need a list of the last five people you've been intimate with. Immediately.,1.3529411764705883,0.09213600097624099,51.0,38.0,8.0,5.0,565
+284,I see here you didn't cut down on spicy foods.,1.3529411764705883,0.09213600097624099,51.0,38.0,8.0,5.0,565
+284,Your health plan went from repeal and replace to incinerate.,1.3529411764705883,0.09213600097624099,51.0,38.0,8.0,5.0,565
+287,It reduces my malpractice premiums.,1.3518518518518519,0.09217235172797736,54.0,41.0,7.0,6.0,565
+287,"The DNA test shows you to be a mix of Northern Italian, Montenegrin, and spawn of Satan.",1.3518518518518519,0.08830022878508999,54.0,40.0,9.0,5.0,565
+287,This is your brain on politics,1.3518518518518519,0.09217235172797736,54.0,41.0,7.0,6.0,565
+287,"Looks like you're covered under ACA.... Oh, wait...",1.3518518518518519,0.09217235172797736,54.0,41.0,7.0,6.0,565
+287,Your health is perfect but your soul worries me.,1.3518518518518519,0.08425033165473296,54.0,39.0,11.0,4.0,565
+287,Results are in...your gonna have to back off on the Sriracha.,1.3518518518518519,0.09588823933430372,54.0,42.0,5.0,7.0,565
+287,Usually that only happens during urination.,1.3518518518518519,0.07999566465981618,54.0,38.0,13.0,3.0,565
+287,And the chili pepper eating contest? When was that?,1.3518518518518519,0.08425033165473296,54.0,39.0,11.0,4.0,565
+287,You were right. You shouldn't have come in.,1.3518518518518519,0.07550161816013631,54.0,37.0,15.0,2.0,565
+287,Your insurance says you can burn in hell before they’ll cover this.,1.3518518518518519,0.07550161816013631,54.0,37.0,15.0,2.0,565
+287,Now let's test your reflexes....,1.3518518518518519,0.09217235172797736,54.0,41.0,7.0,6.0,565
+287,You're worried about side effects?,1.3518518518518519,0.08830022878508999,54.0,40.0,9.0,5.0,565
+287,Ya... um... it's not good.,1.3518518518518519,0.08425033165473296,54.0,39.0,11.0,4.0,565
+287,"If it's any consolation, Inflammatory Bill Disease is an extremely common condition.",1.3518518518518519,0.08830022878508999,54.0,40.0,9.0,5.0,565
+287,Your results are difficult to interpret.,1.3518518518518519,0.08425033165473296,54.0,39.0,11.0,4.0,565
+287,Your test results look like hell!,1.3518518518518519,0.08830022878508999,54.0,40.0,9.0,5.0,565
+287,"On the other hand, your pyrokinesis is just fine.",1.3518518518518519,0.08830022878508999,54.0,40.0,9.0,5.0,565
+287,In cases like this we like to treat fire with fire.,1.3518518518518519,0.08425033165473296,54.0,39.0,11.0,4.0,565
+287,Paul Ryan American Care Act - Version 2.0,1.3518518518518519,0.08830022878508999,54.0,40.0,9.0,5.0,565
+287,I won't keep you in suspense.,1.3518518518518519,0.08830022878508999,54.0,40.0,9.0,5.0,565
+287,I'm going to refer your case to a specialist. A priest.,1.3518518518518519,0.07072257295398894,54.0,36.0,17.0,1.0,565
+287,How recently since you returned from Burning Man?,1.3518518518518519,0.08425033165473296,54.0,39.0,11.0,4.0,565
+287,The medication has a few side effects.,1.3518518518518519,0.08425033165473296,54.0,39.0,11.0,4.0,565
+287,Is there a history of spontaneous combustion in your family?,1.3518518518518519,0.07999566465981618,54.0,38.0,13.0,3.0,565
+287,Let's start with the good news.,1.3518518518518519,0.09217235172797736,54.0,41.0,7.0,6.0,565
+287,"At least the results are conclusive, you have to be happy about that.",1.3518518518518519,0.08425033165473296,54.0,39.0,11.0,4.0,565
+287,I'm afraid you're going to have to tell your wife about this.,1.3518518518518519,0.08425033165473296,54.0,39.0,11.0,4.0,565
+287,"Well, we can rule out hypothermia.",1.3518518518518519,0.08425033165473296,54.0,39.0,11.0,4.0,565
 315,Is this what it feels like when you urinate?,1.3461538461538465,0.08633922095068135,52.0,38.0,10.0,4.0,565
 315,"Your heartburn is not only off the charts, it's destroying the charts.",1.3461538461538465,0.08633922095068135,52.0,38.0,10.0,4.0,565
 315,"Do you want the bad news or the really, really bad news first?",1.3461538461538465,0.08633922095068135,52.0,38.0,10.0,4.0,565
@@ -356,28 +356,28 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 347,"I'm sorry Mr. Smith, some things just won't stay in Vegas.",1.3333333333333333,0.082446258986779,51.0,37.0,11.0,3.0,565
 347,"Right, but, medicine isn't actually a science.",1.3333333333333333,0.08707295416146872,51.0,38.0,9.0,4.0,565
 357,"If you're too embarrassed to say it, is THIS how it feels down there?",1.3269230769230769,0.08562235054373872,52.0,39.0,9.0,4.0,565
-358,Your health plan doesn't cover chartburn.,1.326530612244898,0.08445380284309617,49.0,36.0,10.0,3.0,565
-358,I see that you were referred by a Doctor Faustus...,1.326530612244898,0.0939847066642728,49.0,38.0,6.0,5.0,565
-358,It looks like a case of inflammatory billing syndrome.,1.326530612244898,0.08934643222152178,49.0,37.0,8.0,4.0,565
-358,We go above and beyond HIPAA in protecting your privacy rights.,1.326530612244898,0.07925972923626562,49.0,35.0,12.0,2.0,565
-358,Your medical records will self-destruct in five seconds. Good luck Jim.,1.326530612244898,0.07925972923626562,49.0,35.0,12.0,2.0,565
-358,Does it itch too?,1.326530612244898,0.07925972923626562,49.0,35.0,12.0,2.0,565
-358,"First the good news: Your plan has excellent cremation coverage, anyway.",1.326530612244898,0.07925972923626562,49.0,35.0,12.0,2.0,565
-358,The blood test shows your inflammatory markers are pretty elevated.,1.326530612244898,0.08445380284309617,49.0,36.0,10.0,3.0,565
-358,We're having a little trouble with your insurance.,1.326530612244898,0.07925972923626562,49.0,35.0,12.0,2.0,565
-358,"Well, we could always get a third opinion.",1.326530612244898,0.08934643222152178,49.0,37.0,8.0,4.0,565
-358,I am surprised you are able to sit.,1.326530612244898,0.0939847066642728,49.0,38.0,6.0,5.0,565
-358,"How are you at metaphors, Mr. Quimby?",1.326530612244898,0.08934643222152178,49.0,37.0,8.0,4.0,565
-358,It's the lab report on your hemorrhoids,1.326530612244898,0.07925972923626562,49.0,35.0,12.0,2.0,565
-358,Does your health plan include any shamans?,1.326530612244898,0.08445380284309617,49.0,36.0,10.0,3.0,565
-358,Hmm .. the DNA test says you are 1/4 Dragon.,1.326530612244898,0.08934643222152178,49.0,37.0,8.0,4.0,565
-358,"According to the test results, you're a ""hot mess"".",1.326530612244898,0.08445380284309617,49.0,36.0,10.0,3.0,565
-358,It's definitely not a cold.,1.326530612244898,0.08934643222152178,49.0,37.0,8.0,4.0,565
-358,I see you're in the high risk insurance pool.,1.326530612244898,0.0737005057143553,49.0,34.0,14.0,1.0,565
-358,These new tests tell me how long you've got and where you're going... after.,1.326530612244898,0.08445380284309617,49.0,36.0,10.0,3.0,565
-358,You can do this. It's only ten commandments.,1.326530612244898,0.08934643222152178,49.0,37.0,8.0,4.0,565
-358,"Well, first off, your blood pressure is rather high.",1.326530612244898,0.08445380284309617,49.0,36.0,10.0,3.0,565
-358,"Your prescription, should you choose to accept it, will self-destruct in 15 seconds.",1.326530612244898,0.07925972923626562,49.0,35.0,12.0,2.0,565
+358,Your health plan doesn't cover chartburn.,1.3265306122448979,0.08445380284309617,49.0,36.0,10.0,3.0,565
+358,I see that you were referred by a Doctor Faustus...,1.3265306122448979,0.0939847066642728,49.0,38.0,6.0,5.0,565
+358,It looks like a case of inflammatory billing syndrome.,1.3265306122448979,0.08934643222152178,49.0,37.0,8.0,4.0,565
+358,We go above and beyond HIPAA in protecting your privacy rights.,1.3265306122448979,0.07925972923626562,49.0,35.0,12.0,2.0,565
+358,Your medical records will self-destruct in five seconds. Good luck Jim.,1.3265306122448979,0.07925972923626562,49.0,35.0,12.0,2.0,565
+358,Does it itch too?,1.3265306122448979,0.07925972923626562,49.0,35.0,12.0,2.0,565
+358,"First the good news: Your plan has excellent cremation coverage, anyway.",1.3265306122448979,0.07925972923626562,49.0,35.0,12.0,2.0,565
+358,The blood test shows your inflammatory markers are pretty elevated.,1.3265306122448979,0.08445380284309617,49.0,36.0,10.0,3.0,565
+358,We're having a little trouble with your insurance.,1.3265306122448979,0.07925972923626562,49.0,35.0,12.0,2.0,565
+358,"Well, we could always get a third opinion.",1.3265306122448979,0.08934643222152178,49.0,37.0,8.0,4.0,565
+358,I am surprised you are able to sit.,1.3265306122448979,0.0939847066642728,49.0,38.0,6.0,5.0,565
+358,"How are you at metaphors, Mr. Quimby?",1.3265306122448979,0.08934643222152178,49.0,37.0,8.0,4.0,565
+358,It's the lab report on your hemorrhoids,1.3265306122448979,0.07925972923626562,49.0,35.0,12.0,2.0,565
+358,Does your health plan include any shamans?,1.3265306122448979,0.08445380284309617,49.0,36.0,10.0,3.0,565
+358,Hmm .. the DNA test says you are 1/4 Dragon.,1.3265306122448979,0.08934643222152178,49.0,37.0,8.0,4.0,565
+358,"According to the test results, you're a ""hot mess"".",1.3265306122448979,0.08445380284309617,49.0,36.0,10.0,3.0,565
+358,It's definitely not a cold.,1.3265306122448979,0.08934643222152178,49.0,37.0,8.0,4.0,565
+358,I see you're in the high risk insurance pool.,1.3265306122448979,0.0737005057143553,49.0,34.0,14.0,1.0,565
+358,These new tests tell me how long you've got and where you're going... after.,1.3265306122448979,0.08445380284309617,49.0,36.0,10.0,3.0,565
+358,You can do this. It's only ten commandments.,1.3265306122448979,0.08934643222152178,49.0,37.0,8.0,4.0,565
+358,"Well, first off, your blood pressure is rather high.",1.3265306122448979,0.08445380284309617,49.0,36.0,10.0,3.0,565
+358,"Your prescription, should you choose to accept it, will self-destruct in 15 seconds.",1.3265306122448979,0.07925972923626562,49.0,35.0,12.0,2.0,565
 380,"Well, looking at these results, you maybe an arsonist.",1.32,0.08300479455047971,50.0,37.0,10.0,3.0,565
 381,Your magnesium levels are a little high.,1.319148936170213,0.08107957386183326,47.0,34.0,11.0,2.0,565
 381,Well there's your second opinion.,1.319148936170213,0.09669077224961553,47.0,37.0,5.0,5.0,565

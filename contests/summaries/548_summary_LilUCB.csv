@@ -1,5 +1,5 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
-1,"Well, five acres of popcorn back there says you were.",1.9574247144340602,0.0270380422475627,963.0,360.0,284.0,319.0,548
+1,"Well, five acres of popcorn back there says you were.",1.95742471443406,0.0270380422475627,963.0,360.0,284.0,319.0,548
 2,So Major Tom... Do you know how fast you were going?,1.9242761692650328,0.031135054784754482,898.0,427.0,112.0,359.0,548
 3,"Sir, I don't make the laws of physics I just enforce them.",1.9071618037135285,0.029838568812464668,754.0,291.0,242.0,221.0,548
 4,I'm going to need you to take one small step out of the vehicle,1.902912621359224,0.03662840977931727,515.0,205.0,155.0,155.0,548
@@ -10,7 +10,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 9,I got you doing light in a sound zone.,1.6876971608832807,0.04333117507307322,317.0,159.0,98.0,60.0,548
 10,If you stay below the speed of sound you'll hear the sirens next time.,1.684887459807074,0.043103223611556524,311.0,154.0,101.0,56.0,548
 11,"First of all, thank you for stopping.",1.6754098360655738,0.043178499348405834,305.0,152.0,100.0,53.0,548
-12,You're the first one to actually stop.,1.6744966442953018,0.044520582683958664,298.0,152.0,91.0,55.0,548
+12,You're the first one to actually stop.,1.6744966442953018,0.04452058268395866,298.0,152.0,91.0,55.0,548
 12,And I suppose they don't have stop signs in the future either.,1.6744966442953018,0.04577192341039535,298.0,157.0,81.0,60.0,548
 14,"Sir, I just need you to take one small step out of the vehicle.",1.6744186046511629,0.04314504924265082,301.0,149.0,101.0,51.0,548
 15,I clocked you doing light in a sound zone.,1.6734006734006734,0.04566470796226579,297.0,156.0,82.0,59.0,548
@@ -39,7 +39,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 38,"Sir, I'm going to need you to eject from the vehicle.",1.5956521739130434,0.051074583735343536,230.0,134.0,55.0,41.0,548
 38,Just leave a little earlier next time..,1.5956521739130434,0.051074583735343536,230.0,134.0,55.0,41.0,548
 40,"We respect the sound barrier in this county, son.",1.5884955752212389,0.04666457822877988,226.0,121.0,77.0,28.0,548
-41,Trying to get back to November 8?,1.587719298245614,0.052240476954879454,228.0,137.0,48.0,43.0,548
+41,Trying to get back to November 8?,1.5877192982456139,0.052240476954879454,228.0,137.0,48.0,43.0,548
 42,"Cool your jets, ace.",1.5855855855855856,0.05065183401396951,222.0,128.0,58.0,36.0,548
 43,"Sir, your registration is 80 years in the future.",1.5837104072398192,0.05084666892295645,221.0,128.0,57.0,36.0,548
 43,Then how do you explain the sonic boom?,1.5837104072398192,0.052046034876056524,221.0,131.0,51.0,39.0,548
@@ -54,7 +54,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 53,Don't even think about pressing the eject button.,1.5674418604651164,0.044903744774676665,215.0,113.0,82.0,20.0,548
 54,Trying to fly under the radar?,1.5660377358490567,0.05181052494335013,212.0,126.0,52.0,34.0,548
 55,"Sir, do you realize you were going 6,500 in a 50-mile zone?",1.5603864734299515,0.04914616614818014,207.0,117.0,64.0,26.0,548
-56,"Zero to sixty in a second was impressive, but it was the next ten seconds where we have a problem, Sir.",1.5598086124401909,0.05064508241708333,209.0,122.0,57.0,30.0,548
+56,"Zero to sixty in a second was impressive, but it was the next ten seconds where we have a problem, Sir.",1.5598086124401909,0.050645082417083334,209.0,122.0,57.0,30.0,548
 57,You're not from around here are you?,1.5582524271844658,0.04885643983959837,206.0,116.0,65.0,25.0,548
 57,Failure to signal left turn and incinerating my partner.,1.5582524271844658,0.05259115219296695,206.0,124.0,49.0,33.0,548
 59,"Look around you, son. This here's a fly-over state.",1.5522388059701493,0.05079014784230912,201.0,117.0,57.0,27.0,548
@@ -73,7 +73,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 72,"Since your vehicle will be impounded over the holidays, I'll call Missile-Tow.",1.5364583333333333,0.0547047025839846,192.0,120.0,41.0,31.0,548
 73,"Houston, we have a ticket.",1.5340314136125657,0.05341178561866075,191.0,117.0,46.0,28.0,548
 74,"First of all, thank you for pulling over.",1.5315789473684212,0.054153706775757315,190.0,118.0,43.0,29.0,548
-75,That's one giant leap for mankind and this small ticket for you.,1.5291005291005288,0.052808638595501986,189.0,115.0,48.0,26.0,548
+75,That's one giant leap for mankind and this small ticket for you.,1.5291005291005288,0.05280863859550199,189.0,115.0,48.0,26.0,548
 75,Why I stopped you? For holding up the flow of traffic.,1.5291005291005288,0.05691265793256444,189.0,123.0,32.0,34.0,548
 77,"First off, I appreciate you pulling over.",1.5287958115183249,0.05023823734470734,191.0,112.0,57.0,22.0,548
 77,It's not smoke - this is a vapemobile.,1.5287958115183249,0.055452650986433774,191.0,122.0,37.0,32.0,548
@@ -100,8 +100,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 99,"Okay, I'll need your: drivers license; registration; insurance card; pilots license; NASA test certificate; EPA and state pollution waver; UN global warming exception; Jet Propulsion Lab experimental permit and your state weight and length permit.",1.5096774193548388,0.059580816069655235,155.0,99.0,33.0,23.0,548
 100,Can't get to the Canadian border fast enough?,1.5083798882681565,0.05678424195091492,179.0,117.0,33.0,29.0,548
 100,Please allow me to backup before you start your engines.,1.5083798882681565,0.05157047455859954,179.0,108.0,51.0,20.0,548
-102,I have to take you in as a flight risk.,1.5056818181818181,0.055242769457475235,176.0,112.0,39.0,25.0,548
-102,"License and constellation, please.",1.5056818181818181,0.05222153054685811,176.0,107.0,49.0,20.0,548
+102,I have to take you in as a flight risk.,1.505681818181818,0.055242769457475235,176.0,112.0,39.0,25.0,548
+102,"License and constellation, please.",1.505681818181818,0.05222153054685811,176.0,107.0,49.0,20.0,548
 104,"Sir, do you know how fast you were going back there? Because I have no idea.",1.502857142857143,0.05244390902395957,175.0,107.0,48.0,20.0,548
 104,Your license expired light years ago!,1.502857142857143,0.05181391848453037,175.0,106.0,50.0,19.0,548
 104,I only have one question: why did you stop?,1.502857142857143,0.05837103771247557,175.0,117.0,28.0,30.0,548
@@ -115,7 +115,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 112,"Speeding, failure to yield, improper lane usage, no brake lights, disturbing the peace, 3 stop sign violations, failure to file a flight plan, technically, there’s no ordinance about what you did to that cow, no license plates, no insurance………",1.4970760233918128,0.05399376246374446,171.0,107.0,43.0,21.0,548
 112,I noticed you were texting,1.4970760233918128,0.055872396886159005,171.0,110.0,37.0,24.0,548
 112,I'm gonna need to search the vehicle for illegal aliens,1.4970760233918128,0.05525328301739242,171.0,109.0,39.0,23.0,548
-117,Really? No idea at all?,1.4943181818181819,0.05640597226537177,176.0,116.0,33.0,27.0,548
+117,Really? No idea at all?,1.494318181818182,0.05640597226537177,176.0,116.0,33.0,27.0,548
 118,Cool your jets,1.4941176470588236,0.05358505463561072,170.0,106.0,44.0,20.0,548
 118,You can just cool your jets while I write up this citation.,1.4941176470588236,0.05226978851834806,170.0,104.0,48.0,18.0,548
 120,Don't start your engines until I leave.,1.4911242603550297,0.05316043172791251,169.0,105.0,45.0,19.0,548
@@ -140,7 +140,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 139,It's a rental.,1.478527607361963,0.05595454769251844,163.0,106.0,36.0,21.0,548
 139,'Living life in the fast lane' is a metaphor -- not an explanation!,1.478527607361963,0.05662730586486745,163.0,107.0,34.0,22.0,548
 139,"Sir, I'm going to need you to take one small step and the one giant leap out of the car.",1.478527607361963,0.05595454769251844,163.0,106.0,36.0,21.0,548
-139,"Sir, the law of gravity is about the only one you didn't just break...",1.478527607361963,0.054584161470122995,163.0,104.0,40.0,19.0,548
+139,"Sir, the law of gravity is about the only one you didn't just break...",1.478527607361963,0.054584161470123,163.0,104.0,40.0,19.0,548
 143,"I'm gonna let you slide on breaking the sound barrier, but I'll hafta write you up for not wearing your seat belt.",1.4753086419753083,0.05340963693073684,162.0,102.0,43.0,17.0,548
 143,Slow down. Canada's not going anywhere.,1.4753086419753083,0.05340963693073684,162.0,102.0,43.0,17.0,548
 143,"I repeat license and registration, Sir. This is not rocket science.",1.4753086419753083,0.05412273600969055,162.0,103.0,41.0,18.0,548
@@ -165,7 +165,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 163,"I don't really know how fast you were going, but I'm putting yesterday's date on the ticket.",1.4615384615384617,0.05560749200094224,156.0,102.0,36.0,18.0,548
 163,Thank you for pulling over. It occurred to me after I hit the siren that I didn't really have a Plan B.,1.4615384615384617,0.057075556401251476,156.0,104.0,32.0,20.0,548
 163,"Normally I would ask this sarcastically, but were you trying to set a land speed record?",1.4615384615384617,0.05409960438632865,156.0,100.0,40.0,16.0,548
-163,Not from around here are you?,1.4615384615384617,0.05175546576875618,156.0,97.0,46.0,13.0,548
+163,Not from around here are you?,1.4615384615384617,0.051755465768756184,156.0,97.0,46.0,13.0,548
 168,Small penis?,1.4580645161290322,0.05660312422628189,155.0,103.0,33.0,19.0,548
 168,"You went through three stop signs, a school zone and Mount Rushmore.",1.4580645161290322,0.051160564971922284,155.0,96.0,47.0,12.0,548
 168,You just exceeded your carbon footprint.,1.4580645161290322,0.055858092445182236,155.0,102.0,35.0,18.0,548
@@ -177,31 +177,31 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 175,"When I had my midlife crisis, I bought roller blades.",1.4539473684210529,0.05430156024353889,152.0,98.0,39.0,15.0,548
 177,Don't you want to know how I caught up with you?,1.4522292993630572,0.056754929201062614,157.0,106.0,31.0,20.0,548
 178,"You're the rocket scientist, you tell me.",1.4503311258278146,0.05289728621911484,151.0,96.0,42.0,13.0,548
-179,"Is there something wrong, officer?",1.4466666666666668,0.054781785266794183,150.0,98.0,37.0,15.0,548
+179,"Is there something wrong, officer?",1.4466666666666668,0.05478178526679418,150.0,98.0,37.0,15.0,548
 179,"Sorry Mack, but around here the sound barrier is strictly enforced.",1.4466666666666668,0.05717954505639297,150.0,101.0,31.0,18.0,548
 179,"You were travelling at the speed of light in a speed of sound zone, sir.",1.4466666666666668,0.05872368593746501,150.0,103.0,27.0,20.0,548
 179,"You still need two or more passengers for the carpool lane, sir.",1.4466666666666668,0.05312318777888991,150.0,96.0,41.0,13.0,548
 179,"Yes, you might say I'm profiling.",1.4466666666666668,0.05141110933023374,150.0,94.0,45.0,11.0,548
 179,I'm actually grateful: this meets my quota for the whole year.,1.4466666666666668,0.05639162095775487,150.0,100.0,33.0,17.0,548
 179,WHY I pulled you over? I'm more interested in how.,1.4466666666666668,0.05717954505639297,150.0,101.0,31.0,18.0,548
-179,Eject yourself with your hands up!,1.4466666666666668,0.054781785266794183,150.0,98.0,37.0,15.0,548
+179,Eject yourself with your hands up!,1.4466666666666668,0.05478178526679418,150.0,98.0,37.0,15.0,548
 179,"You're not from these parts, are you?",1.4466666666666668,0.05227415825413377,150.0,95.0,43.0,12.0,548
-179,"No, you weren't speeding. It's your carbon footprint.",1.4466666666666668,0.054781785266794183,150.0,98.0,37.0,15.0,548
+179,"No, you weren't speeding. It's your carbon footprint.",1.4466666666666668,0.05478178526679418,150.0,98.0,37.0,15.0,548
 179,I'll give you just a warning if you'll let me drive it by my old high school.,1.4466666666666668,0.05639162095775487,150.0,100.0,33.0,17.0,548
 179,"Let's see, 150 dollars times the speed of light...",1.4466666666666668,0.05559253057408094,150.0,99.0,35.0,16.0,548
 179,"... speeding, failure to yield, driving while texting, running a stop sign, vaporizing a garbage truck, ...",1.4466666666666668,0.05872368593746501,150.0,103.0,27.0,20.0,548
 179,I pulled you over for failing to yield to the state of Ohio,1.4466666666666668,0.05795675828985824,150.0,102.0,29.0,19.0,548
-179,Where on Earth did you learn to drive?,1.4466666666666668,0.054781785266794183,150.0,98.0,37.0,15.0,548
+179,Where on Earth did you learn to drive?,1.4466666666666668,0.05478178526679418,150.0,98.0,37.0,15.0,548
 179,"Sir, I pulled you over for a violation of the time-space continuum.",1.4466666666666668,0.05639162095775487,150.0,100.0,33.0,17.0,548
 179,Let the record show that I caught you with a Ford.,1.4466666666666668,0.05872368593746501,150.0,103.0,27.0,20.0,548
-179,"Overcompensating a bit, Aren't you?",1.4466666666666668,0.054781785266794183,150.0,98.0,37.0,15.0,548
+179,"Overcompensating a bit, Aren't you?",1.4466666666666668,0.05478178526679418,150.0,98.0,37.0,15.0,548
 179,"Sir, are you aware that your left turn signal has been on through Maine, New Hampshire and Vermont?",1.4466666666666668,0.05559253057408094,150.0,99.0,35.0,16.0,548
 179,Do you realize how fast you were going because I don't?,1.4466666666666668,0.0594807258588444,150.0,104.0,25.0,21.0,548
 199,"Then out of nowhere, officer, some total asteroid cut me off.",1.4429530201342282,0.05419341644813102,149.0,97.0,38.0,14.0,548
 199,"Look, I had a mid-life crisis too.",1.4429530201342282,0.05744306113526139,149.0,101.0,30.0,18.0,548
 199,You failed to yield upon re-entry.,1.4429530201342282,0.055023823094072284,149.0,98.0,36.0,15.0,548
 199,"You were 10 miles over the speed limit. And, by the way, that's pathetic.",1.4429530201342282,0.05335008589265206,149.0,96.0,40.0,13.0,548
-199,Cool your jets,1.4429530201342282,0.04983425306437866,149.0,92.0,48.0,9.0,548
+199,Cool your jets,1.4429530201342282,0.049834253064378664,149.0,92.0,48.0,9.0,548
 199,"You need to practice a little more ground control, Major Tom.",1.4429530201342282,0.055023823094072284,149.0,98.0,36.0,15.0,548
 199,Ground control to major dumbass.,1.4429530201342282,0.05822714138747138,149.0,102.0,28.0,19.0,548
 199,"You realize that was a rolling stop back there, right?",1.4429530201342282,0.05419341644813102,149.0,97.0,38.0,14.0,548
@@ -235,13 +235,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 226,"Sir, I can't let off everyone desperately rushing to escape the planet.",1.4305555555555556,0.056315221859377235,144.0,97.0,32.0,15.0,548
 235,What sort of mileage you get on this baby?,1.4296296296296296,0.05518023209859195,135.0,88.0,36.0,11.0,548
 236,"I know the difference between a Tesla Model S and a SpaceX Falcon 9, Mr. Musk. License and registration, please.",1.4274809160305344,0.06321819010170393,131.0,93.0,20.0,18.0,548
-237,"I clocked you at the speed of light, but I'll knock it down to the speed of sound.",1.4265734265734267,0.05389352479769454,143.0,94.0,37.0,12.0,548
-237,"Son, i dont think you understand the gravity of your situation",1.4265734265734267,0.058283593714847336,143.0,99.0,27.0,17.0,548
-237,I was traveling faster than the speed of light so I didn't see it turn red.,1.4265734265734267,0.05569109558626752,143.0,96.0,33.0,14.0,548
-237,"License and constellation, please.",1.4265734265734267,0.05479968130709568,143.0,95.0,35.0,13.0,548
-237,This one's from Illinois; this one's from Iowa; this one's from Nebraska and this one's from Wyoming. You're lucky I stopped you before you hit Idaho.,1.4265734265734267,0.05479968130709568,143.0,95.0,35.0,13.0,548
-237,I had you at Mach 2 in the school zone.,1.4265734265734267,0.05297186950524005,143.0,93.0,39.0,11.0,548
-237,"I've been clocking you for the last ten miles. If 25 mph is all you can do, you'll have to get off the highway.",1.4265734265734267,0.057432431953364615,143.0,98.0,29.0,16.0,548
+237,"I clocked you at the speed of light, but I'll knock it down to the speed of sound.",1.426573426573427,0.05389352479769454,143.0,94.0,37.0,12.0,548
+237,"Son, i dont think you understand the gravity of your situation",1.426573426573427,0.058283593714847336,143.0,99.0,27.0,17.0,548
+237,I was traveling faster than the speed of light so I didn't see it turn red.,1.426573426573427,0.05569109558626752,143.0,96.0,33.0,14.0,548
+237,"License and constellation, please.",1.426573426573427,0.05479968130709568,143.0,95.0,35.0,13.0,548
+237,This one's from Illinois; this one's from Iowa; this one's from Nebraska and this one's from Wyoming. You're lucky I stopped you before you hit Idaho.,1.426573426573427,0.05479968130709568,143.0,95.0,35.0,13.0,548
+237,I had you at Mach 2 in the school zone.,1.426573426573427,0.05297186950524005,143.0,93.0,39.0,11.0,548
+237,"I've been clocking you for the last ten miles. If 25 mph is all you can do, you'll have to get off the highway.",1.426573426573427,0.057432431953364615,143.0,98.0,29.0,16.0,548
 244,"I realize The Force Was With You, sir, but the 27 lights you ran weren't.",1.4236111111111112,0.059605558157266085,144.0,102.0,23.0,19.0,548
 244,"Go ahead, mach my day.",1.4236111111111112,0.05449836676900188,144.0,96.0,35.0,13.0,548
 244,you realize you vaporized a cow back there?,1.4236111111111112,0.060414796700513085,144.0,103.0,21.0,20.0,548
@@ -428,14 +428,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 421,It appears you have failed our emissions test,1.3828125,0.054476180581408136,128.0,88.0,31.0,9.0,548
 421,"Well for starters, failure to keep on the ground.",1.3828125,0.05881989659112091,128.0,92.0,23.0,13.0,548
 421,"And please don't say, 'Houston, I've got a problem.'",1.3828125,0.05668965728300158,128.0,90.0,27.0,11.0,548
-421,I'm no rocket scientist but I am still sure you were speeding,1.3828125,0.055593936241295064,128.0,89.0,29.0,10.0,548
+421,I'm no rocket scientist but I am still sure you were speeding,1.3828125,0.05559393624129506,128.0,89.0,29.0,10.0,548
 421,"If you were really from the future, this thing would be self-driving.",1.3828125,0.054476180581408136,128.0,88.0,31.0,9.0,548
 421,"So, what's it like on fuel?",1.3828125,0.05668965728300158,128.0,90.0,27.0,11.0,548
 421,Speed Is Relative.,1.3828125,0.059856593045822026,128.0,93.0,21.0,14.0,548
-421,Mid-life crisis eh?,1.3828125,0.055593936241295064,128.0,89.0,29.0,10.0,548
+421,Mid-life crisis eh?,1.3828125,0.05559393624129506,128.0,89.0,29.0,10.0,548
 421,"Yes, and I'm Batman. Now get out of the car and show me your license.",1.3828125,0.05881989659112091,128.0,92.0,23.0,13.0,548
 421,"What's your hurry, son?",1.3828125,0.05881989659112091,128.0,92.0,23.0,13.0,548
-421,I don't care if you were obeying the laws of thermodynamics.,1.3828125,0.055593936241295064,128.0,89.0,29.0,10.0,548
+421,I don't care if you were obeying the laws of thermodynamics.,1.3828125,0.05559393624129506,128.0,89.0,29.0,10.0,548
 421,Let me pull away before you start her up.,1.3828125,0.05881989659112091,128.0,92.0,23.0,13.0,548
 421,"Sir, the space race is over.",1.3828125,0.059856593045822026,128.0,93.0,21.0,14.0,548
 421,"That's one fast police car you got there, Officer!",1.3828125,0.05881989659112091,128.0,92.0,23.0,13.0,548
@@ -460,7 +460,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 444,"So, I take it that you're not from around here.",1.37984496124031,0.056326711741603176,129.0,91.0,27.0,11.0,548
 444,Your right taillight has melted,1.37984496124031,0.057391832926204825,129.0,92.0,25.0,12.0,548
 444,Actually officer a light-year measures distance not speed.,1.37984496124031,0.055241057417593886,129.0,90.0,29.0,10.0,548
-462,License and flight plan...,1.3779527559055118,0.053533013266065986,127.0,87.0,32.0,8.0,548
+462,License and flight plan...,1.3779527559055118,0.05353301326606599,127.0,87.0,32.0,8.0,548
 462,You were texting.,1.3779527559055118,0.06217442018199964,127.0,95.0,16.0,16.0,548
 462,"Scotty, the nerd from 7th grade science class...so we meet again.",1.3779527559055118,0.05692746823988784,127.0,90.0,26.0,11.0,548
 462,"Save it, buddy. I hear that old 'afterburner got stuck' story all the time.",1.3779527559055118,0.05468791353030098,127.0,88.0,30.0,9.0,548
@@ -468,14 +468,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 462,You can tell Houston that your right tail light is out!,1.3779527559055118,0.05114503646923165,127.0,85.0,36.0,6.0,548
 462,And you also barbecued enough cattle to feed half of Tennessee...,1.3779527559055118,0.055818923881158417,127.0,89.0,28.0,10.0,548
 462,But Officer I'm white...,1.3779527559055118,0.06511997892986826,127.0,98.0,10.0,19.0,548
-462,I'm telling you to basically cool your jets.,1.3779527559055118,0.053533013266065986,127.0,87.0,32.0,8.0,548
+462,I'm telling you to basically cool your jets.,1.3779527559055118,0.05353301326606599,127.0,87.0,32.0,8.0,548
 462,"No! I'm late for launch, not lunch!",1.3779527559055118,0.055818923881158417,127.0,89.0,28.0,10.0,548
 462,Do you know how many miles per second you were going?,1.3779527559055118,0.05801483445771712,127.0,91.0,24.0,12.0,548
 462,The speed of light isn't just a good idea; it's the law.,1.3779527559055118,0.05801483445771712,127.0,91.0,24.0,12.0,548
 462,"I need to see you license, registration and flight plan.",1.3779527559055118,0.055818923881158417,127.0,89.0,28.0,10.0,548
 462,"Test pilot, eh? If I had a dime for every time I heard that one...",1.3779527559055118,0.05801483445771712,127.0,91.0,24.0,12.0,548
 462,Drivers licence registration and autograph please,1.3779527559055118,0.05801483445771712,127.0,91.0,24.0,12.0,548
-462,Any particular reason you were doing 550 in a 55?,1.3779527559055118,0.053533013266065986,127.0,87.0,32.0,8.0,548
+462,Any particular reason you were doing 550 in a 55?,1.3779527559055118,0.05353301326606599,127.0,87.0,32.0,8.0,548
 462,"Yes, but do YOU know how fast I was going?",1.3779527559055118,0.052352642076517165,127.0,86.0,34.0,7.0,548
 479,"Chin up, you still might break the record for fastest conviction.",1.376,0.05407760254277361,125.0,86.0,31.0,8.0,548
 479,"The radar gun says you were doing ""error"" in a 35mph zone.",1.376,0.05641322196881887,125.0,88.0,27.0,10.0,548
@@ -764,19 +764,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 731,Canada?,1.3333333333333333,0.0606166452768919,114.0,87.0,16.0,11.0,548
 731,"Are you maching me, young man?",1.3333333333333333,0.053834010708841286,114.0,82.0,26.0,6.0,548
 731,"I don't care if you're moving to Canada, sir, you need to slow down.",1.3333333333333333,0.057998852526361076,114.0,85.0,20.0,9.0,548
-766,You were doing the speed of light but I'm only writing you up for the speed of sound.,1.3304347826086955,0.05622464901122559,115.0,85.0,22.0,8.0,548
+766,You were doing the speed of light but I'm only writing you up for the speed of sound.,1.3304347826086955,0.056224649011225585,115.0,85.0,22.0,8.0,548
 766,"I'll just give you a test ticket, then.",1.3304347826086955,0.050507325718638384,115.0,81.0,30.0,4.0,548
 766,And I thought I had a tiny penis!,1.3304347826086955,0.06384781095868386,115.0,91.0,10.0,14.0,548
 766,Please tell me you know why I stopped you.,1.3304347826086955,0.054851215621340516,115.0,84.0,24.0,7.0,548
 766,"I'm telling you -- the speed of light isn't just a good idea, it's the law.",1.3304347826086955,0.054851215621340516,115.0,84.0,24.0,7.0,548
-766,"Do you know you""re driving with a defective flux-capacitor?""",1.3304347826086955,0.05622464901122559,115.0,85.0,22.0,8.0,548
+766,"Do you know you""re driving with a defective flux-capacitor?""",1.3304347826086955,0.056224649011225585,115.0,85.0,22.0,8.0,548
 766,Please step out of the rocket and count backwards from 10,1.3304347826086955,0.058875476720184186,115.0,87.0,18.0,10.0,548
 766,Just a warning. The shock cones on your port aft booster looked a bit wobbly. Ought to check those nozzle skirts.,1.3304347826086955,0.057565323396400976,115.0,86.0,20.0,9.0,548
 766,"Dude, didn't think I'd catch you?",1.3304347826086955,0.057565323396400976,115.0,86.0,20.0,9.0,548
 766,Elon? Could you spell that please?,1.3304347826086955,0.054851215621340516,115.0,84.0,24.0,7.0,548
-766,I'm giving you a ticket for the speeding and a high-five for the landing.,1.3304347826086955,0.05622464901122559,115.0,85.0,22.0,8.0,548
+766,I'm giving you a ticket for the speeding and a high-five for the landing.,1.3304347826086955,0.056224649011225585,115.0,85.0,22.0,8.0,548
 766,You're probably wondering *how* I pulled you over.,1.3304347826086955,0.058875476720184186,115.0,87.0,18.0,10.0,548
-766,The fact I caught up to you should tell you this isn't as cool as it looks.,1.3304347826086955,0.05622464901122559,115.0,85.0,22.0,8.0,548
+766,The fact I caught up to you should tell you this isn't as cool as it looks.,1.3304347826086955,0.056224649011225585,115.0,85.0,22.0,8.0,548
 766,Sir you were doing speed-of-light in a speed-of-sound zone.,1.3304347826086955,0.057565323396400976,115.0,86.0,20.0,9.0,548
 766,We got a report from Houston that this vehicle is hot.,1.3304347826086955,0.057565323396400976,115.0,86.0,20.0,9.0,548
 766,Could you turn down the Elton John?,1.3304347826086955,0.06141198874505197,115.0,89.0,14.0,12.0,548
@@ -916,7 +916,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 877,"Sir, you are required to have a front license plate",1.318181818181818,0.053144362821652726,110.0,80.0,25.0,5.0,548
 877,"Sorry, I didn't even see that town...",1.318181818181818,0.05766056116530556,110.0,83.0,19.0,8.0,548
 877,"Where's the quasar, buddy?",1.318181818181818,0.05469121475257513,110.0,81.0,23.0,6.0,548
-918,I guess you'll just have to be late for your ComicCon convention.,1.3153153153153154,0.05427201483361607,111.0,82.0,23.0,6.0,548
+918,I guess you'll just have to be late for your ComicCon convention.,1.3153153153153154,0.054272014833616065,111.0,82.0,23.0,6.0,548
 918,This is a win-win: you just set a new land speed record and the amount of this ticket I can coast on the job for the next 10 years.,1.3153153153153154,0.06135513355132609,111.0,87.0,13.0,11.0,548
 920,. . . and it'll be an extra $200 for breaking my radar gun.,1.3148148148148149,0.058313894028659774,108.0,82.0,18.0,8.0,548
 920,"No, I will NOT tell you how fast you were going!",1.3148148148148149,0.058313894028659774,108.0,82.0,18.0,8.0,548
@@ -987,38 +987,38 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 983,"Are you maching me, young man?",1.3055555555555556,0.05803153398105864,108.0,83.0,17.0,8.0,548
 983,Do you not know why I pulled you over?,1.3055555555555556,0.05652069240257545,108.0,82.0,19.0,7.0,548
 983,How fast? Isn't it your job to tell me?,1.3055555555555556,0.05496834000711991,108.0,81.0,21.0,6.0,548
-989,"Sir, have you consumed any Tang this evening?",1.3018867924528301,0.05714031423930504,106.0,81.0,18.0,7.0,548
-989,Do you know how fast you were going? I would love to know.,1.3018867924528301,0.05714031423930504,106.0,81.0,18.0,7.0,548
-989,Seatbelt?,1.3018867924528301,0.0555456658259613,106.0,80.0,20.0,6.0,548
-989,"No, I can't forget it just this once.",1.3018867924528301,0.05390386324496792,106.0,79.0,22.0,5.0,548
-989,My other car is a Prius.,1.3018867924528301,0.05869165213796325,106.0,82.0,16.0,8.0,548
-989,I wanted you to feel the Burn,1.3018867924528301,0.05714031423930504,106.0,81.0,18.0,7.0,548
-989,I truly did not know where the registration sticker was supposed to go.,1.3018867924528301,0.05869165213796325,106.0,82.0,16.0,8.0,548
-989,"No, you're about 2,000 miles east of Bonneville",1.3018867924528301,0.052210458276240435,106.0,78.0,24.0,4.0,548
-989,"I knew you'd run out of gas eventually, so I just followed your smoke trail.",1.3018867924528301,0.0555456658259613,106.0,80.0,20.0,6.0,548
-989,The bad news is you're under arrest. The good news is you set a new land speed record.,1.3018867924528301,0.05046025598525916,106.0,77.0,26.0,3.0,548
-989,"Mr. Houston, we have a problem.",1.3018867924528301,0.05869165213796325,106.0,82.0,16.0,8.0,548
-989,I will let you off with a warning if you let me take it for a spin.,1.3018867924528301,0.05714031423930504,106.0,81.0,18.0,7.0,548
-989,"Let's start with the fact that your inspection sticker has expired, and go from there....",1.3018867924528301,0.05714031423930504,106.0,81.0,18.0,7.0,548
-989,"Flying low, aren't we?",1.3018867924528301,0.05714031423930504,106.0,81.0,18.0,7.0,548
-989,What's the hurry?,1.3018867924528301,0.05390386324496792,106.0,79.0,22.0,5.0,548
-989,License and alien registration card please.,1.3018867924528301,0.05390386324496792,106.0,79.0,22.0,5.0,548
-989,"Sorry, but I'm not buying the 'broken speedometer' excuse.",1.3018867924528301,0.05869165213796325,106.0,82.0,16.0,8.0,548
-989,"I'll let you go this time, but just because you came in peace for all mankind.",1.3018867924528301,0.05714031423930504,106.0,81.0,18.0,7.0,548
-989,What do you mean Tesla merged with SpaceX?!,1.3018867924528301,0.0555456658259613,106.0,80.0,20.0,6.0,548
-989,"Is that Sully with a ""y""?",1.3018867924528301,0.05390386324496792,106.0,79.0,22.0,5.0,548
-989,Officer what seems to be the problem?,1.3018867924528301,0.0555456658259613,106.0,80.0,20.0,6.0,548
-989,Let me pull out before you engage the boosters.,1.3018867924528301,0.052210458276240435,106.0,78.0,24.0,4.0,548
-989,"There are limits to white privilege, sir.",1.3018867924528301,0.05714031423930504,106.0,81.0,18.0,7.0,548
-989,"Well Rocket Man, I think it's going to be a long, long time before you see your family again.",1.3018867924528301,0.061677378910894136,106.0,84.0,12.0,10.0,548
-989,Not your driver's license. Your pilot's license.,1.3018867924528301,0.05714031423930504,106.0,81.0,18.0,7.0,548
-989,We're going to need a bigger tow truck.,1.3018867924528301,0.0555456658259613,106.0,80.0,20.0,6.0,548
-989,I have friends in high places.,1.3018867924528301,0.05714031423930504,106.0,81.0,18.0,7.0,548
-989,I may now be younger than my license indicates.,1.3018867924528301,0.05869165213796325,106.0,82.0,16.0,8.0,548
-989,Are you hiding any illegal aliens?,1.3018867924528301,0.0555456658259613,106.0,80.0,20.0,6.0,548
-989,"Well, at least you're not drunk.",1.3018867924528301,0.0555456658259613,106.0,80.0,20.0,6.0,548
-989,"It was all about the boom, sir.",1.3018867924528301,0.052210458276240435,106.0,78.0,24.0,4.0,548
-989,Do you know why I'm pulling you over?,1.3018867924528301,0.05869165213796325,106.0,82.0,16.0,8.0,548
+989,"Sir, have you consumed any Tang this evening?",1.30188679245283,0.05714031423930504,106.0,81.0,18.0,7.0,548
+989,Do you know how fast you were going? I would love to know.,1.30188679245283,0.05714031423930504,106.0,81.0,18.0,7.0,548
+989,Seatbelt?,1.30188679245283,0.0555456658259613,106.0,80.0,20.0,6.0,548
+989,"No, I can't forget it just this once.",1.30188679245283,0.05390386324496792,106.0,79.0,22.0,5.0,548
+989,My other car is a Prius.,1.30188679245283,0.05869165213796325,106.0,82.0,16.0,8.0,548
+989,I wanted you to feel the Burn,1.30188679245283,0.05714031423930504,106.0,81.0,18.0,7.0,548
+989,I truly did not know where the registration sticker was supposed to go.,1.30188679245283,0.05869165213796325,106.0,82.0,16.0,8.0,548
+989,"No, you're about 2,000 miles east of Bonneville",1.30188679245283,0.052210458276240435,106.0,78.0,24.0,4.0,548
+989,"I knew you'd run out of gas eventually, so I just followed your smoke trail.",1.30188679245283,0.0555456658259613,106.0,80.0,20.0,6.0,548
+989,The bad news is you're under arrest. The good news is you set a new land speed record.,1.30188679245283,0.05046025598525916,106.0,77.0,26.0,3.0,548
+989,"Mr. Houston, we have a problem.",1.30188679245283,0.05869165213796325,106.0,82.0,16.0,8.0,548
+989,I will let you off with a warning if you let me take it for a spin.,1.30188679245283,0.05714031423930504,106.0,81.0,18.0,7.0,548
+989,"Let's start with the fact that your inspection sticker has expired, and go from there....",1.30188679245283,0.05714031423930504,106.0,81.0,18.0,7.0,548
+989,"Flying low, aren't we?",1.30188679245283,0.05714031423930504,106.0,81.0,18.0,7.0,548
+989,What's the hurry?,1.30188679245283,0.05390386324496792,106.0,79.0,22.0,5.0,548
+989,License and alien registration card please.,1.30188679245283,0.05390386324496792,106.0,79.0,22.0,5.0,548
+989,"Sorry, but I'm not buying the 'broken speedometer' excuse.",1.30188679245283,0.05869165213796325,106.0,82.0,16.0,8.0,548
+989,"I'll let you go this time, but just because you came in peace for all mankind.",1.30188679245283,0.05714031423930504,106.0,81.0,18.0,7.0,548
+989,What do you mean Tesla merged with SpaceX?!,1.30188679245283,0.0555456658259613,106.0,80.0,20.0,6.0,548
+989,"Is that Sully with a ""y""?",1.30188679245283,0.05390386324496792,106.0,79.0,22.0,5.0,548
+989,Officer what seems to be the problem?,1.30188679245283,0.0555456658259613,106.0,80.0,20.0,6.0,548
+989,Let me pull out before you engage the boosters.,1.30188679245283,0.052210458276240435,106.0,78.0,24.0,4.0,548
+989,"There are limits to white privilege, sir.",1.30188679245283,0.05714031423930504,106.0,81.0,18.0,7.0,548
+989,"Well Rocket Man, I think it's going to be a long, long time before you see your family again.",1.30188679245283,0.061677378910894136,106.0,84.0,12.0,10.0,548
+989,Not your driver's license. Your pilot's license.,1.30188679245283,0.05714031423930504,106.0,81.0,18.0,7.0,548
+989,We're going to need a bigger tow truck.,1.30188679245283,0.0555456658259613,106.0,80.0,20.0,6.0,548
+989,I have friends in high places.,1.30188679245283,0.05714031423930504,106.0,81.0,18.0,7.0,548
+989,I may now be younger than my license indicates.,1.30188679245283,0.05869165213796325,106.0,82.0,16.0,8.0,548
+989,Are you hiding any illegal aliens?,1.30188679245283,0.0555456658259613,106.0,80.0,20.0,6.0,548
+989,"Well, at least you're not drunk.",1.30188679245283,0.0555456658259613,106.0,80.0,20.0,6.0,548
+989,"It was all about the boom, sir.",1.30188679245283,0.052210458276240435,106.0,78.0,24.0,4.0,548
+989,Do you know why I'm pulling you over?,1.30188679245283,0.05869165213796325,106.0,82.0,16.0,8.0,548
 1021,Do you have any idea how low you were flying?!,1.2990654205607477,0.04827285580042792,107.0,77.0,28.0,2.0,548
 1021,It's a good thing you're white,1.2990654205607477,0.05820896036401831,107.0,83.0,16.0,8.0,548
 1021,Why me? I’ve been passed six times in the last mile.,1.2990654205607477,0.05509638445623759,107.0,81.0,20.0,6.0,548
@@ -1128,7 +1128,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1120,"Well, you've certainly set a record for road kill",1.2912621359223302,0.05793427938125484,103.0,80.0,16.0,7.0,548
 1120,"Sir, I suggest you buckle your seat belt.",1.2912621359223302,0.05626733793530424,103.0,79.0,18.0,6.0,548
 1120,Did you know your tail lights are burned out?,1.2912621359223302,0.059554581154810014,103.0,81.0,14.0,8.0,548
-1120,"Sir, are you aware that you were going 17,640 in a 40 mph zone?",1.2912621359223302,0.04903614668718861,103.0,75.0,26.0,2.0,548
+1120,"Sir, are you aware that you were going 17,640 in a 40 mph zone?",1.2912621359223302,0.049036146687188614,103.0,75.0,26.0,2.0,548
 1120,"Flying a little low, aren't we.",1.2912621359223302,0.0527757377980318,103.0,77.0,22.0,4.0,548
 1120,"You blew right through a stop sign back there, and a tree, and a barn, and...",1.2912621359223302,0.05626733793530424,103.0,79.0,18.0,6.0,548
 1120,You from around these parts?,1.2912621359223302,0.05454948129199915,103.0,78.0,20.0,5.0,548
@@ -1150,7 +1150,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1120,"I passed stage one of your rocket 400 miles back, so there'll be an additional fine for littering.",1.2912621359223302,0.059554581154810014,103.0,81.0,14.0,8.0,548
 1120,I don't care if you were trying to get away from the election results,1.2912621359223302,0.06113195192061524,103.0,82.0,12.0,9.0,548
 1120,I'm citing you for flying under my radar.,1.2912621359223302,0.05793427938125484,103.0,80.0,16.0,7.0,548
-1120,"Sir, Texas law requires side view mirrors on all road traffic.",1.2912621359223302,0.04903614668718861,103.0,75.0,26.0,2.0,548
+1120,"Sir, Texas law requires side view mirrors on all road traffic.",1.2912621359223302,0.049036146687188614,103.0,75.0,26.0,2.0,548
 1120,This is a no-fly zone.,1.2912621359223302,0.05454948129199915,103.0,78.0,20.0,5.0,548
 1120,So welcome to fly-over country.,1.2912621359223302,0.059554581154810014,103.0,81.0,14.0,8.0,548
 1120,Know why I pulled you down?,1.2912621359223302,0.0527757377980318,103.0,77.0,22.0,4.0,548
@@ -1236,14 +1236,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1173,I had you doing 2 Mach in a school zone,1.2843137254901962,0.054638202161030734,102.0,78.0,19.0,5.0,548
 1173,"Even if you weren't breaking the speed limit, you were thinking about it",1.2843137254901962,0.05808276213231825,102.0,80.0,15.0,7.0,548
 1237,Do you know you went through a red light 280 miles back?,1.2815533980582523,0.05417550100575275,103.0,79.0,19.0,5.0,548
-1237,Next time keep it below the speed of sound.,1.2815533980582523,0.05053958934365407,103.0,77.0,23.0,3.0,548
+1237,Next time keep it below the speed of sound.,1.2815533980582523,0.050539589343654066,103.0,77.0,23.0,3.0,548
 1237,I'm afraid that you failed to yield at the last State.,1.2815533980582523,0.05417550100575275,103.0,79.0,19.0,5.0,548
-1240,What kind of mileage do you get with this thing?,1.28,0.051404515778521266,100.0,75.0,22.0,3.0,548
+1240,What kind of mileage do you get with this thing?,1.28,0.05140451577852127,100.0,75.0,22.0,3.0,548
 1240,Your right booster light's burnt-out.,1.28,0.05333333333333333,100.0,76.0,20.0,4.0,548
-1240,"Actually, Yes, you were speeding.",1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
-1240,I clocked you at 635 in a 35.,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
-1240,Glad you ran out of fuel - this ticket should pay for the police holiday ball.,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
-1240,"Sir, are you aware that your taillight is broken?",1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
+1240,"Actually, Yes, you were speeding.",1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
+1240,I clocked you at 635 in a 35.,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
+1240,Glad you ran out of fuel - this ticket should pay for the police holiday ball.,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
+1240,"Sir, are you aware that your taillight is broken?",1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
 1240,Your re-entry light is out.,1.28,0.05333333333333333,100.0,76.0,20.0,4.0,548
 1240,"Buddy, in Mayberry nobody achieves escape velocity!",1.28,0.06369117408688316,100.0,82.0,8.0,10.0,548
 1240,I'm going to need your driver's license and the whole story.,1.28,0.05333333333333333,100.0,76.0,20.0,4.0,548
@@ -1252,57 +1252,57 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1240,"Well, I'm going to have to cite you for running the stop sign, but I'll let the incineration of the village slide.",1.28,0.05333333333333333,100.0,76.0,20.0,4.0,548
 1240,Forget how fast I was going. How fast were you going in order to catch me?,1.28,0.058740999740428734,100.0,79.0,14.0,7.0,548
 1240,"So, you thought rear-view mirrors were an unnecessary feature.",1.28,0.0569954809479212,100.0,78.0,16.0,6.0,548
-1240,"Klaatu? What kinda name's that? You a alien, boy?",1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
+1240,"Klaatu? What kinda name's that? You a alien, boy?",1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
 1240,Sully didn't get a citation...,1.28,0.0569954809479212,100.0,78.0,16.0,6.0,548
-1240,"So you're gonna wanna take a right in a few miles, stay on I-80 West for a while, and that should get you to the Bonneville Flats",1.28,0.051404515778521266,100.0,75.0,22.0,3.0,548
-1240,"I'm sorry, but there is no way I was going above the speed of light.",1.28,0.051404515778521266,100.0,75.0,22.0,3.0,548
+1240,"So you're gonna wanna take a right in a few miles, stay on I-80 West for a while, and that should get you to the Bonneville Flats",1.28,0.05140451577852127,100.0,75.0,22.0,3.0,548
+1240,"I'm sorry, but there is no way I was going above the speed of light.",1.28,0.05140451577852127,100.0,75.0,22.0,3.0,548
 1240,You were doing Mach 2 in a 45 mile per hour zone.,1.28,0.058740999740428734,100.0,79.0,14.0,7.0,548
 1240,Your turn signals appear to be on fire.,1.28,0.05333333333333333,100.0,76.0,20.0,4.0,548
-1240,And what planet did you think you were on,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
-1240,The radar gun clocked you at Mach 3 in a Mach 2 zone.,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
+1240,And what planet did you think you were on,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
+1240,The radar gun clocked you at Mach 3 in a Mach 2 zone.,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
 1240,It's my turn to bring you up to speed.,1.28,0.060436125393056525,100.0,80.0,12.0,8.0,548
 1240,You never signaled three light years back...,1.28,0.05333333333333333,100.0,76.0,20.0,4.0,548
 1240,You went through a red light back in Albuquerque.,1.28,0.05333333333333333,100.0,76.0,20.0,4.0,548
 1240,"Honestly Officer, I would never text and drive.",1.28,0.0569954809479212,100.0,78.0,16.0,6.0,548
 1240,You misunderstand the concept of escape velocity.,1.28,0.058740999740428734,100.0,79.0,14.0,7.0,548
-1240,It only looks like a squad car...,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
-1240,52 in a 45. A little disappointing.,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
-1240,Nice to see you again Mr. Musk.,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
+1240,It only looks like a squad car...,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
+1240,52 in a 45. A little disappointing.,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
+1240,Nice to see you again Mr. Musk.,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
 1240,Are you aware that one of your afterburners is out?,1.28,0.0569954809479212,100.0,78.0,16.0,6.0,548
 1240,You know you were doing Mach 2 in a Mach 1 zone?,1.28,0.04731156136066361,100.0,73.0,26.0,1.0,548
 1240,Is my brake light out?,1.28,0.058740999740428734,100.0,79.0,14.0,7.0,548
 1240,"License, registration and relative velocity.",1.28,0.058740999740428734,100.0,79.0,14.0,7.0,548
 1240,Do you know you were going 600 in a 35mph zone?,1.28,0.060436125393056525,100.0,80.0,12.0,8.0,548
-1240,Wake up. None of this real. You are still a loser driving a beat-up Pinto.,1.28,0.051404515778521266,100.0,75.0,22.0,3.0,548
-1240,I thought that was miles per minute.,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
-1240,"Your name, address, and airport, sir.",1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
+1240,Wake up. None of this real. You are still a loser driving a beat-up Pinto.,1.28,0.05140451577852127,100.0,75.0,22.0,3.0,548
+1240,I thought that was miles per minute.,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
+1240,"Your name, address, and airport, sir.",1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
 1240,Nope. Still Trump.,1.28,0.058740999740428734,100.0,79.0,14.0,7.0,548
 1240,I suppose this is some sort of spatial profiling.,1.28,0.0569954809479212,100.0,78.0,16.0,6.0,548
-1240,Sir; you're charged with DUI. Driving Under the Ionisphere.,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
-1240,Your left rocket booster light is out.,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
+1240,Sir; you're charged with DUI. Driving Under the Ionisphere.,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
+1240,Your left rocket booster light is out.,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
 1240,"You were going 50,000 in a 35 zone.",1.28,0.058740999740428734,100.0,79.0,14.0,7.0,548
-1240,"I'm writing you a ticket for the speeding, and an invoice for the radar gun you melted.",1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
+1240,"I'm writing you a ticket for the speeding, and an invoice for the radar gun you melted.",1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
 1240,"Did you know you were going 17,000 mph in a 30 mph zone?",1.28,0.0569954809479212,100.0,78.0,16.0,6.0,548
 1240,"Wow, it didn't feel like I was going that fast.",1.28,0.058740999740428734,100.0,79.0,14.0,7.0,548
 1240,I just wanted to see if your lights shifted from blue to red when I passed you.,1.28,0.060436125393056525,100.0,80.0,12.0,8.0,548
-1240,Doing five hundred in a four-fifty zone.,1.28,0.051404515778521266,100.0,75.0,22.0,3.0,548
+1240,Doing five hundred in a four-fifty zone.,1.28,0.05140451577852127,100.0,75.0,22.0,3.0,548
 1240,"What's the big hurry, Trump doesn't take office until next month.",1.28,0.060436125393056525,100.0,80.0,12.0,8.0,548
-1240,"The police car? Yeah, it's a hemi.",1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
+1240,"The police car? Yeah, it's a hemi.",1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
 1240,"Sorry, but a license from Uranus is not a joke here!",1.28,0.058740999740428734,100.0,79.0,14.0,7.0,548
 1240,I come in peace.,1.28,0.0569954809479212,100.0,78.0,16.0,6.0,548
-1240,What's the hurry?,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
+1240,What's the hurry?,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
 1240,"Sorry sir, it is against the law to text and drive.",1.28,0.058740999740428734,100.0,79.0,14.0,7.0,548
-1240,Don't' you know this is a fly-over state?,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
-1240,You were going 550 in a 40 zone.,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
+1240,Don't' you know this is a fly-over state?,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
+1240,You were going 550 in a 40 zone.,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
 1240,You realize you were supersonic in a subsonic zone?,1.28,0.058740999740428734,100.0,79.0,14.0,7.0,548
 1240,"Do you know you were doing 1,200 in a 55 mph zone?",1.28,0.0569954809479212,100.0,78.0,16.0,6.0,548
-1240,You've got to get to a hospital on which planet?,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
+1240,You've got to get to a hospital on which planet?,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
 1240,How many light-years per gallon does this thing get?,1.28,0.058740999740428734,100.0,79.0,14.0,7.0,548
 1240,You were going six hundred thirty-seven over.,1.28,0.060436125393056525,100.0,80.0,12.0,8.0,548
 1240,Do I smell Romulan Ale?,1.28,0.058740999740428734,100.0,79.0,14.0,7.0,548
-1240,Your trunk's on fire.,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
+1240,Your trunk's on fire.,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
 1240,"Well sir, it seems you were going so fast that the space/time continuum indicates I owe you money.",1.28,0.05333333333333333,100.0,76.0,20.0,4.0,548
-1240,You have a broken taillight.,1.28,0.055194788218315013,100.0,77.0,18.0,5.0,548
+1240,You have a broken taillight.,1.28,0.05519478821831501,100.0,77.0,18.0,5.0,548
 1240,"Sir, road rage is no excuse to go ballistic.",1.28,0.058740999740428734,100.0,79.0,14.0,7.0,548
 1240,I'm hoping you didn't really intend to eject your passenger just then.,1.28,0.05333333333333333,100.0,76.0,20.0,4.0,548
 1240,"A space station reprovisioning emergency, eh? You're the third guy this week with that one.",1.28,0.05333333333333333,100.0,76.0,20.0,4.0,548
@@ -1476,12 +1476,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1471,Save that relativity nonsense for the judge. Do you know how fast you were going in THIS reference frame?,1.2653061224489797,0.05533027360293121,98.0,77.0,16.0,5.0,548
 1471,"Well, your registration says this is a 2013 VW Jetta, but I'm going to assume that's just a DMV screw-up.",1.2653061224489797,0.04929765582460094,98.0,74.0,22.0,2.0,548
 1477,"Did you not see the ""Rockets Must Exit"" sign?",1.2626262626262623,0.0584727260876041,99.0,80.0,12.0,7.0,548
-1478,"""Breaking the sound barrier"" isn't on here as an option under posted speed. I'm gonna have to let you go on a technicality.",1.2608695652173914,0.055447545442537986,92.0,72.0,16.0,4.0,548
+1478,"""Breaking the sound barrier"" isn't on here as an option under posted speed. I'm gonna have to let you go on a technicality.",1.2608695652173914,0.05544754544253799,92.0,72.0,16.0,4.0,548
 1479,We have a problem?,1.2604166666666667,0.05589148255000422,96.0,76.0,15.0,5.0,548
 1479,The sign definitely does not say 555!,1.2604166666666667,0.0518195072381951,96.0,74.0,19.0,3.0,548
 1479,Just wanted to tell you that your taillights are on fire.,1.2604166666666667,0.05589148255000422,96.0,76.0,15.0,5.0,548
 1479,"I'm going to let you off with a warning this time, but don't let me catch you going over Mach 2 again.",1.2604166666666667,0.05389396604466394,96.0,75.0,17.0,4.0,548
-1479,Just wanted to warn you there's a slight turn six miles from here.,1.2604166666666667,0.04739899618326621,96.0,72.0,23.0,1.0,548
+1479,Just wanted to warn you there's a slight turn six miles from here.,1.2604166666666667,0.047398996183266213,96.0,72.0,23.0,1.0,548
 1479,"Sir, do you know what happens if you break the speed of sound?",1.2604166666666667,0.04965846438217073,96.0,73.0,21.0,2.0,548
 1479,"Sir, your tail light is out-of-this-world.",1.2604166666666667,0.05968629920564264,96.0,78.0,11.0,7.0,548
 1479,35? Are you sure? I could have sworn it said 350....,1.2604166666666667,0.05968629920564264,96.0,78.0,11.0,7.0,548
@@ -1554,7 +1554,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1479,"I don't care what they let you get away with in California, Mr. Musk.",1.2604166666666667,0.05389396604466394,96.0,75.0,17.0,4.0,548
 1479,"You know, the speed limit is 55 miles per *hour*.",1.2604166666666667,0.05389396604466394,96.0,75.0,17.0,4.0,548
 1479,how did you catch me ?,1.2604166666666667,0.05589148255000422,96.0,76.0,15.0,5.0,548
-1479,You had a rear thruster out.,1.2604166666666667,0.04739899618326621,96.0,72.0,23.0,1.0,548
+1479,You had a rear thruster out.,1.2604166666666667,0.047398996183266213,96.0,72.0,23.0,1.0,548
 1479,I stopped you because your tail lights have incinerated a few cars.,1.2604166666666667,0.05389396604466394,96.0,75.0,17.0,4.0,548
 1479,"Do you know why I pulled you over, Sir?",1.2604166666666667,0.05782003171264661,96.0,77.0,13.0,6.0,548
 1479,"You broke the sound barrier, along with a bunch of laws.",1.2604166666666667,0.05782003171264661,96.0,77.0,13.0,6.0,548
@@ -2345,7 +2345,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2328,I didn't want to be late for the launch.,1.2159090909090908,0.05468840116167775,88.0,73.0,11.0,4.0,548
 2328,It actually wasn’t just that light back there: you haven’t stopped for anything in about a thousand miles.,1.2159090909090908,0.057026785298439416,88.0,74.0,9.0,5.0,548
 2346,"If you can't keep up with the traffic, move to the right lane.",1.2134831460674158,0.054124827614885296,89.0,74.0,11.0,4.0,548
-2347,"Mr Musk, Mars is up, not across.",1.2117647058823529,0.04761575206918946,85.0,68.0,16.0,1.0,548
+2347,"Mr Musk, Mars is up, not across.",1.2117647058823529,0.047615752069189464,85.0,68.0,16.0,1.0,548
 2347,"Just get that taillight fixed next time, OK buddy?",1.2117647058823529,0.05574581580323587,85.0,71.0,10.0,4.0,548
 2347,Your registration expired.,1.2117647058823529,0.05574581580323587,85.0,71.0,10.0,4.0,548
 2347,I'm trying to get to Canada as soon as possible.,1.2117647058823529,0.05574581580323587,85.0,71.0,10.0,4.0,548
@@ -2907,7 +2907,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2898,"You know, your left taillight's out.",1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
 2898,"No, it's not an excuse that you were going so fast that the stop sign was just a red blur.",1.1829268292682926,0.05242694342046913,82.0,70.0,9.0,3.0,548
 2898,I caught you doing 500 in the 25.,1.1829268292682926,0.055224075534728564,82.0,71.0,7.0,4.0,548
-2898,I'm gonna ask you to step outside and hover on one leg.,1.1829268292682926,0.04295628044484381,82.0,67.0,15.0,0.0,548
+2898,I'm gonna ask you to step outside and hover on one leg.,1.1829268292682926,0.042956280444843814,82.0,67.0,15.0,0.0,548
 2898,And who told you it was a runway?,1.1829268292682926,0.04632878319045735,82.0,68.0,13.0,1.0,548
 2898,Nice design. Was speed ever a consideration while you were building it?,1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
 2898,Can't you read the sign? It says 600 miles per hour speed limit!,1.1829268292682926,0.05788620423656865,82.0,72.0,5.0,5.0,548
@@ -2929,29 +2929,29 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2898,"Just letting you know, one of your tail lights is out!",1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
 2898,You've got 10-days to get that brake light fixed.,1.1829268292682926,0.04632878319045735,82.0,68.0,13.0,1.0,548
 2898,I stopped you for an unconcealed weapon.,1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
-2898,Should have switched over to electric,1.1829268292682926,0.04295628044484381,82.0,67.0,15.0,0.0,548
+2898,Should have switched over to electric,1.1829268292682926,0.042956280444843814,82.0,67.0,15.0,0.0,548
 2898,"Well, Mr. Musk, you are not on Mars and you have exceeded the 70 mph speed limit by 350 mph. This ticket should make our department budget for the year.",1.1829268292682926,0.06043117376958744,82.0,73.0,3.0,6.0,548
 2898,When's the last time you took this vehicle for its emissions inspection?,1.1829268292682926,0.04632878319045735,82.0,68.0,13.0,1.0,548
 2898,"You see officer, if I go the speed limit I can't get off the ground.",1.1829268292682926,0.04632878319045735,82.0,68.0,13.0,1.0,548
 2898,Compare and contrast Schrödinger’s first paper on his wave equation and the Born-Oppenheimer method.,1.1829268292682926,0.05242694342046913,82.0,70.0,9.0,3.0,548
 2898,"Sir, do you know how many Mach you were going?",1.1829268292682926,0.04632878319045735,82.0,68.0,13.0,1.0,548
 2898,One of your tail burners is out.,1.1829268292682926,0.055224075534728564,82.0,71.0,7.0,4.0,548
-2898,The squad car? Hemi 5.7 engine. Why?,1.1829268292682926,0.04295628044484381,82.0,67.0,15.0,0.0,548
+2898,The squad car? Hemi 5.7 engine. Why?,1.1829268292682926,0.042956280444843814,82.0,67.0,15.0,0.0,548
 2898,You were going down the road like a rocket.,1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
 2898,It's for driving without a seat belt!,1.1829268292682926,0.04632878319045735,82.0,68.0,13.0,1.0,548
 2898,Your license plate registration has expired.,1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
 2898,"I don't care if your girlfriend is ""Out of this World.""",1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
 2898,Speeding? Really? It that what this is all about?,1.1829268292682926,0.055224075534728564,82.0,71.0,7.0,4.0,548
 2898,"240 mph, and it runs on potatoes, amazing!",1.1829268292682926,0.055224075534728564,82.0,71.0,7.0,4.0,548
-2898,"NASA can't get you out of this one, sir.",1.1829268292682926,0.04295628044484381,82.0,67.0,15.0,0.0,548
+2898,"NASA can't get you out of this one, sir.",1.1829268292682926,0.042956280444843814,82.0,67.0,15.0,0.0,548
 2898,Sir did you know that you were going 475 mph in a 25 mph zone?,1.1829268292682926,0.055224075534728564,82.0,71.0,7.0,4.0,548
-2898,"Sir, those appear to be aftermarket tailpipes, which require a permit in this county.",1.1829268292682926,0.04295628044484381,82.0,67.0,15.0,0.0,548
+2898,"Sir, those appear to be aftermarket tailpipes, which require a permit in this county.",1.1829268292682926,0.042956280444843814,82.0,67.0,15.0,0.0,548
 2898,Yes you can get a ticket for going too fast.,1.1829268292682926,0.05242694342046913,82.0,70.0,9.0,3.0,548
 2898,Just wanted you to know your tailight was out,1.1829268292682926,0.05788620423656865,82.0,72.0,5.0,5.0,548
 2898,How about swapping vehicles?,1.1829268292682926,0.05242694342046913,82.0,70.0,9.0,3.0,548
 2898,"No, I don't know why I was pulled over.",1.1829268292682926,0.05242694342046913,82.0,70.0,9.0,3.0,548
 2898,"Yes, you did miss the Salt Flats exit -- by 67 miles!",1.1829268292682926,0.055224075534728564,82.0,71.0,7.0,4.0,548
-2898,We're gonna need to do a gravity check.,1.1829268292682926,0.04295628044484381,82.0,67.0,15.0,0.0,548
+2898,We're gonna need to do a gravity check.,1.1829268292682926,0.042956280444843814,82.0,67.0,15.0,0.0,548
 2898,Sorry officer. The throttle is a little touchy.,1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
 2898,"A parade float, huh?",1.1829268292682926,0.05788620423656865,82.0,72.0,5.0,5.0,548
 2898,I noticed that you were leaking a little nitrogen tetroxide...,1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
@@ -2963,7 +2963,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2898,Your turn signal is out.,1.1829268292682926,0.055224075534728564,82.0,71.0,7.0,4.0,548
 2898,The ticket is for texting while driving a rocket,1.1829268292682926,0.05242694342046913,82.0,70.0,9.0,3.0,548
 2898,A ticket is a vote against American innovation.,1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
-2898,You know your tail light's burnt out?,1.1829268292682926,0.04295628044484381,82.0,67.0,15.0,0.0,548
+2898,You know your tail light's burnt out?,1.1829268292682926,0.042956280444843814,82.0,67.0,15.0,0.0,548
 2898,I clocked you doing 768 in a 25.,1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
 2898,"Sir, the reason I pulled you over is that you broke the sound barrier in a clearly marked 35 mph zone.",1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
 2898,I was only doing 499,1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
@@ -3022,7 +3022,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2898,All right I'm guilty......but how did you catch up to me?,1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
 2898,May I see your proof of insurance?,1.1829268292682926,0.05242694342046913,82.0,70.0,9.0,3.0,548
 2898,But it's self-driving,1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
-2898,"Driver’s license, registration, and flight plan please.",1.1829268292682926,0.04295628044484381,82.0,67.0,15.0,0.0,548
+2898,"Driver’s license, registration, and flight plan please.",1.1829268292682926,0.042956280444843814,82.0,67.0,15.0,0.0,548
 2898,Click it or ticket.,1.1829268292682926,0.04632878319045735,82.0,68.0,13.0,1.0,548
 2898,"No salt flats, no. But there is a salt lick just up the road.",1.1829268292682926,0.04947191399330268,82.0,69.0,11.0,2.0,548
 2898,Any idea what Mach you were going?,1.1829268292682926,0.04632878319045735,82.0,68.0,13.0,1.0,548
@@ -3822,43 +3822,43 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3640,I'm citing you for tailgating the Klingon starship.,1.1466666666666667,0.0452951614596046,75.0,65.0,9.0,1.0,548
 3822,"And if you pull something like that again, you're not coming out of jail until those things actually exist.",1.1447368421052628,0.040626442725997976,76.0,65.0,11.0,0.0,548
 3822,"Sir, are you aware your nuclear accelerator light is out?",1.1447368421052628,0.04850012612904946,76.0,67.0,7.0,2.0,548
-3822,Your were doing 7.9 kilometers per second in a 35 mph zone.....,1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
+3822,Your were doing 7.9 kilometers per second in a 35 mph zone.....,1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
 3822,This is a quiet neighborhood. You were doing mach one!,1.1447368421052628,0.04850012612904946,76.0,67.0,7.0,2.0,548
 3822,You know you were going 580 in a 55 mile an hour zone.,1.1447368421052628,0.04850012612904946,76.0,67.0,7.0,2.0,548
 3822,"Sir Elton John? Nice try, but I don't think so.",1.1447368421052628,0.04850012612904946,76.0,67.0,7.0,2.0,548
-3822,"Sir, are you aware your left jet engine is out?",1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
+3822,"Sir, are you aware your left jet engine is out?",1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
 3822,You passed the stopped school bus.,1.1447368421052628,0.04850012612904946,76.0,67.0,7.0,2.0,548
-3822,"Broken indicator light. I'll need you to step out, hand over your keys and swap lives with me.",1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
+3822,"Broken indicator light. I'll need you to step out, hand over your keys and swap lives with me.",1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
 3822,I'm afraid one of your tail lights is out.,1.1447368421052628,0.040626442725997976,76.0,65.0,11.0,0.0,548
 3822,Do you realize you were going warp speed in a zone clearly marked half impulse power?,1.1447368421052628,0.05199172460609632,76.0,68.0,5.0,3.0,548
-3822,You were doing 400 in a 300 mph zone.,1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
+3822,You were doing 400 in a 300 mph zone.,1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
 3822,I clocked you at 10 light years above the speed limit!,1.1447368421052628,0.040626442725997976,76.0,65.0,11.0,0.0,548
 3822,Were you aware that your left tail light was out?,1.1447368421052628,0.05526315789473688,76.0,69.0,3.0,4.0,548
-3822,Do you know how slow you were going?,1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
-3822,WHY DON'T YOU JUST STICK TO THE TESLA! ?,1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
-3822,"Were you aware that you were doing 20,000 in a 40 mile per hour zone.",1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
+3822,Do you know how slow you were going?,1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
+3822,WHY DON'T YOU JUST STICK TO THE TESLA! ?,1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
+3822,"Were you aware that you were doing 20,000 in a 40 mile per hour zone.",1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
 3822,"Sir, you were really flying along there. Can I see your pilot's license?",1.1447368421052628,0.040626442725997976,76.0,65.0,11.0,0.0,548
 3822,"Sir, am I under the influence?",1.1447368421052628,0.05526315789473688,76.0,69.0,3.0,4.0,548
-3822,You're the fifth one this week.,1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
-3822,"I don't care if you're Captain America himself. I got you doing 140,000 in a 35 mile zone.",1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
+3822,You're the fifth one this week.,1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
+3822,"I don't care if you're Captain America himself. I got you doing 140,000 in a 35 mile zone.",1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
 3822,I just wanted to see your proof of insurance. and not believe it.,1.1447368421052628,0.04850012612904946,76.0,67.0,7.0,2.0,548
-3822,Wanna go two outa three.,1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
+3822,Wanna go two outa three.,1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
 3822,That's one helluva tricycle you got there kid.,1.1447368421052628,0.040626442725997976,76.0,65.0,11.0,0.0,548
 3822,"But officer, my cruise control is set at only Mach 1!",1.1447368421052628,0.040626442725997976,76.0,65.0,11.0,0.0,548
 3822,"Oh, miles per hour. I though it said MACH per hour --",1.1447368421052628,0.05199172460609632,76.0,68.0,5.0,3.0,548
 3822,"Sir, this is a low emission State.",1.1447368421052628,0.04850012612904946,76.0,67.0,7.0,2.0,548
 3822,NASA's new test pilot program still had a few bugs to work out.,1.1447368421052628,0.04850012612904946,76.0,67.0,7.0,2.0,548
-3822,"so, that'll be two tickets to the policemen's ball.",1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
+3822,"so, that'll be two tickets to the policemen's ball.",1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
 3822,You have two jet; I have eight cylinders. You lose.,1.1447368421052628,0.040626442725997976,76.0,65.0,11.0,0.0,548
-3822,"I stopped you because I couldn't understand with a car like this, why you were only going 35.",1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
+3822,"I stopped you because I couldn't understand with a car like this, why you were only going 35.",1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
 3822,I don't care how many seats there are. This is an HOV lane.,1.1447368421052628,0.05199172460609632,76.0,68.0,5.0,3.0,548
-3822,Your sonic boom broke the town noise ordinance.,1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
+3822,Your sonic boom broke the town noise ordinance.,1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
 3822,"Sir, your North Korean registration has expired.",1.1447368421052628,0.05526315789473688,76.0,69.0,3.0,4.0,548
-3822,You forgot to signal your turn back there.,1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
+3822,You forgot to signal your turn back there.,1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
 3822,"Yes, ""Benny and the Jets"" is good but I'd just go with ""Rocketman"" if I were you.",1.1447368421052628,0.04850012612904946,76.0,67.0,7.0,2.0,548
 3822,"Look Pal, I don't care how many parsecs you THINK your were doing, your court date in KANSAS is star date 41299.7.",1.1447368421052628,0.04850012612904946,76.0,67.0,7.0,2.0,548
 3822,I'm sorry officer. I thought the speed limit was FIVE HUNDRED and fifty-five.,1.1447368421052628,0.040626442725997976,76.0,65.0,11.0,0.0,548
-3822,"Dammit, is my blinker out again?",1.1447368421052628,0.04473684210526319,76.0,66.0,9.0,1.0,548
+3822,"Dammit, is my blinker out again?",1.1447368421052628,0.044736842105263186,76.0,66.0,9.0,1.0,548
 3861,"Sorry, buddy, 'Freed for Speed' is a rural myth.",1.1428571428571428,0.04790300390810151,77.0,68.0,7.0,2.0,548
 3861,Runway fees aren't my problem.,1.1428571428571428,0.04419201606355329,77.0,67.0,9.0,1.0,548
 3861,Expect to replace every stoplight you just blew through.,1.1428571428571428,0.04419201606355329,77.0,67.0,9.0,1.0,548
@@ -4074,10 +4074,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4042,"You were doin' 35mph on a highway, mister. Gotta give you a ticket for goin' too slow.",1.1333333333333333,0.051406640063737324,75.0,68.0,4.0,3.0,548
 4042,Do you know you went through three red lights back there!?,1.1333333333333333,0.043839729948095284,75.0,66.0,8.0,1.0,548
 4075,You passed a barrier back there.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,548
-4075,You wonder why I stopped you? It's your left rear parking light.,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,548
+4075,You wonder why I stopped you? It's your left rear parking light.,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,548
 4075,"Mister, Escape Velocity doesn't work in these parts.",1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,548
 4075,I only use it to travel with the wife and kids.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,548
-4075,Are you aware that your right brake taillight is out?,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,548
+4075,Are you aware that your right brake taillight is out?,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,548
 4080,"I understand it was out of this world, it's still considered reckless driving.",1.12987012987013,0.04658776821420218,77.0,69.0,6.0,2.0,548
 4081,Hughes? How is that spelled?,1.125,0.043951442120546434,72.0,64.0,7.0,1.0,548
 4081,"Yes, children were present.",1.125,0.048197153144195225,72.0,65.0,5.0,2.0,548
@@ -4956,9 +4956,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4934,Who knew that we couldn't fly over a restricted area,1.088235294117647,0.03465174867755208,68.0,62.0,6.0,0.0,548
 4934,"No sir, you're just outside the Bonneville city limits.",1.088235294117647,0.040493521076668496,68.0,63.0,4.0,1.0,548
 4934,I was wondering how many parsecs this gets to a gallon?,1.088235294117647,0.040493521076668496,68.0,63.0,4.0,1.0,548
-4958,"No, that does not count as a tail light",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,548
-4958,Are you under the influence: because this a pretty big influence.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,548
-4958,We're on our way to Burning Man. All we have in here is water and led lights.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,548
+4958,"No, that does not count as a tail light",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,548
+4958,Are you under the influence: because this a pretty big influence.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,548
+4958,We're on our way to Burning Man. All we have in here is water and led lights.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,548
 4958,"Lady, do you know how fast you were going through the last county?",1.0869565217391304,0.04494540799009202,69.0,65.0,2.0,2.0,548
 4958,May I see your over length permit ?,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,548
 4963,Is this the new Arrow1315? What kind of mileage are you getting?,1.0757575757575757,0.03282081081661708,66.0,61.0,5.0,0.0,548
@@ -5112,10 +5112,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5105,Your exhaust fogged my windshield,1.0735294117647058,0.038154165296785066,68.0,64.0,3.0,1.0,548
 5105,well you were going 57 in a 45......,1.0735294117647058,0.038154165296785066,68.0,64.0,3.0,1.0,548
 5105,"Officer: Son, did you know how fast you were traveling? Driver: I don't think is all relative.",1.0735294117647058,0.03188665499421403,68.0,63.0,5.0,0.0,548
-5114,Plates registration please?,1.0724637681159421,0.03761223941765689,69.0,65.0,3.0,1.0,548
-5114,Did you know you were driving 600 miles per hour through a fly-over county?,1.0724637681159421,0.031439196785312463,69.0,64.0,5.0,0.0,548
-5114,Is it Too much? You can tell me.,1.0724637681159421,0.031439196785312463,69.0,64.0,5.0,0.0,548
-5114,I clocked you at 43.3 mph in a 50 mph zone. I think your jets need a tuneup.,1.0724637681159421,0.031439196785312463,69.0,64.0,5.0,0.0,548
+5114,Plates registration please?,1.072463768115942,0.03761223941765689,69.0,65.0,3.0,1.0,548
+5114,Did you know you were driving 600 miles per hour through a fly-over county?,1.072463768115942,0.031439196785312463,69.0,64.0,5.0,0.0,548
+5114,Is it Too much? You can tell me.,1.072463768115942,0.031439196785312463,69.0,64.0,5.0,0.0,548
+5114,I clocked you at 43.3 mph in a 50 mph zone. I think your jets need a tuneup.,1.072463768115942,0.031439196785312463,69.0,64.0,5.0,0.0,548
 5118,"Around here, we yield for emergency vehicles.",1.0625,0.03776362363229024,64.0,61.0,2.0,1.0,548
 5118,"I know, you are race car driver.",1.0625,0.030496877279641663,64.0,60.0,4.0,0.0,548
 5118,I'm going to have to stop you for a 5/6: over-compensation.,1.0625,0.030496877279641663,64.0,60.0,4.0,0.0,548

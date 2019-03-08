@@ -17,13 +17,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 16,It would break his heart if I told him it had been done already.,1.6120481927710844,0.0395348484665057,415.0,246.0,84.0,85.0,537
 17,I'm letting the Patent Office tell him.,1.6025,0.0374464948284528,400.0,223.0,113.0,64.0,537
 18,When he's done I'm going to reinvent the divorce.,1.602015113350126,0.039486178050839066,397.0,233.0,89.0,75.0,537
-19,"Well, I laughed at him too, but turns out Bruce is the first to actually apply for a patent.",1.5888594164456231,0.040217221007968866,377.0,224.0,84.0,69.0,537
+19,"Well, I laughed at him too, but turns out Bruce is the first to actually apply for a patent.",1.5888594164456231,0.04021722100796887,377.0,224.0,84.0,69.0,537
 20,"He's not reinventing it, he's making it great again.",1.5877659574468086,0.03887639289919879,376.0,216.0,99.0,61.0,537
 21,"His influences are Brancusi, Warhol, and Krispy Kreme.",1.5849056603773586,0.037600836641448636,371.0,206.0,113.0,52.0,537
 22,Harry got some discouraging news from the Patent Office this morning.,1.5837837837837838,0.038834433882600564,370.0,212.0,100.0,58.0,537
 23,Try to look surprised.,1.5826558265582655,0.03815909705363869,369.0,208.0,107.0,54.0,537
 24,"It was supposed to be a square, but he kept cutting corners.",1.578512396694215,0.03827557755213786,363.0,205.0,106.0,52.0,537
-25,He's rethinking his choice of font.,1.561764705882353,0.040782616023342134,340.0,203.0,83.0,54.0,537
+25,He's rethinking his choice of font.,1.561764705882353,0.04078261602334213,340.0,203.0,83.0,54.0,537
 26,I've got an inkling I'm getting a big rock for our anniversary.,1.5588235294117647,0.03949880449122516,340.0,198.0,94.0,48.0,537
 27,I hid the instructions.,1.5548961424332344,0.04044606331612358,337.0,201.0,85.0,51.0,537
 28,"For me, it's a lifesaver.",1.5504587155963303,0.04073827505194354,327.0,195.0,84.0,48.0,537
@@ -41,7 +41,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 40,I don't have the heart to tell him he's an idiot.,1.5266666666666666,0.04414260192932723,300.0,192.0,58.0,50.0,537
 41,Care to buy a vowel?,1.5220338983050847,0.04208433984127197,295.0,181.0,74.0,40.0,537
 42,"Trust me, this one will gather moss.",1.5201342281879195,0.03982584659461425,298.0,176.0,89.0,33.0,537
-43,"No, I'm not surprised. He once wrote a poem called 'The Road Already Taken'.",1.515358361774744,0.04062213243773676,293.0,176.0,83.0,34.0,537
+43,"No, I'm not surprised. He once wrote a poem called 'The Road Already Taken'.",1.5153583617747441,0.04062213243773676,293.0,176.0,83.0,34.0,537
 44,He's practicing in case he has to restart civilization after a Trump presidency.,1.5138888888888888,0.04343579367569192,288.0,182.0,64.0,42.0,537
 45,Keeping him busy has been a big lifesaver.,1.5053763440860215,0.04274887398295346,279.0,174.0,69.0,36.0,537
 45,The other vowels are in the den.,1.5053763440860215,0.04334787045195547,279.0,176.0,65.0,38.0,537
@@ -54,13 +54,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 53,I'm actually looking forward to the start of football season.,1.4945054945054943,0.04155745624812317,273.0,168.0,75.0,30.0,537
 54,At least yours is a functioning Neanderthal.,1.4924812030075187,0.043353038170990295,266.0,168.0,65.0,33.0,537
 54,He also thinks he invented the internet,1.4924812030075187,0.043353038170990295,266.0,168.0,65.0,33.0,537
-56,He's so proud. I haven't told him yet.,1.492063492063492,0.044806145788701325,252.0,160.0,60.0,32.0,537
+56,He's so proud. I haven't told him yet.,1.4920634920634919,0.044806145788701325,252.0,160.0,60.0,32.0,537
 57,He studied creativity at Trump University.,1.4886363636363635,0.04585069051310056,264.0,175.0,49.0,40.0,537
 58,He's got big ideas . . . apparently the guy who invented it never bothered to file a patent.,1.4866920152091254,0.04271152032188067,263.0,165.0,68.0,30.0,537
 59,I'd rather he reinvented himself.,1.4865900383141764,0.04463611019394929,261.0,169.0,57.0,35.0,537
 59,15 years with Bob and I have zero to show for it.,1.4865900383141764,0.04226198327560547,261.0,162.0,71.0,28.0,537
 61,"Jan, I swear it's like he'd rather reinvent the wheel than find my clitoris.",1.4826254826254823,0.049035444260327125,259.0,182.0,29.0,48.0,537
-62,The rest of the alphabet is in the basement.,1.4807692307692308,0.04306766734115727,260.0,165.0,65.0,30.0,537
+62,The rest of the alphabet is in the basement.,1.4807692307692308,0.043067667341157266,260.0,165.0,65.0,30.0,537
 63,Sorry the coffee's cold—he hasn't discovered fire yet.,1.4806201550387597,0.042965492585916566,258.0,163.0,66.0,29.0,537
 64,I haven’t had the heart to tell him.,1.48046875,0.046623482691956916,256.0,172.0,45.0,39.0,537
 64,I asked him to make my mom a new toilet seat.,1.48046875,0.04596166477101634,256.0,170.0,49.0,37.0,537
@@ -112,9 +112,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 109,He's always cutting corners.,1.4355555555555557,0.04439084069054566,225.0,149.0,54.0,22.0,537
 112,"His last work was entitled ""Square Peg"".",1.4349775784753362,0.04187442846438542,223.0,142.0,65.0,16.0,537
 112,Wanna buy a vowel.,1.4349775784753362,0.04601152085143833,223.0,151.0,47.0,25.0,537
-114,"I told Stanley I've been waiting 23 years for the ""Big O.",1.4318181818181819,0.047776911860408486,220.0,153.0,39.0,28.0,537
-114,It's a millstone. Dan's making it for our anniversary.,1.4318181818181819,0.04906288116450736,220.0,156.0,33.0,31.0,537
-114,I've grown. Frank is stuck in the past.,1.4318181818181819,0.04369249710397943,220.0,144.0,57.0,19.0,537
+114,"I told Stanley I've been waiting 23 years for the ""Big O.",1.431818181818182,0.047776911860408486,220.0,153.0,39.0,28.0,537
+114,It's a millstone. Dan's making it for our anniversary.,1.431818181818182,0.04906288116450736,220.0,156.0,33.0,31.0,537
+114,I've grown. Frank is stuck in the past.,1.431818181818182,0.04369249710397943,220.0,144.0,57.0,19.0,537
 117,He works in the house now. Last week he invented fire and burned down the garage.,1.4311926605504588,0.046767556805964734,218.0,149.0,44.0,25.0,537
 118,I would have preferred he reinvent himself.,1.4298642533936652,0.045839420668227486,221.0,150.0,47.0,24.0,537
 119,He's a binary thinker.,1.4292237442922375,0.043815014778206415,219.0,144.0,56.0,19.0,537
@@ -122,7 +122,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 119,It’s not the fact that he keeps reinventing the wheel that bothers me. It’s his literal interpretation of idioms. Last week he tried to kill our cat with curiosity.,1.4292237442922375,0.046143414442593685,219.0,149.0,46.0,24.0,537
 122,He's three wheels short in a lot of ways.,1.4285714285714286,0.045991118607390136,217.0,147.0,47.0,23.0,537
 122,I don't have the heart to tell him Obama can't serve a third term.,1.4285714285714286,0.046452689785061264,217.0,148.0,45.0,24.0,537
-122,"He says it's not about being the first, it's about being the best.",1.4285714285714286,0.04552486785539218,217.0,146.0,49.0,22.0,537
+122,"He says it's not about being the first, it's about being the best.",1.4285714285714286,0.045524867855392184,217.0,146.0,49.0,22.0,537
 122,You should see the car.,1.4285714285714286,0.04505379224596762,217.0,145.0,51.0,21.0,537
 122,"I know, and he still uses a Blackberry!",1.4285714285714286,0.04311805428947813,217.0,141.0,59.0,17.0,537
 127,He's voting for Trump and preparing for the stone age.,1.4259259259259258,0.047052395981380224,216.0,149.0,42.0,25.0,537
@@ -151,7 +151,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 145,Last week it was fire.,1.416267942583732,0.04619908217744042,209.0,143.0,45.0,21.0,537
 145,"Whatever you do, don't call it a wheel.",1.416267942583732,0.04718440890745458,209.0,145.0,41.0,23.0,537
 145,Bob has started an artisanal tire business.,1.416267942583732,0.04619908217744042,209.0,143.0,45.0,21.0,537
-145,"It took him longer than he thought it would to carve ""Obama for President.""",1.416267942583732,0.04766943537425079,209.0,146.0,39.0,24.0,537
+145,"It took him longer than he thought it would to carve ""Obama for President.""",1.416267942583732,0.047669435374250786,209.0,146.0,39.0,24.0,537
 154,It means nothing to me.,1.4150943396226414,0.046198530918109236,212.0,146.0,44.0,22.0,537
 155,"I don't mean to pry, but what's with the baseball cap?",1.4134615384615383,0.04732786970040755,208.0,145.0,40.0,23.0,537
 155,He says he's finally going to give me 'the big O'.,1.4134615384615383,0.04877787050089129,208.0,148.0,34.0,26.0,537
@@ -159,8 +159,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 155,I mentioned to him I wanted a big ring.,1.4134615384615383,0.044285668674333284,208.0,139.0,52.0,17.0,537
 155,"Oh, it's nothing really.",1.4134615384615383,0.044285668674333284,208.0,139.0,52.0,17.0,537
 155,Thank God it's all downhill from here.,1.4134615384615383,0.04375807715753937,208.0,138.0,54.0,16.0,537
-161,That man hasn't had an original idea in his life.,1.4114832535885167,0.04514841803509475,209.0,142.0,48.0,19.0,537
-161,"What he says is, ""yes it's been invented, but never perfected""",1.4114832535885167,0.0430622009569378,209.0,138.0,56.0,15.0,537
+161,That man hasn't had an original idea in his life.,1.411483253588517,0.04514841803509475,209.0,142.0,48.0,19.0,537
+161,"What he says is, ""yes it's been invented, but never perfected""",1.411483253588517,0.0430622009569378,209.0,138.0,56.0,15.0,537
 163,"He can find the time to reinvent the wheel, but ask him to take out the garbage...",1.4106280193236715,0.04333994017170266,207.0,137.0,55.0,15.0,537
 163,Three more and we can go on vacation.,1.4106280193236715,0.045452820322047824,207.0,141.0,47.0,19.0,537
 163,"So I said to him, ""Herb, what part of NO don't you understand."" He's just been standing there ever since.",1.4106280193236715,0.047963209355248115,207.0,146.0,37.0,24.0,537
@@ -208,24 +208,24 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 206,"The ""N"" took him over a year.",1.3917525773195876,0.04570863735630765,194.0,134.0,44.0,16.0,537
 206,You should have been here last week while he was discovering fire.,1.3917525773195876,0.046289258786171066,194.0,135.0,42.0,17.0,537
 206,"I thought he liked doing it, but every morning he just says ""well, back to the old grindstone.""",1.3917525773195876,0.04570863735630765,194.0,134.0,44.0,16.0,537
-210,His hobby is a lifesaver.,1.38860103626943,0.045836744931061976,193.0,134.0,43.0,16.0,537
-210,"That's not the ""Big O"" I was hoping for.",1.38860103626943,0.046999488488411234,193.0,136.0,39.0,18.0,537
-210,It's part of the settlement with Volkswagen,1.38860103626943,0.048134152641023636,193.0,138.0,35.0,20.0,537
-210,The trouble is he has a square peg.,1.38860103626943,0.04642175731296445,193.0,135.0,41.0,17.0,537
-210,I'm afraid I can't offer you milk. M and G are blocking the refrigerator.,1.38860103626943,0.04403510062926665,193.0,131.0,49.0,13.0,537
-210,He's been secretive but promised a ring with a sizable rock.,1.38860103626943,0.04978768671986036,193.0,141.0,29.0,23.0,537
-210,Tomorrow's our anniversary and I've been hinting for a ring with a big rock.,1.38860103626943,0.04642175731296445,193.0,135.0,41.0,17.0,537
-210,He thinks maybe it's never been patented.,1.38860103626943,0.04924267846864575,193.0,140.0,31.0,22.0,537
-210,It's competitive with him; his brother invented the axle.,1.38860103626943,0.046999488488411234,193.0,136.0,39.0,18.0,537
-210,Please don't tell him. I've never seen him so happy.,1.38860103626943,0.042791884220405335,193.0,129.0,53.0,11.0,537
-210,I think he misunderstood me when I told him I wanted the big 'O'.,1.38860103626943,0.04869157028293394,193.0,139.0,33.0,21.0,537
-210,"... and then he said "" I'll show you what a real millstone looks like"", and he's been at it ever since.",1.38860103626943,0.04757020374478999,193.0,137.0,37.0,19.0,537
+210,His hobby is a lifesaver.,1.3886010362694299,0.045836744931061976,193.0,134.0,43.0,16.0,537
+210,"That's not the ""Big O"" I was hoping for.",1.3886010362694299,0.046999488488411234,193.0,136.0,39.0,18.0,537
+210,It's part of the settlement with Volkswagen,1.3886010362694299,0.048134152641023636,193.0,138.0,35.0,20.0,537
+210,The trouble is he has a square peg.,1.3886010362694299,0.04642175731296445,193.0,135.0,41.0,17.0,537
+210,I'm afraid I can't offer you milk. M and G are blocking the refrigerator.,1.3886010362694299,0.04403510062926665,193.0,131.0,49.0,13.0,537
+210,He's been secretive but promised a ring with a sizable rock.,1.3886010362694299,0.04978768671986036,193.0,141.0,29.0,23.0,537
+210,Tomorrow's our anniversary and I've been hinting for a ring with a big rock.,1.3886010362694299,0.04642175731296445,193.0,135.0,41.0,17.0,537
+210,He thinks maybe it's never been patented.,1.3886010362694299,0.04924267846864575,193.0,140.0,31.0,22.0,537
+210,It's competitive with him; his brother invented the axle.,1.3886010362694299,0.046999488488411234,193.0,136.0,39.0,18.0,537
+210,Please don't tell him. I've never seen him so happy.,1.3886010362694299,0.042791884220405335,193.0,129.0,53.0,11.0,537
+210,I think he misunderstood me when I told him I wanted the big 'O'.,1.3886010362694299,0.04869157028293394,193.0,139.0,33.0,21.0,537
+210,"... and then he said "" I'll show you what a real millstone looks like"", and he's been at it ever since.",1.3886010362694299,0.047570203744789985,193.0,137.0,37.0,19.0,537
 222,"It's the first ""O"" I've had in this house since we got married.",1.3854166666666667,0.047711355426051774,192.0,137.0,36.0,19.0,537
 222,He is still trying to figure out which way to hang it.,1.3854166666666667,0.04414915973946716,192.0,131.0,48.0,13.0,537
 222,Frankly I find his artwork derivative.,1.3854166666666667,0.047711355426051774,192.0,137.0,36.0,19.0,537
 222,"Don't be too impressed, it's sculpt-by-number.",1.3854166666666667,0.04713635449179361,192.0,136.0,38.0,18.0,537
 226,I had him bronzed; he's part of the sculpture.,1.3842105263157896,0.047479679975255686,190.0,135.0,37.0,18.0,537
-226,He's just worried about it gathering moss.,1.3842105263157896,0.04568627401027581,190.0,132.0,43.0,15.0,537
+226,He's just worried about it gathering moss.,1.3842105263157896,0.045686274010275814,190.0,132.0,43.0,15.0,537
 226,I'm sure next time you'll be able to spot our address.,1.3842105263157896,0.04629179652464247,190.0,133.0,41.0,16.0,537
 226,He's convinced that no one ever filed the patent.,1.3842105263157896,0.047479679975255686,190.0,135.0,37.0,18.0,537
 230,"To be fair, I wasn't specific when I asked him for a Big O.",1.383419689119171,0.04635544478895619,193.0,136.0,40.0,17.0,537
@@ -365,14 +365,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 357,His next piece will be a square peg.,1.3542857142857143,0.04795807066950332,175.0,128.0,32.0,15.0,537
 357,He's also working on something he calls 'fire'.,1.3542857142857143,0.04795807066950332,175.0,128.0,32.0,15.0,537
 357,"It's an ""o"" and it's big, but it's not really what I had in mind.",1.3542857142857143,0.04726833080773304,175.0,127.0,34.0,14.0,537
-367,"As soon as he gets around to inventing fire, I'll put the roast in the oven.",1.3519553072625698,0.047808943187696996,179.0,132.0,31.0,16.0,537
+367,"As soon as he gets around to inventing fire, I'll put the roast in the oven.",1.3519553072625698,0.047808943187697,179.0,132.0,31.0,16.0,537
 368,I'm serious--we desperately need to sell a vowel!,1.3505747126436782,0.04668783127064357,174.0,126.0,35.0,13.0,537
 368,This contractor's family has been in business since 4517 B.C.,1.3505747126436782,0.04668783127064357,174.0,126.0,35.0,13.0,537
 368,I don't have the heart to tell Harold he's not the first.,1.3505747126436782,0.045242370104201284,174.0,124.0,39.0,11.0,537
 368,"He says it will revolutionize how we do everything, I just want him to clean the gutters.",1.3505747126436782,0.045242370104201284,174.0,124.0,39.0,11.0,537
 368,That's just the prototype.,1.3505747126436782,0.044502036858892736,174.0,123.0,41.0,10.0,537
 368,It's the best thing he's done since fire,1.3505747126436782,0.04668783127064357,174.0,126.0,35.0,13.0,537
-368,This hobby of his has been a real lifesaver.,1.3505747126436782,0.04739403292410727,174.0,127.0,33.0,14.0,537
+368,This hobby of his has been a real lifesaver.,1.3505747126436782,0.047394032924107266,174.0,127.0,33.0,14.0,537
 368,He's concerned that it might be too derivative.,1.3505747126436782,0.04374917732409341,174.0,122.0,43.0,9.0,537
 368,I told him I wanted a big O.,1.3505747126436782,0.048089865095117916,174.0,128.0,31.0,15.0,537
 368,"He misunderstood me, when I said I had never had ""the big O"".",1.3505747126436782,0.048089865095117916,174.0,128.0,31.0,15.0,537
@@ -402,23 +402,23 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 400,"Just wait till you see the ""BAMA.""",1.3485714285714283,0.04920956254846805,175.0,131.0,27.0,17.0,537
 402,Last week he also reinvented fire.,1.346820809248555,0.04534773689761897,173.0,124.0,38.0,11.0,537
 402,At least it's taken his mind off Pokemon Go.,1.346820809248555,0.04384051290170195,173.0,122.0,42.0,9.0,537
-404,He's really evolving.,1.345029239766082,0.04255483718283292,171.0,119.0,45.0,7.0,537
-404,He decided reinventing himself was too hard.,1.345029239766082,0.04788016619528635,171.0,126.0,31.0,14.0,537
-404,Our sex therapist told him to focus on the Big O.,1.345029239766082,0.047156238879747805,171.0,125.0,33.0,13.0,537
-404,He's reinventing himself. The wheel was an accident.,1.345029239766082,0.04788016619528635,171.0,126.0,31.0,14.0,537
-404,"I told him I wanted the ""Big O"" then I remembered he's a concrete thinker.",1.345029239766082,0.049989085445739566,171.0,129.0,25.0,17.0,537
-404,You should have seen the commotion last week when he discovered fire.,1.345029239766082,0.047156238879747805,171.0,125.0,33.0,13.0,537
-404,I've been asking for a new washer for ages.,1.345029239766082,0.0441419649185016,171.0,121.0,41.0,9.0,537
-404,"He's on a roll, last week he discovered fire!",1.345029239766082,0.0485933098738154,171.0,127.0,29.0,15.0,537
-404,No one’s had the heart to tell him.,1.345029239766082,0.0464210234234386,171.0,124.0,35.0,12.0,537
-404,Where's Bob? I sent him out to pick up some milk.,1.345029239766082,0.04788016619528635,171.0,126.0,31.0,14.0,537
-404,He also invented the internet.,1.345029239766082,0.0485933098738154,171.0,127.0,29.0,15.0,537
-404,I wish he'd focus on reinventing our relationship.,1.345029239766082,0.04567397471290442,171.0,123.0,37.0,11.0,537
-404,You're lucky. My husband has never given me a Big O.,1.345029239766082,0.0485933098738154,171.0,127.0,29.0,15.0,537
-404,He calls it “Stone Circle with a Hole”,1.345029239766082,0.049296137922732325,171.0,128.0,27.0,16.0,537
-404,He still uses a flip phone.,1.345029239766082,0.0485933098738154,171.0,127.0,29.0,15.0,537
-404,Why couldn’t he just reinvent HIMSELF?,1.345029239766082,0.047156238879747805,171.0,125.0,33.0,13.0,537
-420,Sorry for the cold tea- he hasn't discovered fire yet.,1.3448275862068966,0.04438820149526367,174.0,124.0,40.0,10.0,537
+404,He's really evolving.,1.3450292397660821,0.04255483718283292,171.0,119.0,45.0,7.0,537
+404,He decided reinventing himself was too hard.,1.3450292397660821,0.04788016619528635,171.0,126.0,31.0,14.0,537
+404,Our sex therapist told him to focus on the Big O.,1.3450292397660821,0.047156238879747805,171.0,125.0,33.0,13.0,537
+404,He's reinventing himself. The wheel was an accident.,1.3450292397660821,0.04788016619528635,171.0,126.0,31.0,14.0,537
+404,"I told him I wanted the ""Big O"" then I remembered he's a concrete thinker.",1.3450292397660821,0.049989085445739566,171.0,129.0,25.0,17.0,537
+404,You should have seen the commotion last week when he discovered fire.,1.3450292397660821,0.047156238879747805,171.0,125.0,33.0,13.0,537
+404,I've been asking for a new washer for ages.,1.3450292397660821,0.0441419649185016,171.0,121.0,41.0,9.0,537
+404,"He's on a roll, last week he discovered fire!",1.3450292397660821,0.0485933098738154,171.0,127.0,29.0,15.0,537
+404,No one’s had the heart to tell him.,1.3450292397660821,0.0464210234234386,171.0,124.0,35.0,12.0,537
+404,Where's Bob? I sent him out to pick up some milk.,1.3450292397660821,0.04788016619528635,171.0,126.0,31.0,14.0,537
+404,He also invented the internet.,1.3450292397660821,0.0485933098738154,171.0,127.0,29.0,15.0,537
+404,I wish he'd focus on reinventing our relationship.,1.3450292397660821,0.04567397471290442,171.0,123.0,37.0,11.0,537
+404,You're lucky. My husband has never given me a Big O.,1.3450292397660821,0.0485933098738154,171.0,127.0,29.0,15.0,537
+404,He calls it “Stone Circle with a Hole”,1.3450292397660821,0.049296137922732325,171.0,128.0,27.0,16.0,537
+404,He still uses a flip phone.,1.3450292397660821,0.0485933098738154,171.0,127.0,29.0,15.0,537
+404,Why couldn’t he just reinvent HIMSELF?,1.3450292397660821,0.047156238879747805,171.0,125.0,33.0,13.0,537
+420,Sorry for the cold tea- he hasn't discovered fire yet.,1.3448275862068966,0.044388201495263666,174.0,124.0,40.0,10.0,537
 421,Ed finally agreed to get me a bigger washer.,1.343195266272189,0.04968719940948825,169.0,127.0,26.0,16.0,537
 421,"All I asked him was for the latest ""Rolling Stone.""",1.343195266272189,0.05108524778669103,169.0,129.0,22.0,18.0,537
 421,"It's nice to see he's good with his hands, but have you told him that's not 'The Big O' you were talking about?",1.343195266272189,0.05108524778669103,169.0,129.0,22.0,18.0,537
@@ -438,10 +438,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 430,It's the first of a series.,1.3430232558139534,0.04469764385068057,172.0,123.0,39.0,10.0,537
 438,My biggest concern is my birthday is coming up,1.3402061855670102,0.047237219884108436,194.0,148.0,26.0,20.0,537
 439,This new hobby of his has been a lifesaver.,1.3392857142857142,0.04611384631836539,168.0,122.0,35.0,11.0,537
-439,His last project was sliced bread.,1.3392857142857142,0.04763463887900533,168.0,124.0,31.0,13.0,537
+439,His last project was sliced bread.,1.3392857142857142,0.047634638879005334,168.0,124.0,31.0,13.0,537
 439,"He'll invent the wheel, but try getting him to take out the trash.",1.3392857142857142,0.04837711050241589,168.0,125.0,29.0,14.0,537
-439,Sculpting has turned out to be a real lifesaver for Fred.,1.3392857142857142,0.04688040978600266,168.0,123.0,33.0,12.0,537
-439,"He keeps talking about a millstone around his neck, so I got him one for his birthday.",1.3392857142857142,0.04688040978600266,168.0,123.0,33.0,12.0,537
+439,Sculpting has turned out to be a real lifesaver for Fred.,1.3392857142857142,0.046880409786002664,168.0,123.0,33.0,12.0,537
+439,"He keeps talking about a millstone around his neck, so I got him one for his birthday.",1.3392857142857142,0.046880409786002664,168.0,123.0,33.0,12.0,537
 439,You should see the size of the wheelbarrow.,1.3392857142857142,0.044541158756978894,168.0,120.0,39.0,9.0,537
 445,"Well, right now he is stuck in patent litigation.",1.3391812865497077,0.04242700904691784,171.0,120.0,44.0,7.0,537
 445,It all started after he traced his family tree back to the Stone Age.,1.3391812865497077,0.04918583274792526,171.0,129.0,26.0,16.0,537
@@ -461,7 +461,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 447,I don't have to cook dinner until he reinvents fire.,1.3373493975903614,0.047233982039692805,166.0,122.0,32.0,12.0,537
 447,It's Edgar's homage to our savings account rate.,1.3373493975903614,0.04875538698012344,166.0,124.0,28.0,14.0,537
 447,I think he misunderstood when I told him to work on giving me the big O.,1.3373493975903614,0.05095238767678058,166.0,127.0,22.0,17.0,537
-447,It's his way of rebelling against Cubism.,1.3373493975903614,0.04319667011109887,166.0,117.0,42.0,7.0,537
+447,It's his way of rebelling against Cubism.,1.3373493975903614,0.043196670111098866,166.0,117.0,42.0,7.0,537
 447,"If he starts making a square peg, I'm leaving him.",1.3373493975903614,0.047233982039692805,166.0,122.0,32.0,12.0,537
 447,"Last week, he ""created"" fire.",1.3373493975903614,0.04875538698012344,166.0,124.0,28.0,14.0,537
 447,It’s not that bad. My husband is obsessed with winning a caption contest.,1.3373493975903614,0.05095238767678058,166.0,127.0,22.0,17.0,537
@@ -470,19 +470,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 469,"No, it's a new mill-stone -- he's tired of the old grind.",1.3372781065088757,0.04664540882948909,169.0,124.0,33.0,12.0,537
 469,His Hula Hoop wasn't keeping the weight off like it used to.,1.3372781065088757,0.04739447798008608,169.0,125.0,31.0,13.0,537
 471,Moving back into the city has been great. But I do miss the garage.,1.3352941176470587,0.042497818495687116,170.0,120.0,43.0,7.0,537
-472,I'm blaming the Paleo diet.,1.3333333333333333,0.050374307243412866,165.0,126.0,23.0,16.0,537
+472,I'm blaming the Paleo diet.,1.3333333333333333,0.05037430724341287,165.0,126.0,23.0,16.0,537
 472,I don't mind. He's also reinventing sex.,1.3333333333333333,0.046562019717971886,165.0,121.0,33.0,11.0,537
 472,Last month it was sliced bread,1.3333333333333333,0.04734903916896513,165.0,122.0,31.0,12.0,537
 472,Bob thinks he has invented the wheel. Trump just hired him to be his Transportation Secretary.,1.3333333333333333,0.04963527979417832,165.0,125.0,25.0,15.0,537
 472,"I said, ""Don't try to reinvent the wheel."" He said, Oh yeah?""",1.3333333333333333,0.04963527979417832,165.0,125.0,25.0,15.0,537
-472,"It's my fault really; the other night in bed, I asked him to give me one.",1.3333333333333333,0.04812318921509239,165.0,123.0,29.0,13.0,537
+472,"It's my fault really; the other night in bed, I asked him to give me one.",1.3333333333333333,0.048123189215092385,165.0,123.0,29.0,13.0,537
 472,I just wish he'd stop saying 'Cheerio' when he finishes one.,1.3333333333333333,0.04888508126452257,165.0,124.0,27.0,14.0,537
-472,It's only rock 'n' roll but he likes it.,1.3333333333333333,0.04812318921509239,165.0,123.0,29.0,13.0,537
+472,It's only rock 'n' roll but he likes it.,1.3333333333333333,0.048123189215092385,165.0,123.0,29.0,13.0,537
 472,He said it would be something that is neither negative nor positive.,1.3333333333333333,0.046562019717971886,165.0,121.0,33.0,11.0,537
 472,"One day he just said ""screw Times New Roman"" and it's been Helvetica ever since.",1.3333333333333333,0.04734903916896513,165.0,122.0,31.0,12.0,537
 482,You should see his coffee mug,1.3313253012048192,0.04863117498574509,166.0,125.0,27.0,14.0,537
 482,It's a sculpture that sums up his life,1.3313253012048192,0.04632421753371349,166.0,122.0,33.0,11.0,537
-484,His Papa was a rolling stone.,1.329268292682927,0.04666793184247679,164.0,121.0,32.0,11.0,537
+484,His Papa was a rolling stone.,1.329268292682927,0.046667931842476786,164.0,121.0,32.0,11.0,537
 484,Sometimes he can be such a neanderthal.,1.329268292682927,0.045859341069915335,164.0,120.0,34.0,10.0,537
 484,If only he could reinvent himself.,1.329268292682927,0.045859341069915335,164.0,120.0,34.0,10.0,537
 484,"At least it's not fire, again.",1.329268292682927,0.045859341069915335,164.0,120.0,34.0,10.0,537
@@ -494,9 +494,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 484,He says it's easier than reinventing himself.,1.329268292682927,0.047462749199148765,164.0,122.0,30.0,12.0,537
 484,"So I say ""Harold, you can't reinvent the wheel."" He took it as a challenge.",1.329268292682927,0.04503623501448125,164.0,119.0,36.0,9.0,537
 484,Lisa. . . they are all cavemen at some level.,1.329268292682927,0.045859341069915335,164.0,120.0,34.0,10.0,537
-484,I wish he'd spend more time trying to reinvent himself.,1.329268292682927,0.04666793184247679,164.0,121.0,32.0,11.0,537
-484,At least he's stopped trying to discover fire.,1.329268292682927,0.04666793184247679,164.0,121.0,32.0,11.0,537
-484,I think he has a big axe to grind.,1.329268292682927,0.04666793184247679,164.0,121.0,32.0,11.0,537
+484,I wish he'd spend more time trying to reinvent himself.,1.329268292682927,0.046667931842476786,164.0,121.0,32.0,11.0,537
+484,At least he's stopped trying to discover fire.,1.329268292682927,0.046667931842476786,164.0,121.0,32.0,11.0,537
+484,I think he has a big axe to grind.,1.329268292682927,0.046667931842476786,164.0,121.0,32.0,11.0,537
 499,And tomorrow we get fire!,1.3272727272727274,0.04137656856228391,165.0,116.0,44.0,5.0,537
 500,It's a self-portrait.,1.3271604938271604,0.05168003857443119,162.0,126.0,19.0,17.0,537
 500,That's NOT what I meant when I said he'd never given me the big 'O'.,1.3271604938271604,0.04782698199287789,162.0,121.0,29.0,12.0,537
@@ -597,7 +597,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 590,It's one of the side effects of the Paleo diet.,1.314102564102564,0.04795614827227325,156.0,118.0,27.0,11.0,537
 590,It's an iWheel.,1.314102564102564,0.048810912130906235,156.0,119.0,25.0,12.0,537
 590,Maxi size Scotch tape and he still can't find the 'end'.,1.314102564102564,0.04795614827227325,156.0,118.0,27.0,11.0,537
-590,He's entering his Neolithic period.,1.314102564102564,0.043430717555876214,156.0,113.0,37.0,6.0,537
+590,He's entering his Neolithic period.,1.314102564102564,0.04343071755587621,156.0,113.0,37.0,6.0,537
 590,And he says I'm the one stuck in the past,1.314102564102564,0.04708587018600659,156.0,117.0,29.0,10.0,537
 590,He confuses having a man cave with being a cave man.,1.314102564102564,0.04795614827227325,156.0,118.0,27.0,11.0,537
 590,"Apparently, before you hit your golden years, you have to go through your mesolithic ones.",1.314102564102564,0.04708587018600659,156.0,117.0,29.0,10.0,537
@@ -619,20 +619,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 612,"Personally, I doubt it'll ever get off the ground",1.3096774193548386,0.043484335897089235,155.0,113.0,36.0,6.0,537
 612,I TOLD him to google it first.,1.3096774193548386,0.04718088798079557,155.0,117.0,28.0,10.0,537
 612,"For him, it's original.",1.3096774193548386,0.04628443593795873,155.0,116.0,30.0,9.0,537
-612,It started with a few simple paintings on the wall of his man cave and has evolved to this.,1.3096774193548386,0.04537027473504687,155.0,115.0,32.0,8.0,537
+612,It started with a few simple paintings on the wall of his man cave and has evolved to this.,1.3096774193548386,0.045370274735046866,155.0,115.0,32.0,8.0,537
 612,You're no longer the third wheel.,1.3096774193548386,0.04892453936195137,155.0,119.0,24.0,12.0,537
 612,"He was finished, until I told him I thought it was a zero.",1.3096774193548386,0.04806062183552928,155.0,118.0,26.0,11.0,537
 612,You should see our bread slicer.,1.3096774193548386,0.04806062183552928,155.0,118.0,26.0,11.0,537
 612,Correction: 'Artisanal' wheel.,1.3096774193548386,0.04892453936195137,155.0,119.0,24.0,12.0,537
 612,He wants to reinvent the hole.,1.3096774193548386,0.0497734641384393,155.0,120.0,22.0,13.0,537
-612,"It's a bit derivative, but at least he's happy.",1.3096774193548386,0.04537027473504687,155.0,115.0,32.0,8.0,537
+612,"It's a bit derivative, but at least he's happy.",1.3096774193548386,0.045370274735046866,155.0,115.0,32.0,8.0,537
 612,Do you want to see the square peg that he chiseled?,1.3096774193548386,0.04718088798079557,155.0,117.0,28.0,10.0,537
 612,"I didn't have the heart to tell him it was on ""Shark Tank"" last week.",1.3096774193548386,0.04628443593795873,155.0,116.0,30.0,9.0,537
 612,What can I say? He got on a roll and I didn't have the heart to tell him.,1.3096774193548386,0.0497734641384393,155.0,120.0,22.0,13.0,537
 612,I need to find a larger house before he gets to Z.,1.3096774193548386,0.04718088798079557,155.0,117.0,28.0,10.0,537
 612,He tries to think outside the box but he always ends up reinventing the wheel.,1.3096774193548386,0.04718088798079557,155.0,117.0,28.0,10.0,537
 612,"He feels inside every rock, there's a hole waiting to be revealed.",1.3096774193548386,0.04628443593795873,155.0,116.0,30.0,9.0,537
-634,It started out as a bust of my mother.,1.3092105263157894,0.051327406608809266,152.0,119.0,19.0,14.0,537
+634,It started out as a bust of my mother.,1.3092105263157894,0.05132740660880927,152.0,119.0,19.0,14.0,537
 635,He won't fix anything around the house until he masters the basics,1.3087248322147649,0.04655687893872983,149.0,111.0,30.0,8.0,537
 636,I wonder how long it will take him to rediscover the axle.,1.3076923076923077,0.04602960946509395,156.0,117.0,30.0,9.0,537
 637,He's on a roll.,1.30718954248366,0.04843708460912157,153.0,117.0,25.0,11.0,537
@@ -695,7 +695,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 685,Our car parts are locally sourced.,1.3026315789473684,0.04671080245771325,152.0,115.0,28.0,9.0,537
 685,His art is about nothing.,1.3026315789473684,0.04671080245771325,152.0,115.0,28.0,9.0,537
 685,"It's called ""The Third Wheel"" but he assures me it's not about you.",1.3026315789473684,0.048540455475045374,152.0,117.0,24.0,11.0,537
-685,At first I naturally assumed he was speaking metaphorically.,1.3026315789473684,0.04480649857735101,152.0,113.0,32.0,7.0,537
+685,At first I naturally assumed he was speaking metaphorically.,1.3026315789473684,0.044806498577351014,152.0,113.0,32.0,7.0,537
 685,Mancave mentality.,1.3026315789473684,0.04671080245771325,152.0,115.0,28.0,9.0,537
 685,His style is very holistic.,1.3026315789473684,0.04671080245771325,152.0,115.0,28.0,9.0,537
 685,"So, is your husband still stupid?",1.3026315789473684,0.05116239776385476,152.0,120.0,18.0,14.0,537
@@ -703,7 +703,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 685,I don't know why our living room is two chairs facing each other,1.3026315789473684,0.04942989169991715,152.0,118.0,22.0,12.0,537
 685,He charges by the epoch.,1.3026315789473684,0.04671080245771325,152.0,115.0,28.0,9.0,537
 685,"Tom's latest work is still untitled. I'm thinking, _Portal into Early Retirement Hell_.",1.3026315789473684,0.04942989169991715,152.0,118.0,22.0,12.0,537
-685,He works for Google's Luddite division.,1.3026315789473684,0.04480649857735101,152.0,113.0,32.0,7.0,537
+685,He works for Google's Luddite division.,1.3026315789473684,0.044806498577351014,152.0,113.0,32.0,7.0,537
 685,"Well, we're giving paleo a spin.",1.3026315789473684,0.04671080245771325,152.0,115.0,28.0,9.0,537
 685,He's a caveman in bed too.,1.3026315789473684,0.048540455475045374,152.0,117.0,24.0,11.0,537
 685,His doctor says he can have only one donut a week.,1.3026315789473684,0.04942989169991715,152.0,118.0,22.0,12.0,537
@@ -719,7 +719,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 716,"He's on a roll now; last week he invented something he called ""fire.""",1.2980132450331126,0.04583751125578329,151.0,114.0,29.0,8.0,537
 716,They're saying it might be a possible side effect of his Paleolithic diet.,1.2980132450331126,0.04486398574996996,151.0,113.0,31.0,7.0,537
 716,His chisel slipped when he was completing a Q,1.2980132450331126,0.05298565092672236,151.0,122.0,13.0,16.0,537
-716,He's been commissioned by  Medicare.gov to make the doughnut hole easier to understand.,1.2980132450331126,0.049540673402026614,151.0,118.0,21.0,12.0,537
+716,He's been commissioned by  Medicare.gov to make the doughnut hole easier to understand.,1.2980132450331126,0.04954067340202661,151.0,118.0,21.0,12.0,537
 716,It's been like this since the Krispy Kreme closed last year.,1.2980132450331126,0.04486398574996996,151.0,113.0,31.0,7.0,537
 716,The last time we put it on the wall it killed the cat,1.2980132450331126,0.04583751125578329,151.0,114.0,29.0,8.0,537
 716,It doesn't matter. We won the lottery.,1.2980132450331126,0.05129209259357012,151.0,120.0,17.0,14.0,537
@@ -734,10 +734,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 726,"He wants his man cave to be... ""authentic"".",1.2960526315789471,0.04836001255891019,152.0,118.0,23.0,11.0,537
 726,"It's like the elephant in the room, only it's a wheel.",1.2960526315789471,0.04745052622423986,152.0,117.0,25.0,10.0,537
 726,Now he's just trying to figure out how to move it.,1.2960526315789471,0.04836001255891019,152.0,118.0,23.0,11.0,537
-726,He sold the hole.,1.2960526315789471,0.04557713996595138,152.0,115.0,29.0,8.0,537
+726,He sold the hole.,1.2960526315789471,0.045577139965951384,152.0,115.0,29.0,8.0,537
 726,You should see the size of his square peg!,1.2960526315789471,0.05183863730520562,152.0,122.0,15.0,15.0,537
 726,"If the Met doesn't want it, he's going to Goodyear.",1.2960526315789471,0.04261291541603195,152.0,112.0,35.0,5.0,537
-726,Typical. He thinks he invented it.,1.2960526315789471,0.04557713996595138,152.0,115.0,29.0,8.0,537
+726,Typical. He thinks he invented it.,1.2960526315789471,0.045577139965951384,152.0,115.0,29.0,8.0,537
 726,After this he wants to build a better mouse trap.,1.2960526315789471,0.04362337602701755,152.0,113.0,33.0,6.0,537
 741,Premodernism. Postmodernism is sooo last century.,1.2953020134228188,0.04714154243445756,149.0,114.0,26.0,9.0,537
 741,"I told our marriage counselor that I felt our relationship was lacking the ""Big O.""",1.2953020134228188,0.04809386389828714,149.0,115.0,24.0,10.0,537
@@ -748,7 +748,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 741,We wanted a peep hole that made a statement.,1.2953020134228188,0.04312245513454612,149.0,110.0,34.0,5.0,537
 741,All I know is that it keeps him from working on the plumbing.,1.2953020134228188,0.04416153143175798,149.0,111.0,32.0,6.0,537
 741,'Proud Mary' is his favorite song.,1.2953020134228188,0.04809386389828714,149.0,115.0,24.0,10.0,537
-741,It's his first project since sliced bread.,1.2953020134228188,0.04994406058583319,149.0,117.0,20.0,12.0,537
+741,It's his first project since sliced bread.,1.2953020134228188,0.049944060585833186,149.0,117.0,20.0,12.0,537
 741,He thinks Antiques Roadshow will be impressed.,1.2953020134228188,0.04714154243445756,149.0,114.0,26.0,9.0,537
 741,"Next weekend, he's re-inventing the hubcab.",1.2953020134228188,0.04809386389828714,149.0,115.0,24.0,10.0,537
 741,Fred says those bastards wouldn't recognize a great caption if it bit them in the ass.,1.2953020134228188,0.05084391713242187,149.0,118.0,18.0,13.0,537
@@ -760,7 +760,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 741,"He's my ""Big Fred"" and I'm his ""Little Wilma...""",1.2953020134228188,0.04312245513454612,149.0,110.0,34.0,5.0,537
 741,"Yes, it's on spec, but he claims to know the market.",1.2953020134228188,0.04416153143175798,149.0,111.0,32.0,6.0,537
 741,He's really struggling with the writing process.,1.2953020134228188,0.049027690810746656,149.0,116.0,22.0,11.0,537
-741,We're paleo everything these days.,1.2953020134228188,0.04994406058583319,149.0,117.0,20.0,12.0,537
+741,We're paleo everything these days.,1.2953020134228188,0.049944060585833186,149.0,117.0,20.0,12.0,537
 741,I met him in Boulder. I thought he said he was from the Stoned Age,1.2953020134228188,0.04714154243445756,149.0,114.0,26.0,9.0,537
 741,He just found out he has Mayan DNA.,1.2953020134228188,0.045176715019635424,149.0,112.0,30.0,7.0,537
 741,"He's inventive, but a little slow.",1.2953020134228188,0.04312245513454612,149.0,110.0,34.0,5.0,537
@@ -919,7 +919,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 878,Oh Madge. He thinks that's the big 'O'.,1.2797202797202798,0.04801342027089882,143.0,112.0,22.0,9.0,537
 919,He says its perfect for the Guggenheim.,1.2781954887218046,0.04932141881026054,133.0,104.0,21.0,8.0,537
 920,Too much yeast.,1.2777777777777777,0.04872544551705719,144.0,114.0,20.0,10.0,537
-920,"I said ""you can't help me have the big 'o' if you tried"".",1.2777777777777777,0.05437756544372221,144.0,120.0,8.0,16.0,537
+920,"I said ""you can't help me have the big 'o' if you tried"".",1.2777777777777777,0.054377565443722214,144.0,120.0,8.0,16.0,537
 920,It's so 2000 B.C.,1.2777777777777777,0.04345737630380167,144.0,109.0,30.0,5.0,537
 923,"Last month, he burned down his workshop rubbing two sticks together.",1.2746478873239435,0.04595773378979544,142.0,110.0,25.0,7.0,537
 923,Frank believes in reinventing everything but himself.,1.2746478873239435,0.04703194038056215,142.0,111.0,23.0,8.0,537
@@ -1004,7 +1004,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 969,It's not the first time.,1.2714285714285714,0.04845279024062993,140.0,111.0,20.0,9.0,537
 969,"He's been working on it for about 10,000 years now.",1.2714285714285714,0.04628307505195465,140.0,109.0,24.0,7.0,537
 969,His boss told him to stop cutting corners.,1.2714285714285714,0.04400651304553965,140.0,107.0,28.0,5.0,537
-1006,A paleo inventor--and yours?,1.2695035460992907,0.04487902530437653,141.0,109.0,26.0,6.0,537
+1006,A paleo inventor--and yours?,1.2695035460992907,0.044879025304376534,141.0,109.0,26.0,6.0,537
 1007,Sorry about the noise. My husband loves his rock and roll.,1.266187050359712,0.04631734650488075,139.0,109.0,23.0,7.0,537
 1007,He's in his Circular Period.,1.266187050359712,0.045177784061393236,139.0,108.0,25.0,6.0,537
 1007,"Well, you know how strongly Ed feels about cheerios.",1.266187050359712,0.04957912696810146,139.0,112.0,17.0,10.0,537
@@ -1025,7 +1025,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1007,Bob sold tires for 47 years.,1.266187050359712,0.045177784061393236,139.0,108.0,25.0,6.0,537
 1007,"After reinventing himself, now he's reinventing everything else.",1.266187050359712,0.04631734650488075,139.0,109.0,23.0,7.0,537
 1007,"He just keeps muttering, ''form follows function, form follows function.''",1.266187050359712,0.045177784061393236,139.0,108.0,25.0,6.0,537
-1007,But it must have been patented by now.,1.266187050359712,0.044008723659549186,139.0,107.0,27.0,5.0,537
+1007,But it must have been patented by now.,1.266187050359712,0.04400872365954919,139.0,107.0,27.0,5.0,537
 1007,"Yes, I see how you could think he's reinventing the wheel. I actually prefer to believe the wheel is reinventing him.",1.266187050359712,0.04957912696810146,139.0,112.0,17.0,10.0,537
 1007,We keep going around and around about it.,1.266187050359712,0.04631734650488075,139.0,109.0,23.0,7.0,537
 1007,It beats having him watch football all weekend.,1.266187050359712,0.04631734650488075,139.0,109.0,23.0,7.0,537
@@ -1236,7 +1236,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1209,It's his greatest invention since sliced bread.,1.25,0.049721640147515817,132.0,108.0,15.0,9.0,537
 1209,He's got this wonderful idea for a puncture-proof tyre.,1.25,0.044828560259541315,132.0,104.0,23.0,5.0,537
 1209,He's using the layoff as a period for reinvention.,1.25,0.04216964516017963,132.0,102.0,27.0,3.0,537
-1209,"If I told him, we'd have to talk.",1.25,0.05087142537774018,132.0,109.0,13.0,10.0,537
+1209,"If I told him, we'd have to talk.",1.25,0.050871425377740184,132.0,109.0,13.0,10.0,537
 1209,Gustav is working on another period piece.,1.25,0.04610054485521032,132.0,105.0,21.0,6.0,537
 1209,It's progress. Last week he reinvented the stick.,1.25,0.044828560259541315,132.0,104.0,23.0,5.0,537
 1209,"Now that the headset jack is obsolete, he is questioning every design choice.",1.25,0.0473383634798584,132.0,106.0,19.0,7.0,537
@@ -1422,94 +1422,94 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1420,His field is historical entrepreneurship.,1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
 1420,"Turns out he's reimagining the wheel, not reinventing it.",1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
 1420,Maybe next he'll reinvent the romance in our relationship.,1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
-1420,Your lucky that your husband is just rediscovering vinyl.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,"He's doing it wrong, but he won't listen.",1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,Your lucky that your husband is just rediscovering vinyl.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,"He's doing it wrong, but he won't listen.",1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,"It's his first sculpture and he's mulling a name: ""Zero is Forever"" or just ""Bagel.",1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
 1420,HE JUST COULDN'T RESIST THIS GREAT DUCT TAPE BARGAIN ON E-BAY.,1.234375,0.050201825685579946,128.0,107.0,12.0,9.0,537
 1420,"Frankly, I think his retirement is starting to get to him.",1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
 1420,Walter's really into this sculpting project. He had Cheerios for breakfast every morning while he was in prison.,1.234375,0.04768815691594056,128.0,105.0,16.0,7.0,537
-1420,He claims a simple washer should improve the water pressure.,1.234375,0.04896112545788098,128.0,106.0,14.0,8.0,537
-1420,Tom's finally started his novel.,1.234375,0.04896112545788098,128.0,106.0,14.0,8.0,537
-1420,He's into retro.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,He claims a simple washer should improve the water pressure.,1.234375,0.048961125457880984,128.0,106.0,14.0,8.0,537
+1420,Tom's finally started his novel.,1.234375,0.048961125457880984,128.0,106.0,14.0,8.0,537
+1420,He's into retro.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,His last one was fire,1.234375,0.0436470597159808,128.0,102.0,22.0,4.0,537
 1420,He acts like he invented it!,1.234375,0.04221414840770096,128.0,101.0,24.0,3.0,537
 1420,He named it... 'Election 2016'...,1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
 1420,Ed's project will help make America great again.,1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
-1420,We never should have gone Paleo.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,We never should have gone Paleo.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,"Well, first he re-invented himself.....",1.234375,0.04768815691594056,128.0,105.0,16.0,7.0,537
-1420,It's an IKEA bookshelf!,1.234375,0.04896112545788098,128.0,106.0,14.0,8.0,537
+1420,It's an IKEA bookshelf!,1.234375,0.048961125457880984,128.0,106.0,14.0,8.0,537
 1420,"Yes, my husband is seeing a big future in bagel art.",1.234375,0.04768815691594056,128.0,105.0,16.0,7.0,537
-1420,"He keeps promising me ""the Big O"" ...",1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,"He keeps promising me ""the Big O"" ...",1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,Fred's last sculpture was a huge cup of coffee.,1.234375,0.03919147016458323,128.0,99.0,28.0,1.0,537
-1420,We've been seeing a sex therapist. He takes it very seriously.,1.234375,0.04896112545788098,128.0,106.0,14.0,8.0,537
+1420,We've been seeing a sex therapist. He takes it very seriously.,1.234375,0.048961125457880984,128.0,106.0,14.0,8.0,537
 1420,It was commissioned by the Rock and Roll Hall of Fame.,1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
-1420,"Whatever you say, do not allude to reinventing the wheel...",1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,"Whatever you say, do not allude to reinventing the wheel...",1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,I told him to find a new hobby after retiring from the bakery.,1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
-1420,Does Ollie have any hobbies?,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,Does Ollie have any hobbies?,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,"He's says he's got a great idea for his next project, ""The Inclined Plane"".",1.234375,0.0436470597159808,128.0,102.0,22.0,4.0,537
 1420,Enjoy your coffee. Fred is working on the doughnut.,1.234375,0.0436470597159808,128.0,102.0,22.0,4.0,537
-1420,"Jack's sculpting has entered what he likes to call his ""Jurassic Period""",1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,"I gotta tell you, going Paleo really has transformed our lives",1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,"Jack's sculpting has entered what he likes to call his ""Jurassic Period""",1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,"I gotta tell you, going Paleo really has transformed our lives",1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,It's for the wall of his man cave.,1.234375,0.04221414840770096,128.0,101.0,24.0,3.0,537
 1420,"We think this one is going to be even more revolutionary than his last piece, “Sliced Bread.”",1.234375,0.04768815691594056,128.0,105.0,16.0,7.0,537
-1420,Yes it has been done before but Gene thinks he can get the first patent.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,Yes it has been done before but Gene thinks he can get the first patent.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,If I know him he's in there reinventing the wheel.,1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
 1420,"Next, he tells me: sliced bread.",1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
 1420,"I think he's taking his ""Man Cave"" a little too literally.",1.234375,0.04221414840770096,128.0,101.0,24.0,3.0,537
-1420,"I know he reinvented it, but it makes him happy.",1.234375,0.04896112545788098,128.0,106.0,14.0,8.0,537
+1420,"I know he reinvented it, but it makes him happy.",1.234375,0.048961125457880984,128.0,106.0,14.0,8.0,537
 1420,I think he's almost through with the alphabet.,1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
-1420,Steve is trying to decide if he is an artist or an inventor.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,Steve is trying to decide if he is an artist or an inventor.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,It's my birthday present...he's so literal.,1.234375,0.04768815691594056,128.0,105.0,16.0,7.0,537
-1420,It's a pretty bad hemorrhoid.,1.234375,0.04896112545788098,128.0,106.0,14.0,8.0,537
-1420,"Oh, he's always convinced that his latest piece amounts to nothing.",1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,It's a pretty bad hemorrhoid.,1.234375,0.048961125457880984,128.0,106.0,14.0,8.0,537
+1420,"Oh, he's always convinced that his latest piece amounts to nothing.",1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,"Well once it gets rolling, he claims it won't gather any moss.",1.234375,0.0436470597159808,128.0,102.0,22.0,4.0,537
-1420,"Bless his heart, he thinks he invented the wheel.",1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,He won't read instructions; he insists on reinventing the wheel,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,"Bless his heart, he thinks he invented the wheel.",1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,He won't read instructions; he insists on reinventing the wheel,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,Otto is from Ohio.,1.234375,0.050201825685579946,128.0,107.0,12.0,9.0,537
 1420,"I put in a new subscription for ""The Rolling Stone."" Can't wait till it gets here.",1.234375,0.0436470597159808,128.0,102.0,22.0,4.0,537
 1420,I don't think it will ever get off the ground.,1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
-1420,Would you like a donut? I think there's one left.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,Would you like a donut? I think there's one left.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,Earle sees his retirement as a time for reinvention.,1.234375,0.0436470597159808,128.0,102.0,22.0,4.0,537
-1420,He started out with a perfect square and now look at it.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,Reinvention is the key to our relationship.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,He started out with a perfect square and now look at it.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,Reinvention is the key to our relationship.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,"Well, you know men.",1.234375,0.051412593770674,128.0,108.0,10.0,10.0,537
 1420,Three days of staring and he still can't figure out where to put the air valve.,1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
-1420,He's in there capturing my essence.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,Rick's very literal about his man-cave.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,He's in there capturing my essence.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,Rick's very literal about his man-cave.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,And by God if he doesn't fancy himself some sort of inventor.,1.234375,0.0436470597159808,128.0,102.0,22.0,4.0,537
 1420,But first he had to deconstruct it.,1.234375,0.04768815691594056,128.0,105.0,16.0,7.0,537
 1420,Tom is going back to fundamentals.,1.234375,0.0436470597159808,128.0,102.0,22.0,4.0,537
-1420,I think he's getting ready to pop the question!,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,I think he's getting ready to pop the question!,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,"""Forget everything that came before"", his instructor said.",1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
 1420,He tires easily.,1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
 1420,"No idea. He calls it a ""wheel"".",1.234375,0.0436470597159808,128.0,102.0,22.0,4.0,537
 1420,But then we stopped arguing about it. We were just going round and round.,1.234375,0.0436470597159808,128.0,102.0,22.0,4.0,537
-1420,"Little did Dave know, as soon as he had achieved what women asked for, they would no longer be interested.",1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,"Little did Dave know, as soon as he had achieved what women asked for, they would no longer be interested.",1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,"He said I was a millstone around he's neck,so I got him one to try just to remind him how lucky he is to have me, and if he complains anymore he will be getting a headstone.",1.234375,0.050201825685579946,128.0,107.0,12.0,9.0,537
-1420,What was you're maiden name before Flintstone?,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,He hasn't let us see it yet.. but he is pretty sure he can get a patent on it!,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,He's been totally obsessed since he went on that paleo diet.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,"My husband thinks he's invented the ""Big O"".",1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,It's certainly not how I expected Phil to spend time in his man cave.,1.234375,0.04896112545788098,128.0,106.0,14.0,8.0,537
+1420,What was you're maiden name before Flintstone?,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,He hasn't let us see it yet.. but he is pretty sure he can get a patent on it!,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,He's been totally obsessed since he went on that paleo diet.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,"My husband thinks he's invented the ""Big O"".",1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,It's certainly not how I expected Phil to spend time in his man cave.,1.234375,0.048961125457880984,128.0,106.0,14.0,8.0,537
 1420,"So what's your husband up to tonight, discovering fire?",1.234375,0.04768815691594056,128.0,105.0,16.0,7.0,537
-1420,"I kept telling him I was waiting for him to give me the big ""O"". Now he doesn't understand why I don't like it.",1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,"He says that when we retire to the South Pacific, we'll be rich.",1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,"I kept telling him I was waiting for him to give me the big ""O"". Now he doesn't understand why I don't like it.",1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,"He says that when we retire to the South Pacific, we'll be rich.",1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1420,He never tries to understand me....I said I need a washer for a big load.,1.234375,0.0436470597159808,128.0,102.0,22.0,4.0,537
 1420,It's been like this since he got on that paleo diet.,1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
 1420,Shhhh. He thinks he invented it.,1.234375,0.04221414840770096,128.0,101.0,24.0,3.0,537
 1420,"He said, ""I want to be a sculptor"", and I said, ""...Oh?""",1.234375,0.04768815691594056,128.0,105.0,16.0,7.0,537
 1420,Doug always has to figure things out for himself.,1.234375,0.04221414840770096,128.0,101.0,24.0,3.0,537
-1420,He's finished the coffee cup already.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,The truck has a flat.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,"I keep telling him, ""you don't have to reinvent the wheel"", but does he listen?",1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,Bob and I have decided to start over.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,He's calling it 'the best thing since sliced bread!',1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,Actually what I said was-you should try and re-invent yourself.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
-1420,I mentioned to him that I'd like to have one.,1.234375,0.04896112545788098,128.0,106.0,14.0,8.0,537
+1420,He's finished the coffee cup already.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,The truck has a flat.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,"I keep telling him, ""you don't have to reinvent the wheel"", but does he listen?",1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,Bob and I have decided to start over.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,He's calling it 'the best thing since sliced bread!',1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,Actually what I said was-you should try and re-invent yourself.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
+1420,I mentioned to him that I'd like to have one.,1.234375,0.048961125457880984,128.0,106.0,14.0,8.0,537
 1420,He's working on the bagel donut paradox.,1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
 1420,Last week it was fire. This week . . .,1.234375,0.0436470597159808,128.0,102.0,22.0,4.0,537
 1420,He's really gotten into reinventing.,1.234375,0.04638026319434138,128.0,104.0,18.0,6.0,537
-1420,He's determined to have a bigger number on the driveway than the neighbors'.,1.234375,0.04503440149389559,128.0,103.0,20.0,5.0,537
+1420,He's determined to have a bigger number on the driveway than the neighbors'.,1.234375,0.045034401493895586,128.0,103.0,20.0,5.0,537
 1512,He's finally given up on inventing a better mousetrap.,1.2325581395348837,0.04605517301672924,129.0,105.0,18.0,6.0,537
 1512,Bob hasn't been the same since he started the Paleo diet.,1.2325581395348837,0.04735190590259928,129.0,106.0,16.0,7.0,537
 1512,"He doesn't know it yet, but we don't have any room for the other three.",1.2325581395348837,0.04861406199461602,129.0,107.0,14.0,8.0,537
@@ -1532,14 +1532,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1519,Apparently it's also a gateway into another dimension.,1.2301587301587302,0.04530348935395862,126.0,102.0,19.0,5.0,537
 1519,This paleo thing is getting out of hand.,1.2301587301587302,0.05059982861216775,126.0,106.0,11.0,9.0,537
 1519,We'll be saving hundreds of thousands of dollars by building our own MRI Machine.,1.2301587301587302,0.046683940221754726,126.0,103.0,17.0,6.0,537
-1519,"Instead of remodeling, we're reinventing.",1.2301587301587302,0.042407993275749185,126.0,100.0,23.0,3.0,537
+1519,"Instead of remodeling, we're reinventing.",1.2301587301587302,0.04240799327574919,126.0,100.0,23.0,3.0,537
 1519,"It's not a Maytag, but he said he could take a look.",1.2301587301587302,0.04932908400321887,126.0,105.0,13.0,8.0,537
 1519,"I swear, at times my husband really acts like a caveman.",1.2301587301587302,0.046683940221754726,126.0,103.0,17.0,6.0,537
 1519,"Yes, still the cro-magnonnut.",1.2301587301587302,0.04932908400321887,126.0,105.0,13.0,8.0,537
 1519,I'm just happy he sold his bitcoins.,1.2301587301587302,0.046683940221754726,126.0,103.0,17.0,6.0,537
 1519,"I have to admit, he's pretty creative for someone with Alzheimer's.",1.2301587301587302,0.04530348935395862,126.0,102.0,19.0,5.0,537
 1519,"""by the time he finishes splitting our doughnut, the coffee will be cold"".",1.2301587301587302,0.046683940221754726,126.0,103.0,17.0,6.0,537
-1519,He claims it's for his man cave.,1.2301587301587302,0.042407993275749185,126.0,100.0,23.0,3.0,537
+1519,He claims it's for his man cave.,1.2301587301587302,0.04240799327574919,126.0,100.0,23.0,3.0,537
 1519,He say's I'm a square Peg.,1.2301587301587302,0.043879631045168496,126.0,101.0,21.0,4.0,537
 1519,Sculpting yes--- originality not so much.,1.2301587301587302,0.04088341676880567,126.0,99.0,25.0,2.0,537
 1519,"Ralph...Renaissance man?...no, a bit earlier...",1.2301587301587302,0.043879631045168496,126.0,101.0,21.0,4.0,537
@@ -1549,19 +1549,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1519,He's hoping to get on Shark Tank.,1.2301587301587302,0.04530348935395862,126.0,102.0,19.0,5.0,537
 1519,And last week I let him think that he came up with the idea of slicing bread.,1.2301587301587302,0.04530348935395862,126.0,102.0,19.0,5.0,537
 1519,Keeping Bob busy during retirement is more challenging than raising the kids.,1.2301587301587302,0.04530348935395862,126.0,102.0,19.0,5.0,537
-1519,I fell in love with his chiseled curves.,1.2301587301587302,0.042407993275749185,126.0,100.0,23.0,3.0,537
+1519,I fell in love with his chiseled curves.,1.2301587301587302,0.04240799327574919,126.0,100.0,23.0,3.0,537
 1519,Care for a donut with your coffee?,1.2301587301587302,0.04802472698113437,126.0,104.0,15.0,7.0,537
 1519,"Bob is pretty serious about his office's ""throw back Thursday"" competition.",1.2301587301587302,0.046683940221754726,126.0,103.0,17.0,6.0,537
 1519,He also likes fixing things that are not broken.,1.2301587301587302,0.04802472698113437,126.0,104.0,15.0,7.0,537
 1519,I don't have the heart to break it to him. He thinks he invented it.,1.2301587301587302,0.04530348935395862,126.0,102.0,19.0,5.0,537
 1519,"And then I said, 'I dunno, what IF cavemen had Kickstarter?'",1.2301587301587302,0.043879631045168496,126.0,101.0,21.0,4.0,537
 1519,Roger has been having trouble finding a device to measure his circumference.,1.2301587301587302,0.04802472698113437,126.0,104.0,15.0,7.0,537
-1519,He hasn't been able to fix our flat either.,1.2301587301587302,0.042407993275749185,126.0,100.0,23.0,3.0,537
+1519,He hasn't been able to fix our flat either.,1.2301587301587302,0.04240799327574919,126.0,100.0,23.0,3.0,537
 1519,I don't even want to talk about posing for that thing.,1.2301587301587302,0.046683940221754726,126.0,103.0,17.0,6.0,537
 1519,It's emergency currency if the stock market collapses,1.2301587301587302,0.046683940221754726,126.0,103.0,17.0,6.0,537
 1519,Scientology was recruiting.,1.2301587301587302,0.04802472698113437,126.0,104.0,15.0,7.0,537
 1519,"Trust me, its better than the time he reinvented fire...",1.2301587301587302,0.046683940221754726,126.0,103.0,17.0,6.0,537
-1519,There are three more in the garage. I mean guys with chisels.,1.2301587301587302,0.042407993275749185,126.0,100.0,23.0,3.0,537
+1519,There are three more in the garage. I mean guys with chisels.,1.2301587301587302,0.04240799327574919,126.0,100.0,23.0,3.0,537
 1519,One week on the paleo diet and he's back in the Stone Age.,1.2301587301587302,0.03929974096234903,126.0,98.0,27.0,1.0,537
 1519,"I keep telling him, it's not the size that matters...",1.2301587301587302,0.046683940221754726,126.0,103.0,17.0,6.0,537
 1519,he seems to have become more anal.,1.2301587301587302,0.04802472698113437,126.0,104.0,15.0,7.0,537
@@ -1588,7 +1588,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1519,"He's probably in there reinventing the wheel, but at least it keeps him busy.",1.2301587301587302,0.043879631045168496,126.0,101.0,21.0,4.0,537
 1519,Joe was looking for a project to follow fire,1.2301587301587302,0.043879631045168496,126.0,101.0,21.0,4.0,537
 1519,"It's a sculpture about ""nothing"".",1.2301587301587302,0.04932908400321887,126.0,105.0,13.0,8.0,537
-1519,"""I'm afraid his work is very derivative"".",1.2301587301587302,0.042407993275749185,126.0,100.0,23.0,3.0,537
+1519,"""I'm afraid his work is very derivative"".",1.2301587301587302,0.04240799327574919,126.0,100.0,23.0,3.0,537
 1519,I told him I badly needed a Big O,1.2301587301587302,0.046683940221754726,126.0,103.0,17.0,6.0,537
 1519,I'd tell him it's been done before but I don't want to squash his creativity.,1.2301587301587302,0.04932908400321887,126.0,105.0,13.0,8.0,537
 1519,I don't have the heart to tell him about the internet.,1.2301587301587302,0.04932908400321887,126.0,105.0,13.0,8.0,537
@@ -1596,7 +1596,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1519,"If this works, he's going to reinvent himself next.",1.2301587301587302,0.046683940221754726,126.0,103.0,17.0,6.0,537
 1519,"I discretely mentioned my desire for the 'big O', and...well, he totally did not get it.",1.2301587301587302,0.04530348935395862,126.0,102.0,19.0,5.0,537
 1519,I think it looks fine but he says it's not centered yet.,1.2301587301587302,0.04088341676880567,126.0,99.0,25.0,2.0,537
-1519,"so I just said , why don't you surprise me honey",1.2301587301587302,0.042407993275749185,126.0,100.0,23.0,3.0,537
+1519,"so I just said , why don't you surprise me honey",1.2301587301587302,0.04240799327574919,126.0,100.0,23.0,3.0,537
 1519,He’s easing out of Paleo.,1.2301587301587302,0.04802472698113437,126.0,104.0,15.0,7.0,537
 1519,That's how he rolls.,1.2301587301587302,0.046683940221754726,126.0,103.0,17.0,6.0,537
 1519,Harold's an idiot,1.2301587301587302,0.05305007926053462,126.0,108.0,7.0,11.0,537
@@ -1617,7 +1617,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1613,It was cheaper than shipping it from China.,1.2283464566929134,0.04897266846887122,127.0,106.0,13.0,8.0,537
 1613,"Honestly, I think Ed has gone a little overboard with this whole Paleo thing.",1.2283464566929134,0.04357045729792666,127.0,102.0,21.0,4.0,537
 1613,"I can tell you one thing, he's never made anything yet that has made my job easier.",1.2283464566929134,0.04498187552896535,127.0,103.0,19.0,5.0,537
-1613,Sliced Bread is next...,1.2283464566929134,0.04211176049748538,127.0,101.0,23.0,3.0,537
+1613,Sliced Bread is next...,1.2283464566929134,0.042111760497485384,127.0,101.0,23.0,3.0,537
 1613,"Oh, in there is the man-cave.",1.2283464566929134,0.04498187552896535,127.0,103.0,19.0,5.0,537
 1621,"Ugh men, I told him I needed a big O and that's what he makes",1.2265625,0.043265517319537115,128.0,103.0,21.0,4.0,537
 1622,Sid's spare tire is really an embarrassment to him.,1.224,0.04524342761037768,125.0,102.0,18.0,5.0,537
@@ -1703,7 +1703,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1702,Still spinning his wheels.,1.2195121951219512,0.04401631978653827,123.0,100.0,19.0,4.0,537
 1702,It all started when he went on thet Paleo diet ...,1.2195121951219512,0.04401631978653827,123.0,100.0,19.0,4.0,537
 1702,Harry is really getting out of hand with his man cave.,1.2195121951219512,0.04550512530337219,123.0,101.0,17.0,5.0,537
-1702,He's much happier since he stopped tweeting and started making large stone objects.,1.2195121951219512,0.042475362108238664,123.0,99.0,21.0,3.0,537
+1702,He's much happier since he stopped tweeting and started making large stone objects.,1.2195121951219512,0.04247536210823866,123.0,99.0,21.0,3.0,537
 1702,What else is a retired cop on a diet going to fixate over?,1.2195121951219512,0.04834538728281335,123.0,103.0,13.0,7.0,537
 1702,He's been mumbling something about sliced bread.,1.2195121951219512,0.04401631978653827,123.0,100.0,19.0,4.0,537
 1702,They say he is way ahead of his time,1.2195121951219512,0.046946740570570036,123.0,102.0,15.0,6.0,537
@@ -1720,18 +1720,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1702,"When I asked him to explain its intended meaning, he told me to just 'Roll with it.'",1.2195121951219512,0.04401631978653827,123.0,100.0,19.0,4.0,537
 1702,John doesn’t believe in Paleo. He’s following a late Neolithic lifestyle.,1.2195121951219512,0.04550512530337219,123.0,101.0,17.0,5.0,537
 1702,He's an inside-the-box thinker.,1.2195121951219512,0.046946740570570036,123.0,102.0,15.0,6.0,537
-1702,"His life coach said to get back to basics, but I think he took it too literal.",1.2195121951219512,0.042475362108238664,123.0,99.0,21.0,3.0,537
-1702,Shh. He's reinventing.,1.2195121951219512,0.04970469286546306,123.0,104.0,11.0,8.0,537
+1702,"His life coach said to get back to basics, but I think he took it too literal.",1.2195121951219512,0.04247536210823866,123.0,99.0,21.0,3.0,537
+1702,Shh. He's reinventing.,1.2195121951219512,0.049704692865463064,123.0,104.0,11.0,8.0,537
 1702,"I know Herb's no Picasso, but he has done wonders with our old dining room table.",1.2195121951219512,0.04401631978653827,123.0,100.0,19.0,4.0,537
 1702,Working for Dunkin Donuts inspired John to become a sculptor.,1.2195121951219512,0.04550512530337219,123.0,101.0,17.0,5.0,537
 1702,The fire hobby didn't work out too well.,1.2195121951219512,0.04087635459408279,123.0,98.0,23.0,2.0,537
 1702,Whenever I tell him to do something it's like reinventing the wheel.,1.2195121951219512,0.04834538728281335,123.0,103.0,13.0,7.0,537
 1702,"He's been standing there for a week muttering ""Bagel or Donut? Bagel or Donut?""",1.2195121951219512,0.04087635459408279,123.0,98.0,23.0,2.0,537
 1702,It's so typical. I specifically told him not to reinvent it.,1.2195121951219512,0.04401631978653827,123.0,100.0,19.0,4.0,537
-1702,He's got a patent pending.,1.2195121951219512,0.042475362108238664,123.0,99.0,21.0,3.0,537
+1702,He's got a patent pending.,1.2195121951219512,0.04247536210823866,123.0,99.0,21.0,3.0,537
 1702,Next week he plans to invent fire.,1.2195121951219512,0.04834538728281335,123.0,103.0,13.0,7.0,537
 1702,He's been obsesssing over where to put the headphone jack for months...,1.2195121951219512,0.04834538728281335,123.0,103.0,13.0,7.0,537
-1702,He's still trying to finish the hole thing.,1.2195121951219512,0.04970469286546306,123.0,104.0,11.0,8.0,537
+1702,He's still trying to finish the hole thing.,1.2195121951219512,0.049704692865463064,123.0,104.0,11.0,8.0,537
 1702,We're designing our own wedding bands.,1.2195121951219512,0.04550512530337219,123.0,101.0,17.0,5.0,537
 1702,"He's not telling me much, except it's going to be wheely wheely big .",1.2195121951219512,0.04550512530337219,123.0,101.0,17.0,5.0,537
 1702,He's getting some weird side effects from the Paleo Diet.,1.2195121951219512,0.04550512530337219,123.0,101.0,17.0,5.0,537
@@ -1741,29 +1741,29 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1702,"He's almost finished with his ""masterpiece"". He asked me if I had any suggestions on where he should put it and I said ""yes"".",1.2195121951219512,0.04834538728281335,123.0,103.0,13.0,7.0,537
 1702,My husband said he was going to embrace the paleo lifestyle.,1.2195121951219512,0.046946740570570036,123.0,102.0,15.0,6.0,537
 1702,He doesn't enjoy the hole process.,1.2195121951219512,0.04834538728281335,123.0,103.0,13.0,7.0,537
-1702,Richard is struggling with the Q,1.2195121951219512,0.042475362108238664,123.0,99.0,21.0,3.0,537
+1702,Richard is struggling with the Q,1.2195121951219512,0.04247536210823866,123.0,99.0,21.0,3.0,537
 1702,He's always inventing something he thinks no one else thought of.,1.2195121951219512,0.04550512530337219,123.0,101.0,17.0,5.0,537
 1702,"He is almost done with it. If you like, he can make one for you",1.2195121951219512,0.046946740570570036,123.0,102.0,15.0,6.0,537
 1702,"So like I was saying, the patent office turned us down.",1.2195121951219512,0.04550512530337219,123.0,101.0,17.0,5.0,537
 1702,"He says it's a Star Gate, but we can't even get high speed internet in this apartment.",1.2195121951219512,0.046946740570570036,123.0,102.0,15.0,6.0,537
 1702,Creativity isn't his thing.,1.2195121951219512,0.04401631978653827,123.0,100.0,19.0,4.0,537
-1702,I love it when he plays caveman for me.,1.2195121951219512,0.042475362108238664,123.0,99.0,21.0,3.0,537
+1702,I love it when he plays caveman for me.,1.2195121951219512,0.04247536210823866,123.0,99.0,21.0,3.0,537
 1702,It's more dependable than Bitcoin.,1.2195121951219512,0.04401631978653827,123.0,100.0,19.0,4.0,537
-1702,It's part of a new project for his man cave.,1.2195121951219512,0.04970469286546306,123.0,104.0,11.0,8.0,537
-1702,Making the model took him close to four months. Reinventing the thing should keep him out of our hair for decades.,1.2195121951219512,0.04970469286546306,123.0,104.0,11.0,8.0,537
-1702,Next time I'll tell him not to reinvent the home theater system.,1.2195121951219512,0.04970469286546306,123.0,104.0,11.0,8.0,537
+1702,It's part of a new project for his man cave.,1.2195121951219512,0.049704692865463064,123.0,104.0,11.0,8.0,537
+1702,Making the model took him close to four months. Reinventing the thing should keep him out of our hair for decades.,1.2195121951219512,0.049704692865463064,123.0,104.0,11.0,8.0,537
+1702,Next time I'll tell him not to reinvent the home theater system.,1.2195121951219512,0.049704692865463064,123.0,104.0,11.0,8.0,537
 1702,"He's so enthusiastic about his ""new"" invention, I don't have the heart to tell him.",1.2195121951219512,0.046946740570570036,123.0,102.0,15.0,6.0,537
 1702,Stanley gets furious when I tell him it's been done before.,1.2195121951219512,0.04834538728281335,123.0,103.0,13.0,7.0,537
 1702,Next he says he's going to re-invent himself.,1.2195121951219512,0.04550512530337219,123.0,101.0,17.0,5.0,537
 1702,"No, he's reinventing the donut.",1.2195121951219512,0.046946740570570036,123.0,102.0,15.0,6.0,537
 1702,All of our wheels are locally sourced.,1.2195121951219512,0.046946740570570036,123.0,102.0,15.0,6.0,537
-1702,I think he should do sliced bread next.,1.2195121951219512,0.042475362108238664,123.0,99.0,21.0,3.0,537
+1702,I think he should do sliced bread next.,1.2195121951219512,0.04247536210823866,123.0,99.0,21.0,3.0,537
 1702,It's another in his stone-wheel series. He is impossible to stop once he gets rolling.,1.2195121951219512,0.04550512530337219,123.0,101.0,17.0,5.0,537
 1702,If only he could reinvent the presidential race.,1.2195121951219512,0.04401631978653827,123.0,100.0,19.0,4.0,537
 1702,I asked him to buy me a big washer but he insists on building one himself.,1.2195121951219512,0.04834538728281335,123.0,103.0,13.0,7.0,537
 1702,He told me he's working on a ring for my mother.,1.2195121951219512,0.04550512530337219,123.0,101.0,17.0,5.0,537
 1702,"I found this ""honey-do"" list for cavemen on line last week",1.2195121951219512,0.046946740570570036,123.0,102.0,15.0,6.0,537
-1702,It just fits with his paleo diet.,1.2195121951219512,0.042475362108238664,123.0,99.0,21.0,3.0,537
+1702,It just fits with his paleo diet.,1.2195121951219512,0.04247536210823866,123.0,99.0,21.0,3.0,537
 1702,If it sells we'll have enough room for him to sculpt a cup of coffee.,1.2195121951219512,0.04401631978653827,123.0,100.0,19.0,4.0,537
 1767,"Well you have been telling me for years that he never gives you a ""Big O"".",1.2177419354838708,0.04517135813746562,124.0,102.0,17.0,5.0,537
 1767,His therapist suggested he invent something.,1.2177419354838708,0.043695780716468284,124.0,101.0,19.0,4.0,537
@@ -1919,30 +1919,30 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1891,"Never mind dear, that's just Donald Trump masquerading as a handyman, pondering how he can reinvent the wheel and make it great again!",1.2083333333333333,0.0471837598071888,120.0,101.0,13.0,6.0,537
 1891,Last week he discovered fire in the microwave,1.2083333333333333,0.0471837598071888,120.0,101.0,13.0,6.0,537
 1891,"Oh, he reinvents something every weekend.",1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
-1891,"Actually, the hard part is sculpting the glaze.",1.2083333333333333,0.042498695536634934,120.0,98.0,19.0,3.0,537
+1891,"Actually, the hard part is sculpting the glaze.",1.2083333333333333,0.04249869553663493,120.0,98.0,19.0,3.0,537
 1891,"It's strange, whatever he starts always ends up in a big zero.",1.2083333333333333,0.0471837598071888,120.0,101.0,13.0,6.0,537
 1891,He's in his monolithic period!,1.2083333333333333,0.03906439654592999,120.0,96.0,23.0,1.0,537
 1891,He's not reinventing. He's reimagining.,1.2083333333333333,0.048645279441600985,120.0,102.0,11.0,7.0,537
 1891,Ralph has been inspired by Trump to make the World great again.,1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
-1891,You just can't make a proper bagel outside the city.,1.2083333333333333,0.042498695536634934,120.0,98.0,19.0,3.0,537
+1891,You just can't make a proper bagel outside the city.,1.2083333333333333,0.04249869553663493,120.0,98.0,19.0,3.0,537
 1891,I told him the peephole was too small...,1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
 1891,He thinks it will change civilization.,1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
 1891,"And then I said, 'Wait, WHY don't we reinvent the wheel?'",1.2083333333333333,0.04567549854280215,120.0,100.0,15.0,5.0,537
-1891,I keep telling him you can't reinvent reinventing the wheel.,1.2083333333333333,0.042498695536634934,120.0,98.0,19.0,3.0,537
+1891,I keep telling him you can't reinvent reinventing the wheel.,1.2083333333333333,0.04249869553663493,120.0,98.0,19.0,3.0,537
 1891,"The way he goes on, you'd think he's inventing the wheel, or something.",1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
 1891,Shark Tank here we come.,1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
 1891,"He'll never learn to just call a handyman, will he?",1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
 1891,....and I know a great intellectual property lawyer!,1.2083333333333333,0.04567549854280215,120.0,100.0,15.0,5.0,537
 1891,He may be a neanderthal bur he's my neanderthal!,1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
 1891,I love the little things he does.,1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
-1891,"""I'm glad he's nearly done with this alphabet project"".",1.2083333333333333,0.042498695536634934,120.0,98.0,19.0,3.0,537
+1891,"""I'm glad he's nearly done with this alphabet project"".",1.2083333333333333,0.04249869553663493,120.0,98.0,19.0,3.0,537
 1891,He got the idea while eating a bowl of Cheerios.,1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
 1891,He's been on a roll since I met him.,1.2083333333333333,0.0471837598071888,120.0,101.0,13.0,6.0,537
 1891,"In simple language, he is exploring whether the doughnut hole is more important than the doughnut.",1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
 1891,It's an improvement on the triangular one he did last year.,1.2083333333333333,0.0471837598071888,120.0,101.0,13.0,6.0,537
-1891,""" I just don't know how to tell him it has already been invented"".",1.2083333333333333,0.042498695536634934,120.0,98.0,19.0,3.0,537
+1891,""" I just don't know how to tell him it has already been invented"".",1.2083333333333333,0.04249869553663493,120.0,98.0,19.0,3.0,537
 1891,"All in all, I figure this was still better than the welding course.",1.2083333333333333,0.048645279441600985,120.0,102.0,11.0,7.0,537
-1891,"I don't like to brag , but MY husband just made a hole in one .",1.2083333333333333,0.042498695536634934,120.0,98.0,19.0,3.0,537
+1891,"I don't like to brag , but MY husband just made a hole in one .",1.2083333333333333,0.04249869553663493,120.0,98.0,19.0,3.0,537
 1891,"No, you tell him!",1.2083333333333333,0.0471837598071888,120.0,101.0,13.0,6.0,537
 1891,He spends a lot more time at home since he discovered reinvention.,1.2083333333333333,0.0471837598071888,120.0,101.0,13.0,6.0,537
 1891,Everything's fine. We had the ceiling repaired last week. He just has to hang the chandelier and we'll be ready for the open house.,1.2083333333333333,0.048645279441600985,120.0,102.0,11.0,7.0,537
@@ -1950,7 +1950,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1891,He's searching for his inner primate,1.2083333333333333,0.04567549854280215,120.0,100.0,15.0,5.0,537
 1891,"Even if we can't monetise it ourselves, maybe Google will buy us.",1.2083333333333333,0.0471837598071888,120.0,101.0,13.0,6.0,537
 1891,"On the Q. T. , he's Neanderthal between the sheets!",1.2083333333333333,0.0471837598071888,120.0,101.0,13.0,6.0,537
-1891,He's in his primitive period.,1.2083333333333333,0.042498695536634934,120.0,98.0,19.0,3.0,537
+1891,He's in his primitive period.,1.2083333333333333,0.04249869553663493,120.0,98.0,19.0,3.0,537
 1891,He told me I would love what he purchased from a real wheeler-dealer…,1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
 1891,"In his spare time, Herb is a bit of a re-inventor.",1.2083333333333333,0.04567549854280215,120.0,100.0,15.0,5.0,537
 1891,You can tell a person's intelligence through their expression in art.,1.2083333333333333,0.048645279441600985,120.0,102.0,11.0,7.0,537
@@ -1961,11 +1961,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1891,"I want a new kitchen, but he just keeps reinventing the wheel.",1.2083333333333333,0.0471837598071888,120.0,101.0,13.0,6.0,537
 1891,I'm fully embracing the paleo lifestyle.,1.2083333333333333,0.0471837598071888,120.0,101.0,13.0,6.0,537
 1891,"So I told Phil, ""Try and find a hobby that provides an outlet for both the digital and analog parts of your brain.""",1.2083333333333333,0.04567549854280215,120.0,100.0,15.0,5.0,537
-1891,He's obsessed with the idea of a third term for the president.,1.2083333333333333,0.042498695536634934,120.0,98.0,19.0,3.0,537
+1891,He's obsessed with the idea of a third term for the president.,1.2083333333333333,0.04249869553663493,120.0,98.0,19.0,3.0,537
 1891,Harry is always looking to improve on things.,1.2083333333333333,0.0471837598071888,120.0,101.0,13.0,6.0,537
 1891,Sometimes I just don't know what he's thinking; he hasn't invented language yet.,1.2083333333333333,0.04567549854280215,120.0,100.0,15.0,5.0,537
 1891,He said he's making something that reminds him of me.,1.2083333333333333,0.04567549854280215,120.0,100.0,15.0,5.0,537
-1891,"Of course, my Bob has never had an original idea in his life ... just don’t tell him that.",1.2083333333333333,0.042498695536634934,120.0,98.0,19.0,3.0,537
+1891,"Of course, my Bob has never had an original idea in his life ... just don’t tell him that.",1.2083333333333333,0.04249869553663493,120.0,98.0,19.0,3.0,537
 1891,He says he's going to prove you can reinvent it.,1.2083333333333333,0.04567549854280215,120.0,100.0,15.0,5.0,537
 1891,Only eleven left to go.,1.2083333333333333,0.04567549854280215,120.0,100.0,15.0,5.0,537
 1891,The painting? I don't know what it means.,1.2083333333333333,0.04567549854280215,120.0,100.0,15.0,5.0,537
@@ -1973,14 +1973,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1891,"Oh, you know Harry, he just loves his vintage cars.",1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
 1891,Larry's always coming up with new ideas.,1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
 1891,"I keep saying, ""Get that thing out of here."" He keeps saying, ""I like having it around,"" and then laughs and walks away.",1.2083333333333333,0.048645279441600985,120.0,102.0,11.0,7.0,537
-1891,"Oh, you know how Bill is. He's always trying to reinvent the wheel.",1.2083333333333333,0.042498695536634934,120.0,98.0,19.0,3.0,537
+1891,"Oh, you know how Bill is. He's always trying to reinvent the wheel.",1.2083333333333333,0.04249869553663493,120.0,98.0,19.0,3.0,537
 1891,I expect to receive a full refund for our Easter Island cruise.,1.2083333333333333,0.0471837598071888,120.0,101.0,13.0,6.0,537
 1891,He's also coding a program that lets you play solitaire on the computer.,1.2083333333333333,0.0471837598071888,120.0,101.0,13.0,6.0,537
 1891,"Michelangelo in there said he will be ready to start ""P"" next week...",1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
 1891,He's building a Tesla from scratch.,1.2083333333333333,0.048645279441600985,120.0,102.0,11.0,7.0,537
 1891,It won't be long before he releases the beta version of the hula hoop.,1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
 1891,Bob's idea of a man cave is different than others...,1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
-1891,"What is Albert working on? O, nothing.",1.2083333333333333,0.042498695536634934,120.0,98.0,19.0,3.0,537
+1891,"What is Albert working on? O, nothing.",1.2083333333333333,0.04249869553663493,120.0,98.0,19.0,3.0,537
 1891,Patent re-pending.,1.2083333333333333,0.040817681216681466,120.0,97.0,21.0,2.0,537
 1891,Cosmo said that men do best with concrete suggestions.,1.2083333333333333,0.0441157017934041,120.0,99.0,17.0,4.0,537
 1891,He's actually more inventive now that he has a man cave.,1.2083333333333333,0.040817681216681466,120.0,97.0,21.0,2.0,537
@@ -2389,8 +2389,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2385,"If you do business on Yap Island, make sure they pay you in small denominations.",1.1896551724137931,0.04884542995515025,116.0,101.0,8.0,7.0,537
 2385,He took up artisanal car making only after we moved to Brooklyn.,1.1896551724137931,0.044001146747098666,116.0,98.0,14.0,4.0,537
 2385,"When he was eight, his dad said figure it out.",1.1896551724137931,0.044001146747098666,116.0,98.0,14.0,4.0,537
-2385,"The contractors are taking forever on our kitchen remodel. I swear, it's like they're trying to reinvent the wheel!",1.1896551724137931,0.038552896163789464,116.0,95.0,20.0,1.0,537
-2385,At this rate it'll be years until the IKEA furniture is set up.,1.1896551724137931,0.038552896163789464,116.0,95.0,20.0,1.0,537
+2385,"The contractors are taking forever on our kitchen remodel. I swear, it's like they're trying to reinvent the wheel!",1.1896551724137931,0.03855289616378946,116.0,95.0,20.0,1.0,537
+2385,At this rate it'll be years until the IKEA furniture is set up.,1.1896551724137931,0.03855289616378946,116.0,95.0,20.0,1.0,537
 2385,...because his wife called him a chiseler in the divorce hearings.,1.1896551724137931,0.044001146747098666,116.0,98.0,14.0,4.0,537
 2385,It's all his papa left him.,1.1896551724137931,0.047285843442009465,116.0,100.0,10.0,6.0,537
 2385,He's making a gift for my mother's birthday.,1.1896551724137931,0.042263174012116635,116.0,97.0,16.0,3.0,537
@@ -3244,10 +3244,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3233,How is he ever going to install that washer?,1.1574074074074074,0.04395243707688752,108.0,95.0,9.0,4.0,537
 3233,I've been nagging him for a necklace for years.,1.1574074074074074,0.04193741120371579,108.0,94.0,11.0,3.0,537
 3233,I told him I didn't want to turn coffee and donuts into a big thing.,1.1574074074074074,0.03982054986990178,108.0,93.0,13.0,2.0,537
-3246,Sculpting isn't really in his wheelhouse.,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
+3246,Sculpting isn't really in his wheelhouse.,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
 3246,Al Gore's got nothing on George.,1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
 3246,Yes. He thinks he can reinvent the wheel.,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
-3246,Bruce believes we should move off the grid.,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
+3246,Bruce believes we should move off the grid.,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
 3246,I told him that's how Picasso started. Next week he's painting me nude!!,1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
 3246,"I KNOW, BUT TO HIM IT'S NEW.",1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
 3246,He's much happier in his wheelhouse.,1.1523809523809525,0.03524106511591417,105.0,89.0,16.0,0.0,537
@@ -3257,11 +3257,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3246,I like to see him busy.,1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
 3246,He's convinced there's a fortune to be made in reinventions.,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
 3246,Joe is a very successful re-inventor.,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
-3246,Next he’s going to invent the internal combustion engine.,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
-3246,Ignore him. He's in his Neanderthal phase.,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
+3246,Next he’s going to invent the internal combustion engine.,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
+3246,Ignore him. He's in his Neanderthal phase.,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
 3246,I beg him not to reinvent the wheel all the time. You think he listens....?,1.1523809523809525,0.04443572215126963,105.0,93.0,8.0,4.0,537
 3246,It's not like it's sliced bread or anything.,1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
-3246,He's determined to patent something,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
+3246,He's determined to patent something,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
 3246,"When you think you've invented something, until you check the Internet.",1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
 3246,"I keep saying 'Don't reinvent the wheel Gus,' but does he listen?",1.1523809523809525,0.04443572215126963,105.0,93.0,8.0,4.0,537
 3246,He took my request literally!,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
@@ -3271,7 +3271,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3246,He keeps trying to reinvent the doughnut.,1.1523809523809525,0.04443572215126963,105.0,93.0,8.0,4.0,537
 3246,He's reverse-engineering the wheel.,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
 3246,We hope it's not too late to patent this technology,1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
-3246,John likes to go back to basics,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
+3246,John likes to go back to basics,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
 3246,His next project is to reinvent the door.,1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
 3246,Fred's never really moved on.,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
 3246,"He wants to reinvent the world, starting with the basics.",1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
@@ -3280,11 +3280,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3246,Did he give you the big O?,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
 3246,"He insisted that the wheel does, in fact, need reinventing.",1.1523809523809525,0.04443572215126963,105.0,93.0,8.0,4.0,537
 3246,It's his 'Circular Momentum Facilitation Device'. They turned down his last patent application for the 'Use of Heat to Combine Substances with Oxygen Resulting in Combustion Process.',1.1523809523809525,0.04443572215126963,105.0,93.0,8.0,4.0,537
-3246,He's currently going through of his 'Flintstones Period.',1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
+3246,He's currently going through of his 'Flintstones Period.',1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
 3246,"He says, he's ""reimagining"" it.",1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
-3246,It's a throw back to simpler times.,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
+3246,It's a throw back to simpler times.,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
 3246,He thinks he's reinventing the cronut.,1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
-3246,His first invention was fire.,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
+3246,His first invention was fire.,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
 3246,I have no idea why he's trying to reinvent the donut.,1.1523809523809525,0.04443572215126963,105.0,93.0,8.0,4.0,537
 3246,Would you like a granite donut?,1.1523809523809525,0.04443572215126963,105.0,93.0,8.0,4.0,537
 3246,"Besides that he invented safety-pins, band aides, paperclips and post it notes.",1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
@@ -3294,10 +3294,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3246,I invent the wheel and still I'm ignored,1.1523809523809525,0.04443572215126963,105.0,93.0,8.0,4.0,537
 3246,Oye vey! He say's it's going to be the next big thing.,1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
 3246,"""I suggested 'Cosmic Toroid', but Horace prefers 'Big Donut.'",1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
-3246,Howard's always reinventing the wheel.,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
+3246,Howard's always reinventing the wheel.,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
 3246,"After years of living together, Bert is finally giving me a ring.",1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
-3246,He says next he's going to either build a better mousetrap or sculpt a big square peg.,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
-3246,He's taking a bottom-up approach to autonomous vehicles.,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
+3246,He says next he's going to either build a better mousetrap or sculpt a big square peg.,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
+3246,He's taking a bottom-up approach to autonomous vehicles.,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
 3246,Henry is fully committed to his paleo diet lifestyle.,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
 3246,He still hasn't figured out if he will spell Clinton or Donald with it !,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
 3246,"I'm so proud of George, he just invented the wheel.",1.1523809523809525,0.04443572215126963,105.0,93.0,8.0,4.0,537
@@ -3307,13 +3307,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3246,It's his protoype of the self-driving wheel.,1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
 3246,"He wants to re-invent himself, not the wheel. But it's taking time.",1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
 3246,Herman is a dedicated inventor. His problem is coming up with something new.,1.1523809523809525,0.046450872825545685,105.0,94.0,6.0,5.0,537
-3246,I think the class is really paying off.,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
+3246,I think the class is really paying off.,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
 3246,I keep telling him he doesn't have to reinvent the wheel...,1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
-3246,John is so behind the times.,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
-3246,I couldn't resist! It was 'one of a kind' and on final sale on HSN!,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
-3246,I'm not sure that reinventing.com is a real website.,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
+3246,John is so behind the times.,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
+3246,I couldn't resist! It was 'one of a kind' and on final sale on HSN!,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
+3246,I'm not sure that reinventing.com is a real website.,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
 3246,Don't tell him the hole is ingenious it will just go to his head.,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
-3246,You should see him tilt at windmills.,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
+3246,You should see him tilt at windmills.,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
 3246,"Yes, stone age inventor is a thing.",1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,537
 3246,Have you ever known anyone to be as obsessed with Cheerios?,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
 3246,You never can tell with Marvin. He said three hours ago that he was heading to his workshop. Knowing him he's probably reinventing the wheel or something.,1.1523809523809525,0.03524106511591417,105.0,89.0,16.0,0.0,537
@@ -3329,7 +3329,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3246,George has been working so hard on his new career as a reinventor.,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
 3246,Our marriage couselor rocks.,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
 3246,"He thinks the whole ""don't reinvent"" notion is just a conspiracy cooked up by Big Wheel.",1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
-3246,This is just his latest reinvention.,1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,537
+3246,This is just his latest reinvention.,1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,537
 3246,The worst part is the snickering when he installs the axle.,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
 3246,What's Ug doing in there?,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
 3246,My Stanley is one of America's foremost reinventors.,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,537
@@ -3889,11 +3889,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3883,He's what they call a re-inventor.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,He claims he is going to reinvent the wheel.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,"It's not just that he's stubborn, it's that he takes things so literally.",1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
-3883,"Ever since he received his PhD, he has taken an aggressive approach to re-inventing things.",1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
-3883,He always thinks he is on roll.,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
-3883,"The roundness, the hole. He is just fascinated by donuts. And bagels, too.",1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,"Ever since he received his PhD, he has taken an aggressive approach to re-inventing things.",1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
+3883,He always thinks he is on roll.,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
+3883,"The roundness, the hole. He is just fascinated by donuts. And bagels, too.",1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,He said he is on to something that is going to change the world,1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,537
-3883,"""I think I know what led to his inspiration"".",1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,"""I think I know what led to his inspiration"".",1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,George feels the HOLLYWOOD wooden sign in LA is much too fragile ; he's working on a mode permanent one.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,It will occupy him for the next 100 days until he has to return it.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,He's a real Homo habilis.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
@@ -3907,17 +3907,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3883,I enjoy watching his progress - I understand that he'll be adding the rainbow sprinkles next.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,I'll say it is.,1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,537
 3883,He's been working on that novel for years.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
-3883,he's back int Rock and roll again,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
-3883,My husband's always reinventing the wheel.,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,he's back int Rock and roll again,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
+3883,My husband's always reinventing the wheel.,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,"Joe has been working so hard, I just can't tell him that he's reinventing the wheel.",1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,He says the next logical step is to simplify the electric car,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,Don't mind him. He's reinventing the wheel.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,He's new to the inventing game,1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,537
-3883,"So then he says, ""People are paying a fortune for giant earrings, eh. Hmmmm.""",1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,"So then he says, ""People are paying a fortune for giant earrings, eh. Hmmmm.""",1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,He says he's reinventing something.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,He doesn't know what to do with it.,1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,537
-3883,He says he's making hoop earrings for my birthday!,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
-3883,Henry is at a loss for words how to call his latest work,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,He says he's making hoop earrings for my birthday!,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
+3883,Henry is at a loss for words how to call his latest work,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,He has been obsessed ever since he crashed his bicycle.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,I told him a valve stem would complete it.,1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,537
 3883,A petrified donut! He is so proud!,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
@@ -3939,7 +3939,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3883,"I don't know Ruth, but my Mike, bless his heart, has started calling it 'David'.",1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,You know John... always trying to reinvent the wheel.,1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,537
 3883,He calls it “Reinventing the Reinvention of the Wheel”.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
-3883,It's a breakthrough. He owns his need for a millstone.,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,It's a breakthrough. He owns his need for a millstone.,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,My husband is very well rounded,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,"No matter what we do, it keeps rolling on",1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,All his hard work resulted in nothing.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
@@ -3959,9 +3959,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3883,It's that reinvention intervention time again.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,O well.,1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,537
 3883,He's always reinventing something.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
-3883,He's trying to reinvent the wheel -- again!,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
-3883,You should've seen the size of the cop that brought it.,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
-3883,"Do you think Steve is taking this whole ""Paleo"" diet a little too seriously?",1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,He's trying to reinvent the wheel -- again!,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
+3883,You should've seen the size of the cop that brought it.,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
+3883,"Do you think Steve is taking this whole ""Paleo"" diet a little too seriously?",1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,Oh! Oliver's is an outstandingly outre oeuvre Ophelia.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,He says he's re-inventing himself.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,"That Harold of mine, I told him he doughnut-know anything about art.",1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
@@ -3969,12 +3969,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3883,"Just the other day, he also stood on the shoulders of giants.",1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,"On the heels of that bread slicer fiasco, he had to turn to a new project.",1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,I don't understand him sometimes; It's not like he's inventing the wheel back there.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
-3883,Marvin's a reinventor.,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,Marvin's a reinventor.,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,Harry's still trying to find his bliss.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
-3883,You should have seen what he invented last week.,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,You should have seen what he invented last week.,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,He's constantly trying to reinvent the wheel,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,I should have never called him a real chiseler.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
-3883,He believes in re-invention not re-incarnation.,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,He believes in re-invention not re-incarnation.,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,My husband is reinventing the wheel.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,"Oh, he is in awe of himself!",1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,"So I said, 'Just break down and research it to find the right size square peg.'",1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
@@ -3988,18 +3988,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3883,But this one's a generic.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,He came up with the brilliant idea while having coffee and doughnuts about ten years ago .,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,He is inventing the wheel again.,1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,537
-3883,It's his prototype for a family size bagel.,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
-3883,He's got this strong urge to reinvent the wheel.,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,It's his prototype for a family size bagel.,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
+3883,He's got this strong urge to reinvent the wheel.,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,"He heard me say I want a ""wheel chiseled"" instead of a real chiseled man .",1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
-3883,Don't mind him. He says he's an inventor.,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
-3883,He has been diagnosed with OPD/Obsessive Paleo Disorder,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,Don't mind him. He says he's an inventor.,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
+3883,He has been diagnosed with OPD/Obsessive Paleo Disorder,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,"Actually, I told him it would be nice if he were more sculpted.",1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,It is a compatible relationship with him. They are both tired all the time.,1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,537
-3883,I love him -- so can you tell him the wheel has already been invented?,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,I love him -- so can you tell him the wheel has already been invented?,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,He's simply mad about Lifesavers.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,He told me he order a square peg.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,He much happier now that he's in his wheelhouse.,1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,537
-3883,His friend Fred Flintstone gave him the idea.,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,His friend Fred Flintstone gave him the idea.,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,An oversized LifeSaver raises so many unintended questions.,1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,537
 3883,He's filled up the garage and the basement with them and now he's making them here.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,"He absolutely insists on an artisanal, gluten-free spare tire.",1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
@@ -4022,7 +4022,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3883,My husband thinks he's always reinventing the wheel.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,"Oh, his boss said, ""Don't."" He just didn't hear it.",1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,He's trying to address his Medicare donut hole.,1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,537
-3883,My ex still sends me kisses...,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,My ex still sends me kisses...,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,We're planning a trip to Yap and need a little mad money.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,He's unhappy with his usual artisanal bread supplier.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,"As a conceptualist, Andre's so last millennia.",1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
@@ -4031,13 +4031,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3883,Go easy on him but don't get us a patent agent.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,Haven't seen him for a week. You'd think he was trying to reinvent the wheel!,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,Fred's convinced you can't really call it a Cheerio without the hole.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
-3883,His donut fetish has gone too far.,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,His donut fetish has gone too far.,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,He calls it a reinvention. I call it dreck.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,Sam was moved to the Yap currency desk last week.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,Fred's re-inventing himself.,1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,537
 3883,He always thinks he knows better than the experts.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,"Sorry for the noise, Gladys. You know Bill--he's working on another one of his crazy reinventions.",1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
-3883,My husband's been staring at that wheel for inspiration for months. He stops only for two things: football and dinner.,1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,My husband's been staring at that wheel for inspiration for months. He stops only for two things: football and dinner.,1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,What's it like being married to a re-inventor?,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,My genius thinks he has invented the life saver.,1.1224489795918366,0.03630673878179781,98.0,87.0,10.0,1.0,537
 3883,"His art is influenced by early cavemen - you know, the Flintstones.",1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
@@ -4063,8 +4063,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3883,"Darling, make yourself useful and fetch us the biscuits.",1.1224489795918366,0.04415155249981723,98.0,90.0,4.0,4.0,537
 3883,Herman is always re-inventing something.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 3883,I bet him a cruise that it won't fit in our pool.,1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,537
-3883,"It's been a year now, and he's still convinced he can fit in that round peg of his.",1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
-3883,"He's just so clever, I always wonder what he'll reinvent next!",1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,537
+3883,"It's been a year now, and he's still convinced he can fit in that round peg of his.",1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
+3883,"He's just so clever, I always wonder what he'll reinvent next!",1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,537
 3883,I keep telling him that he is recreating the wheel.,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,537
 4068,You know my Joe. Always trying to reinvent something,1.1212121212121209,0.035959410661983056,99.0,88.0,10.0,1.0,537
 4069,It's his take on age regression therapy.,1.1145833333333333,0.03267930184391719,96.0,85.0,11.0,0.0,537

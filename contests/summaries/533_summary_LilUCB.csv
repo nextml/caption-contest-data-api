@@ -20,13 +20,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 19,"Oh, that's not the price. That's when it arrives.",1.6526315789473685,0.053053170843245484,190.0,95.0,66.0,29.0,533
 20,Another waiter will be along every ten minutes or so.,1.6507936507936507,0.057859775328343674,189.0,104.0,47.0,38.0,533
 20,Apologies for the delay. We have limited service on the weekends.,1.6507936507936507,0.05330260770429357,189.0,95.0,65.0,29.0,533
-20,"If you'd like vegetarian, you'll have to transfer to the green line.",1.6507936507936507,0.05277196886366826,189.0,94.0,67.0,28.0,533
+20,"If you'd like vegetarian, you'll have to transfer to the green line.",1.6507936507936507,0.052771968863668264,189.0,94.0,67.0,28.0,533
 23,"Next time, maybe you shouldn't complain about being seated near the kitchen.",1.6451612903225807,0.05820642029032001,186.0,103.0,46.0,37.0,533
 24,Would you like that charbroiled or third-railed?,1.6327683615819208,0.056410436755072874,177.0,94.0,54.0,29.0,533
-25,"We accept American Express, Visa, and MetroCard.",1.6306818181818181,0.05435403370430903,176.0,90.0,61.0,25.0,533
-25,Look at these prices! I told you we should have gone to the bus station.,1.6306818181818181,0.05782708162737898,176.0,96.0,49.0,31.0,533
-25,"I'm sorry, this is not my station",1.6306818181818181,0.05726287020927685,176.0,95.0,51.0,30.0,533
-25,Would you like to see our wino list?,1.6306818181818181,0.05782708162737898,176.0,96.0,49.0,31.0,533
+25,"We accept American Express, Visa, and MetroCard.",1.630681818181818,0.05435403370430903,176.0,90.0,61.0,25.0,533
+25,Look at these prices! I told you we should have gone to the bus station.,1.630681818181818,0.05782708162737898,176.0,96.0,49.0,31.0,533
+25,"I'm sorry, this is not my station",1.630681818181818,0.05726287020927685,176.0,95.0,51.0,30.0,533
+25,Would you like to see our wino list?,1.630681818181818,0.05782708162737898,176.0,96.0,49.0,31.0,533
 29,"You forgot to tip the maître d', didn't you?",1.6285714285714286,0.05868206140111164,175.0,97.0,46.0,32.0,533
 30,"We accept Visa, Discover, and MetroCard.",1.6242774566473988,0.0587137625332479,173.0,96.0,46.0,31.0,533
 31,"I'll take your order, but this is not my station.",1.622093023255814,0.056663920575584864,172.0,92.0,53.0,27.0,533
@@ -41,9 +41,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 38,We take Visa and Metrocard.,1.606060606060606,0.055514105794170585,165.0,87.0,56.0,22.0,533
 38,You should tip the maitre d' next time.,1.606060606060606,0.06121277981102381,165.0,96.0,38.0,31.0,533
 42,"Tap, sparkling, or dripping from the ceiling?",1.6036585365853655,0.057777495596324,164.0,90.0,49.0,25.0,533
-43,You will be experiencing random delays in service throughout the evening.,1.5962732919254659,0.058698938420608075,161.0,90.0,46.0,25.0,533
-43,May I take your wallets?,1.5962732919254659,0.06254121745715469,161.0,96.0,34.0,31.0,533
-43,"It's a little quiet now, but this place really picks up around five o'clock.",1.5962732919254659,0.05935659292158819,161.0,91.0,44.0,26.0,533
+43,You will be experiencing random delays in service throughout the evening.,1.596273291925466,0.058698938420608075,161.0,90.0,46.0,25.0,533
+43,May I take your wallets?,1.596273291925466,0.06254121745715469,161.0,96.0,34.0,31.0,533
+43,"It's a little quiet now, but this place really picks up around five o'clock.",1.596273291925466,0.05935659292158819,161.0,91.0,44.0,26.0,533
 46,Sorry for the wait. We're experiencing service delays.,1.59375,0.05834245773203111,160.0,89.0,47.0,24.0,533
 46,"It's slow now, but by 8 this place will be like Grand Central Station.",1.59375,0.05834245773203111,160.0,89.0,47.0,24.0,533
 48,"Visa, cash, or Metrocard.",1.5875,0.05973440956044174,160.0,92.0,42.0,26.0,533
@@ -94,12 +94,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 93,"I'd love to take your order, but this isn't my station.",1.5517241379310345,0.05947651141607015,145.0,84.0,42.0,19.0,533
 94,"Sorry, we only accept Metro Card.",1.5492957746478873,0.060446070002578414,142.0,83.0,40.0,19.0,533
 94,The dessert car will be by in a couple minutes.,1.5492957746478873,0.06287605061832166,142.0,86.0,34.0,22.0,533
-96,Our special tonight is the pigeon.,1.5460992907801419,0.06324169019259257,141.0,86.0,33.0,22.0,533
-96,Or would you like to try something a little more uptown?,1.5460992907801419,0.05995200487090475,141.0,82.0,41.0,18.0,533
-96,"No, you've got all the time in the world. This is Amtrak.",1.5460992907801419,0.06324169019259257,141.0,86.0,33.0,22.0,533
-96,I regret to inform you that dinner is running 15 minutes behind schedule.,1.5460992907801419,0.06079111785972278,141.0,83.0,39.0,19.0,533
-96,I'm sorry but that dish is only available on the southbound menu.,1.5460992907801419,0.058237519202431275,141.0,80.0,45.0,16.0,533
-96,"""Sorry for the wait. The kitchen's a train wreck tonight.",1.5460992907801419,0.058237519202431275,141.0,80.0,45.0,16.0,533
+96,Our special tonight is the pigeon.,1.546099290780142,0.06324169019259257,141.0,86.0,33.0,22.0,533
+96,Or would you like to try something a little more uptown?,1.546099290780142,0.05995200487090475,141.0,82.0,41.0,18.0,533
+96,"No, you've got all the time in the world. This is Amtrak.",1.546099290780142,0.06324169019259257,141.0,86.0,33.0,22.0,533
+96,I regret to inform you that dinner is running 15 minutes behind schedule.,1.546099290780142,0.06079111785972278,141.0,83.0,39.0,19.0,533
+96,I'm sorry but that dish is only available on the southbound menu.,1.546099290780142,0.058237519202431275,141.0,80.0,45.0,16.0,533
+96,"""Sorry for the wait. The kitchen's a train wreck tonight.",1.546099290780142,0.058237519202431275,141.0,80.0,45.0,16.0,533
 102,Perhaps the minute steak?,1.542857142857143,0.06361128466421598,140.0,86.0,32.0,22.0,533
 102,"We accept AMEX, Visa and Metrocard.",1.542857142857143,0.05943501427641689,140.0,81.0,42.0,17.0,533
 102,I recommend the bus.,1.542857142857143,0.06113976421180814,140.0,83.0,38.0,19.0,533
@@ -498,44 +498,44 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 497,Surprised you were able to find us. We're real underground,1.4077669902912622,0.06237402030707776,103.0,69.0,26.0,8.0,533
 497,I suggest the three minute eggs.,1.4077669902912622,0.06679536388527603,103.0,72.0,20.0,11.0,533
 497,"...""and our chef gently sears the grouper on the third rail...""",1.4077669902912622,0.06535482558669156,103.0,71.0,22.0,10.0,533
-500,I guess the table by the bathroom was taken.,1.4059405940594059,0.06627010111160997,101.0,70.0,21.0,10.0,533
-500,The polenta special left at 10:02.,1.4059405940594059,0.06627010111160997,101.0,70.0,21.0,10.0,533
-500,I recommend the clam chowder. It's only two stops away.,1.4059405940594059,0.059997059039774724,101.0,66.0,29.0,6.0,533
-500,It was this or the table by the door.,1.4059405940594059,0.059997059039774724,101.0,66.0,29.0,6.0,533
-500,Apologies for the wait. I had lost my train of thought,1.4059405940594059,0.06475883336937756,101.0,69.0,23.0,9.0,533
-500,We have the best fare in the city.,1.4059405940594059,0.06162521314691264,101.0,67.0,27.0,7.0,533
-500,"No, Ma'am, I'm sorry, the bucket drummers don't come on until rush hour.",1.4059405940594059,0.06475883336937756,101.0,69.0,23.0,9.0,533
-500,"Still, sparkling, or half-empty and rolling up and down the aisle?",1.4059405940594059,0.06774766492893466,101.0,71.0,19.0,11.0,533
-500,It's very tender. We've had it on Track B all day.,1.4059405940594059,0.06774766492893466,101.0,71.0,19.0,11.0,533
-500,I should warn you that the nearest open bathroom is two stops away.,1.4059405940594059,0.06321144435450443,101.0,68.0,25.0,8.0,533
-500,All of our items are delivered fresh every 3-5 minutes.,1.4059405940594059,0.059997059039774724,101.0,66.0,29.0,6.0,533
-500,I'm sorry but the pre-theatre menu is only available on the uptown side.,1.4059405940594059,0.059997059039774724,101.0,66.0,29.0,6.0,533
-500,You said first available.,1.4059405940594059,0.06475883336937756,101.0,69.0,23.0,9.0,533
-500,"I'm afraid you missed the local menu, we're just serving express now.",1.4059405940594059,0.05832347118821046,101.0,65.0,31.0,5.0,533
-500,"So this is what you meant by ""cool new underground"" restaurant.",1.4059405940594059,0.06321144435450443,101.0,68.0,25.0,8.0,533
-500,I recommend the Chatanooga Chew Chew . . . nothing could be finer.,1.4059405940594059,0.06919368399863822,101.0,72.0,17.0,12.0,533
-500,"Our sommelier is playing his guitar at the 14th St. station right now, but I know he likes the rosé.",1.4059405940594059,0.06475883336937756,101.0,69.0,23.0,9.0,533
-500,"The 8:43 lobster is excellent, but might I also suggest the 8:51 filet mignon?",1.4059405940594059,0.06919368399863822,101.0,72.0,17.0,12.0,533
-500,The rat tonight is both local and free-range.,1.4059405940594059,0.06627010111160997,101.0,70.0,21.0,10.0,533
-500,I would avoid the flattened chicken.,1.4059405940594059,0.06774766492893466,101.0,71.0,19.0,11.0,533
-500,"The specials are nice, but most people come here for number 6.",1.4059405940594059,0.06162521314691264,101.0,67.0,27.0,7.0,533
-500,The filet is served rare at 5:20 medium at 5:24 and well done at 5:27.,1.4059405940594059,0.06162521314691264,101.0,67.0,27.0,7.0,533
-500,The concept of our restaurant is track-to-table.,1.4059405940594059,0.06162521314691264,101.0,67.0,27.0,7.0,533
-500,"Due to signal issues at 18th street, the fettuccine Alfredo is running with delays.",1.4059405940594059,0.06475883336937756,101.0,69.0,23.0,9.0,533
-500,The chocolate souffle needs to be preordered because it's coming from Queens.,1.4059405940594059,0.06475883336937756,101.0,69.0,23.0,9.0,533
-500,"If you order in the next three minutes, you'll avoid the rush.",1.4059405940594059,0.06475883336937756,101.0,69.0,23.0,9.0,533
-500,We have an excellent prime rib arriving from Union Station at 7:09,1.4059405940594059,0.06162521314691264,101.0,67.0,27.0,7.0,533
-500,We tend to get busy every six to eight minutes.,1.4059405940594059,0.06162521314691264,101.0,67.0,27.0,7.0,533
-500,We'll both take the No. 1.,1.4059405940594059,0.06162521314691264,101.0,67.0,27.0,7.0,533
-500,Your food should be here any minute,1.4059405940594059,0.06321144435450443,101.0,68.0,25.0,8.0,533
-500,"Rare. medium, well, third rail?",1.4059405940594059,0.06774766492893466,101.0,71.0,19.0,11.0,533
-500,It is cooked to perfection on the third rail.,1.4059405940594059,0.06321144435450443,101.0,68.0,25.0,8.0,533
-500,I'm afraid it's only a matter of time before this place catches on with the bridge and tunnel crowd.,1.4059405940594059,0.06475883336937756,101.0,69.0,23.0,9.0,533
-500,I don't recommend the ratatouille.,1.4059405940594059,0.06475883336937756,101.0,69.0,23.0,9.0,533
-500,"Yes, sir, but you pay for the ambiance.",1.4059405940594059,0.06475883336937756,101.0,69.0,23.0,9.0,533
-500,"Relax, every restaurant has rats.",1.4059405940594059,0.05660041951665923,101.0,64.0,33.0,4.0,533
-500,"Yes, we understand you have theatre tickets",1.4059405940594059,0.06774766492893466,101.0,71.0,19.0,11.0,533
-500,"Yes, all of the meat dishes we serve are track-to-table",1.4059405940594059,0.0548232403956718,101.0,63.0,35.0,3.0,533
+500,I guess the table by the bathroom was taken.,1.405940594059406,0.06627010111160997,101.0,70.0,21.0,10.0,533
+500,The polenta special left at 10:02.,1.405940594059406,0.06627010111160997,101.0,70.0,21.0,10.0,533
+500,I recommend the clam chowder. It's only two stops away.,1.405940594059406,0.059997059039774724,101.0,66.0,29.0,6.0,533
+500,It was this or the table by the door.,1.405940594059406,0.059997059039774724,101.0,66.0,29.0,6.0,533
+500,Apologies for the wait. I had lost my train of thought,1.405940594059406,0.06475883336937756,101.0,69.0,23.0,9.0,533
+500,We have the best fare in the city.,1.405940594059406,0.06162521314691264,101.0,67.0,27.0,7.0,533
+500,"No, Ma'am, I'm sorry, the bucket drummers don't come on until rush hour.",1.405940594059406,0.06475883336937756,101.0,69.0,23.0,9.0,533
+500,"Still, sparkling, or half-empty and rolling up and down the aisle?",1.405940594059406,0.06774766492893466,101.0,71.0,19.0,11.0,533
+500,It's very tender. We've had it on Track B all day.,1.405940594059406,0.06774766492893466,101.0,71.0,19.0,11.0,533
+500,I should warn you that the nearest open bathroom is two stops away.,1.405940594059406,0.06321144435450443,101.0,68.0,25.0,8.0,533
+500,All of our items are delivered fresh every 3-5 minutes.,1.405940594059406,0.059997059039774724,101.0,66.0,29.0,6.0,533
+500,I'm sorry but the pre-theatre menu is only available on the uptown side.,1.405940594059406,0.059997059039774724,101.0,66.0,29.0,6.0,533
+500,You said first available.,1.405940594059406,0.06475883336937756,101.0,69.0,23.0,9.0,533
+500,"I'm afraid you missed the local menu, we're just serving express now.",1.405940594059406,0.05832347118821046,101.0,65.0,31.0,5.0,533
+500,"So this is what you meant by ""cool new underground"" restaurant.",1.405940594059406,0.06321144435450443,101.0,68.0,25.0,8.0,533
+500,I recommend the Chatanooga Chew Chew . . . nothing could be finer.,1.405940594059406,0.06919368399863822,101.0,72.0,17.0,12.0,533
+500,"Our sommelier is playing his guitar at the 14th St. station right now, but I know he likes the rosé.",1.405940594059406,0.06475883336937756,101.0,69.0,23.0,9.0,533
+500,"The 8:43 lobster is excellent, but might I also suggest the 8:51 filet mignon?",1.405940594059406,0.06919368399863822,101.0,72.0,17.0,12.0,533
+500,The rat tonight is both local and free-range.,1.405940594059406,0.06627010111160997,101.0,70.0,21.0,10.0,533
+500,I would avoid the flattened chicken.,1.405940594059406,0.06774766492893466,101.0,71.0,19.0,11.0,533
+500,"The specials are nice, but most people come here for number 6.",1.405940594059406,0.06162521314691264,101.0,67.0,27.0,7.0,533
+500,The filet is served rare at 5:20 medium at 5:24 and well done at 5:27.,1.405940594059406,0.06162521314691264,101.0,67.0,27.0,7.0,533
+500,The concept of our restaurant is track-to-table.,1.405940594059406,0.06162521314691264,101.0,67.0,27.0,7.0,533
+500,"Due to signal issues at 18th street, the fettuccine Alfredo is running with delays.",1.405940594059406,0.06475883336937756,101.0,69.0,23.0,9.0,533
+500,The chocolate souffle needs to be preordered because it's coming from Queens.,1.405940594059406,0.06475883336937756,101.0,69.0,23.0,9.0,533
+500,"If you order in the next three minutes, you'll avoid the rush.",1.405940594059406,0.06475883336937756,101.0,69.0,23.0,9.0,533
+500,We have an excellent prime rib arriving from Union Station at 7:09,1.405940594059406,0.06162521314691264,101.0,67.0,27.0,7.0,533
+500,We tend to get busy every six to eight minutes.,1.405940594059406,0.06162521314691264,101.0,67.0,27.0,7.0,533
+500,We'll both take the No. 1.,1.405940594059406,0.06162521314691264,101.0,67.0,27.0,7.0,533
+500,Your food should be here any minute,1.405940594059406,0.06321144435450443,101.0,68.0,25.0,8.0,533
+500,"Rare. medium, well, third rail?",1.405940594059406,0.06774766492893466,101.0,71.0,19.0,11.0,533
+500,It is cooked to perfection on the third rail.,1.405940594059406,0.06321144435450443,101.0,68.0,25.0,8.0,533
+500,I'm afraid it's only a matter of time before this place catches on with the bridge and tunnel crowd.,1.405940594059406,0.06475883336937756,101.0,69.0,23.0,9.0,533
+500,I don't recommend the ratatouille.,1.405940594059406,0.06475883336937756,101.0,69.0,23.0,9.0,533
+500,"Yes, sir, but you pay for the ambiance.",1.405940594059406,0.06475883336937756,101.0,69.0,23.0,9.0,533
+500,"Relax, every restaurant has rats.",1.405940594059406,0.05660041951665923,101.0,64.0,33.0,4.0,533
+500,"Yes, we understand you have theatre tickets",1.405940594059406,0.06774766492893466,101.0,71.0,19.0,11.0,533
+500,"Yes, all of the meat dishes we serve are track-to-table",1.405940594059406,0.0548232403956718,101.0,63.0,35.0,3.0,533
 538,You just missed the crowd.,1.4019607843137254,0.06114770416165785,102.0,68.0,27.0,7.0,533
 539,The pork loin is experiencing extensive delays.,1.4,0.06195469181897234,100.0,67.0,26.0,7.0,533
 539,"The steak will arrive on the 4:45, but if you want the shrimp, you'll have to wait for the 5:15.",1.4,0.06513389472789298,100.0,69.0,22.0,9.0,533
@@ -866,8 +866,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 865,Appetizers and salads will arrive at this station in 4 minutes.,1.358695652173913,0.06293794815147713,92.0,65.0,21.0,6.0,533
 866,Perhaps Madam would prefer the 'Third Rail Special'?,1.3555555555555556,0.06381760665465969,90.0,64.0,20.0,6.0,533
 866,I hear they have to bring the tables upstairs to bus them.,1.3555555555555556,0.06381760665465969,90.0,64.0,20.0,6.0,533
-866,"Next stop, soup. Next stop, soup.",1.3555555555555556,0.059777179080768,90.0,62.0,24.0,4.0,533
-866,You may not want to go for the 'locally sourced' menu.,1.3555555555555556,0.059777179080768,90.0,62.0,24.0,4.0,533
+866,"Next stop, soup. Next stop, soup.",1.3555555555555556,0.059777179080767996,90.0,62.0,24.0,4.0,533
+866,You may not want to go for the 'locally sourced' menu.,1.3555555555555556,0.059777179080767996,90.0,62.0,24.0,4.0,533
 866,I'll be right back with your drinks and some hand sanitizer.,1.3555555555555556,0.06183040537625106,90.0,63.0,22.0,5.0,533
 866,Would you like something from our Express menu today?,1.3555555555555556,0.0657447702046801,90.0,65.0,18.0,7.0,533
 866,Im assuming this is to go,1.3555555555555556,0.06943882623965393,90.0,67.0,14.0,9.0,533
@@ -876,10 +876,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 866,"Oh, it's a very fresh kill -- I'm told it was at 4:43 p.m.",1.3555555555555556,0.06943882623965393,90.0,67.0,14.0,9.0,533
 866,No sir. I've never even heard of a subway sandwich.,1.3555555555555556,0.06943882623965393,90.0,67.0,14.0,9.0,533
 866,May I interest you in our Third Rail Special Surprise?,1.3555555555555556,0.06943882623965393,90.0,67.0,14.0,9.0,533
-866,Your drinks will be out shortly. The waiter is only two stops away.,1.3555555555555556,0.059777179080768,90.0,62.0,24.0,4.0,533
+866,Your drinks will be out shortly. The waiter is only two stops away.,1.3555555555555556,0.059777179080767996,90.0,62.0,24.0,4.0,533
 866,"I'm sorry sir, but there's been a switching problem on the tracks and your meal is now scheduled to arrive at 9:30 pm.",1.3555555555555556,0.057650873789708325,90.0,61.0,26.0,3.0,533
 866,"""Well - at least you're not next to the kitchen"".",1.3555555555555556,0.06381760665465969,90.0,64.0,20.0,6.0,533
-866,On weekends we only offer the express menu.,1.3555555555555556,0.059777179080768,90.0,62.0,24.0,4.0,533
+866,On weekends we only offer the express menu.,1.3555555555555556,0.059777179080767996,90.0,62.0,24.0,4.0,533
 866,"We source the burger locally, sir. Best not to ask more.",1.3555555555555556,0.06761702965528374,90.0,66.0,16.0,8.0,533
 866,Dinner is running a couple minutes late.,1.3555555555555556,0.057650873789708325,90.0,61.0,26.0,3.0,533
 866,... and all meats are wild-caught on our very own third rail.,1.3555555555555556,0.06381760665465969,90.0,64.0,20.0,6.0,533
@@ -895,12 +895,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 866,"Local fare only, I'm afraid.",1.3555555555555556,0.06761702965528374,90.0,66.0,16.0,8.0,533
 866,Would you like to hear about today's closures?,1.3555555555555556,0.06381760665465969,90.0,64.0,20.0,6.0,533
 866,Can we get it to go?,1.3555555555555556,0.06381760665465969,90.0,64.0,20.0,6.0,533
-866,"I'm sorry, the Express Menu is only available at our other location.",1.3555555555555556,0.059777179080768,90.0,62.0,24.0,4.0,533
+866,"I'm sorry, the Express Menu is only available at our other location.",1.3555555555555556,0.059777179080767996,90.0,62.0,24.0,4.0,533
 866,I recommend the #5. It's local.,1.3555555555555556,0.06183040537625106,90.0,63.0,22.0,5.0,533
 866,That entree arrives at 7:40. Would you like an appetizer while you wait?,1.3555555555555556,0.0657447702046801,90.0,65.0,18.0,7.0,533
 866,You did say you didn't want to be anywhere near the kitchen and you had a train to catch.,1.3555555555555556,0.06761702965528374,90.0,66.0,16.0,8.0,533
-866,Take your time; we're off-peak.,1.3555555555555556,0.059777179080768,90.0,62.0,24.0,4.0,533
-866,The last restaurant was a train wreck!,1.3555555555555556,0.059777179080768,90.0,62.0,24.0,4.0,533
+866,Take your time; we're off-peak.,1.3555555555555556,0.059777179080767996,90.0,62.0,24.0,4.0,533
+866,The last restaurant was a train wreck!,1.3555555555555556,0.059777179080767996,90.0,62.0,24.0,4.0,533
 866,'Do you take the MetroCard?',1.3555555555555556,0.06381760665465969,90.0,64.0,20.0,6.0,533
 866,"Okay, I'll explain it again...You're in the Subway...not at a Subway.",1.3555555555555556,0.06183040537625106,90.0,63.0,22.0,5.0,533
 866,and will you be needing a taxi?,1.3555555555555556,0.06943882623965393,90.0,67.0,14.0,9.0,533
@@ -1560,7 +1560,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1485,We're the hottest new restaurant in the City.,1.2911392405063291,0.054501662976266886,79.0,57.0,21.0,1.0,533
 1485,"Sorry, no footlong. That's the other SUBWAY!",1.2911392405063291,0.0628023972603587,79.0,60.0,15.0,4.0,533
 1485,"With the 8:05 to Scarsdale, I would recommend the three course prix fixe.",1.2911392405063291,0.060162871913039526,79.0,59.0,17.0,3.0,533
-1562,Might I suggest the 4:28?,1.2891566265060241,0.06305504753054708,83.0,64.0,14.0,5.0,533
+1562,Might I suggest the 4:28?,1.289156626506024,0.06305504753054708,83.0,64.0,14.0,5.0,533
 1563,"Yes, the Rat-atouille is made fresh daily.",1.2875,0.06934081578822976,80.0,64.0,9.0,7.0,533
 1563,"The special tonight, Monsieur, is ratatouille",1.2875,0.06461607649627257,80.0,62.0,13.0,5.0,533
 1563,Welcome to the Third Rail Grill,1.2875,0.06461607649627257,80.0,62.0,13.0,5.0,533
@@ -1981,7 +1981,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1972,We've been having a lot of dine-and-dash issues lately...,1.263157894736842,0.06587713458076698,76.0,61.0,10.0,5.0,533
 1972,Our prices include transportation fees.,1.263157894736842,0.05733380574866034,76.0,58.0,16.0,2.0,533
 1982,"Welcome to Choo-Chews, where our name will likely be the best part of your dining experience.",1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,533
-1982,It's a new concept...City to Table.,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,533
+1982,It's a new concept...City to Table.,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,533
 1982,All of our food is local.,1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,533
 1985,"Well, you're not the only people waiting here.",1.2567567567567568,0.05791902456400711,74.0,57.0,15.0,2.0,533
 1985,"For the special of the day, we have a locally sourced Ratatouille",1.2567567567567568,0.061031521801374375,74.0,58.0,13.0,3.0,533
@@ -2910,7 +2910,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2897,The subway rat of the day is extraordinarily fresh.,1.2058823529411764,0.053658201636864834,68.0,55.0,12.0,1.0,533
 2897,Our menu is geared toward the bridge and tunnel crowd.,1.2058823529411764,0.053658201636864834,68.0,55.0,12.0,1.0,533
 2897,"No, we do not serve $5 foot longs at this Subway location.",1.2058823529411764,0.057603681876046836,68.0,56.0,10.0,2.0,533
-2897,"Welcome to Subway, I'm Jared. Can I get some drinks started for you?",1.2058823529411764,0.04939859350354098,68.0,54.0,14.0,0.0,533
+2897,"Welcome to Subway, I'm Jared. Can I get some drinks started for you?",1.2058823529411764,0.049398593503540984,68.0,54.0,14.0,0.0,533
 2897,"Oh, now are these Rats caught right here?",1.2058823529411764,0.06808178063182467,68.0,59.0,4.0,5.0,533
 2897,And finally we have tonight the trout almondine at ten swipes.,1.2058823529411764,0.053658201636864834,68.0,55.0,12.0,1.0,533
 2897,Item #23 on the menu has a long wait time.,1.2058823529411764,0.0612957235739262,68.0,57.0,8.0,3.0,533
@@ -3717,7 +3717,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3715,"Anyone can put a new chic restaurant downtown. Mr. Jordan had the vision to take his ""undertown"".",1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,533
 3715,The house recommends the cold plate.,1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,533
 3715,I'll have the five dollar foot long.,1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,533
-3715,I'll have the Rat medium rare please.,1.1587301587301588,0.04640892840955826,63.0,53.0,10.0,0.0,533
+3715,I'll have the Rat medium rare please.,1.1587301587301588,0.046408928409558264,63.0,53.0,10.0,0.0,533
 3715,Most prefer the pushed special to the jumped.,1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,533
 3721,Every rat entree comes with a side of cheese.,1.15,0.052211001719608616,60.0,52.0,7.0,1.0,533
 3721,"I think you'll like this evening's selections. We like to call it ""Train Fare"".",1.15,0.04648673949797452,60.0,51.0,9.0,0.0,533
@@ -3896,7 +3896,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3894,"We are out of the C, may I offer you an A running as a local?",1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,533
 3894,I expect the tip before the Express arrives.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,533
 3894,"Hubert, I think we got off at the wrong stop. This menu only has road kill from the subway!!!",1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,533
-3894,"I'll take the 5 train, light on the manspreading, please.",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,533
+3894,"I'll take the 5 train, light on the manspreading, please.",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,533
 3894,"And how would you like your alphabet soup--Dark Courier, Arial Extra Bold, or Subway?",1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,533
 3900,Which do you prefer? The local Flatiron Steak or the express?,1.1428571428571428,0.05476357440852809,63.0,56.0,5.0,2.0,533
 3901,"No sir."" We no longer have a Jared employed here at this establishment",1.1355932203389831,0.05104190368129805,59.0,52.0,6.0,1.0,533
@@ -4548,7 +4548,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4543,Care for number 23? It's popular here.,1.0909090909090908,0.046945252681302084,55.0,51.0,3.0,1.0,533
 4548,Do you have a flashlight for the menu?,1.0892857142857142,0.046127897538846975,56.0,52.0,3.0,1.0,533
 4548,"There are five stops, so it's a five-course breakfast serial.",1.0892857142857142,0.046127897538846975,56.0,52.0,3.0,1.0,533
-4550,"""May I suggest the catch of the day, 'Bordeaux Grilled Rat' à la carte""?",1.084033613445378,0.03285718110554669,119.0,112.0,4.0,3.0,533
+4550,"""May I suggest the catch of the day, 'Bordeaux Grilled Rat' à la carte""?",1.0840336134453779,0.03285718110554669,119.0,112.0,4.0,3.0,533
 4551,"Can I get the pizza a la carte, or only as part of the ""pizza rat"" special?",1.0754716981132075,0.045470102170741794,53.0,50.0,2.0,1.0,533
 4551,It's the al subway menu.,1.0754716981132075,0.03663114503374156,53.0,49.0,4.0,0.0,533
 4551,The steak gets cooked in Brooklyn.,1.0754716981132075,0.045470102170741794,53.0,50.0,2.0,1.0,533
@@ -4912,7 +4912,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4818,Hurry up. We gotta catch the next train.,1.04,0.02799416848895062,50.0,48.0,2.0,0.0,533
 4912,May I suggest the Brontosaurus Ribs a la Flintstones for the gentleman. The 8:14 will be by any moment and they're guaranteed to stick to your plate.,1.03921568627451,0.02745098039215676,51.0,49.0,2.0,0.0,533
 4912,"Sorry, we're out of the early bird specials.",1.03921568627451,0.02745098039215676,51.0,49.0,2.0,0.0,533
-4912,If all else fails,1.03921568627451,0.039215686274509734,51.0,50.0,0.0,1.0,533
+4912,If all else fails,1.03921568627451,0.03921568627450973,51.0,50.0,0.0,1.0,533
 4915,Our special this evening is the foot long tuna sub. It comes with chips or a cookie.,1.0208333333333333,0.02105379802666297,48.0,47.0,1.0,0.0,533
 4915,"The specialty of the house is RATatouille. The dish is one of our ""one"" mile diet offerings.",1.0208333333333333,0.02105379802666297,48.0,47.0,1.0,0.0,533
 4915,Do you have any Express delicacies?,1.0208333333333333,0.02105379802666297,48.0,47.0,1.0,0.0,533

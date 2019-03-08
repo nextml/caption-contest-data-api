@@ -72,8 +72,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 68,"When you said you'd take ""any Bush"" over Trump, you could've been more specific.",1.5942028985507246,0.06393235439739463,138.0,78.0,38.0,22.0,545
 72,It wasn't me. I only pass oxygen.,1.5912408759124088,0.06837589049341312,137.0,83.0,27.0,27.0,545
 73,I move we smoke it.,1.5869565217391304,0.06801367998683233,138.0,84.0,27.0,27.0,545
-74,Meteoric rise. He started on a secretary's desk.,1.5820895522388059,0.0672482920730721,134.0,80.0,30.0,24.0,545
-74,"Say what you will , but he is the best plant manager we have ever had",1.5820895522388059,0.062040371395897735,134.0,74.0,42.0,18.0,545
+74,Meteoric rise. He started on a secretary's desk.,1.582089552238806,0.0672482920730721,134.0,80.0,30.0,24.0,545
+74,"Say what you will , but he is the best plant manager we have ever had",1.582089552238806,0.062040371395897735,134.0,74.0,42.0,18.0,545
 76,"Ladies, and Gentlemen, I represent the hedge fund that just bought you out.""",1.5789473684210529,0.06768182965607986,133.0,80.0,29.0,24.0,545
 76,Housekeeping accidentally leaves a plant in the CEO’s chair – 4th quarter profits soar and senior staff note a vast improvement in the quality of executive meetings.,1.5789473684210529,0.0701611970055589,133.0,83.0,23.0,27.0,545
 76,What's the dirt on the new guy?,1.5789473684210529,0.06150920174840014,133.0,73.0,43.0,17.0,545
@@ -379,7 +379,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 369,"Oh no, he's potted again.",1.4421052631578948,0.07589081193169275,95.0,67.0,14.0,14.0,545
 369,Best meeting we've ever had.,1.4421052631578948,0.07589081193169275,95.0,67.0,14.0,14.0,545
 369,I don't trust him. He could be a plant.,1.4421052631578948,0.07589081193169275,95.0,67.0,14.0,14.0,545
-369,"Clearly, there's growth potential",1.4421052631578948,0.05542423068342733,95.0,55.0,38.0,2.0,545
+369,"Clearly, there's growth potential",1.4421052631578948,0.055424230683427333,95.0,55.0,38.0,2.0,545
 369,He's the only one in the company who can produce anything.,1.4421052631578948,0.07287994926030475,95.0,65.0,18.0,12.0,545
 369,"Before we begin, I would like to thank you all for legalizing me.",1.4421052631578948,0.07132687318571529,95.0,64.0,20.0,11.0,545
 384,Looks like growth has been good this quarter.,1.4361702127659577,0.0702294025755063,94.0,63.0,21.0,10.0,545
@@ -1519,7 +1519,6 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1506,"Thank you for coming. So, I'm thinking of running in 2020...",1.2794117647058822,0.07796125936040127,68.0,56.0,5.0,7.0,545
 1506,"We voted to go green, but this is ridiculous!",1.2794117647058822,0.07509311818193057,68.0,55.0,7.0,6.0,545
 1506,This is what happens when you don't vote.,1.2794117647058822,0.07211098969998282,68.0,54.0,9.0,5.0,545
-1506,,1.2794117647058822,0.07796125936040127,68.0,56.0,5.0,7.0,545
 1506,The introduction of the new CEO literally sucked the oxygen out of the room.,1.2794117647058822,0.06900009617918416,68.0,53.0,11.0,4.0,545
 1506,"Before we get started, it is important we all stay hydrated.",1.2794117647058822,0.06574216082516836,68.0,52.0,13.0,3.0,545
 1506,"All in favor of a hosta take-over, say ""aye"".",1.2794117647058822,0.06900009617918416,68.0,53.0,11.0,4.0,545
@@ -2231,131 +2230,131 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2226,"Listen up, people! We're getting a new plant.",1.2424242424242424,0.06848546733222884,66.0,54.0,8.0,4.0,545
 2226,"Strangely, no one besides us has even noticed a difference.",1.2424242424242424,0.0649927593622037,66.0,53.0,10.0,3.0,545
 2226,HR is taking those studies on sentience quite seriously.,1.2424242424242424,0.07180849324358678,66.0,55.0,6.0,5.0,545
-2233,The boss seems to be in a good mood today.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,"When I read the meeting memo I assumed ""Future Company Plants"" was a typo",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,The day Flora took over.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,"All I can say is, it's a time to reflect and grow.",1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,545
-2233,"So, learning this by osmosis is not an option.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,I think fertilizer would improve next quarter's growth forecast.,1.2380952380952381,0.05409160326162522,63.0,48.0,15.0,0.0,545
-2233,I thought it was time this company turned over a new leaf.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,"Of course I want to sell Miracle Grow, but it's the last time I am going to personally test the new formula.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,His grandfather and his father were both elected.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,"Um, maybe it's better you use something other than ""leaves of absence.""",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,"That's it! Great meeting people. Say, would someone mist me on their way out?",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,Maybe we should come back in the Spring.,1.2380952380952381,0.05409160326162522,63.0,48.0,15.0,0.0,545
-2233,Let's welcome our very first vegetarian CEO!,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,I believe we should have more power plants in cities.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,You're right. It does seem like it's on pot.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,"My name is Fronds, not Franz.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,Do you think he'll notice if we just get up and leaf?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,"As your new CEO, I pledge to never suck all the oxygen out of this room.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,Are the implants that obvious?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,I took the liberty of ordering in fertilizer for lunch.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,I'd like to call this meeting to water.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,Of course the whole company is going to pot,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,This merger has me feeling uprooted.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,He's going to run us into the dirt.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,That'll teach Henderson to go out on a limb.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,"You're looking well fertilized this morning, Sir!",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,"He may be a potted plant, but he's our potted plant.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,"LGBTQ inclusive, yes. Gymnosperm inclusive, no!",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,The election results have nothing to do with my leaving.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,It is time to turn over a new leaf.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,Tell us about your impressive growth during the recession.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,"He may be green, but he kinda grows on you.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,Not what I had in mind when we pushed for greater diversity in upper management.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,"Suppose we don't water him, er, it?",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,It's time to do some pruning around here.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,"I said we need to synergize, not photosynthesize.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,"""Do we call him 'Phil' or 'Mr. Philodendron'?",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,They say he is quiet at first.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,We can't afford to rest on our laurels.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,"Really you can talk to me, I'm listening. But first a glass of water.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,I'm pleased to announce that you have all voted in favor of keeping the plant open and operational.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,He has sunlight and water. We're not going anywhere.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,"Carry on, folks, I'm potted!",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,The Green Jobs Initiative proves to be overly efficient.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,Now that's change.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,The smartest guy in the room takes charge.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,"Once I'm legal, you won't be so surprised.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,"From now on, no one touches the low-hanging fruit.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,"Keep quiet, it's a plant.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,I'm firmly rooted in the decision to not move to Mexico.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,Growth has been flat again this quarter. That leaves us no choice; we're going to have to trim back.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,Good mulch is now our priority here.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,Why are we all sitting around here like a bunch of potted plants?,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,I'm having a little trouble catching my breath. Would you mind each exhaling?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,"First item on the menu, company cutbacks. Who has the pruning shears?",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,The new business model finally bore fruit,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,I guess a vegan diet really isn't for everyone...,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,Don't underestimate me; I'm no shrinking violet.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,I see that only Fred here has the respect and decency to go paperless.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,I called this meeting to discuss growth patterns.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,As of today I am on indefinite leaf.,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,545
-2233,Crack the glass ceiling and water the chairman.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,"Can I get some water, please?",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,I'm pleased to report that we're way ahead of our '2016 diversity in the workplace' goals.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,Who knew they were correct when they said ANY write in candidate could win this year.,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,545
-2233,It's all gone to pot now that he's President Elect,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,No one mention the aphids in the room.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,I'm so tired of his hidden agenda.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,"""And that concludes our meeting"", now please get me some water"".",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,We'ed like to welcome you.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,It just seems like he is always potted.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,A typical board meeting in Denver,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,"I thought we would be working at a power plant, not for one.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,Did Mr. Trump get a new barber?,1.2380952380952381,0.07744738965256855,63.0,54.0,3.0,6.0,545
-2233,"""As we are now Going Green, I thought I should set a good example.'",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,She took over for the ficus who got the ax.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,I hear he only drinks water.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,This carbon off-set program is getting out of hand,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,Brace yourself for another diatribe on seed funding...,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,All those in favor raise your frond.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,He's not usually this quiet,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,Corporate said we needed a breath of fresh air.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,It's your turn to water him.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,It's a lot nicer than that horrid cactus last year.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,We are going to need a new plant manager.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,"May I have a glass of water, please?",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,Acme Paper Company has always been a family business.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,"Other than the language change, everything remains the same.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,Perhaps we should defer to the other Herb.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,Do we have to Water It?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,I suggest that we empty our water glasses into the the pot and adjourn until tomorrow.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,I'm going to need a fern offer,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,The irony is he was always a meat eater.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,The board considers the reductio ad absurdum result of their diversity initiatives,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,I think he wants to be legalized?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,Good news. We won't be closing any of our plants afterall.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,"I'm glad he's gone, but maybe we've gone a bit too far in the other direction.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,It was hoped the new CEO would be a breathe of fresh air.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,Our first order of business is to remove all blinds and let the light shine in.,1.2380952380952381,0.05409160326162522,63.0,48.0,15.0,0.0,545
-2233,"Listen, what I'm talking about here is a water and sunlight approach to growth",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,I see Mary Jane was voted in.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,I just want everyone to know that I am hearing your concerns about our new green initiative and completely photosynthesize with you all.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,"Is it just me , or does the room smell fresher ? .",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,It's time this company got its hands dirty.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,Watch what you say! It looks like a plant.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,"What, maybe you were expecting a burning bush?",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,It was at that moment we knew he was a plant from our competitor.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,I want to start the meeting with a report about our newest plants.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,Did you hear? The new partner turns fertilizer into fresh air.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,I think this new VP might be a plant.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,"Meet the new moss, same as the ole moss.",1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,545
-2233,It must be bugged.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,"Regretfully, I will be outsourcing all your jobs to a plant in China.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,"Well, I'm not Brendan Sullivan. I'm a potted plant. That's my job.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,The investors said they wanted more natural leadership.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
-2233,"Okay people, let's hear some ideas from the Ivy League.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,Could someone please get us some water.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,"Hey Trump, why don't ya make like a tree and leave?",1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,545
-2233,"Careful, I heard that the new CFO is a plant, a spy from the competition.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,Forsythia said to start without her,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,I wanted to inform you all of the plant takeover.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,545
-2233,I've been the plant for some time now.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,A new level of boardroom diversity.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,545
-2233,I hear Plant Management demanded a seat at the table.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,545
-2233,Let's sell oxygen...,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,The boss seems to be in a good mood today.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,"When I read the meeting memo I assumed ""Future Company Plants"" was a typo",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,The day Flora took over.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,"All I can say is, it's a time to reflect and grow.",1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,545
+2233,"So, learning this by osmosis is not an option.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,I think fertilizer would improve next quarter's growth forecast.,1.238095238095238,0.05409160326162522,63.0,48.0,15.0,0.0,545
+2233,I thought it was time this company turned over a new leaf.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,"Of course I want to sell Miracle Grow, but it's the last time I am going to personally test the new formula.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,His grandfather and his father were both elected.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,"Um, maybe it's better you use something other than ""leaves of absence.""",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,"That's it! Great meeting people. Say, would someone mist me on their way out?",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,Maybe we should come back in the Spring.,1.238095238095238,0.05409160326162522,63.0,48.0,15.0,0.0,545
+2233,Let's welcome our very first vegetarian CEO!,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,I believe we should have more power plants in cities.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,You're right. It does seem like it's on pot.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,"My name is Fronds, not Franz.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,Do you think he'll notice if we just get up and leaf?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,"As your new CEO, I pledge to never suck all the oxygen out of this room.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,Are the implants that obvious?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,I took the liberty of ordering in fertilizer for lunch.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,I'd like to call this meeting to water.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,Of course the whole company is going to pot,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,This merger has me feeling uprooted.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,He's going to run us into the dirt.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,That'll teach Henderson to go out on a limb.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,"You're looking well fertilized this morning, Sir!",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,"He may be a potted plant, but he's our potted plant.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,"LGBTQ inclusive, yes. Gymnosperm inclusive, no!",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,The election results have nothing to do with my leaving.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,It is time to turn over a new leaf.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,Tell us about your impressive growth during the recession.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,"He may be green, but he kinda grows on you.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,Not what I had in mind when we pushed for greater diversity in upper management.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,"Suppose we don't water him, er, it?",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,It's time to do some pruning around here.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,"I said we need to synergize, not photosynthesize.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,"""Do we call him 'Phil' or 'Mr. Philodendron'?",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,They say he is quiet at first.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,We can't afford to rest on our laurels.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,"Really you can talk to me, I'm listening. But first a glass of water.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,I'm pleased to announce that you have all voted in favor of keeping the plant open and operational.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,He has sunlight and water. We're not going anywhere.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,"Carry on, folks, I'm potted!",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,The Green Jobs Initiative proves to be overly efficient.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,Now that's change.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,The smartest guy in the room takes charge.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,"Once I'm legal, you won't be so surprised.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,"From now on, no one touches the low-hanging fruit.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,"Keep quiet, it's a plant.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,I'm firmly rooted in the decision to not move to Mexico.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,Growth has been flat again this quarter. That leaves us no choice; we're going to have to trim back.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,Good mulch is now our priority here.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,Why are we all sitting around here like a bunch of potted plants?,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,I'm having a little trouble catching my breath. Would you mind each exhaling?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,"First item on the menu, company cutbacks. Who has the pruning shears?",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,The new business model finally bore fruit,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,I guess a vegan diet really isn't for everyone...,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,Don't underestimate me; I'm no shrinking violet.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,I see that only Fred here has the respect and decency to go paperless.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,I called this meeting to discuss growth patterns.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,As of today I am on indefinite leaf.,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,545
+2233,Crack the glass ceiling and water the chairman.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,"Can I get some water, please?",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,I'm pleased to report that we're way ahead of our '2016 diversity in the workplace' goals.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,Who knew they were correct when they said ANY write in candidate could win this year.,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,545
+2233,It's all gone to pot now that he's President Elect,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,No one mention the aphids in the room.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,I'm so tired of his hidden agenda.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,"""And that concludes our meeting"", now please get me some water"".",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,We'ed like to welcome you.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,It just seems like he is always potted.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,A typical board meeting in Denver,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,"I thought we would be working at a power plant, not for one.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,Did Mr. Trump get a new barber?,1.238095238095238,0.07744738965256855,63.0,54.0,3.0,6.0,545
+2233,"""As we are now Going Green, I thought I should set a good example.'",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,She took over for the ficus who got the ax.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,I hear he only drinks water.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,This carbon off-set program is getting out of hand,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,Brace yourself for another diatribe on seed funding...,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,All those in favor raise your frond.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,He's not usually this quiet,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,Corporate said we needed a breath of fresh air.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,It's your turn to water him.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,It's a lot nicer than that horrid cactus last year.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,We are going to need a new plant manager.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,"May I have a glass of water, please?",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,Acme Paper Company has always been a family business.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,"Other than the language change, everything remains the same.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,Perhaps we should defer to the other Herb.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,Do we have to Water It?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,I suggest that we empty our water glasses into the the pot and adjourn until tomorrow.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,I'm going to need a fern offer,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,The irony is he was always a meat eater.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,The board considers the reductio ad absurdum result of their diversity initiatives,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,I think he wants to be legalized?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,Good news. We won't be closing any of our plants afterall.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,"I'm glad he's gone, but maybe we've gone a bit too far in the other direction.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,It was hoped the new CEO would be a breathe of fresh air.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,Our first order of business is to remove all blinds and let the light shine in.,1.238095238095238,0.05409160326162522,63.0,48.0,15.0,0.0,545
+2233,"Listen, what I'm talking about here is a water and sunlight approach to growth",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,I see Mary Jane was voted in.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,I just want everyone to know that I am hearing your concerns about our new green initiative and completely photosynthesize with you all.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,"Is it just me , or does the room smell fresher ? .",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,It's time this company got its hands dirty.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,Watch what you say! It looks like a plant.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,"What, maybe you were expecting a burning bush?",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,It was at that moment we knew he was a plant from our competitor.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,I want to start the meeting with a report about our newest plants.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,Did you hear? The new partner turns fertilizer into fresh air.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,I think this new VP might be a plant.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,"Meet the new moss, same as the ole moss.",1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,545
+2233,It must be bugged.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,"Regretfully, I will be outsourcing all your jobs to a plant in China.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,"Well, I'm not Brendan Sullivan. I'm a potted plant. That's my job.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,The investors said they wanted more natural leadership.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
+2233,"Okay people, let's hear some ideas from the Ivy League.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,Could someone please get us some water.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,"Hey Trump, why don't ya make like a tree and leave?",1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,545
+2233,"Careful, I heard that the new CFO is a plant, a spy from the competition.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,Forsythia said to start without her,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,I wanted to inform you all of the plant takeover.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,545
+2233,I've been the plant for some time now.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,A new level of boardroom diversity.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,545
+2233,I hear Plant Management demanded a seat at the table.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,545
+2233,Let's sell oxygen...,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,545
 2358,"Well, it's more positive than that cactus last time.",1.234375,0.061970725215460876,64.0,51.0,11.0,2.0,545
 2358,Where is MY cup of water??,1.234375,0.07299634252361824,64.0,54.0,5.0,5.0,545
 2358,"Once he is planted there, he takes a while to branch out.",1.234375,0.06951571243822256,64.0,53.0,7.0,4.0,545
@@ -4803,20 +4802,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4680,We are lucky to have the last earthly green plant as our leader.,1.0638297872340423,0.036042108674890216,47.0,44.0,3.0,0.0,545
 4803,We wanted to reach out to the LGBTQP community.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0,545
 4803,Who put potty-training on the agenda?,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0,545
-4803,Has it asked you over for a smoke yet?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0,545
-4803,"""When we commissioned a drawing of Bush and his advisors, this is not exactly what we meant."" quoth David Remnick.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0,545
-4803,His growth projections for Q4 are low to zero.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0,545
-4803,"Who said ""Chopped liver""?",1.0625,0.035308292679127,48.0,45.0,3.0,0.0,545
-4803,Look ..... see how some of his leaves have dropped off .... he knows he doesn't have enough votes to maintain control..... he's finished!,1.0625,0.035308292679127,48.0,45.0,3.0,0.0,545
-4803,It's all about photo-synergy,1.0625,0.035308292679127,48.0,45.0,3.0,0.0,545
-4803,"Ugh, another classic in the 'Bored Room'...this meeting goes any longer, we're gonna start growing roots.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0,545
+4803,Has it asked you over for a smoke yet?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,545
+4803,"""When we commissioned a drawing of Bush and his advisors, this is not exactly what we meant."" quoth David Remnick.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,545
+4803,His growth projections for Q4 are low to zero.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,545
+4803,"Who said ""Chopped liver""?",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,545
+4803,Look ..... see how some of his leaves have dropped off .... he knows he doesn't have enough votes to maintain control..... he's finished!,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,545
+4803,It's all about photo-synergy,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,545
+4803,"Ugh, another classic in the 'Bored Room'...this meeting goes any longer, we're gonna start growing roots.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,545
 4803,You know something went wrong somewhere when you find yourself reporting to a plant.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0,545
-4803,Having won the popular vote by a landslide the new president felt had a mandate to legalize marijuana.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0,545
-4803,"I didn't me to go this far when I said ""Go Green.""",1.0625,0.035308292679127,48.0,45.0,3.0,0.0,545
+4803,Having won the popular vote by a landslide the new president felt had a mandate to legalize marijuana.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,545
+4803,"I didn't me to go this far when I said ""Go Green.""",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,545
 4803,I have some good news. Fern bars are making a comeback.,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0,545
-4803,Welcome to the Green Party. Our first priority is value-based politics!,1.0625,0.035308292679127,48.0,45.0,3.0,0.0,545
-4803,"That campaign was tiring, but you're not as bushed as I am.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0,545
-4803,What return will WE get on our investment - giggles,1.0625,0.035308292679127,48.0,45.0,3.0,0.0,545
+4803,Welcome to the Green Party. Our first priority is value-based politics!,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,545
+4803,"That campaign was tiring, but you're not as bushed as I am.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,545
+4803,What return will WE get on our investment - giggles,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,545
 4803,All hail the potted plant!,1.0625,0.04618658197582853,48.0,46.0,1.0,1.0,545
 4820,When did green equality start trumping gender equality for our board composition?,1.0444444444444445,0.03106779090753475,45.0,43.0,2.0,0.0,545
 4820,"He doesn't do much, but he's very unlikely to be impeached.",1.0444444444444445,0.03106779090753475,45.0,43.0,2.0,0.0,545
@@ -5008,7 +5007,6 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5001,This committee really needs to branch out more by being more colorful and helping the environment.,1.0227272727272727,0.022990024493585143,44.0,43.0,1.0,0.0,545
 5001,"If the Smithsonian wants his hair, it would help him look taller and more Presidential",1.0227272727272727,0.022990024493585143,44.0,43.0,1.0,0.0,545
 5001,"I, Can A. Bis I, do change dress down Fridays to high expectation days",1.0227272727272727,0.022990024493585143,44.0,43.0,1.0,0.0,545
-5001,,1.0227272727272727,0.022990024493585143,44.0,43.0,1.0,0.0,545
 5001,This his subtle way of telling us we need to speak up more.,1.0227272727272727,0.022990024493585143,44.0,43.0,1.0,0.0,545
 5001,I'm here to inform you that our headquarters will be relocating to the Catskills!,1.0227272727272727,0.022990024493585143,44.0,43.0,1.0,0.0,545
 5001,We're going all-digital.,1.0227272727272727,0.022990024493585143,44.0,43.0,1.0,0.0,545
@@ -5113,77 +5111,77 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5001,It's 2000 all over again.,1.0227272727272727,0.022990024493585143,44.0,43.0,1.0,0.0,545
 5001,A plant is better than an irresponsible CEO. This is a great way to start the first meeting of the year!,1.0227272727272727,0.022990024493585143,44.0,43.0,1.0,0.0,545
 5001,"Psst are you sure this isn't the meeting for people for the ethical treatment of plants?"" ""Psst, are you sure this isn't the meeting for the 'people for the ethical treatment of plants?'",1.0227272727272727,0.022990024493585143,44.0,43.0,1.0,0.0,545
-5115,In appreciation to your recent vote of confidence I am announcing casual Mondays!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,545
-5115,"All right, Boss, do you have any ideas?",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,545
-5115,"Actually, our company's performance has never been better.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,545
-5115,"Like this plant, business is slowly going from green to black",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,545
-5115,Flower? Flower? Can you speak?,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,545
+5115,In appreciation to your recent vote of confidence I am announcing casual Mondays!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,545
+5115,"All right, Boss, do you have any ideas?",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,545
+5115,"Actually, our company's performance has never been better.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,545
+5115,"Like this plant, business is slowly going from green to black",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,545
+5115,Flower? Flower? Can you speak?,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,545
 5120,"Show off! I know it's bring your plant to work day, but we could have had a conference call instead.",1.0217391304347827,0.0219793491131929,46.0,45.0,1.0,0.0,545
-5121,You may address me now as Sir PotInaPot,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,Smells like root beer again.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"Okay, so maybe he was a little better.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
+5121,You may address me now as Sir PotInaPot,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,Smells like root beer again.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"Okay, so maybe he was a little better.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
 5121,"In case any of you are wondering, I'm not Brendan Sullivan.",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
-5121,We felt we needed to own a pesticide business ouresleves,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
+5121,We felt we needed to own a pesticide business ouresleves,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
 5121,As budding chairman of Triffid plant hire I guarantee growth in a blooming industry.,1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
-5121,"I'm Mr. Ficus, here to introduce our newest product, the Thanksgiving tree. Now let's all give thanks for office plants.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"So with a hearty welcome for our new CEO Mr. Potter, as you can see the firm has now officially complied with going ""green"".",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,How 'bout now––NOW will you talk to me?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
+5121,"I'm Mr. Ficus, here to introduce our newest product, the Thanksgiving tree. Now let's all give thanks for office plants.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"So with a hearty welcome for our new CEO Mr. Potter, as you can see the firm has now officially complied with going ""green"".",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,How 'bout now––NOW will you talk to me?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
 5121,"Mark, I think it's time for you to leaf this organization.",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
 5121,"Are all of you going to sit there and stare, or is somebody gonna fuck me?",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
 5121,"as you know, I'm here representing Col. North ...",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
-5121,Our new CEO has grown organically from wishing the Company.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,Respect plants like your boss.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
+5121,Our new CEO has grown organically from wishing the Company.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,Respect plants like your boss.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
 5121,That's our new mascot?,1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
-5121,Wait until it found out that Peyton is a vegan,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,The planting seeds workshop.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"After this conference, I'm never wearing this hat again.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,What? Has Jesus Christ not been born yet?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"Round and round it goes, when it stops a potted plant grows.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,Sorry I'm late. The Brooklyn Ferry was delayed.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"Just give it a sip of water, then we will have the answer.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
+5121,Wait until it found out that Peyton is a vegan,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,The planting seeds workshop.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"After this conference, I'm never wearing this hat again.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,What? Has Jesus Christ not been born yet?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"Round and round it goes, when it stops a potted plant grows.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,Sorry I'm late. The Brooklyn Ferry was delayed.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"Just give it a sip of water, then we will have the answer.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
 5121,"Fellow chairs, I suggest that for future meetings, you consider following my example. I've converted to plant-based accessories and released Mr. Edwards, my former lap-man. He's now a driving range human.",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
-5121,Of course I knew you were only joking. I love a good joke. Hahahahaha!,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,Don't pretend to include me in this mature conversation when you don't even know how to spell the word GREEN!,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"corporate has taken the a.d.a. a tad too far this time, agree?",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,I hear his cousin Vinny the Broccoli is in the bomb-sniffing business.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,I'm at the peak of my ability Hire me. Ib can make you LOVE this company.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,we need a (miracle) now ???lets all pray for a (jet)? to ????,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
+5121,Of course I knew you were only joking. I love a good joke. Hahahahaha!,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,Don't pretend to include me in this mature conversation when you don't even know how to spell the word GREEN!,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"corporate has taken the a.d.a. a tad too far this time, agree?",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,I hear his cousin Vinny the Broccoli is in the bomb-sniffing business.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,I'm at the peak of my ability Hire me. Ib can make you LOVE this company.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,we need a (miracle) now ???lets all pray for a (jet)? to ????,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
 5121,These thinking caps were a terrible idea.,1.0,0.022990024493585143,44.0,44.0,0.0,0.0,545
 5121,I imagine the boss ate some Gryphon seeds just before the cremation.,1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
-5121,This wasn’t what I meant by bringing a little tree.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,It's a spy from our competition.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,This is Potosterist!,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,Now I want everyone to stand on their chair and rip the first page out of today's presentation.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"So we all have no work to do; we all are gonna wait around for our boss, the new president...",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
+5121,This wasn’t what I meant by bringing a little tree.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,It's a spy from our competition.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,This is Potosterist!,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,Now I want everyone to stand on their chair and rip the first page out of today's presentation.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"So we all have no work to do; we all are gonna wait around for our boss, the new president...",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
 5121,"Repeat after me, ""A tree by any other name....""",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
 5121,I know all of you have been trying to kill off my mother and take over the business. Well I'm here to warn you that if she dies we're all finished.,1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
 5121,"Green economy today, guys! Taken with a green trump... achh",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
-5121,Too bad about affirmington action.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"As your new ceo, you'll find things going a lot smoother now. ll",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,And here I thought 'Think Different' was just a slogan.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"PR Statement from plants & trees: Mr. Gore will respect the President if he will respect climate change,trees, and environment.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"""Bah Dumbug!"" says the Wishing Tree...",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,I think it's called an Palinoria Revengius - it's poisonous.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
+5121,Too bad about affirmington action.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"As your new ceo, you'll find things going a lot smoother now. ll",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,And here I thought 'Think Different' was just a slogan.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"PR Statement from plants & trees: Mr. Gore will respect the President if he will respect climate change,trees, and environment.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"""Bah Dumbug!"" says the Wishing Tree...",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,I think it's called an Palinoria Revengius - it's poisonous.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
 5121,"Sh, i 's goin' t'note escape",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
-5121,YOU TOO!,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"Well, Bob, I don't know about you, but with this change at the helm, I say our company is going places now.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,Our chairman is just a hoax.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaargh!,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,We check every week whether you use the project.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"Sometimes I feel that I shouldn't even be on the road. If all the cars out there were like me, I'd feel a lot safer.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"Can't believe we had to say ""you're fired"" so soon!",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"The Struggles inside Ned's Brain! Ned said to himself, hey aren't you the creative one, why are you on the wrong side of my brain? I wanna play with the mouse for a change.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
+5121,YOU TOO!,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"Well, Bob, I don't know about you, but with this change at the helm, I say our company is going places now.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,Our chairman is just a hoax.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaargh!,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,We check every week whether you use the project.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"Sometimes I feel that I shouldn't even be on the road. If all the cars out there were like me, I'd feel a lot safer.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"Can't believe we had to say ""you're fired"" so soon!",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"The Struggles inside Ned's Brain! Ned said to himself, hey aren't you the creative one, why are you on the wrong side of my brain? I wanna play with the mouse for a change.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
 5121,"The planet ""Plutonia"", has heard that businessman are destroying their species (plants and trees), so they will treat them in a way which will open their feeling of beauty, peace and love, so their species can live.",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
 5121,You were expecting Brendan Sullivan?,1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
-5121,... and now we must decide which candidate we endorse.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,I am a potted plant! That is my job.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
+5121,... and now we must decide which candidate we endorse.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,I am a potted plant! That is my job.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
 5121,"Next year I want to see two of us at every client meeting, hearing or deposition. Our clients need us now more than ever.",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
-5121,Off the top of my head? Hang on. Lemme ask.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
+5121,Off the top of my head? Hang on. Lemme ask.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
 5121,"We are all going to have to turn to him, lets hope he doesn't turn into a pot.",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
-5121,I'd to that Mr. North for recommending me your firm.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,THE CREMATION BUSINESS IS REALLY ON THE CUTTING EDGE !,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,We are here to talk about climate change from a yong tree that hopes to grow to be hundreds of years old.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,"Plantia, has the deciding vote.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
-5121,Plant singularity takes root at ACME Corporation.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
+5121,I'd to that Mr. North for recommending me your firm.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,THE CREMATION BUSINESS IS REALLY ON THE CUTTING EDGE !,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,We are here to talk about climate change from a yong tree that hopes to grow to be hundreds of years old.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,"Plantia, has the deciding vote.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
+5121,Plant singularity takes root at ACME Corporation.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545
 5121,"As you can see, my transplant operation to top pot, was a success.",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,545
-5121,"I think it's okay to have Obama as secretary of health insurance in our new administration, but is it necessary to have a member of the green party here too?",1.0,0.024098134635594,42.0,42.0,0.0,0.0,545
+5121,"I think it's okay to have Obama as secretary of health insurance in our new administration, but is it necessary to have a member of the green party here too?",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,545

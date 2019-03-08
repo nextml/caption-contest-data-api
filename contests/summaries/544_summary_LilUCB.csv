@@ -31,15 +31,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 23,Are you thinking what I'm thinking?,1.6363636363636365,0.08046010937788943,121.0,77.0,11.0,33.0,544
 31,I'll have my guy call your guy.,1.6333333333333333,0.08020748071502888,120.0,76.0,12.0,32.0,544
 31,I'll have my people call your people.,1.6333333333333333,0.08107586561400804,120.0,77.0,10.0,33.0,544
-33,The New Yorker must be testing its new Caption Selection system,1.6302521008403361,0.07535279622889879,119.0,70.0,23.0,26.0,544
+33,The New Yorker must be testing its new Caption Selection system,1.630252100840336,0.07535279622889879,119.0,70.0,23.0,26.0,544
 34,Are you thinking what I'm thinking?,1.623931623931624,0.08386347350195146,117.0,78.0,5.0,34.0,544
 34,I'll have my guy call your guy.,1.623931623931624,0.08386347350195146,117.0,78.0,5.0,34.0,544
 36,Are you thinking what I'm thinking?,1.6206896551724137,0.08182254211322226,116.0,75.0,10.0,31.0,544
 36,My people will talk to your people,1.6206896551724137,0.08090119504920043,116.0,74.0,12.0,30.0,544
-38,Are you thinking what I'm thinking you're thinking I'm thinking?,1.617391304347826,0.083389859116416,115.0,76.0,7.0,32.0,544
-38,"""Have your man call my man"".",1.617391304347826,0.08059902418494623,115.0,73.0,13.0,29.0,544
-38,Have your people call my people.,1.617391304347826,0.07964701751019199,115.0,72.0,15.0,28.0,544
-38,Are you thinking what I'm thinking?,1.617391304347826,0.08247007519190817,115.0,75.0,9.0,31.0,544
+38,Are you thinking what I'm thinking you're thinking I'm thinking?,1.6173913043478259,0.083389859116416,115.0,76.0,7.0,32.0,544
+38,"""Have your man call my man"".",1.6173913043478259,0.08059902418494623,115.0,73.0,13.0,29.0,544
+38,Have your people call my people.,1.6173913043478259,0.07964701751019199,115.0,72.0,15.0,28.0,544
+38,Are you thinking what I'm thinking?,1.6173913043478259,0.08247007519190817,115.0,75.0,9.0,31.0,544
 42,"I can’t get work off my mind, either.",1.6140350877192982,0.07424909707442734,114.0,66.0,26.0,22.0,544
 43,I work under Jerry in Accounting. You?,1.612068965517241,0.07323285623956087,116.0,67.0,27.0,22.0,544
 44,Have your guy call my guy.,1.6071428571428572,0.08447462632711288,112.0,75.0,6.0,31.0,544
@@ -168,11 +168,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 161,I told you having two Department Heads was a bad idea.,1.45,0.07313071356019156,80.0,51.0,22.0,7.0,544
 168,"I like to support Small Business, but if he microwaves fish one more time, he's gone.",1.4444444444444444,0.08240220541217404,81.0,57.0,12.0,12.0,544
 169,I'm Gonna Wash That Man Right Out Of My Hair.,1.4430379746835442,0.07589525281947243,79.0,52.0,19.0,8.0,544
-170,"Well, it all depends on what you mean by, ""Are you thinking what I'm thinking?""",1.435897435897436,0.08863065198212798,78.0,58.0,6.0,14.0,544
-170,When I signed up for the new LinkedIn I didn't realize what a headache it would be...,1.435897435897436,0.0847902813108697,78.0,56.0,10.0,12.0,544
-170,How do we ditch them for lunch?,1.435897435897436,0.07867903663476962,78.0,53.0,16.0,9.0,544
-170,Are you thinking what I'm thinking?,1.435897435897436,0.08673172509397442,78.0,57.0,8.0,13.0,544
-170,I can't seem to get work off my mind.,1.435897435897436,0.0847902813108697,78.0,56.0,10.0,12.0,544
+170,"Well, it all depends on what you mean by, ""Are you thinking what I'm thinking?""",1.4358974358974361,0.08863065198212798,78.0,58.0,6.0,14.0,544
+170,When I signed up for the new LinkedIn I didn't realize what a headache it would be...,1.4358974358974361,0.0847902813108697,78.0,56.0,10.0,12.0,544
+170,How do we ditch them for lunch?,1.4358974358974361,0.07867903663476962,78.0,53.0,16.0,9.0,544
+170,Are you thinking what I'm thinking?,1.4358974358974361,0.08673172509397442,78.0,57.0,8.0,13.0,544
+170,I can't seem to get work off my mind.,1.4358974358974361,0.0847902813108697,78.0,56.0,10.0,12.0,544
 175,It's a little tight. Do you have something in a conference table?,1.4303797468354431,0.07787244020694138,79.0,54.0,16.0,9.0,544
 175,We're a lot alike. I always have work on my mind and you have a head for business.,1.4303797468354431,0.07787244020694138,79.0,54.0,16.0,9.0,544
 177,Are you thinking what I'm thinking?,1.4285714285714286,0.08948201251325062,77.0,58.0,5.0,14.0,544
@@ -962,7 +962,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 947,You couldn't pay me to work a desk job.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,These open plan desks are a real headache.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,I've got more on my pate than you do.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
-947,Is this proof of an alternate universe?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,544
+947,Is this proof of an alternate universe?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,544
 947,Maybe we shouldn't approach everything with our accountant hats on.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,I think we need to do something about our office overhead.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,"I'm out of memory, how about you?",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
@@ -980,8 +980,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 947,Was this what you expected when we were told to meet at the head office?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,My work is weighing heavily on my mind.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,I see that you also see the value of working in the cloud.,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,544
-947,Work has just been more and more on my mind lately,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,544
-947,These internal audits are getting a little...well...uncomfortable.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,544
+947,Work has just been more and more on my mind lately,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,544
+947,These internal audits are getting a little...well...uncomfortable.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,544
 947,"Is this what they mean by ""desktop""?",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,I guess sometimes even the little guys can work their way to the top.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
 947,I wish Bob would stop farting.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
@@ -1012,7 +1012,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 947,We need to cut down on the overhead.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,"I'll answer, but first: what's your mother's maiden name?",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,Still got work on the brain?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
-947,You know there once was a time when the New Yorker cartoons were actually funny.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,544
+947,You know there once was a time when the New Yorker cartoons were actually funny.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,544
 947,"Besides my guy’s desk having a bunch of little black dots, can you find five other differences in our mental images?",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
 947,Great idea! Have your guy call my guy.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
 947,So...I see we share the same head accountant.,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,544
@@ -1022,7 +1022,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 947,I opted for the pencil upgrade.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
 947,"Besides my guy's having twenty-two more little black dots, let's see you find five more differences in our mental pictures ... and there better not be a gun in your guy's right hand!",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
 947,There's got to be an easier way to get ahead at the office.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
-947,Can't get work off of your mind either?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,544
+947,Can't get work off of your mind either?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,544
 947,Where did you get the pencil holder accessory?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,"I like working at head office, don't you?",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
 947,Where's yours plugged in?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
@@ -1041,13 +1041,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 947,Heading to the office?,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,544
 947,Can't get work off of your mind either?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,"I asked how many people he stepped on getting to the top, and he said just me.",1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,544
-947,"Before the internet, you could just give an answer off the top of your head.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,544
+947,"Before the internet, you could just give an answer off the top of your head.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,544
 947,Have your people call my people.,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,544
 947,Where are the pencils? Top desk drawer on the left.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,Our virtual humans seems to be having trouble coming up with a caption off the top of their heads.,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,544
 947,"It's a new productivity tool, called HairBNB.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
 947,I hate being a desk jockey.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
-947,Race you to the Patent Office.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,544
+947,Race you to the Patent Office.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,544
 947,You've got work on your mind too?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
 947,This is what you get for working at head office.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
 947,"Our overhead costs are small, almost all of it management.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
@@ -1079,7 +1079,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 947,My new Thinking Cap just requested more sick leave.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
 947,You said you'd wear yours on Wednesdays and I'd have Tuesdays.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
 947,"Big brains, small overhead--how can we not succeed?",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
-947,You want to google together some time?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,544
+947,You want to google together some time?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,544
 947,Have your people call my people.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
 947,Do you think he would have drawn apples if his name was 'Mac'?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
 947,Are you streaming what I'm streaming?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
@@ -1091,10 +1091,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 947,"Radio Shacks attempt at artificial intelligence...""Ask Herb""",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
 947,Face it - we've both had too much work on our minds lately.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,Ever have that dream where you're driving home and without thinking you open the sunroof?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
-947,"My love life hasn't been that great but , boy, my productivity has been off the charts.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,544
+947,"My love life hasn't been that great but , boy, my productivity has been off the charts.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,544
 947,It's desk work all the way down.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,Can you feel the trickle down effect yet?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
-947,"No, it's YOU who needs to force quit!",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,544
+947,"No, it's YOU who needs to force quit!",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,544
 947,Don't you just hate it when your subordinate goes over your head?,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,544
 947,I'm of two minds on this subject.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,544
 947,"There's only one guy at work above me, too.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,544
@@ -2527,12 +2527,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2502,"Okay, seriously, what the fuck is going on here?",1.0714285714285714,0.05271774316741632,42.0,40.0,1.0,1.0,544
 2502,You have to have a head for business to succeed in this company!,1.0714285714285714,0.05271774316741632,42.0,40.0,1.0,1.0,544
 2502,Why don't I get a stapler?,1.0714285714285714,0.04022089331224806,42.0,39.0,3.0,0.0,544
-2529,"I'm not crazy about the look. But on the plus side, the toupée practically pays for itself.",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,544
-2529,These hats aren't selling like I'd hoped.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,544
+2529,"I'm not crazy about the look. But on the plus side, the toupée practically pays for itself.",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,544
+2529,These hats aren't selling like I'd hoped.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,544
 2529,I'm confused.......are you the email inbox or the email trash?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,544
-2529,"I hit my 30's, and suddenly had free real estate up there.",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,544
+2529,"I hit my 30's, and suddenly had free real estate up there.",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,544
 2529,I leave my phone at home now.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,544
-2529,"Phil, are you also having a hallucination that each of our desks are sitting on big heads with anxious expressions?",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,544
+2529,"Phil, are you also having a hallucination that each of our desks are sitting on big heads with anxious expressions?",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,544
 2529,"As an ""alter ego"", I have to say you're a huge disappointment.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,544
 2529,The left hand does not know what the Right Hand is doing,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,544
 2529,I have a split-screen headache.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,544
@@ -3057,12 +3057,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3004,I don't like what I see.,1.05,0.03489912202260563,40.0,38.0,2.0,0.0,544
 3004,"Wish Marvin a happy birthday."" ""Happy birthday Marvin.",1.05,0.03489912202260563,40.0,38.0,2.0,0.0,544
 3004,I think I know what's causing our headaches.,1.05,0.03489912202260563,40.0,38.0,2.0,0.0,544
-3059,"I'm getting really tired of him e-mailing the help desk about ""how to get this nerd off my butt.""",1.048780487804878,0.048780487804878016,41.0,40.0,0.0,1.0,544
-3059,"Yeah, the bluetooth range still sucks, but - oh look - is that mistletoe hanging from my desk..?",1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,544
-3059,i can't wait to go wireless and get rid of all these cords!,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,544
-3059,"Well, what's that about minds and something similar?",1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,544
-3059,"""I've got an idea, let's create a button so we can instantly minimize a window."" I'm screaming Yessssssss in my head.",1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,544
-3059,All of this Tweeting is for the birds.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,544
+3059,"I'm getting really tired of him e-mailing the help desk about ""how to get this nerd off my butt.""",1.0487804878048779,0.048780487804878016,41.0,40.0,0.0,1.0,544
+3059,"Yeah, the bluetooth range still sucks, but - oh look - is that mistletoe hanging from my desk..?",1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,544
+3059,i can't wait to go wireless and get rid of all these cords!,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,544
+3059,"Well, what's that about minds and something similar?",1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,544
+3059,"""I've got an idea, let's create a button so we can instantly minimize a window."" I'm screaming Yessssssss in my head.",1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,544
+3059,All of this Tweeting is for the birds.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,544
 3065,"I don't know about you, but I've had enough of the business casual look.",1.0476190476190477,0.033258585512837065,42.0,40.0,2.0,0.0,544
 3066,"You know Geoff,I think we've both got work on our minds,let's go and grab a beer...",1.0263157894736843,0.02666903735313325,38.0,37.0,1.0,0.0,544
 3066,"You know, that was top of mind for me too.",1.0263157894736843,0.02666903735313325,38.0,37.0,1.0,0.0,544

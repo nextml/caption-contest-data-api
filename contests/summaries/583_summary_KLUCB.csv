@@ -10,13 +10,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 9,We've found it more cost-effective than a motivational speaker.,1.9276139410187667,0.0203382558170788,1492.0,518.0,564.0,410.0,583
 10,Tom actually believed that the CEO wanted his honest opinion.,1.927381745502998,0.020401092600271297,1501.0,527.0,556.0,418.0,583
 11,It's the only treatment for carpal tunnel syndrome that's still covered by our company's health plan.,1.9243243243243244,0.03416157838096548,555.0,202.0,193.0,160.0,583
-12,Ted's in stocks. You'll be working primarily with bonds.,1.898142937535172,0.012972874150432656,3554.0,1262.0,1392.0,900.0,583
+12,Ted's in stocks. You'll be working primarily with bonds.,1.8981429375351717,0.012972874150432656,3554.0,1262.0,1392.0,900.0,583
 13,Our employee retention program is unmatched in the industry.,1.89119170984456,0.019902838371721663,1544.0,565.0,582.0,397.0,583
 14,I'm liking the new policy on sexual harassment.,1.883908045977012,0.015499261759501146,2610.0,987.0,939.0,684.0,583
-15,"Now he'll think twice before hitting ""reply all.""",1.878367346938776,0.02195701863633153,1225.0,445.0,484.0,296.0,583
+15,"Now he'll think twice before hitting ""reply all.""",1.8783673469387758,0.02195701863633153,1225.0,445.0,484.0,296.0,583
 16,That's Dave. He's in stocks.,1.8720626631853785,0.01741525050483666,1915.0,694.0,772.0,449.0,583
 17,I prefer bonds. With stocks it's too easy to get locked in.,1.8699148533585617,0.016856497481942557,2114.0,790.0,809.0,515.0,583
-18,"Yep, he's the one who hit ""reply all"".",1.8681887366818881,0.01370384690430694,3285.0,1258.0,1202.0,825.0,583
+18,"Yep, he's the one who hit ""reply all"".",1.868188736681888,0.01370384690430694,3285.0,1258.0,1202.0,825.0,583
 19,"He hit ""Reply All"".",1.8634920634920635,0.01579180470088501,2520.0,987.0,890.0,643.0,583
 20,So we finally figured out whose car had the Trump bumper sticker on it.,1.8414450577019568,0.018122715236846203,1993.0,835.0,639.0,519.0,583
 21,It's uncanny how his eyes seem to follow you.,1.8169705469845725,0.02098939651948797,1426.0,602.0,483.0,341.0,583
@@ -28,7 +28,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 27,"Around here, there IS such thing as a stupid question.",1.77262313860252,0.018267675139166027,1746.0,752.0,639.0,355.0,583
 28,You don't request a standing desk at a chair company.,1.7696177062374243,0.02478308444983894,994.0,444.0,335.0,215.0,583
 29,He re-heated fish in the microwave.,1.7607223476297968,0.025931600778032804,886.0,395.0,308.0,183.0,583
-30,We're not allowed to publicly shame people on social media anymore.,1.7536793183578618,0.021188343647087292,1291.0,572.0,465.0,254.0,583
+30,We're not allowed to publicly shame people on social media anymore.,1.7536793183578618,0.02118834364708729,1291.0,572.0,465.0,254.0,583
 31,This lobby has a nice Town Square feel.,1.7520958083832336,0.026517441511414247,835.0,374.0,294.0,167.0,583
 32,Hey look. Marv has a new tie.,1.7464387464387463,0.024836099052008755,1053.0,509.0,302.0,242.0,583
 33,Beats getting the axe.,1.7443064182194616,0.02502626700845048,966.0,447.0,319.0,200.0,583
@@ -43,7 +43,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 42,The anti-groping device has decreased women's complaints by 90%.,1.6962962962962962,0.02854652981966472,675.0,319.0,242.0,114.0,583
 43,"Because we are a faith-based organization, we can get away with just about anything.",1.6927710843373494,0.02521302255650868,996.0,515.0,272.0,209.0,583
 44,Watch how the eyes seem to follow you as you walk by.,1.691533948030176,0.02260241396136358,1193.0,604.0,353.0,236.0,583
-45,Would you call that cruel or just unusual?,1.6894018887722981,0.02347726049285025,953.0,444.0,361.0,148.0,583
+45,Would you call that cruel or just unusual?,1.689401888772298,0.02347726049285025,953.0,444.0,361.0,148.0,583
 46,"We thought about removing it, but it's part of our history and culture.",1.688039457459926,0.02786529528039143,811.0,421.0,222.0,168.0,583
 47,Damn Auto Correct. I said 'corporate' punishment.,1.6867219917012448,0.024015049376230856,964.0,466.0,334.0,164.0,583
 48,I see the Trump Administration has begun their new policy for White House reporters,1.685459940652819,0.029069786846563493,674.0,331.0,224.0,119.0,583
@@ -55,7 +55,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 54,And this is a place reserved especially for people who Reply All.,1.6623376623376624,0.02564962755023361,847.0,427.0,279.0,141.0,583
 55,We're proud of our stock options for whistleblowers here.,1.6524390243902438,0.05840574371525256,164.0,84.0,53.0,27.0,583
 56,"Oh, that? It's our whistleblower bulletin board!",1.64822695035461,0.028059137679223616,705.0,363.0,227.0,115.0,583
-57,"If it's your turn to bring the doughnuts, you bring the doughnuts.",1.6436950146627567,0.028011353897002732,682.0,347.0,231.0,104.0,583
+57,"If it's your turn to bring the doughnuts, you bring the doughnuts.",1.6436950146627567,0.02801135389700273,682.0,347.0,231.0,104.0,583
 58,They take performance reviews pretty seriously.,1.6407185628742516,0.0279380726546598,668.0,337.0,234.0,97.0,583
 59,"Nice tie, Herb.",1.6384615384615384,0.029214295776646818,650.0,340.0,205.0,105.0,583
 60,"""Still haven't figured out that standing desk Carl?",1.6359300476947536,0.03091910674803835,629.0,345.0,168.0,116.0,583
@@ -69,7 +69,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 68,"It's a nice place to work, but the stock options aren't that great.",1.6211293260473592,0.030463323948618375,549.0,283.0,191.0,75.0,583
 69,"No, we're not a union shop. Why?",1.6204933586337762,0.03246135254828179,527.0,284.0,159.0,84.0,583
 70,He's a day traitor.,1.6013513513513509,0.03582490439886125,444.0,250.0,121.0,73.0,583
-71,He told the boss that we were stuck in the middle ages,1.600877192982456,0.03535599675131778,456.0,257.0,124.0,75.0,583
+71,He told the boss that we were stuck in the middle ages,1.6008771929824561,0.03535599675131778,456.0,257.0,124.0,75.0,583
 72,Casual Humiliation Fridays.,1.5972850678733033,0.035403498877110265,442.0,247.0,126.0,69.0,583
 73,That tie with those shoes?,1.596774193548387,0.035017558647696324,434.0,238.0,133.0,63.0,583
 74,You should have seen him last week when he said he was all tied up.,1.5948477751756442,0.034372270920653834,427.0,229.0,142.0,56.0,583
@@ -79,7 +79,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 77,"We offered him a severance package, but he preferred stocks.",1.5841836734693877,0.03641278383488015,392.0,217.0,121.0,54.0,583
 79,I hate medieval Mondays.,1.5810055865921788,0.03986884806067358,358.0,208.0,92.0,58.0,583
 80,He had an idea.,1.5718309859154929,0.039180585052798964,355.0,205.0,97.0,53.0,583
-81,I see our stocks are up.,1.565868263473054,0.039558770422090515,334.0,191.0,97.0,46.0,583
+81,I see our stocks are up.,1.5658682634730539,0.039558770422090515,334.0,191.0,97.0,46.0,583
 82,Looks like our Salem branch didn't meet quota.,1.5636363636363635,0.03947285935684017,330.0,188.0,98.0,44.0,583
 83,Neville came in last for employee of the month.,1.5623100303951367,0.04026708642887964,329.0,191.0,91.0,47.0,583
 84,Never noticed what tiny hands he has.,1.5617283950617284,0.04280666514422985,324.0,198.0,70.0,56.0,583
@@ -130,7 +130,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 128,Whaddya think ... Couples Therapy or Anger Management ???,1.5,0.050920952516250194,206.0,132.0,45.0,29.0,583
 128,I have a hunch the audit isn't going so well.,1.5,0.04902555066055299,206.0,128.0,53.0,25.0,583
 128,"It may be harsh, but missing pens and paper clips are down 40%",1.5,0.06261149037441738,114.0,68.0,35.0,11.0,583
-132,"Notice how it's never upper management, no matter what they've done.",1.4975609756097559,0.0487158826127819,205.0,127.0,54.0,24.0,583
+132,"Notice how it's never upper management, no matter what they've done.",1.497560975609756,0.0487158826127819,205.0,127.0,54.0,24.0,583
 133,Removed a mattress tag.,1.495049504950495,0.05073108427582792,202.0,129.0,46.0,27.0,583
 133,He IS the Ombudsman...,1.495049504950495,0.05024325083622825,202.0,128.0,48.0,26.0,583
 135,He thought the Suggestion Box was anonymous,1.4939759036144578,0.052500100281068524,166.0,101.0,48.0,17.0,583
@@ -148,7 +148,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 147,They caught him counting cards; now he counts people.,1.4867724867724867,0.05493155075037602,189.0,127.0,32.0,30.0,583
 147,He just had to ask about our stock options.,1.4867724867724867,0.05010877822171026,189.0,118.0,50.0,21.0,583
 147,Never take the stock option if you're planning to quit.,1.4867724867724867,0.04897259513455313,189.0,116.0,54.0,19.0,583
-150,The plan is to take the same photo of him for 27 years.,1.4840425531914894,0.04857513732086138,188.0,115.0,55.0,18.0,583
+150,The plan is to take the same photo of him for 27 years.,1.4840425531914894,0.048575137320861383,188.0,115.0,55.0,18.0,583
 151,"He's ""Bad Employee of the Month"".",1.483695652173913,0.0499319705161994,184.0,114.0,51.0,19.0,583
 151,"If this is what's really meant by stocks, I don't want to ask what's meant by ""bonds",1.483695652173913,0.05052324426314269,184.0,115.0,49.0,20.0,583
 153,He won't be texting today!,1.4808743169398908,0.05189123063802528,183.0,117.0,44.0,22.0,583
@@ -215,7 +215,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 214,Bad employee of the month.,1.4397163120567376,0.05726703329981943,141.0,94.0,32.0,15.0,583
 214,"We're mostly about stocks, but we do have a small pillory department.",1.4397163120567376,0.05546962103507822,141.0,92.0,36.0,13.0,583
 214,Looks like somebody forgot their badge today.,1.4397163120567376,0.05546962103507822,141.0,92.0,36.0,13.0,583
-217,One more week and he will make partner.,1.4358974358974361,0.058702715022804,117.0,75.0,33.0,9.0,583
+217,One more week and he will make partner.,1.435897435897436,0.058702715022804004,117.0,75.0,33.0,9.0,583
 218,That's Jim. He's this week's stock pick.,1.4357142857142855,0.056636373073804966,140.0,93.0,33.0,14.0,583
 218,Social media can’t compete with our shaming technology.,1.4357142857142855,0.056636373073804966,140.0,93.0,33.0,14.0,583
 218,"If you think stocks are scary, wait'll you see bonds.",1.4357142857142855,0.060156283517438576,140.0,97.0,25.0,18.0,583
@@ -252,7 +252,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 251,He's never missed a day of work.,1.4132231404958675,0.05946202979442582,121.0,82.0,28.0,11.0,583
 251,It's better than being chained to his desk.,1.4132231404958675,0.06060919100355276,121.0,83.0,26.0,12.0,583
 251,"Suddenly ""employee stock option"" doesn't sound so attractive.",1.4132231404958675,0.06284072029957209,121.0,85.0,22.0,14.0,583
-254,Meet your sales goal each month and you have nothing to worry about.,1.4083333333333334,0.054869125335043185,120.0,78.0,35.0,7.0,583
+254,Meet your sales goal each month and you have nothing to worry about.,1.4083333333333334,0.05486912533504319,120.0,78.0,35.0,7.0,583
 254,He's an apprentice in Donald Trump's PRESS SECRETARY JOB program.,1.4083333333333334,0.06205607987527459,120.0,84.0,23.0,13.0,583
 254,Just believe me: you don't want to use Comic Sans in a PowerPoint presentation. Not here.,1.4083333333333334,0.06205607987527459,120.0,84.0,23.0,13.0,583
 254,Have a nice day.,1.4083333333333334,0.05975654779744671,120.0,82.0,27.0,11.0,583
@@ -4968,7 +4968,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4959,I see our stocks are up.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,"That's the new guy, here on a stock exchange",1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,That's a little much showing you prefer equities vs bonds,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
-4959,It's 'mind over chatter.',1.0,0.04879500364742666,21.0,21.0,0.0,0.0,583
+4959,It's 'mind over chatter.',1.0,0.048795003647426664,21.0,21.0,0.0,0.0,583
 4959,He's a stocksbroker.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,"""It's a new yoga pose for lunchtime meditation!'",1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,Our stock analysts are very thorough.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
@@ -5206,7 +5206,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4959,"""Looks like James Damore's still in trouble"".",1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,There may be some lingering resentment.,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,He opted out of overdraft protection.,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
-4959,Don't forget to save money on your car insurance,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,583
+4959,Don't forget to save money on your car insurance,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,583
 4959,This is why I'm in bonds.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,"And be forewarned, we call those the ""twitter stocks.""",1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,I for sure thought someone in Woodstock would have more groovy clothes on.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
@@ -5311,7 +5311,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4959,He shouldn't have taken the stock option.,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,"That's Haversham from accounting. He used the phrase ""the numbers just don't add up"" once too often.",1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,They assembled his standing workstation incorrectly.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
-4959,"Well, I guess that wasn't such a good stock investment.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,583
+4959,"Well, I guess that wasn't such a good stock investment.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,583
 4959,"Discectomy/Schnectomy, right? Employees can use this for neck treatment.",1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,Wow! Great modern art!,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,hello,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,583
@@ -5427,7 +5427,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4959,Seen Frank's numbers lately? I can't tell which 'stockholder' is more torturous.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,You'll note that I removed the tip jar.,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,Let's just say that George's annual review did not go as well as hoped!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,583
-4959,That'll teach him for putting decaf in the regular coffee pot,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,583
+4959,That'll teach him for putting decaf in the regular coffee pot,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,583
 4959,"Apparently, the boss didn't like his suggestion for a Wall Street charity called Stock Aid.",1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,Our stock options are fantastic.,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,"Came for the sunsets, stayed for the white guilt.",1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
@@ -5626,9 +5626,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4959,This is exactly like my dream',1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,"We recommended bonds, but he insisted.",1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,I'm glad our core values include freedom to say what you think.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
-4959,Another perk. Zero tolerance for sexual harassment.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,583
+4959,Another perk. Zero tolerance for sexual harassment.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,583
 4959,Sessions caught him tweeting.,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
-4959,Seafood in the office microwave again.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,583
+4959,Seafood in the office microwave again.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,583
 4959,I didn't know the intern started this week.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,You need his PIN to unlock it.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,At least it is no longer Hillary being pilloried!,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
@@ -5773,7 +5773,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4959,He lost the legal department's winning lotto ticket.,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,He told the boss he didn't like his tie.,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,Why don't we take advantage of him while he's sitting there.,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
-4959,"Oh, that's nothing compared to what you have to go through to get your mitts on the new iPhone!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,583
+4959,"Oh, that's nothing compared to what you have to go through to get your mitts on the new iPhone!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,583
 4959,Stocks and bondage.,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,I didn't know Beavis was a member of the Trump cabinet!,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,He's in the stocks for the stocks.....,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
@@ -5831,7 +5831,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4959,he's investing in stocks,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,Steal someone's lunch here and you pay the price.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,Didn't meet his sales quota .,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
-4959,"In the old days hitting ""reply all"" usually meant the gallows.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,583
+4959,"In the old days hitting ""reply all"" usually meant the gallows.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,583
 4959,"Time to rebalance;the portfolio,its way overweight in stocks.",1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,Looks like Bob lost another account,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,"Squeezed the Juicero packets by hand, poor bastard.",1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
@@ -5991,7 +5991,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4959,I hear he's the founder of this organization,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,Wrong tie length for DNC Headquarters,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,583
 4959,He's the face of our stock research,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,583
-4959,"Bonds. I mean, duh?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,583
+4959,"Bonds. I mean, duh?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,583
 4959,Wrong stock exchange.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,He's the new supervisor in Stocks and Bonds.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583
 4959,The new guy who really believed the suggestion about boss is 'anonymous'.,1.0,0.060633906259083235,17.0,17.0,0.0,0.0,583

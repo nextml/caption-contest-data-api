@@ -37,14 +37,14 @@ We really need a gated sandbox.,6.0,32.0,39.0,77.0,1.5714285714285714,0.07261489
 "Last time, I lured him out with a Martini.",11.0,27.0,48.0,86.0,1.569767441860465,0.07676905454555921,36,518
 """Think maybe he lost his marbles?'",14.0,18.0,49.0,81.0,1.5679012345679009,0.08595554335598678,37,518
 He would think more clearly outside the box.,11.0,21.0,44.0,76.0,1.5657894736842106,0.08447054156038708,38,518
-Grown-ups can take the fun out of pretty much anything.,9.0,21.0,39.0,69.0,1.565217391304348,0.08631476742038979,39,518
+Grown-ups can take the fun out of pretty much anything.,9.0,21.0,39.0,69.0,1.5652173913043481,0.08631476742038979,39,518
 I'm thinking it's mom's turn to scoop the box.,9.0,19.0,38.0,66.0,1.5606060606060606,0.08936133892539773,40,518
 "Long time, no sea.",5.0,28.0,35.0,68.0,1.5588235294117647,0.07664597972311231,41,518
 Don't fall for it. He just wants your juice box.,12.0,20.0,47.0,79.0,1.5569620253164558,0.08401410107728391,42,518
-He'll NEVER ask for directions.,8.0,33.0,47.0,88.0,1.5568181818181819,0.07018775116908277,43,518
+He'll NEVER ask for directions.,8.0,33.0,47.0,88.0,1.556818181818182,0.07018775116908277,43,518
 Same guy who nearly drowned in my wading pool.,11.0,19.0,44.0,74.0,1.554054054054054,0.08635506953712617,44,518
 "Well, actually, I've accepted it. But mother and the cat are livid.",13.0,15.0,46.0,74.0,1.554054054054054,0.0905409549797938,44,518
-"Mom's right, we need a cover for this thing.",8.0,20.0,37.0,65.0,1.5538461538461539,0.08779009392702561,46,518
+"Mom's right, we need a cover for this thing.",8.0,20.0,37.0,65.0,1.553846153846154,0.08779009392702561,46,518
 I wish he'd think outside the box.,15.0,12.0,49.0,76.0,1.5526315789473684,0.09251787279603654,47,518
 Don't say anything. He's our ride home.,8.0,26.0,42.0,76.0,1.5526315789473684,0.07812436518670987,47,518
 He works hard. And he plays hard.,12.0,20.0,48.0,80.0,1.55,0.08324890237616016,49,518
@@ -83,7 +83,7 @@ Should we tell him the phone's in his back pocket?,8.0,17.0,39.0,64.0,1.515625,0
 He says he won't leave 'till he's found his inner child.,7.0,22.0,41.0,70.0,1.5142857142857142,0.08073897092243451,82,518
 Apparently he can't even think in the box.,9.0,19.0,44.0,72.0,1.5138888888888888,0.08390194635602938,83,518
 Just buy a new contact lens already!,8.0,14.0,37.0,59.0,1.5084745762711864,0.09478784134117896,84,518
-"Apparently, we didn't bury him deep enough.",11.0,10.0,42.0,63.0,1.507936507936508,0.0983036245392324,85,518
+"Apparently, we didn't bury him deep enough.",11.0,10.0,42.0,63.0,1.5079365079365081,0.0983036245392324,85,518
 Let's play outside the box today.,11.0,11.0,43.0,65.0,1.5076923076923077,0.09588423740244546,86,518
 The marbles he lost can't be found.,10.0,15.0,44.0,69.0,1.5072463768115942,0.0890969863561508,87,518
 You hit him with the bucket and I'll bury him.,10.0,12.0,42.0,64.0,1.5,0.0944911182523068,88,518
@@ -93,7 +93,7 @@ If he dies can I bury him?,10.0,12.0,42.0,64.0,1.5,0.0944911182523068,88,518
 "Darn, he hasn't really made much progress since yesterday.",8.0,13.0,37.0,58.0,1.5,0.09605024899878382,88,518
 Your cat looks sick.,15.0,21.0,67.0,103.0,1.4951456310679612,0.07284408349510063,93,518
 Shall we offer the pail and shovel or just tell him his keys are right there on the sidewalk?,12.0,8.0,45.0,65.0,1.4923076923076923,0.0983593219426494,94,518
-"April fool, Dad! I don’t even wear contacts.",8.0,15.0,40.0,63.0,1.492063492063492,0.09015267210270868,95,518
+"April fool, Dad! I don’t even wear contacts.",8.0,15.0,40.0,63.0,1.4920634920634919,0.09015267210270868,95,518
 He said he lost his keys in there but I think he's lost his marbles,6.0,18.0,37.0,61.0,1.4918032786885247,0.08627998273403781,96,518
 "Uh, my dad goes a little overboard in the retelling of the Passover story.",5.0,20.0,36.0,61.0,1.4918032786885247,0.08305291887197082,96,518
 Lawrence of Suburbia.,4.0,22.0,35.0,61.0,1.4918032786885247,0.07969528998455601,96,518
@@ -177,7 +177,7 @@ He washed up on the Upper East Side,6.0,14.0,37.0,57.0,1.4561403508771933,0.0904
 He must think he's Lawrence of Suburbia,6.0,13.0,36.0,55.0,1.4545454545454546,0.09290733161670238,176,518
 "I'm not sure that this is what was meant by ""make the refugees feel at home""",4.0,7.0,22.0,33.0,1.4545454545454546,0.12378889877551665,176,518
 "I don't think he ever really got over the loss of ""Wilson.""",5.0,15.0,35.0,55.0,1.4545454545454546,0.08920970572048331,176,518
-We really are getting the full New York experience at this Airbnb.,4.0,12.0,28.0,44.0,1.4545454545454546,0.09997116632166499,176,518
+We really are getting the full New York experience at this Airbnb.,4.0,12.0,28.0,44.0,1.4545454545454546,0.099971166321665,176,518
 Dad takes the fun out of everything.,5.0,10.0,29.0,44.0,1.4545454545454546,0.1051252422025524,176,518
 He's practicing for climate change.,4.0,16.0,33.0,53.0,1.4528301886792452,0.08756518507401077,181,518
 "No, you tell him his keys are in your bucket!",6.0,12.0,35.0,53.0,1.4528301886792452,0.0954936670513555,181,518
@@ -218,26 +218,26 @@ Our other amenity is a resistance pool.,4.0,13.0,31.0,48.0,1.4375,0.093713054185
 "Yeah, I reserved the box but I think this guy knows somebody.",2.0,17.0,29.0,48.0,1.4375,0.08372028953266122,216,518
 "First they take our coloring books, now our sandboxes.",5.0,11.0,32.0,48.0,1.4375,0.09832935140393093,216,518
 He's got to start thinking outside the box.,7.0,10.0,38.0,55.0,1.4363636363636365,0.09627274793894024,219,518
-Remember the good old days when all we worried about were cats?,3.0,11.0,25.0,39.0,1.435897435897436,0.10256410256410256,220,518
-I hope he finds him. He was a very nice little boy.,6.0,8.0,32.0,46.0,1.434782608695652,0.10610437807375724,221,518
-Hey mister - can we bury you?,4.0,12.0,30.0,46.0,1.434782608695652,0.09657003622584162,221,518
-That cat looks like your dad.,4.0,12.0,30.0,46.0,1.434782608695652,0.09657003622584162,221,518
-Not sure this beachfront timeshare is working out.,4.0,12.0,30.0,46.0,1.434782608695652,0.09657003622584162,221,518
-"I stand corrected, he really did mean desert sampler.",5.0,10.0,31.0,46.0,1.434782608695652,0.10144927536231883,221,518
-I thought he was taking us out for a little dessert.,5.0,10.0,31.0,46.0,1.434782608695652,0.10144927536231883,221,518
-Should I tell him there's a Starbucks across the street?,2.0,16.0,28.0,46.0,1.434782608695652,0.08598490999531203,221,518
-Poor guy has been on a timeout since the 70s.,4.0,12.0,30.0,46.0,1.434782608695652,0.09657003622584162,221,518
-Should we tell him that's the litter box?,4.0,12.0,30.0,46.0,1.434782608695652,0.09657003622584162,221,518
-He thinks he's in the desert on a horse with no name.,3.0,14.0,29.0,46.0,1.434782608695652,0.0914307843222464,221,518
-"I told him to cross at night, but did he listen?",4.0,12.0,30.0,46.0,1.434782608695652,0.09657003622584162,221,518
-I want the cat back.,4.0,12.0,30.0,46.0,1.434782608695652,0.09657003622584162,221,518
-Mom won't let you keep him unless he is house-trained.,6.0,8.0,32.0,46.0,1.434782608695652,0.10610437807375724,221,518
-Maybe we should think outside the box.,3.0,14.0,29.0,46.0,1.434782608695652,0.0914307843222464,221,518
-Performance art pisses me off.,7.0,6.0,33.0,46.0,1.434782608695652,0.11056365868267044,221,518
-"Honestly, I don't mind if dad thinks he's a cat. It's the clean-up I'm having a problem with.",6.0,8.0,32.0,46.0,1.434782608695652,0.10610437807375724,221,518
+Remember the good old days when all we worried about were cats?,3.0,11.0,25.0,39.0,1.4358974358974361,0.10256410256410256,220,518
+I hope he finds him. He was a very nice little boy.,6.0,8.0,32.0,46.0,1.4347826086956519,0.10610437807375724,221,518
+Hey mister - can we bury you?,4.0,12.0,30.0,46.0,1.4347826086956519,0.09657003622584162,221,518
+That cat looks like your dad.,4.0,12.0,30.0,46.0,1.4347826086956519,0.09657003622584162,221,518
+Not sure this beachfront timeshare is working out.,4.0,12.0,30.0,46.0,1.4347826086956519,0.09657003622584162,221,518
+"I stand corrected, he really did mean desert sampler.",5.0,10.0,31.0,46.0,1.4347826086956519,0.10144927536231883,221,518
+I thought he was taking us out for a little dessert.,5.0,10.0,31.0,46.0,1.4347826086956519,0.10144927536231883,221,518
+Should I tell him there's a Starbucks across the street?,2.0,16.0,28.0,46.0,1.4347826086956519,0.08598490999531203,221,518
+Poor guy has been on a timeout since the 70s.,4.0,12.0,30.0,46.0,1.4347826086956519,0.09657003622584162,221,518
+Should we tell him that's the litter box?,4.0,12.0,30.0,46.0,1.4347826086956519,0.09657003622584162,221,518
+He thinks he's in the desert on a horse with no name.,3.0,14.0,29.0,46.0,1.4347826086956519,0.0914307843222464,221,518
+"I told him to cross at night, but did he listen?",4.0,12.0,30.0,46.0,1.4347826086956519,0.09657003622584162,221,518
+I want the cat back.,4.0,12.0,30.0,46.0,1.4347826086956519,0.09657003622584162,221,518
+Mom won't let you keep him unless he is house-trained.,6.0,8.0,32.0,46.0,1.4347826086956519,0.10610437807375724,221,518
+Maybe we should think outside the box.,3.0,14.0,29.0,46.0,1.4347826086956519,0.0914307843222464,221,518
+Performance art pisses me off.,7.0,6.0,33.0,46.0,1.4347826086956519,0.11056365868267044,221,518
+"Honestly, I don't mind if dad thinks he's a cat. It's the clean-up I'm having a problem with.",6.0,8.0,32.0,46.0,1.4347826086956519,0.10610437807375724,221,518
 If we give him water he'll never leave.,3.0,17.0,33.0,53.0,1.4339622641509433,0.08307162857041618,237,518
 I wish he'd go back to the StairMaster.,3.0,10.0,24.0,37.0,1.4324324324324325,0.1064055118109704,238,518
-I just hope I outgrow this quicker than he has.,4.0,11.0,29.0,44.0,1.4318181818181819,0.09967031951757234,239,518
+I just hope I outgrow this quicker than he has.,4.0,11.0,29.0,44.0,1.431818181818182,0.09967031951757234,239,518
 I think your pail of water might be worth big bucks!,5.0,11.0,33.0,49.0,1.4285714285714286,0.09671474291233284,240,518
 "No, you get in first.",5.0,11.0,33.0,49.0,1.4285714285714286,0.09671474291233284,240,518
 His GPS is down.,3.0,15.0,31.0,49.0,1.4285714285714286,0.08748177652797065,240,518
@@ -300,8 +300,8 @@ Should we mention that drinking fountain over there?,3.0,11.0,27.0,41.0,1.414634
 He's been drinking outside the box.,3.0,11.0,27.0,41.0,1.4146341463414631,0.09862227619100357,297,518
 When do you think Dad will be done trying to find his childhood?,4.0,9.0,28.0,41.0,1.4146341463414631,0.10462249068062056,297,518
 I'm NOT cleaning that up.,2.0,15.0,29.0,46.0,1.4130434782608696,0.08555636025011852,301,518
-This is where dad comes to dry out.,6.0,7.0,33.0,46.0,1.4130434782608696,0.10575738782120599,301,518
-Common Core eventually gets to all the teachers.,6.0,7.0,33.0,46.0,1.4130434782608696,0.10575738782120599,301,518
+This is where dad comes to dry out.,6.0,7.0,33.0,46.0,1.4130434782608696,0.105757387821206,301,518
+Common Core eventually gets to all the teachers.,6.0,7.0,33.0,46.0,1.4130434782608696,0.105757387821206,301,518
 Let's come back later - it looks like he's in the middle of something.,3.0,13.0,30.0,46.0,1.4130434782608696,0.09102787679676642,301,518
 "If he starts meowing and scratching, I'm outta here.",5.0,9.0,32.0,46.0,1.4130434782608696,0.10108630720273512,301,518
 Survivor - Kindergarten,2.0,15.0,29.0,46.0,1.4130434782608696,0.08555636025011852,301,518
@@ -1457,7 +1457,7 @@ He's a cat person.,1.0,4.0,20.0,25.0,1.24,0.10456258094238748,1453,518
 "It's an Infinity Sand Pit, set to replicate our current electoral process.",0.0,6.0,19.0,25.0,1.24,0.0871779788708135,1453,518
 He keeps singing that he's from a town called 'Margaritaville' and he's looking for his salt shaker. Some woman with tattoos lost it.,2.0,2.0,21.0,25.0,1.24,0.1194431524477928,1453,518
 He's obviously not thinking outside the box.,1.0,4.0,20.0,25.0,1.24,0.10456258094238748,1453,518
-He just doesn't have time for beach weekends since the promotion.,1.0,3.0,17.0,21.0,1.2380952380952381,0.11761037176408068,1459,518
+He just doesn't have time for beach weekends since the promotion.,1.0,3.0,17.0,21.0,1.238095238095238,0.11761037176408068,1459,518
 You've heard of quicksand? Well...this is the other kind.,2.0,4.0,28.0,34.0,1.2352941176470589,0.09496057470137044,1460,518
 "Try stinking outside the box, mister!",1.0,6.0,27.0,34.0,1.2352941176470589,0.08505868299779072,1460,518
 He does the whole Zen thing way better than us.,3.0,2.0,29.0,34.0,1.2352941176470589,0.10392325024704747,1460,518
@@ -4031,19 +4031,19 @@ This is the 20th sandbox without a sign of water.,0.0,1.0,19.0,20.0,1.05,0.05129
 I think he spent too much time on the teeter-totter,0.0,1.0,19.0,20.0,1.05,0.051298917604257706,3995,518
 I guess that we shouldn't play with his smart phone in the sand box.,0.0,1.0,19.0,20.0,1.05,0.051298917604257706,3995,518
 "If he doesn't find that water he's talking about in five minutes, our recess is over !",0.0,1.0,19.0,20.0,1.05,0.051298917604257706,3995,518
-I know that is the name you prefer and have always gone by but I feel it prejudices the jury.,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4033,518
-The artisanal sand make the experience so much more authentic.,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,4034,518
-Too bad all he can build is a sandcastle.,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,4034,518
-It's just Desert Storm flashbacks,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,4034,518
-He should know the sprinkler's in the lobby.,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,4034,518
-There's an app for that.,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,4034,518
-And I thought WE were method.,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,4034,518
-"Hey Mister, don't worry, help is only five floors way.",0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,4034,518
-I like our 'day at the beach' fantasy better.,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,4034,518
-And now our Millenial is reaching the end of his terrible ordeal.,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,4034,518
-"...and politicians keep saying ""global warming is not real""!",0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,4034,518
-Harley is approaching pit row and will his crew will be priming the treadmill for the swimming portion of the race.,0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,4034,518
-"Mmm, Almond Roca",0.0,1.0,20.0,21.0,1.0476190476190477,0.048795003647426664,4034,518
+I know that is the name you prefer and have always gone by but I feel it prejudices the jury.,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4033,518
+The artisanal sand make the experience so much more authentic.,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,4034,518
+Too bad all he can build is a sandcastle.,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,4034,518
+It's just Desert Storm flashbacks,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,4034,518
+He should know the sprinkler's in the lobby.,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,4034,518
+There's an app for that.,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,4034,518
+And I thought WE were method.,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,4034,518
+"Hey Mister, don't worry, help is only five floors way.",0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,4034,518
+I like our 'day at the beach' fantasy better.,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,4034,518
+And now our Millenial is reaching the end of his terrible ordeal.,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,4034,518
+"...and politicians keep saying ""global warming is not real""!",0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,4034,518
+Harley is approaching pit row and will his crew will be priming the treadmill for the swimming portion of the race.,0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,4034,518
+"Mmm, Almond Roca",0.0,1.0,20.0,21.0,1.0476190476190477,0.04879500364742666,4034,518
 He says he's downsizing.,0.0,1.0,21.0,22.0,1.0454545454545454,0.046524210519923545,4046,518
 Mom says its the latest trend in extreme meditation.,0.0,1.0,21.0,22.0,1.0454545454545454,0.046524210519923545,4046,518
 "He 's showing me ""sans serif"" texting.",0.0,2.0,42.0,44.0,1.0454545454545454,0.031765283723713976,4046,518
@@ -4141,7 +4141,7 @@ Is he a feces of the past,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 """Actually, I am the boss of you"".",0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 Do we live alone.,0.0,0.0,18.0,18.0,1.0,0.05716619504750295,4093,518
 "Wow... Your dad is really trying to get the most out of this every other weekend and one month of summer thing. Instead of the sandbox, I think you should ask for a pony next time.",0.0,0.0,14.0,14.0,1.0,0.07412493166611013,4093,518
-Looks like Dad took it on the chin one too many times,0.0,0.0,21.0,21.0,1.0,0.048795003647426664,4093,518
+Looks like Dad took it on the chin one too many times,0.0,0.0,21.0,21.0,1.0,0.04879500364742666,4093,518
 I think he said my caption might save him.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 I guess anything can be a litter box.,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,4093,518
 Retired sandhog I'll bet,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
@@ -4209,7 +4209,7 @@ Well Barbra he's got held back long enough.,0.0,0.0,15.0,15.0,1.0,0.069006555934
 I'm definitely doing this community a service after cleaning up this old man's mess.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 We can use it as soon as he gets to the mirage and realizes there's no water.,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,4093,518
 Twenty miles and still no Gatorade...,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
-"He's practicing for his role in the new movie, ""Sahara"".",0.0,0.0,21.0,21.0,1.0,0.048795003647426664,4093,518
+"He's practicing for his role in the new movie, ""Sahara"".",0.0,0.0,21.0,21.0,1.0,0.04879500364742666,4093,518
 and now for the update on Manhattan man further getting in touch with his inner desert,0.0,0.0,9.0,9.0,1.0,0.11785113019775792,4093,518
 First the cats used it as a litter box and now this Let's vote him off.,0.0,0.0,26.0,26.0,1.0,0.039223227027636816,4093,518
 Mr. B insists on 'method acting' during play-time.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
@@ -4242,7 +4242,7 @@ I think his ring is called dignity.,0.0,0.0,17.0,17.0,1.0,0.060633906259083235,4
 You better mix some bedbug repellent with that paint.,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,4093,518
 He must have drank the Trump kool-aid.,0.0,0.0,23.0,23.0,1.0,0.04445542244743871,4093,518
 Some of our math teachers sure are weird.,0.0,0.0,31.0,31.0,1.0,0.032791291789197645,4093,518
-Playing in the sandbox as an adult is no fun!,0.0,0.0,21.0,21.0,1.0,0.048795003647426664,4093,518
+Playing in the sandbox as an adult is no fun!,0.0,0.0,21.0,21.0,1.0,0.04879500364742666,4093,518
 I'll search for my inner child. You guys think outside the box.,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,4093,518
 Those are not the kind of vultures the boss was talking about attracting.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 I call 'first dibs' on those snappy shoes.,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,4093,518
@@ -4320,7 +4320,7 @@ I think it's time we helped Dad find his car keys,0.0,0.0,16.0,16.0,1.0,0.064549
 Artisan Water ... Artisan Water from aquifers .... Artisan water ...,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 "If there's no Santa or Easter Bunny, I think he has to go, too.",0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 Mom says we should get him an indoor litter box.,0.0,0.0,17.0,17.0,1.0,0.060633906259083235,4093,518
-"I heard about this in history class, there used to be beaches and he's the last beach bum.",0.0,0.0,21.0,21.0,1.0,0.048795003647426664,4093,518
+"I heard about this in history class, there used to be beaches and he's the last beach bum.",0.0,0.0,21.0,21.0,1.0,0.04879500364742666,4093,518
 Hell of a mirage.,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,4093,518
 The Fed's been telegraphing again.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 I think it's time we think outside the box.,0.0,0.0,17.0,17.0,1.0,0.060633906259083235,4093,518
@@ -4335,7 +4335,7 @@ Do we take this act of contrition with the grains of salt through which he is cr
 He spent 3 months shipwrecked and now we can't get him to leave.,0.0,0.0,19.0,19.0,1.0,0.05407380704358751,4093,518
 Joan said he had always wanted to do the Hajj,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,4093,518
 Occupy Sandbox,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,4093,518
-He mumbled something about tar beach?,0.0,0.0,21.0,21.0,1.0,0.048795003647426664,4093,518
+He mumbled something about tar beach?,0.0,0.0,21.0,21.0,1.0,0.04879500364742666,4093,518
 Daddy got a new treadmill.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 Act Two. Pigeon Man gets stuck on a desert island without a toy shovel and bucket.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 We call him Martyr Man.,0.0,0.0,14.0,14.0,1.0,0.07412493166611013,4093,518
@@ -4379,7 +4379,7 @@ We go around and around. I say it's our turn....he says he lost a contact lens i
 Junior's swimming instructor reported that he is making excellent progress and will be working in the big pool next week!,0.0,0.0,18.0,18.0,1.0,0.05716619504750295,4093,518
 I think we should go back to the Zen garden.,0.0,0.0,13.0,13.0,1.0,0.08006407690254358,4093,518
 sorry to see that Dad has gone back to his childhood where he lost his contacts,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,4093,518
-Must have been a big cat.,0.0,0.0,21.0,21.0,1.0,0.048795003647426664,4093,518
+Must have been a big cat.,0.0,0.0,21.0,21.0,1.0,0.04879500364742666,4093,518
 Not to worry. Your face doesn't show up on any of the security cameras.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 I'm not sure Homer has learned to play well in the sandbox yet...,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 We're only changing kitty litter.,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,4093,518
@@ -4489,7 +4489,7 @@ He's a real stick in the mud,0.0,0.0,17.0,17.0,1.0,0.060633906259083235,4093,518
 It's getting to the point where he's finally convinced me there's something rotting in Denmark.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 I'm not sure either. Something about some dude named Dan and a big green tree and ...,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 "Oh geez, Alfredo's lost his marbles again.",0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
-"OASIS. the local watering hole is downstairs, Sir!",0.0,0.0,21.0,21.0,1.0,0.048795003647426664,4093,518
+"OASIS. the local watering hole is downstairs, Sir!",0.0,0.0,21.0,21.0,1.0,0.04879500364742666,4093,518
 And my Dad says our generation is weak.,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,4093,518
 He doesn't like chocolate milk.,0.0,0.0,15.0,15.0,1.0,0.06900655593423542,4093,518
 It's a dry run for his trip to the Sahara!,0.0,0.0,16.0,16.0,1.0,0.06454972243679027,4093,518

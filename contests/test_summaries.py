@@ -51,7 +51,7 @@ def test_columns(df):
         assert "target_id" in set(df.columns)
 
     # Make sure the best caption comes first
-    assert df["rank"].iloc[0] == 1
+    assert df["rank"].iloc[0] == 1, "funniest first"
     contest = int(df.filename[:3])
     assert (df["contest"] == contest).all()
 
@@ -87,8 +87,11 @@ def test_means(df):
 def test_few_nulls(df):
     for col in df.columns:
         nulls = df[col].isnull().sum()
+        contest = int(df.filename[:3])
         if col == "caption":
             assert nulls <= 3, "Sometimes people don't submit *anything*"
+        elif col in {"score", "precision"} and contest in {520, 521}:
+            assert nulls in {0, 1}
         else:
             assert nulls == 0, f"{col}"
 
@@ -98,10 +101,20 @@ def ranks(scores):
 
 
 def test_main(df):
+    test_means(df)  # tests the 'score' column
+    if "mean" in df:
+        del df["mean"]
+    test_counts(df)  # test the 'count' column
+    if "counts" in df:
+        del df["counts"]
     try:
-        test_ranks(df)
-    except AssertionError:
-        df["rank"] = ranks(df["score"])
-
-        test_ranks(df)
-        df.to_csv("summaries/" + df.filename, index=False)
+        test_columns(df)
+    except AssertionError as e:
+        assert "funniest first" in str(e)
+        df.sort_values(by='rank', inplace=True)
+    test_columns(df)
+    test_counts(df)  # test the 'count' column
+    test_means(df)  # tests the 'score' column
+    test_few_nulls(df)
+    test_ranks(df)
+    df.to_csv("summaries/" + df.filename, index=False)

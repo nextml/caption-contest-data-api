@@ -1,5 +1,5 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
-1,You're right. No underwear.,1.8162729658792647,0.03281098558132852,762.0,395.0,112.0,255.0,547
+1,You're right. No underwear.,1.816272965879265,0.03281098558132852,762.0,395.0,112.0,255.0,547
 2,Like the pomp. Not crazy about the circumstances.,1.8125836680053544,0.029524457493836656,747.0,326.0,235.0,186.0,547
 3,"Okay, our pomp is good. Now let's work on our circumstance.",1.7984126984126985,0.031984931467223934,630.0,279.0,199.0,152.0,547
 4,We're not the only ones that could use a shave.,1.7682119205298013,0.035598532608938034,604.0,317.0,110.0,177.0,547
@@ -19,7 +19,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 18,She'd better be worth it.,1.6595744680851063,0.041805487772624376,376.0,209.0,86.0,81.0,547
 19,"Following the Pied Piper, or even Moses to the Promised Land, is understandable, but THIS ???",1.6577540106951871,0.039366799493478113,374.0,194.0,114.0,66.0,547
 20,Mirage a trois.,1.6191950464396283,0.04298366249793946,323.0,181.0,84.0,58.0,547
-21,"""Who doesn't love a parade?"" you said...",1.6114649681528663,0.040423513196498013,314.0,165.0,106.0,43.0,547
+21,"""Who doesn't love a parade?"" you said...",1.6114649681528663,0.04042351319649801,314.0,165.0,106.0,43.0,547
 22,"This is my first mirage à trois, too.",1.610223642172524,0.042985868864345314,313.0,175.0,85.0,53.0,547
 23,At least she got us off the desert island cartoon.,1.6045751633986929,0.04405678942004713,306.0,175.0,77.0,54.0,547
 24,Do you think she'd go for a mirage a trois?,1.6031746031746033,0.043527228348380936,315.0,181.0,78.0,56.0,547
@@ -28,8 +28,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 27,"Believe me, her finale is worth it!",1.6006600660066006,0.04137917358089488,303.0,163.0,98.0,42.0,547
 28,"God, I hate away games.",1.5945945945945943,0.0453205804089552,296.0,174.0,68.0,54.0,547
 29,I still can't see up her skirt.,1.5795053003533568,0.04814181547978865,283.0,177.0,48.0,58.0,547
-30,"ENOUGH ALREADY with your 'hup,2,3,4 hup,2,3,4 ...'",1.579136690647482,0.04260176560927981,278.0,153.0,89.0,36.0,547
-31,I'm thinking about quitting the band.,1.5781818181818181,0.04447870898389998,275.0,157.0,77.0,41.0,547
+30,"ENOUGH ALREADY with your 'hup,2,3,4 hup,2,3,4 ...'",1.579136690647482,0.042601765609279814,278.0,153.0,89.0,36.0,547
+31,I'm thinking about quitting the band.,1.578181818181818,0.04447870898389998,275.0,157.0,77.0,41.0,547
 32,Sure it's a mirage. But it's upbeat and motivating.,1.5698529411764706,0.0436853640676264,272.0,154.0,81.0,37.0,547
 33,I'm starting to think she might just be leading us on.,1.5645756457564577,0.04289317027566445,271.0,152.0,85.0,34.0,547
 34,I say we leave at half time.,1.56390977443609,0.04634667606929895,266.0,159.0,64.0,43.0,547
@@ -43,7 +43,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 41,I knew we should have marched to the beat of a different drummer.,1.5559845559845558,0.04768412169943288,259.0,159.0,56.0,44.0,547
 43,At least we're not behind the elephants anymore.,1.5555555555555556,0.04212951492445161,261.0,144.0,89.0,28.0,547
 44,At which point will the saints come marching in?,1.5542635658914732,0.04557787925310368,258.0,152.0,69.0,37.0,547
-45,Maybe she's been leading us on?,1.5511811023622046,0.044775373244606134,254.0,147.0,74.0,33.0,547
+45,Maybe she's been leading us on?,1.5511811023622046,0.04477537324460613,254.0,147.0,74.0,33.0,547
 45,Remember to look sharp when we go past the reviewing stand.,1.5511811023622046,0.046480608952993004,254.0,152.0,64.0,38.0,547
 47,I fear we are being misled by a Drumph Majorette,1.55078125,0.04416640834471719,256.0,147.0,77.0,32.0,547
 47,Mirage a trois.,1.55078125,0.04620059691696708,256.0,153.0,65.0,38.0,547
@@ -56,7 +56,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 55,"Please, it's been five days since we ate the tuba player.",1.5294117647058822,0.047130569709319635,238.0,145.0,60.0,33.0,547
 55,At least we're not following the elephant!,1.5294117647058822,0.04481681911901898,238.0,139.0,72.0,27.0,547
 55,I can't believe you convinced me to follow a third party candidate.,1.5294117647058822,0.046372148531192516,238.0,143.0,64.0,31.0,547
-58,"Just this once, I wish it would rain on our parade.",1.5234042553191491,0.046834954259156264,235.0,143.0,61.0,31.0,547
+58,"Just this once, I wish it would rain on our parade.",1.5234042553191491,0.04683495425915626,235.0,143.0,61.0,31.0,547
 59,I also follow her on social media .,1.5215517241379308,0.04609959261783498,232.0,139.0,65.0,28.0,547
 59,Worst. Band camp. Ever.,1.5215517241379308,0.04609959261783498,232.0,139.0,65.0,28.0,547
 61,We could use some rain on this parade.,1.5194805194805194,0.045844099858722655,231.0,138.0,66.0,27.0,547
@@ -71,7 +71,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 69,Not the first time a woman has led us astray.,1.5045454545454546,0.04712477245595593,220.0,135.0,59.0,26.0,547
 69,"She has no idea where any water is, but I like her spunk.",1.5045454545454546,0.04668225764260457,220.0,134.0,61.0,25.0,547
 69,It beats wandering around aimlessly.,1.5045454545454546,0.04756317040989522,220.0,136.0,57.0,27.0,547
-69,Just once I'd like to see it rain on this parade.,1.5045454545454546,0.04927777573208,220.0,140.0,49.0,31.0,547
+69,Just once I'd like to see it rain on this parade.,1.5045454545454546,0.049277775732080004,220.0,140.0,49.0,31.0,547
 74,You're out of step again.,1.5045045045045045,0.04893707237897107,222.0,141.0,50.0,31.0,547
 75,I'm married to her - what's your excuse?,1.5022831050228311,0.0485965873608282,219.0,138.0,52.0,29.0,547
 75,I'm kind of hoping it rains on our parade.,1.5022831050228311,0.04816364259311482,219.0,137.0,54.0,28.0,547
@@ -103,7 +103,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 99,Let's hope it rains on our parade.,1.4696969696969695,0.051962013125303325,198.0,133.0,37.0,28.0,547
 103,It'll be worth it just to see the look on her face when she realizes the band went the other way.,1.467005076142132,0.05013075542481324,197.0,129.0,44.0,24.0,547
 103,I used to wonder around aimlessly until she came along.,1.467005076142132,0.050644743144339394,197.0,130.0,42.0,25.0,547
-103,What? No - I'm following the bear on a unicycle...,1.467005076142132,0.05165737842306221,197.0,132.0,38.0,27.0,547
+103,What? No - I'm following the bear on a unicycle...,1.467005076142132,0.051657378423062214,197.0,132.0,38.0,27.0,547
 103,I'm still kind of hoping you are the mirage,1.467005076142132,0.04961144294181305,197.0,128.0,46.0,23.0,547
 103,You think she knows there's only two of us left?,1.467005076142132,0.04908663669549077,197.0,127.0,48.0,22.0,547
 108,I know. And just minutes ago things seemed bleak.,1.4642857142857142,0.047641935891274835,196.0,124.0,53.0,19.0,547
@@ -149,7 +149,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 144,At least it won't rain on our parade.,1.4357541899441342,0.05255722038274668,179.0,123.0,34.0,22.0,547
 144,This really is a tough act to follow.,1.4357541899441342,0.05011166151515133,179.0,119.0,42.0,18.0,547
 150,"Trust me, eventually we'll end up at Macy's.",1.4325842696629214,0.05215200379566784,178.0,122.0,35.0,21.0,547
-150,I'm dying for it to rain on her parade.,1.4325842696629214,0.053355331917634786,178.0,124.0,31.0,23.0,547
+150,I'm dying for it to rain on her parade.,1.4325842696629214,0.05335533191763479,178.0,124.0,31.0,23.0,547
 150,"You know what, Sam? I kinda wish it would rain on our parade.",1.4325842696629214,0.0515398052754814,178.0,121.0,37.0,20.0,547
 150,This really is the baton death march.,1.4325842696629214,0.05092024701202586,178.0,120.0,39.0,19.0,547
 150,"I don't hear the band anymore, do you?",1.4325842696629214,0.05092024701202586,178.0,120.0,39.0,19.0,547
@@ -177,10 +177,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 174,When do you think she's going to realize that we're no longer a band?,1.4219653179190752,0.047873355563085286,173.0,113.0,47.0,13.0,547
 174,Seventy-six perfectly sensible trombonists and we had to follow her.,1.4219653179190752,0.05126328948183128,173.0,118.0,37.0,18.0,547
 174,I really wish it would rain on my parade!,1.4219653179190752,0.05126328948183128,173.0,118.0,37.0,18.0,547
-174,And to think I laughed at that fortune teller for being so specific.,1.4219653179190752,0.05060347333308599,173.0,117.0,39.0,17.0,547
+174,And to think I laughed at that fortune teller for being so specific.,1.4219653179190752,0.050603473333085985,173.0,117.0,39.0,17.0,547
 174,She got decommissioned after leading her band into the Potomac.,1.4219653179190752,0.03853956605050609,173.0,101.0,71.0,1.0,547
 174,We definitely took a wrong turn during the fight song.,1.4219653179190752,0.05191472029803997,173.0,119.0,35.0,19.0,547
-174,I hate Band Camp.,1.4219653179190752,0.05060347333308599,173.0,117.0,39.0,17.0,547
+174,I hate Band Camp.,1.4219653179190752,0.050603473333085985,173.0,117.0,39.0,17.0,547
 183,How do I know you're not the mirage?,1.4210526315789471,0.05492096786841588,171.0,122.0,26.0,23.0,547
 183,These Rose Bowl tickets you got from your brother-in-law --- what section were they in?,1.4210526315789471,0.05169444325632644,171.0,117.0,36.0,18.0,547
 183,She plans to make Death Valley great again.,1.4210526315789471,0.05102466084137308,171.0,116.0,38.0,17.0,547
@@ -215,7 +215,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 213,"No, it is right-left-right.",1.406060606060606,0.05005316441613571,165.0,112.0,39.0,14.0,547
 213,I hope it'll rain on our parade.,1.406060606060606,0.052221152401023166,165.0,115.0,33.0,17.0,547
 213,"Hey Sam. If you don't mind, I'm going to ask her out for a drink later.",1.406060606060606,0.05078611127145005,165.0,113.0,37.0,15.0,547
-213,She calls it the Baton Death March.,1.406060606060606,0.053617799452287014,165.0,117.0,29.0,19.0,547
+213,She calls it the Baton Death March.,1.406060606060606,0.05361779945228701,165.0,117.0,29.0,19.0,547
 213,These seats better be good.,1.406060606060606,0.05078611127145005,165.0,113.0,37.0,15.0,547
 213,Our only hope is for someone to rain on her parade.,1.406060606060606,0.052221152401023166,165.0,115.0,33.0,17.0,547
 213,"Good idea, dropping those tubas.",1.406060606060606,0.04778692057505423,165.0,109.0,45.0,11.0,547
@@ -240,20 +240,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 239,"Maybe this is something I should've raised a few miles back, but I think we might have been distracted by the spectacle",1.3975155279503106,0.050831214356126524,161.0,111.0,36.0,14.0,547
 240,I really wish someone would come along and rain on our parade ...,1.3950617283950617,0.05352251406319272,162.0,116.0,28.0,18.0,547
 240,Could really use some rain on this parade.,1.3950617283950617,0.049812180549912,162.0,111.0,38.0,13.0,547
-242,A little rain on my parade sounds pretty good right now.,1.39375,0.05023285010388866,160.0,110.0,37.0,13.0,547
+242,A little rain on my parade sounds pretty good right now.,1.39375,0.050232850103888664,160.0,110.0,37.0,13.0,547
 242,I thought she said come this way for dessert,1.39375,0.04864264101749854,160.0,108.0,41.0,11.0,547
 242,This has become a baton death march.,1.39375,0.051774240061658684,160.0,112.0,33.0,15.0,547
 242,One of us is out of step.,1.39375,0.04944413895861157,160.0,109.0,39.0,12.0,547
-242,Really? My mirage looks like Robert Preston.,1.39375,0.05023285010388866,160.0,110.0,37.0,13.0,547
+242,Really? My mirage looks like Robert Preston.,1.39375,0.050232850103888664,160.0,110.0,37.0,13.0,547
 242,I'm kind of hoping it'll rain on her parade.,1.39375,0.05100936758832642,160.0,111.0,35.0,14.0,547
-242,What are you doing after this?,1.39375,0.05023285010388866,160.0,110.0,37.0,13.0,547
+242,What are you doing after this?,1.39375,0.050232850103888664,160.0,110.0,37.0,13.0,547
 242,This is the last time I will trust a Yelp review.,1.39375,0.05100936758832642,160.0,111.0,35.0,14.0,547
 242,I hope it rains on her parade.,1.39375,0.05100936758832642,160.0,111.0,35.0,14.0,547
 242,I was a lot more enthusiastic when there were seventy-six of us.,1.39375,0.052527976223756434,160.0,113.0,31.0,16.0,547
 242,It's almost time for my solo.,1.39375,0.052527976223756434,160.0,113.0,31.0,16.0,547
 253,Any chance it could rain on this parade?,1.389937106918239,0.04879892478068736,159.0,108.0,40.0,11.0,547
 253,"I don't know where she's going, but she's doing it with conviction.",1.389937106918239,0.05195941727301428,159.0,112.0,32.0,15.0,547
-253,Are you sure this is the Trump bandwagon?,1.389937106918239,0.052719944416237986,159.0,113.0,30.0,16.0,547
+253,Are you sure this is the Trump bandwagon?,1.389937106918239,0.05271994441623799,159.0,113.0,30.0,16.0,547
 253,I hope someone rains on our parade.,1.389937106918239,0.05493839301391374,159.0,116.0,24.0,19.0,547
 253,I just hope we make it back in time for the second half.,1.389937106918239,0.04879892478068736,159.0,108.0,40.0,11.0,547
 258,"I'm as surprised as you are, but she's really given my life direction.",1.3860759493670889,0.04895479632178717,158.0,108.0,39.0,11.0,547
@@ -262,13 +262,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 258,I'm starting to think that maybe some who wander are in fact lost.,1.3860759493670889,0.04895479632178717,158.0,108.0,39.0,11.0,547
 262,Can we switch back to the oasis mirage now?,1.3846153846153846,0.05101252579888596,156.0,109.0,34.0,13.0,547
 262,"Until now...I thought ""I'd follow her to the end of the earth"" was just an expression.",1.3846153846153846,0.04851946857258052,156.0,106.0,40.0,10.0,547
-262,I've come to the realization that I don't really love a parade all that much.,1.3846153846153846,0.05019526673346018,156.0,108.0,36.0,12.0,547
+262,I've come to the realization that I don't really love a parade all that much.,1.3846153846153846,0.050195266733460184,156.0,108.0,36.0,12.0,547
 262,"Of course she's real, where would we be without her?",1.3846153846153846,0.05101252579888596,156.0,109.0,34.0,13.0,547
 262,Do you suppose we are being misled?,1.3846153846153846,0.05101252579888596,156.0,109.0,34.0,13.0,547
 262,You think I'm delusional? What about this majorette who's marching without a band?,1.3846153846153846,0.05101252579888596,156.0,109.0,34.0,13.0,547
 262,Please...rain on our parade.,1.3846153846153846,0.05101252579888596,156.0,109.0,34.0,13.0,547
 262,Please stop saying that you love a parade.,1.3846153846153846,0.04765947801462828,156.0,105.0,42.0,9.0,547
-262,Do you remember where we parked the car?,1.3846153846153846,0.05019526673346018,156.0,108.0,36.0,12.0,547
+262,Do you remember where we parked the car?,1.3846153846153846,0.050195266733460184,156.0,108.0,36.0,12.0,547
 262,"Well, we're past the rock, hope we get to the hard place soon.",1.3846153846153846,0.05101252579888596,156.0,109.0,34.0,13.0,547
 262,I guess my ex was right about me. I really am a hopeless skirt chaser.,1.3846153846153846,0.05101252579888596,156.0,109.0,34.0,13.0,547
 262,It's not a mirage. She isn't wearing underwear.,1.3846153846153846,0.05415837638017942,156.0,113.0,26.0,17.0,547
@@ -323,7 +323,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 308,"If you can see her too, I think we have a chance.",1.3708609271523178,0.049381064588893415,151.0,105.0,36.0,10.0,547
 308,At least it won't rain on our parade.,1.3708609271523178,0.051994136228849096,151.0,108.0,30.0,13.0,547
 308,She just keeps getting hotter and hotter.,1.3708609271523178,0.049381064588893415,151.0,105.0,36.0,10.0,547
-325,How much further before we tell her the rest of the band is dead.,1.3666666666666667,0.050426961527725585,150.0,106.0,33.0,11.0,547
+325,How much further before we tell her the rest of the band is dead.,1.3666666666666667,0.05042696152772559,150.0,106.0,33.0,11.0,547
 325,Are you sure that's a divining rod?,1.3666666666666667,0.05217134621748482,150.0,108.0,29.0,13.0,547
 325,"Okay, is it just me or have I seen that grain of sand before?",1.3666666666666667,0.05130656787909022,150.0,107.0,31.0,12.0,547
 325,Best mirage this week.,1.3666666666666667,0.053022022073452114,150.0,109.0,27.0,14.0,547
@@ -339,13 +339,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 336,"Trust me Jerry, it's bound to rain on her parade eventually.",1.3605442176870748,0.05282582086304824,147.0,107.0,27.0,13.0,547
 336,But we're making great time.,1.3605442176870748,0.04917128744900473,147.0,103.0,35.0,9.0,547
 336,When are we going to quit following every skirt that parades by?,1.3605442176870748,0.05282582086304824,147.0,107.0,27.0,13.0,547
-336,This is far more entertaining than the palm tree mirage we had yesterday.,1.3605442176870748,0.05193630127126218,147.0,106.0,29.0,12.0,547
+336,This is far more entertaining than the palm tree mirage we had yesterday.,1.3605442176870748,0.051936301271262184,147.0,106.0,29.0,12.0,547
 336,"Well according to MY mirage, YOU’RE out of step!",1.3605442176870748,0.05370060809684017,147.0,108.0,25.0,14.0,547
 336,I can't believe it's still half-time.,1.3605442176870748,0.05103127893384367,147.0,105.0,31.0,11.0,547
-336,I wish somebody would rain on her parade!,1.3605442176870748,0.05193630127126218,147.0,106.0,29.0,12.0,547
+336,I wish somebody would rain on her parade!,1.3605442176870748,0.051936301271262184,147.0,106.0,29.0,12.0,547
 336,I told you we should have ridden on the float instead.,1.3605442176870748,0.05103127893384367,147.0,105.0,31.0,11.0,547
 336,How long is halftime?,1.3605442176870748,0.04917128744900473,147.0,103.0,35.0,9.0,547
-336,"By all means, rain on my parade!",1.3605442176870748,0.048214391516196664,147.0,102.0,37.0,8.0,547
+336,"By all means, rain on my parade!",1.3605442176870748,0.04821439151619666,147.0,102.0,37.0,8.0,547
 336,"Keep following her. Where there is a drum major, there is a large cooler of Gatorade.",1.3605442176870748,0.04917128744900473,147.0,103.0,35.0,9.0,547
 336,I thought that Trump's inaugural parade would look flashier than this.,1.3605442176870748,0.05540876492218105,147.0,110.0,21.0,16.0,547
 336,What's the downside if we stop following her?,1.3605442176870748,0.04917128744900473,147.0,103.0,35.0,9.0,547
@@ -471,7 +471,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 468,I follow her on Twitter also,1.3333333333333333,0.05151116061908372,135.0,99.0,27.0,9.0,547
 468,"Hallucination or not, she's got spirit.",1.3333333333333333,0.049318181528701516,135.0,97.0,31.0,7.0,547
 468,Next time we follow the different drummer.,1.3333333333333333,0.05277984243049191,138.0,103.0,24.0,11.0,547
-468,Best mirage we've ever had!,1.3333333333333333,0.05294437702368599,141.0,106.0,23.0,12.0,547
+468,Best mirage we've ever had!,1.3333333333333333,0.052944377023685985,141.0,106.0,23.0,12.0,547
 468,"Handel's Water Music, what do you hear?",1.3333333333333333,0.0546358364708153,135.0,102.0,21.0,12.0,547
 468,"I know she's only a mirage, but what else have we got?",1.3333333333333333,0.0486062308330894,138.0,99.0,32.0,7.0,547
 468,"She knows we're here, right?",1.3333333333333333,0.05257335815637598,135.0,100.0,25.0,10.0,547
@@ -508,7 +508,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 478,Perhaps following the water boy would have been a better idea.,1.3308823529411764,0.0501144083869741,136.0,99.0,29.0,8.0,547
 478,Now you ‘oom’ and I’ll ‘pah.’,1.3308823529411764,0.053275241093751376,136.0,102.0,23.0,11.0,547
 509,I'd follow her anywhere.,1.3284671532846717,0.04871633554988584,137.0,99.0,31.0,7.0,547
-509,There are worse leaders out there.,1.3284671532846717,0.049805858655030184,137.0,100.0,29.0,8.0,547
+509,There are worse leaders out there.,1.3284671532846717,0.04980585865503018,137.0,100.0,29.0,8.0,547
 509,Some poor saps just see an oasis.,1.3284671532846717,0.05087205287110616,137.0,101.0,27.0,9.0,547
 512,Ask her to spin that baton. We might get a breeze.,1.325925925925926,0.05023948135648346,135.0,99.0,28.0,8.0,547
 512,Do you still love a parade?,1.325925925925926,0.05546888393086854,135.0,104.0,18.0,13.0,547
@@ -544,7 +544,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 538,"Remember, it's the journey not the destination.",1.3233082706766917,0.04838338030915421,133.0,96.0,31.0,6.0,547
 538,"Bob, I promise to introduce you on the way back",1.3233082706766917,0.052883231334244635,133.0,100.0,23.0,10.0,547
 538,We're making great time!,1.3233082706766917,0.04838338030915421,133.0,96.0,31.0,6.0,547
-538,"I'm telling you, her invitation didn't say desert, it said dessert.",1.3233082706766917,0.05499525879070599,133.0,102.0,19.0,12.0,547
+538,"I'm telling you, her invitation didn't say desert, it said dessert.",1.3233082706766917,0.054995258790705985,133.0,102.0,19.0,12.0,547
 538,Left arm forward -- stay in formation!,1.3233082706766917,0.05179493208604958,133.0,99.0,25.0,9.0,547
 538,I guess I really would follow her anywhere.,1.3233082706766917,0.04838338030915421,133.0,96.0,31.0,6.0,547
 549,"Dear Global Warming, The Macy's Thanksgiving Day Parade just isn't what it used to be.",1.3230769230769228,0.05261825097591534,130.0,97.0,24.0,9.0,547
@@ -641,8 +641,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 609,"On second thought, maybe we shouldn't have voted for Trump.",1.310077519379845,0.05254940644556684,129.0,98.0,22.0,9.0,547
 609,I hear there's a big finale.,1.310077519379845,0.050191553629728165,129.0,96.0,26.0,7.0,547
 642,This is a long halftime!,1.3070866141732282,0.05063255791447474,127.0,95.0,25.0,7.0,547
-642,How many more measures?,1.3070866141732282,0.051852100226659266,127.0,96.0,23.0,8.0,547
-642,Good thing we decided not to bring our tubas.,1.3070866141732282,0.051852100226659266,127.0,96.0,23.0,8.0,547
+642,How many more measures?,1.3070866141732282,0.05185210022665927,127.0,96.0,23.0,8.0,547
+642,Good thing we decided not to bring our tubas.,1.3070866141732282,0.05185210022665927,127.0,96.0,23.0,8.0,547
 642,This one parade I wish it would rain on.,1.3070866141732282,0.054208938855333434,127.0,98.0,19.0,10.0,547
 646,"Bob always loved marching bands, and now I regret eating him.",1.3046875,0.05383724578953456,128.0,99.0,19.0,10.0,547
 646,And the band parches on.,1.3046875,0.04905428676426544,128.0,95.0,27.0,6.0,547
@@ -827,7 +827,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 789,"You know, of course, this is pretty much how we wound up voting for Trump, don't you?",1.286885245901639,0.05518687469831751,122.0,97.0,15.0,10.0,547
 827,This was President Trump's plan B for patrolling the Mexican border.,1.2857142857142858,0.0550406981973329,126.0,101.0,14.0,11.0,547
 828,I love halftime!,1.2845528455284554,0.04692365390058747,123.0,92.0,27.0,4.0,547
-828,It's still better than the election.,1.2845528455284554,0.051006561924487014,123.0,95.0,21.0,7.0,547
+828,It's still better than the election.,1.2845528455284554,0.05100656192448701,123.0,95.0,21.0,7.0,547
 828,Is this your mirage or my mirage?,1.2845528455284554,0.048322968831673835,123.0,93.0,25.0,5.0,547
 831,Please...rain on our parade.,1.2833333333333334,0.049057408394594416,120.0,91.0,24.0,5.0,547
 831,I think we took a wrong turn back at the fifty.,1.2833333333333334,0.05573965760963052,120.0,96.0,14.0,10.0,547
@@ -868,42 +868,42 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 866,"Okay, one more mile. But that's it.",1.2773109243697478,0.053271240460810235,119.0,94.0,17.0,8.0,547
 866,"I'm telling you, this isn't the yellow brick road.",1.2773109243697478,0.05588098752552578,119.0,96.0,13.0,10.0,547
 866,You have really weird hallucinations.,1.2773109243697478,0.0519171956767333,119.0,93.0,19.0,7.0,547
-866,You were right: This is easier without the sousaphones.,1.2773109243697478,0.049097204608222984,119.0,91.0,23.0,5.0,547
-866,Do you even remember what parade this is?,1.2773109243697478,0.049097204608222984,119.0,91.0,23.0,5.0,547
+866,You were right: This is easier without the sousaphones.,1.2773109243697478,0.04909720460822298,119.0,91.0,23.0,5.0,547
+866,Do you even remember what parade this is?,1.2773109243697478,0.04909720460822298,119.0,91.0,23.0,5.0,547
 866,"You realize the parade ended about 1,000 miles ago right?",1.2773109243697478,0.050526877536999686,119.0,92.0,21.0,6.0,547
 866,I love the silence of this place.,1.2773109243697478,0.053271240460810235,119.0,94.0,17.0,8.0,547
 866,Dibs on the hat.,1.2773109243697478,0.0519171956767333,119.0,93.0,19.0,7.0,547
 866,These triathlons are getting out of hand.,1.2773109243697478,0.053271240460810235,119.0,94.0,17.0,8.0,547
 866,But I don't hear any drums.,1.2773109243697478,0.053271240460810235,119.0,94.0,17.0,8.0,547
-866,"I figure where there's halftime, there should be beverages.",1.2773109243697478,0.049097204608222984,119.0,91.0,23.0,5.0,547
-866,I used to love a parade!,1.2773109243697478,0.049097204608222984,119.0,91.0,23.0,5.0,547
+866,"I figure where there's halftime, there should be beverages.",1.2773109243697478,0.04909720460822298,119.0,91.0,23.0,5.0,547
+866,I used to love a parade!,1.2773109243697478,0.04909720460822298,119.0,91.0,23.0,5.0,547
 866,I like her confidence.,1.2773109243697478,0.04453364952987751,119.0,88.0,29.0,2.0,547
 866,You're right. They always look sexier from a distance.,1.2773109243697478,0.050526877536999686,119.0,92.0,21.0,6.0,547
 866,How drunk were we when we promised to follow her to the ends of the earth?,1.2773109243697478,0.053271240460810235,119.0,94.0,17.0,8.0,547
 866,Mirage or fake news?,1.2773109243697478,0.04610505171613205,119.0,89.0,27.0,3.0,547
 866,"I""m not one to complain, but wasn't last years parade shorter?",1.2773109243697478,0.047624632775953885,119.0,90.0,25.0,4.0,547
 866,"What do you mean, out of step?",1.2773109243697478,0.0519171956767333,119.0,93.0,19.0,7.0,547
-866,"What, you couldn't have imagined a drinking fountain?",1.2773109243697478,0.049097204608222984,119.0,91.0,23.0,5.0,547
+866,"What, you couldn't have imagined a drinking fountain?",1.2773109243697478,0.04909720460822298,119.0,91.0,23.0,5.0,547
 866,I'm not that thirsty. I just love a parade.,1.2773109243697478,0.0519171956767333,119.0,93.0,19.0,7.0,547
 866,Tell me again why we signed up for Band Boot Camp.,1.2773109243697478,0.050526877536999686,119.0,92.0,21.0,6.0,547
 866,"No, you tell her the last of the marching band died off five miles back.",1.2773109243697478,0.053271240460810235,119.0,94.0,17.0,8.0,547
-866,Sure glad we ditched the tubas!,1.2773109243697478,0.049097204608222984,119.0,91.0,23.0,5.0,547
-866,The world is full of unlikely leaders.,1.2773109243697478,0.049097204608222984,119.0,91.0,23.0,5.0,547
+866,Sure glad we ditched the tubas!,1.2773109243697478,0.04909720460822298,119.0,91.0,23.0,5.0,547
+866,The world is full of unlikely leaders.,1.2773109243697478,0.04909720460822298,119.0,91.0,23.0,5.0,547
 866,"You have to admit, it's a catchy tune.",1.2773109243697478,0.05588098752552578,119.0,96.0,13.0,10.0,547
-866,I think this is the stage they call march madness.,1.2773109243697478,0.049097204608222984,119.0,91.0,23.0,5.0,547
-866,Her workout sessions really make you feel the burn.,1.2773109243697478,0.049097204608222984,119.0,91.0,23.0,5.0,547
+866,I think this is the stage they call march madness.,1.2773109243697478,0.04909720460822298,119.0,91.0,23.0,5.0,547
+866,Her workout sessions really make you feel the burn.,1.2773109243697478,0.04909720460822298,119.0,91.0,23.0,5.0,547
 866,I don't think her stamina was the issue.,1.2773109243697478,0.0519171956767333,119.0,93.0,19.0,7.0,547
 866,The Macy's parade really doesn't work in other places.,1.2773109243697478,0.050526877536999686,119.0,92.0,21.0,6.0,547
 866,Does your mirage have epaulettes too?,1.2773109243697478,0.0519171956767333,119.0,93.0,19.0,7.0,547
 866,"Look on the bright side, traffic was much worse during his first inaugural parade.",1.2773109243697478,0.05588098752552578,119.0,96.0,13.0,10.0,547
-866,"""Orchestra,"" I said. ""No, the marching band's better exercise,"" you said.",1.2773109243697478,0.049097204608222984,119.0,91.0,23.0,5.0,547
+866,"""Orchestra,"" I said. ""No, the marching band's better exercise,"" you said.",1.2773109243697478,0.04909720460822298,119.0,91.0,23.0,5.0,547
 866,Can't you keep in step?,1.2773109243697478,0.050526877536999686,119.0,92.0,21.0,6.0,547
 866,I'm here because she promises to create jobs.,1.2773109243697478,0.0519171956767333,119.0,93.0,19.0,7.0,547
 866,I'm not sure her enthusiasm makes up for her lack of topographical expertise.,1.2773109243697478,0.054591711033184484,119.0,95.0,15.0,9.0,547
 866,"Keep up the pace, you're making us look bad!",1.2773109243697478,0.047624632775953885,119.0,90.0,25.0,4.0,547
 866,"Mirage or not, If she drops the baton she'll have to bend over to pick it up.",1.2773109243697478,0.050526877536999686,119.0,92.0,21.0,6.0,547
 866,Ask her if she takes requests.,1.2773109243697478,0.0519171956767333,119.0,93.0,19.0,7.0,547
-866,I thought there would be more spectators.,1.2773109243697478,0.049097204608222984,119.0,91.0,23.0,5.0,547
+866,I thought there would be more spectators.,1.2773109243697478,0.04909720460822298,119.0,91.0,23.0,5.0,547
 866,Whaddya bet the glockenspiels and tubas are yukking it up over tequilas right now back in Albuquerque.,1.2773109243697478,0.053271240460810235,119.0,94.0,17.0,8.0,547
 866,How can this be a mirage? Look at those boots!,1.2773109243697478,0.053271240460810235,119.0,94.0,17.0,8.0,547
 866,What happened to the other 74 guys and our trombones?,1.2773109243697478,0.04610505171613205,119.0,89.0,27.0,3.0,547
@@ -1071,8 +1071,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1053,At least she's not making us spell out Ohio.,1.2608695652173914,0.0525286693312765,115.0,92.0,16.0,7.0,547
 1053,"I know it's a mirage, but what the hell.",1.2608695652173914,0.04953938331389631,115.0,90.0,20.0,5.0,547
 1053,Even my delusion is delusional.,1.2608695652173914,0.0525286693312765,115.0,92.0,16.0,7.0,547
-1053,"Truth is, I don't love a parade.",1.2608695652173914,0.04797494343742813,115.0,89.0,22.0,4.0,547
-1053,This once I hope it does rain on your parade.,1.2608695652173914,0.04797494343742813,115.0,89.0,22.0,4.0,547
+1053,"Truth is, I don't love a parade.",1.2608695652173914,0.047974943437428134,115.0,89.0,22.0,4.0,547
+1053,This once I hope it does rain on your parade.,1.2608695652173914,0.047974943437428134,115.0,89.0,22.0,4.0,547
 1053,That was a tricky set of turns,1.2608695652173914,0.0525286693312765,115.0,92.0,16.0,7.0,547
 1053,When is she going to pass the baton?,1.2608695652173914,0.05105590857499128,115.0,91.0,18.0,6.0,547
 1053,This mirage has much better legs than your typical distant pool of water.,1.2608695652173914,0.0525286693312765,115.0,92.0,16.0,7.0,547
@@ -1097,14 +1097,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1053,"Oh yeah, it's real. The hips don't lie.",1.2608695652173914,0.0525286693312765,115.0,92.0,16.0,7.0,547
 1053,She's making the desert great again.,1.2608695652173914,0.05105590857499128,115.0,91.0,18.0,6.0,547
 1053,"Don't worry, Pasadena is just over the next ridge.",1.2608695652173914,0.04635773825940722,115.0,88.0,24.0,3.0,547
-1053,I'm not so sure that's a dowsing rod.,1.2608695652173914,0.04797494343742813,115.0,89.0,22.0,4.0,547
+1053,I'm not so sure that's a dowsing rod.,1.2608695652173914,0.047974943437428134,115.0,89.0,22.0,4.0,547
 1053,It's worth it on the off-chance she's not a mirage.,1.2608695652173914,0.044682038843712,115.0,87.0,26.0,2.0,547
 1053,"Mirage? Ok, so what!",1.2608695652173914,0.0525286693312765,115.0,92.0,16.0,7.0,547
-1102,I hate to rain on your parade but what drum majorette?,1.2586206896551724,0.050663794155755185,116.0,92.0,18.0,6.0,547
+1102,I hate to rain on your parade but what drum majorette?,1.2586206896551724,0.05066379415575519,116.0,92.0,18.0,6.0,547
 1103,I wish she was waving a divining rod instead of a baton.,1.2566371681415929,0.04493773094102712,113.0,86.0,25.0,2.0,547
-1103,Did you notice the tuba player dropped out a while back?,1.2566371681415929,0.04832654847926018,113.0,88.0,21.0,4.0,547
+1103,Did you notice the tuba player dropped out a while back?,1.2566371681415929,0.048326548479260184,113.0,88.0,21.0,4.0,547
 1103,The good news is we've made it to halftime.,1.2566371681415929,0.051492823904971695,113.0,90.0,17.0,6.0,547
-1103,I didn't know band camp would be like this.,1.2566371681415929,0.04832654847926018,113.0,88.0,21.0,4.0,547
+1103,I didn't know band camp would be like this.,1.2566371681415929,0.048326548479260184,113.0,88.0,21.0,4.0,547
 1103,I believe we're out of step.,1.2566371681415929,0.04993478848271368,113.0,89.0,19.0,5.0,547
 1103,Keep going. It's only halftime.,1.2566371681415929,0.04493773094102712,113.0,86.0,25.0,2.0,547
 1103,"ya know, I still have that song stuck in my head.",1.2566371681415929,0.046662913271925226,113.0,87.0,23.0,3.0,547
@@ -1124,7 +1124,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1103,"I know she's not real, but the heels are a nice touch",1.2566371681415929,0.04993478848271368,113.0,89.0,19.0,5.0,547
 1103,"Seriously Bro, I think she's over you.",1.2566371681415929,0.04993478848271368,113.0,89.0,19.0,5.0,547
 1103,These Half-Time Shows keep getting longer and longer.,1.2566371681415929,0.046662913271925226,113.0,87.0,23.0,3.0,547
-1103,"I know, next time we use the GPS",1.2566371681415929,0.04832654847926018,113.0,88.0,21.0,4.0,547
+1103,"I know, next time we use the GPS",1.2566371681415929,0.048326548479260184,113.0,88.0,21.0,4.0,547
 1103,Are we sure it's a divining rod?,1.2566371681415929,0.04993478848271368,113.0,89.0,19.0,5.0,547
 1103,This has been an unusually warm march.,1.2566371681415929,0.053005082082791775,113.0,91.0,15.0,7.0,547
 1103,I'm hoping she's headed for River City.,1.2566371681415929,0.04993478848271368,113.0,89.0,19.0,5.0,547
@@ -1152,7 +1152,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1151,How can she walk in those heels?,1.25,0.04829792783018577,112.0,88.0,20.0,4.0,547
 1151,"Remember, we could be with the clown in the Himalayas",1.25,0.05455447255899809,112.0,92.0,12.0,8.0,547
 1151,"Wait, that doesn't look like a divining rod to me!",1.25,0.04993560847296239,112.0,89.0,18.0,5.0,547
-1151,"Naturally, the Arizona State game is on the road",1.25,0.04660273245009,112.0,87.0,22.0,3.0,547
+1151,"Naturally, the Arizona State game is on the road",1.25,0.046602732450089994,112.0,87.0,22.0,3.0,547
 1151,"To think--a couple weeks ago, I was holding down that BIG Snoopy balloon.",1.25,0.04993560847296239,112.0,89.0,18.0,5.0,547
 1151,We waited too long -- it'll be awkward if we tell her what happened to the rest of the band now.,1.25,0.05600951380850969,112.0,93.0,10.0,9.0,547
 1151,"I said, 'Dessert.'",1.25,0.05305954499725112,112.0,91.0,14.0,7.0,547
@@ -1531,8 +1531,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1472,Maybe we shouldn't have signed up to be Trumpettes?,1.2211538461538465,0.05104715777478713,104.0,86.0,13.0,5.0,547
 1472,Are you SURE this is the way to the promised land?...cause I am really thirsty,1.2211538461538465,0.04918440626354964,104.0,85.0,15.0,4.0,547
 1472,My wife suffers from water retention.,1.2211538461538465,0.05104715777478713,104.0,86.0,13.0,5.0,547
-1533,Maybe the water boy will be along next.,1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,547
-1533,Im starting to think there may not be a Santa float.,1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,547
+1533,Maybe the water boy will be along next.,1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,547
+1533,Im starting to think there may not be a Santa float.,1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,547
 1533,Maybe next time we should follow the band,1.220183486238532,0.041949191322226805,109.0,86.0,22.0,1.0,547
 1536,Now you sing - oh when the saints. It's not that difficult.,1.22,0.04623173950192375,100.0,80.0,18.0,2.0,547
 1536,My commitment to follow her anywhere is wearing thin.,1.22,0.04623173950192375,100.0,80.0,18.0,2.0,547
@@ -1553,14 +1553,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1547,So where the hell are those seventy-six trombones?,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
 1547,Stop talking or we'll never get a water break.,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
 1547,Who got her a Fitbit?,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
-1547,Whaddaya mean you don't love a parade?,1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
+1547,Whaddaya mean you don't love a parade?,1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
 1547,Nice ass,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
-1547,I used to love a parade but those days are long gone.,1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
+1547,I used to love a parade but those days are long gone.,1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
 1547,It's not easy being a Hillary cheerleader.,1.2135922330097086,0.054583352441672096,103.0,88.0,8.0,7.0,547
 1547,Did you say drum or dumb?,1.2135922330097086,0.0509765391682553,103.0,86.0,12.0,5.0,547
 1547,I was relieved someone else shares this fetish,1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
 1547,We have to stand up. She started singing the Star Spangled Banner.,1.2135922330097086,0.05281074658317405,103.0,87.0,10.0,6.0,547
-1547,We've gotta stay upbeat.,1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
+1547,We've gotta stay upbeat.,1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
 1547,Doreen is a natural leader. She just has to improve her situational awareness.,1.2135922330097086,0.0509765391682553,103.0,86.0,12.0,5.0,547
 1547,Rain prance.,1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
 1547,"Hey, at least we are going out in style.",1.2135922330097086,0.05281074658317405,103.0,87.0,10.0,6.0,547
@@ -1584,8 +1584,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1547,Just this once. What if it DID rain?,1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
 1547,"Since Palin '08, I find boots irresistible. What's your excuse.",1.2135922330097086,0.054583352441672096,103.0,88.0,8.0,7.0,547
 1547,We should have brought a GPS instead!,1.2135922330097086,0.0509765391682553,103.0,86.0,12.0,5.0,547
-1547,"Yessir, I'd go to the ends of the earth for her.",1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
-1547,At least we don't have to worry about stadium parking.,1.2135922330097086,0.040580420156460385,103.0,81.0,22.0,0.0,547
+1547,"Yessir, I'd go to the ends of the earth for her.",1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
+1547,At least we don't have to worry about stadium parking.,1.2135922330097086,0.04058042015646039,103.0,81.0,22.0,0.0,547
 1547,I see why Barbells with Betsy was 80 percent off on Groupon.,1.2135922330097086,0.0509765391682553,103.0,86.0,12.0,5.0,547
 1547,"We are on our way to Macy's, right?",1.2135922330097086,0.0509765391682553,103.0,86.0,12.0,5.0,547
 1547,It's left/right in unison.,1.2135922330097086,0.0509765391682553,103.0,86.0,12.0,5.0,547
@@ -1600,25 +1600,25 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1547,She can lead us to water but she can't make us drink.,1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
 1547,When we reach the stadium it's beer and hotdogs.,1.2135922330097086,0.0509765391682553,103.0,86.0,12.0,5.0,547
 1547,My agent said think Lawrence of Arabia.,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
-1547,And you said Fantasy Cheerleader Camp would be so fun.,1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
+1547,And you said Fantasy Cheerleader Camp would be so fun.,1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
 1547,Can you believe she got cut from cross country?,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
 1547,Who loves a parade more than us?,1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
 1547,Who cares if she's lying about the waterfall and the oasis - she's a great leader.,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
 1547,The show must go on.,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
-1547,Too bad there's only one more mile to go.,1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
-1547,How long is this halftime show?,1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
+1547,Too bad there's only one more mile to go.,1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
+1547,How long is this halftime show?,1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
 1547,"The lake was a bust, but no complaints about this mirage.",1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
-1547,"What part of ""follow me"" did we misunderstand?",1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
+1547,"What part of ""follow me"" did we misunderstand?",1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
 1547,Makes more sense than the Tabasco truck you had us follow.,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
 1547,"Except for the knobby knees, this mirage gets a 10.",1.2135922330097086,0.05281074658317405,103.0,87.0,10.0,6.0,547
 1547,It's the different drummer.,1.2135922330097086,0.0509765391682553,103.0,86.0,12.0,5.0,547
-1547,Are we getting close to Pasadena yet?,1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
+1547,Are we getting close to Pasadena yet?,1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
 1547,"I don't know, I dialed 911 and this is what they sent",1.2135922330097086,0.0509765391682553,103.0,86.0,12.0,5.0,547
 1547,"Jeez, can't she do anything slower than 2/2 time?",1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
 1547,Geez. By now I'd thought I'd be more thirsty than horny.,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
-1547,You're right. It is just like high school.,1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
+1547,You're right. It is just like high school.,1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
 1547,This is the only way to sneak into Canada.,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
-1547,Halftime seems like a lifetime ago.,1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
+1547,Halftime seems like a lifetime ago.,1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
 1547,We need to keep following her. She's the drum major for the Niagara Falls High School band.,1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
 1547,"You're dragging behind the beat, Ken.",1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
 1547,It's my mirage and I'll say Drum Majorette if I want...,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
@@ -1630,8 +1630,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1547,The leader of the sand,1.2135922330097086,0.0509765391682553,103.0,86.0,12.0,5.0,547
 1547,"Lucky for you I have ""Fall off your Float"" Road Service!",1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
 1547,"One time, at band camp...",1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
-1547,"No, really, she's better than a GPS.",1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
-1547,Do you think she has noticed us yet ?,1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
+1547,"No, really, she's better than a GPS.",1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
+1547,Do you think she has noticed us yet ?,1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
 1547,"Gosh, I love a parade.",1.2135922330097086,0.05281074658317405,103.0,87.0,10.0,6.0,547
 1547,When I said I'd follow her to the ends of the earth I didn't mean with her ex husband.,1.2135922330097086,0.0509765391682553,103.0,86.0,12.0,5.0,547
 1547,"Me? I started in high school, and I think I'll be at first base with her soon.",1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
@@ -1639,7 +1639,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1547,"She blew in my ear, and you?",1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
 1547,Do you think we can talk her into using that stick as a dowsing rod,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
 1547,Because Moses didn't have a baton.,1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
-1547,This is the first parade in my honor.,1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
+1547,This is the first parade in my honor.,1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
 1547,Halftime is almost over.,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
 1547,We seemed to have lost the rest of the band,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
 1547,"Yeah? Well, I think she's a LOUSY water diviner.",1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
@@ -1649,7 +1649,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1547,I can't keep in step anymore,1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
 1547,But would she follow you anywhere?,1.2135922330097086,0.05281074658317405,103.0,87.0,10.0,6.0,547
 1547,She gave the signal for Allegro. Quicken the pace.,1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
-1547,Where did we lose the band?,1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
+1547,Where did we lose the band?,1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
 1547,I really wish we had followed a different drum majorette.,1.2135922330097086,0.0509765391682553,103.0,86.0,12.0,5.0,547
 1547,"I say we give her two more dunes, max.",1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
 1547,That baton looked a lot like a water divining rod......,1.2135922330097086,0.05281074658317405,103.0,87.0,10.0,6.0,547
@@ -1661,7 +1661,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1547,Mirage? I thought you were following your instincts.,1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
 1547,Because it's shiny!,1.2135922330097086,0.04907382333253753,103.0,85.0,14.0,4.0,547
 1547,I think her candidacy led us astray,1.2135922330097086,0.054583352441672096,103.0,88.0,8.0,7.0,547
-1547,"Nice, but now pretend you're the Grand Marshal and we have a convertible to ride in.",1.2135922330097086,0.04502782826512933,103.0,83.0,18.0,2.0,547
+1547,"Nice, but now pretend you're the Grand Marshal and we have a convertible to ride in.",1.2135922330097086,0.045027828265129334,103.0,83.0,18.0,2.0,547
 1547,I lost my glockenspiel.,1.2135922330097086,0.04709429612355983,103.0,84.0,16.0,3.0,547
 1665,I think your wife is mocking us.,1.2115384615384617,0.04864304475885965,104.0,86.0,14.0,4.0,547
 1665,Tune in for next season's Survivor: Extreme Band Camp,1.2115384615384617,0.04668446536082761,104.0,85.0,16.0,3.0,547
@@ -1807,7 +1807,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1806,Should we tell him the band died an hour ago?,1.198019801980198,0.04878687126635612,101.0,85.0,12.0,4.0,547
 1807,She's going to make America great again.,1.1938775510204085,0.05160614749575165,98.0,84.0,9.0,5.0,547
 1807,Is she wearing thongs in your hallucination too?,1.1938775510204085,0.05160614749575165,98.0,84.0,9.0,5.0,547
-1807,Band. I said I wanted to be in the band.,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
+1807,Band. I said I wanted to be in the band.,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
 1807,It's the longest halftime I've ever been involved in.,1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,547
 1807,I'm beginning to think this is a mirage.,1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,547
 1807,I'm getting a funny feeling that following this leader will get us nowhere.,1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,547
@@ -1817,29 +1817,29 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1807,Do you think we've reached ten million steps yet?,1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,547
 1807,I'm beginning to think we're no longer marching straight to victory.,1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,547
 1807,She seemed so confident...,1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,547
-1807,When's day 40?,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
+1807,When's day 40?,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
 1807,Don't you know the difference between a mirage and an oasis??,1.1938775510204085,0.04268044887831023,98.0,80.0,17.0,1.0,547
 1807,She's gotta be from the Baton Death Marching Band.,1.1938775510204085,0.05160614749575165,98.0,84.0,9.0,5.0,547
 1807,It would have been easier to make the football team,1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,547
 1807,"I don't know how she does it either, but I'm following her until 2020.",1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,547
 1807,"I don't mind the crawling so much, but I kind of wish she would change up the tune a little more frequently.",1.1938775510204085,0.04268044887831023,98.0,80.0,17.0,1.0,547
-1807,Was this what they meant by marching to a different drummer?,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
+1807,Was this what they meant by marching to a different drummer?,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
 1807,This is so much better than that underwater yoga class.,1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,547
 1807,"OK, we’re not the lead dogs, but the view isn’t so bad.",1.1938775510204085,0.05160614749575165,98.0,84.0,9.0,5.0,547
 1807,I'm starting to think that's not a good dousing rod.,1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,547
-1807,"Somehow I'm not thirsty anymore. I told you, nobody rains on her parade!",1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
-1807,I'm with the band,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
+1807,"Somehow I'm not thirsty anymore. I told you, nobody rains on her parade!",1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
+1807,I'm with the band,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
 1807,This is the most existential CrossFit I've tried yet.,1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,547
 1807,Maybe marching to the beat of your own drum is a little overrated.,1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,547
 1807,She said it gets easier when the seasons change.,1.1938775510204085,0.05160614749575165,98.0,84.0,9.0,5.0,547
-1807,With those thighs I'd follow her anywhere.,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
+1807,With those thighs I'd follow her anywhere.,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
 1807,This is much more intimate than Burning Man.,1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,547
 1807,I've always been a fool for a baton.,1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,547
 1807,"What do you say now, Mr. Don't-rain-on-my-parade?",1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,547
 1807,I never thought it would end this way.,1.1938775510204085,0.05160614749575165,98.0,84.0,9.0,5.0,547
-1807,She said she knew where there was an oasis.,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
-1807,This is the longest half time march I can remember.,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
-1807,I knew I should have brought my trombone.,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
+1807,She said she knew where there was an oasis.,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
+1807,This is the longest half time march I can remember.,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
+1807,I knew I should have brought my trombone.,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
 1807,We'll get relief at halftime.,1.1938775510204085,0.0536058569102116,98.0,85.0,7.0,6.0,547
 1807,I hope it's a mirage.,1.1938775510204085,0.05160614749575165,98.0,84.0,9.0,5.0,547
 1807,"Really? I voted for Trump, too!",1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,547
@@ -1852,11 +1852,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1807,"If you think she knows where she’s going, where’s the rest of her band?",1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,547
 1807,This is so much better than following a sled dog.,1.1938775510204085,0.05160614749575165,98.0,84.0,9.0,5.0,547
 1807,"If I don't make it, tell them I died with a smile on my face.",1.1938775510204085,0.05160614749575165,98.0,84.0,9.0,5.0,547
-1807,Ok I give up- you can be first trombone.,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
+1807,Ok I give up- you can be first trombone.,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
 1807,"Why didn't she strike that rock with her stick, like Moses did, and get us some water?",1.1938775510204085,0.04268044887831023,98.0,80.0,17.0,1.0,547
-1807,Getting stuck behind a parade always makes me feel like I'm going to die.,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
+1807,Getting stuck behind a parade always makes me feel like I'm going to die.,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
 1807,I finally got it. It's left leg planted and right arm free!,1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,547
-1807,Make her rain on this parade.,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
+1807,Make her rain on this parade.,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
 1807,I don't mind waiting for a drink of water. I just want to see the rest of the band!,1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,547
 1807,She will have to stop when we reach the horizon.,1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,547
 1807,"Yes, I know she's crazy, but I still say she marches to the beat of her own drummer.",1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,547
@@ -1870,26 +1870,26 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1807,Some grand marshal *you* turned out to be.,1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,547
 1807,What happened to the 76 trombones?,1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,547
 1807,You can find just about anything on Craigslist.,1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,547
-1807,What is it about women with batons that makes me grovel?,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
-1807,"She puts the ""star"" in starvation.",1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
-1807,I like to think that I crawl to the beat of a different drummer.,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
+1807,What is it about women with batons that makes me grovel?,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
+1807,"She puts the ""star"" in starvation.",1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
+1807,I like to think that I crawl to the beat of a different drummer.,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
 1807,"I know your mirage is shimmering, but is it also high stepping?",1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,547
 1807,He's to hoping this parade gets rained on.,1.1938775510204085,0.0536058569102116,98.0,85.0,7.0,6.0,547
-1807,For the good old days of waterboarding.,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,547
+1807,For the good old days of waterboarding.,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,547
 1807,"Who knows why Siri sent the local twirling champ, but at least Apple maps avoided the rock outcrop.",1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,547
 1879,"Things could be worse, given the pomp and circumstances.",1.1919191919191918,0.04906204906204911,99.0,84.0,11.0,4.0,547
-1879,I think we march to the tune of a different drummer.,1.1919191919191918,0.05111973905892746,99.0,85.0,9.0,5.0,547
+1879,I think we march to the tune of a different drummer.,1.1919191919191918,0.051119739058927464,99.0,85.0,9.0,5.0,547
 1879,"Somehow, I think we've lost the parade route ....",1.1919191919191918,0.044663167505172234,99.0,82.0,15.0,2.0,547
 1879,She's marching to the sound of a different drummer,1.1919191919191918,0.04906204906204911,99.0,84.0,11.0,4.0,547
 1879,"Ya know what, Bullwinkle? This is the best mirage I've seen all week.",1.1919191919191918,0.04906204906204911,99.0,84.0,11.0,4.0,547
-1879,I hear she's besties with the Energizer Bunny.,1.1919191919191918,0.05111973905892746,99.0,85.0,9.0,5.0,547
+1879,I hear she's besties with the Energizer Bunny.,1.1919191919191918,0.051119739058927464,99.0,85.0,9.0,5.0,547
 1879,I'll take this over a GPS any day.,1.1919191919191918,0.04691419395962157,99.0,83.0,13.0,3.0,547
 1879,I used to love a parade!,1.1919191919191918,0.04691419395962157,99.0,83.0,13.0,3.0,547
 1879,This is not what she had in mind for her inaugural parade.,1.1919191919191918,0.04691419395962157,99.0,83.0,13.0,3.0,547
 1879,"She's cute, but this isn't the parade route",1.1919191919191918,0.04691419395962157,99.0,83.0,13.0,3.0,547
 1879,Guess we have our marching orders.,1.1919191919191918,0.04691419395962157,99.0,83.0,13.0,3.0,547
 1879,Doncha just love a parade?!,1.1919191919191918,0.04691419395962157,99.0,83.0,13.0,3.0,547
-1879,Beware the Ides of March,1.1919191919191918,0.05111973905892746,99.0,85.0,9.0,5.0,547
+1879,Beware the Ides of March,1.1919191919191918,0.051119739058927464,99.0,85.0,9.0,5.0,547
 1879,I'm thinking the whole Rain/Parade thing is a metaphor,1.1919191919191918,0.04691419395962157,99.0,83.0,13.0,3.0,547
 1879,I know it's an hallucination - the best one we've had so far - and what do we have to lose!?!,1.1919191919191918,0.04229249896032572,99.0,81.0,17.0,1.0,547
 1879,Thirty years in marching band. You?,1.1919191919191918,0.044663167505172234,99.0,82.0,15.0,2.0,547
@@ -1969,9 +1969,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1934,I also marched to my own drummer when I was young!,1.1789473684210523,0.0448437560484542,95.0,80.0,13.0,2.0,547
 1969,Crawl faster; we have to get to Pasadena by New Year's.,1.1770833333333333,0.04910334533809091,96.0,83.0,9.0,4.0,547
 1970,"'Once we're back on campus, we can change and get a bite to eat.'",1.1720430107526882,0.04221446145523712,93.0,78.0,14.0,1.0,547
-1970,And the band played on,1.1720430107526882,0.04983295122753079,93.0,81.0,8.0,4.0,547
+1970,And the band played on,1.1720430107526882,0.049832951227530786,93.0,81.0,8.0,4.0,547
 1970,Are you sure you want to keep following Trump's program?,1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
-1970,Remind me again why we chose the ceremonious dismissal.,1.1720430107526882,0.04983295122753079,93.0,81.0,8.0,4.0,547
+1970,Remind me again why we chose the ceremonious dismissal.,1.1720430107526882,0.049832951227530786,93.0,81.0,8.0,4.0,547
 1970,"Definitely, my kind of Pied Piper!",1.1720430107526882,0.04221446145523712,93.0,78.0,14.0,1.0,547
 1970,I've heard hallucinations lead to dehydration.,1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
 1970,"And here I am without my trombone, darnit!",1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
@@ -1979,7 +1979,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1970,Baton death march? Phooey! This ain't so bad.,1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
 1970,"Band leader? More like 'Sand Leader,' am I right?",1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
 1970,"She's got gorgeous gams, that's why.",1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
-1970,Are you sure that this is the way to the Rose Parade?,1.1720430107526882,0.04983295122753079,93.0,81.0,8.0,4.0,547
+1970,Are you sure that this is the way to the Rose Parade?,1.1720430107526882,0.049832951227530786,93.0,81.0,8.0,4.0,547
 1970,You gotta love her enthusiasm !,1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
 1970,I think we've got trouble right here in No River City.,1.1720430107526882,0.0521255898646917,93.0,82.0,6.0,5.0,547
 1970,You're out of crawl again.,1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
@@ -1988,9 +1988,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1970,"I said booster club, but it was your bright idea to join the marching band.",1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
 1970,Have you ever heard of the Pied Piper of Hamelin? I just have a feeling that this isn't going to end well...,1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
 1970,And I thought my sarge in Basic Training was tough.,1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
-1970,"If I told you what I saw, you would't even believe me.",1.1720430107526882,0.04983295122753079,93.0,81.0,8.0,4.0,547
+1970,"If I told you what I saw, you would't even believe me.",1.1720430107526882,0.049832951227530786,93.0,81.0,8.0,4.0,547
 1970,Simon says...STOP!,1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
-1970,This might be fun if we hadn't dropped our instruments 9 hours ago.,1.1720430107526882,0.04983295122753079,93.0,81.0,8.0,4.0,547
+1970,This might be fun if we hadn't dropped our instruments 9 hours ago.,1.1720430107526882,0.049832951227530786,93.0,81.0,8.0,4.0,547
 1970,No wonder why it never rains on her parade.,1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
 1970,Naw... you're halicinating. The 76 trombones fell out a long time ago!,1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
 1970,So what if she's a mirage? I've always been a sucker for a parade.,1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
@@ -2004,24 +2004,24 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1970,No charismatic leader has steered me wrong yet.,1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
 1970,"We're back to ""gams"" again, I think we have covered all the terms for legs we could think of.",1.1720430107526882,0.04221446145523712,93.0,78.0,14.0,1.0,547
 1970,"Hey Harvey, get back in step.",1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
-1970,"She's as lost as we are, but I choose to follow her out of bitterness and frustration.",1.1720430107526882,0.04983295122753079,93.0,81.0,8.0,4.0,547
+1970,"She's as lost as we are, but I choose to follow her out of bitterness and frustration.",1.1720430107526882,0.049832951227530786,93.0,81.0,8.0,4.0,547
 1970,Too bad we ditched the tubas.,1.1720430107526882,0.04221446145523712,93.0,78.0,14.0,1.0,547
 1970,"Back when the parade first started, she said her name is Hillary.",1.1720430107526882,0.0521255898646917,93.0,82.0,6.0,5.0,547
 1970,So the survivor gets WHAT again?,1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
 1970,Enough with the zig zagging.,1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
-1970,This way to make America great again!,1.1720430107526882,0.04983295122753079,93.0,81.0,8.0,4.0,547
+1970,This way to make America great again!,1.1720430107526882,0.049832951227530786,93.0,81.0,8.0,4.0,547
 1970,"No, those are not 'Go-Go boots', but they do evoke certain memories.",1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
 1970,"Can we stop at the next rest area, I really gotta go!",1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
 1970,I told you they'd divert the parade away from Trump Tower,1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
 1970,This must be that swamp he drained.,1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
 1970,And she looks so real.,1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
-1970,We should have made a left when the 76th trombone collapsed.,1.1720430107526882,0.04983295122753079,93.0,81.0,8.0,4.0,547
+1970,We should have made a left when the 76th trombone collapsed.,1.1720430107526882,0.049832951227530786,93.0,81.0,8.0,4.0,547
 1970,"No, its better than a mirage.",1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
 1970,"Trumps inauguration parade... ""I didn't vote for him...""",1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
 1970,She hardly sweats at all,1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
 1970,How far is it toTipperary?,1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
 1970,It can't be a mirage. We just crossed the 50 yard line.,1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
-1970,"Yep, he won.",1.1720430107526882,0.04983295122753079,93.0,81.0,8.0,4.0,547
+1970,"Yep, he won.",1.1720430107526882,0.049832951227530786,93.0,81.0,8.0,4.0,547
 1970,There were seventy-six of us and now not a single trombone can be heard.,1.1720430107526882,0.04221446145523712,93.0,78.0,14.0,1.0,547
 1970,Halftime . Hot dog?,1.1720430107526882,0.03934852812061861,93.0,77.0,16.0,0.0,547
 1970,"Slowly it's dawning on me. ""I'd follow that butt anywhere"" may have its drawbacks.",1.1720430107526882,0.0521255898646917,93.0,82.0,6.0,5.0,547
@@ -2039,7 +2039,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1970,I'm on the verge of total consciousness. Thanks Burning Man.,1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
 1970,At least one of us was properly hydrated.,1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
 1970,I know that tune. Do you remember the lyrics?,1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
-1970,We should have just followed him on Facebook.,1.1720430107526882,0.04983295122753079,93.0,81.0,8.0,4.0,547
+1970,We should have just followed him on Facebook.,1.1720430107526882,0.049832951227530786,93.0,81.0,8.0,4.0,547
 1970,Don't worry -- this causes rain every time.,1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
 1970,Lately I've felt that my life has more direction.,1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,547
 1970,"I have a good feeling about this. Before long, she'll lead us right to Macy's.",1.1720430107526882,0.044897826747541884,93.0,79.0,12.0,2.0,547
@@ -2241,12 +2241,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2239,"I don't know what's worse. The callouses on my knees, or the fact there's no music playing.",1.1612903225806452,0.04660097538803965,93.0,81.0,9.0,3.0,547
 2239,"You wouldn't think the acoustics out here would be this good, but, I've been wrong before!",1.1612903225806452,0.04660097538803965,93.0,81.0,9.0,3.0,547
 2239,"If this is Trump U.'s marching band, I'd hate to see the football team. #Sad",1.1612903225806452,0.04660097538803965,93.0,81.0,9.0,3.0,547
-2239,Anybody but Trump! Are you sure?,1.1612903225806452,0.044021549455012264,93.0,80.0,11.0,2.0,547
-2239,Apparently no one has ever finished this marathon before!,1.1612903225806452,0.044021549455012264,93.0,80.0,11.0,2.0,547
+2239,Anybody but Trump! Are you sure?,1.1612903225806452,0.04402154945501226,93.0,80.0,11.0,2.0,547
+2239,Apparently no one has ever finished this marathon before!,1.1612903225806452,0.04402154945501226,93.0,80.0,11.0,2.0,547
 2239,"So we clapped at Hamilton.Was that so bad?""",1.1612903225806452,0.04660097538803965,93.0,81.0,9.0,3.0,547
 2239,"This must be halftime, right?",1.1612903225806452,0.04128126361587668,93.0,79.0,13.0,1.0,547
 2239,Is it just me or does it seem like we’re going too far out of our way for a half-time show?,1.1612903225806452,0.04128126361587668,93.0,79.0,13.0,1.0,547
-2239,Tell me again. Why does the Cubs victory parade need to be a metaphor?,1.1612903225806452,0.044021549455012264,93.0,80.0,11.0,2.0,547
+2239,Tell me again. Why does the Cubs victory parade need to be a metaphor?,1.1612903225806452,0.04402154945501226,93.0,80.0,11.0,2.0,547
 2249,Why are we following her again?,1.1555555555555554,0.04444444444444449,90.0,78.0,10.0,2.0,547
 2249,I'm starting to think we should have followed a different beat.,1.1555555555555554,0.04444444444444449,90.0,78.0,10.0,2.0,547
 2249,"Actually, I don't think I'd object to naysayers raining on this particular parade any more.",1.1555555555555554,0.047169868900736205,90.0,79.0,8.0,3.0,547
@@ -2562,26 +2562,26 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2557,We should have turned at the trombone player.,1.1294117647058823,0.04670737108592652,85.0,77.0,5.0,3.0,547
 2557,Stick with it and someday you'll be as good a follower as I am.,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,"And of course, if that gets leaked, we'll say this conversation was locker-room talk",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
-2557,Does this make us 'sheeple'?,1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,Does this make us 'sheeple'?,1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,An original mirage! I love it!,1.1294117647058823,0.04670737108592652,85.0,77.0,5.0,3.0,547
 2557,Mine was a protest vote. You?,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,"Convivial tone this mirage, don't you think?",1.1294117647058823,0.04670737108592652,85.0,77.0,5.0,3.0,547
 2557,"OK, you were right, not too many Irish live in Death Valley....",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
-2557,"Of course that would have been easier, but I left my dowser in the car.",1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,"Of course that would have been easier, but I left my dowser in the car.",1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,She said she knew the way to Macy's and who are we to doubt her?,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,This Real Desert sightseeing tour seems a little bit orchestrated.,1.1294117647058823,0.04670737108592652,85.0,77.0,5.0,3.0,547
 2557,I think our supreme leader slightly misinterpreted what it means to keep calm and carry a big stick.,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,No one really wins a battle of the marching bands.,1.1294117647058823,0.04670737108592652,85.0,77.0,5.0,3.0,547
 2557,"This is one long game of ""Follow the Leader""",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,"This is my fuckin' fantasy, so what are you still doin' here?",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
-2557,Would people mistake us for camels from Google Earth?,1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,Would people mistake us for camels from Google Earth?,1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,"I bet we'd do better if we had batons, too!",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,"Wait, are we still protesting that guy?! Where is everyone?!",1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,I think we're finally on the right trail.,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,"I have to admit, this guy could shoot somebody in the middle of Fifth Avenue and I'd still follow him.",1.1294117647058823,0.04670737108592652,85.0,77.0,5.0,3.0,547
 2557,"At least you have an excuse, I'm a trumpet player!",1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,"That's where you are supposed to come in with the euphoniums, Charlie",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
-2557,I like where this new leader is taking us.,1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,I like where this new leader is taking us.,1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,"To be honest with you Ken, after following your hinder for the last three days I really don't care if it is a mirage or not.",1.1294117647058823,0.04670737108592652,85.0,77.0,5.0,3.0,547
 2557,Nothing is going to rain on *this* parade.,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,I haven't the heart to tell her that I still don't hear any trombones.,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
@@ -2602,14 +2602,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2557,"Actually, I still prefer deuces wild to follow the queen.",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,There must be good times with celebrations somewhere.,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,I guess the band music was a mirage after all.,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
-2557,She clearly marches to her own drum beat.,1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,She clearly marches to her own drum beat.,1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,Get ready...in six measures we spell out Chrysanthemum.,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,"Is it just me, or did we take a wrong turn off the football field?",1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,Seriously! Why did we have to park with the band?,1.1294117647058823,0.04961542661890928,85.0,78.0,3.0,4.0,547
 2557,"Forget the desert bowl, next year it's Pasadena or bust",1.1294117647058823,0.04670737108592652,85.0,77.0,5.0,3.0,547
-2557,"You and your, ""Let's be in a parade, it'll be fun"" crap!",1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
-2557,"I dropped my kazoo. You'll have to take over the next time she says, ""Strike up the band.""",1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
-2557,It's a major desert,1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,"You and your, ""Let's be in a parade, it'll be fun"" crap!",1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
+2557,"I dropped my kazoo. You'll have to take over the next time she says, ""Strike up the band.""",1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
+2557,It's a major desert,1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,"I'd try Uber, but my cell isn't showing any bars.",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,No doubt we've both fallen for her.,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,I hope you are happy with your vote! We're being led into the unknown.,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
@@ -2618,7 +2618,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2557,"You know, we'd never have got this service if we'd gone to a small, trendy liberal arts college.",1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,Stop singing 'Don't Rain on My Parade'!,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,She seemed really confident about heading this way.,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
-2557,Still think she knows where the waterhole is?,1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,Still think she knows where the waterhole is?,1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,I'm dying of thirst and now you're telling me he's really a mirage?,1.1294117647058823,0.04961542661890928,85.0,78.0,3.0,4.0,547
 2557,I'd say there's more chance of Trump being president than this being a mirage.,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,Thoreau said we should march to the beat of a different DRUMMER.,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
@@ -2631,7 +2631,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2557,Well it's a better view!,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,"Times like this, I wish I learnt how to play the tuba.",1.1294117647058823,0.04670737108592652,85.0,77.0,5.0,3.0,547
 2557,"At least, we don't have to carry those humongous bass drums anymore.",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
-2557,"I know you're thirsty, but don't rain on my parade.",1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,"I know you're thirsty, but don't rain on my parade.",1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,This is what we get for not paying the last pipe piper.,1.1294117647058823,0.04961542661890928,85.0,78.0,3.0,4.0,547
 2557,We knew better than to join that parade of climate change deniers. Why didn't we fight back when we had the chance??,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,I hope her GPS system is working.,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
@@ -2640,7 +2640,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2557,"Keep a-movin', Dan.",1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,"With white working class men behind her, I figure the sky's the limit.",1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,This can't be what it's all about Alfie.,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
-2557,"Stop bitching, Stan. We must be almost at the stadium by now.",1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,"Stop bitching, Stan. We must be almost at the stadium by now.",1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,I can't even recall what instruments were supposed to be playing!,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,I can still hear the band playing our swan song.,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,"So much for ""Give it a twirl""!",1.1294117647058823,0.04670737108592652,85.0,77.0,5.0,3.0,547
@@ -2671,30 +2671,30 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2557,Is this your mirage or mine? and will she lead us to water?,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,Her cup is half full.,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,I didnt support Trump after the audio tape. You?,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
-2557,She promised Gatorade once halftime ends.,1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,She promised Gatorade once halftime ends.,1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,"Have faith. She's cheer leader, rain dancer, water diviner all rolled into one!",1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,"Woo hoo, we left the marchers in the dust!",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,"Ok, who told you she could do a rain dance?",1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,If we stay close to her we won't get run over by the band.,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,At least there's a cloud in the sky...,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
-2557,"No matter what, I'm still with her!",1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,"No matter what, I'm still with her!",1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,They're calling it a Post-Truth Parade.,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,Remember? Yesterday she had on riding boots!,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,She promise you drumsticks too?,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,So what are we supposed to be celebrating?,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
-2557,You think all of this is really worth it for free David Copperfield tickets?,1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,You think all of this is really worth it for free David Copperfield tickets?,1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,"So When do we get to dot the ""I""?",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
-2557,"Frankly, I'd enjoy this mirage more if it came with actual marching band music.",1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,"Frankly, I'd enjoy this mirage more if it came with actual marching band music.",1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,He thinks we're going to Burning Man.,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,"Submit what they will, those captions should all boil down to, ""I hate her.""",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,"Frankly, I was hoping for an ice-cream float.",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,"With those tiny hands, I keep expecting him to drop the baton. But no.",1.1294117647058823,0.04670737108592652,85.0,77.0,5.0,3.0,547
-2557,I'm betting it rains on this parade.,1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,I'm betting it rains on this parade.,1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,"A plan to lead us out of despair, a relentlessly upbeat persona--and killer legs, to boot; now THIS is your first female President of the United States!",1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,"I don't know about you, Randy--but nothing gets me up and moving like the Washington Post March!!!",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,"I know, I know, but his marching band was huge and bigly successful.",1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,"I have to tell you, I'll be very disappointed if there is no marching band at the end of this.",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
-2557,These off-the-strip Vegas shows aren't half bad.,1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,547
+2557,These off-the-strip Vegas shows aren't half bad.,1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,547
 2557,Do you think the parade will be over in time for the Homecoming Dance?,1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,547
 2557,"You're still not in sync! Do as I say, not as I do. It's 1,2,3,4, 1,2,3,4. Not 1,2, 1,2.",1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
 2557,"""Times like this I wish I had Donald Trumps energy"".",1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,547
@@ -3002,29 +3002,29 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2925,I am sure she will lead us to the Macy's Thanksgiving Day parade,1.1,0.03375263702778069,80.0,72.0,8.0,0.0,547
 2925,We gotta start a 'Fund-Me-Page' for a tour bus.,1.1,0.03375263702778069,80.0,72.0,8.0,0.0,547
 3003,I can almost see the end.,1.0987654320987654,0.03335618786692912,81.0,73.0,8.0,0.0,547
-3003,I get the feeling they're making fun of us.,1.0987654320987654,0.037699830826178934,81.0,74.0,6.0,1.0,547
-3003,What do you think of the band program?,1.0987654320987654,0.037699830826178934,81.0,74.0,6.0,1.0,547
-3003,She's marching to the beat of her own drum we should have turned around long ago.,1.0987654320987654,0.037699830826178934,81.0,74.0,6.0,1.0,547
-3003,Just because you liked the way she looked didn't mean we had to follow her.,1.0987654320987654,0.037699830826178934,81.0,74.0,6.0,1.0,547
-3003,"Well look on the bright side. If she doesn't lead us to water at least we got our aerobic exercise in for this week. OR ""I'm a real sucker for a woman with leadership qualities.""",1.0987654320987654,0.037699830826178934,81.0,74.0,6.0,1.0,547
+3003,I get the feeling they're making fun of us.,1.0987654320987654,0.03769983082617893,81.0,74.0,6.0,1.0,547
+3003,What do you think of the band program?,1.0987654320987654,0.03769983082617893,81.0,74.0,6.0,1.0,547
+3003,She's marching to the beat of her own drum we should have turned around long ago.,1.0987654320987654,0.03769983082617893,81.0,74.0,6.0,1.0,547
+3003,Just because you liked the way she looked didn't mean we had to follow her.,1.0987654320987654,0.03769983082617893,81.0,74.0,6.0,1.0,547
+3003,"Well look on the bright side. If she doesn't lead us to water at least we got our aerobic exercise in for this week. OR ""I'm a real sucker for a woman with leadership qualities.""",1.0987654320987654,0.03769983082617893,81.0,74.0,6.0,1.0,547
 3003,"I divorced her 5 years ago.” “I did, 2 years ago.",1.0987654320987654,0.04159229759980991,81.0,75.0,4.0,2.0,547
 3003,Let's change to a gymnast,1.0987654320987654,0.03335618786692912,81.0,73.0,8.0,0.0,547
-3003,He's less mirage and more dressage.,1.0987654320987654,0.037699830826178934,81.0,74.0,6.0,1.0,547
-3003,Did you find your keys yet?,1.0987654320987654,0.037699830826178934,81.0,74.0,6.0,1.0,547
+3003,He's less mirage and more dressage.,1.0987654320987654,0.03769983082617893,81.0,74.0,6.0,1.0,547
+3003,Did you find your keys yet?,1.0987654320987654,0.03769983082617893,81.0,74.0,6.0,1.0,547
 3003,"she did say yes to the ""wet bar""",1.0987654320987654,0.04159229759980991,81.0,75.0,4.0,2.0,547
-3003,"If you can't help carrying on about her height, at least use a different metaphor.",1.0987654320987654,0.037699830826178934,81.0,74.0,6.0,1.0,547
+3003,"If you can't help carrying on about her height, at least use a different metaphor.",1.0987654320987654,0.03769983082617893,81.0,74.0,6.0,1.0,547
 3003,"My piccolo is uncomfortable, how's your tuba?",1.0987654320987654,0.03335618786692912,81.0,73.0,8.0,0.0,547
 3003,Damn GPS needs updated maps,1.0987654320987654,0.03335618786692912,81.0,73.0,8.0,0.0,547
 3003,The Pied Piper lacked ambition.,1.0987654320987654,0.03335618786692912,81.0,73.0,8.0,0.0,547
 3003,She's a walking ad for a gluten free diet.,1.0987654320987654,0.03335618786692912,81.0,73.0,8.0,0.0,547
 3003,I knew we should have made that right turn at Albuquerque.,1.0987654320987654,0.04159229759980991,81.0,75.0,4.0,2.0,547
-3003,These mirages are becoming annoying.,1.0987654320987654,0.037699830826178934,81.0,74.0,6.0,1.0,547
+3003,These mirages are becoming annoying.,1.0987654320987654,0.03769983082617893,81.0,74.0,6.0,1.0,547
 3003,Should we ask her to please straighten it out?,1.0987654320987654,0.03335618786692912,81.0,73.0,8.0,0.0,547
-3003,I believe the institution of 'rock-paper-scissors' was invented precisely for occasions like this.,1.0987654320987654,0.037699830826178934,81.0,74.0,6.0,1.0,547
-3003,Forget Jesus. We'll take her over him any day!,1.0987654320987654,0.037699830826178934,81.0,74.0,6.0,1.0,547
+3003,I believe the institution of 'rock-paper-scissors' was invented precisely for occasions like this.,1.0987654320987654,0.03769983082617893,81.0,74.0,6.0,1.0,547
+3003,Forget Jesus. We'll take her over him any day!,1.0987654320987654,0.03769983082617893,81.0,74.0,6.0,1.0,547
 3003,They said they were sending a Sandpiper to get us out of here.,1.0987654320987654,0.03335618786692912,81.0,73.0,8.0,0.0,547
 3003,My Facebook feed says we're winning. And I think I see our old jobs out there in the distance.,1.0987654320987654,0.04159229759980991,81.0,75.0,4.0,2.0,547
-3003,I think she is a Drum Mirage,1.0987654320987654,0.037699830826178934,81.0,74.0,6.0,1.0,547
+3003,I think she is a Drum Mirage,1.0987654320987654,0.03769983082617893,81.0,74.0,6.0,1.0,547
 3027,Ah! Butt-shade on parade!,1.0886075949367089,0.041042379668201436,79.0,74.0,3.0,2.0,547
 3027,"At the time, she seemed to boost our level of confidence to lead us out.",1.0886075949367089,0.032176653635556565,79.0,72.0,7.0,0.0,547
 3027,"Wow, where was this little gem when we were agonizing over the Pantsuit and the Comb Over?",1.0886075949367089,0.03687691668246797,79.0,73.0,5.0,1.0,547
@@ -3456,105 +3456,105 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3449,"Let's revolt, he's just a jester.",1.054054054054054,0.03272116325790883,74.0,71.0,2.0,1.0,547
 3456,"Drum stick, drum major. Dessert, desert? What's next ... Cranberry Lake?",1.0422535211267605,0.02404405512481236,71.0,68.0,3.0,0.0,547
 3457,Ain't no rattlesnakes on a parade route ... dummy!,1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,"You can lead trombonists to a sand dune, but you can’t get ‘em in tune.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"If we don't beat State this year, I give up",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,So this is what they meant by 'Where band camp meets fat camp' ?,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,I have to believe the rest of the Rockettes have a pastrami on rye,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,Were we supposed to vote?,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,Why did we make a pit stop at the clothing store again?,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,What I think my dating life is like..,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,The blowhard probably won't even kill Snowden.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"I knew she was tough when I dropped my piccolo from exhaustion and she said, ""March on!""",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,Liberty's a lot smaller close up.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"Onwards, gentlemen!",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,"You can lead trombonists to a sand dune, but you can’t get ‘em in tune.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"If we don't beat State this year, I give up",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,So this is what they meant by 'Where band camp meets fat camp' ?,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,I have to believe the rest of the Rockettes have a pastrami on rye,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,Were we supposed to vote?,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,Why did we make a pit stop at the clothing store again?,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,What I think my dating life is like..,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,The blowhard probably won't even kill Snowden.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"I knew she was tough when I dropped my piccolo from exhaustion and she said, ""March on!""",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,Liberty's a lot smaller close up.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"Onwards, gentlemen!",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,"World record? It was a world record after I listened to another rendition of ""Call Me Maybe"".",1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,"I don't know how ""Lawrence of Arabia"" put up with this.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,Maybe we'll finally have a reason to like bands.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,Trumporoaridians Giving,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,"I don't know how ""Lawrence of Arabia"" put up with this.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,Maybe we'll finally have a reason to like bands.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,Trumporoaridians Giving,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,Didn't she use to be the pied piper's brother?,1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,Regret all the trombones dropped out,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,I'll never make it to the next watering hole if I have to keep being the tuba guy.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"Mom, all I wanted was a Pepsi.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,Oh. A cis-gendered?,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"""I hope we make it by Easter"".",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,It was something about Bette Midler at the Shubert.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"When she lights it on fire, careful, its warm.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,Regret all the trombones dropped out,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,I'll never make it to the next watering hole if I have to keep being the tuba guy.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"Mom, all I wanted was a Pepsi.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,Oh. A cis-gendered?,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"""I hope we make it by Easter"".",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,It was something about Bette Midler at the Shubert.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"When she lights it on fire, careful, its warm.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,"I admit I don't understand women, but do you think she understands us?",1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,I think she’s serious about us marching behind her.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,She gonna let us smash right?,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,He's certainly an entertainer's entertainer.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,Obviously she knows the way to the ice cone stand.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,I think she’s serious about us marching behind her.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,She gonna let us smash right?,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,He's certainly an entertainer's entertainer.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,Obviously she knows the way to the ice cone stand.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,She's not very encouraging.,1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,"It was a little weird at first, but he's starting to grow on me.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,I told you she was married !,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,she is a mirage. I saw her first.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,When do the roses start coming up?,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,Rumor has it that she's a cinch for Miss Congeniality.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,did we really start this game when we were 6?,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,"It was a little weird at first, but he's starting to grow on me.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,I told you she was married !,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,she is a mirage. I saw her first.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,When do the roses start coming up?,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,Rumor has it that she's a cinch for Miss Congeniality.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,did we really start this game when we were 6?,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,"She's hasn't bathed, either; we're the real Saints 'crawling' in.",1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,"Ironically, she once told me she was wet for me in high school.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,"Ironically, she once told me she was wet for me in high school.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,She may be leading us to a safe place.,1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
 3457,The 'black parade' is a little shorter than I expected.,1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,Good is that Mohegan is winning at half time!,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"Stay in step with her, or she'll not find the water",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,Good is that Mohegan is winning at half time!,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"Stay in step with her, or she'll not find the water",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,I told you I can pick a winner.,1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,A baton and some high-stepping boots could make this more fun.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,I'm a firm believer that early support reaps political post rewards - go Hillary 2020!,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"Personally, I prefer culture to water.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,The vast majority of The New Yorker cartoon captions (if not all but a few) are either not funny or just plain idiotic. Hopefully she's leading us to something funny this time because I'm really thirsty for it.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,look at the massive popular vote.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,Everybody's spelling by ear these days.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,A baton and some high-stepping boots could make this more fun.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,I'm a firm believer that early support reaps political post rewards - go Hillary 2020!,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"Personally, I prefer culture to water.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,The vast majority of The New Yorker cartoon captions (if not all but a few) are either not funny or just plain idiotic. Hopefully she's leading us to something funny this time because I'm really thirsty for it.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,look at the massive popular vote.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,Everybody's spelling by ear these days.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,"It's ""crawl through glass"" and it's just an expression.",1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,What difference does it make whether it's Thirsty Thursday or we're in the Dying of Thirst Parade?,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,This would be a lot more fun if it wasn't the dead of winter!,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,From this angle I'm sure it's Sylvia from our marching band days.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,We almost got him!,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,I still wouldn't vote for her.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"She's out of control! If you hold her, I'll go back and get the other band members.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,We're a shoe-in for the superbowl!,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,What difference does it make whether it's Thirsty Thursday or we're in the Dying of Thirst Parade?,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,This would be a lot more fun if it wasn't the dead of winter!,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,From this angle I'm sure it's Sylvia from our marching band days.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,We almost got him!,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,I still wouldn't vote for her.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"She's out of control! If you hold her, I'll go back and get the other band members.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,We're a shoe-in for the superbowl!,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,"Does this marching ""virtuoso"" also have a dowsing rod in hand?",1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,I love a parade. (A couple of musical notes would work to indicate singing. I don't know this character on my computer.),1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,I love a parade. (A couple of musical notes would work to indicate singing. I don't know this character on my computer.),1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,I can see the line leading to the box office.,1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
 3457,Without feathers or horns we're in a strange band of mate selection.,1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,"The ""Lawrence of Arabia"" theme translates well to marching band, don't you think?",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,"The ""Lawrence of Arabia"" theme translates well to marching band, don't you think?",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,Will you please consult with me before suggesting her a costume next Halloween?,1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
 3457,How many electoral votes do we have?,1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,Her own drummer thinks she's off-beat(.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"She has such a confident marching step, so I decided to follow her. How about you?",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,Where's the nearest Applebee's?,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"He told us he was taking home, isnt't home the other way though?",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,It's your turn to go fetch.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,Her own drummer thinks she's off-beat(.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"She has such a confident marching step, so I decided to follow her. How about you?",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,Where's the nearest Applebee's?,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"He told us he was taking home, isnt't home the other way though?",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,It's your turn to go fetch.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,I'm really starting to hate such a gung-ho leader...,1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,He promised to make a great parade and it sure is.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"WHAT HAPPENED, ISN'T THIS THE THANKSGIVING DAY PARADE?",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"Frank, I TOLD you not to play that Ethel Merman CD on the way to our desert trip!",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,When are you going to tell her this is not the way to the RosevBowl?,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,You're wrong. He did not graduate from the Academy.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,What's a leader without their peasant?,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,This is the best turnout for the ultimate parade yet!,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"Those are best marching band shoes they're Dinkles, I can tell. You must be hallucinating Sam, those shoes are definitely Speedsters. Just look at the polish.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,I think we were supposed to make a left.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,TGIF,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,I want first bid on the juicy lips.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,Is the 'American Parade' great again yet?,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"Sure, she marches to her own drummer, but we're nothing but a couple of lemmings.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,He promised to make a great parade and it sure is.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"WHAT HAPPENED, ISN'T THIS THE THANKSGIVING DAY PARADE?",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"Frank, I TOLD you not to play that Ethel Merman CD on the way to our desert trip!",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,When are you going to tell her this is not the way to the RosevBowl?,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,You're wrong. He did not graduate from the Academy.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,What's a leader without their peasant?,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,This is the best turnout for the ultimate parade yet!,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"Those are best marching band shoes they're Dinkles, I can tell. You must be hallucinating Sam, those shoes are definitely Speedsters. Just look at the polish.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,I think we were supposed to make a left.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,TGIF,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,I want first bid on the juicy lips.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,Is the 'American Parade' great again yet?,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"Sure, she marches to her own drummer, but we're nothing but a couple of lemmings.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,With a capital T,1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,"Grim reaper means you're dying, what does it mean when you see a majorette? Sorry man, same thing.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"I said heat, not beat!",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,Wow!...to think I've been doing this commute for years now and never even knew about the cheerleader option!,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"They say imitation is a form of flattery.... I dunno, I'm not feeling it.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,I don't think you're properly dressed for this.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"Caption for 11/21 issue: Well, Marty, if you weren't pouting, you could be enjoying the dolphin show.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,"Grim reaper means you're dying, what does it mean when you see a majorette? Sorry man, same thing.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"I said heat, not beat!",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,Wow!...to think I've been doing this commute for years now and never even knew about the cheerleader option!,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"They say imitation is a form of flattery.... I dunno, I'm not feeling it.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,I don't think you're properly dressed for this.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"Caption for 11/21 issue: Well, Marty, if you weren't pouting, you could be enjoying the dolphin show.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,"rata dadada rata circuse, come on guys stop crawling around.",1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,arriere pensee the errand. laconically rein mirage.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,arriere pensee the errand. laconically rein mirage.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,I liked it better before Godot showed up.,1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,"Jerry,do you really want to be a cheerleader that bad?...",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"please, Harry, just say the safe word"" ""I thought you had it",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"Bando is way better than TaeBo; you think you won’t lose weight, but You Will Lose Weight.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,"Jerry,do you really want to be a cheerleader that bad?...",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"please, Harry, just say the safe word"" ""I thought you had it",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"Bando is way better than TaeBo; you think you won’t lose weight, but You Will Lose Weight.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,"I love the optimism of this desert. 9/10, would crawl across again.",1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
-3457,Yeah...she promised there would still be Trump rallies.,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,Of course I believe the band will have water!,1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
-3457,"It's not a mirage, it's a farage.",1.0416666666666667,0.02371502036523093,72.0,69.0,3.0,0.0,547
+3457,Yeah...she promised there would still be Trump rallies.,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,Of course I believe the band will have water!,1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
+3457,"It's not a mirage, it's a farage.",1.0416666666666667,0.023715020365230932,72.0,69.0,3.0,0.0,547
 3457,What band? Was there a band? Must've played on!,1.0416666666666667,0.03088103783315228,72.0,70.0,1.0,1.0,547
 3558,"The band is still on the parade grounds,",1.0410958904109588,0.02339486476246485,73.0,70.0,3.0,0.0,547
 3559,I wondered what it takes to win the cartoon caption contest but a joining a desert parade seems as looney as naming the poetry,1.0285714285714285,0.020056117661801005,70.0,68.0,2.0,0.0,547

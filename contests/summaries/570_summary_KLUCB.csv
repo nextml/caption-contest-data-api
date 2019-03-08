@@ -1,7 +1,7 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
-1,You shouldn't have opened that can of worms.,1.968568102444703,0.019225463195658,1718.0,573.0,626.0,519.0,570
+1,You shouldn't have opened that can of worms.,1.968568102444703,0.019225463195658002,1718.0,573.0,626.0,519.0,570
 2,You might want to rethink your ringtone,1.967373572593801,0.018170912279932245,1839.0,589.0,721.0,529.0,570
-3,"Normally, one in the hand is sufficient.",1.9192913385826769,0.019877395518492692,1524.0,525.0,597.0,402.0,570
+3,"Normally, one in the hand is sufficient.",1.9192913385826769,0.01987739551849269,1524.0,525.0,597.0,402.0,570
 4,"It could be worse, squirrels would be after your nuts.",1.9001426533523536,0.02213089458703953,1402.0,558.0,426.0,418.0,570
 5,THE St. Francis?,1.8638170974155068,0.025323304230396408,1006.0,402.0,339.0,265.0,570
 6,You have got to stop tweeting.,1.8572428271518544,0.0208473860833048,1429.0,560.0,513.0,356.0,570
@@ -32,7 +32,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 31,Do they bother you ?,1.573643410852713,0.03201514887947267,645.0,409.0,102.0,134.0,570
 32,Do you mind. I came here to get away from incessant tweeting.,1.5692307692307692,0.0295066443596886,585.0,329.0,179.0,77.0,570
 33,Try meowing.,1.5665722379603402,0.038343646925249136,353.0,201.0,104.0,48.0,570
-34,Good thing they aren't woodpeckers.,1.5652173913043481,0.029664706053087526,552.0,306.0,180.0,66.0,570
+34,Good thing they aren't woodpeckers.,1.565217391304348,0.029664706053087526,552.0,306.0,180.0,66.0,570
 35,It hurts a little more than the fish pedicure,1.5613382899628252,0.032249760646896684,538.0,320.0,134.0,84.0,570
 36,So...you’re from Capistrano?,1.5612582781456954,0.028735167851817657,604.0,341.0,187.0,76.0,570
 37,You're a chick magnet.,1.5602716468590832,0.029875175664674843,589.0,341.0,166.0,82.0,570
@@ -52,9 +52,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 51,There is a downside to being statuesque,1.5324384787472036,0.033465966555856555,447.0,265.0,126.0,56.0,570
 52,"This is not the best way to hide from the special prosecutor, Mr. President",1.5283018867924532,0.0362485110736494,424.0,265.0,94.0,65.0,570
 53,That's what you get for being statuesque,1.5253456221198156,0.0328038280447446,434.0,253.0,134.0,47.0,570
-54,How does it feel to be #1 in the pecking order?,1.5143603133159267,0.03523804101997121,383.0,229.0,111.0,43.0,570
+54,How does it feel to be #1 in the pecking order?,1.514360313315927,0.03523804101997121,383.0,229.0,111.0,43.0,570
 55,That's the reason I always sit on this side of the bench.,1.5116959064327486,0.037892783133717536,342.0,208.0,93.0,41.0,570
-56,Definitely don't feed the squirrels.,1.5079365079365081,0.039551903056456214,315.0,193.0,84.0,38.0,570
+56,Definitely don't feed the squirrels.,1.507936507936508,0.03955190305645621,315.0,193.0,84.0,38.0,570
 57,No politician in history - and I say this with great surety - has ever been more popular with the pigeons than you sir.,1.5068493150684932,0.036933576750941804,365.0,225.0,95.0,45.0,570
 58,I see there's a downside to being statuesque.,1.5054945054945057,0.03639161958059338,364.0,222.0,100.0,42.0,570
 59,"Jeez, get a coop.",1.504950495049505,0.04125521822258139,303.0,190.0,73.0,40.0,570
@@ -69,7 +69,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 68,"Yes, and it's also true that birds of a feather poop together.",1.4869565217391305,0.04558771113986795,230.0,144.0,60.0,26.0,570
 69,I thought you looked a little seedy today...,1.4857142857142858,0.08326379825927928,70.0,44.0,18.0,8.0,570
 70,CUT !!!. The script says 'pecking' not 'landing'.,1.4852459016393442,0.04208023768668717,305.0,201.0,60.0,44.0,570
-71,Don't worry. It says here they're migratory.,1.4820717131474104,0.042748094286017814,251.0,156.0,69.0,26.0,570
+71,Don't worry. It says here they're migratory.,1.4820717131474104,0.04274809428601781,251.0,156.0,69.0,26.0,570
 72,Stoolie Conference?,1.4794520547945205,0.03954453898559082,292.0,182.0,80.0,30.0,570
 73,Carol mentioned that you started tweeting. How's it going?,1.4775086505190311,0.03983937349366594,289.0,181.0,78.0,30.0,570
 74,At least it's not bees.,1.4771929824561405,0.039314259506798406,285.0,176.0,82.0,27.0,570
@@ -93,7 +93,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 92,Mr. Hitchcock?,1.4482758620689655,0.04349353268185457,232.0,150.0,60.0,22.0,570
 92,I stopped sitting there for that very reason,1.4482758620689655,0.04788895518165778,174.0,109.0,52.0,13.0,570
 92,Have you tried spreading it on the ground?,1.4482758620689655,0.04349353268185457,232.0,150.0,60.0,22.0,570
-95,That superglue spray gets 'em every time.,1.4478260869565218,0.049079994807723334,230.0,162.0,33.0,35.0,570
+95,That superglue spray gets 'em every time.,1.4478260869565218,0.04907999480772333,230.0,162.0,33.0,35.0,570
 95,Just be glad I didn't tell you about the bees.,1.4478260869565218,0.043327058139575485,230.0,148.0,61.0,21.0,570
 97,"Good news: they're curious, friendly birds native to these parts. Bad news: it's mating season.",1.4449339207048455,0.043272095519957074,227.0,146.0,61.0,20.0,570
 97,I bring a book so they don't bother me.,1.4449339207048455,0.045468653214983286,227.0,151.0,51.0,25.0,570
@@ -101,7 +101,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 99,I guess the owl sweater's not working.,1.4444444444444444,0.04619565781223888,225.0,151.0,48.0,26.0,570
 101,"I'm afraid the press corps has spotted you, Mr. Spicer.",1.440909090909091,0.04739626066196344,220.0,150.0,43.0,27.0,570
 102,Fine. You're the Prince of Peace. Happy now?,1.4404145077720207,0.04970898873523722,193.0,130.0,41.0,22.0,570
-103,"""Two in the bush"" is looking pretty good right now, eh?",1.4403669724770642,0.044983583922598866,218.0,143.0,54.0,21.0,570
+103,"""Two in the bush"" is looking pretty good right now, eh?",1.4403669724770642,0.04498358392259887,218.0,143.0,54.0,21.0,570
 104,I take it you're not a cat person.,1.4388888888888889,0.047379425776339336,180.0,115.0,51.0,14.0,570
 105,It’s fun until the woodpeckers show up.,1.4375,0.04764582191073776,192.0,126.0,48.0,18.0,570
 106,"Hey, a superpower is a superpower.",1.4371257485029942,0.05134712923344993,167.0,110.0,41.0,16.0,570
@@ -136,7 +136,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 135,Sorry. Wrong spell.,1.4117647058823528,0.05604912380876679,153.0,108.0,27.0,18.0,570
 136,Maybe sunflower seeds are more of an indoor snack?,1.4111111111111112,0.049068852225994296,180.0,123.0,40.0,17.0,570
 136,"If they see you reading, they leave you alone.",1.4111111111111112,0.04843221048378525,180.0,122.0,42.0,16.0,570
-136,You may want to think about tweeting less.,1.4111111111111112,0.05153683386180818,180.0,127.0,32.0,21.0,570
+136,You may want to think about tweeting less.,1.4111111111111112,0.051536833861808184,180.0,127.0,32.0,21.0,570
 139,"Oh, I wouldn't sit there.",1.4110429447852757,0.05274417640211946,163.0,113.0,33.0,17.0,570
 140,"They're gone, Spicer. You can come out.",1.409356725146199,0.04954038122434037,171.0,116.0,40.0,15.0,570
 141,"Hello, my name is Bill, and I'm an empty nester.",1.4090909090909092,0.04919661538928781,176.0,120.0,40.0,16.0,570
@@ -145,12 +145,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 144,You say this started when you were in Alcatraz,1.4069767441860466,0.0506692688899172,172.0,119.0,36.0,17.0,570
 145,I have the most birds. The hugest flock. Bigger than ever before. They love me more.,1.4064516129032258,0.05545015099505872,155.0,110.0,27.0,18.0,570
 146,"The manual only says how to call them, not how to send them away.",1.40625,0.05038911092686594,160.0,108.0,39.0,13.0,570
-146,Well the book says 'Mainly seeds and small insects.',1.40625,0.05192586257735653,160.0,110.0,35.0,15.0,570
+146,Well the book says 'Mainly seeds and small insects.',1.40625,0.051925862577356534,160.0,110.0,35.0,15.0,570
 148,Tuppence for your thoughts.,1.4025157232704402,0.05134873599330073,159.0,109.0,36.0,14.0,570
 149,You're wearing that to the Met Gala?,1.4012345679012346,0.055700209567365794,162.0,118.0,23.0,21.0,570
 150,Those Tweets always come back to bite you,1.401197604790419,0.051005247377575634,167.0,116.0,35.0,16.0,570
 151,Looks like you're trending.,1.4,0.05143901159883032,165.0,115.0,34.0,16.0,570
-151,They're coming home to Proust.,1.4,0.048480228900398534,165.0,111.0,42.0,12.0,570
+151,They're coming home to Proust.,1.4,0.04848022890039853,165.0,111.0,42.0,12.0,570
 153,Mom warned me about the seedy characters I'd meet in the park.,1.3987730061349692,0.04887577851463764,163.0,110.0,41.0,12.0,570
 153,"Women, Larry. When I said 'chicks' I meant women.",1.3987730061349692,0.05114746143777525,163.0,113.0,35.0,15.0,570
 153,That's why I don't tweet.,1.3987730061349692,0.05114746143777525,163.0,113.0,35.0,15.0,570
@@ -202,7 +202,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 195,"So by my count, that's worth about 1,000 birds in the bush.",1.3714285714285714,0.05301094259902495,140.0,99.0,30.0,11.0,570
 202,"Apparently you don't need a computer to play ""Angry Birds"".",1.3695652173913044,0.05150448567343946,138.0,96.0,33.0,9.0,570
 202,I guess you won the popular vote.,1.3695652173913044,0.055460419541088164,138.0,100.0,25.0,13.0,570
-204,"Don't know if you care, but there are geese heading this way.",1.3688524590163935,0.057260803139905,122.0,87.0,25.0,10.0,570
+204,"Don't know if you care, but there are geese heading this way.",1.3688524590163935,0.057260803139904996,122.0,87.0,25.0,10.0,570
 205,"They're called Liar birds, Mr. President.",1.3676470588235294,0.05793169248769881,136.0,101.0,20.0,15.0,570
 205,And that's why I don't tweet any more.,1.3676470588235294,0.05503892812245152,136.0,98.0,26.0,12.0,570
 205,Why don't you try turning off your Twitter feed?,1.3676470588235294,0.05793169248769881,136.0,101.0,20.0,15.0,570
@@ -232,11 +232,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 226,Me? I’d probably start with shoo.,1.3548387096774193,0.0527173337839394,124.0,87.0,30.0,7.0,570
 226,Perhaps you should have settled for two in the bush?,1.3548387096774193,0.05632502385238535,124.0,90.0,24.0,10.0,570
 226,It would be nice if they picked up the dead bodies once in a while.,1.3548387096774193,0.06395639699750354,124.0,97.0,10.0,17.0,570
-234,Can I tweet this?,1.352459016393443,0.05810787396388047,122.0,90.0,21.0,11.0,570
-234,"It's called Karma, Mr. Hitchcock.",1.352459016393443,0.05693015035741894,122.0,89.0,23.0,10.0,570
-234,I told you you look seedy.,1.352459016393443,0.053240896208334575,122.0,86.0,29.0,7.0,570
-234,Coo if your ok.,1.352459016393443,0.05572754276687998,122.0,88.0,25.0,9.0,570
-238,I believe thats's worth more than two in the bush.,1.350877192982456,0.057075734938437275,114.0,82.0,24.0,8.0,570
+234,Can I tweet this?,1.3524590163934427,0.05810787396388047,122.0,90.0,21.0,11.0,570
+234,"It's called Karma, Mr. Hitchcock.",1.3524590163934427,0.05693015035741894,122.0,89.0,23.0,10.0,570
+234,I told you you look seedy.,1.3524590163934427,0.053240896208334575,122.0,86.0,29.0,7.0,570
+234,Coo if your ok.,1.3524590163934427,0.05572754276687998,122.0,88.0,25.0,9.0,570
+238,I believe thats's worth more than two in the bush.,1.3508771929824561,0.057075734938437275,114.0,82.0,24.0,8.0,570
 239,"I see a lot of things have come home to roost, Mr. Trump",1.3471074380165289,0.0571484266835403,121.0,89.0,22.0,10.0,570
 239,It sure beats woodpeckers.,1.3471074380165289,0.05341085593686093,121.0,86.0,28.0,7.0,570
 239,It's almost as if you're in a New Yorker cartoon.,1.3471074380165289,0.055930328316326064,121.0,88.0,24.0,9.0,570
@@ -1515,13 +1515,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1471,"Dad, stop tweeting.",1.1764705882352942,0.06689694944796852,51.0,44.0,5.0,2.0,570
 1471,Your laundry bill is how much?,1.1764705882352942,0.06689694944796852,51.0,44.0,5.0,2.0,570
 1471,Thought of getting a cat?,1.1764705882352942,0.06689694944796852,51.0,44.0,5.0,2.0,570
-1517,"Gee, the birds flock to you Brits wherever you go. Must be the foreign accent.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,"Gee, the birds flock to you Brits wherever you go. Must be the foreign accent.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"She told me get out, I was for the birds. What do you think?",1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,570
-1517,"Birds of a feather, love designer leather.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,"Birds of a feather, love designer leather.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"My bad, that ring tone was the mating call.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,Thank goodness those aren't crows or I'd have to call in a murder...,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,570
 1517,Wow! Are those your peeps?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
-1517,"Well, that's one way to pick up chicks.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,"Well, that's one way to pick up chicks.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,This is supposed to be a No Tweeting bench.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,I didn't believe you when you said you could do fifty different bir4d calls.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,Human Birdfeeder? Can't wait to see your Human Birdbath.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
@@ -1536,7 +1536,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1517,You must be the bread winner in your family,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,Trying a smaller airline?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,These are New York birds: They can sense people who make a lot of bread.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,To feed and to kill a mockingbird.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,To feed and to kill a mockingbird.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"Is that you, Jack Sparrow?",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,"Step 2: ""Whistle a happy tune.""",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,"I know how it is. I was once in a boy band, myself.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
@@ -1546,22 +1546,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1517,I told you not to pull out your fidget spinner.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,Is everything still satisfactual?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,"It doesn't seem like such a good idea anymore, does it?",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
-1517,So how was your time in Alcatraz?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
-1517,Angel investors with seed capital. What did you expect?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
-1517,"Give a bird a crumb, you feed him for a day...Teach a bird to make bread...I think you can see where I'm going with this.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,So how was your time in Alcatraz?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
+1517,Angel investors with seed capital. What did you expect?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
+1517,"Give a bird a crumb, you feed him for a day...Teach a bird to make bread...I think you can see where I'm going with this.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"No, an asshole would have said ""feeling peckish?"" I merely commented ""dovely day out.""",1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,570
 1517,Somehow they can always spot an ornithologist.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,Still feeling impeccable?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,You can't hide from your problems that way.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,"Personally, I use DEET to keep off ticks.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,I told you to chew with your mouth closed!,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,"After all, they are the indigenous population.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,"After all, they are the indigenous population.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"He got the bird seed and peanut butter, but poor Marvin couldn't find a pinecone to save his life.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,Do they come back every year?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,I see that Trump's flights of fancy are rapidly adding up.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,Oh...Wow..!!...is that how twitter works..??,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,They say you should never feed them.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,"Well, I'll be darned, birds of a feather do flock together.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,"Well, I'll be darned, birds of a feather do flock together.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"My book? It's called ""Characters of Central Park."" Supposed to be real people, but I've been here all morning and haven't seen a single freak.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,"No, but I saw the movie.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,You've got some work to do before you're a chick magnet.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
@@ -1573,9 +1573,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1517,That's a very inconspicuous bird suit Mr. Comey.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,"Posing for your statue, Mr. President?",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,What was the name of that cologne again?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
-1517,So how carried away did you get with this hemp seed diet?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
-1517,I don't get fashion these days.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
-1517,How's that St. Francis Eau de Cologne working out for you?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,So how carried away did you get with this hemp seed diet?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
+1517,I don't get fashion these days.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
+1517,How's that St. Francis Eau de Cologne working out for you?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,Can't you see I'm tryin' to read here? Why don't you just flock off?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,I wish I were popular.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,Fine! Ignore me!!,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
@@ -1584,9 +1584,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1517,Check your retweet settings.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,"I know it's uncomfortable, Mr. Hitchcock, but maybe it'll give you an idea for another movie.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,A small pair of hands is worth two terms of Bush,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,570
-1517,You might want to consider tweeting less.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,You might want to consider tweeting less.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"No, I am not a birder.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,"Do you call them a flock, a gaggle, a cluster or a covey?",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,"Do you call them a flock, a gaggle, a cluster or a covey?",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,do you need help?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,That bird seed cologne is overwhelming.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,Now it says to focus your attention on the point between your eye brows.,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,570
@@ -1594,18 +1594,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1517,What's eating you,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,Never in the annals of ornithology ...,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,Oh no! Here comes the cat lady!,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,570
-1517,So you said you were looking for seed funding?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,So you said you were looking for seed funding?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,Says here they can smell high cholesterol from a mile away.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,"Yeah, that's why I never feed them.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,I'd say you've got that bird call down.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,I'd say you've got that bird call down.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"If you're going to let yourself go to seed, you have to accept the consequences.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,"So, the Paleo diet has been going well?",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,"Excuse me, Mr. Hitchcock, do you have the time?",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
-1517,So do you still think it isn't a book on bird hypnotism?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,"Excuse me, Mr. Hitchcock, do you have the time?",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
+1517,So do you still think it isn't a book on bird hypnotism?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"Sorry, but my reference source only states that ""birds of a feather flock together."" I can not find anything definitive for why, when, or where they flock together!",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,"I told you it was SEER Sucker, not Seed-sucker...",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,Pigeons are the new black.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,You should cut down on the tweeting.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,You should cut down on the tweeting.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,Probably best not to eat crackers in the park.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,I'd say it's your statuesque appearance.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,Erlich et al. suggest that flocking behavior is uncommon in this species.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
@@ -1613,13 +1613,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1517,Psycho is my favorite.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,"Yes, but frankly, that's what the Flockr app is designed for.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,How was Alcatraz?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,It says here they sense generosity.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,It says here they sense generosity.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,It says here you are supposed to hold the food away from your body.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,It's why the 'caged' bird sings.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,Maybe next time a small cup of seed would be better than bringing the ten pound bag!,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,I warned you that you looked seedy today.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,"Honestly, when you mentioned feeling inspired by the Met Gala this year I assumed you were talking about philanthropy.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
-1517,"I think you've been pigeon-holed at your new job, Frank.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,"I think you've been pigeon-holed at your new job, Frank.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"House sparrows, a couple of robins, several starlings but mostly pigeons.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,I'm hoping your imitation of an eagle mating call isn't so good.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,Worth 72 in the bush,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
@@ -1632,9 +1632,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1517,"Just tell 'em ""flock off"".",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,"Like I said, you’re an emotional statue.",1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,570
 1517,Still trending on Twitter?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
-1517,"Would you go somewhere else, all that tweeting is driving me nuts!",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,"Would you go somewhere else, all that tweeting is driving me nuts!",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,They heard you were the drummer for Flock of Seagulls,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,570
-1517,Isn't it wonderful how nature comes alive in the Spring?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,Isn't it wonderful how nature comes alive in the Spring?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"So, they heard about your Hamilton tickets?",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,"Step 3: if you haven't already, remove suet from your pockets.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,Do you have much trouble with squirrels?,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,570
@@ -1643,7 +1643,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1517,Your gravitational force is off the scale today.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,"Tippi, is that you?",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,"Oh no, Mr Bread!",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,"So, Alfred, got any ideas for your next movie?",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,"So, Alfred, got any ideas for your next movie?",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,So is it a sin to kill a mockingbird?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,You smell like bread crumbs.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,I told you to stop tweeting.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
@@ -1652,15 +1652,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1517,Nice suet. Where'd you get it?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,I actually preferred Duran Duran.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,"No, I don't agree that covering yourself with birdlime and breadcrumbs 'Blows St. Francis out of the water'.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
-1517,"I've heard of being pigeonholed, but this is ridiculous!",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,"I've heard of being pigeonholed, but this is ridiculous!",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"Personally, I prefer bathing.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,"You're up early, Mr. Worm!",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,"Jim, I always thought your politics were for the birds.",1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,570
 1517,"I'm reading a book, what are you doing?",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,You really should market that bird seed.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
-1517,Ever thought about taking a break from tweeting?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,Ever thought about taking a break from tweeting?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,I prefer sunscreen.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,How long have you been tweeting?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,How long have you been tweeting?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,Didn't I tell you this would happen?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,Oh my. He' s got worms.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,Hasn't happened since I went gluten-free.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
@@ -1679,16 +1679,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1517,Looks like you are in a peck of trouble!,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,Have you considered what comes after the feeding?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,That's the trouble with meditating in the park.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,"Don't be so smug, I think the Hamilton statue is just as popular.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,"Don't be so smug, I think the Hamilton statue is just as popular.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,The salesperson said it would make me a real chick magnet.,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,570
 1517,Let me guess where you are in the pecking order.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,To be seed and not heard.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,You should have stopped tweeting when you had the chance.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,You're actually not supposed to feed the birds.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,You're actually not supposed to feed the birds.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"You've totally gone to seed, man.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,Pardon me. May I find you a cat?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,Pardon me. May I find you a cat?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,Still need that tuppence?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
-1517,I said get the flock out of here...,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,I said get the flock out of here...,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,You are a real chick magnet.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,"Then she told me that she was a big Alfred Hitchcock fan, and I knew it'd never work out between us. His films are just too implausible!",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,So how long have you been out of Alcatraz?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
@@ -1700,7 +1700,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1517,"Sorry, I thought they had been baked into a pie.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,Weren't you in that Hitchcock movie?,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,I'd say your tweet has gone viral.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,You might want to stop eating granola bars.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,You might want to stop eating granola bars.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"You never saw that Hitchcock film, did ya?",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,"Well, they aren't chicks, but you're certainly a magnet.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,Did you know Alfred Hitchcock made a movie about bird 'Flash Mobs?',1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
@@ -1709,17 +1709,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1517,"Now that ransomware has destroyed our phones, carrier pigeon is the only way to go.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,Why not just give them the popcorn?,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,I hope you won't be tempted to feed the porcupines!,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
-1517,So you must be the Birdman of Gramercy Park.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,So you must be the Birdman of Gramercy Park.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,Mitch?,1.1702127659574468,0.0764568583568321,47.0,42.0,2.0,3.0,570
-1517,So how long have you been out of Alcatraz?,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,So how long have you been out of Alcatraz?,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"Pardon me, but aren't you Tippi Hedren?",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,You must be made of dough.,1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,You must be made of dough.,1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"And just like that, Sean was gone and the interview was over.......",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,Not a bird in the sky today Fred.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,Dove skin care is so hot right now.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,You should really stop using that organic birdseed exfoliator.,1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
 1517,"Wow, that was some birdcall.",1.1702127659574468,0.0632100658866106,47.0,40.0,6.0,1.0,570
-1517,"They're pigeons. You dropped them some crumbs six months ago, they love you forever.",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,570
+1517,"They're pigeons. You dropped them some crumbs six months ago, they love you forever.",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,570
 1517,"Bird flu season, eh.",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,Quite a chickadee magnet you are!,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
 1517,You're supposed to throw the rice,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,570
@@ -5161,7 +5161,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,May I ask what brand of bird seed you use?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,City ordinance-- four and twenty Max,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,So was that your first tweet?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,My advice: envelopes and stamps!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,My advice: envelopes and stamps!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,That is exactly why seed is illegal,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Seedy people are so misunderstood.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I see we're late again with the spring fashion,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5180,7 +5180,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,It must be a new sandwick sesame seed on Rye!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,You did ask for a peck!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Herring Bone tweed?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,"I guess, I prefer reading my novel.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,"I guess, I prefer reading my novel.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,I guess this is what happens when you tweet too much!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"You know,I'm not quite together with this.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Shouldn't let yourself go to seed,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5208,10 +5208,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,"Go back to your book, we are almost done here",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I guess I shouldn't of thrown that birdseed on him earlier..,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,570
 5154,The horse whisperer has nothing on you!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,I simply covered you with honey and birdseed so I could read my damn book!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,I simply covered you with honey and birdseed so I could read my damn book!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"Hi, I'm Twitter's new mascot.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I usually avoid the birdseed bodywash.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,"Are you ok?"" ""Yes, I'm seed funding the next Twitter!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,"Are you ok?"" ""Yes, I'm seed funding the next Twitter!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,That confirms - you are a seedy character.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I hear he's also stopping funding for public television.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Hey mate, what's your secret for getting all the birds.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5232,7 +5232,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,I don't think your cologne is gluten-free.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Mama always said life was like a flock of hawklets. You never know what you’re gonna get.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Might I ask what cologne you're wearing?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,"Oh. So, this is where the Audubon meets!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,"Oh. So, this is where the Audubon meets!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Showboat.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Would this be a bad time to return the turtle doves?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Maybe you should eat less carbs.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5258,7 +5258,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,You're in luck.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Frankly, I've never heard of a wear feather friend, let alone met one.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,This say's you should dump the egg salad sandwich,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Enough with the Brenda Fricker impersonation.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Enough with the Brenda Fricker impersonation.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"A word of advice, they usually like bread crumbs.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Looks like that deodorant isn't working so well.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,570
 5154,"So tell me, where do you get your movie ideas, Mr. Hitchcock?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5282,7 +5282,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,"Hey Tippi Hedren, can you keep it down over there?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Those croissants from that new French bakery are really something, huh?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,These Trump tweets are really getting out of hand.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,I warned you not to send that tweet!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,I warned you not to send that tweet!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"I'm impressed, you really are the best bird caller I have ever heard.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I stay away from the two pence suits.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,See what happens when you #pigeons.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5306,7 +5306,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,How are things at the breadcrumb factory?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Running a seed fund?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Bird Man??,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,You might want to change your tune.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,You might want to change your tune.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,You should diversify your candy bar preferences. You smell like Mr. Peanut.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Looks like you took Trump's latest tweetstorm both seriously and literally.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Oh,m that's how you tweet !",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5320,8 +5320,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,Now that's what I call a cheep suit!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Frank, where is Assisi?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"I thought you weren't going to wear that ""meat dress"" any more.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,"Excuse me, Did you use oatmeal soap today?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
-5154,Party fowl!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,"Excuse me, Did you use oatmeal soap today?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
+5154,Party fowl!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"Sir, you are an extremely seedy individual.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"In today's world,you're more likely to become a waste dump than a National Trust property.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,This is a no-popcorn-eating zone.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5329,12 +5329,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,You promised them what?,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,570
 5154,"Mr. President, I know you seek attention, but . . . .",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"""It does seem strange Mr. Hitchcock"".",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Oh dude! I told you to quit bingeing on Hitchcock movies.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Oh dude! I told you to quit bingeing on Hitchcock movies.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"No, I haven't heard of the corn meal catalog.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Mr. Peanut?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Chocolates ... and that's all I've got to say about that.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,You're still here. Maybe try balloons instead?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Just stop speaking so much pidgin English.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Just stop speaking so much pidgin English.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,-What is going on? -New York state of mind,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Mr. Hitchcock, is this for the sequel?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I'd be a little more careful when eating that trail mix if I were you.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5363,24 +5363,24 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,It's sad to see so many illiterate birds.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"How do you do it, Mr. Popcorn Man?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Is this like Trump and his Cabinet, ""Birds of a feather flock together?""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,No. It's not that you mask yourself with seeds. It's that you don't ask the basic questions.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,No. It's not that you mask yourself with seeds. It's that you don't ask the basic questions.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Would your name be Francis Assisi by any chance?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,''Looks like your new suet is a big hit.'',1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,''Looks like your new suet is a big hit.'',1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Its the panko on the volcano roll.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I told you not to eat sesame seed bagels in Central Park.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Yeah, they love that all-natural hemp-fiber clothing.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Don't worry, they just eat the scabs.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,"Yes, life is like a box of chocolates.. unless you are coated in bird seed.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,"Yes, life is like a box of chocolates.. unless you are coated in bird seed.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Are you a Hitchcock fan?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Frankly, I always thought 'The Birds' was a bit far fetched. I stand corrected.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,I believe Hitchcock beat you to the idea........,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,I believe Hitchcock beat you to the idea........,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,That's the problem with wearing a tweed suit in the park.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I told you to stop tweeting.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I don't think this is what your investors had in mind.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,They think you're incapable of love.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Alcatraz??,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Looks like you have it covered.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,I can't believe they went for the g-free bread!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,I can't believe they went for the g-free bread!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,You should probably put away those sunflower seeds.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Ladies and Gentlemen, this man is for the birds.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Donald, your bird-brain party is getting out of hand.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5410,7 +5410,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,Finally going to seed!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,The recipe call for blackbirds.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Like which one, you said? 'Marnie'? 'The Thirty-Nine Steps'? 'Jamaica Inn'? ...",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,"Thanks, but I'd rather not hear your wild Tyrannosaurus Rex call.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,"Thanks, but I'd rather not hear your wild Tyrannosaurus Rex call.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Step 2: Release the bird seed.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Hay, I got it...have them pick you up and fly you home.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Let me guess! You're Alfred Hitchcock?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5462,7 +5462,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,Don't worry. We're just filming a live-action Angry Birds movie.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Would you like me to call the Emergency Bread Hotline?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,If my name was 'Birdsall' I think I'd change it.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,So what cologne are you wearing?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,So what cologne are you wearing?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,I know a terrific dry cleaner.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"No, there's nothing in the Audubon book to explain it.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I find wearing hemp does that.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5471,7 +5471,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,You were warned: Bird Weed would be that popular!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,It's that Jerry Garcia Red Milo tie you're wearing.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,The rumors are true. There is a bird man of Central Park!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,What is that aftershave?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,What is that aftershave?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Probably not a good idea to carry that bird seed in your pockets.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,There's a dry cleaner just down the street.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Just that kind of day, huh?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5491,7 +5491,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,"That wasn't a dog whistle, was it?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Hey come on now, guys--I thought I was higher in the pecking order!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Maybe you shouldn't have said you were going to sue it so loudly...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,"Now do you believe me, Alex, that your nut and seed diet is a little extreme?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,"Now do you believe me, Alex, that your nut and seed diet is a little extreme?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"Tom Lehrer, I presume.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"It's easier to feed them, than to clean up afterwards.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,They must smell your bird...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5501,7 +5501,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,The good news is they aren't after your candy bar. The bad news is they think you're a statue.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Wow Mr. Hitchcock, I will never think of you the same way!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Fortunately they're not carnivorous, but they certainly crap a lot.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,What laundry do you use?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,What laundry do you use?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,You must be a politician--all that fowl play.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Did you ever do time at Alcatraz?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Hey, Donald, time to stop your incessant tweeting!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5606,7 +5606,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,"If you're waiting for the cat to set among the pigeons, it's gone",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,It's a slippery slope.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,570
 5154,What's your secret?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,I think it's your peanut-scented cologne.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,I think it's your peanut-scented cologne.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Now try using the 'Build-a-Wall' spray.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Come here often?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Who made your suite, Wonder Bread?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5617,15 +5617,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,"In future, ask sales to 'Join the teleconference,' not 'Jump right in.'",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Try sitting near a statue.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,How's that millet cleanse working out for you?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Life is like a box of bird seed....,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Life is like a box of bird seed....,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"No, I""ve never read Homing Pigeons for Dummies.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"You may wanna ""86"" the bird seed!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"The movie live, idea",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,So... how's that new cologne workin' for ya?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,So... how's that new cologne workin' for ya?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"Norman: ""My wife likes to call me Worm Man in front of the birds.""",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,570
 5154,They really flock to you!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Well, I told you your clothes were starting to look a little seedy.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,"Quite a base you got there, Donald.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,"Quite a base you got there, Donald.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"Some days the pigeon, and some days the statue.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I thought you seemed a bit seedy.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,What are you feeding them?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5642,7 +5642,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,"Glad you like birds, not alligators.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"I don't think ""Aviator Pheromone"" was good cologne choice.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Elltay hemtay otay ogay wayatay.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,"Apparently, birds hate books.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,"Apparently, birds hate books.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Alfred Hitchcock has gotta see this.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Alfred?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I guess it's not easy being the Pillsbury dough boy.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5670,9 +5670,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,I warned you about spending too much time on Twitter,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,What insults did you tweet?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I see Jim is ready with the drone report.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Spilled your popcorn?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Spilled your popcorn?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"I love your cartoons, R. Crumb.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,It's that seedy suite Elmer,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,It's that seedy suite Elmer,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"Harry, you've listened to that song about feeding the birds, from Mary Poppins, way too many times.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Coincidentally, I’m reading John Updike’s Pigeon Feathers.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Well, you’re sure a rare bird.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5727,16 +5727,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,I loved you in 'MARNIE.',1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"I'd back off on the tweeting, if I were you.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"'You know, you could have just put your earphones in'.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Number one - quit carrying bird seed in your pocket.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Number one - quit carrying bird seed in your pocket.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"Jeff, I told you not to cover yourself in bird seeds before we went to the park.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,You think you are feeling crumby?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Sesame bagel for breakfast?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Sesame bagel for breakfast?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"Alexa, I said 'order birdseed', not 'I'm birdseed'.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,570
 5154,Old Spice....you?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Eat the good booty.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Is that Millet Spray by Osprey de la Renta?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Next time I would be more careful when eating crackers.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Oh! Is it time for lunch already? I am feeling a little peckish myself.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Oh! Is it time for lunch already? I am feeling a little peckish myself.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"That's okay, keep the crackers.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,It's Jonathan Livingston Seagull. Have you read it?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Told you not to change bird seeds.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5756,7 +5756,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,That's not fair! Can I at least get a peck on the cheek?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Yep, anything gluten free is for the birds.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Hello, Alfred.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Well I see with my own eyes. Birds of a feather really do flock together,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Well I see with my own eyes. Birds of a feather really do flock together,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Really? I was never a big Hitchcock fan.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,570
 5154,I miss you.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Are you sure they're not carrying more than messages from the Hill ?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5765,7 +5765,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,That is precisely why I don't tweet in the park anymore.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"That, my friend, is why I don't tweet.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I always knew you were 'for the birds'!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,You can't tweet that!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,You can't tweet that!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"I'm guessing you have a fetish that involves birds."" ""I'm guessing your mother-in-law sent them over."" ""Now you know how marriage feels.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Did your wife make you a peanut butter sandwich?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Yes, the Literalist Society has indeed been worried about a resurgence of Avian Flew- why do you ask?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5779,12 +5779,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,"Man, that's a lot of pigeons.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Remember when you couldn't remember your grandson's name and I told you that you were going to seed?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Been here long?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,"Some days you're the statue...and today's your day, Bob! You wear it well!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,"Some days you're the statue...and today's your day, Bob! You wear it well!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"Knew you were corny, but this takes the cake.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I warned you not to wear your hemp-seed outfit.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I guess that's one of the drawbacks to all-natural fibers.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"So, how goes the worm farming?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,You’ll be fine as long as their queen remains on you.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,You’ll be fine as long as their queen remains on you.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"Statue, David?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,The absent minded Professor forgot to change out of his work clothes after working all night on a pigeon pheromone experiment.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,so how was Alcatraz,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5801,7 +5801,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,Have you considered a different career choice Mr Scarecrow?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"So, what good is your new worm whistle?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Well, I guess I could sing Lullaby of Birdland.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,It's called THE BIRDS by Daphne du Maurier.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,It's called THE BIRDS by Daphne du Maurier.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Tweet much?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I told you not to eat all those grains and seeds!,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,570
 5154,"You're running out of ideas, Lady Gaga.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5835,7 +5835,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,Hopefully he wore white today,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I warned you that cologne was seedy.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,It's an old book by Daphne de Maurier. I think you'd like it.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Alfred Hitchcock would be impressed.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Alfred Hitchcock would be impressed.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,I think it's smoke that follows beauty.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I have a brother who's pigeon-toed also.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Chocolate?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5868,13 +5868,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,You were saying you like Alfred Hitchcock films?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,...just reading about how we are all One being...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Pardon me, is that a tweet suit?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Be careful--you never know which one might develop a peanut allergy.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Be careful--you never know which one might develop a peanut allergy.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,What's eating you,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,570
 5154,Must be that Hitchcock tee you're wearing.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,That's weird. They usually stick to cyber bullying.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I assume you're in training to be a statue in this park.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I'm gonna guess that oatmeal facial may not have been your best idea.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Maybe it's the 'Elixir of Sesame' you're wearing.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Maybe it's the 'Elixir of Sesame' you're wearing.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Apparently it's called a Trumpera of larks.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"""Are you that guy from Alcatraz?"" By Deda Jacobsen",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Tar aftershave again?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5911,12 +5911,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,"Sorry, I didn't catch your name. Did you say Tippi?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,You shouldn't have sneezed in your bread crum bowl!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"By all means, feel free to sit wherever you want.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Do you prefer du Maurier or Hitchcock?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Do you prefer du Maurier or Hitchcock?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,The bird feeders usually toss the seeds! Hello?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Is that your suit of suet, Dave?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I warned you about the magic of the Unicorn Frappuccino.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"You've been teaching them to ""tar and Feather""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,I told you not to wear that bird-seed suit outside.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,I told you not to wear that bird-seed suit outside.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,My wardrobe favors polyester.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,'It's Saturday night and I can understand why you ain't got a date.',1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,A herringbone suit was probably not the best choice.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5924,7 +5924,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,"""So, what book are you reading?""....""A Murder of Crows""... what book are you",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I used to be this attractive too!,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,570
 5154,A day in the park with...the Bird Feeder,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,"Yeah, that's why I stopped reading those seedy novels.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,"Yeah, that's why I stopped reading those seedy novels.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Winged Humiliation,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Efficiency is key,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Twitter's good, but you should read a book.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -5971,8 +5971,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,Dumb New Yorker. Wadda ya expect when you ruffle Washington's feathers !,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Maybe you shouldn't wear your birdseed suit when you come here.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,As you sat down I said to myself that you looked pretty seedy!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,You should never have changed your name to Birdie McBirdface.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
-5154,Are you Mr. Peanut?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,You should never have changed your name to Birdie McBirdface.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
+5154,Are you Mr. Peanut?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Yeah ... you smell like chia seeds.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I told you that your clothes were looking a tad seedy.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Please, tell me. How do you get bird poop out of your hair?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -6000,7 +6000,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,"Your Grace, a serious writer is not one for the birds, even if your new poem was sent via air mail.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I told you that particular aftershave has a corn base.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"You want to here something funny, I'm just now reading the ""The Birds"" By Daphne du Maurier.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,That really is the best way to get to JFK.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,That really is the best way to get to JFK.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,The Witness Protection Program has gone to the birds.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Do you use dove soap?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"So Noah, just checking Genesis, they're back for the flood dove reunion.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -6017,7 +6017,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,Is that Panko or regular bread crumbs?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Sienna grey is for the birds. Eggshell, now that's how you get chicks.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,One character in 140 tweets or less?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Looks like they found the guy who threatened to turn their next life into STATUES so he could get even with them.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Looks like they found the guy who threatened to turn their next life into STATUES so he could get even with them.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,How's that bird seed fragrance cologne working out?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"If you didn't want to be covered in pigeons, you shouldn't have dressed in birdseed.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Do you use creamy or chunky with your birdseed?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -6069,9 +6069,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,"No, to me you don't look that seedy or grubby.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I shouldn't have doubted his bird relationships with those birds,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"So-do you think that method acting has a role in ""The Birds"" remake?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,So how many years did you spend in Alcatraz?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,So how many years did you spend in Alcatraz?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Nothing like popular opinion!,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,570
-5154,Well you know what they say about birds of a fearher.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Well you know what they say about birds of a fearher.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"This weather we've been having, it's for the birds.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Looks like I've caught the Birdman.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Maybe the t-shirt from Capistrano?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -6086,7 +6086,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,"So, you feed the birds every day?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I presume that you are the Birdman of Parkbenchatraz,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,So what's it like to be made out of breadcrumbs?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,"Crikey, Mr. Hitchcock...you DO have fans!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,"Crikey, Mr. Hitchcock...you DO have fans!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,Looks like you've got the avian flu.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Alfred Hitchcock I presume?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Haven't I seen you in ""Marry Poppins""?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -6154,7 +6154,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,Freeman Suet? Nice to meet you Freeman.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,OK so I got on the wrong plane and am now in New York City can you help me?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Shall I call the Harz Mountain people???,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Iliad or Odyssey?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Iliad or Odyssey?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"""Eau de Birdseed"" - not the best choice here.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"They seem to be the white-breasted, park dwelling, cluster birds",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"Hey Birdfeed, what ya doing?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
@@ -6181,11 +6181,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5154,I hope you have a good dry cleaner.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I told you the herringbone suit was a bad idea.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,Amazing what a few crumbs can do.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,That was a lot of birdseed for tuppence.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,That was a lot of birdseed for tuppence.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,How's the bread making business going?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"When I said you were ""for the birds"" I didn't meant it literally.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,"If you hired a cat, it might solve your problem.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
-5154,Ever see that Hitchcock movie?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,570
+5154,Ever see that Hitchcock movie?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,570
 5154,"The Bird Lovers facial, eh?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,So you're the bird whistler.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,570
 5154,I hear they call you Johnny Birdseed.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,570

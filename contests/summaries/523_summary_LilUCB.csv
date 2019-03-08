@@ -34,7 +34,7 @@ I don’t mind the monkey see as much as I mind the monkey doo.,27.0,58.0,99.0,1
 You knew I was an organ grinder when you married me.,36.0,58.0,120.0,214.0,1.6074766355140186,0.051952369434929695,33,523
 Life was easier when you were a cat person.,31.0,69.0,116.0,216.0,1.6064814814814814,0.0494480573671867,34,523
 I'm suddenly in the mood for rhesus pieces.,40.0,54.0,127.0,221.0,1.6063348416289591,0.05225304913599816,35,523
-Good thing it's not the year of the Ox.,32.0,60.0,113.0,205.0,1.604878048780488,0.05198018649839501,36,523
+Good thing it's not the year of the Ox.,32.0,60.0,113.0,205.0,1.6048780487804881,0.05198018649839501,36,523
 I was hoping for the other kind of monkey business.,23.0,62.0,94.0,179.0,1.6033519553072626,0.05280351609619868,37,523
 Just be glad it's not the Year of the Snake.,26.0,80.0,115.0,221.0,1.5972850678733033,0.04650658473494741,38,523
 Let me know if they bother you.,27.0,60.0,104.0,191.0,1.5968586387434556,0.05248262455276183,39,523
@@ -42,15 +42,15 @@ Looks like I ordered from the wrong Amazon.,30.0,55.0,108.0,193.0,1.595854922279
 Maybe AirBnB was a mistake.,29.0,53.0,106.0,188.0,1.5904255319148937,0.054249072121776376,41,523
 At least it's not the Year of the Snake.,22.0,67.0,99.0,188.0,1.5904255319148937,0.05044538405076194,41,523
 I liked it better when you were the cat lady.,24.0,57.0,97.0,178.0,1.5898876404494382,0.053761512152673635,43,523
-You'll always be my prime mate.,36.0,53.0,123.0,212.0,1.5896226415094339,0.05250097826388527,44,523
-No more Airbnb.,22.0,65.0,99.0,186.0,1.586021505376344,0.050892543944834785,45,523
+You'll always be my prime mate.,36.0,53.0,123.0,212.0,1.589622641509434,0.05250097826388527,44,523
+No more Airbnb.,22.0,65.0,99.0,186.0,1.586021505376344,0.05089254394483479,45,523
 Turns out the box was from THE Amazon...,23.0,51.0,93.0,167.0,1.5808383233532934,0.055910549647544834,46,523
 "Look on the bright side. No one will call you the Crazy Cat Lady.""",18.0,75.0,99.0,192.0,1.578125,0.04752494436653119,47,523
-I need to go out for b-a-n-a-n-a-s.,22.0,54.0,94.0,170.0,1.5764705882352938,0.05455445021937207,48,523
+I need to go out for b-a-n-a-n-a-s.,22.0,54.0,94.0,170.0,1.5764705882352938,0.054554450219372067,48,523
 I had better see no evil on my new carpets.,24.0,46.0,94.0,164.0,1.5731707317073171,0.057415126523288076,49,523
 I'm furious George.,24.0,48.0,96.0,168.0,1.5714285714285714,0.05636771089661445,50,523
 I said money. I wish we had a barrel of money.,24.0,46.0,95.0,165.0,1.5696969696969696,0.0571717258772324,51,523
-Let's just agree that the situation is evolving.,18.0,58.0,91.0,167.0,1.5628742514970058,0.05273345630908378,52,523
+Let's just agree that the situation is evolving.,18.0,58.0,91.0,167.0,1.5628742514970058,0.052733456309083784,52,523
 Jane regret move to big city?,23.0,51.0,99.0,173.0,1.5606936416184969,0.05457085407151725,53,523
 "The ""monkey see"" part is not what I'm worried about.",15.0,54.0,81.0,150.0,1.56,0.05473548350350452,54,523
 Are you having fun yet or should I open another barrel?,22.0,45.0,92.0,159.0,1.559748427672956,0.05754248211291745,55,523
@@ -70,7 +70,7 @@ I thought the ad said prime mates.,14.0,50.0,79.0,143.0,1.5454545454545454,0.055
 Thirty years and not one sonnet.,25.0,29.0,91.0,145.0,1.5448275862068963,0.0641622332733465,69,523
 Are you sure he told you to let the chimps fall where they may?,21.0,32.0,83.0,136.0,1.5441176470588236,0.0642262876046848,70,523
 Your body language is telling me there won't be a third date.,17.0,41.0,80.0,138.0,1.5434782608695652,0.06007820040325065,71,523
-"How come they're only ""my"" monkeys when they're bad?",19.0,44.0,88.0,151.0,1.5430463576158941,0.05772363122298513,72,523
+"How come they're only ""my"" monkeys when they're bad?",19.0,44.0,88.0,151.0,1.543046357615894,0.05772363122298513,72,523
 I'm done with airbnb.,16.0,32.0,70.0,118.0,1.5423728813559323,0.06662761546018878,73,523
 Let the chimps fall where they may.,16.0,45.0,81.0,142.0,1.5422535211267605,0.0579536836729606,74,523
 Now I understand why they never said 'smell no evil'.,22.0,33.0,87.0,142.0,1.5422535211267605,0.06291240081627672,74,523
@@ -146,7 +146,7 @@ I said we could use a barrel of MONEY.,15.0,28.0,74.0,117.0,1.4957264957264955,0
 There's something that I've got to get off my back...,13.0,29.0,69.0,111.0,1.4954954954954955,0.066347154742954,145,523
 I thought the man was selling cappuccinos.,16.0,22.0,71.0,109.0,1.4954128440366972,0.07094317885747149,146,523
 At least the elephant's out of the room?,18.0,53.0,109.0,180.0,1.4944444444444445,0.05013775079480928,147,523
-Did you save the receipt?,15.0,32.0,79.0,126.0,1.492063492063492,0.062484061963800776,148,523
+Did you save the receipt?,15.0,32.0,79.0,126.0,1.4920634920634919,0.062484061963800776,148,523
 You said you missed the patter of tiny feet.,11.0,33.0,68.0,112.0,1.4910714285714286,0.06341262357919393,149,523
 I thought the will said he left you all his monies.,15.0,25.0,72.0,112.0,1.4910714285714286,0.06829832701243264,149,523
 This is why we can't have nice things,13.0,35.0,77.0,125.0,1.4880000000000002,0.060765015401744074,151,523
@@ -168,7 +168,7 @@ You can blame Congress for cutting my research funding.,9.0,34.0,65.0,108.0,1.48
 What else did you agree to on ancestors.com?,10.0,29.0,63.0,102.0,1.4803921568627452,0.06642899610386169,167,523
 It's a jungle in here.,12.0,36.0,77.0,125.0,1.48,0.05967654750888865,168,523
 The rainforests are disappearing faster than I thought.,14.0,27.0,74.0,115.0,1.4782608695652173,0.06576177575007135,169,523
-Well. at least you got them off your back.,11.0,33.0,71.0,115.0,1.4782608695652173,0.062184766992507995,169,523
+Well. at least you got them off your back.,11.0,33.0,71.0,115.0,1.4782608695652173,0.062184766992508,169,523
 Do I see a hint of a smile....,16.0,33.0,87.0,136.0,1.4779411764705883,0.059926345282358275,171,523
 I think it's time we put an end to this monkey business,10.0,33.0,68.0,111.0,1.4774774774774777,0.0624989393480476,172,523
 This is not what I meant by a night of swinging.,12.0,28.0,69.0,109.0,1.4770642201834865,0.06594452187415238,173,523
@@ -277,7 +277,7 @@ The Super Delegates needed a place to stay.,9.0,23.0,62.0,94.0,1.436170212765957
 Maybe kids wasn't a bad idea after all?,9.0,23.0,62.0,94.0,1.4361702127659577,0.06858125390153902,275,523
 We started with TWO little monkeys jumping on the bed ... I'm guessing those TWO little monkeys were doing more than just jumping on that bed.,9.0,23.0,62.0,94.0,1.4361702127659577,0.06858125390153902,275,523
 I'm afraid these are the best the GOP has to offer.,12.0,20.0,69.0,101.0,1.4356435643564356,0.06953287075675024,278,523
-I want our DNA checked.,12.0,16.0,64.0,92.0,1.434782608695652,0.07461374951281402,279,523
+I want our DNA checked.,12.0,16.0,64.0,92.0,1.4347826086956519,0.07461374951281402,279,523
 I never thought I would say this ....but I miss the cats!,11.0,21.0,67.0,99.0,1.4343434343434345,0.06909852752561546,280,523
 What time on Sunday did you say the Goodalls got back?,9.0,25.0,65.0,99.0,1.4343434343434345,0.06604786430791232,280,523
 This is not the monkey business I had in mind...,11.0,21.0,67.0,99.0,1.4343434343434345,0.06909852752561546,280,523
@@ -490,9 +490,9 @@ Should we get some typewriters?,6.0,19.0,54.0,79.0,1.3924050632911391,0.07073986
 I miss cable.,4.0,23.0,52.0,79.0,1.3924050632911391,0.06599234147285249,487,523
 I think we should get a cat.,9.0,13.0,57.0,79.0,1.3924050632911391,0.07731648502864777,487,523
 But with 12 the barrel is free.,5.0,21.0,53.0,79.0,1.3924050632911391,0.068407302811123,487,523
-That DNA ancestry thing goes back pretty far.,9.0,11.0,54.0,74.0,1.3918918918918919,0.08121979988409675,492,523
-I will return them to the barrel as soon as you hand over the remote.,8.0,13.0,53.0,74.0,1.3918918918918919,0.07890768432964655,492,523
-Not as much fun as they said it would be. Maybe we got a bad barrel.,6.0,17.0,51.0,74.0,1.3918918918918919,0.0740672407503884,492,523
+That DNA ancestry thing goes back pretty far.,9.0,11.0,54.0,74.0,1.391891891891892,0.08121979988409675,492,523
+I will return them to the barrel as soon as you hand over the remote.,8.0,13.0,53.0,74.0,1.391891891891892,0.07890768432964655,492,523
+Not as much fun as they said it would be. Maybe we got a bad barrel.,6.0,17.0,51.0,74.0,1.391891891891892,0.0740672407503884,492,523
 Tell me again. You just added water and then what?,7.0,22.0,63.0,92.0,1.391304347826087,0.06549550510891686,495,523
 They were more fun when they were still in the barrel.,10.0,16.0,66.0,92.0,1.391304347826087,0.0707554649422238,495,523
 None of the kids seem to take after us...,7.0,20.0,60.0,87.0,1.3908045977011494,0.06811378171739611,497,523
@@ -551,7 +551,7 @@ Maybe we should have asked what the prize was when we bought the raffle.,6.0,19.
 I kept telling you not to open the barrel...,6.0,19.0,56.0,81.0,1.3827160493827158,0.06931744216607305,548,523
 It seems we have a few things to discuss before we get to the 800-pound gorilla in the room.,6.0,19.0,56.0,81.0,1.3827160493827158,0.06931744216607305,548,523
 What's Jane Goodall's cell?,6.0,19.0,56.0,81.0,1.3827160493827158,0.06931744216607305,548,523
-They're not really that much fun.,7.0,30.0,78.0,115.0,1.382608695652174,0.0560355786178541,553,523
+They're not really that much fun.,7.0,30.0,78.0,115.0,1.3826086956521741,0.0560355786178541,553,523
 Try meditating,9.0,16.0,64.0,89.0,1.3820224719101124,0.07057623971450337,554,523
 At least they are off your back.,5.0,24.0,60.0,89.0,1.3820224719101124,0.0629249962462163,554,523
 Can you put bananas on the list?,6.0,17.0,53.0,76.0,1.381578947368421,0.07246803351692238,556,523
@@ -559,7 +559,7 @@ I think its time we got out of the monkey business,5.0,19.0,52.0,76.0,1.38157894
 It was either this or a tote bag. You have a hundred tote bags.,9.0,11.0,56.0,76.0,1.381578947368421,0.07939929131142894,556,523
 """...but it's close to the subway"".",5.0,19.0,52.0,76.0,1.381578947368421,0.07000527614992552,556,523
 Do you get it now? This is America under Trump.,6.0,17.0,53.0,76.0,1.381578947368421,0.07246803351692238,556,523
-Just wait until they write my first novel.,5.0,27.0,65.0,97.0,1.3814432989690721,0.059427572527564476,561,523
+Just wait until they write my first novel.,5.0,27.0,65.0,97.0,1.381443298969072,0.059427572527564476,561,523
 They're more fun when they're in the barrel.,4.0,24.0,56.0,84.0,1.380952380952381,0.06315650474823882,562,523
 Not until I’d opened the barrel did it occur to me you were being sarcastic.,7.0,18.0,59.0,84.0,1.380952380952381,0.0696371258018947,562,523
 Anything else you haven't me about your family.,9.0,14.0,61.0,84.0,1.380952380952381,0.07364137936811505,562,523
@@ -1170,13 +1170,13 @@ My theory is they are more fun out of the barrel.,3.0,14.0,49.0,66.0,1.303030303
 I bought them to distract us from the election year.,2.0,16.0,48.0,66.0,1.303030303030303,0.06466588674834388,1166,523
 I gotta make sure the monkeys like you before we go steady.,3.0,14.0,49.0,66.0,1.303030303030303,0.06817534286785877,1166,523
 What did you think would happen when you wouldn't let wouldn't let them jump on the bed anymore?,4.0,12.0,50.0,66.0,1.303030303030303,0.0715127809650175,1166,523
-What? I got them to quit jumping on the bed.,3.0,10.0,40.0,53.0,1.3018867924528301,0.07893019118245996,1172,523
-Didn’t it ever occur to you that George is too curious?,3.0,10.0,40.0,53.0,1.3018867924528301,0.07893019118245996,1172,523
-Maybe it'd be more fun if you'd paid the extra for the barrel.,2.0,12.0,39.0,53.0,1.3018867924528301,0.07419087326056348,1172,523
-I told you to buy the small barrel. But no...,3.0,10.0,40.0,53.0,1.3018867924528301,0.07893019118245996,1172,523
-I don't smell anything.,4.0,8.0,41.0,53.0,1.3018867924528301,0.08340062640672652,1172,523
-There were definitely 12 monkeys in the box.,2.0,12.0,39.0,53.0,1.3018867924528301,0.07419087326056348,1172,523
-I guess it's better than a barrel of junkies,3.0,10.0,40.0,53.0,1.3018867924528301,0.07893019118245996,1172,523
+What? I got them to quit jumping on the bed.,3.0,10.0,40.0,53.0,1.30188679245283,0.07893019118245996,1172,523
+Didn’t it ever occur to you that George is too curious?,3.0,10.0,40.0,53.0,1.30188679245283,0.07893019118245996,1172,523
+Maybe it'd be more fun if you'd paid the extra for the barrel.,2.0,12.0,39.0,53.0,1.30188679245283,0.07419087326056348,1172,523
+I told you to buy the small barrel. But no...,3.0,10.0,40.0,53.0,1.30188679245283,0.07893019118245996,1172,523
+I don't smell anything.,4.0,8.0,41.0,53.0,1.30188679245283,0.08340062640672652,1172,523
+There were definitely 12 monkeys in the box.,2.0,12.0,39.0,53.0,1.30188679245283,0.07419087326056348,1172,523
+I guess it's better than a barrel of junkies,3.0,10.0,40.0,53.0,1.30188679245283,0.07893019118245996,1172,523
 You knew I was an uncle when we met.,4.0,11.0,48.0,63.0,1.3015873015873016,0.07379314244876146,1179,523
 At least six have dropped out of the race.,5.0,9.0,49.0,63.0,1.3015873015873016,0.07718458811550716,1179,523
 Life was easier when we had cats.,4.0,11.0,48.0,63.0,1.3015873015873016,0.07379314244876146,1179,523
@@ -1608,7 +1608,7 @@ At least it's not 12.,1.0,14.0,46.0,61.0,1.2622950819672132,0.061411624468136826
 You left the lid off the barrel again.,2.0,12.0,47.0,61.0,1.2622950819672132,0.06571024050516902,1605,523
 Is this what you call monkeying around?,3.0,10.0,48.0,61.0,1.2622950819672132,0.06974441765961523,1605,523
 But you said you miss the debates.,2.0,8.0,36.0,46.0,1.2608695652173914,0.07884910439846632,1609,523
-I've changed my mind. You were right. Let's have children!,4.0,16.0,72.0,92.0,1.2608695652173914,0.055447545442537986,1609,523
+I've changed my mind. You were right. Let's have children!,4.0,16.0,72.0,92.0,1.2608695652173914,0.05544754544253799,1609,523
 It was supposed to be a surprise.,2.0,8.0,36.0,46.0,1.2608695652173914,0.07884910439846632,1609,523
 I thought CNN said some of the candidates had dropped out.,3.0,7.0,40.0,50.0,1.26,0.07984679207132643,1612,523
 I assumed the barrel was included.,3.0,7.0,40.0,50.0,1.26,0.07984679207132643,1612,523
@@ -1892,8 +1892,8 @@ Whaddaya mean you threw the barrel out?!,3.0,6.0,41.0,50.0,1.24,0.07855844048495
 I thought they'd be even more fun out of the barrel.,3.0,5.0,38.0,46.0,1.2391304347826086,0.08331757885104236,1891,523
 So I guess 'Tarzan seeking his Jane' wasn't really a metaphor.,3.0,5.0,38.0,46.0,1.2391304347826086,0.08331757885104236,1891,523
 I don't see the resemblance,2.0,7.0,37.0,46.0,1.2391304347826086,0.0773022339309831,1891,523
-Still think that new TV would be noisy and intrusive?,1.0,8.0,33.0,42.0,1.2380952380952381,0.0747393753458591,1894,523
-I hoped they'd be more fun out of the barrel.,1.0,8.0,33.0,42.0,1.2380952380952381,0.0747393753458591,1894,523
+Still think that new TV would be noisy and intrusive?,1.0,8.0,33.0,42.0,1.238095238095238,0.0747393753458591,1894,523
+I hoped they'd be more fun out of the barrel.,1.0,8.0,33.0,42.0,1.238095238095238,0.0747393753458591,1894,523
 So what are you going to do with the barrel?,4.0,6.0,49.0,59.0,1.2372881355932204,0.07387964311085889,1896,523
 Now I see why you didn't want to start any monkey business.,2.0,10.0,47.0,59.0,1.2372881355932204,0.06549270642063965,1896,523
 What do you mean you sold the barrel on ebay !!,2.0,9.0,44.0,55.0,1.2363636363636363,0.06847859093607389,1898,523
@@ -2149,7 +2149,7 @@ is there a better time for me to call on you...?,1.0,9.0,40.0,50.0,1.22,0.065714
 I told you not to leave the bananas out.,1.0,9.0,40.0,50.0,1.22,0.06571428571428571,2101,523
 Maybe it's time we have the birth control talk with them.,1.0,7.0,33.0,41.0,1.2195121951219512,0.07418003085729535,2149,523
 A barrelful really ISN'T a lot of fun.,1.0,7.0,33.0,41.0,1.2195121951219512,0.07418003085729535,2149,523
-I thought that was just rabbits.,4.0,17.0,93.0,114.0,1.2192982456140349,0.046218216889008214,2151,523
+I thought that was just rabbits.,4.0,17.0,93.0,114.0,1.2192982456140349,0.04621821688900821,2151,523
 Alfred Hitchcock's never before seen sequel to the birds.,2.0,8.0,45.0,55.0,1.2181818181818185,0.0671242332357016,2152,523
 But you wanted me to think outside the box for our anniversary.,3.0,11.0,64.0,78.0,1.2179487179487178,0.056679796810199676,2153,523
 Guess the evening hasn't evolved as you wanted.,0.0,10.0,36.0,46.0,1.2173913043478262,0.06148754619013455,2154,523
@@ -2516,7 +2516,7 @@ Just because I lost the barrel doesn't mean they cannot still be fun!,1.0,6.0,34
 Close your eyes and relax to sounds of the jungle.,0.0,13.0,54.0,67.0,1.1940298507462686,0.048676773716830636,2515,523
 It all started when the doctor said no more jumpin on the bed.,2.0,8.0,52.0,62.0,1.1935483870967742,0.06013693908336117,2516,523
 Now will you take back what you said about me not being evolved enough for you?,1.0,4.0,26.0,31.0,1.1935483870967742,0.08575226682742745,2516,523
-Is this your idea of a barrel of fun?,1.0,10.0,51.0,62.0,1.1935483870967742,0.055566453121854785,2516,523
+Is this your idea of a barrel of fun?,1.0,10.0,51.0,62.0,1.1935483870967742,0.05556645312185479,2516,523
 I'm tired of your friends hanging around all the time Fred.,0.0,11.0,46.0,57.0,1.1929824561403508,0.05273590328947572,2519,523
 They said it would be more fun than a barrel of wine.,1.0,8.0,43.0,52.0,1.1923076923076923,0.06164206964379924,2520,523
 Do you know what it's going to cost to put roller skates on all of these.,2.0,6.0,44.0,52.0,1.1923076923076923,0.06748253524388616,2520,523
@@ -2861,8 +2861,8 @@ You have GOT to stop this monkey business!,2.0,4.0,41.0,47.0,1.1702127659574468,
 Wanna monkey around?,2.0,4.0,41.0,47.0,1.1702127659574468,0.07014685887189226,2857,523
 They looked like fun while in the barrel.,2.0,4.0,41.0,47.0,1.1702127659574468,0.07014685887189226,2857,523
 Relax! They'll leave once they've picked and eaten all your head lice!,1.0,6.0,40.0,47.0,1.1702127659574468,0.0632100658866106,2857,523
-The sitter's bailed on us again.,0.0,8.0,39.0,47.0,1.1702127659574468,0.055411578656325414,2857,523
-You'll just love the twelfth one.,0.0,8.0,39.0,47.0,1.1702127659574468,0.055411578656325414,2857,523
+The sitter's bailed on us again.,0.0,8.0,39.0,47.0,1.1702127659574468,0.05541157865632541,2857,523
+You'll just love the twelfth one.,0.0,8.0,39.0,47.0,1.1702127659574468,0.05541157865632541,2857,523
 The cats were easier to manage.,0.0,13.0,64.0,77.0,1.1688311688311688,0.0429698800970655,2865,523
 The guy at the pet shop said they'd be a barrel of laughs!,3.0,7.0,67.0,77.0,1.1688311688311688,0.05358825519207446,2865,523
 The barrel broke....nothing funny about that.,0.0,8.0,40.0,48.0,1.1666666666666667,0.05436067275445353,2867,523
@@ -3215,12 +3215,12 @@ I think I know where the 12th one is.,1.0,4.0,36.0,41.0,1.146341463414634,0.0658
 You're the one who wanted the barrel.,1.0,4.0,36.0,41.0,1.146341463414634,0.0658988101761283,3144,523
 Cheer up. One more and we'll have a barrel full.,1.0,5.0,42.0,48.0,1.1458333333333333,0.059471544937141164,3215,523
 Tarzin! Take your friends and go home.,1.0,6.0,48.0,55.0,1.1454545454545455,0.05454545454545457,3216,523
-I said I lost my keys not monkeys!,1.0,7.0,54.0,62.0,1.1451612903225807,0.050626817657001666,3217,523
+I said I lost my keys not monkeys!,1.0,7.0,54.0,62.0,1.1451612903225807,0.05062681765700167,3217,523
 Babies are monkey substitutes.,2.0,9.0,79.0,90.0,1.1444444444444444,0.04345017698959629,3218,523
 'Let's just hang out at home today.'',1.0,4.0,37.0,42.0,1.1428571428571428,0.0644049739048166,3219,523
 I hear you're a fan of 12 Monkeys.,0.0,6.0,36.0,42.0,1.1428571428571428,0.054649432548286164,3219,523
 I find this GOP rep visit quite pleasant.,1.0,4.0,37.0,42.0,1.1428571428571428,0.0644049739048166,3219,523
-Guess it's our turn in the barrel,0.0,7.0,42.0,49.0,1.1428571428571428,0.050507627227610534,3219,523
+Guess it's our turn in the barrel,0.0,7.0,42.0,49.0,1.1428571428571428,0.05050762722761053,3219,523
 Mama called the doctor.,2.0,2.0,38.0,42.0,1.1428571428571428,0.07286591006438152,3219,523
 I'm going to tell you one last time... either they go or I go.,2.0,5.0,56.0,63.0,1.1428571428571428,0.05476357440852805,3219,523
 I'm over here.,1.0,4.0,37.0,42.0,1.1428571428571428,0.0644049739048166,3219,523
@@ -3494,14 +3494,14 @@ About the grandchimps...,0.0,9.0,65.0,74.0,1.1216216216216215,0.0382546984804765
 They said the barrel wasn't necessary.,0.0,4.0,29.0,33.0,1.1212121212121209,0.05769525080199931,3493,523
 It was funnier when they were in the barrel.,1.0,2.0,30.0,33.0,1.1212121212121209,0.07226812131946557,3493,523
 I think you've proved your point on animal testing.,0.0,7.0,51.0,58.0,1.1206896551724137,0.04314879647175589,3495,523
-"""I warned you that no good would come of telling them that they share 98 percent of their DNA with us.",0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3496,523
+"""I warned you that no good would come of telling them that they share 98 percent of their DNA with us.",0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3496,523
 Not that much fun. Can you put them back in the barrel?,1.0,3.0,38.0,42.0,1.119047619047619,0.060986670088086975,3497,523
 They're hanging here till the bed gets delivered.,0.0,5.0,37.0,42.0,1.119047619047619,0.05057601944205112,3497,523
 "It's going to be a sequel to ""Bananas"".",1.0,3.0,38.0,42.0,1.119047619047619,0.060986670088086975,3497,523
 "And you're sure the ad said ""win a guest appearance on Wild Kindom""........",0.0,5.0,37.0,42.0,1.119047619047619,0.05057601944205112,3497,523
 Maybe we need a second opinion on no more monkeys jumping on the bed.,0.0,5.0,37.0,42.0,1.119047619047619,0.05057601944205112,3497,523
 Sometimes I regret not having children to start this monkey business.,1.0,3.0,38.0,42.0,1.119047619047619,0.060986670088086975,3497,523
-These Netflix nights are really enjoyable Pam.,1.0,5.0,53.0,59.0,1.11864406779661,0.048860455426129414,3503,523
+These Netflix nights are really enjoyable Pam.,1.0,5.0,53.0,59.0,1.11864406779661,0.04886045542612941,3503,523
 I doubt a barrel would make this more pleasurable.,0.0,4.0,30.0,34.0,1.1176470588235294,0.05608603466150544,3504,523
 "Airbnb said the tree house would guarantee ""local immersion.""",1.0,2.0,31.0,34.0,1.1176470588235294,0.07020095781645355,3504,523
 Now I’m really glad there's not a banana in my pocket.,1.0,2.0,31.0,34.0,1.1176470588235294,0.07020095781645355,3504,523
@@ -3584,13 +3584,13 @@ What else do you wanna try to manifest?,1.0,2.0,33.0,36.0,1.1111111111111112,0.0
 The salesman said they would keep us young.,0.0,4.0,32.0,36.0,1.1111111111111112,0.05312127152597306,3550,523
 I've had enough of this monkey business. It's time for you to get a real job,0.0,3.0,24.0,27.0,1.1111111111111112,0.06163335513613654,3550,523
 A barrel full of monkeys is too many monkeys.,1.0,2.0,33.0,36.0,1.1111111111111112,0.06640158940746632,3550,523
-It began with me never having the heart to tell them Davy Jones passed away. Now they keep INSISTING that I put on the new album!,0.0,7.0,56.0,63.0,1.1111111111111112,0.039912289339283334,3550,523
+It began with me never having the heart to tell them Davy Jones passed away. Now they keep INSISTING that I put on the new album!,0.0,7.0,56.0,63.0,1.1111111111111112,0.03991228933928333,3550,523
 From the home of Furious George.,0.0,4.0,32.0,36.0,1.1111111111111112,0.05312127152597306,3550,523
 Why do we never have any bananas?,0.0,4.0,32.0,36.0,1.1111111111111112,0.05312127152597306,3550,523
 Just remembered the answer to 47 Across in today's puzzle is 'prehensile'.,0.0,4.0,32.0,36.0,1.1111111111111112,0.05312127152597306,3550,523
 In the words of Charlton Heston...,1.0,2.0,33.0,36.0,1.1111111111111112,0.06640158940746632,3550,523
 so many monkeys -- so little yime.,0.0,5.0,40.0,45.0,1.1111111111111112,0.04737793696791343,3550,523
-This is the crowd you hang with?,0.0,7.0,56.0,63.0,1.1111111111111112,0.039912289339283334,3550,523
+This is the crowd you hang with?,0.0,7.0,56.0,63.0,1.1111111111111112,0.03991228933928333,3550,523
 I see the in-laws are hanging out with us today,0.0,4.0,32.0,36.0,1.1111111111111112,0.05312127152597306,3550,523
 "I think I may have overdone ""Angry Birds""",1.0,2.0,33.0,36.0,1.1111111111111112,0.06640158940746632,3550,523
 They just want to know what you did with their Football.,0.0,4.0,32.0,36.0,1.1111111111111112,0.05312127152597306,3550,523
@@ -3692,7 +3692,7 @@ I'm sorry but I don't see any progress toward the next Hamlet.,0.0,4.0,34.0,38.0
 Can't we just enjoy a quiet night at home!,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3691,523
 You have to decide now. Pro-simian or anti-simian?,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3691,523
 You were right. We should have had kiss.,2.0,1.0,45.0,48.0,1.1041666666666667,0.06130657275434796,3691,523
-You just had to use that Uber Housekeeping coupon.,1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3691,523
+You just had to use that Uber Housekeeping coupon.,1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3691,523
 All barrels look the same to me.,1.0,1.0,27.0,29.0,1.1034482758620692,0.0759962986233572,3695,523
 """I thought our marriage needed some excitement"".",0.0,6.0,52.0,58.0,1.1034482758620692,0.04033776909417944,3695,523
 Pregnant? Again? I thought you had stopped swinging on those monkey bars.,1.0,4.0,53.0,58.0,1.1034482758620692,0.047245066335558215,3695,523
@@ -4182,7 +4182,7 @@ That's the last time we call Discount Butlers.,0.0,2.0,37.0,39.0,1.0512820512820
 Now you know why I was monkeying around#,1.0,1.0,58.0,60.0,1.05,0.03701427423542355,4181,523
 Are you now ready to consider the zoo option?,0.0,2.0,38.0,40.0,1.05,0.03489912202260563,4181,523
 I thought you said this counselor would be over the monkey business.,0.0,2.0,38.0,40.0,1.05,0.03489912202260563,4181,523
-Tomorrow we get started on my collection of plays.,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4184,523
+Tomorrow we get started on my collection of plays.,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4184,523
 You were right-- the barrel of raccoons was more fun.,0.0,2.0,40.0,42.0,1.0476190476190477,0.033258585512837065,4185,523
 I told you not to pay with peanuts.,0.0,2.0,41.0,43.0,1.0465116279069768,0.03249479679096613,4186,523
 They're just upset that Obama can't run for another term!,0.0,3.0,63.0,66.0,1.0454545454545454,0.025836298184491124,4187,523
@@ -4307,7 +4307,7 @@ At least they aren't gnats,0.0,1.0,37.0,38.0,1.0263157894736843,0.02666903735313
 I warned [italicized] you what climate change would do to all those brass monkeys.,0.0,1.0,38.0,39.0,1.0256410256410255,0.02597621667330656,4306,523
 Koko has a gift for making them seem lifelike.,1.0,0.0,78.0,79.0,1.0253164556962024,0.025316455696202552,4307,523
 You often said you wanted a pet. You must have prayed too many times.,0.0,1.0,40.0,41.0,1.024390243902439,0.02469323991623974,4308,523
-"""You told your -ex we were having more fun than a ""barrel of monkeys""?",0.0,1.0,41.0,42.0,1.0238095238095235,0.024098134635594,4309,523
+"""You told your -ex we were having more fun than a ""barrel of monkeys""?",0.0,1.0,41.0,42.0,1.0238095238095235,0.024098134635593998,4309,523
 A number of you have been slow so I’d appreciate someone knocking this out. Thanks.,0.0,1.0,42.0,43.0,1.0232558139534884,0.023531040266750583,4310,523
 You promised me 12! You don't love me.,0.0,1.0,45.0,46.0,1.0217391304347827,0.021979349113192898,4311,523
 "Woman: ''I told you I what kids not monkeys'' Man: ""There the same species""",0.0,1.0,47.0,48.0,1.0208333333333333,0.02105379802666297,4312,523

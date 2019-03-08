@@ -7,8 +7,8 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 21,5,Welcome to orientation.,1.5897435897435896,0.11451917151728358,13,5,39,528
 22,6,Many of you are concerned with the direction our company is heading.,1.5897435897435896,0.1202670707647033,11,5,39,528
 21,5,Can someone straighten out that picture?,1.5897435897435896,0.11451917151728358,13,5,39,528
-24,7,"Well, maybe now you will appreciate the gravity of the situation.",1.564102564102564,0.12616459802990815,8,9,39,528
-24,7,I don't think you understand the gravity of the situation.,1.564102564102564,0.12616459802990815,8,9,39,528
+24,7,"Well, maybe now you will appreciate the gravity of the situation.",1.5641025641025639,0.12616459802990815,8,9,39,528
+24,7,I don't think you understand the gravity of the situation.,1.5641025641025639,0.12616459802990815,8,9,39,528
 23,7,I see we have reached the tipping point.,1.5555555555555556,0.13478050612923034,6,11,36,528
 21,5,"As you may have guessed, I've highly leveraged the company.",1.5555555555555556,0.12243848111540882,10,11,36,528
 22,6,"It can't be that bad, the band's still playing.",1.5555555555555556,0.12875745898840155,8,11,36,528
@@ -174,7 +174,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 23,4,I can see which way the room is leaning on this one.,1.3870967741935485,0.12849349889281425,4,164,31,528
 22,3,Raise your hand if you think Frank Gehry is overrated.,1.3870967741935485,0.11983339110326907,6,164,31,528
 18,2,What do you mean I let you down?,1.3846153846153846,0.12498520622516862,6,175,26,528
-19,3,I need to keep my distance as I read the will.,1.3846153846153846,0.136741452574086,4,175,26,528
+19,3,I need to keep my distance as I read the will.,1.3846153846153846,0.13674145257408601,4,175,26,528
 20,4,Level playing fields are for losers.,1.3846153846153846,0.1475640468711606,2,175,26,528
 22,4,"Welcome, National Council on Astigmatism.",1.3793103448275863,0.13513169186547,3,178,29,528
 21,3,I'm glad you all appreciate the gravity of this situation.,1.3793103448275863,0.12568818544012886,5,178,29,528
@@ -1201,9 +1201,9 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 19,0,We don't need a bar graph to tell us how things have been going.,1.24,0.0871779788708135,6,1009,25,528
 21,2,What's a Richter scale?,1.24,0.1194431524477928,2,1009,25,528
 19,0,Our first order of business is to remove the wheels from our chair legs.,1.24,0.0871779788708135,6,1009,25,528
-17,1,It's management's way of reminding us that upward mobility is something we have to work for.,1.2380952380952381,0.11761037176408068,3,1203,21,528
-16,0,Perhaps I have underestimated the gravity of the situation.,1.2380952380952381,0.09523809523809523,5,1203,21,528
-17,1,I just want to give you my slant on things.,1.2380952380952381,0.11761037176408068,3,1203,21,528
+17,1,It's management's way of reminding us that upward mobility is something we have to work for.,1.238095238095238,0.11761037176408068,3,1203,21,528
+16,0,Perhaps I have underestimated the gravity of the situation.,1.238095238095238,0.09523809523809523,5,1203,21,528
+17,1,I just want to give you my slant on things.,1.238095238095238,0.11761037176408068,3,1203,21,528
 14,1,I'm sure you're wondering why I've clumped you all together.,1.2352941176470589,0.13637674258081914,2,1206,17,528
 13,0,I can't help but feel that the firm has reached a tipping point.,1.2352941176470589,0.10604562574894086,4,1206,17,528
 22,2,"So we need a new slant, tilt things in our favor, take a new angle, tip the scales...",1.2307692307692308,0.11512791959304433,2,1208,26,528
@@ -3817,7 +3817,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 19,0,Sorry. company bylaws don't include earthquakes as a valid reason to adjourn board meetings.,1.05,0.051298917604257706,1,3798,20,528
 19,0,"All of you back off! I still have the power! Observe, that I've even made the screen on the wall immune to my control of the force of gravity.",1.05,0.051298917604257706,1,3798,20,528
 19,0,"As your newly-elected President, I'd like to begin by thanking you for your steadfast support of The Flat Earth Society.",1.05,0.051298917604257706,1,3798,20,528
-20,0,"Due to budget cuts, you are all being let go. I, however, will be getting a promotion as well as a new office.",1.0476190476190477,0.048795003647426664,1,3819,21,528
+20,0,"Due to budget cuts, you are all being let go. I, however, will be getting a promotion as well as a new office.",1.0476190476190477,0.04879500364742666,1,3819,21,528
 17,0,You can't just lean in. You also have to hang on.,1.0,0.060633906259083235,0,3820,17,528
 17,0,"Well this afternoons Board Room Luncheon at Del Taco really hit the spot! Hey, Somebody pull my fnger",1.0,0.060633906259083235,0,3820,17,528
 17,0,"All right, but why don't we try to 'use our words'?",1.0,0.060633906259083235,0,3820,17,528

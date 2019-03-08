@@ -82,7 +82,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 81,I think we need to talk about safe sex.,1.4470588235294115,0.07578881603955957,85.0,57.0,18.0,10.0,540
 82,I can't tell exactly what's wrong-- it could be a combination of things.,1.4444444444444444,0.06294861215349852,99.0,62.0,30.0,7.0,540
 83,Your case is going to be a tough one to crack.,1.4435483870967742,0.05645161290322584,124.0,78.0,37.0,9.0,540
-84,I believe we'll find it's a combination of things.,1.4431818181818181,0.07727387976274983,88.0,61.0,15.0,12.0,540
+84,I believe we'll find it's a combination of things.,1.443181818181818,0.07727387976274983,88.0,61.0,15.0,12.0,540
 85,"Well, it certainly sounds like an unhealthy combination.",1.4421052631578948,0.06973921904292897,95.0,63.0,22.0,10.0,540
 86,Are you practicing safe sex?,1.4416666666666669,0.06777354917852517,120.0,85.0,17.0,18.0,540
 87,We may have to open you up.,1.4414414414414414,0.06486258982269295,111.0,74.0,25.0,12.0,540
@@ -93,8 +93,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 92,Stay away from crackers.,1.4403669724770642,0.06309385576123866,109.0,71.0,28.0,10.0,540
 93,I have a combination therapy I'd like to prescribe for you,1.4396551724137931,0.06278015842104538,116.0,77.0,27.0,12.0,540
 94,It sounds like it may be a combination of things.,1.4387755102040816,0.07115755141972316,98.0,67.0,19.0,12.0,540
-95,I'm going to prescribe nitroglycerin for you.,1.438095238095238,0.06890537324647604,105.0,72.0,20.0,13.0,540
-95,"I hope you don't mind, but I'm going to have to check your jewels.",1.438095238095238,0.06619403368836055,105.0,70.0,24.0,11.0,540
+95,I'm going to prescribe nitroglycerin for you.,1.4380952380952379,0.06890537324647604,105.0,72.0,20.0,13.0,540
+95,"I hope you don't mind, but I'm going to have to check your jewels.",1.4380952380952379,0.06619403368836055,105.0,70.0,24.0,11.0,540
 97,"Just relax, I need to check your family jewels.",1.43801652892562,0.06416722512383119,121.0,83.0,23.0,15.0,540
 98,I suspect that you suffer from a combination of problems.,1.4368932038834952,0.06712658259671728,103.0,69.0,23.0,11.0,540
 98,"One way or another, you're going to have to open up to me if you want me to help you",1.4368932038834952,0.06712658259671728,103.0,69.0,23.0,11.0,540
@@ -138,7 +138,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 137,"Mr. Houdini, are you sure you don’t want to reschedule your appointment?",1.4152542372881356,0.06291746993905505,118.0,82.0,23.0,13.0,540
 138,"If I may be honest, Mr. Houdini, I would recommend retirement at this point.",1.4144144144144144,0.06458900298715288,111.0,77.0,22.0,12.0,540
 138,I'm afraid we will have to probe further. Are you allergic to dynamite?,1.4144144144144144,0.06200112079046729,111.0,75.0,26.0,10.0,540
-140,"""You have no heart. have you thought about banking?",1.4141414141414141,0.06887214755429567,99.0,69.0,19.0,11.0,540
+140,"""You have no heart. have you thought about banking?",1.414141414141414,0.06887214755429567,99.0,69.0,19.0,11.0,540
 141,Okay now open wide,1.4134615384615383,0.06914955613266946,104.0,74.0,17.0,13.0,540
 141,"Sorry, it sounds like a combination of things.",1.4134615384615383,0.06497339163986192,104.0,71.0,23.0,10.0,540
 141,"It appears to be a combination of things. Physically, you're strong but emotionally I'm guessing you're empty inside.",1.4134615384615383,0.06497339163986192,104.0,71.0,23.0,10.0,540
@@ -154,8 +154,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 152,I'm going to recommend we cut back on those iron supplements.,1.4069767441860466,0.07281313710322973,86.0,60.0,17.0,9.0,540
 154,Do you and your partner routinely practice safe sex?,1.4065934065934067,0.07157400428836615,91.0,64.0,17.0,10.0,540
 154,Have you been practicing safe sex?,1.4065934065934067,0.0680767038087962,91.0,62.0,21.0,8.0,540
-156,Take two turns to the right and call me in the morning.,1.4059405940594059,0.05832347118821046,101.0,65.0,31.0,5.0,540
-156,Any feelings of withdrawal?,1.4059405940594059,0.06321144435450443,101.0,68.0,25.0,8.0,540
+156,Take two turns to the right and call me in the morning.,1.405940594059406,0.05832347118821046,101.0,65.0,31.0,5.0,540
+156,Any feelings of withdrawal?,1.405940594059406,0.06321144435450443,101.0,68.0,25.0,8.0,540
 158,I don't have to explain safe sex to you.,1.4042553191489362,0.06818084095271891,94.0,65.0,20.0,9.0,540
 159,It's not healthy to keep everything locked up inside you.,1.404040404040404,0.06407966323571289,99.0,67.0,24.0,8.0,540
 160,It seems that you're healthy enough for safe sex.,1.4038461538461535,0.0648420133921871,104.0,72.0,22.0,10.0,540
@@ -174,8 +174,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 165,And are you practicing safe sex?,1.4,0.06816498108607268,100.0,71.0,18.0,11.0,540
 165,I trust you've been practicing safe sex?,1.4,0.06712298045747453,105.0,75.0,18.0,12.0,540
 175,I'm going to have to check the family jewels.,1.3983739837398377,0.05969829225930219,123.0,86.0,25.0,12.0,540
-176,Your family jewels are just fine !,1.3981481481481481,0.06300952201142132,108.0,75.0,23.0,10.0,540
-176,"Hmm, sounds like it could be a combination of things.",1.3981481481481481,0.06300952201142132,108.0,75.0,23.0,10.0,540
+176,Your family jewels are just fine !,1.398148148148148,0.06300952201142132,108.0,75.0,23.0,10.0,540
+176,"Hmm, sounds like it could be a combination of things.",1.398148148148148,0.06300952201142132,108.0,75.0,23.0,10.0,540
 178,Yes. Your heart is strong enough for safe sex.,1.3980582524271843,0.06806985950432018,103.0,74.0,17.0,12.0,540
 178,I guess I don't need to ask if you're having safe sex.,1.3980582524271843,0.06373698726516025,103.0,71.0,23.0,9.0,540
 178,I really can't tell. It looks as though we're going to have to open you up.,1.3980582524271843,0.0652132728417978,103.0,72.0,21.0,10.0,540
@@ -244,8 +244,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 243,Don't worry a bit. I'll have you cleaned out in no time.,1.3818181818181818,0.06191524538953285,110.0,78.0,22.0,10.0,540
 243,It's not healthy to keep holding everything inside.,1.3818181818181818,0.057732838120670864,110.0,75.0,28.0,7.0,540
 243,And would you say you've been having withdrawals recently?,1.3818181818181818,0.060553215771362974,110.0,77.0,24.0,9.0,540
-246,Practicing safe sex?,1.3814432989690721,0.06942835278424347,97.0,71.0,15.0,11.0,540
-246,"I'm sorry, but we're going to need to open you up and have a look inside.",1.3814432989690721,0.0629379824996301,97.0,67.0,23.0,7.0,540
+246,Practicing safe sex?,1.381443298969072,0.06942835278424347,97.0,71.0,15.0,11.0,540
+246,"I'm sorry, but we're going to need to open you up and have a look inside.",1.381443298969072,0.0629379824996301,97.0,67.0,23.0,7.0,540
 248,You just can't keep everything locked up.,1.380952380952381,0.05957872924288001,105.0,72.0,26.0,7.0,540
 248,We're going to try a combination of treatments.,1.380952380952381,0.0610964414785885,105.0,73.0,24.0,8.0,540
 250,Try to cut down on the crackers!,1.3804347826086956,0.0652870308237123,92.0,64.0,21.0,7.0,540
@@ -290,7 +290,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 288,"As your internist, I'd say you're problem is a combination of things.",1.3695652173913044,0.0650579353412897,92.0,65.0,20.0,7.0,540
 288,"""How long have you had that ‘empty’ feeling”?",1.3695652173913044,0.0650579353412897,92.0,65.0,20.0,7.0,540
 291,Why do you feel your wife thinks of you only as a source for money?,1.3693693693693694,0.058549107786477976,111.0,78.0,25.0,8.0,540
-291,"Well yes, I did tell you to go to your safe place when anxiety hits.",1.3693693693693694,0.055681214920225014,111.0,76.0,29.0,6.0,540
+291,"Well yes, I did tell you to go to your safe place when anxiety hits.",1.3693693693693694,0.05568121492022501,111.0,76.0,29.0,6.0,540
 293,We'll have all that icky money out of you in no time.,1.3688524590163935,0.05843186265310087,122.0,88.0,23.0,11.0,540
 294,"Everything sounds normal, but I'm concerned about your weight.",1.368421052631579,0.06137577833255689,114.0,83.0,20.0,11.0,540
 294,I'm just trying to get you to open up.,1.368421052631579,0.05879179684001161,114.0,81.0,24.0,9.0,540
@@ -338,8 +338,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 333,"If you want to change, you have got to stop keeping everything locked inside you.",1.3619047619047622,0.057614052397524936,105.0,73.0,26.0,6.0,540
 338,"It's safe to say, you have a combination of things.",1.3617021276595744,0.06567158961380372,94.0,68.0,18.0,8.0,540
 339,Hmmm. Sounds like a bad combination.,1.3614457831325302,0.07388770309814092,83.0,62.0,12.0,9.0,540
-340,"Sounds like 120 over 80, then back to the right to 60 ...",1.361344537815126,0.058137905142702076,119.0,86.0,23.0,10.0,540
-340,"If you want me to help you, you have to open up.",1.361344537815126,0.056899790518810986,119.0,85.0,25.0,9.0,540
+340,"Sounds like 120 over 80, then back to the right to 60 ...",1.3613445378151259,0.058137905142702076,119.0,86.0,23.0,10.0,540
+340,"If you want me to help you, you have to open up.",1.3613445378151259,0.056899790518810986,119.0,85.0,25.0,9.0,540
 342,'I'm assuming you have the funds to pay for this.',1.3608247422680413,0.06419198915196782,97.0,70.0,19.0,8.0,540
 343,"Yeah, we're going to have to open you up.",1.360655737704918,0.05590163735770806,122.0,87.0,26.0,9.0,540
 344,"Well, it's certainly not an iron deficiency.",1.3604651162790695,0.06387571443067051,86.0,60.0,21.0,5.0,540
@@ -383,13 +383,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 381,Drop your tumblers and cough for me,1.3529411764705883,0.06482666406815095,102.0,76.0,16.0,10.0,540
 381,I can't help you unless you open up to me.,1.3529411764705883,0.055115097837303104,102.0,70.0,28.0,4.0,540
 381,I'd like to get a second opinion from a locksmith.,1.3529411764705883,0.05684901995971781,102.0,71.0,26.0,5.0,540
-385,"I'm going to run some more tests, but I'm pretty sure you're stuck in a safe.",1.3524590163934427,0.060394461752465364,122.0,92.0,17.0,13.0,540
+385,"I'm going to run some more tests, but I'm pretty sure you're stuck in a safe.",1.352459016393443,0.060394461752465364,122.0,92.0,17.0,13.0,540
 386,I'm going to prescribe you a combination therapy.,1.3523809523809525,0.058960706448755625,105.0,75.0,23.0,7.0,540
 386,I'm afraid we're going to have to crack you open.,1.3523809523809525,0.06049392604292199,105.0,76.0,21.0,8.0,540
 388,Just a few more minutes and we'll see why you feel so empty inside.,1.3522727272727273,0.06268082041150158,88.0,62.0,21.0,5.0,540
-389,It appears to be a combination of things.,1.3518518518518519,0.0578171267700413,108.0,77.0,24.0,7.0,540
-389,"Well, your condition is a combination of things.",1.3518518518518519,0.05313764530310311,108.0,74.0,30.0,4.0,540
-389,I recommend cutting back on iron.,1.3518518518518519,0.0578171267700413,108.0,77.0,24.0,7.0,540
+389,It appears to be a combination of things.,1.351851851851852,0.0578171267700413,108.0,77.0,24.0,7.0,540
+389,"Well, your condition is a combination of things.",1.351851851851852,0.05313764530310311,108.0,74.0,30.0,4.0,540
+389,I recommend cutting back on iron.,1.351851851851852,0.0578171267700413,108.0,77.0,24.0,7.0,540
 392,"No one risk factor stands out, it's the combination that concerns me.",1.3516483516483515,0.06513558016233033,91.0,66.0,18.0,7.0,540
 392,"I know you keep a lot inside, but this is a safe place.",1.3516483516483515,0.0592456164663904,91.0,63.0,24.0,4.0,540
 394,"Yes, I can hear you, but no, my card was not the seven of clubs.",1.3513513513513509,0.059548737977398326,111.0,81.0,21.0,9.0,540
@@ -497,17 +497,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 494,"Now when I touch your tumbler, turn your dial and cough",1.3363636363636364,0.0581580956642168,110.0,81.0,21.0,8.0,540
 494,"I'm not hearing a heartbeat, you must be in finance.",1.3363636363636364,0.0609588011207065,110.0,83.0,17.0,10.0,540
 498,How long have you been feeling unsafe?,1.336283185840708,0.057070580136378536,113.0,83.0,22.0,8.0,540
-499,You're going to have to be more open with me.,1.3361344537815123,0.05239908937112821,119.0,85.0,28.0,6.0,540
-500,InYale.....ExYale.,1.336,0.055583706129555384,125.0,93.0,22.0,10.0,540
+499,You're going to have to be more open with me.,1.3361344537815123,0.052399089371128214,119.0,85.0,28.0,6.0,540
+500,InYale.....ExYale.,1.3359999999999999,0.05558370612955538,125.0,93.0,22.0,10.0,540
 501,How the devil do you expect me to do my job if you won't open up?,1.3333333333333333,0.05861461007820391,96.0,69.0,22.0,5.0,540
 501,You need to come out. This is not what I meant by finding a safe place.,1.3333333333333333,0.05965885891765365,102.0,75.0,20.0,7.0,540
-501,And when did you first notice this clicking sound?,1.3333333333333333,0.05455976782448586,102.0,72.0,26.0,4.0,540
+501,And when did you first notice this clicking sound?,1.3333333333333333,0.054559767824485864,102.0,72.0,26.0,4.0,540
 501,"Sir, I know prostate exams are uncomfortable, but I can't properly examine you this way!",1.3333333333333333,0.0606166452768919,114.0,87.0,16.0,11.0,540
 501,I'm afraid we're gonna have to open you up.,1.3333333333333333,0.0622436262266905,96.0,71.0,18.0,7.0,540
 501,I am here to help you release what you are keeping locked up inside.,1.3333333333333333,0.0547455571109822,96.0,67.0,26.0,3.0,540
 501,"And how long have you been feeling, as you put it, unsafe?",1.3333333333333333,0.05965885891765365,102.0,75.0,20.0,7.0,540
-501,When did you first notice these feelings of insecurity?,1.3333333333333333,0.05584438862490346,87.0,60.0,25.0,2.0,540
-501,I'm detecting security issues.,1.3333333333333333,0.05285499781147279,126.0,92.0,26.0,8.0,540
+501,When did you first notice these feelings of insecurity?,1.3333333333333333,0.055844388624903464,87.0,60.0,25.0,2.0,540
+501,I'm detecting security issues.,1.3333333333333333,0.052854997811472786,126.0,92.0,26.0,8.0,540
 501,I'm hearing a combination of things.,1.3333333333333333,0.059198243857910574,99.0,72.0,21.0,6.0,540
 501,Good. You're sounding like you're ready to open up.,1.3333333333333333,0.05582760257514048,93.0,65.0,25.0,3.0,540
 501,"So, you always use protection?",1.3333333333333333,0.05800898539529546,102.0,74.0,22.0,6.0,540
@@ -525,7 +525,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 501,"My apologies, it'll warm up in a sec.",1.3333333333333333,0.06515131719569899,90.0,67.0,16.0,7.0,540
 501,"If you want the proper diagnosis, I'm going to need you to open up.",1.3333333333333333,0.0574307323005264,99.0,71.0,23.0,5.0,540
 501,How do you feel about combination therapy?,1.3333333333333333,0.057344006347969774,108.0,79.0,22.0,7.0,540
-527,Don't be afraid to open up... You're safe with me.,1.3304347826086955,0.05622464901122559,115.0,85.0,22.0,8.0,540
+527,Don't be afraid to open up... You're safe with me.,1.3304347826086955,0.056224649011225585,115.0,85.0,22.0,8.0,540
 527,"Okay, open up and let's have a look inside.",1.3304347826086955,0.05344249763850928,115.0,83.0,26.0,6.0,540
 529,I'm checking to see if you can afford your copay,1.3303571428571428,0.060014467444351786,112.0,85.0,17.0,10.0,540
 530,So the Tin Man referred me to you?,1.3302752293577982,0.058371613872458324,109.0,81.0,20.0,8.0,540
@@ -548,13 +548,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 546,I need you to open up if I am going to help you,1.3267326732673268,0.06151376066142205,101.0,76.0,17.0,8.0,540
 546,We are not going to get anywhere unless you are willing to open up.,1.3267326732673268,0.059882576336781936,101.0,75.0,19.0,7.0,540
 546,"Yes, I understand that you have a hard tine opening up to strangers.",1.3267326732673268,0.06310279354110175,101.0,77.0,15.0,9.0,540
-550,I would like to try to a new combination therapy.,1.3265306122448979,0.055755451360594836,98.0,70.0,24.0,4.0,540
-550,"Cough to the right, left and right again.",1.3265306122448979,0.06285096736982558,98.0,74.0,16.0,8.0,540
-550,So you feel a little empty inside.,1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,540
-550,"I don't think your problem is physical, it seems like you are keeping something locked up inside you",1.3265306122448979,0.057611316528512535,98.0,71.0,22.0,5.0,540
-550,Explain to me again exactly how you got up onto the couch,1.3265306122448979,0.06285096736982558,98.0,74.0,16.0,8.0,540
-555,"Yes, I'll only take out enough to cover the deductible.",1.3263157894736841,0.058808827759374564,95.0,69.0,21.0,5.0,540
-555,Your height to weight ratio might be part of the problem.,1.3263157894736841,0.05687278836753393,95.0,68.0,23.0,4.0,540
+550,I would like to try to a new combination therapy.,1.326530612244898,0.055755451360594836,98.0,70.0,24.0,4.0,540
+550,"Cough to the right, left and right again.",1.326530612244898,0.06285096736982558,98.0,74.0,16.0,8.0,540
+550,So you feel a little empty inside.,1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,540
+550,"I don't think your problem is physical, it seems like you are keeping something locked up inside you",1.326530612244898,0.057611316528512535,98.0,71.0,22.0,5.0,540
+550,Explain to me again exactly how you got up onto the couch,1.326530612244898,0.06285096736982558,98.0,74.0,16.0,8.0,540
+555,"Yes, I'll only take out enough to cover the deductible.",1.326315789473684,0.058808827759374564,95.0,69.0,21.0,5.0,540
+555,Your height to weight ratio might be part of the problem.,1.326315789473684,0.05687278836753393,95.0,68.0,23.0,4.0,540
 557,Sir? Sir. You're going to have to stop screaming. I can't hear the tumblers.,1.326086956521739,0.06203411290508756,92.0,68.0,18.0,6.0,540
 557,"""You've taken quite a tumble, but I think you're safe.",1.326086956521739,0.06007777975825824,92.0,67.0,20.0,5.0,540
 559,It sounds like a combination of problems.,1.3258426966292134,0.057116802576715024,89.0,63.0,23.0,3.0,540
@@ -593,7 +593,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 591,How long have you had this feeling of emptiness?,1.32,0.054827553347387335,100.0,72.0,24.0,4.0,540
 591,I think we're going to have to drill.,1.32,0.05839607015973771,100.0,74.0,20.0,6.0,540
 591,And how long would you say you've felt empty?,1.32,0.05839607015973771,100.0,74.0,20.0,6.0,540
-595,"This would be a lot easier, if you'd just open up a little bit.",1.319672131147541,0.053677134019231014,122.0,91.0,23.0,8.0,540
+595,"This would be a lot easier, if you'd just open up a little bit.",1.319672131147541,0.05367713401923101,122.0,91.0,23.0,8.0,540
 596,"The good news is you are SAFE, the bad news is we lost the combination.",1.3195876288659794,0.0613885569929548,97.0,73.0,17.0,7.0,540
 596,"Yes, she's still ahead in the polls. No Bill, you can't come out until after the election.",1.3195876288659794,0.05778409526048193,97.0,71.0,21.0,5.0,540
 598,Let's see if we can't get you to open up a little,1.319148936170213,0.0570228473065848,94.0,68.0,22.0,4.0,540
@@ -618,13 +618,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 617,You're going to need to open up in order for me to help.,1.3163265306122451,0.05728432190197445,98.0,72.0,21.0,5.0,540
 617,I'll just need a bullion sample before you go.,1.3163265306122451,0.060846367247508214,98.0,74.0,17.0,7.0,540
 617,"If you're feeling insecure about yourself, remember, it's what you have inside you that counts.",1.3163265306122451,0.060846367247508214,98.0,74.0,17.0,7.0,540
-620,Great. Now I’ll just hold onto your handle while you cough.,1.3162393162393162,0.053810822104236995,117.0,87.0,23.0,7.0,540
-620,"Turn to 21, 7, and 18 and cough.",1.3162393162393162,0.053810822104236995,117.0,87.0,23.0,7.0,540
+620,Great. Now I’ll just hold onto your handle while you cough.,1.3162393162393162,0.053810822104237,117.0,87.0,23.0,7.0,540
+620,"Turn to 21, 7, and 18 and cough.",1.3162393162393162,0.053810822104237,117.0,87.0,23.0,7.0,540
 622,"...Well if it was *all* safe sex, we wouldn't be starting you on penicillin, would we?",1.3157894736842106,0.060352005684041976,95.0,71.0,18.0,6.0,540
 622,"I'm sorry, if we can't find the combination, we're going to have to drill",1.3157894736842106,0.05846708838614381,95.0,70.0,20.0,5.0,540
 622,I now have the combination..but do you have insurance?,1.3157894736842106,0.05184949118976792,114.0,83.0,26.0,5.0,540
 622,Please turn your dial and cough.,1.3157894736842106,0.05450203751132783,95.0,68.0,24.0,3.0,540
-626,Now turn your head and cough up $500.,1.3153153153153154,0.05427201483361607,111.0,82.0,23.0,6.0,540
+626,Now turn your head and cough up $500.,1.3153153153153154,0.054272014833616065,111.0,82.0,23.0,6.0,540
 627,You need to lose a few pounds.,1.315217391304348,0.057685382884157636,92.0,67.0,21.0,4.0,540
 628,"Nothing serious, just a small coffer.",1.3148148148148149,0.056810562136433325,108.0,81.0,20.0,7.0,540
 628,I'm afraid we'll have to open you up?,1.3148148148148149,0.05526635236497287,108.0,80.0,22.0,6.0,540
@@ -713,7 +713,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 712,You have a combination of conditions.,1.3047619047619048,0.05263011005322143,105.0,77.0,24.0,4.0,540
 712,"As I've told you before, the clicking is perfectly normal.",1.3047619047619048,0.05600204327088937,105.0,79.0,20.0,6.0,540
 712,"Doctor, I just don't feel safe enough to open up to anyone.",1.3047619047619048,0.05600204327088937,105.0,79.0,20.0,6.0,540
-712,"I'm glad you came, better safe than sorry",1.3047619047619048,0.05086038046519133,105.0,76.0,26.0,3.0,540
+712,"I'm glad you came, better safe than sorry",1.3047619047619048,0.050860380465191334,105.0,76.0,26.0,3.0,540
 712,Good news- your blood pressure is 96 right over 68 left,1.3047619047619048,0.057614052397524936,105.0,80.0,18.0,7.0,540
 717,This is what you get for keeping things locked up inside.,1.3043478260869563,0.05265478876691291,115.0,86.0,23.0,6.0,540
 717,Ok. Now what's your mothers' maiden name?,1.3043478260869563,0.061318391684803214,92.0,70.0,16.0,6.0,540
@@ -729,7 +729,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 728,It appears you're right after all. You are empty inside.,1.3037974683544304,0.06825698994477851,79.0,61.0,12.0,6.0,540
 729,"Sir, if you can hear me, I've figured out why you're feeling claustrophobic.",1.3035714285714286,0.056494674801559785,112.0,86.0,18.0,8.0,540
 729,It's nothing that a little infusion of cash won't cure.,1.3035714285714286,0.05505245789298452,112.0,85.0,20.0,7.0,540
-729,Don't be nervous -- it's a routine audit.,1.3035714285714286,0.052048273730341064,112.0,83.0,24.0,5.0,540
+729,Don't be nervous -- it's a routine audit.,1.3035714285714286,0.05204827373034106,112.0,83.0,24.0,5.0,540
 729,Good you came in. Better safe than sorry.,1.3035714285714286,0.05357142857142856,112.0,84.0,22.0,6.0,540
 733,"We'll need an X-ray, but I suspect the family jewels are still intact",1.303370786516854,0.06472321516829779,89.0,69.0,13.0,7.0,540
 733,A feeling of emptiness is not uncommon. There are some great new combination therapies I can suggest.,1.303370786516854,0.05850646747994826,89.0,66.0,19.0,4.0,540
@@ -745,10 +745,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 744,"I'm not a psychiatrist, but I sense you have a problem opening up.",1.3027522935779816,0.05606987285089937,109.0,83.0,19.0,7.0,540
 745,How's your family life? Are you still locking everyone out?,1.3020833333333333,0.05758249548734154,96.0,72.0,19.0,5.0,540
 745,Believing you're Harry Houdini is one thing. Five minutes without oxygen is another.,1.3020833333333333,0.05758249548734154,96.0,72.0,19.0,5.0,540
-747,It's safe to open up and share your feelings with me.,1.3018867924528301,0.05714031423930504,106.0,81.0,18.0,7.0,540
-747,Combination therapy? It mostly works from the inside out.,1.3018867924528301,0.0555456658259613,106.0,80.0,20.0,6.0,540
-747,You have to stop keeping everything inside,1.3018867924528301,0.0602030277477873,106.0,83.0,14.0,9.0,540
-750,"Ok, left 31. Wait...is that your left or mine?",1.3017241379310345,0.053679915901996465,116.0,88.0,21.0,7.0,540
+747,It's safe to open up and share your feelings with me.,1.30188679245283,0.05714031423930504,106.0,81.0,18.0,7.0,540
+747,Combination therapy? It mostly works from the inside out.,1.30188679245283,0.0555456658259613,106.0,80.0,20.0,6.0,540
+747,You have to stop keeping everything inside,1.30188679245283,0.0602030277477873,106.0,83.0,14.0,9.0,540
+750,"Ok, left 31. Wait...is that your left or mine?",1.3017241379310345,0.05367991590199647,116.0,88.0,21.0,7.0,540
 751,I think you're experiencing feelings of insecurity.,1.3012048192771084,0.06799884996485672,83.0,65.0,11.0,7.0,540
 752,This calls for a combination therapy,1.3010752688172045,0.056765196844794114,93.0,69.0,20.0,4.0,540
 753,You're going to need a cash infusion.,1.300970873786408,0.05490408620453674,103.0,77.0,21.0,5.0,540
@@ -760,7 +760,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 759,It seems to be a combination of things.,1.3,0.057368451613289385,80.0,58.0,20.0,2.0,540
 759,I'm going to prescribe a combination therapy.,1.3,0.06408873374282763,90.0,70.0,13.0,7.0,540
 759,Try to be more open.,1.3,0.06006654653369374,90.0,68.0,17.0,5.0,540
-759,Your sickness could be due to a combination of things.,1.3,0.051080705280321666,90.0,64.0,25.0,1.0,540
+759,Your sickness could be due to a combination of things.,1.3,0.05108070528032167,90.0,64.0,25.0,1.0,540
 759,I don't hear anything. I think your safe.,1.3,0.05410581792140397,110.0,83.0,21.0,6.0,540
 759,You've got stones- I'd say about 25 carats worth of diamonds.,1.3,0.057735026918962574,100.0,76.0,18.0,6.0,540
 759,"If you want this therapy to work, you're going to have to open up.",1.3,0.05410581792140397,110.0,83.0,21.0,6.0,540
@@ -780,7 +780,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 778,"The cat is alive! ... wait - dead .... no, wait - alive!",1.2980769230769231,0.05937156529479485,104.0,81.0,15.0,8.0,540
 778,You're a tough case to crack....,1.2980769230769231,0.05613884368939094,104.0,79.0,19.0,6.0,540
 778,Your mother was right. It's not healthy to keep everything locked up inside of you.,1.2980769230769231,0.05445055806321695,104.0,78.0,21.0,5.0,540
-782,I can't help unless you are open with me.,1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,540
+782,I can't help unless you are open with me.,1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,540
 783,"Your heart sounds good, but your iron levels are a little high.",1.2972972972972974,0.05368423862356688,111.0,84.0,21.0,6.0,540
 784,It's hard to diagnose your problem -- I've never run across this combination before.,1.2970297029702973,0.05366665438759465,101.0,75.0,22.0,4.0,540
 784,When Houdini did it--he remembered the combination.,1.2970297029702973,0.058942083430246386,101.0,78.0,16.0,7.0,540
@@ -816,8 +816,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 813,Sounds like we'll have to open you up.,1.2935779816513762,0.05421849601211906,109.0,83.0,20.0,6.0,540
 813,"I'm sorry to say, but these numbers don't sound good.",1.2935779816513762,0.05421849601211906,109.0,83.0,20.0,6.0,540
 813,"I don't know what makes you click, but getting you to open up is the goal of this session.",1.2935779816513762,0.05421849601211906,109.0,83.0,20.0,6.0,540
-813,I see you've been taking your iron pills.,1.2935779816513762,0.04929463778032701,109.0,80.0,26.0,3.0,540
-813,"I don't like it any more than you, but my hand does need to go in there.",1.2935779816513762,0.055763249323579414,109.0,84.0,18.0,7.0,540
+813,I see you've been taking your iron pills.,1.2935779816513762,0.049294637780327014,109.0,80.0,26.0,3.0,540
+813,"I don't like it any more than you, but my hand does need to go in there.",1.2935779816513762,0.05576324932357941,109.0,84.0,18.0,7.0,540
 820,"Come on out, Mr. Dorning. A colonoscopy is nothing to be afraid of.",1.2934782608695652,0.06092542314536813,92.0,71.0,15.0,6.0,540
 820,"It's not a dead bolt, and you're not unhinged, but maybe it's a combination.",1.2934782608695652,0.06092542314536813,92.0,71.0,15.0,6.0,540
 822,TO the New Yorker Judges. I thought that last weeks cartoon (Hiker on the cliff) closed October 3. If so how do I submit? Thank you.,1.2929292929292928,0.06923400020718704,99.0,83.0,3.0,13.0,540
@@ -861,7 +861,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 859,"Yes, I think your heart is strong enough for safe sex.",1.2886597938144329,0.062105737360576674,97.0,77.0,12.0,8.0,540
 859,I'm afraid you have taken a turn for the worse,1.2886597938144329,0.060351851510939775,97.0,76.0,14.0,7.0,540
 859,"Ok, now try thinking outside the box.",1.2886597938144329,0.05475414216195252,97.0,73.0,20.0,4.0,540
-863,Do your valuables hurt?,1.2884615384615383,0.05579401216041786,104.0,80.0,18.0,6.0,540
+863,Do your valuables hurt?,1.2884615384615383,0.055794012160417863,104.0,80.0,18.0,6.0,540
 863,Your combination will remain confidential.,1.2884615384615383,0.059045616160127185,104.0,82.0,14.0,8.0,540
 865,Click. Hold it ... Click again...,1.2882882882882882,0.053367189378034106,111.0,85.0,20.0,6.0,540
 865,It's safe to say you have nerves of steel and a cast iron stomach.,1.2882882882882882,0.053367189378034106,111.0,85.0,20.0,6.0,540
@@ -888,7 +888,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 881,"Sounding good, Mr. Hamilton. We may not have to open you up after all.",1.2871287128712872,0.05859178069510292,101.0,79.0,15.0,7.0,540
 881,"No, I'm sure. You're not impregnable.",1.2871287128712872,0.05687685788651513,101.0,78.0,17.0,6.0,540
 889,"Look, if you can open up now, you'll save fifteen years of therapy.",1.2870370370370372,0.0510379051440824,108.0,81.0,23.0,4.0,540
-889,You seem tense. Keeping anything locked up?,1.2870370370370372,0.05589345722963453,108.0,84.0,17.0,7.0,540
+889,You seem tense. Keeping anything locked up?,1.2870370370370372,0.055893457229634534,108.0,84.0,17.0,7.0,540
 889,Are you sure you practiced safe sex?,1.2870370370370372,0.05432318376671947,108.0,83.0,19.0,6.0,540
 889,Out! That's not what I meant by safe sex.,1.2870370370370372,0.052706147914873866,108.0,82.0,21.0,5.0,540
 893,I know you don't like either candidate but you can't stay in there forever.,1.286885245901639,0.05137258167851917,122.0,94.0,21.0,7.0,540
@@ -924,7 +924,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 923,A combination of things could be making you feel unsafe,1.2831858407079646,0.05254133666830938,113.0,87.0,20.0,6.0,540
 924,Don't you think it's time you just open up to me?,1.2830188679245282,0.05149118153223209,106.0,80.0,22.0,4.0,540
 924,I know you've got a co-pay in there somewhere.,1.2830188679245282,0.05320748344831242,106.0,81.0,20.0,5.0,540
-924,I suspect someone has hacked your Tumbler account!,1.2830188679245282,0.04971566409360453,106.0,79.0,24.0,3.0,540
+924,I suspect someone has hacked your Tumbler account!,1.2830188679245282,0.049715664093604534,106.0,79.0,24.0,3.0,540
 924,Now turn left and click.,1.2830188679245282,0.05320748344831242,106.0,81.0,20.0,5.0,540
 928,"...it's a combination of symptoms, but it's what's on the inside that really matters.",1.2828282828282829,0.057503200130364425,99.0,77.0,16.0,6.0,540
 928,Turn your cylinders to the left and cough.,1.2828282828282829,0.05568190874913345,99.0,76.0,18.0,5.0,540
@@ -939,7 +939,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 936,You two inside need to review my lecture on safe sex.,1.2820512820512822,0.06553510851975908,78.0,61.0,12.0,5.0,540
 939,We'll have to open you up but the only safecracker I know is out of network.,1.2818181818181815,0.0579491281054039,110.0,88.0,13.0,9.0,540
 939,It's not healthy to keep it locked up inside.,1.2818181818181815,0.05187368082761433,110.0,84.0,21.0,5.0,540
-941,Just tell me your safe word...,1.2815533980582523,0.05053958934365407,103.0,77.0,23.0,3.0,540
+941,Just tell me your safe word...,1.2815533980582523,0.050539589343654066,103.0,77.0,23.0,3.0,540
 941,"I'm prescribing an antibiotic because, paradoxically, you haven't been practicing safe sex.",1.2815533980582523,0.05417550100575275,103.0,79.0,19.0,5.0,540
 941,you know you shouldn't keep things all locked up inside,1.2815533980582523,0.057582286576893085,103.0,81.0,15.0,7.0,540
 944,Your illness is not your vault.,1.28125,0.054818530370029296,96.0,73.0,19.0,4.0,540
@@ -954,10 +954,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 953,You have nerves of steel.,1.280373831775701,0.05601595693533673,107.0,84.0,16.0,7.0,540
 953,"I want to run some tests, just to be safe.",1.280373831775701,0.05107621953136337,107.0,81.0,22.0,4.0,540
 955,Good news: Your children are going to have to wait a little longer for their inheritance.,1.28,0.05333333333333333,100.0,76.0,20.0,4.0,540
-955,"""Better to be safe than sorry -- I'm calling in a locksmith for a second opinion.'",1.28,0.055194788218315013,100.0,77.0,18.0,5.0,540
+955,"""Better to be safe than sorry -- I'm calling in a locksmith for a second opinion.'",1.28,0.05519478821831501,100.0,77.0,18.0,5.0,540
 955,All I need is for you to open up.,1.28,0.060436125393056525,100.0,80.0,12.0,8.0,540
 955,"Frankly, I think you're carrying this obsession about people trying to see your tax returns a bit too far, Mr. Trump....",1.28,0.058740999740428734,100.0,79.0,14.0,7.0,540
-955,"Well if you're so worried about the 'family jewels,' you should practice safe sex.",1.28,0.055194788218315013,100.0,77.0,18.0,5.0,540
+955,"Well if you're so worried about the 'family jewels,' you should practice safe sex.",1.28,0.05519478821831501,100.0,77.0,18.0,5.0,540
 960,You have to want to change your combination.,1.2795698924731185,0.05993137613320426,93.0,73.0,14.0,6.0,540
 961,Turn your dial to the left and cough please.,1.279279279279279,0.051466887283750935,111.0,85.0,21.0,5.0,540
 961,If you can hear me in there...this is not a drill. I repeat: This is not a drill. It's a stethoscope.,1.279279279279279,0.051466887283750935,111.0,85.0,21.0,5.0,540
@@ -967,7 +967,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 964,Your numbers were pretty revealing.,1.2788461538461535,0.05195349425762494,104.0,79.0,21.0,4.0,540
 964,"Unfortunately, I think we're going to have to open you up this time.",1.2788461538461535,0.053720313317805364,104.0,80.0,19.0,5.0,540
 964,Let me guess: you have a combination of symptoms.,1.2788461538461535,0.053720313317805364,104.0,80.0,19.0,5.0,540
-969,"Okay, now just cough up the combination.",1.278688524590164,0.049741637163274614,122.0,94.0,22.0,6.0,540
+969,"Okay, now just cough up the combination.",1.278688524590164,0.04974163716327461,122.0,94.0,22.0,6.0,540
 969,"Unfortunately, an MRI is not a safe alternative.",1.278688524590164,0.043957917149784274,122.0,90.0,30.0,2.0,540
 971,Its safe to say a combination of an angry mother and cold father makes it difficult for you to open up,1.2783505154639174,0.054327875442482416,97.0,74.0,19.0,4.0,540
 971,Turn your spindle and cough please.,1.2783505154639174,0.05231387404686713,97.0,73.0,21.0,3.0,540
@@ -989,16 +989,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 987,Just say the first click that comes to mind.,1.2772277227722773,0.0509684660444901,101.0,76.0,22.0,3.0,540
 987,It is more serious than I thought. I am afraid I am going to have to crack you open.,1.2772277227722773,0.05649640640668161,101.0,79.0,16.0,6.0,540
 987,"You're not broken, but you are broke.",1.2772277227722773,0.05287536603096511,101.0,77.0,20.0,4.0,540
-991,Now take a big spin of those tumblers and hold it......,1.2767857142857142,0.04946597284198399,112.0,85.0,23.0,4.0,540
+991,Now take a big spin of those tumblers and hold it......,1.2767857142857142,0.049465972841983986,112.0,85.0,23.0,4.0,540
 992,Please think of my office as your safe place.,1.2765957446808511,0.05327150239189492,94.0,71.0,20.0,3.0,540
 992,Breathe to the left. Now breathe to the right.,1.2765957446808511,0.05740569802641553,94.0,73.0,16.0,5.0,540
 992,Your 100s are fine. Now rifle through your 20s.,1.2765957446808511,0.06126153250376903,94.0,75.0,12.0,7.0,540
 995,Any history of depression in your family?,1.2764227642276422,0.048019295357803984,123.0,94.0,24.0,5.0,540
-996,I'm not certain your insurance will cover a drilling of this size.,1.276190476190476,0.053272466576070564,105.0,81.0,19.0,5.0,540
-996,So you're self-insured?,1.276190476190476,0.054964587492755165,105.0,82.0,17.0,6.0,540
-996,"Take a deep breath, and cough it up",1.276190476190476,0.053272466576070564,105.0,81.0,19.0,5.0,540
-996,I can tell you rarely open up.,1.276190476190476,0.047838322981141435,105.0,78.0,25.0,2.0,540
-996,"Mr. Smith, please come out. Your feelings are not unusual and actually shared by an increasing number of voters.",1.276190476190476,0.05820142820025213,105.0,84.0,13.0,8.0,540
+996,I'm not certain your insurance will cover a drilling of this size.,1.2761904761904759,0.053272466576070564,105.0,81.0,19.0,5.0,540
+996,So you're self-insured?,1.2761904761904759,0.054964587492755165,105.0,82.0,17.0,6.0,540
+996,"Take a deep breath, and cough it up",1.2761904761904759,0.053272466576070564,105.0,81.0,19.0,5.0,540
+996,I can tell you rarely open up.,1.2761904761904759,0.047838322981141435,105.0,78.0,25.0,2.0,540
+996,"Mr. Smith, please come out. Your feelings are not unusual and actually shared by an increasing number of voters.",1.2761904761904759,0.05820142820025213,105.0,84.0,13.0,8.0,540
 1001,"No, but there is such a thing as safer sex.",1.2755102040816326,0.06116309426030232,98.0,79.0,11.0,8.0,540
 1001,"Sorry, there's no heart on this side either.",1.2755102040816326,0.05941826877122745,98.0,78.0,13.0,7.0,540
 1003,Your really going to need to open up,1.275229357798165,0.050265282715348164,109.0,83.0,22.0,4.0,540
@@ -1107,7 +1107,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1100,Have you tried opening up and not keeping everything inside you?,1.2666666666666666,0.05427998805840393,90.0,69.0,18.0,3.0,540
 1100,I don't think you're getting enough sun.,1.2666666666666666,0.058700024564689327,90.0,71.0,14.0,5.0,540
 1100,You're safe for the foreseeable future.,1.2666666666666666,0.0528780937259731,105.0,82.0,18.0,5.0,540
-1100,Good. Now spin left to 36 and hold it.,1.2666666666666666,0.04929292474374421,105.0,80.0,22.0,3.0,540
+1100,Good. Now spin left to 36 and hold it.,1.2666666666666666,0.049292924743744214,105.0,80.0,22.0,3.0,540
 1100,"Turn and cough up the money, please.",1.2666666666666666,0.04739875785969762,105.0,79.0,24.0,2.0,540
 1100,Show me the money,1.2666666666666666,0.05458244204176815,105.0,83.0,16.0,6.0,540
 1112,I will try but I am pretty sure only you can unlock your potential.,1.2660550458715596,0.04634482332994621,109.0,82.0,25.0,2.0,540
@@ -1189,18 +1189,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1187,"I assure you, the iron supplement is 100% safe.",1.26,0.05794459213400125,100.0,81.0,12.0,7.0,540
 1187,Good news Mr. Johnson! Only two more weeks and the elections will be over!,1.26,0.05617433182117573,100.0,80.0,14.0,6.0,540
 1187,You will neve feel safe unless you unlock your inner self.,1.26,0.054346438278284205,100.0,79.0,16.0,5.0,540
-1191,I hear you. It's a combination of things.,1.2596153846153846,0.05111744649348447,104.0,81.0,19.0,4.0,540
-1191,"Sir, I respect patient privacy, but don't you think this is a little much?",1.2596153846153846,0.05291218983750679,104.0,82.0,17.0,5.0,540
+1191,I hear you. It's a combination of things.,1.2596153846153846,0.051117446493484466,104.0,81.0,19.0,4.0,540
+1191,"Sir, I respect patient privacy, but don't you think this is a little much?",1.2596153846153846,0.052912189837506785,104.0,82.0,17.0,5.0,540
 1191,"Mr. Evans, you have to speak up when you're in your safe place.",1.2596153846153846,0.056330389916745424,104.0,84.0,13.0,7.0,540
-1191,How long has it been since you had a really good combination?,1.2596153846153846,0.05111744649348447,104.0,81.0,19.0,4.0,540
+1191,How long has it been since you had a really good combination?,1.2596153846153846,0.051117446493484466,104.0,81.0,19.0,4.0,540
 1195,Please turn three times to the left and cough.,1.2592592592592593,0.051576681714097385,108.0,85.0,18.0,5.0,540
 1195,I think we’re going to need to open you up.,1.2592592592592593,0.053228041135904285,108.0,86.0,16.0,6.0,540
 1197,"Shallow breaths, Houdini, shallow breaths.",1.2589285714285714,0.047024624074531264,112.0,86.0,23.0,3.0,540
 1197,"Relax, you're safe here.",1.2589285714285714,0.045281785614922736,112.0,85.0,25.0,2.0,540
 1197,What exactly did you say to your wife?,1.2589285714285714,0.05491530819113,112.0,91.0,13.0,8.0,540
 1200,Perhaps you could try to open up to me more.,1.258823529411765,0.05589340890190216,85.0,66.0,16.0,3.0,540
-1201,You probably wouldn't even be here if you had practiced safe sex.,1.2586206896551724,0.050663794155755185,116.0,92.0,18.0,6.0,540
-1201,I specialize in safes because that's where the money is.,1.2586206896551724,0.050663794155755185,116.0,92.0,18.0,6.0,540
+1201,You probably wouldn't even be here if you had practiced safe sex.,1.2586206896551724,0.05066379415575519,116.0,92.0,18.0,6.0,540
+1201,I specialize in safes because that's where the money is.,1.2586206896551724,0.05066379415575519,116.0,92.0,18.0,6.0,540
 1203,Try thinking outside the box,1.2584269662921348,0.05425719471795437,89.0,69.0,17.0,3.0,540
 1203,"Ok,now open widely",1.2584269662921348,0.05656152219994784,89.0,70.0,15.0,4.0,540
 1203,It's not healthy to keep all these things locked up inside of you.,1.2584269662921348,0.05425719471795437,89.0,69.0,17.0,3.0,540
@@ -1220,12 +1220,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1217,"You're lucky you found me, a lot of doctors are real thieves!",1.2571428571428571,0.052464136413634656,105.0,83.0,17.0,5.0,540
 1217,"I think with the right combination, we can see what going on in there",1.2571428571428571,0.052464136413634656,105.0,83.0,17.0,5.0,540
 1217,"Just to play safe, I'm looking at a combination of things",1.2571428571428571,0.054181507848883724,105.0,84.0,15.0,6.0,540
-1222,I'll have to refer you to a psychologist because I think you need to really open up.,1.2568807339449541,0.045905525990612435,109.0,83.0,24.0,2.0,540
-1222,Keeping everything inside really isn't healthy.,1.2568807339449541,0.045905525990612435,109.0,83.0,24.0,2.0,540
-1222,You need to open up and tell me why you don't feel safe anymore.,1.2568807339449541,0.045905525990612435,109.0,83.0,24.0,2.0,540
-1222,I see you have a combination of problems. Your ticker is off and your numbers are high.,1.2568807339449541,0.047720142306811104,109.0,84.0,22.0,3.0,540
-1222,"Now that you're in your safe place, you need to open up more.",1.2568807339449541,0.049468238770849854,109.0,85.0,20.0,4.0,540
-1227,So you feel like you're always tumbling.,1.2566371681415929,0.04832654847926018,113.0,88.0,21.0,4.0,540
+1222,I'll have to refer you to a psychologist because I think you need to really open up.,1.256880733944954,0.045905525990612435,109.0,83.0,24.0,2.0,540
+1222,Keeping everything inside really isn't healthy.,1.256880733944954,0.045905525990612435,109.0,83.0,24.0,2.0,540
+1222,You need to open up and tell me why you don't feel safe anymore.,1.256880733944954,0.045905525990612435,109.0,83.0,24.0,2.0,540
+1222,I see you have a combination of problems. Your ticker is off and your numbers are high.,1.256880733944954,0.047720142306811104,109.0,84.0,22.0,3.0,540
+1222,"Now that you're in your safe place, you need to open up more.",1.256880733944954,0.049468238770849854,109.0,85.0,20.0,4.0,540
+1227,So you feel like you're always tumbling.,1.2566371681415929,0.048326548479260184,113.0,88.0,21.0,4.0,540
 1227,Your wife seems to think you're keeping something from her.,1.2566371681415929,0.04993478848271368,113.0,89.0,19.0,5.0,540
 1229,And you think that working at a bank has changed you somehow?,1.2564102564102564,0.04725573356874562,117.0,91.0,22.0,4.0,540
 1230,I'll be prescribing a combination of drugs,1.255813953488372,0.05532158567646685,86.0,67.0,16.0,3.0,540
@@ -1293,7 +1293,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1289,It's better to be safe than sorry!,1.25,0.043879456641193054,108.0,82.0,25.0,1.0,540
 1289,I sense resistance.,1.25,0.05339360629309897,96.0,76.0,16.0,4.0,540
 1289,I think you may be taking this HIPAA thing too seriously.,1.25,0.052477812801650835,104.0,83.0,16.0,5.0,540
-1289,"I assure you once you finish therapy, you will open up a lot easier.",1.25,0.04660273245009,112.0,87.0,22.0,3.0,540
+1289,"I assure you once you finish therapy, you will open up a lot easier.",1.25,0.046602732450089994,112.0,87.0,22.0,3.0,540
 1289,Regular check-ups are the best way to ensure you stay safe.,1.25,0.0570517070440176,92.0,74.0,13.0,5.0,540
 1289,I'll order some tests to see if you have an iron deficiency.,1.25,0.046595281377622505,140.0,113.0,19.0,8.0,540
 1289,"No, I said, ""Go TO your safe place.""",1.25,0.06109566566553756,92.0,76.0,9.0,7.0,540
@@ -1328,8 +1328,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1326,"Just turn left, right, left, and open wide.",1.2476190476190476,0.05203012719286361,105.0,84.0,16.0,5.0,540
 1326,It’s unhealthy to keep everything inside.,1.2476190476190476,0.04645087282554565,105.0,81.0,22.0,2.0,540
 1326,"I can hear them in there, Mr. Trump. Your tax returns are weeping and begging to be released.",1.2476190476190476,0.05543856511496245,105.0,86.0,12.0,7.0,540
-1326,I need you to open up.,1.2476190476190476,0.050239267038397185,105.0,83.0,18.0,4.0,540
-1326,Just relax your tumblers and breath.,1.2476190476190476,0.050239267038397185,105.0,83.0,18.0,4.0,540
+1326,I need you to open up.,1.2476190476190476,0.05023926703839719,105.0,83.0,18.0,4.0,540
+1326,Just relax your tumblers and breath.,1.2476190476190476,0.05023926703839719,105.0,83.0,18.0,4.0,540
 1326,"If anything hurts, just use your safe word.",1.2476190476190476,0.04645087282554565,105.0,81.0,22.0,2.0,540
 1333,I'm afraid you are not a safe weight.,1.2475247524752475,0.05341031270994525,101.0,81.0,15.0,5.0,540
 1333,You say you had the combo meal at lunch?,1.2475247524752475,0.04752475247524752,101.0,78.0,21.0,2.0,540
@@ -1405,8 +1405,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1403,Yes Mr Houdini we can treat claustrophobia,1.2409638554216869,0.058360299942670835,83.0,67.0,12.0,4.0,540
 1403,"Deep breath, Mr. Hoffa",1.2409638554216869,0.06319526350874095,83.0,69.0,8.0,6.0,540
 1406,It's hard to help when if you won't open up.,1.2407407407407407,0.05073084824220075,108.0,87.0,16.0,5.0,540
-1406,"Now, a full deep turn to the right.",1.2407407407407407,0.048995394649344264,108.0,86.0,18.0,4.0,540
-1406,"Don't worry, I'll have this open in a heartbeat.",1.2407407407407407,0.048995394649344264,108.0,86.0,18.0,4.0,540
+1406,"Now, a full deep turn to the right.",1.2407407407407407,0.04899539464934426,108.0,86.0,18.0,4.0,540
+1406,"Don't worry, I'll have this open in a heartbeat.",1.2407407407407407,0.04899539464934426,108.0,86.0,18.0,4.0,540
 1406,PTSD is very common after trauma. How soon after the robbery did these feelings of emptiness and worthlessness begin?,1.2407407407407407,0.05073084824220075,108.0,87.0,16.0,5.0,540
 1406,"If you want to be safe, you should get a second opinion.",1.2407407407407407,0.05073084824220075,108.0,87.0,16.0,5.0,540
 1411,"I'd get a second opinion, just to be on the safe side.",1.2403846153846154,0.04426647258550048,104.0,80.0,23.0,1.0,540
@@ -1434,7 +1434,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1433,Sometimes a ball bearing is just a ball bearing.,1.2389380530973448,0.049130132874394564,113.0,91.0,17.0,5.0,540
 1433,Too many locks and not enough bagels.,1.2389380530973448,0.05071289549168667,113.0,92.0,15.0,6.0,540
 1433,"Don't worry sir, you're totally safe.",1.2389380530973448,0.0440418723213541,113.0,88.0,23.0,2.0,540
-1433,This will go a lot easier for the both of us if you just tell me what's going on inside.,1.2389380530973448,0.045800811460775734,113.0,89.0,21.0,3.0,540
+1433,This will go a lot easier for the both of us if you just tell me what's going on inside.,1.2389380530973448,0.04580081146077573,113.0,89.0,21.0,3.0,540
 1433,Do you feel safe?,1.2389380530973448,0.05224773279335481,113.0,93.0,13.0,7.0,540
 1438,I see what you mean about feeling empty inside.,1.2386363636363635,0.0510964374493487,88.0,69.0,17.0,2.0,540
 1438,Keyhole surgery is out. We're going to have to blast you open.,1.2386363636363635,0.05826272375692997,88.0,72.0,11.0,5.0,540
@@ -1448,13 +1448,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1440,You need to open up and show me the problem.,1.2385321100917428,0.050311774431205165,109.0,88.0,16.0,5.0,540
 1440,Your financial health is strong.,1.2385321100917428,0.048594032361072494,109.0,87.0,18.0,4.0,540
 1449,"Calm down, you're safe now. Just give me three more clicks to the left.",1.2384615384615385,0.044766466379273236,130.0,104.0,21.0,5.0,540
-1450,"I wouldn't worry, a little dizziness is normal after two spins to the right and one spin to the left.",1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,540
-1450,"Yes, I'd say there's a low risk of you getting pregnant.",1.2380952380952381,0.055012169023084825,105.0,87.0,11.0,7.0,540
-1450,Money talks--I can hear them!,1.2380952380952381,0.047892984956293135,105.0,83.0,19.0,3.0,540
-1450,"OK, I find you emotionally and physically ready for safe sex.",1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,540
-1450,"Let's see what's going on in there, shall we?",1.2380952380952381,0.0533215580930853,105.0,86.0,13.0,6.0,540
-1450,"Stay calm, Mr. Feldman, we'll have you out of there in no time.",1.2380952380952381,0.05665235144082404,105.0,88.0,9.0,8.0,540
-1450,Sounds like the money has stopped talking.,1.2380952380952381,0.05157555985468396,105.0,85.0,15.0,5.0,540
+1450,"I wouldn't worry, a little dizziness is normal after two spins to the right and one spin to the left.",1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,540
+1450,"Yes, I'd say there's a low risk of you getting pregnant.",1.238095238095238,0.055012169023084825,105.0,87.0,11.0,7.0,540
+1450,Money talks--I can hear them!,1.238095238095238,0.047892984956293135,105.0,83.0,19.0,3.0,540
+1450,"OK, I find you emotionally and physically ready for safe sex.",1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,540
+1450,"Let's see what's going on in there, shall we?",1.238095238095238,0.0533215580930853,105.0,86.0,13.0,6.0,540
+1450,"Stay calm, Mr. Feldman, we'll have you out of there in no time.",1.238095238095238,0.05665235144082404,105.0,88.0,9.0,8.0,540
+1450,Sounds like the money has stopped talking.,1.238095238095238,0.05157555985468396,105.0,85.0,15.0,5.0,540
 1457,I know it's hard to trust me - but I'm nowhere near your prostate.,1.2377049180327868,0.04663631960750777,122.0,98.0,19.0,5.0,540
 1457,You're not opening up to me.,1.2377049180327868,0.04516041750969229,122.0,97.0,21.0,4.0,540
 1457,Don't bank on it but I think you're safe.,1.2377049180327868,0.04806692525445646,122.0,99.0,17.0,6.0,540
@@ -1474,7 +1474,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1473,"I've got plenty of time, if you ever want to open up.",1.236842105263158,0.04874234413978753,114.0,92.0,17.0,5.0,540
 1473,You just can't keep things locked in.,1.236842105263158,0.05182978779130242,114.0,94.0,13.0,7.0,540
 1473,It sounds like your insides are all locked up.,1.236842105263158,0.047122825860897805,114.0,91.0,19.0,4.0,540
-1476,I'm going to need you to cough up a little more money.,1.2366412213740459,0.043119766662234535,131.0,104.0,23.0,4.0,540
+1476,I'm going to need you to cough up a little more money.,1.236641221374046,0.043119766662234535,131.0,104.0,23.0,4.0,540
 1477,"Hmm, have you traveled to Switzerland recently?",1.2365591397849462,0.049300505537725116,93.0,73.0,18.0,2.0,540
 1477,"Yes, Mrs. Hawkins the election campaigning is over. Go ahead and tell me the combination.",1.2365591397849462,0.05383352141248461,93.0,75.0,14.0,4.0,540
 1477,You know the drill.,1.2365591397849462,0.05383352141248461,93.0,75.0,14.0,4.0,540
@@ -1485,14 +1485,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1483,"Open, and then say ""ah"".",1.2359550561797752,0.057666736335600675,89.0,73.0,11.0,5.0,540
 1485,"When I said it can be helpful to compartmentalize, Mrs. Weinstein, I didn't mean it literally.",1.2358490566037736,0.04556106610227715,106.0,83.0,21.0,2.0,540
 1485,If you were my patient all I would say is that you could lose 15 or 20 pounds.,1.2358490566037736,0.0474921600234526,106.0,84.0,19.0,3.0,540
-1485,Tell me more about your feeling suffocated. Quickly.,1.2358490566037736,0.04934774344395487,106.0,85.0,17.0,4.0,540
+1485,Tell me more about your feeling suffocated. Quickly.,1.2358490566037736,0.049347743443954865,106.0,85.0,17.0,4.0,540
 1485,The odd thing is people usually open up when they feel safe.,1.2358490566037736,0.0474921600234526,106.0,84.0,19.0,3.0,540
 1485,"In order to feel safe again, you need to unlock your inner self.",1.2358490566037736,0.04354441669214215,106.0,82.0,23.0,1.0,540
 1485,Any history of heart in your family?,1.2358490566037736,0.05453699057485545,106.0,88.0,11.0,7.0,540
 1491,"Louder, Mr. Carlson! I still can't hear your safe word!",1.2352941176470589,0.04877926170751816,119.0,97.0,16.0,6.0,540
 1491,Still... better safe than sorry!,1.2352941176470589,0.048619998051113215,102.0,81.0,18.0,3.0,540
 1491,Your chest seems a bit tight.,1.2352941176470589,0.05246120787801261,102.0,83.0,14.0,5.0,540
-1491,Heart rate is still too fast. You're keeping way too much locked up inside you.,1.2352941176470589,0.04658075943697519,102.0,80.0,20.0,2.0,540
+1491,Heart rate is still too fast. You're keeping way too much locked up inside you.,1.2352941176470589,0.046580759436975185,102.0,80.0,20.0,2.0,540
 1491,"Your pulse is a little high, are you hiding anything.",1.2352941176470589,0.044448060575917735,102.0,79.0,22.0,1.0,540
 1496,You're not twenty anymore. Perhaps you and your wife should change the combination.,1.2347826086956522,0.03969839531753123,115.0,88.0,27.0,0.0,540
 1497,"My diagnosis is that you need to get out more, Mr. Houdini.",1.2346938775510203,0.053885472069766883,98.0,80.0,13.0,5.0,540
@@ -1540,7 +1540,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1535,It's safe to say your numbers don't add up.,1.2314814814814814,0.04670981813262549,108.0,86.0,19.0,3.0,540
 1535,There's a 95 percent chance we won't need dynamite.,1.2314814814814814,0.0485270787963912,108.0,87.0,17.0,4.0,540
 1535,you're going to need to open up for me,1.2314814814814814,0.0485270787963912,108.0,87.0,17.0,4.0,540
-1542,I'm beginning to regret naming this clinic 'A Safe Space'.,1.2307692307692308,0.05154587353209698,104.0,85.0,14.0,5.0,540
+1542,I'm beginning to regret naming this clinic 'A Safe Space'.,1.2307692307692308,0.051545873532096984,104.0,85.0,14.0,5.0,540
 1542,This diagnosis would be a lot easier for both of us if you would just open up.,1.2307692307692308,0.045791457566107335,104.0,82.0,20.0,2.0,540
 1542,I'm detecting a combination of symptoms.,1.2307692307692308,0.04960632092961228,91.0,72.0,17.0,2.0,540
 1542,"Say: ""Open Sesame.""",1.2307692307692308,0.0543064228666571,91.0,74.0,13.0,4.0,540
@@ -1560,7 +1560,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1556,Your heart sounds wealthy.,1.2298850574712643,0.05348368965287097,87.0,70.0,14.0,3.0,540
 1560,It's a combination psychosis.,1.2295081967213115,0.04624775156239316,122.0,99.0,18.0,5.0,540
 1560,My professional opinion is that you need to be more open.,1.2295081967213115,0.04162217598738882,122.0,96.0,24.0,2.0,540
-1560,These symptoms can arise from any combination of conditions.,1.2295081967213115,0.044759038502775586,122.0,98.0,20.0,4.0,540
+1560,These symptoms can arise from any combination of conditions.,1.2295081967213115,0.04475903850277559,122.0,98.0,20.0,4.0,540
 1563,Sounds like newmoneya.,1.2293577981651376,0.04812669371707594,109.0,88.0,17.0,4.0,540
 1563,I'm hearing security is an issue.,1.2293577981651376,0.0463280043044132,109.0,87.0,19.0,3.0,540
 1563,"I am a doctor dammit, not a safecracker!",1.2293577981651376,0.0498605386397374,109.0,89.0,15.0,5.0,540
@@ -1699,21 +1699,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1694,You click. I listen.,1.22,0.05237780391954538,100.0,83.0,12.0,5.0,540
 1694,Your left ventricular tumbler has a murmur!,1.22,0.050412440343769724,100.0,82.0,14.0,4.0,540
 1694,Now turn to the left.,1.22,0.05237780391954538,100.0,83.0,12.0,5.0,540
-1701,"Yes, you're fit enough to be president.",1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,540
-1701,I'll crack you open in a heartbeat.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,540
-1701,"Now, Mrs. Gardall, I'm required to ask you; do you feel safe at home?",1.2197802197802199,0.058056008076656215,91.0,77.0,8.0,6.0,540
-1701,"You seem to have misinterpreted the term 'safe space,' Mr. Calloway.",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,540
-1701,Don't worry about currency devaluation. You have a heart of gold.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,540
-1701,"Screw Cirque du Soleil, Steve. There are plenty of other companies looking for a man with your talents.",1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,540
-1701,Someday it will click.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,540
+1701,"Yes, you're fit enough to be president.",1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,540
+1701,I'll crack you open in a heartbeat.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,540
+1701,"Now, Mrs. Gardall, I'm required to ask you; do you feel safe at home?",1.21978021978022,0.058056008076656215,91.0,77.0,8.0,6.0,540
+1701,"You seem to have misinterpreted the term 'safe space,' Mr. Calloway.",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,540
+1701,Don't worry about currency devaluation. You have a heart of gold.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,540
+1701,"Screw Cirque du Soleil, Steve. There are plenty of other companies looking for a man with your talents.",1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,540
+1701,Someday it will click.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,540
 1708,"It's because you keeping it all locked up, you need to open up more.",1.2195121951219512,0.04550512530337219,123.0,101.0,17.0,5.0,540
 1708,Take two diamonds and you'll feel better in the morning.,1.2195121951219512,0.052128412091250256,82.0,66.0,14.0,2.0,540
-1710,Apparently you haven't been practicing safe sex.,1.2192982456140349,0.046218216889008214,114.0,93.0,17.0,4.0,540
+1710,Apparently you haven't been practicing safe sex.,1.2192982456140349,0.04621821688900821,114.0,93.0,17.0,4.0,540
 1710,"We will need to address your Social Phobia, Mr. Houdini",1.2192982456140349,0.04946346492765509,114.0,95.0,13.0,6.0,540
 1710,It could be a Combination of things. We better do an MRI just to play it Safe.,1.2192982456140349,0.04786835037396196,114.0,94.0,15.0,5.0,540
 1710,"In your case, a condom is optional.",1.2192982456140349,0.05100872236955505,114.0,96.0,11.0,7.0,540
 1714,Have you ever been cracked open before?,1.2190476190476192,0.04484599691984634,105.0,84.0,19.0,2.0,540
-1714,You're safe for a few more years.,1.2190476190476192,0.042755271681801814,105.0,83.0,21.0,1.0,540
+1714,You're safe for a few more years.,1.2190476190476192,0.04275527168180181,105.0,83.0,21.0,1.0,540
 1716,So you say you feel empty inside?,1.21875,0.04956637628367376,96.0,78.0,15.0,3.0,540
 1716,I think you have a heart of gold.,1.21875,0.04956637628367376,96.0,78.0,15.0,3.0,540
 1718,Can you use the doll to show me where they touched you?,1.2184873949579829,0.0494373179592086,119.0,100.0,12.0,7.0,540
@@ -1749,11 +1749,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1743,My diagnosis considers a combination of factors. No one is totally safe.,1.2162162162162162,0.04685944516544137,111.0,91.0,16.0,4.0,540
 1743,Your stethoscope is cold.,1.2162162162162162,0.04685944516544137,111.0,91.0,16.0,4.0,540
 1750,I'm going to run a few more tests... better safe than sorry.,1.2156862745098038,0.05143533103860702,102.0,85.0,12.0,5.0,540
-1750,No combination of pills can keep you safe.,1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,540
+1750,No combination of pills can keep you safe.,1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,540
 1750,My honest opinion -- you're cracked.,1.2156862745098038,0.05143533103860702,102.0,85.0,12.0,5.0,540
 1750,The election will be over soon.,1.2156862745098038,0.04542226432881116,102.0,82.0,18.0,2.0,540
 1750,Your cylinders are fine. I think you're suffering from an accumulation of gilt.,1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,540
-1750,Regarding the burning sensation in your tumblers... Have you been practicing safe sex?,1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,540
+1750,Regarding the burning sensation in your tumblers... Have you been practicing safe sex?,1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,540
 1756,Say mool-aagh!,1.2155172413793105,0.0471147033820272,116.0,96.0,15.0,5.0,540
 1756,I promise you it is safe to open up.,1.2155172413793105,0.04381717927724109,116.0,94.0,19.0,3.0,540
 1756,Just relax. You're safe.,1.2155172413793105,0.050196069066600464,116.0,98.0,11.0,7.0,540
@@ -1808,7 +1808,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1801,Perhaps more openness is not the best remedy here.,1.2121212121212122,0.048205752059134375,99.0,81.0,15.0,3.0,540
 1801,Try to relax. You're in a safe place.,1.2121212121212122,0.04601794724127552,99.0,80.0,17.0,2.0,540
 1809,You never open up about anything.,1.2118644067796611,0.04792023243577966,118.0,99.0,13.0,6.0,540
-1810,I may have to increase my fees.,1.2117647058823529,0.04761575206918946,85.0,68.0,16.0,1.0,540
+1810,I may have to increase my fees.,1.2117647058823529,0.047615752069189464,85.0,68.0,16.0,1.0,540
 1810,Cough up for me!,1.2117647058823529,0.058204020689177724,85.0,72.0,8.0,5.0,540
 1812,I'm glad you feel safe with me.,1.2115384615384617,0.044640035939055925,104.0,84.0,18.0,2.0,540
 1812,Open and say ka-ching!!!,1.2115384615384617,0.04668446536082761,104.0,85.0,16.0,3.0,540
@@ -1816,7 +1816,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1815,"Unless you open up, I can't tell you what's wrong.",1.2111111111111108,0.053572601034802034,90.0,75.0,11.0,4.0,540
 1815,"I need a depository , not s suppository.",1.2111111111111108,0.051189214601288266,90.0,74.0,13.0,3.0,540
 1815,I can sense your inner worth.,1.2111111111111108,0.04868929863285582,90.0,73.0,15.0,2.0,540
-1818,"Good news, Mosler--your lock is healthy enough for safe sex.",1.211009174311927,0.04337407810681607,109.0,88.0,19.0,2.0,540
+1818,"Good news, Mosler--your lock is healthy enough for safe sex.",1.211009174311927,0.043374078106816066,109.0,88.0,19.0,2.0,540
 1818,Please relax. You are really very safe here.,1.211009174311927,0.048897797982513584,109.0,91.0,13.0,5.0,540
 1818,"Mr. Schrodinger, are you ok in there?",1.211009174311927,0.048897797982513584,109.0,91.0,13.0,5.0,540
 1818,Come on. you can open up to me.,1.211009174311927,0.04712854742331021,109.0,90.0,15.0,4.0,540
@@ -1828,7 +1828,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1823,I think I need an infusion of cash.,1.2105263157894737,0.04463297341944604,95.0,76.0,18.0,1.0,540
 1823,You know that I can't let you out unless you give me the combination.,1.2105263157894737,0.04400689458220717,114.0,93.0,18.0,3.0,540
 1823,"You say left-right-left, but out here it may be right-left-right.",1.2105263157894737,0.042206058518233065,114.0,92.0,20.0,2.0,540
-1830,"""Just checking the ticker,not planning a heist"".",1.21,0.045604802157206865,100.0,81.0,17.0,2.0,540
+1830,"""Just checking the ticker,not planning a heist"".",1.21,0.04560480215720687,100.0,81.0,17.0,2.0,540
 1830,"There's a lot to unlock here, you'll need more appointments.",1.21,0.043333333333333335,100.0,80.0,19.0,1.0,540
 1830,Now turn your head and click a few times for me.,1.21,0.043333333333333335,100.0,80.0,19.0,1.0,540
 1830,A steady diet of bitcoin could explain your empty feeling inside.,1.21,0.04776838056516237,100.0,82.0,15.0,3.0,540
@@ -1846,7 +1846,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1839,It is safe to say that you keep all of your emotions locked up inside.,1.2095238095238094,0.04821965555951268,105.0,87.0,14.0,4.0,540
 1846,"It's called PTSD, Mr. Trump. You need to stop counting and come out of there.",1.2093023255813953,0.05514879529392636,86.0,72.0,10.0,4.0,540
 1847,I only went into this line of practice because of my med school loans.,1.2090909090909092,0.04491759584234193,110.0,90.0,17.0,3.0,540
-1847,I sense tax returns.,1.2090909090909092,0.050179751199407666,110.0,93.0,11.0,6.0,540
+1847,I sense tax returns.,1.2090909090909092,0.05017975119940767,110.0,93.0,11.0,6.0,540
 1847,"Your ok, but a little more pressure and you would have cracked.",1.2090909090909092,0.04302074784174662,110.0,89.0,19.0,2.0,540
 1850,I really need you to open up about what going on inside.,1.2087912087912087,0.045604027831460565,91.0,73.0,17.0,1.0,540
 1850,I thought I told you it was my back that needed cracking.,1.2087912087912087,0.053031387753417904,91.0,76.0,11.0,4.0,540
@@ -1867,7 +1867,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1860,You keep everything inside you....you need to open up to me.,1.207920792079208,0.047338744902502665,101.0,83.0,15.0,3.0,540
 1867,"If you don't have insurance, just give me the combination.",1.2075471698113207,0.04780347070761396,106.0,88.0,14.0,4.0,540
 1867,You can tell me anything. This is a safe space.,1.2075471698113207,0.04588548019119496,106.0,87.0,16.0,3.0,540
-1867,Sounds like it could be a combination of both letters and numbers.,1.2075471698113207,0.04178622085977893,106.0,85.0,20.0,1.0,540
+1867,Sounds like it could be a combination of both letters and numbers.,1.2075471698113207,0.041786220859778934,106.0,85.0,20.0,1.0,540
 1867,Could you please coffer for me?,1.2075471698113207,0.04588548019119496,106.0,87.0,16.0,3.0,540
 1867,Don't worry. Your secret is safe with me.,1.2075471698113207,0.04780347070761396,106.0,88.0,14.0,4.0,540
 1867,I've seen worse germophobes.,1.2075471698113207,0.04588548019119496,106.0,87.0,16.0,3.0,540
@@ -1948,11 +1948,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1946,"Don't worry, I'm sure we'll get the right combination of meds this time.",1.2022471910112358,0.05343123290615735,89.0,75.0,10.0,4.0,540
 1946,"""I'll do my best to help... but 'the safe has to want to open' "".",1.2022471910112358,0.05576969844624596,89.0,76.0,8.0,5.0,540
 1946,One of us is very sick.,1.2022471910112358,0.05576969844624596,89.0,76.0,8.0,5.0,540
-1950,Keeping your feelings locked up inside can be bad for your health.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,540
-1950,It was a panic attack. But you should feel safe now.,1.202127659574468,0.044304501646820114,94.0,76.0,17.0,1.0,540
-1950,I'm going to need to do some x-rays before we decide to open you up or not.,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,540
-1950,Which drugs? I think I'll use a combination.,1.202127659574468,0.044304501646820114,94.0,76.0,17.0,1.0,540
-1950,"You know, it's what's on the inside that counts.",1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,540
+1950,Keeping your feelings locked up inside can be bad for your health.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,540
+1950,It was a panic attack. But you should feel safe now.,1.2021276595744679,0.044304501646820114,94.0,76.0,17.0,1.0,540
+1950,I'm going to need to do some x-rays before we decide to open you up or not.,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,540
+1950,Which drugs? I think I'll use a combination.,1.2021276595744679,0.044304501646820114,94.0,76.0,17.0,1.0,540
+1950,"You know, it's what's on the inside that counts.",1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,540
 1955,The strong-box and silent type.,1.2020202020202022,0.0496945897769771,99.0,83.0,12.0,4.0,540
 1955,It's not uncommon for an ATM your age to experience some occasional stiffness.,1.2020202020202022,0.0496945897769771,99.0,83.0,12.0,4.0,540
 1955,I think it's safe to say the combination of your holding on to things and not opening-up enough is affecting your health.,1.2020202020202022,0.0496945897769771,99.0,83.0,12.0,4.0,540
@@ -1974,7 +1974,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1972,It's congenital lockjaw.,1.2,0.04923659639173309,100.0,84.0,12.0,4.0,540
 1972,"Usually it's heart, lungs or the combination!",1.2,0.046207278580632616,110.0,92.0,14.0,4.0,540
 1972,"Next time, you need to choose a safe word.",1.2,0.04364357804719849,105.0,86.0,17.0,2.0,540
-1972,"The safecracker will be here in just a minute, Melania.",1.2,0.047978310362298264,110.0,93.0,12.0,5.0,540
+1972,"The safecracker will be here in just a minute, Melania.",1.2,0.04797831036229826,110.0,93.0,12.0,5.0,540
 1972,Next time use a safe word.,1.2,0.04494665749754948,100.0,82.0,16.0,2.0,540
 1972,"If you want to remain safe, I'd better check your tumblers.",1.2,0.049648625302195035,85.0,70.0,13.0,2.0,540
 1972,Just take 2 million and call me in the morning.,1.2,0.04364357804719849,105.0,86.0,17.0,2.0,540
@@ -1982,7 +1982,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1972,"Yes, you are healthy enough to be President.",1.2,0.050970425959652337,95.0,80.0,11.0,4.0,540
 1972,"So, you feel a little left out, is that right? or left?",1.2,0.04872391770757887,95.0,79.0,13.0,3.0,540
 1972,How many diamonds would you say you have a week?,1.2,0.05046599329648382,90.0,75.0,12.0,3.0,540
-1972,"I can't confirm this without opening you up, but you seem to have a heart of gold.",1.2,0.047978310362298264,110.0,93.0,12.0,5.0,540
+1972,"I can't confirm this without opening you up, but you seem to have a heart of gold.",1.2,0.04797831036229826,110.0,93.0,12.0,5.0,540
 1972,"Oh no, everything is kept strictly confidential.",1.2,0.04636869624047495,95.0,78.0,15.0,2.0,540
 1972,I see this in about one percent of patients.,1.2,0.05310850045437945,105.0,91.0,7.0,7.0,540
 1972,I will let you out as soon as you give up this Houdini nonsense.,1.2,0.04364357804719849,105.0,86.0,17.0,2.0,540
@@ -2001,11 +2001,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2000,"Don't worry, you're safe for now.",1.1981981981981982,0.04400100479051485,111.0,92.0,16.0,3.0,540
 2000,Sounds like you need a safe space.,1.1981981981981982,0.04010596084093464,111.0,90.0,20.0,1.0,540
 2000,Your heart doesn't seem to be in the right place.,1.1981981981981982,0.04010596084093464,111.0,90.0,20.0,1.0,540
-2003,"At last, a patient with a heart of gold.",1.1981132075471699,0.05090344844828465,106.0,91.0,9.0,6.0,540
-2003,"Yes, it was touch-and-go there for awhile but now we think you're safe.",1.1981132075471699,0.04327104097035949,106.0,87.0,17.0,2.0,540
-2003,"Oh yes, there's certainly a rumble in your tumble",1.1981132075471699,0.04724163444772896,106.0,89.0,13.0,4.0,540
-2003,"It was a close call, but you're a safe now.",1.1981132075471699,0.045299862096652016,106.0,88.0,15.0,3.0,540
-2003,"I don't want to alarm you, but it could be a crack.",1.1981132075471699,0.04724163444772896,106.0,89.0,13.0,4.0,540
+2003,"At last, a patient with a heart of gold.",1.19811320754717,0.05090344844828465,106.0,91.0,9.0,6.0,540
+2003,"Yes, it was touch-and-go there for awhile but now we think you're safe.",1.19811320754717,0.04327104097035949,106.0,87.0,17.0,2.0,540
+2003,"Oh yes, there's certainly a rumble in your tumble",1.19811320754717,0.04724163444772896,106.0,89.0,13.0,4.0,540
+2003,"It was a close call, but you're a safe now.",1.19811320754717,0.045299862096652016,106.0,88.0,15.0,3.0,540
+2003,"I don't want to alarm you, but it could be a crack.",1.19811320754717,0.04724163444772896,106.0,89.0,13.0,4.0,540
 2008,Your anxiety stems from a combination of factors.,1.198019801980198,0.04878687126635612,101.0,85.0,12.0,4.0,540
 2008,And how are the anxiety medications working for you?,1.198019801980198,0.0445434529869386,101.0,83.0,16.0,2.0,540
 2008,You need to open up about your problems.,1.198019801980198,0.046713370740932486,101.0,84.0,14.0,3.0,540
@@ -2034,12 +2034,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2033,It's important to have a sense of self-worth.,1.1967213114754098,0.03971061876147311,122.0,100.0,20.0,2.0,540
 2034,And you're coughing up money?,1.1965811965811963,0.045807610721550734,117.0,99.0,13.0,5.0,540
 2034,When did you have your last holdup...I mean checkup?,1.1965811965811963,0.042468962400342,117.0,97.0,17.0,3.0,540
-2036,"You have to open up to me a bit, or I won't be able to afford to continue your sessions...",1.1964285714285714,0.045448015961182184,112.0,94.0,14.0,4.0,540
-2036,Uh=oh! I'm putting you on nitroglycerine.,1.1964285714285714,0.045448015961182184,112.0,94.0,14.0,4.0,540
-2036,"It's ok, you're safe here.",1.1964285714285714,0.045448015961182184,112.0,94.0,14.0,4.0,540
+2036,"You have to open up to me a bit, or I won't be able to afford to continue your sessions...",1.1964285714285714,0.04544801596118218,112.0,94.0,14.0,4.0,540
+2036,Uh=oh! I'm putting you on nitroglycerine.,1.1964285714285714,0.04544801596118218,112.0,94.0,14.0,4.0,540
+2036,"It's ok, you're safe here.",1.1964285714285714,0.04544801596118218,112.0,94.0,14.0,4.0,540
 2036,"Now, click four times to the left.",1.1964285714285714,0.0377097004934702,112.0,90.0,22.0,0.0,540
 2036,I think you need to be more open with your feelings.,1.1964285714285714,0.04364226155841044,112.0,93.0,16.0,3.0,540
-2041,Your exactly the patient the affordable care act was designed for,1.1962616822429906,0.04683465390377221,107.0,90.0,13.0,4.0,540
+2041,Your exactly the patient the affordable care act was designed for,1.1962616822429906,0.046834653903772214,107.0,90.0,13.0,4.0,540
 2041,"So, you believe many of your problems stem from parents that were tight-fisted and miserly?",1.1962616822429906,0.044912682652352966,107.0,89.0,15.0,3.0,540
 2041,"All I said was: ""Wouldn't you rather be safe than sorry?""",1.1962616822429906,0.044912682652352966,107.0,89.0,15.0,3.0,540
 2044,"If you open up to me, I promise I'll listen.",1.196078431372549,0.04414729692425362,102.0,84.0,16.0,2.0,540
@@ -2056,13 +2056,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2044,And you're sure your insurance card is inside?,1.196078431372549,0.04629385365772775,102.0,85.0,14.0,3.0,540
 2044,Now take a deep breath. and cough up your combination.,1.196078431372549,0.048345195699759175,102.0,86.0,12.0,4.0,540
 2057,"I have good news or bad news, Mr. Scrhodinger.",1.1958762886597938,0.04999822861495349,97.0,82.0,11.0,4.0,540
-2057,"If you don't tell me now, I'll get it out of you eventually.",1.1958762886597938,0.04550021538441706,97.0,80.0,15.0,2.0,540
+2057,"If you don't tell me now, I'll get it out of you eventually.",1.1958762886597938,0.045500215384417064,97.0,80.0,15.0,2.0,540
 2057,"It's OK, your inner secrets are safe with me.",1.1958762886597938,0.04780215719327684,97.0,81.0,13.0,3.0,540
-2057,"It's okay to say anything, Mrs. Johnson. You're in a safe space.",1.1958762886597938,0.04550021538441706,97.0,80.0,15.0,2.0,540
+2057,"It's okay to say anything, Mrs. Johnson. You're in a safe space.",1.1958762886597938,0.045500215384417064,97.0,80.0,15.0,2.0,540
 2057,"You can come out of your Safe Place now, Mr. Houdini.",1.1958762886597938,0.04999822861495349,97.0,82.0,11.0,4.0,540
-2062,"Don't worry, you're safe",1.1956521739130437,0.046980316386280786,92.0,76.0,14.0,2.0,540
+2062,"Don't worry, you're safe",1.1956521739130437,0.04698031638628079,92.0,76.0,14.0,2.0,540
 2062,"Take a deep breath, exhale, saying any random numbers that come to mind.",1.1956521739130437,0.054072402919355736,92.0,79.0,8.0,5.0,540
-2062,Cough it up!,1.1956521739130437,0.046980316386280786,92.0,76.0,14.0,2.0,540
+2062,Cough it up!,1.1956521739130437,0.04698031638628079,92.0,76.0,14.0,2.0,540
 2065,Juuust to be safe.,1.1954022988505748,0.053827271492375005,87.0,74.0,9.0,4.0,540
 2065,"It's not an irregular heartbeat, you just changed your combination again!",1.1954022988505748,0.053827271492375005,87.0,74.0,9.0,4.0,540
 2065,"Once I get my fee, we can begin.",1.1954022988505748,0.05128417835894333,87.0,73.0,11.0,3.0,540
@@ -2078,13 +2078,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2072,Houdini receives his annual checkup.,1.1944444444444444,0.046434546089062695,108.0,91.0,13.0,4.0,540
 2072,I know you're afraid of needles but if you come out I'll give you a lollipop.,1.1944444444444444,0.044531975073749834,108.0,90.0,15.0,3.0,540
 2072,We are not going to make any progress if you insist on keeping your emotions locked up like this.,1.1944444444444444,0.044531975073749834,108.0,90.0,15.0,3.0,540
-2080,Open up and say Ah.,1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,540
+2080,Open up and say Ah.,1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,540
 2080,"I'd say you're safe from everything.""",1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,540
-2080,Why are you afraid of Bitcoins?,1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,540
+2080,Why are you afraid of Bitcoins?,1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,540
 2080,You've got lockjaw.,1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,540
 2084,"Rest assured, you're safe and sound.",1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,540
 2084,"Absolutely, doc. I'm gonna take it with me!",1.1938775510204085,0.05160614749575165,98.0,84.0,9.0,5.0,540
-2084,TAP out the combination AGAIN and PAUSE between the numbers!,1.1938775510204085,0.047354066223542664,98.0,82.0,13.0,3.0,540
+2084,TAP out the combination AGAIN and PAUSE between the numbers!,1.1938775510204085,0.04735406622354266,98.0,82.0,13.0,3.0,540
 2084,You've got quite a coffer there.,1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,540
 2084,Well-you should have thought about the whole 'not enough air' thing before you locked yourself in this safe,1.1938775510204085,0.04507786765341567,98.0,81.0,15.0,2.0,540
 2084,It sounds like your tumblers are in good shape.,1.1938775510204085,0.0495257612120043,98.0,83.0,11.0,4.0,540
@@ -2123,13 +2123,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2120,Your tumblers may need some WD-40.,1.1919191919191918,0.044663167505172234,99.0,82.0,15.0,2.0,540
 2120,"Yes, I am listening. Just let it all out. Let it all out.",1.1919191919191918,0.04906204906204911,99.0,84.0,11.0,4.0,540
 2120,The blood bank is next door.,1.1919191919191918,0.044663167505172234,99.0,82.0,15.0,2.0,540
-2120,"Mr. Houdini, breathe deeply and tell me about your first Halloween.",1.1919191919191918,0.05111973905892746,99.0,85.0,9.0,5.0,540
+2120,"Mr. Houdini, breathe deeply and tell me about your first Halloween.",1.1919191919191918,0.051119739058927464,99.0,85.0,9.0,5.0,540
 2120,Don't make me call a locksmith again!,1.1919191919191918,0.044663167505172234,99.0,82.0,15.0,2.0,540
 2120,It's serious. Looks like we'll have to crack your chest.,1.1919191919191918,0.04691419395962157,99.0,83.0,13.0,3.0,540
 2120,"If you'd open up a little, I'd get a better diagnosis.",1.1919191919191918,0.03978080447933691,99.0,80.0,19.0,0.0,540
 2120,"I know, but I could give a more accurate diagnosis if I could examine your tax returns!",1.1919191919191918,0.04229249896032572,99.0,81.0,17.0,1.0,540
 2120,I wish you had come to me sooner.,1.1919191919191918,0.04906204906204911,99.0,84.0,11.0,4.0,540
-2120,Tell me if this is cold.,1.1919191919191918,0.05111973905892746,99.0,85.0,9.0,5.0,540
+2120,Tell me if this is cold.,1.1919191919191918,0.051119739058927464,99.0,85.0,9.0,5.0,540
 2120,"Don't worry, it's just part of the Fed's new stress test.",1.1919191919191918,0.04229249896032572,99.0,81.0,17.0,1.0,540
 2120,You seem safe and sound to me.,1.1919191919191918,0.04691419395962157,99.0,83.0,13.0,3.0,540
 2134,I'm hearing a combination of clicks and rattles.,1.1914893617021276,0.050792384603578926,94.0,80.0,10.0,4.0,540
@@ -2137,7 +2137,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2134,"Sounds like you're trying to feel safe by a combination of keeping your feelings locked up inside and presenting a cold, tough exterior to those around you. And you think if you open up more easily to others, you'll lose your self worth.",1.1914893617021276,0.04606848309753145,94.0,78.0,14.0,2.0,540
 2134,"Please turn to over to your left side, turn over to your right side and open wide.",1.1914893617021276,0.05299666907573581,94.0,81.0,8.0,5.0,540
 2134,How long have you had this hollow feeling?,1.1914893617021276,0.04606848309753145,94.0,78.0,14.0,2.0,540
-2134,"Yes, I feel it is safe to say that you have some disturbing issues from your childhood locked away deep inside.",1.1914893617021276,0.04848799577537426,94.0,79.0,12.0,3.0,540
+2134,"Yes, I feel it is safe to say that you have some disturbing issues from your childhood locked away deep inside.",1.1914893617021276,0.048487995775374264,94.0,79.0,12.0,3.0,540
 2134,Sorry. No discount for cash.,1.1914893617021276,0.04351464736732185,94.0,77.0,16.0,1.0,540
 2134,You are only imagining that you're safe.,1.1914893617021276,0.05511286177044542,94.0,82.0,6.0,6.0,540
 2142,"My diagnosis, postpone your retirement.",1.191304347826087,0.0443542568735968,115.0,97.0,14.0,4.0,540
@@ -2145,9 +2145,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2142,"I said, ""Breath deeply, and hold."" I didn't say, ""This is a hold up.""",1.191304347826087,0.0443542568735968,115.0,97.0,14.0,4.0,540
 2145,"I'm sorry, Mr. Hollon, but with your heart condition you shouldn't have any safe sex.",1.1910112359550562,0.05270130067217337,89.0,76.0,9.0,4.0,540
 2146,Have you been staying safe?,1.1909090909090907,0.03979818677571405,110.0,90.0,19.0,1.0,540
-2146,I'm a doctor. It is OK to open up to me.,1.1909090909090907,0.041841383127562214,110.0,91.0,17.0,2.0,540
-2146,"Hmm. A heart of gold, you say?",1.1909090909090907,0.041841383127562214,110.0,91.0,17.0,2.0,540
-2146,That's funny—most people come to me for break OUTS.,1.1909090909090907,0.041841383127562214,110.0,91.0,17.0,2.0,540
+2146,I'm a doctor. It is OK to open up to me.,1.1909090909090907,0.04184138312756221,110.0,91.0,17.0,2.0,540
+2146,"Hmm. A heart of gold, you say?",1.1909090909090907,0.04184138312756221,110.0,91.0,17.0,2.0,540
+2146,That's funny—most people come to me for break OUTS.,1.1909090909090907,0.04184138312756221,110.0,91.0,17.0,2.0,540
 2146,Click...click is normal.,1.1909090909090907,0.03979818677571405,110.0,90.0,19.0,1.0,540
 2151,Your heart won't survive any combination of safe sex.,1.1904761904761905,0.04299935704272291,105.0,87.0,16.0,2.0,540
 2151,I don't like what I'm hearing. I'm going to refer you to a Cartier-logist.,1.1904761904761905,0.05258037297165626,105.0,92.0,6.0,7.0,540
@@ -2169,7 +2169,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2167,If you have been having safe sex then you may be pregnant.,1.1896551724137931,0.042263174012116635,116.0,97.0,16.0,3.0,540
 2167,"Doc, is that perfect 36-24-36 out there for me?",1.1896551724137931,0.0404505975246002,116.0,96.0,18.0,2.0,540
 2167,I'm afraid we'll need to crack you open to find what's really inside.,1.1896551724137931,0.044001146747098666,116.0,98.0,14.0,4.0,540
-2171,"Exhale a few hundreds, please",1.1894736842105262,0.040419792813514134,95.0,77.0,18.0,0.0,540
+2171,"Exhale a few hundreds, please",1.1894736842105262,0.04041979281351413,95.0,77.0,18.0,0.0,540
 2171,Alright now tell me you don't feel safe,1.1894736842105262,0.0431013203605283,95.0,78.0,16.0,1.0,540
 2171,I'm afraid it's more that just a bad dream.,1.1894736842105262,0.04801720679389688,95.0,80.0,12.0,3.0,540
 2171,I'm listening to you. We'll crack this case.,1.1894736842105262,0.04801720679389688,95.0,80.0,12.0,3.0,540
@@ -2251,7 +2251,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2250,"You know the rules, Mr. Kaminsky. I'm afraid I'll have to charge you for a missed appointment.",1.184782608695652,0.0487035648134137,92.0,78.0,11.0,3.0,540
 2250,Getting reimbursed by the insurance company is becoming more challenging every year.,1.184782608695652,0.05338370830143902,92.0,80.0,7.0,5.0,540
 2250,I'm not sure if your HMO covers magic tricks. Check with the front desk.,1.184782608695652,0.0487035648134137,92.0,78.0,11.0,3.0,540
-2250,I think there's enough for ten sessions,1.184782608695652,0.04618599010841946,92.0,77.0,13.0,2.0,540
+2250,I think there's enough for ten sessions,1.184782608695652,0.046185990108419464,92.0,77.0,13.0,2.0,540
 2250,I think I can detect some $20s and $100s.,1.184782608695652,0.05109724815265259,92.0,79.0,9.0,4.0,540
 2255,"Vice-President Gore, you can come out of the lockbox now.",1.1844660194174756,0.04523259434304088,103.0,87.0,13.0,3.0,540
 2255,Your heartbeat seems fast.do you think you could open up for me?,1.1844660194174756,0.04307691007839968,103.0,86.0,15.0,2.0,540
@@ -2277,7 +2277,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2274,You're a tough nut to crack.,1.18348623853211,0.0435533846923308,109.0,92.0,14.0,3.0,540
 2274,"hang on, the locksmith is on his way!",1.18348623853211,0.04155722142841898,109.0,91.0,16.0,2.0,540
 2278,Relax. Better safe than sorry.,1.1832061068702289,0.040259765329072605,131.0,111.0,16.0,4.0,540
-2279,"Your pulse is 34 clockwise, 16 counterclockwise, and 4 clockwise.",1.1829268292682926,0.04295628044484381,82.0,67.0,15.0,0.0,540
+2279,"Your pulse is 34 clockwise, 16 counterclockwise, and 4 clockwise.",1.1829268292682926,0.042956280444843814,82.0,67.0,15.0,0.0,540
 2280,"If you call me a cracker again, I'll knock you lock off!",1.1827956989247312,0.04821797883295058,93.0,79.0,11.0,3.0,540
 2280,"Shhh...I need to crack this code, my student loans are due.",1.1827956989247312,0.05058386673072214,93.0,80.0,9.0,4.0,540
 2280,You say that your always feeling empty?,1.1827956989247312,0.043098321328581886,93.0,77.0,15.0,1.0,540
@@ -2287,9 +2287,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2286,"Listen, nothing is safe. You can only be safer.",1.1826923076923077,0.04269755533620633,104.0,87.0,15.0,2.0,540
 2286,"Who's the wisecracker now, mom?",1.1826923076923077,0.04881803687006196,104.0,90.0,9.0,5.0,540
 2286,Let me know when you're ready to open up.,1.1826923076923077,0.04483065613031456,104.0,88.0,13.0,3.0,540
-2289,"Yes, yes, I hear your pain.",1.182608695652174,0.042035560652466934,115.0,97.0,15.0,3.0,540
+2289,"Yes, yes, I hear your pain.",1.182608695652174,0.04203556065246693,115.0,97.0,15.0,3.0,540
 2289,Its safe to say that you are in perfect health!,1.182608695652174,0.04381259705454525,115.0,98.0,13.0,4.0,540
-2289,"As part of your annual check-up, I need to ask you if you feel safe at home.",1.182608695652174,0.042035560652466934,115.0,97.0,15.0,3.0,540
+2289,"As part of your annual check-up, I need to ask you if you feel safe at home.",1.182608695652174,0.04203556065246693,115.0,97.0,15.0,3.0,540
 2289,It's safe to say the old ticker is fine.,1.182608695652174,0.04381259705454525,115.0,98.0,13.0,4.0,540
 2293,...every time EpiPens overtake the price of gold...,1.1825396825396826,0.04125152218573835,126.0,107.0,15.0,4.0,540
 2294,Cigarettes and coffee? That's a terrible combination!,1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0,540
@@ -2299,9 +2299,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2294,Have you ever been cracked before?,1.181818181818182,0.048399739772722716,99.0,85.0,10.0,4.0,540
 2294,"""Two to the left, three to the right ..."", sounds good.",1.181818181818182,0.041522350851192366,99.0,82.0,16.0,1.0,540
 2294,I was told this was a tough case to crack.,1.181818181818182,0.04993583800023193,88.0,75.0,10.0,3.0,540
-2294,"You're safe here"" ""You can open up for me",1.181818181818182,0.04507767031029367,110.0,94.0,12.0,4.0,540
+2294,"You're safe here"" ""You can open up for me",1.181818181818182,0.045077670310293666,110.0,94.0,12.0,4.0,540
 2294,"So, you want a second opinion on whether to go under the blowtorch.",1.181818181818182,0.04724780309106126,88.0,74.0,12.0,2.0,540
-2294,You're in your safe space now.,1.181818181818182,0.04507767031029367,110.0,94.0,12.0,4.0,540
+2294,You're in your safe space now.,1.181818181818182,0.045077670310293666,110.0,94.0,12.0,4.0,540
 2294,I'm afraid to say that I'm hearing a lot of echo.,1.181818181818182,0.04318785349158608,110.0,93.0,14.0,3.0,540
 2305,I think I have this cracked.,1.1811023622047243,0.039395067685066495,127.0,107.0,17.0,3.0,540
 2306,"She thinks you're keeping it all inside, and won't open up to her.",1.1810344827586208,0.04515364065081751,116.0,100.0,11.0,5.0,540
@@ -2325,9 +2325,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2323,That ticking sound is just your lock. You're safe.,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,540
 2323,"Yes, I can hear you Mr. Gore, but I'm not sure everyone is going to see the humor in this.",1.18,0.04353101761904375,100.0,84.0,14.0,2.0,540
 2323,Now breathe outside the box.,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,540
-2323,And now say 'TAAAAAAAAAX.',1.18,0.04794778304562058,100.0,86.0,10.0,4.0,540
+2323,And now say 'TAAAAAAAAAX.',1.18,0.047947783045620584,100.0,86.0,10.0,4.0,540
 2323,Open up for me and I promise you'll have the best safe sex ever!,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,540
-2323,"You're a recumbent safe, that's a rare combination.",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,540
+2323,"You're a recumbent safe, that's a rare combination.",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,540
 2323,Breath deep and cough up the copay,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,540
 2323,"I understand that you don't feel safe, but living in a safe is not the answer.",1.18,0.04579268169663903,100.0,85.0,12.0,3.0,540
 2323,Don't worry - you're safe with me.,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,540
@@ -2419,13 +2419,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2415,"Where there's a Will, there's a way.",1.175257731958763,0.04147803334904919,97.0,81.0,15.0,1.0,540
 2415,The campaign is not over yet. Shelter in place until further instructions.,1.175257731958763,0.046367882366026236,97.0,83.0,11.0,3.0,540
 2415,My orders are to keep you secured and quiet until after the election.,1.175257731958763,0.04399095228347805,97.0,82.0,13.0,2.0,540
-2415,Click ... to the right; click... to the left. First I have to get at your $50 co-pay.,1.175257731958763,0.048628768721941266,97.0,84.0,9.0,4.0,540
+2415,Click ... to the right; click... to the left. First I have to get at your $50 co-pay.,1.175257731958763,0.04862876872194127,97.0,84.0,9.0,4.0,540
 2415,"I know you were worried about the clanking sound, but I think you're safe.",1.175257731958763,0.046367882366026236,97.0,83.0,11.0,3.0,540
 2415,How long have you had these feelings of vulnerableness.,1.175257731958763,0.04147803334904919,97.0,81.0,15.0,1.0,540
 2415,"Do you have a last name, Geraldo ?",1.175257731958763,0.046367882366026236,97.0,83.0,11.0,3.0,540
 2415,"Considering stocks, bonds and all, you're doing very well...",1.175257731958763,0.03880271405716913,97.0,80.0,17.0,0.0,540
 2415,You have kidney stones as big as diamonds which I can remove for you at no extra charge.,1.175257731958763,0.04147803334904919,97.0,81.0,15.0,1.0,540
-2415,"Yes, but the emotionally safe place mentioned in our last visit was figurative.",1.175257731958763,0.048628768721941266,97.0,84.0,9.0,4.0,540
+2415,"Yes, but the emotionally safe place mentioned in our last visit was figurative.",1.175257731958763,0.04862876872194127,97.0,84.0,9.0,4.0,540
 2428,"Tick, for God's sake! Mouth to mouth isn't possible.",1.175,0.04041538520594029,120.0,102.0,15.0,3.0,540
 2429,Is Light-Fingers Louie a doctor?,1.174757281553398,0.044553294951095584,103.0,88.0,12.0,3.0,540
 2429,And you're sure you heard a ticking noise?,1.174757281553398,0.040053230491437206,103.0,86.0,16.0,1.0,540
@@ -2439,7 +2439,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2429,I think it is safe to say you have a case of lockjaw.,1.174757281553398,0.044553294951095584,103.0,88.0,12.0,3.0,540
 2439,Mastercardiac arrest,1.1746031746031746,0.03577596085582426,126.0,105.0,20.0,1.0,540
 2440,"No, I get it. Between his tax returns and the videotape, how much more are you expected to hold in?",1.1744186046511629,0.050148508494994894,86.0,74.0,9.0,3.0,540
-2440,Good news. I don't hear any bitcoins being mined.,1.1744186046511629,0.04734210697735226,86.0,73.0,11.0,2.0,540
+2440,Good news. I don't hear any bitcoins being mined.,1.1744186046511629,0.047342106977352263,86.0,73.0,11.0,2.0,540
 2442,"I rarely open up, and I've lost ALL interest.",1.1743119266055049,0.04292253470219632,109.0,93.0,13.0,3.0,540
 2442,"You're not related to Al Capone's vault, are you?",1.1743119266055049,0.03876279988140986,109.0,91.0,17.0,1.0,540
 2442,"Dr. Schrödinger, after a week your cat is positively dead. It’s an airtight case.",1.1743119266055049,0.04485798313086264,109.0,94.0,11.0,4.0,540
@@ -2451,13 +2451,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2445,"Mr. Crabtree, it really would be easier for us to talk if you could come out of the safe.",1.173913043478261,0.04791071000168168,92.0,79.0,10.0,3.0,540
 2445,"At our next session if you try opening up, it will really be rewarding.",1.173913043478261,0.04791071000168168,92.0,79.0,10.0,3.0,540
 2445,"I hear you in there tumbling, what other symptoms are you having?",1.173913043478261,0.039733631889711934,92.0,76.0,16.0,0.0,540
-2453,I think your rich diet is starting to catch up with you.,1.1734693877551021,0.04357646269496895,98.0,83.0,13.0,2.0,540
-2453,"I hear you, Trish. But you're a big girl now and safe spaces are so undergraduate.",1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,540
-2453,I would agree you have a low risk of getting Zika.,1.1734693877551021,0.04109154006947433,98.0,82.0,15.0,1.0,540
-2453,"Tumble, please.",1.1734693877551021,0.04357646269496895,98.0,83.0,13.0,2.0,540
-2453,It's just as I feared; the left click is weak and thready.,1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,540
-2453,There's a bronchitis bug going around. You're not the only coffer I've seen today.,1.1734693877551021,0.04816321181623616,98.0,85.0,9.0,4.0,540
-2453,It's locked-in syndrome.,1.1734693877551021,0.04816321181623616,98.0,85.0,9.0,4.0,540
+2453,I think your rich diet is starting to catch up with you.,1.173469387755102,0.04357646269496895,98.0,83.0,13.0,2.0,540
+2453,"I hear you, Trish. But you're a big girl now and safe spaces are so undergraduate.",1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,540
+2453,I would agree you have a low risk of getting Zika.,1.173469387755102,0.04109154006947433,98.0,82.0,15.0,1.0,540
+2453,"Tumble, please.",1.173469387755102,0.04357646269496895,98.0,83.0,13.0,2.0,540
+2453,It's just as I feared; the left click is weak and thready.,1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,540
+2453,There's a bronchitis bug going around. You're not the only coffer I've seen today.,1.173469387755102,0.04816321181623616,98.0,85.0,9.0,4.0,540
+2453,It's locked-in syndrome.,1.173469387755102,0.04816321181623616,98.0,85.0,9.0,4.0,540
 2460,"Yes, I hear you...payment is due before I recommend treatment...Mr. Houdini.",1.1730769230769231,0.04198738139575608,104.0,88.0,14.0,2.0,540
 2460,It's thinking of a number between 1 and 100...,1.1730769230769231,0.03970180977092322,104.0,87.0,16.0,1.0,540
 2460,Will you shut up about metaphors? I can't hear a damn thing.,1.1730769230769231,0.04198738139575608,104.0,88.0,14.0,2.0,540
@@ -2477,7 +2477,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2474,This may come as a shock to you sir but your heart rate is at an unsafe level.,1.1720430107526882,0.04742962088556976,93.0,80.0,10.0,3.0,540
 2477,"I think you've spent far too much time on Tumblr, Ms. Hamilton.",1.1717171717171715,0.047706422091822624,99.0,86.0,9.0,4.0,540
 2477,"I think it's safe to say, you're cracked.",1.1717171717171715,0.04982013420384436,99.0,87.0,7.0,5.0,540
-2477,I think you'll need an X-ray.,1.1717171717171715,0.043169625690192184,99.0,84.0,13.0,2.0,540
+2477,I think you'll need an X-ray.,1.1717171717171715,0.04316962569019218,99.0,84.0,13.0,2.0,540
 2477,You're as good as gold.,1.1717171717171715,0.040712080749396494,99.0,83.0,15.0,1.0,540
 2481,"Come on, there must be a heart of gold underneath that tough exterior.",1.1716417910447758,0.037492556255163983,134.0,114.0,17.0,3.0,540
 2482,Ok now please turn right four times and say 80.,1.1714285714285717,0.043763313740087635,105.0,90.0,12.0,3.0,540
@@ -2495,7 +2495,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2493,"Just because Al Capone's safe is your father doesn't mean you'll relive his meaningless, empty life.",1.170731707317073,0.045266376933577435,82.0,69.0,12.0,1.0,540
 2495,I'm not saying that being safe is bad. I just thought that you wanted more.,1.1704545454545454,0.04634383476994134,88.0,75.0,11.0,2.0,540
 2495,I'm sure you feel safe now!,1.1704545454545454,0.04343406498740263,88.0,74.0,13.0,1.0,540
-2497,"""I understand your feelings of claustrophobia, Mister Johnson. But I can assure you, you're safe.",1.1702127659574468,0.051600550028947985,94.0,83.0,6.0,5.0,540
+2497,"""I understand your feelings of claustrophobia, Mister Johnson. But I can assure you, you're safe.",1.1702127659574468,0.05160055002894799,94.0,83.0,6.0,5.0,540
 2497,"If you feel empty, then this session is over.",1.1702127659574468,0.04445531425009222,94.0,80.0,12.0,2.0,540
 2497,"You need to open up a little more, otherwise you're safe!",1.1702127659574468,0.04180304254081611,94.0,79.0,14.0,1.0,540
 2500,"No tax return beats, just vesicular misogynistic murmurs and bankruptcy wheezes.",1.17,0.04277023415055066,100.0,85.0,13.0,2.0,540
@@ -2548,8 +2548,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2546,This may be related to an issue of combinations,1.1666666666666667,0.04262907222244237,108.0,93.0,12.0,3.0,540
 2546,"Now, turn your head to the side and cough up your combination.",1.1666666666666667,0.04054833574905383,108.0,92.0,14.0,2.0,540
 2546,"Mr. Capone, is that you?",1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,540
-2546,Sign the HIPPA forms and we can do this the old fashioned way...,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,540
-2546,Could you make my reimbursement from Medicare a bit simpler?,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,540
+2546,Sign the HIPPA forms and we can do this the old fashioned way...,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,540
+2546,Could you make my reimbursement from Medicare a bit simpler?,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,540
 2546,Don't be sorry -- I assure you that drilling it open will make you better.,1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,540
 2546,OK tumble,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,540
 2546,Sorry your heart has run out of money,1.1666666666666667,0.04199299507395456,102.0,87.0,13.0,2.0,540
@@ -2557,7 +2557,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2546,"Yes, it's always your vault.",1.1666666666666667,0.0453863976719122,90.0,77.0,11.0,2.0,540
 2546,If you had chicken pox it may still be inside you.,1.1666666666666667,0.0453863976719122,90.0,77.0,11.0,2.0,540
 2546,It really would be simpler just to have the flu shot,1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,540
-2546,You're afraid of exposing your family jewels? I'm listening.,1.1666666666666667,0.039614070410856184,102.0,86.0,15.0,1.0,540
+2546,You're afraid of exposing your family jewels? I'm listening.,1.1666666666666667,0.03961407041085618,102.0,86.0,15.0,1.0,540
 2546,"The biopsy results came back, it turns out you're safe.",1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,540
 2546,I can't help you. I'm going to refer you to Geraldo.,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,540
 2546,I'll tell Mr. Benny you need more exercise.,1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,540
@@ -2570,7 +2570,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2546,I want to hear you click.,1.1666666666666667,0.04254688241805302,90.0,76.0,13.0,1.0,540
 2546,"Yes, I can feel your pain ... if I'd had to safeguard all the bonus money that sleazy Wells Fargo CEO stashed away, I'd probably have major heartburn too!",1.1666666666666667,0.04254688241805302,90.0,76.0,13.0,1.0,540
 2546,It doesn't sound good.,1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,540
-2546,"""So, you're in today due to a tumble?",1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,540
+2546,"""So, you're in today due to a tumble?",1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,540
 2546,You need to open up. I'm trying to help with that.,1.1666666666666667,0.04199299507395456,102.0,87.0,13.0,2.0,540
 2546,How many clowns are in there?,1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,540
 2575,"Relax, you're safe here. You have no cracks.",1.1653543307086611,0.038344343192484406,127.0,109.0,15.0,3.0,540
@@ -2616,7 +2616,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2607,you have locked in syndrome !,1.1636363636363636,0.045712363076018975,110.0,97.0,8.0,5.0,540
 2616,Definite circulatory problems.,1.1634615384615383,0.04344778940130916,104.0,90.0,11.0,3.0,540
 2616,I'll help you unlock your problems if you give me the combination.,1.1634615384615383,0.04124322861360885,104.0,89.0,13.0,2.0,540
-2616,"Now, I may be placing this against some sensitive areas, but be assured that my greatest concern is that at all times you feel safe.",1.1634615384615383,0.04755127126200447,104.0,92.0,7.0,5.0,540
+2616,"Now, I may be placing this against some sensitive areas, but be assured that my greatest concern is that at all times you feel safe.",1.1634615384615383,0.047551271262004466,104.0,92.0,7.0,5.0,540
 2616,"Please, I can't help you if you don't let it out.",1.1634615384615383,0.03643612097496364,104.0,87.0,17.0,0.0,540
 2616,Take a deep breath and let it all out.,1.1634615384615383,0.04554576710569953,104.0,91.0,9.0,4.0,540
 2616,He says he doesn't want to come out.,1.1634615384615383,0.04124322861360885,104.0,89.0,13.0,2.0,540
@@ -2636,9 +2636,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2635,Don't be anxious. You are in a safe space.,1.1623931623931625,0.03830567363544257,117.0,100.0,15.0,2.0,540
 2635,Your medical records are safe with me.,1.1623931623931625,0.03633128701735331,117.0,99.0,17.0,1.0,540
 2637,You're congested. Let me get my pillowcase.,1.162162162162162,0.04347806838951073,111.0,97.0,10.0,4.0,540
-2637,"Ahem,doc, the money and my heart is on my left",1.162162162162162,0.03740243226693261,111.0,94.0,16.0,1.0,540
-2637,Inhale. Hold it. Now let it all out.,1.162162162162162,0.03740243226693261,111.0,94.0,16.0,1.0,540
-2637,"Don't worry. I think you're, uh, safe.",1.162162162162162,0.03740243226693261,111.0,94.0,16.0,1.0,540
+2637,"Ahem,doc, the money and my heart is on my left",1.162162162162162,0.037402432266932614,111.0,94.0,16.0,1.0,540
+2637,Inhale. Hold it. Now let it all out.,1.162162162162162,0.037402432266932614,111.0,94.0,16.0,1.0,540
+2637,"Don't worry. I think you're, uh, safe.",1.162162162162162,0.037402432266932614,111.0,94.0,16.0,1.0,540
 2641,"Don't worry, dear. You are safe.",1.161904761904762,0.03857301131831574,105.0,89.0,15.0,1.0,540
 2641,You seem closed,1.161904761904762,0.04306016219736383,105.0,91.0,11.0,3.0,540
 2641,We accept cash or gold bars.,1.161904761904762,0.045136767181683086,105.0,92.0,9.0,4.0,540
@@ -2657,11 +2657,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2650,Cha-ching...cha-ching...cha-ching...,1.1616161616161615,0.0423662864528231,99.0,85.0,12.0,2.0,540
 2650,"Bad news! ""Your savings are on life support.""",1.1616161616161615,0.03985924189591093,99.0,84.0,14.0,1.0,540
 2650,"'Ka-ching ... ka-ching,' music to my ears.",1.1616161616161615,0.0423662864528231,99.0,85.0,12.0,2.0,540
-2659,"No, you gave me the wrong combination.",1.1612903225806452,0.044021549455012264,93.0,80.0,11.0,2.0,540
+2659,"No, you gave me the wrong combination.",1.1612903225806452,0.04402154945501226,93.0,80.0,11.0,2.0,540
 2659,"Say ""ahhh""",1.1612903225806452,0.04660097538803965,93.0,81.0,9.0,3.0,540
 2659,Mr. Trump. I know you are hiding in there with your tax returns. Come out. It's time for your session.,1.1612903225806452,0.04660097538803965,93.0,81.0,9.0,3.0,540
 2659,"""We can operate when you remember your combination"".",1.1612903225806452,0.04128126361587668,93.0,79.0,13.0,1.0,540
-2659,Would you be more comfortable if a robot opened you to take a look?,1.1612903225806452,0.044021549455012264,93.0,80.0,11.0,2.0,540
+2659,Would you be more comfortable if a robot opened you to take a look?,1.1612903225806452,0.04402154945501226,93.0,80.0,11.0,2.0,540
 2664,I'm having nightmares about bitcoins.,1.1610169491525424,0.03604835828267723,118.0,100.0,17.0,1.0,540
 2664,"So, I’m thinking we need to play it on the *unsafe* side.",1.1610169491525424,0.03604835828267723,118.0,100.0,17.0,1.0,540
 2664,I know there are people out there trying to crack you but you are in a safe place now.,1.1610169491525424,0.03397969368949714,118.0,99.0,19.0,0.0,540
@@ -2720,7 +2720,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2713,It seems you may have a severely ruptured largess,1.1578947368421053,0.04047807661136429,95.0,81.0,13.0,1.0,540
 2713,When did you first start to feel you were being used by people?,1.1578947368421053,0.044192187589443294,114.0,101.0,8.0,5.0,540
 2713,I have to send you for a CAT Scan to check the family jewels.,1.1578947368421053,0.04567716078766765,95.0,83.0,9.0,3.0,540
-2713,This isn't exactly what I meant when I said to practice safer sex,1.1578947368421053,0.040527011408325986,114.0,99.0,12.0,3.0,540
+2713,This isn't exactly what I meant when I said to practice safer sex,1.1578947368421053,0.04052701140832599,114.0,99.0,12.0,3.0,540
 2713,"Relax, you're too locked up.",1.1578947368421053,0.04567716078766765,95.0,83.0,9.0,3.0,540
 2724,Deep breaths. Nobody's taking your job away.,1.1574074074074074,0.03982054986990178,108.0,93.0,13.0,2.0,540
 2724,"I'm telling you Doc, ""I feel so empty inside!""",1.1574074074074074,0.04193741120371579,108.0,94.0,11.0,3.0,540
@@ -2807,7 +2807,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2806,"And when did you first realize you were living in an escapist reality, Mr. Houdini?",1.152941176470588,0.048811884811622255,85.0,75.0,7.0,3.0,540
 2806,"Now, go to your ""safe"" place.",1.152941176470588,0.045852895808718035,85.0,74.0,9.0,2.0,540
 2806,"My diagnosis is arteriosclerosis, usually an inside job.",1.152941176470588,0.045852895808718035,85.0,74.0,9.0,2.0,540
-2806,It sounds like we'll need to remove the contents and deposit them into my bank account.,1.152941176470588,0.042689296190347586,85.0,73.0,11.0,1.0,540
+2806,It sounds like we'll need to remove the contents and deposit them into my bank account.,1.152941176470588,0.04268929619034759,85.0,73.0,11.0,1.0,540
 2806,"Damn, you're cold.",1.152941176470588,0.048811884811622255,85.0,75.0,7.0,3.0,540
 2811,I hear that. You ARE in a safe place.,1.152542372881356,0.037344721527928434,118.0,102.0,14.0,2.0,540
 2811,The combination the HMO gave me was...,1.152542372881356,0.037344721527928434,118.0,102.0,14.0,2.0,540
@@ -2820,7 +2820,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2815,Am I hearing just a little guardedness from you?,1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,540
 2815,So... Going going anywhere fun this summer?,1.1523809523809525,0.04232473532055046,105.0,92.0,10.0,3.0,540
 2815,"Sorry, but you always knew your days were numbered.",1.1523809523809525,0.04010278091110976,105.0,91.0,12.0,2.0,540
-2815,"Well, it seems you have the pulse of a very uncertain economy.",1.1523809523809525,0.037750269583862385,105.0,90.0,14.0,1.0,540
+2815,"Well, it seems you have the pulse of a very uncertain economy.",1.1523809523809525,0.03775026958386239,105.0,90.0,14.0,1.0,540
 2823,"You know you did this to yourself, Mr. Trump.",1.1521739130434785,0.046200043353871234,92.0,81.0,8.0,3.0,540
 2823,"Oh please please please say ""ah"".",1.1521739130434785,0.043537942793157015,92.0,80.0,10.0,2.0,540
 2823,I want you to open up to the world and show them what your worth.,1.1521739130434785,0.043537942793157015,92.0,80.0,10.0,2.0,540
@@ -2869,9 +2869,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2868,Do you ever feel stiff in the mornings?,1.1494252873563218,0.053051083279213804,87.0,79.0,3.0,5.0,540
 2868,I agree that your feelings of insecurity could be career threatening.,1.1494252873563218,0.04177540678018992,87.0,75.0,11.0,1.0,540
 2868,"Clinically speaking, there's nothing wrong with you, but if I had to guess, I'd say you're hanging on to too much inside.",1.1494252873563218,0.04177540678018992,87.0,75.0,11.0,1.0,540
-2871,Five bucks says you can't give me a colonoscopy.,1.1491228070175439,0.04176002174681175,114.0,101.0,9.0,4.0,540
-2871,You'll be safer inside.,1.1491228070175439,0.03985779749521051,114.0,100.0,11.0,3.0,540
-2871,I'm listening in your safe space.,1.1491228070175439,0.04176002174681175,114.0,101.0,9.0,4.0,540
+2871,Five bucks says you can't give me a colonoscopy.,1.149122807017544,0.04176002174681175,114.0,101.0,9.0,4.0,540
+2871,You'll be safer inside.,1.149122807017544,0.03985779749521051,114.0,100.0,11.0,3.0,540
+2871,I'm listening in your safe space.,1.149122807017544,0.04176002174681175,114.0,101.0,9.0,4.0,540
 2874,safe sex in combination with good diet...that's good...,1.1489361702127658,0.04266742845058536,94.0,82.0,10.0,2.0,540
 2874,"""I understand privacy laws are not perfect Mr. X, but isn't this going to far?",1.1489361702127658,0.04526908492548741,94.0,83.0,8.0,3.0,540
 2874,You appear to be empty and there are signs of hacking. Government safes are prone to these symptoms.,1.1489361702127658,0.0398964766762762,94.0,81.0,12.0,1.0,540
@@ -2913,21 +2913,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2905,Don't give me that lock!,1.1473684210526316,0.044817462433734835,95.0,84.0,8.0,3.0,540
 2905,"You're suffering from a case of the common syllogism:because it's a safe, doesn't mean it's safe.",1.1473684210526316,0.03950539972626867,95.0,82.0,12.0,1.0,540
 2914,"I know you wanted to take it with you when you go Mr. Jones, but I am not sure this will work.",1.1470588235294117,0.04271202851463357,102.0,90.0,9.0,3.0,540
-2914,This is not the place to play it safe. You need to open up.,1.1470588235294117,0.040375491564437586,102.0,89.0,11.0,2.0,540
+2914,This is not the place to play it safe. You need to open up.,1.1470588235294117,0.04037549156443759,102.0,89.0,11.0,2.0,540
 2914,"Your heart sounds good, but your feelings are all locked up inside you.",1.1470588235294117,0.03789516141019947,102.0,88.0,13.0,1.0,540
 2914,"Safe to say, you're dead.",1.1470588235294117,0.04271202851463357,102.0,90.0,9.0,3.0,540
-2914,It's your insurance company. I'm required to administer a metal status exam before we can start.,1.1470588235294117,0.040375491564437586,102.0,89.0,11.0,2.0,540
+2914,It's your insurance company. I'm required to administer a metal status exam before we can start.,1.1470588235294117,0.04037549156443759,102.0,89.0,11.0,2.0,540
 2914,"If you really want a reliable diagnosis, you are going to have to get out of the safe.",1.1470588235294117,0.03789516141019947,102.0,88.0,13.0,1.0,540
 2914,"Once I crack the combination, please open up and say ""aah.""",1.1470588235294117,0.03789516141019947,102.0,88.0,13.0,1.0,540
 2914,"In my opinion, this is a clear case of more money absolutely being able to fill your emptiness inside.",1.1470588235294117,0.03789516141019947,102.0,88.0,13.0,1.0,540
 2914,You have no beat so I can safely pronounce you dead.,1.1470588235294117,0.04492721269564552,102.0,91.0,7.0,4.0,540
 2914,How was your asthma before you locked yourself inside?,1.1470588235294117,0.04271202851463357,102.0,90.0,9.0,3.0,540
-2924,It's good you came in; you wouldn't want to be sorry.,1.146788990825688,0.038722568630423185,109.0,95.0,12.0,2.0,540
-2924,"You know, you do sound a little tight.",1.146788990825688,0.038722568630423185,109.0,95.0,12.0,2.0,540
-2924,"I don't know what you've heard, but this is not really a safe environment.",1.146788990825688,0.0428862058470186,109.0,97.0,8.0,4.0,540
-2924,This is the last time I tell people that this is a safe place.,1.146788990825688,0.036462894235514604,109.0,94.0,14.0,1.0,540
-2924,How often does your chest feel tight like this?,1.146788990825688,0.038722568630423185,109.0,95.0,12.0,2.0,540
-2924,It's starting to sound like you are opening up. You are safe in here.,1.146788990825688,0.0408574593758024,109.0,96.0,10.0,3.0,540
+2924,It's good you came in; you wouldn't want to be sorry.,1.1467889908256879,0.03872256863042319,109.0,95.0,12.0,2.0,540
+2924,"You know, you do sound a little tight.",1.1467889908256879,0.03872256863042319,109.0,95.0,12.0,2.0,540
+2924,"I don't know what you've heard, but this is not really a safe environment.",1.1467889908256879,0.0428862058470186,109.0,97.0,8.0,4.0,540
+2924,This is the last time I tell people that this is a safe place.,1.1467889908256879,0.036462894235514604,109.0,94.0,14.0,1.0,540
+2924,How often does your chest feel tight like this?,1.1467889908256879,0.03872256863042319,109.0,95.0,12.0,2.0,540
+2924,It's starting to sound like you are opening up. You are safe in here.,1.1467889908256879,0.0408574593758024,109.0,96.0,10.0,3.0,540
 2930,This sounds safe.,1.1465517241379308,0.0372485278274388,116.0,101.0,13.0,2.0,540
 2930,You're a faulty vault.,1.1465517241379308,0.0372485278274388,116.0,101.0,13.0,2.0,540
 2930,You don't seem to want anyone to see inside of you.,1.1465517241379308,0.0392094103856809,116.0,102.0,11.0,3.0,540
@@ -2979,7 +2979,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2978,Relax and take a deep breath. You're in a safe place now.,1.1428571428571428,0.03982172074273412,112.0,99.0,10.0,3.0,540
 2978,"I can´t hear you, but if you´ll tap out the combination, I think I can get you out before the oxygen is exhausted.",1.1428571428571428,0.04351483564858368,98.0,87.0,8.0,3.0,540
 2978,"One tap, 'yes'; two taps, 'no'; three taps, 'maybe'...and four taps, 'none of your business.'",1.1428571428571428,0.040059261873970166,91.0,79.0,11.0,1.0,540
-2978,I can hear why you haven't felt safe for a while.,1.1428571428571428,0.039289876569381814,105.0,92.0,11.0,2.0,540
+2978,I can hear why you haven't felt safe for a while.,1.1428571428571428,0.03928987656938181,105.0,92.0,11.0,2.0,540
 2978,I know it's your safe place but you need to come out.,1.1428571428571428,0.04102618049244218,98.0,86.0,10.0,2.0,540
 2978,"Even if I did hear those voices, I still don't see how they could steal your money.",1.1428571428571428,0.036885555678165885,105.0,91.0,13.0,1.0,540
 2978,I'll just pretend to know the combination till you open up.,1.1428571428571428,0.04102618049244218,98.0,86.0,10.0,2.0,540
@@ -2996,7 +2996,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2978,You're safe with me.,1.1428571428571428,0.03431317581537582,105.0,90.0,15.0,0.0,540
 2996,You're not safe to drive.,1.1416666666666666,0.03408638172693547,120.0,104.0,15.0,1.0,540
 2997,We're catching this just in time Jerry — I'm due for a payment on my beach house tomorrow.,1.1415929203539823,0.03948798533283307,113.0,100.0,10.0,3.0,540
-2997,I'm not a doctor but if you open up I'll take a look.,1.1415929203539823,0.037433583487972,113.0,99.0,12.0,2.0,540
+2997,I'm not a doctor but if you open up I'll take a look.,1.1415929203539823,0.037433583487971996,113.0,99.0,12.0,2.0,540
 2997,Please come out Mr. Johnson. I can barely hear you.,1.1415929203539823,0.04144066600021179,113.0,101.0,8.0,4.0,540
 3000,"HOWARD ""JUST TELL ME THE COMBINATION""",1.1415094339622642,0.03894078081719513,106.0,93.0,11.0,2.0,540
 3000,"They say money talks, but I don't hear anything from this currency.",1.1415094339622642,0.03656076984057737,106.0,92.0,13.0,1.0,540
@@ -3025,12 +3025,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3023,Take a deep breath - you're in a safe space.,1.1403508771929824,0.03915976888615296,114.0,101.0,10.0,3.0,540
 3023,You should be taking a statin. Better safe than sorry.,1.1403508771929824,0.03915976888615296,114.0,101.0,10.0,3.0,540
 3026,Your heart rate is at a safe level.,1.1401869158878504,0.0337211853936912,107.0,92.0,15.0,0.0,540
-3026,I think it's safe to say that your suffering from congestive gear failure.,1.1401869158878504,0.04292390146965119,107.0,96.0,7.0,4.0,540
+3026,I think it's safe to say that your suffering from congestive gear failure.,1.1401869158878504,0.042923901469651186,107.0,96.0,7.0,4.0,540
 3026,"My last patient had David Blaine inside, but I think you might just have stacks of twenties.",1.1401869158878504,0.03859779567366521,107.0,94.0,11.0,2.0,540
-3026,The people business has been slow; but now I have a purpose for my medical degree.,1.1401869158878504,0.04292390146965119,107.0,96.0,7.0,4.0,540
+3026,The people business has been slow; but now I have a purpose for my medical degree.,1.1401869158878504,0.042923901469651186,107.0,96.0,7.0,4.0,540
 3026,Hnh. You act like you're loaded. But there's really nothing there.,1.1401869158878504,0.03859779567366521,107.0,94.0,11.0,2.0,540
 3026,I just want to see your tax returns.,1.1401869158878504,0.040818201505225166,107.0,95.0,9.0,3.0,540
-3026,Fox News-commissioned artist's rendering of mental healthcare under Obama Care.,1.1401869158878504,0.04292390146965119,107.0,96.0,7.0,4.0,540
+3026,Fox News-commissioned artist's rendering of mental healthcare under Obama Care.,1.1401869158878504,0.042923901469651186,107.0,96.0,7.0,4.0,540
 3033,Can you hear me?,1.14,0.03487350880197773,100.0,86.0,14.0,0.0,540
 3033,I am not breaking you open...it is just a check up.,1.14,0.0402517331328978,100.0,88.0,10.0,2.0,540
 3033,"You've a combination of symptoms, but nothing serious, better safe than sorry.",1.14,0.0376587548676509,100.0,87.0,12.0,1.0,540
@@ -3042,7 +3042,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3041,I just want you to know that I am your Doctor and this is a safe place.,1.1397849462365592,0.04212505550639785,93.0,82.0,9.0,2.0,540
 3042,"You were right about the cracking part, but wrong about the rib.",1.139344262295082,0.033565143456200305,122.0,106.0,15.0,1.0,540
 3042,So why do you think you have diabetes?,1.139344262295082,0.03738428612402661,122.0,108.0,11.0,3.0,540
-3044,"Hold still, as much as you can.",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,540
+3044,"Hold still, as much as you can.",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,540
 3045,"Cough, please.",1.1388888888888888,0.04045931624376095,108.0,96.0,9.0,3.0,540
 3045,"we will have to open you up, don't worry though, it's a safe procedure",1.1388888888888888,0.03826076324884866,108.0,95.0,11.0,2.0,540
 3045,I hear something tumbling.,1.1388888888888888,0.03826076324884866,108.0,95.0,11.0,2.0,540
@@ -3076,21 +3076,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3075,Mr. Jones if you won't talk to me how will we find the cause of your agoraphobia,1.1375,0.046196299649060885,80.0,71.0,7.0,2.0,540
 3076,I'm Terry Gross and this is Fresh Air.,1.1372549019607845,0.04189089119311397,102.0,91.0,8.0,3.0,540
 3076,Turn your dial and coffer for me.,1.1372549019607845,0.034240846698915216,102.0,88.0,14.0,0.0,540
-3078,A heart of gold is just like any other heart to me.,1.1368421052631579,0.03847753905039954,95.0,83.0,11.0,1.0,540
-3078,"And exhale, Mr. Trump.",1.1368421052631579,0.041285411189771436,95.0,84.0,9.0,2.0,540
-3078,"No, I think my problem is more emotional. I sort of find it hard opening up to people....you know what I mean?",1.1368421052631579,0.03847753905039954,95.0,83.0,11.0,1.0,540
-3078,I see that you're overdue for a colonoscopy.,1.1368421052631579,0.041285411189771436,95.0,84.0,9.0,2.0,540
-3078,Just because nobody can steal your heart doesn't mean I can't hear it.,1.1368421052631579,0.041285411189771436,95.0,84.0,9.0,2.0,540
-3078,"Knowing the combination is one thing, unlocking it is a mother.",1.1368421052631579,0.03847753905039954,95.0,83.0,11.0,1.0,540
-3078,"Deep breath. Good. Now, let it all out...",1.1368421052631579,0.041285411189771436,95.0,84.0,9.0,2.0,540
-3078,If you're not hiding something why won't you give me your combination?,1.1368421052631579,0.04391411325350869,95.0,85.0,7.0,3.0,540
-3078,Yup. I detect safety issues.,1.1368421052631579,0.035447945577163416,95.0,82.0,13.0,0.0,540
-3078,"""Its safe to say that you are more like a pressure cooker inside''.",1.1368421052631579,0.03847753905039954,95.0,83.0,11.0,1.0,540
-3078,You need to buck up.,1.1368421052631579,0.04639411071004023,95.0,86.0,5.0,4.0,540
+3078,A heart of gold is just like any other heart to me.,1.136842105263158,0.03847753905039954,95.0,83.0,11.0,1.0,540
+3078,"And exhale, Mr. Trump.",1.136842105263158,0.041285411189771436,95.0,84.0,9.0,2.0,540
+3078,"No, I think my problem is more emotional. I sort of find it hard opening up to people....you know what I mean?",1.136842105263158,0.03847753905039954,95.0,83.0,11.0,1.0,540
+3078,I see that you're overdue for a colonoscopy.,1.136842105263158,0.041285411189771436,95.0,84.0,9.0,2.0,540
+3078,Just because nobody can steal your heart doesn't mean I can't hear it.,1.136842105263158,0.041285411189771436,95.0,84.0,9.0,2.0,540
+3078,"Knowing the combination is one thing, unlocking it is a mother.",1.136842105263158,0.03847753905039954,95.0,83.0,11.0,1.0,540
+3078,"Deep breath. Good. Now, let it all out...",1.136842105263158,0.041285411189771436,95.0,84.0,9.0,2.0,540
+3078,If you're not hiding something why won't you give me your combination?,1.136842105263158,0.04391411325350869,95.0,85.0,7.0,3.0,540
+3078,Yup. I detect safety issues.,1.136842105263158,0.035447945577163416,95.0,82.0,13.0,0.0,540
+3078,"""Its safe to say that you are more like a pressure cooker inside''.",1.136842105263158,0.03847753905039954,95.0,83.0,11.0,1.0,540
+3078,You need to buck up.,1.136842105263158,0.04639411071004023,95.0,86.0,5.0,4.0,540
 3089,"I don't care how much money you have, I'm not going out on a date with you.",1.1367521367521367,0.04008902358823445,117.0,105.0,8.0,4.0,540
 3089,Take a deep breath and hold it - and I mean really lock it up.,1.1367521367521367,0.034132728623343565,117.0,102.0,14.0,1.0,540
-3091,"I am afraid you have a cold, cold vault.",1.1363636363636365,0.040185756578953784,88.0,77.0,10.0,1.0,540
-3091,"I realize Hillary won Mr. Trump, but do you really think hiding in there is the best recourse?",1.1363636363636365,0.043754704695967414,110.0,100.0,5.0,5.0,540
+3091,"I am afraid you have a cold, cold vault.",1.1363636363636365,0.04018575657895378,88.0,77.0,10.0,1.0,540
+3091,"I realize Hillary won Mr. Trump, but do you really think hiding in there is the best recourse?",1.1363636363636365,0.04375470469596741,110.0,100.0,5.0,5.0,540
 3091,"You have a combination of a number of issues. You should open up to a few people, it may help.",1.1363636363636365,0.03287013577804593,110.0,95.0,15.0,0.0,540
 3091,"Mr. Sanchez, if you want to go forward with this examination, you're going to have to tell me where your butthole is.",1.1363636363636365,0.046231602519600665,88.0,79.0,6.0,3.0,540
 3095,I told you to wear a condom.,1.136,0.034722865943853765,125.0,110.0,13.0,2.0,540
@@ -3128,20 +3128,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3117,"Now, tell me again. Why don't you feel 'safe'?",1.1346153846153846,0.03630037204214463,104.0,91.0,12.0,1.0,540
 3128,"Did you say, ""Mlurn mnial mleft?""",1.134453781512605,0.03759689518113105,119.0,106.0,10.0,3.0,540
 3129,You can talk to me. You are in a safe place.,1.1341463414634143,0.03786771981702475,82.0,71.0,11.0,0.0,540
-3129,You keep me searching for a heart of gold.,1.1341463414634143,0.041654271406339864,82.0,72.0,9.0,1.0,540
+3129,You keep me searching for a heart of gold.,1.1341463414634143,0.04165427140633986,82.0,72.0,9.0,1.0,540
 3131,I hear ticking 3 to the left........11 to the right......then 5 back to the left.,1.134020618556701,0.03476994217327846,97.0,84.0,13.0,0.0,540
-3131,I hear your pain.,1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,540
+3131,I hear your pain.,1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,540
 3131,"Mr Trump, are you there?",1.134020618556701,0.043049724454871305,97.0,87.0,7.0,3.0,540
 3131,"Hey, Siri!",1.134020618556701,0.043049724454871305,97.0,87.0,7.0,3.0,540
 3131,Take a deep breath and OPEN SESAME.,1.134020618556701,0.03773228738143944,97.0,85.0,11.0,1.0,540
-3131,When is the last time you were screened for lead toxicity?,1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,540
+3131,When is the last time you were screened for lead toxicity?,1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,540
 3131,"I know you have trust issues with your money, but our therapy session is over so you need to come out Wilfred.",1.134020618556701,0.04547587720916168,97.0,88.0,5.0,4.0,540
-3131,"OK, let's see if you can cough it up",1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,540
-3131,"I understand we're living in a post-9/11 world, but it makes my job harder.",1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,540
+3131,"OK, let's see if you can cough it up",1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,540
+3131,"I understand we're living in a post-9/11 world, but it makes my job harder.",1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,540
 3131,I'm listening for your inner vault.,1.134020618556701,0.03773228738143944,97.0,85.0,11.0,1.0,540
 3131,"Hmm, your balance sounds healthy but lets work on that tough exterior!",1.134020618556701,0.03773228738143944,97.0,85.0,11.0,1.0,540
 3131,...and hold it...,1.134020618556701,0.043049724454871305,97.0,87.0,7.0,3.0,540
-3131,Special care is taken before a removal procedure.,1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,540
+3131,Special care is taken before a removal procedure.,1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,540
 3144,Well the good news is you won't be needing any vaccines!,1.1339285714285714,0.039084470517477286,112.0,100.0,9.0,3.0,540
 3144,Exactly how much did they transfer to the safe deposit box?,1.1339285714285714,0.03232600119108561,112.0,97.0,15.0,0.0,540
 3144,Having a blast is not the answer!,1.1339285714285714,0.0369691854759662,112.0,99.0,11.0,2.0,540
@@ -3181,11 +3181,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3178,I think we need to talk about how well defended you seem to be,1.1313131313131313,0.0397022120986944,99.0,88.0,9.0,2.0,540
 3178,"Im sorry Mr. Honeywell, all the e-tranfers have really effected your lifespan.",1.1313131313131313,0.0397022120986944,99.0,88.0,9.0,2.0,540
 3178,"Well, you're very safe and sound!",1.1313131313131313,0.03701516692173352,99.0,87.0,11.0,1.0,540
-3178,Your health is not what it's cracked up to be.,1.1313131313131313,0.04221858250599653,99.0,89.0,7.0,3.0,540
+3178,Your health is not what it's cracked up to be.,1.1313131313131313,0.042218582505996534,99.0,89.0,7.0,3.0,540
 3178,Your heart is safe with me,1.1313131313131313,0.0397022120986944,99.0,88.0,9.0,2.0,540
 3178,I can't help you if you won't come out.,1.1313131313131313,0.0397022120986944,99.0,88.0,9.0,2.0,540
 3178,"Mr. Smedley, please repeat the combination, I keep getting hung up on right or left, quit using reference to Republican or Democrat !",1.1313131313131313,0.0397022120986944,99.0,88.0,9.0,2.0,540
-3178,Mrs. Clinton? Donald?,1.1313131313131313,0.04221858250599653,99.0,89.0,7.0,3.0,540
+3178,Mrs. Clinton? Donald?,1.1313131313131313,0.042218582505996534,99.0,89.0,7.0,3.0,540
 3188,Your secrtet is safe with me,1.130952380952381,0.04410050166290234,84.0,75.0,7.0,2.0,540
 3188,Just relax; you are in a safe space.,1.130952380952381,0.04071845422256089,84.0,74.0,9.0,1.0,540
 3188,I know I said it was a safe environment here but we still need to look inside you,1.130952380952381,0.04071845422256089,84.0,74.0,9.0,1.0,540
@@ -3210,7 +3210,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3209,"Don't you feel ""safe""? Open up now.",1.1296296296296295,0.03742441925941169,108.0,96.0,10.0,2.0,540
 3209,"OK let's play it, safe.",1.1296296296296295,0.03742441925941169,108.0,96.0,10.0,2.0,540
 3209,"Now, inflate...and deflate.",1.1296296296296295,0.03742441925941169,108.0,96.0,10.0,2.0,540
-3212,"Yes, I feel safe out here, too!",1.1294117647058823,0.036622976112061986,85.0,74.0,11.0,0.0,540
+3212,"Yes, I feel safe out here, too!",1.1294117647058823,0.03662297611206199,85.0,74.0,11.0,0.0,540
 3212,You're in a safe place now Mr. Gore,1.1294117647058823,0.043605807743241236,85.0,76.0,7.0,2.0,540
 3212,"""Yes, a second opinion is sometimes better safe than sorry. But I can assure you, you're safe"".",1.1294117647058823,0.0402660455486082,85.0,75.0,9.0,1.0,540
 3215,My specialty in med school was ventilation therapy.,1.1293103448275863,0.035761521484125015,116.0,103.0,11.0,2.0,540
@@ -3286,7 +3286,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3273,You sound so bloated. May I suggest a Wells Fargo enema?,1.125,0.037885435178386336,104.0,93.0,9.0,2.0,540
 3273,"""No, Mr. Trump - you can't take it with you""!",1.125,0.037885435178386336,104.0,93.0,9.0,2.0,540
 3273,As your doctor I recommend a try a less restrictive way to lose weight.,1.125,0.038314303373359705,112.0,101.0,8.0,3.0,540
-3273,They're screaming to get out Mr. Trump.,1.125,0.042529039413416465,104.0,95.0,5.0,4.0,540
+3273,They're screaming to get out Mr. Trump.,1.125,0.04252903941341647,104.0,95.0,5.0,4.0,540
 3273,"Yes, Mr. Houdini, your heart still sounds safe.",1.125,0.03702180485994328,96.0,85.0,10.0,1.0,540
 3273,Speak louder. I only hear a murmur.,1.125,0.038314303373359705,112.0,101.0,8.0,3.0,540
 3291,"Don't worry; according to your heartbeat, you're safe.",1.1238938053097345,0.03798983363164784,113.0,102.0,8.0,3.0,540
@@ -3318,7 +3318,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3315,I can't get you out 'till you quit fibrillating.,1.1226415094339623,0.03201198727823856,106.0,93.0,13.0,0.0,540
 3315,"No doctor, I won't open up wide. I won't do it.",1.1226415094339623,0.03470535763854435,106.0,94.0,11.0,1.0,540
 3315,"Sorry, you're terminal but you can't take it with you.",1.1226415094339623,0.03470535763854435,106.0,94.0,11.0,1.0,540
-3320,"Bob, you must come out. I'm sorry I said I wanted to steal your heart.""",1.1224489795918366,0.041700913088556134,98.0,89.0,6.0,3.0,540
+3320,"Bob, you must come out. I'm sorry I said I wanted to steal your heart.""",1.1224489795918366,0.04170091308855613,98.0,89.0,6.0,3.0,540
 3320,I’m afraid you’re suffering from locked-in syndrome,1.1224489795918366,0.03909696556888407,98.0,88.0,8.0,2.0,540
 3320,"It's save to come out, Mr. Trump; You can finally seek the help you desperately need.",1.1224489795918366,0.04415155249981723,98.0,90.0,4.0,4.0,540
 3320,"Yes, I know about the boy in the bubble ...but this is ridiculous.",1.1224489795918366,0.03328341697069122,98.0,86.0,12.0,0.0,540
@@ -3353,7 +3353,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3348,"Doctor, with all due respect, YOU suggested I work on my trust issues.",1.12,0.038349798835288135,100.0,90.0,8.0,2.0,540
 3348,"Take a deep breath now, then cough. Yes, you are safe.",1.12,0.0356186309210063,100.0,89.0,10.0,1.0,540
 3348,"I'm afraid you may have Lyme disease, tell me, have you been around any ticks lately?",1.12,0.0356186309210063,100.0,89.0,10.0,1.0,540
-3348,You're lucky you are insured.,1.12,0.032659863237108996,100.0,88.0,12.0,0.0,540
+3348,You're lucky you are insured.,1.12,0.032659863237109,100.0,88.0,12.0,0.0,540
 3348,Broken? No. Cracked? Working on it.,1.12,0.0356186309210063,100.0,89.0,10.0,1.0,540
 3348,"Your problems are ""safe"" with me.",1.12,0.038349798835288135,100.0,90.0,8.0,2.0,540
 3348,"Why couldn't I keep you..oh, what's the word?",1.12,0.0356186309210063,100.0,89.0,10.0,1.0,540
@@ -3379,13 +3379,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3378,You know you have to twist my knobs to hear my heart right?,1.1188118811881191,0.0323567022541944,101.0,89.0,12.0,0.0,540
 3378,"Slow deep breaths, are you feeling Safe now?",1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,540
 3378,Are you and your partner being safes?,1.1188118811881191,0.03528421719050582,101.0,90.0,10.0,1.0,540
-3378,Mr. Copperfield? Caesar's called and I'm afraid they're not going to pay you for tonight...,1.1188118811881191,0.040509450585106466,101.0,92.0,6.0,3.0,540
+3378,Mr. Copperfield? Caesar's called and I'm afraid they're not going to pay you for tonight...,1.1188118811881191,0.04050945058510647,101.0,92.0,6.0,3.0,540
 3382,At least you don't think that you're more than a box of cash to us.,1.118421052631579,0.0494428795475156,76.0,70.0,3.0,3.0,540
 3383,I'm afraid you've only got a week to pay.,1.118279569892473,0.033668704543479866,93.0,82.0,11.0,0.0,540
 3383,Take two rate hikes and see me on tax day.,1.118279569892473,0.04283507835554761,93.0,85.0,5.0,3.0,540
 3383,We'll have you up and on your feet in no time.,1.118279569892473,0.033668704543479866,93.0,82.0,11.0,0.0,540
-3383,The combination of your problems is overwhelming.,1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,540
-3383,I am afraid we have to blow it open.,1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,540
+3383,The combination of your problems is overwhelming.,1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,540
+3383,I am afraid we have to blow it open.,1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,540
 3388,Is that a Spongebob reference?,1.1181818181818182,0.0381643393012152,110.0,100.0,7.0,3.0,540
 3388,Everything's going to be ok. You're a safe now.,1.1181818181818182,0.04029047611646091,110.0,101.0,5.0,4.0,540
 3390,What? You've been robbed?,1.1176470588235294,0.03763055355523471,102.0,92.0,8.0,2.0,540
@@ -3441,11 +3441,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3436,"I'm told that I keep everything locked up, that I don't have a heart.",1.1153846153846154,0.03693769936994781,104.0,94.0,8.0,2.0,540
 3436,"You sound very congested. But I can guarantee that after just one night's stay in the hospital, you'll be clean as a whistle.",1.1153846153846154,0.03693769936994781,104.0,94.0,8.0,2.0,540
 3442,"Vitals sound good, Mr. Bentley, but until you agree to the lab work I'm unable to make a diagnosis.",1.1150442477876106,0.03500093097321652,113.0,102.0,9.0,2.0,540
-3443,Cash out....Cash out....Cash out....Cash out,1.1149425287356325,0.041443118108781464,87.0,79.0,6.0,2.0,540
-3443,"Okay, cough...",1.1149425287356325,0.041443118108781464,87.0,79.0,6.0,2.0,540
+3443,Cash out....Cash out....Cash out....Cash out,1.1149425287356325,0.04144311810878146,87.0,79.0,6.0,2.0,540
+3443,"Okay, cough...",1.1149425287356325,0.04144311810878146,87.0,79.0,6.0,2.0,540
 3443,I detect a S3 S4 murmur.,1.1149425287356325,0.034393540466990884,87.0,77.0,10.0,0.0,540
-3443,Please take your feet off the couch as soon as possible.,1.1149425287356325,0.041443118108781464,87.0,79.0,6.0,2.0,540
-3443,We can't have any secrets here.,1.1149425287356325,0.041443118108781464,87.0,79.0,6.0,2.0,540
+3443,Please take your feet off the couch as soon as possible.,1.1149425287356325,0.04144311810878146,87.0,79.0,6.0,2.0,540
+3443,We can't have any secrets here.,1.1149425287356325,0.04144311810878146,87.0,79.0,6.0,2.0,540
 3448,"Hmm; Well, I think it's safe to say...it's too late.",1.1147540983606556,0.03529871619173477,122.0,111.0,8.0,3.0,540
 3449,"It's OK to come out, Don - you can leave the tax returns inside.",1.1145833333333333,0.04154312826266161,96.0,88.0,5.0,3.0,540
 3449,"Breathe easy, I'm not going to make the obvious safe space joke.",1.1145833333333333,0.038814085848231934,96.0,87.0,7.0,2.0,540
@@ -3497,7 +3497,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3487,You're not getting enough roughage.,1.1111111111111112,0.03768416986205077,99.0,90.0,7.0,2.0,540
 3487,I hear you but this isn't the safe place I was talking about.,1.1111111111111112,0.035965438795678005,117.0,107.0,7.0,3.0,540
 3487,... and did your GP ever prescribe a laxative?,1.1111111111111112,0.04011358543486932,90.0,82.0,6.0,2.0,540
-3487,Let's talk about some keys to your health.,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,540
+3487,Let's talk about some keys to your health.,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,540
 3487,PLEASE!! Let the Taxes go.,1.1111111111111112,0.03928371006591929,81.0,73.0,7.0,1.0,540
 3487,"Okay, now say ahhh.",1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,540
 3487,Sounds to me like your combination's been hacked.,1.1111111111111112,0.03484183684747369,99.0,89.0,9.0,1.0,540
@@ -3578,10 +3578,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3574,"Yes, a safe can have feelings, too.",1.1071428571428572,0.029356962018813774,112.0,100.0,12.0,0.0,540
 3574,It's safe to say you are locked up.,1.1071428571428572,0.029356962018813774,112.0,100.0,12.0,0.0,540
 3579,Polly want a cracker?,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,540
-3579,Actually Mr. Andrews its more simile than metaphor.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,540
+3579,Actually Mr. Andrews its more simile than metaphor.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,540
 3579,If you open the door I will cough all you want.,1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,540
 3579,Do you feel safe in your home?,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,540
-3579,You're saying you've felt this bloatedness since 4/15/1995?,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,540
+3579,You're saying you've felt this bloatedness since 4/15/1995?,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,540
 3579,And do you have insurance?,1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,540
 3579,Abstinence is not the only safe method.,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,540
 3579,You have a heart of gold . . . with normal rate and rhythm.,1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,540
@@ -3807,11 +3807,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3803,It's not one thing but a combination of health & safety related issues at work here.,1.0925925925925926,0.02802188803860944,108.0,98.0,10.0,0.0,540
 3803,You are diagnosed with stiff heart syndrome. I recommend opening yourself up.,1.0925925925925926,0.030956364059375137,108.0,99.0,8.0,1.0,540
 3803,"I can hear a breakthrough about to happen. Remember, you're still in a safe place.",1.0925925925925926,0.030956364059375137,108.0,99.0,8.0,1.0,540
-3809,Please come out. I promise I'll keep you safe.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,540
-3809,Getting you to open up would be much more difficult with a time lock.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,540
-3809,I feel very SAFE in your hands doc.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,540
-3809,Dr. Oz said I 'd hear nothing; the Wizard said you have a heart.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,540
-3809,And how long have you had this recurring nonproductive combination?,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,540
+3809,Please come out. I promise I'll keep you safe.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,540
+3809,Getting you to open up would be much more difficult with a time lock.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,540
+3809,I feel very SAFE in your hands doc.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,540
+3809,Dr. Oz said I 'd hear nothing; the Wizard said you have a heart.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,540
+3809,And how long have you had this recurring nonproductive combination?,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,540
 3814,How did we wind up here?,1.0918367346938775,0.03271414967358107,98.0,90.0,7.0,1.0,540
 3814,"Well, you did say you'd like to open up more.",1.0918367346938775,0.029322724176663036,98.0,89.0,9.0,0.0,540
 3814,Open Sesame!,1.0918367346938775,0.029322724176663036,98.0,89.0,9.0,0.0,540
@@ -3871,7 +3871,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3870,Let me see if you are truly heartless.,1.088235294117647,0.034421026452171405,102.0,95.0,5.0,2.0,540
 3870,So you say a man with blonde hair named Donald.... what was it again? attacked you?,1.088235294117647,0.028222915166426082,102.0,93.0,9.0,0.0,540
 3870,"Yes, Jerry, everything you tell me will be kept in the vault.",1.088235294117647,0.03147491066319622,102.0,94.0,7.0,1.0,540
-3870,Something tells me this is the beginning of a beautiful friendship.,1.088235294117647,0.03713413689297199,102.0,96.0,3.0,3.0,540
+3870,Something tells me this is the beginning of a beautiful friendship.,1.088235294117647,0.037134136892971986,102.0,96.0,3.0,3.0,540
 3870,How's your circulation?,1.088235294117647,0.028222915166426082,102.0,93.0,9.0,0.0,540
 3870,"Safe sex can leave me empty, too, but a crank with armor will never harm her.",1.088235294117647,0.034421026452171405,102.0,95.0,5.0,2.0,540
 3870,"Right to lub dub, left past lub dub to ....",1.088235294117647,0.028222915166426082,102.0,93.0,9.0,0.0,540
@@ -3936,7 +3936,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3935,You're doing fine. Just don't let anyone get to you.,1.0841121495327102,0.02695861535441566,107.0,98.0,9.0,0.0,540
 3935,One last question Doc; will the cost of fixing my ticker break the bank?,1.0841121495327102,0.030051666926852717,107.0,99.0,7.0,1.0,540
 3935,Affordable Health Care Act...time of death...11/8/16.,1.0841121495327102,0.032854808298598416,107.0,100.0,5.0,2.0,540
-3938,your heart sounds weak we may have to remove the blockage,1.084033613445378,0.02819103835633218,119.0,110.0,8.0,1.0,540
+3938,your heart sounds weak we may have to remove the blockage,1.0840336134453779,0.02819103835633218,119.0,110.0,8.0,1.0,540
 3939,"Are you hurting inside? Please tell me the password to your heart. Don't worry, I am not here to steal but to heal.",1.0833333333333333,0.035251809293701974,96.0,90.0,4.0,2.0,540
 3939,"For the last time, you ARE made of money and this visit will be on YOUR dimes!",1.0833333333333333,0.027963895623643854,120.0,111.0,8.0,1.0,540
 3939,"Yes, you are perfectly safe for your removal procedure.",1.0833333333333333,0.028356543640780038,96.0,88.0,8.0,0.0,540
@@ -3990,11 +3990,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3987,"I feel for you, there is too much in there",1.0795454545454546,0.03320871785794785,88.0,82.0,5.0,1.0,540
 3987,"""What was that Mr. Smith? You'll come out when?",1.0795454545454546,0.029010100343071464,88.0,81.0,7.0,0.0,540
 3991,Finding a soft spot for manipulation involves detecting the slightest whooshing of a heartbeat.,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,540
-3991,Nice coat. My gastro wears a ski mask.,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,540
+3991,Nice coat. My gastro wears a ski mask.,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,540
 3991,I hear a severe tumbler malfunction we call tumbleritis!,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,540
 3991,You've got to learn to let go.,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,540
 3991,Paul vaulting again? I'm going to have to prescribe a suppository for your repository.,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,540
-3991,You really need to watch what you put inside your body.,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,540
+3991,You really need to watch what you put inside your body.,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,540
 3997,Increased copays are causing doctors to go to extremes before seeing new patients.,1.0786516853932584,0.036526674251151636,89.0,84.0,3.0,2.0,540
 3997,We just need to find a safe combination of medicines.,1.0786516853932584,0.02869621407125669,89.0,82.0,7.0,0.0,540
 3999,"As I suspected, it sounds like you have a HIPAA breach due to a raging case of unencrypted patient data combined with chronic unauthorized disclosure, creating a secondary infection of vulnerability to IT hacking incidents.",1.0784313725490196,0.03322524070696413,102.0,96.0,4.0,2.0,540
@@ -4121,11 +4121,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4119,"""Sorry, going down there isn't covered by your Annual."" '",1.0689655172413792,0.026613277820986003,116.0,109.0,6.0,1.0,540
 4119,I'm sure we can crack the code to figure out what your ailments are,1.0689655172413792,0.026613277820986003,116.0,109.0,6.0,1.0,540
 4119,"At least it sounds like your cough is better, Mr. Cruthers",1.0689655172413792,0.026613277820986003,116.0,109.0,6.0,1.0,540
-4123,I assure you. Obamacare is quite androgynous.,1.0686274509803921,0.025156485287162588,102.0,95.0,7.0,0.0,540
-4123,"A vegetarian diet is fine, but you need to make sure to get enough iron.",1.0686274509803921,0.025156485287162588,102.0,95.0,7.0,0.0,540
-4123,I should have brought the EKG.,1.0686274509803921,0.028757361018843988,102.0,96.0,5.0,1.0,540
-4123,I've seen this locked-in syndrome before. Now breathe in and or through your mouth.,1.0686274509803921,0.025156485287162588,102.0,95.0,7.0,0.0,540
-4123,I think you need a wheel pack transplant.,1.0686274509803921,0.031955013276996576,102.0,97.0,3.0,2.0,540
+4123,I assure you. Obamacare is quite androgynous.,1.068627450980392,0.025156485287162588,102.0,95.0,7.0,0.0,540
+4123,"A vegetarian diet is fine, but you need to make sure to get enough iron.",1.068627450980392,0.025156485287162588,102.0,95.0,7.0,0.0,540
+4123,I should have brought the EKG.,1.068627450980392,0.028757361018843988,102.0,96.0,5.0,1.0,540
+4123,I've seen this locked-in syndrome before. Now breathe in and or through your mouth.,1.068627450980392,0.025156485287162588,102.0,95.0,7.0,0.0,540
+4123,I think you need a wheel pack transplant.,1.068627450980392,0.031955013276996576,102.0,97.0,3.0,2.0,540
 4128,"I agree that a panic attack could be natural and not psychosomatic, given your line of work.",1.0683760683760684,0.023433835993969025,117.0,109.0,8.0,0.0,540
 4128,Are you paying by monthly salary or yearly?,1.0683760683760684,0.02639141689489164,117.0,110.0,6.0,1.0,540
 4130,"You can't keep your feelings about the election to yourself , Mr. Undecided.",1.068181818181818,0.02702341637863115,88.0,82.0,6.0,0.0,540
@@ -4325,7 +4325,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4324,I think you have been ingesting too much lead.,1.0490196078431373,0.0214837460757188,102.0,97.0,5.0,0.0,540
 4324,I found my broken heart...,1.0490196078431373,0.025606413380457303,102.0,98.0,3.0,1.0,540
 4324,"Still stuck on ""Goodnight Irene"" and ""Bye Bye Blackbird""? You obviously feel safe with that, but you'll have to give me a better Tumblr combination before I can release you.",1.0490196078431373,0.0214837460757188,102.0,97.0,5.0,0.0,540
-4327,"Yes, there is a creepy clown outside looking for your safe space.",1.048780487804878,0.02393431129086135,82.0,78.0,4.0,0.0,540
+4327,"Yes, there is a creepy clown outside looking for your safe space.",1.0487804878048779,0.02393431129086135,82.0,78.0,4.0,0.0,540
 4328,My diagnosis: Iatrophibia.,1.0485436893203883,0.021279466201922555,103.0,98.0,5.0,0.0,540
 4328,"If you really are a shape-shifter, I suggest you shift your shape now while I can still hear breath sounds.",1.0485436893203883,0.021279466201922555,103.0,98.0,5.0,0.0,540
 4328,"We will get to the bottom of what's inside you that's bothering you, but first need to make sure your heart is healthy enough.",1.0485436893203883,0.021279466201922555,103.0,98.0,5.0,0.0,540
@@ -4377,8 +4377,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4376,A SAFE'S secrets are SAFEST on my couch!,1.0416666666666667,0.020501747179860055,96.0,92.0,4.0,0.0,540
 4376,"As far as your heart is concerned, it is on the wrong side,but you are safe.",1.0416666666666667,0.020501747179860055,96.0,92.0,4.0,0.0,540
 4378,"Removal is impossible, so I'll just increase the dosage of your constipation medicine.",1.0413223140495869,0.018169291953543918,121.0,116.0,5.0,0.0,540
-4379,"If only I had listened to my friends at the New Yorker, I wouldn't be having so much trouble blowing this box.",1.0412371134020622,0.020293834726834492,97.0,93.0,4.0,0.0,540
-4379,"It's safe to say, He's gone.",1.0412371134020622,0.020293834726834492,97.0,93.0,4.0,0.0,540
+4379,"If only I had listened to my friends at the New Yorker, I wouldn't be having so much trouble blowing this box.",1.0412371134020622,0.02029383472683449,97.0,93.0,4.0,0.0,540
+4379,"It's safe to say, He's gone.",1.0412371134020622,0.02029383472683449,97.0,93.0,4.0,0.0,540
 4379,"just checking you're safe , seen many like you locked up",1.0412371134020622,0.02503230633046981,97.0,94.0,2.0,1.0,540
 4382,We are looking for the money’s heartbeat and to measure the money.,1.0408163265306123,0.020090094502135333,98.0,94.0,4.0,0.0,540
 4383,It is really scary doc; all this responsibility has my heart racing.,1.0404040404040404,0.01989040223966842,99.0,95.0,4.0,0.0,540
@@ -4390,11 +4390,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4388,women doctors are dumb,1.0396039603960396,0.024049421389091327,101.0,98.0,2.0,1.0,540
 4388,It talks!!!,1.0396039603960396,0.024049421389091327,101.0,98.0,2.0,1.0,540
 4391,I'm glad you came in and I can hear way you feel unsafe.,1.03921568627451,0.019314442404360883,102.0,98.0,4.0,0.0,540
-4392,I know it is difficult to harbor such inner secrets.,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,540
-4392,Malpractice!,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,540
-4392,I no longer hear a safe heart beat--your secrets are gone!,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,540
-4392,"So you don't trust yourself, otherwise unsafe.",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,540
-4392,"(into to Pink Floyd's ""Money"")",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,540
+4392,I know it is difficult to harbor such inner secrets.,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,540
+4392,Malpractice!,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,540
+4392,I no longer hear a safe heart beat--your secrets are gone!,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,540
+4392,"So you don't trust yourself, otherwise unsafe.",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,540
+4392,"(into to Pink Floyd's ""Money"")",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,540
 4397,"Doctor, where did you put the key to the Tardis?",1.0384615384615383,0.01894863996469789,104.0,100.0,4.0,0.0,540
 4398,Your heartbeat indicates you have a safety problem.,1.0380952380952382,0.018770883480320747,105.0,101.0,4.0,0.0,540
 4398,"Wait, you are telling me that you have Donald Trump's presidential temperament!",1.0380952380952382,0.023140791900493844,105.0,102.0,2.0,1.0,540
@@ -4467,7 +4467,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4466,Your thoughts are scrambled. Calm Down and Think Straight.,1.0196078431372548,0.013796030288829279,102.0,100.0,2.0,0.0,540
 4467,"No insurance you say? Erm, OK. I guess your health is in your safe with me.",1.019417475728155,0.013662757940984677,103.0,101.0,2.0,0.0,540
 4468,"If I can crack the right diagnostic code, I can resect all your insurance premium and you lose weight!",1.0192307692307692,0.013532035612611728,104.0,102.0,2.0,0.0,540
-4469,Too incongruous for the Fresh Air Fund to keep money in here.,1.0188679245283019,0.01886792452830189,106.0,105.0,0.0,1.0,540
+4469,Too incongruous for the Fresh Air Fund to keep money in here.,1.018867924528302,0.01886792452830189,106.0,105.0,0.0,1.0,540
 4470,"If I was a younger man I'de ask you out on a date."" ""Shush, I'm trying to listen."" ""If I was handsome like a movie star, maybe then?"" ""It's only what's inside you that counts."" Said the Doc sympathetically. ""Gold Digger."" ""You're imposable.",1.0148148148148148,0.010436494549594387,135.0,133.0,2.0,0.0,540
 4471,"Meanwhile, the other members of the eccentric heist crew were strategizing how best to tell Dr. DiCypher she's leaning too heavily on her gimmick.",1.0111111111111108,0.01117335871923318,90.0,89.0,1.0,0.0,540
 4472,"Your deteriorating insides seem ""unsafe,"" and therefore, an immediate reconstruction operation is necessary.",1.010989010989011,0.011049892402196598,91.0,90.0,1.0,0.0,540

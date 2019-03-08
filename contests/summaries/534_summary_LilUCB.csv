@@ -1,5 +1,5 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
-1,"Looks like Sammy wins the ""bring your pet to work"" contest. He ate all of the other entries!",1.8319604612850082,0.035625638760891934,607.0,293.0,123.0,191.0,534
+1,"Looks like Sammy wins the ""bring your pet to work"" contest. He ate all of the other entries!",1.831960461285008,0.035625638760891934,607.0,293.0,123.0,191.0,534
 2,Anywhere but Eve's office.,1.8037735849056604,0.036209082655632864,530.0,246.0,142.0,142.0,534
 3,We're searching for rats that escaped from the subway's Track 23 dining room kitchen.,1.735,0.04587700129825728,400.0,235.0,36.0,129.0,534
 4,Looks like you ordered from the wrong Amazon,1.7300771208226222,0.03943003016841106,389.0,184.0,126.0,79.0,534
@@ -21,9 +21,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 20,"Sir, you should probably assume your human form for the shareholders meeting.",1.6168582375478928,0.04820470150511267,261.0,148.0,65.0,48.0,534
 21,Ah. My Amazon delivery.,1.6162790697674418,0.047406038511578624,258.0,143.0,71.0,44.0,534
 22,"Not as charming as the gecko, but we'll give it a shot.",1.611764705882353,0.04625294216903564,255.0,138.0,78.0,39.0,534
-23,I said we need stakeholders.,1.608695652173913,0.05106631182326898,253.0,152.0,48.0,53.0,534
+23,I said we need stakeholders.,1.608695652173913,0.051066311823268984,253.0,152.0,48.0,53.0,534
 23,Let's start thinking in the box.,1.608695652173913,0.0491889278568807,253.0,146.0,60.0,47.0,534
-25,I thought Milton Berle was dead.,1.6055776892430278,0.05530821876997061,251.0,165.0,20.0,66.0,534
+25,I thought Milton Berle was dead.,1.6055776892430278,0.055308218769970614,251.0,165.0,20.0,66.0,534
 26,"No. What i said was, ""We need a gigantic shake up here.""",1.604,0.04738901640150391,250.0,139.0,71.0,40.0,534
 27,Just add it to the list of possible side effects.,1.6032388663967612,0.04920576673640216,247.0,142.0,61.0,44.0,534
 28,Didn't work out in accounting. Turns out he's only an adder.,1.6,0.04989114949828564,245.0,143.0,57.0,45.0,534
@@ -44,7 +44,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 43,We found what was jamming the printer.,1.5764192139737991,0.050643727094948486,229.0,136.0,54.0,39.0,534
 43,"No, no, I asked if you guys could find Ann a condo.",1.5764192139737991,0.05102051023343995,229.0,137.0,52.0,40.0,534
 45,This decision may come back to bite us.,1.5707964601769913,0.0463765225242137,226.0,124.0,75.0,27.0,534
-46,I see you've found the cause of the paper jam.,1.5695067264573992,0.05137637089050458,223.0,134.0,51.0,38.0,534
+46,I see you've found the cause of the paper jam.,1.5695067264573992,0.051376370890504584,223.0,134.0,51.0,38.0,534
 47,Let's stick with the gekko,1.5636363636363635,0.050753780766787215,220.0,131.0,54.0,35.0,534
 47,"Tell him again , we don't use Apple products here and we won't be tempted to.",1.5636363636363635,0.050753780766787215,220.0,131.0,54.0,35.0,534
 49,I don't think I.T. entirely understood my mouse problem.,1.5622119815668205,0.04918913635341387,217.0,125.0,62.0,30.0,534
@@ -52,12 +52,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 50,"No, what I said was that we need a bigger STAKE in the company.",1.5616438356164384,0.04841715804837341,219.0,125.0,65.0,29.0,534
 52,Get him a desk in Legal.,1.5601851851851851,0.05066686909056884,216.0,128.0,55.0,33.0,534
 53,I thought we agreed not to invite Legal to this meeting.,1.5596330275229358,0.05196123348085431,218.0,133.0,48.0,37.0,534
-54,"Um, I think we should go back to thinking 'inside the box'.",1.5581395348837208,0.04867808190314239,215.0,123.0,64.0,28.0,534
+54,"Um, I think we should go back to thinking 'inside the box'.",1.5581395348837208,0.048678081903142385,215.0,123.0,64.0,28.0,534
 54,"Oh dear, another case of reptile dysfunction.",1.5581395348837208,0.05212778670529917,215.0,131.0,48.0,36.0,534
 54,I'm afraid this idea doesn't have any legs,1.5581395348837208,0.04731964945331898,215.0,120.0,70.0,25.0,534
 57,I think we figured out the reason for the huge employee turnover on the fourth floor.,1.5555555555555556,0.04762519955339525,216.0,122.0,68.0,26.0,534
-58,"His résumé said he used to work at Amazon, which is technically true.",1.5518867924528301,0.05057773290836527,212.0,126.0,55.0,31.0,534
-58,Put him in charge of low-hanging fruit.,1.5518867924528301,0.052315867121496926,212.0,130.0,47.0,35.0,534
+58,"His résumé said he used to work at Amazon, which is technically true.",1.55188679245283,0.05057773290836527,212.0,126.0,55.0,31.0,534
+58,Put him in charge of low-hanging fruit.,1.55188679245283,0.052315867121496926,212.0,130.0,47.0,35.0,534
 60,"Impressive, but the other attorneys brought a mongoose.",1.5510204081632653,0.053278146139421625,196.0,118.0,48.0,30.0,534
 61,We've had complaints that your emotional support animal keeps eating other emotional support animals.,1.5497630331753554,0.05208959872619559,211.0,129.0,48.0,34.0,534
 61,We need to clean the refrigerator more often.,1.5497630331753554,0.0498762829942089,211.0,124.0,58.0,29.0,534
@@ -65,19 +65,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 64,I see you've brought along your own lawyer.,1.5476190476190477,0.04868370103065908,210.0,121.0,63.0,26.0,534
 64,So it is a hostile takeover.,1.5476190476190477,0.04914947825423677,210.0,122.0,61.0,27.0,534
 66,"I said, ""Bring me the rep file.""",1.5458937198067633,0.0515493295039338,207.0,125.0,51.0,31.0,534
-66,So you think you know where my left arm is?,1.5458937198067633,0.051092379637473734,207.0,124.0,53.0,30.0,534
+66,So you think you know where my left arm is?,1.5458937198067633,0.05109237963747373,207.0,124.0,53.0,30.0,534
 66,He's in his office. Why?,1.5458937198067633,0.05200226425445857,207.0,126.0,49.0,32.0,534
 69,Surely you can find a better 2-hole punch?,1.5454545454545454,0.051409629794999016,198.0,117.0,54.0,27.0,534
 70,"I meant, ""snack"". Damn autocorrect.",1.5436893203883495,0.052659958074264115,206.0,127.0,46.0,33.0,534
 70,Mine's bigger.,1.5436893203883495,0.05220834691393049,206.0,126.0,48.0,32.0,534
-72,I thought we weren't bringing our attorneys.,1.5431472081218274,0.05310304030412186,197.0,120.0,47.0,30.0,534
+72,I thought we weren't bringing our attorneys.,1.5431472081218274,0.053103040304121864,197.0,120.0,47.0,30.0,534
 73,I see the boss hired another relative.,1.5414634146341464,0.050083039837638864,205.0,121.0,57.0,27.0,534
 74,I didn't know we were bringing in outside counsel,1.5369458128078817,0.04799875077731223,203.0,116.0,65.0,22.0,534
 74,"Whatever you do, don't assign him an office near Eve.",1.5369458128078817,0.050956061245264035,203.0,122.0,53.0,28.0,534
 74,"...and so we're letting both of you go, but you are eligible for COBRA.",1.5369458128078817,0.05420270868989019,203.0,129.0,39.0,35.0,534
 74,I meant the kind plumbers use.,1.5369458128078817,0.05143241709148549,203.0,123.0,51.0,29.0,534
 78,I said I want you to be 'Stakeholders'!,1.535,0.05298975913197117,200.0,124.0,45.0,31.0,534
-79,"No, I'm quite sure it was ""stakeholders,"" a meeting of all STAKEholders.",1.534653465346535,0.05258160350264501,202.0,125.0,46.0,31.0,534
+79,"No, I'm quite sure it was ""stakeholders,"" a meeting of all STAKEholders.",1.534653465346535,0.052581603502645013,202.0,125.0,46.0,31.0,534
 80,I see they sent someone from corporate this time.,1.5326633165829149,0.05175408747463079,199.0,121.0,50.0,28.0,534
 80,"No, no, no - I said we needed a couple of new ""stakeholders""!",1.5326633165829149,0.05126135704020175,199.0,120.0,52.0,27.0,534
 80,"Wow, mystery solved! I thought people were just on vacation.",1.5326633165829149,0.05415052902765776,199.0,126.0,40.0,33.0,534
@@ -97,7 +97,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 94,I know today's the 'Bring Your Pets to Work Day' but many people say they couldn't find their pets anymore...,1.5255102040816326,0.05434362849132487,196.0,125.0,39.0,32.0,534
 94,Add him to the office pool.,1.5255102040816326,0.051880505383208826,196.0,120.0,49.0,27.0,534
 94,Anything found in the employee fridge without a name and date gets tossed.,1.5255102040816326,0.049822408048872745,196.0,116.0,57.0,23.0,534
-99,There must have been a typo in the notice. This meeting is for STAKE-holders.,1.5230769230769232,0.05208985755920279,195.0,120.0,48.0,27.0,534
+99,There must have been a typo in the notice. This meeting is for STAKE-holders.,1.5230769230769232,0.052089857559202785,195.0,120.0,48.0,27.0,534
 99,When did we go open carry?,1.5230769230769232,0.050544524710619376,195.0,117.0,54.0,24.0,534
 99,I didn't mean it literally! Take that back and bring me an actual lawyer.,1.5230769230769232,0.05456824837819218,195.0,125.0,38.0,32.0,534
 99,That's the last time we use Monster.com.,1.5230769230769232,0.050018805304777175,195.0,116.0,56.0,23.0,534
@@ -107,14 +107,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 106,"I said add one percent, not one serpent.",1.5183246073298429,0.05345228694057287,191.0,120.0,43.0,28.0,534
 106,I wasn't expecting anything from Amazon!,1.5183246073298429,0.05188267703387433,191.0,117.0,49.0,25.0,534
 106,"No, no. I said, 'We should buy a bigger *stake*.'",1.5183246073298429,0.05080933943889935,191.0,115.0,53.0,23.0,534
-109,Maybe we should cancel our Amazon Rewards Program.,1.5157894736842106,0.05046501433043898,190.0,114.0,54.0,22.0,534
+109,Maybe we should cancel our Amazon Rewards Program.,1.5157894736842106,0.050465014330438984,190.0,114.0,54.0,22.0,534
 109,"I thought his resume said worked at Amazon, not in the Amazon.",1.5157894736842106,0.049910148054624265,190.0,113.0,56.0,21.0,534
-109,"It's our biggest idea, but it has no legs.",1.5157894736842106,0.05046501433043898,190.0,114.0,54.0,22.0,534
+109,"It's our biggest idea, but it has no legs.",1.5157894736842106,0.050465014330438984,190.0,114.0,54.0,22.0,534
 109,I didn't know Legal was hiring.,1.5157894736842106,0.05367388961676616,190.0,120.0,42.0,28.0,534
 109,I said I wanted an extra large shake.,1.5157894736842106,0.05155683520586971,190.0,116.0,50.0,24.0,534
 109,I'm not sure we have that kind of wiggle room.,1.5157894736842106,0.049349043418263086,190.0,112.0,58.0,20.0,534
 109,The employee you need to terminate is in the first office on the left.,1.5157894736842106,0.049910148054624265,190.0,113.0,56.0,21.0,534
-109,I see that there was a typo in my 'Haul-your-asp-to-my-office' memo.,1.5157894736842106,0.05315253177465679,190.0,119.0,44.0,27.0,534
+109,I see that there was a typo in my 'Haul-your-asp-to-my-office' memo.,1.5157894736842106,0.053152531774656786,190.0,119.0,44.0,27.0,534
 109,I said get me a large SHAKE!,1.5157894736842106,0.05155683520586971,190.0,116.0,50.0,24.0,534
 109,The meeting was for STAKEHOLDERS...,1.5157894736842106,0.0526260091734021,190.0,118.0,46.0,26.0,534
 119,No....What I said was that I want to meet our stakeholders.,1.5132275132275133,0.05284246499286119,189.0,118.0,45.0,26.0,534
@@ -169,10 +169,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 168,I mean nobody's LinkedIn profile is completely honest.,1.4825581395348837,0.054992697121151145,172.0,112.0,37.0,23.0,534
 168,I never thought our IRS audit would be done by a civil serpent.,1.4825581395348837,0.05310553990541485,172.0,109.0,43.0,20.0,534
 168,"Gentlemen, your proposal hasn't got a leg to stand on.",1.4825581395348837,0.04911416936709302,172.0,103.0,55.0,14.0,534
-171,It's the new hire from Amazon.,1.48,0.052422434686463064,175.0,111.0,44.0,20.0,534
-172,I may have mumbled.... but I know I said STAKEHOLDERS MEETING,1.4795321637426901,0.05333022519745498,171.0,109.0,42.0,20.0,534
-172,"Inhuman Resources, third floor.",1.4795321637426901,0.05646335242999018,171.0,114.0,32.0,25.0,534
-172,"Careful, he's on the Boa Directors.",1.4795321637426901,0.05766896103487632,171.0,116.0,28.0,27.0,534
+171,It's the new hire from Amazon.,1.48,0.05242243468646306,175.0,111.0,44.0,20.0,534
+172,I may have mumbled.... but I know I said STAKEHOLDERS MEETING,1.47953216374269,0.05333022519745498,171.0,109.0,42.0,20.0,534
+172,"Inhuman Resources, third floor.",1.47953216374269,0.05646335242999018,171.0,114.0,32.0,25.0,534
+172,"Careful, he's on the Boa Directors.",1.47953216374269,0.05766896103487632,171.0,116.0,28.0,27.0,534
 175,"Just so you know, Eve has filed a sexual harassment suit.",1.4767441860465116,0.05372908071788878,172.0,111.0,40.0,21.0,534
 176,"On second thought, let's call a plumber.",1.4764705882352942,0.051569816339502125,170.0,106.0,47.0,17.0,534
 176,"No guys, I told you I needed a good Boeing contractor.",1.4764705882352942,0.052902488087409806,170.0,108.0,43.0,19.0,534
@@ -288,7 +288,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 287,"Whatever, but all emotional support animals must be cleared with HR",1.4423076923076923,0.05321770806067423,156.0,102.0,39.0,15.0,534
 287,So that's why the printer was jammed.,1.4423076923076923,0.05243483064998263,156.0,101.0,41.0,14.0,534
 287,"Take him over to sales, he'll fit right in.",1.4423076923076923,0.053989234456231584,156.0,103.0,37.0,16.0,534
-290,There's an empty cubicle between Adam and Eve.,1.4415584415584417,0.05291519705015647,154.0,100.0,40.0,14.0,534
+290,There's an empty cubicle between Adam and Eve.,1.4415584415584417,0.052915197050156466,154.0,100.0,40.0,14.0,534
 290,"When I told you to get me the biggest snake in town, I meant a lawyer.",1.4415584415584417,0.05603166810073877,154.0,104.0,32.0,18.0,534
 290,I'm sorry. The job offer was for a civil servant.,1.4415584415584417,0.05603166810073877,154.0,104.0,32.0,18.0,534
 290,So all that anti-virus stuff doesn't prevent these?,1.4415584415584417,0.05526902742339266,154.0,103.0,34.0,17.0,534
@@ -342,7 +342,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 338,"If you have reptile dysfunction, I know of a cure.",1.429530201342282,0.05573823401159775,149.0,101.0,32.0,16.0,534
 338,This is Accounting. Legal is on the 5th floor.,1.429530201342282,0.05408660913384405,149.0,99.0,36.0,14.0,534
 338,That's a moray?,1.429530201342282,0.058127746347447926,149.0,104.0,26.0,19.0,534
-344,"It seemed like a good idea, but it didn't have legs.",1.4266666666666667,0.05462638336811879,150.0,101.0,34.0,15.0,534
+344,"It seemed like a good idea, but it didn't have legs.",1.4266666666666667,0.054626383368118786,150.0,101.0,34.0,15.0,534
 344,"Last time I'm going to tell you, gentlemen, jackets are required in the office.",1.4266666666666667,0.05933763149602905,150.0,107.0,22.0,21.0,534
 346,Now find a huge peanut brittle can.,1.4256756756756757,0.05760049709589071,148.0,103.0,27.0,18.0,534
 346,I see legal is moving again.,1.4256756756756757,0.05760049709589071,148.0,103.0,27.0,18.0,534
@@ -401,7 +401,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 392,He'll fit in with our work culture just fine.,1.4042553191489362,0.052281991417417836,141.0,94.0,37.0,10.0,534
 392,That explains the poor attendance at the daycare center.,1.4042553191489362,0.05324212382282164,141.0,95.0,35.0,11.0,534
 392,"When she said Bob showed her his snake, I just assumed it was a euphemism.",1.4042553191489362,0.05324212382282164,141.0,95.0,35.0,11.0,534
-392,Shouldn't we just call a plumber?,1.4042553191489362,0.05511223089616413,141.0,97.0,31.0,13.0,534
+392,Shouldn't we just call a plumber?,1.4042553191489362,0.055112230896164134,141.0,97.0,31.0,13.0,534
 392,I think his cubicle office was just too constricting.,1.4042553191489362,0.0560238798812241,141.0,98.0,29.0,14.0,534
 392,I'll inform the boss that our legal counsel is here.,1.4042553191489362,0.05780406008346872,141.0,100.0,25.0,16.0,534
 392,"For Chrissake! I specifically said, 'We're angling for the one percent,' not one serpent!",1.4042553191489362,0.05867389951866999,141.0,101.0,23.0,17.0,534
@@ -413,10 +413,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 410,I see on your resume you used to run Fox News?,1.4028776978417266,0.05750832306195652,139.0,98.0,26.0,15.0,534
 410,"I meant Python, the computer language.",1.4028776978417266,0.05929364258087864,139.0,100.0,22.0,17.0,534
 410,I thought you hired Anna Conda!,1.4028776978417266,0.0565945475010009,139.0,97.0,28.0,14.0,534
-410,Just put it over there with the rest of the hedge fund traders.,1.4028776978417266,0.05376011126455293,139.0,94.0,34.0,11.0,534
+410,Just put it over there with the rest of the hedge fund traders.,1.4028776978417266,0.053760111264552934,139.0,94.0,34.0,11.0,534
 410,When I said buy Anaconda I didn't mean..........,1.4028776978417266,0.055665773975466605,139.0,96.0,30.0,13.0,534
 410,"Next time, remove ""killer instinct"" from the job description.",1.4028776978417266,0.0565945475010009,139.0,97.0,28.0,14.0,534
-410,I knew you'd come crawling back here for work.,1.4028776978417266,0.05376011126455293,139.0,94.0,34.0,11.0,534
+410,I knew you'd come crawling back here for work.,1.4028776978417266,0.053760111264552934,139.0,94.0,34.0,11.0,534
 419,Toilet in the executive washroom clogged again?,1.4,0.05570860145311556,145.0,102.0,28.0,15.0,534
 420,Online she said she was slim and curvy.,1.3985507246376812,0.05590097094007525,138.0,96.0,29.0,13.0,534
 420,We're taking legal out to lunch.,1.3985507246376812,0.05776237181450506,138.0,98.0,25.0,15.0,534
@@ -498,7 +498,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 496,Oh no! Don't tell me we're switching to Python.,1.3805970149253732,0.05483550463584951,134.0,94.0,29.0,11.0,534
 498,"Our toilet is fixed, boss!",1.3787878787878791,0.05434009198412181,132.0,92.0,30.0,10.0,534
 498,Maybe it was someone she ate?,1.3787878787878791,0.05539409731954075,132.0,93.0,28.0,11.0,534
-498,"This definitely isn't what Greg meant when he said ""we need a snake for the men's toilet.""",1.3787878787878791,0.05326523421368658,132.0,91.0,32.0,9.0,534
+498,"This definitely isn't what Greg meant when he said ""we need a snake for the men's toilet.""",1.3787878787878791,0.053265234213686584,132.0,91.0,32.0,9.0,534
 498,Let HR tell him that he has to pay for COBRA coverage.,1.3787878787878791,0.060388807927184776,132.0,98.0,18.0,16.0,534
 498,What's the catch?,1.3787878787878791,0.056428418716553484,132.0,94.0,26.0,12.0,534
 498,Drain clogged again?,1.3787878787878791,0.056428418716553484,132.0,94.0,26.0,12.0,534
@@ -527,7 +527,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 513,"No, no! The kind you use in plumbing!",1.3769230769230771,0.05596807231014705,130.0,92.0,27.0,11.0,534
 513,Just put it in the boardroom with the other directors.,1.3769230769230771,0.05489229940289425,130.0,91.0,29.0,10.0,534
 513,When you're done walking him I'm going to need you to let him eat you.,1.3769230769230771,0.058059850902905136,130.0,94.0,23.0,13.0,534
-529,We don't need legal at this meeting.,1.3759398496240602,0.056074909780405933,133.0,95.0,26.0,12.0,534
+529,We don't need legal at this meeting.,1.3759398496240602,0.05607490978040593,133.0,95.0,26.0,12.0,534
 530,He's been working here how long -- and he still doesn't know his ass from his elbow.,1.3740458015267176,0.05665968901847794,131.0,94.0,25.0,12.0,534
 531,Going in for the kill on the Patterson deal?,1.372093023255814,0.05399469657269392,129.0,90.0,30.0,9.0,534
 531,"When I asked for an adder, I meant a calculator.",1.372093023255814,0.05286116936816223,129.0,89.0,32.0,8.0,534
@@ -593,7 +593,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 578,Good morning. Eve in accounting speaks very highly of you.,1.3622047244094488,0.05664150761389335,127.0,92.0,24.0,11.0,534
 578,I completely forgot we had a meeting with our lawyer today.,1.3622047244094488,0.05773425986126105,127.0,93.0,22.0,12.0,534
 578,I think it's about time we stopped with Bring Your Pet to Work Day.,1.3622047244094488,0.0520415495250018,127.0,88.0,32.0,7.0,534
-578,I knew right away he was slippery.,1.3622047244094488,0.05082655309983487,127.0,87.0,34.0,6.0,534
+578,I knew right away he was slippery.,1.3622047244094488,0.050826553099834866,127.0,87.0,34.0,6.0,534
 578,The lawyers are in Conference Room B.,1.3622047244094488,0.059859949178339436,127.0,95.0,18.0,14.0,534
 578,Put him in Adam and Eve's cubicle.,1.3622047244094488,0.05664150761389335,127.0,92.0,24.0,11.0,534
 598,"It's okay, she's an emotional support animal.",1.3615384615384616,0.05237797376019003,130.0,91.0,31.0,8.0,534
@@ -661,8 +661,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 632,Have him transferred to human resources.,1.3548387096774193,0.05747728817135755,124.0,91.0,22.0,11.0,534
 632,One more hissy fit and you're outta here!,1.3548387096774193,0.05514868963457136,124.0,89.0,26.0,9.0,534
 632,Hurry. Mr. Trump is waiting. He's running low on venom.,1.3548387096774193,0.05860690231615026,124.0,92.0,20.0,12.0,534
-663,Wow. These darn computer viruses are getting scarier and scarier.,1.352,0.053588636253256806,125.0,89.0,28.0,8.0,534
-663,You guys came quick. The mongoose is in the conference room.,1.352,0.05708623923221268,125.0,92.0,22.0,11.0,534
+663,Wow. These darn computer viruses are getting scarier and scarier.,1.3519999999999999,0.053588636253256806,125.0,89.0,28.0,8.0,534
+663,You guys came quick. The mongoose is in the conference room.,1.3519999999999999,0.05708623923221268,125.0,92.0,22.0,11.0,534
 665,I said pick me up a steak for lunch,1.3495934959349594,0.05412941265455765,123.0,88.0,27.0,8.0,534
 665,"On the other hand, he does meet 99% of our criteria for president.",1.3495934959349594,0.05653806997923605,123.0,90.0,23.0,10.0,534
 665,"I said, 'Order me a large CAKE.'",1.3495934959349594,0.05653806997923605,123.0,90.0,23.0,10.0,534
@@ -761,10 +761,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 753,Hey. The snake is out. They want a giant duck.,1.3388429752066116,0.0505530283843046,121.0,85.0,31.0,5.0,534
 753,Thanks boys. He goes to the Hostile Takeover department.,1.3388429752066116,0.05320799538122272,121.0,87.0,27.0,7.0,534
 762,Thank goodness you're here! Our bathroom sink has been clogged for a week!,1.3361344537815123,0.05102190425323451,119.0,84.0,30.0,5.0,534
-762,Have either of you seen Florence from accounting?,1.3361344537815123,0.05239908937112821,119.0,85.0,28.0,6.0,534
+762,Have either of you seen Florence from accounting?,1.3361344537815123,0.052399089371128214,119.0,85.0,28.0,6.0,534
 762,Says here that the boss wanted a burger and a SHAKE ...,1.3361344537815123,0.0588031787696017,119.0,90.0,18.0,11.0,534
 762,Make sure you take it to a gender neutral bathroom.,1.3361344537815123,0.056328981233599765,119.0,88.0,22.0,9.0,534
-762,"It's weighty yes, but Frank says the story has no legs.",1.3361344537815123,0.05239908937112821,119.0,85.0,28.0,6.0,534
+762,"It's weighty yes, but Frank says the story has no legs.",1.3361344537815123,0.052399089371128214,119.0,85.0,28.0,6.0,534
 762,No thanks. I brought a sack lunch.,1.3361344537815123,0.0600020306881941,119.0,91.0,16.0,12.0,534
 762,"I'm beginning to think the ""Thank You"" card that came with might not be sincere.",1.3361344537815123,0.057579371133353686,119.0,89.0,20.0,10.0,534
 762,The boss says its forked tongue is perfect for customer service.,1.3361344537815123,0.05505019776093436,119.0,87.0,24.0,8.0,534
@@ -772,7 +772,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 762,The pipes are all clear. You can go in now.,1.3361344537815123,0.0600020306881941,119.0,91.0,16.0,12.0,534
 762,"The corner office, of course.",1.3361344537815123,0.057579371133353686,119.0,89.0,20.0,10.0,534
 762,"If you should accidentally drop it from the roof, put me down for boots and a matching belt.",1.3361344537815123,0.0588031787696017,119.0,90.0,18.0,11.0,534
-762,I told HR we needed a cold blooded killer in sales.,1.3361344537815123,0.05239908937112821,119.0,85.0,28.0,6.0,534
+762,I told HR we needed a cold blooded killer in sales.,1.3361344537815123,0.052399089371128214,119.0,85.0,28.0,6.0,534
 762,Sushi for a year. It’s part of your severance package.,1.3361344537815123,0.057579371133353686,119.0,89.0,20.0,10.0,534
 762,New guy in Legal?,1.3361344537815123,0.05505019776093436,119.0,87.0,24.0,8.0,534
 762,"No need to be vile. After all, I am a civil serpent.",1.3361344537815123,0.06117739402756739,119.0,92.0,14.0,13.0,534
@@ -1061,7 +1061,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1035,"When I asked you to ""land the big one"" I was referring to the Shyzdrek contract.",1.3027522935779816,0.05453380581078597,109.0,82.0,21.0,6.0,534
 1035,Introduce the new guy to the rest of the sales staff.,1.3027522935779816,0.0604443102155906,109.0,86.0,13.0,10.0,534
 1035,Bathroom got clogged again?,1.3027522935779816,0.05453380581078597,109.0,82.0,21.0,6.0,534
-1063,I thought we weren't scaling up until Q4,1.3018867924528301,0.0602030277477873,106.0,83.0,14.0,9.0,534
+1063,I thought we weren't scaling up until Q4,1.30188679245283,0.0602030277477873,106.0,83.0,14.0,9.0,534
 1064,"You know the rules gentlemen, even our snake handlers are required to wear coats and ties.",1.3,0.0556259400310408,110.0,84.0,19.0,7.0,534
 1064,"I was wrong. Let me say, categorically, we have no rodent problem whatsoever!",1.3,0.05410581792140397,110.0,83.0,21.0,6.0,534
 1064,put it back into the Pokemon Go tank,1.3,0.0556259400310408,110.0,84.0,19.0,7.0,534
@@ -1234,7 +1234,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1222,"Impressive, but your job is to manage our human resources.",1.2830188679245282,0.05487012679245056,106.0,82.0,18.0,6.0,534
 1222,"You idiots, I said I want to SHAKE things up around here.",1.2830188679245282,0.056483850201068636,106.0,83.0,16.0,7.0,534
 1222,Honey what are you doing here?,1.2830188679245282,0.05958031866456475,106.0,85.0,12.0,9.0,534
-1222,"No, I ordered the sandwich.",1.2830188679245282,0.04971566409360453,106.0,79.0,24.0,3.0,534
+1222,"No, I ordered the sandwich.",1.2830188679245282,0.049715664093604534,106.0,79.0,24.0,3.0,534
 1222,"I said, ""reel in the giant DEAL.""",1.2830188679245282,0.05805273337969472,106.0,84.0,14.0,8.0,534
 1222,I specifically asked for coiled.,1.2830188679245282,0.05487012679245056,106.0,82.0,18.0,6.0,534
 1222,I distinctly told you to get a list of stakeholders!,1.2830188679245282,0.056483850201068636,106.0,83.0,16.0,7.0,534
@@ -1249,14 +1249,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1222,"Ah yes, the new organic hole puncher.",1.2830188679245282,0.05487012679245056,106.0,82.0,18.0,6.0,534
 1222,Not the long tail solution I had in mind.,1.2830188679245282,0.05805273337969472,106.0,84.0,14.0,8.0,534
 1250,I think the corporate branding department here at Amazon has gone too far.,1.280373831775701,0.052774197718877584,107.0,82.0,20.0,5.0,534
-1250,So this is what being an Equal Opportunity Employer has come down to.,1.280373831775701,0.05441922167879967,107.0,83.0,18.0,6.0,534
-1250,"When I told you to go out and get BOA on our team, I meant Bank of America!",1.280373831775701,0.05441922167879967,107.0,83.0,18.0,6.0,534
+1250,So this is what being an Equal Opportunity Employer has come down to.,1.280373831775701,0.054419221678799666,107.0,83.0,18.0,6.0,534
+1250,"When I told you to go out and get BOA on our team, I meant Bank of America!",1.280373831775701,0.054419221678799666,107.0,83.0,18.0,6.0,534
 1253,Are you on the way out or on the way in?,1.2788461538461535,0.057090148517370265,104.0,82.0,15.0,7.0,534
 1253,I see we've got something new for our Lost & Found.,1.2788461538461535,0.05543084484607181,104.0,81.0,17.0,6.0,534
 1253,Good job. Printer's working now.,1.2788461538461535,0.04822605696928632,104.0,77.0,25.0,2.0,534
 1253,Guess the office mascot wasn't such a great idea.,1.2788461538461535,0.05543084484607181,104.0,81.0,17.0,6.0,534
 1253,The accountants get more cold-blooded every year.,1.2788461538461535,0.053720313317805364,104.0,80.0,19.0,5.0,534
-1253,He's our new hire for the customer complaint department.,1.2788461538461535,0.050124435839128983,104.0,78.0,23.0,3.0,534
+1253,He's our new hire for the customer complaint department.,1.2788461538461535,0.05012443583912898,104.0,78.0,23.0,3.0,534
 1253,"Great, the therapy snake has arrived, get him up to legal right away.",1.2788461538461535,0.060271867836558815,104.0,84.0,11.0,9.0,534
 1253,Said only that in his past life he was a Republican.,1.2788461538461535,0.060271867836558815,104.0,84.0,11.0,9.0,534
 1253,I thought we all understood snake oil doesn't work,1.2788461538461535,0.05195349425762494,104.0,79.0,21.0,4.0,534
@@ -1279,13 +1279,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1253,I think we need to revisit our 'bring your pet to work' policy......,1.2788461538461535,0.04822605696928632,104.0,77.0,25.0,2.0,534
 1253,"It's our new organic, all-natural exterminator.",1.2788461538461535,0.05195349425762494,104.0,79.0,21.0,4.0,534
 1253,That's our new corporate mascot? What happened to Hoppy the Bunny?,1.2788461538461535,0.053720313317805364,104.0,80.0,19.0,5.0,534
-1253,Is THIS why my unpaid interns keep going missing?,1.2788461538461535,0.050124435839128983,104.0,78.0,23.0,3.0,534
+1253,Is THIS why my unpaid interns keep going missing?,1.2788461538461535,0.05012443583912898,104.0,78.0,23.0,3.0,534
 1253,Don't leave it in the refrigerator.,1.2788461538461535,0.04822605696928632,104.0,77.0,25.0,2.0,534
 1253,I see you're taking the boss out to lunch again.,1.2788461538461535,0.05543084484607181,104.0,81.0,17.0,6.0,534
 1253,I see the new HR director has arrived.,1.2788461538461535,0.05195349425762494,104.0,79.0,21.0,4.0,534
 1253,"Not a real snake, one that practices law.",1.2788461538461535,0.05195349425762494,104.0,79.0,21.0,4.0,534
 1253,I didn't realize there was such a push on to hire endangered species.,1.2788461538461535,0.057090148517370265,104.0,82.0,15.0,7.0,534
-1253,Does it have experience with industrial sinks and toilets?,1.2788461538461535,0.050124435839128983,104.0,78.0,23.0,3.0,534
+1253,Does it have experience with industrial sinks and toilets?,1.2788461538461535,0.05012443583912898,104.0,78.0,23.0,3.0,534
 1253,It was an acronym! We need Better Overhead Administration!,1.2788461538461535,0.057090148517370265,104.0,82.0,15.0,7.0,534
 1253,"The chairman specified a ""new deal,"" not a nude eel.",1.2788461538461535,0.05543084484607181,104.0,81.0,17.0,6.0,534
 1253,I said this suit needed a large 'rep tie'.,1.2788461538461535,0.05195349425762494,104.0,79.0,21.0,4.0,534
@@ -1316,7 +1316,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1253,No animals were harmed in the drawing of this cartoon.,1.2788461538461535,0.053720313317805364,104.0,80.0,19.0,5.0,534
 1253,Put him at the empty desk in the tax department.,1.2788461538461535,0.058702568556422675,104.0,83.0,13.0,8.0,534
 1253,Make sure our new CEO feels right at home.,1.2788461538461535,0.057090148517370265,104.0,82.0,15.0,7.0,534
-1253,That's not the 2-hole punch I had in mind.,1.2788461538461535,0.050124435839128983,104.0,78.0,23.0,3.0,534
+1253,That's not the 2-hole punch I had in mind.,1.2788461538461535,0.05012443583912898,104.0,78.0,23.0,3.0,534
 1253,Makes you wish Manafort was still in charge.,1.2788461538461535,0.053720313317805364,104.0,80.0,19.0,5.0,534
 1253,He asked to speak with Eve in the arboretum,1.2788461538461535,0.05195349425762494,104.0,79.0,21.0,4.0,534
 1253,Take him to Sales. He's on the 'Adam & Eve' account.,1.2788461538461535,0.05195349425762494,104.0,79.0,21.0,4.0,534
@@ -1332,13 +1332,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1253,I'm afraid the snake oil we've been selling really works.,1.2788461538461535,0.058702568556422675,104.0,83.0,13.0,8.0,534
 1253,"That's all I need, another forked tongue in this organization.",1.2788461538461535,0.06180133129548038,104.0,85.0,9.0,10.0,534
 1253,'He wants to buy more stock in Apple.',1.2788461538461535,0.058702568556422675,104.0,83.0,13.0,8.0,534
-1253,What we don't need around here is more snake oil.,1.2788461538461535,0.050124435839128983,104.0,78.0,23.0,3.0,534
-1335,"In hindsight, we should have called it Bring Your Non-lethal Pet to Work Day.",1.276190476190476,0.054964587492755165,105.0,82.0,17.0,6.0,534
-1335,"Actually, I told you to forget your giant mistake.",1.276190476190476,0.054964587492755165,105.0,82.0,17.0,6.0,534
-1335,Envelope lickers are a dying breed.,1.276190476190476,0.049715745280526455,105.0,79.0,23.0,3.0,534
-1335,Sushi again for the staff meeting?,1.276190476190476,0.054964587492755165,105.0,82.0,17.0,6.0,534
-1335,I said bake sale.,1.276190476190476,0.05660614861831637,105.0,83.0,15.0,7.0,534
-1335,I told you she was a snake when you hired her.,1.276190476190476,0.051524804822030826,105.0,80.0,21.0,4.0,534
+1253,What we don't need around here is more snake oil.,1.2788461538461535,0.05012443583912898,104.0,78.0,23.0,3.0,534
+1335,"In hindsight, we should have called it Bring Your Non-lethal Pet to Work Day.",1.2761904761904759,0.054964587492755165,105.0,82.0,17.0,6.0,534
+1335,"Actually, I told you to forget your giant mistake.",1.2761904761904759,0.054964587492755165,105.0,82.0,17.0,6.0,534
+1335,Envelope lickers are a dying breed.,1.2761904761904759,0.049715745280526455,105.0,79.0,23.0,3.0,534
+1335,Sushi again for the staff meeting?,1.2761904761904759,0.054964587492755165,105.0,82.0,17.0,6.0,534
+1335,I said bake sale.,1.2761904761904759,0.05660614861831637,105.0,83.0,15.0,7.0,534
+1335,I told you she was a snake when you hired her.,1.2761904761904759,0.051524804822030826,105.0,80.0,21.0,4.0,534
 1341,"The law department's on the 23rd floor, guys",1.2745098039215683,0.05053943670264388,102.0,77.0,22.0,3.0,534
 1341,We found the source of your IT problem.,1.2745098039215683,0.048580835742663454,102.0,76.0,24.0,2.0,534
 1341,About time you got your tired asp out of here.,1.2745098039215683,0.05937103642387464,102.0,82.0,12.0,8.0,534
@@ -2039,132 +2039,132 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2029,Wilson in sales missed his quota.,1.2258064516129032,0.05324669855036502,93.0,76.0,13.0,4.0,534
 2039,You'll have to hold on awhile longer. I'm completely out of stamps.,1.2247191011235956,0.05478346498667158,89.0,73.0,12.0,4.0,534
 2039,Couldn't you get one without a forked tongue?,1.2247191011235956,0.047277269286691466,89.0,70.0,18.0,1.0,534
-2041,"Our new CEO is here , where should we put him?",1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,Better hurry; break room's almost out of deer.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,I´d planned to show the shareholder conference this afternoon that we have the biggest STAKE in the corporation.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,He needs a coat and tie if he is going to work here.,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,thank you for the doctor's note for your therapy snake,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,Our 'no shedding' policy is strictly enforced.,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,You must be the budget committee.,1.2197802197802199,0.04636268815325047,91.0,72.0,18.0,1.0,534
-2041,"So you two are gonna feed him, you know, like every day, right?",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"Get her to make-up and remember, we are WITH HER.",1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,Looks like someone's got a case of the Mondays.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,You can just leave that in my inbox.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"I said "" try and snake your way into the meeting""",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,'Bring Your Python To Work Day' isn't until tomorrow.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"He, unfortunately, goes with the rest of my failed attempts at team building.",1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,We should get a trans-species washroom.,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,Apparently it's been locked in the SEC Compliance Office since the firm opened.,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,The shareholders were wondering whether we could manage this fiscal year with just one snake wrangler.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,Please escort our efficiency expert to the conference room.,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,Hurry up! Hillary's waiting to debate the Trump stand-in.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,"Gentlemen, please escort our new HR Director to the adjoining office of CEO Voldemort.",1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,"Actually, it's culturally insensitive to refer to him as ""snake."" He's a""Lampropeltis getula nigrita.""",1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,Just drop it. I'll check with Creative.,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,You’re celebrating with a ‘conger’?,1.2197802197802199,0.06012237784716284,91.0,78.0,6.0,7.0,534
-2041,You do know it's bring your kid to work day right?,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,So the sound I was hearing was actually more of a buzzing.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"No, No, No. Not serpents. I said bring me the head of merchants.",1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,Did you get rid of the Mole?,1.2197802197802199,0.043649726328985235,91.0,71.0,20.0,0.0,534
-2041,"I'm thinking you took ""Go get that snake"" a bit literally",1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,"Sssso, this is our new marketing manager?",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"Great catch, but I said find the office rat.",1.2197802197802199,0.058056008076656215,91.0,77.0,8.0,6.0,534
-2041,"I'm sorry, but you guys breezing in here for the fourth Friday morning in a row with an anaconda tucked under your arms has lost all of its wow factor.",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,The Chinese New Year isn't until February!,1.2197802197802199,0.04636268815325047,91.0,72.0,18.0,1.0,534
-2041,Thanks for coming so fast. That Viper Pit was killing our HR Department.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,This is just what we need to improve the security of our firewall.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,"Hey, guys ""Bring Your Pet to Work"" day is next week.",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"True, artisanal always DOES sell better, but are we even sure snake oil is a thing?",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"I know I asked you to clean out the break room refrigerator, but that's mine.",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"I don't care what he's promising, I'm not changing phones.",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"They asked for transparency on Wall Street, they got it.",1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,Let's name him Ryan Lochte.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,"What do you mean, I should have seen the one that got away?",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"Okay, just one sick day.",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"I asked you to get the feel of the American voter, not the eel.",1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,"The collaborative meeting is rescheduled for tomorrow, but I will need him for the investor meeting at 3:30",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,Bring him to the conference room then go get the Hyena.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"I said, ""Carpe diem""; not ""Seize the carp!""",1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,Well... this is awkward. Bob from Accounting brought in the same thrashing serpent.,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,This trading eelgorithm could make us the new Salamander Brothers.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,This must be the new HR guy!,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,Go put it under Trump's desk.,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,He's here for an interview. Has he been 'vetted'?,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,That looks worse than a phishing attack!,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,You programmers are so literal.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,He doesn't look well. Better give him some 'asp-rin'.,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,It's just that I think a pink slip and a constrictor is a bit too much.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,I see the new manager is here. I'll clean out my desk.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,"'Well, it's easier to explain than layoffs'",1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,Welcome to the Trump campaign staff.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,We got your memo about the toxic workplace environment.,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,"""I see we have found the company a new lawyer"".",1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,"Oh, is it time for the Biodiversity in the Workplace training?",1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,Not that Fang Shui for the office.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,The other vendors are in the conference room.,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,Feeding the company mascot again?,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,"A bigger server, not serpent, you idiots.",1.2197802197802199,0.058056008076656215,91.0,77.0,8.0,6.0,534
-2041,Oil! I said oil!,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,Our new lawyer.,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,Put him in an empty office for now and tell everyone to hide their comfort pets.,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,"Sorry gentilmen, but we've had to scale back.",1.2197802197802199,0.058056008076656215,91.0,77.0,8.0,6.0,534
-2041,We need to think of another way to downsize the legal department.,1.2197802197802199,0.04636268815325047,91.0,72.0,18.0,1.0,534
-2041,"Put it next to Eve, but leave room for a very large apple.",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,Sorry. The serpent whisperer is out today.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,Let me know when the boss is done digesting.,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,"I'm positive I said snack, not snake.",1.2197802197802199,0.04636268815325047,91.0,72.0,18.0,1.0,534
-2041,"I said increase ""sales"" not ""scales""!!!",1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,May I remind you two that we aim to be a viperless office by the end of this quarter?,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,We've had complaints. Can't use the break room microwave anymore.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,"Well, that’s one way to put the squeeze on",1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,"We thought it was ""Bring your pet to work day!""",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,Gary's run up the corporate ladder had been great while it lasted.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,Two-foot steak. Steak. And where's Billy?,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,Find out what he knows about where Adam and Eve disappeared to....,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,So this is the guy who spoke with a forked tongue,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,Escort him out. We have enough snakes on the payroll already.,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,"Thanks, but that's not the kind of boa I need for the precinct costume party.",1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,"You can forget promotion, Butterworth, if your pet keeps eating everyone else’s on “Bring Your Pet to Work Day”",1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,"Auto-correct strikes again... I meant to say, get the office a big snack.",1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,"OK, I'll predict it right now: we're not winning the Chinese New Year Dragon contest.",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,The grass is ready in Conference Room C.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,You have the right to remain ssssssssssssilent.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,"Sorry guys, the new boss said the lunchtime snake fighting on the loading dock has gotta go.",1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,That's not going to help our image.,1.2197802197802199,0.04636268815325047,91.0,72.0,18.0,1.0,534
-2041,Guess we won't be needing it after all.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,Is that an applicant to interview for the head of HR?,1.2197802197802199,0.058056008076656215,91.0,77.0,8.0,6.0,534
-2041,He gets one more trip around. Then back to Hillary's office.,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,"Guys, I think we need to re-think our perceived strangle-hold on our clients.",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"Um, Tony - I didn't mean ""show me your snake"" literally.",1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,I SAID BRING ME A BIG LADDER!,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,"We found him in Trump's office, writing his speeches. He also told Adam and Eve to eat the apple.",1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,Is it electric?,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,Is this the new turnaround manager?,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,We're putting him in charge of advertising.,1.2197802197802199,0.058056008076656215,91.0,77.0,8.0,6.0,534
-2041,I can't believe we went to Harvard for this.,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,"No no, I said I would like to have a Pie-A-Thon.",1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,Never mind. I won't have time for lunch today.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"So, the interns weren't quitting?",1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,So… is the 40-foot serpentine sea-monster not working out?,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,I received a note saying you found a virus on your computer.,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,The boss just can't take a joke!,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,I guess I'm not the biggest snake here anymore.,1.2197802197802199,0.058056008076656215,91.0,77.0,8.0,6.0,534
-2041,Tell Joe's wife he's going to be home late tonight....,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,Jackets are to be worn at all times.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,You'd be the new team in HR?,1.2197802197802199,0.04636268815325047,91.0,72.0,18.0,1.0,534
-2041,"Marketing billed it, they can keep it.",1.2197802197802199,0.04636268815325047,91.0,72.0,18.0,1.0,534
-2041,I'm sorry but I don't think he's the right candidate for the position. He's kind of slithery.,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,This hunt for diverse hires is going to be the end of us.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,Your underground source?,1.2197802197802199,0.04636268815325047,91.0,72.0,18.0,1.0,534
-2041,I've seen worse snakes around here.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"Take him to our collections division on the second floor, they've been expecting him.",1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,"No, we're selling snake oil.",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,534
-2041,"Now that we have elevators, you and the ladders are redundant.",1.2197802197802199,0.058056008076656215,91.0,77.0,8.0,6.0,534
-2041,What were the rules on bringing your pet to work day?,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,534
-2041,Basement wet again?,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,534
-2041,Did the File Cabinet of Secrets open again?,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,We've been called to the situation room.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,534
-2041,If you're done with Megyn Mr. Ailes would like it back in his office.,1.2197802197802199,0.058056008076656215,91.0,77.0,8.0,6.0,534
+2041,"Our new CEO is here , where should we put him?",1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,Better hurry; break room's almost out of deer.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,I´d planned to show the shareholder conference this afternoon that we have the biggest STAKE in the corporation.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,He needs a coat and tie if he is going to work here.,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,thank you for the doctor's note for your therapy snake,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,Our 'no shedding' policy is strictly enforced.,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,You must be the budget committee.,1.21978021978022,0.04636268815325047,91.0,72.0,18.0,1.0,534
+2041,"So you two are gonna feed him, you know, like every day, right?",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"Get her to make-up and remember, we are WITH HER.",1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,Looks like someone's got a case of the Mondays.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,You can just leave that in my inbox.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"I said "" try and snake your way into the meeting""",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,'Bring Your Python To Work Day' isn't until tomorrow.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"He, unfortunately, goes with the rest of my failed attempts at team building.",1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,We should get a trans-species washroom.,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,Apparently it's been locked in the SEC Compliance Office since the firm opened.,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,The shareholders were wondering whether we could manage this fiscal year with just one snake wrangler.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,Please escort our efficiency expert to the conference room.,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,Hurry up! Hillary's waiting to debate the Trump stand-in.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,"Gentlemen, please escort our new HR Director to the adjoining office of CEO Voldemort.",1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,"Actually, it's culturally insensitive to refer to him as ""snake."" He's a""Lampropeltis getula nigrita.""",1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,Just drop it. I'll check with Creative.,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,You’re celebrating with a ‘conger’?,1.21978021978022,0.06012237784716284,91.0,78.0,6.0,7.0,534
+2041,You do know it's bring your kid to work day right?,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,So the sound I was hearing was actually more of a buzzing.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"No, No, No. Not serpents. I said bring me the head of merchants.",1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,Did you get rid of the Mole?,1.21978021978022,0.043649726328985235,91.0,71.0,20.0,0.0,534
+2041,"I'm thinking you took ""Go get that snake"" a bit literally",1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,"Sssso, this is our new marketing manager?",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"Great catch, but I said find the office rat.",1.21978021978022,0.058056008076656215,91.0,77.0,8.0,6.0,534
+2041,"I'm sorry, but you guys breezing in here for the fourth Friday morning in a row with an anaconda tucked under your arms has lost all of its wow factor.",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,The Chinese New Year isn't until February!,1.21978021978022,0.04636268815325047,91.0,72.0,18.0,1.0,534
+2041,Thanks for coming so fast. That Viper Pit was killing our HR Department.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,This is just what we need to improve the security of our firewall.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,"Hey, guys ""Bring Your Pet to Work"" day is next week.",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"True, artisanal always DOES sell better, but are we even sure snake oil is a thing?",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"I know I asked you to clean out the break room refrigerator, but that's mine.",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"I don't care what he's promising, I'm not changing phones.",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"They asked for transparency on Wall Street, they got it.",1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,Let's name him Ryan Lochte.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,"What do you mean, I should have seen the one that got away?",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"Okay, just one sick day.",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"I asked you to get the feel of the American voter, not the eel.",1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,"The collaborative meeting is rescheduled for tomorrow, but I will need him for the investor meeting at 3:30",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,Bring him to the conference room then go get the Hyena.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"I said, ""Carpe diem""; not ""Seize the carp!""",1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,Well... this is awkward. Bob from Accounting brought in the same thrashing serpent.,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,This trading eelgorithm could make us the new Salamander Brothers.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,This must be the new HR guy!,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,Go put it under Trump's desk.,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,He's here for an interview. Has he been 'vetted'?,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,That looks worse than a phishing attack!,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,You programmers are so literal.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,He doesn't look well. Better give him some 'asp-rin'.,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,It's just that I think a pink slip and a constrictor is a bit too much.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,I see the new manager is here. I'll clean out my desk.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,"'Well, it's easier to explain than layoffs'",1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,Welcome to the Trump campaign staff.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,We got your memo about the toxic workplace environment.,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,"""I see we have found the company a new lawyer"".",1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,"Oh, is it time for the Biodiversity in the Workplace training?",1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,Not that Fang Shui for the office.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,The other vendors are in the conference room.,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,Feeding the company mascot again?,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,"A bigger server, not serpent, you idiots.",1.21978021978022,0.058056008076656215,91.0,77.0,8.0,6.0,534
+2041,Oil! I said oil!,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,Our new lawyer.,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,Put him in an empty office for now and tell everyone to hide their comfort pets.,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,"Sorry gentilmen, but we've had to scale back.",1.21978021978022,0.058056008076656215,91.0,77.0,8.0,6.0,534
+2041,We need to think of another way to downsize the legal department.,1.21978021978022,0.04636268815325047,91.0,72.0,18.0,1.0,534
+2041,"Put it next to Eve, but leave room for a very large apple.",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,Sorry. The serpent whisperer is out today.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,Let me know when the boss is done digesting.,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,"I'm positive I said snack, not snake.",1.21978021978022,0.04636268815325047,91.0,72.0,18.0,1.0,534
+2041,"I said increase ""sales"" not ""scales""!!!",1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,May I remind you two that we aim to be a viperless office by the end of this quarter?,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,We've had complaints. Can't use the break room microwave anymore.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,"Well, that’s one way to put the squeeze on",1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,"We thought it was ""Bring your pet to work day!""",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,Gary's run up the corporate ladder had been great while it lasted.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,Two-foot steak. Steak. And where's Billy?,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,Find out what he knows about where Adam and Eve disappeared to....,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,So this is the guy who spoke with a forked tongue,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,Escort him out. We have enough snakes on the payroll already.,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,"Thanks, but that's not the kind of boa I need for the precinct costume party.",1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,"You can forget promotion, Butterworth, if your pet keeps eating everyone else’s on “Bring Your Pet to Work Day”",1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,"Auto-correct strikes again... I meant to say, get the office a big snack.",1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,"OK, I'll predict it right now: we're not winning the Chinese New Year Dragon contest.",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,The grass is ready in Conference Room C.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,You have the right to remain ssssssssssssilent.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,"Sorry guys, the new boss said the lunchtime snake fighting on the loading dock has gotta go.",1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,That's not going to help our image.,1.21978021978022,0.04636268815325047,91.0,72.0,18.0,1.0,534
+2041,Guess we won't be needing it after all.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,Is that an applicant to interview for the head of HR?,1.21978021978022,0.058056008076656215,91.0,77.0,8.0,6.0,534
+2041,He gets one more trip around. Then back to Hillary's office.,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,"Guys, I think we need to re-think our perceived strangle-hold on our clients.",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"Um, Tony - I didn't mean ""show me your snake"" literally.",1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,I SAID BRING ME A BIG LADDER!,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,"We found him in Trump's office, writing his speeches. He also told Adam and Eve to eat the apple.",1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,Is it electric?,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,Is this the new turnaround manager?,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,We're putting him in charge of advertising.,1.21978021978022,0.058056008076656215,91.0,77.0,8.0,6.0,534
+2041,I can't believe we went to Harvard for this.,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,"No no, I said I would like to have a Pie-A-Thon.",1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,Never mind. I won't have time for lunch today.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"So, the interns weren't quitting?",1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,So… is the 40-foot serpentine sea-monster not working out?,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,I received a note saying you found a virus on your computer.,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,The boss just can't take a joke!,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,I guess I'm not the biggest snake here anymore.,1.21978021978022,0.058056008076656215,91.0,77.0,8.0,6.0,534
+2041,Tell Joe's wife he's going to be home late tonight....,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,Jackets are to be worn at all times.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,You'd be the new team in HR?,1.21978021978022,0.04636268815325047,91.0,72.0,18.0,1.0,534
+2041,"Marketing billed it, they can keep it.",1.21978021978022,0.04636268815325047,91.0,72.0,18.0,1.0,534
+2041,I'm sorry but I don't think he's the right candidate for the position. He's kind of slithery.,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,This hunt for diverse hires is going to be the end of us.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,Your underground source?,1.21978021978022,0.04636268815325047,91.0,72.0,18.0,1.0,534
+2041,I've seen worse snakes around here.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"Take him to our collections division on the second floor, they've been expecting him.",1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,"No, we're selling snake oil.",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,534
+2041,"Now that we have elevators, you and the ladders are redundant.",1.21978021978022,0.058056008076656215,91.0,77.0,8.0,6.0,534
+2041,What were the rules on bringing your pet to work day?,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,534
+2041,Basement wet again?,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,534
+2041,Did the File Cabinet of Secrets open again?,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,We've been called to the situation room.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,534
+2041,If you're done with Megyn Mr. Ailes would like it back in his office.,1.21978021978022,0.058056008076656215,91.0,77.0,8.0,6.0,534
 2167,And how exactly is he going to help us with our spyware problem?,1.21875,0.04730250957698441,96.0,77.0,17.0,2.0,534
 2168,"No. The list said 'and a condom,' not anaconda.",1.2173913043478262,0.05085529097632895,92.0,75.0,14.0,3.0,534
 2168,"Sorry boys, but HR refused the transfer request.",1.2173913043478262,0.05535380480839437,92.0,77.0,10.0,5.0,534
@@ -2464,17 +2464,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2456,"Guys, take your sea serpent to work day is next week, not today.",1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,No! I said bring me Dr. Millmoss. He's inside the hippo.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,Those aren't exactly the scales of justice Leo was asking about.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
-2456,"'Yes, but can she type?'",1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,"'Yes, but can she type?'",1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,Venom …check. Now get some vim and vigor.,1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
 2456,"Since it has a forked tongue, add it to the sales team.",1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
 2456,Every Florida vote is going to count in November!,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,That dragon roll looks a little TOO fresh.,1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
-2456,And you say that he feeds on spam,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
-2456,They weren't kidding when they said they had the freshest sushi in town.,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
-2456,"I said I wanted the ten foot sub deal, not eel.",1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,And you say that he feeds on spam,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
+2456,They weren't kidding when they said they had the freshest sushi in town.,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
+2456,"I said I wanted the ten foot sub deal, not eel.",1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,"Hang in there Higgins, we're going to execute a Python-Heimlich maneuver. Plan B: suppositories.",1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
-2456,"Replacing the power strips with electric eels for ""green energy"" should really get corporate's attention.",1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
-2456,I don't this is a good solution to bugs in the break room,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,"Replacing the power strips with electric eels for ""green energy"" should really get corporate's attention.",1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
+2456,I don't this is a good solution to bugs in the break room,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,"Tell the Bronx Zoo they can have their boa back, but let's hold off on releasing the news that it swallowed our CEO.",1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,"Gentlemen, what I actually sad was ""We need a new 'feel' for this project!""",1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,I just knew the mail order reptile business was a mistake.,1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
@@ -2484,63 +2484,63 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2456,We Found The Snake That's Been Causing All The Sin,1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
 2456,"Sir, the mail room guys are threatening to strike...",1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
 2456,If it tells you to eat one of the apples on the tree outside then I'd give it a miss...,1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
-2456,"Perfect boys, if this doesn't get Trump off the front page, I don't know what will.",1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,"Perfect boys, if this doesn't get Trump off the front page, I don't know what will.",1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,"Hell of a performance review, Doug.",1.188235294117647,0.042650680808233685,85.0,69.0,16.0,0.0,534
 2456,Are you sure this will get us Samuel L Jackson?,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,"Wow, nice pencil case!",1.188235294117647,0.05674187869198082,85.0,74.0,6.0,5.0,534
-2456,This water snake says its name is Ryan Lochte,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,This water snake says its name is Ryan Lochte,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,I recall requesting a Monty Python video as a grab bag gift.,1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
 2456,Double the tartar sauce.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,"I asked for a ""boat constructor"". This is a ""boa constrictor"".",1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
 2456,Blame the shrinking applicant pool.,1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
 2456,"Another suspect Russian athlete, eh, Ponderby?",1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
 2456,"Yes, Frank, I already TOLD you that Tom in accounting was a snake in the grass!",1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
-2456,Send out a memo that no one's allowed to eat at their desk!,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,Send out a memo that no one's allowed to eat at their desk!,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,Put it in charge of the slush fund.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,Guys - we've discussed this. Budget meetings do not include 'Show and Tell' time.,1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
-2456,I'm concerned there is something is fishy down in accounting.,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,I'm concerned there is something is fishy down in accounting.,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,I asked for a Healthy Shake,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,Hurry up -- they need him for JP's peer review.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,"Yes, it's a fine specimen of Cylindrophiidae, but we don't need it at Hartsdale Publishing.",1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,You can't claim that on expenses.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
-2456,I didn't know the Summer Interns were already leaving.,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,I didn't know the Summer Interns were already leaving.,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,Sushi deliveries are on the main floor.,1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
 2456,Give him the office between Samuels and Franks. One's a shark and the other's a whale.,1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
-2456,Ms. Spears' office is the third on the left.,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,Ms. Spears' office is the third on the left.,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,Is it bring-your-pet-to-work day *again*?,1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
-2456,"When you said you were doing a ""Dragon Drop"" I thought it was something you were doing on your computer.",1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,"When you said you were doing a ""Dragon Drop"" I thought it was something you were doing on your computer.",1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,"OK, now bring in a fowl.",1.188235294117647,0.042650680808233685,85.0,69.0,16.0,0.0,534
-2456,looking for a charger.,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,looking for a charger.,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,My apologies...turns out she said a large stake in the business.,1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
 2456,Every year the food's worse here.,1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
-2456,How should I know it was a typo? The memo just said 'service animals now allowed'.,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,How should I know it was a typo? The memo just said 'service animals now allowed'.,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,I told you guys to put that thing in the long briefcase where it belongs!,1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
 2456,"I know it's ""Bring Your Pet to Work Day"" but....",1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
-2456,I said snack not snake.,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,I said snack not snake.,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,So that's snake eyes.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,The grass is on the third floor.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
-2456,"Careful, the employee of the year must be sunned every 2 hours.",1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,"Careful, the employee of the year must be sunned every 2 hours.",1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,The squeaky eel gets the grease.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,"Sorry boys. Research is in. Effective immediately, we're out of the snake oil business.",1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
-2456,J.K. thanks you for clearing out Voldemort's desk.,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,J.K. thanks you for clearing out Voldemort's desk.,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,We'll bring it to the meeting only for shock value.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
-2456,I see you've met the new legal intern.,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
-2456,Now go see Smithers in accounting and give him a real tongue-lashing.,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,I see you've met the new legal intern.,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
+2456,Now go see Smithers in accounting and give him a real tongue-lashing.,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,A gift from our corporate partner in South America?,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,You're sure this was sponsored by the Clinton Foundation?,1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
 2456,Just putting the bite on the the Johnson account.,1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
-2456,Hold it! I ordered a Serpent hard-drive,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
-2456,"That reminds me, have you guys seen my missing pet frog Felicity?",1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,Hold it! I ordered a Serpent hard-drive,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
+2456,"That reminds me, have you guys seen my missing pet frog Felicity?",1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,It's going to 1313 Mockingbird Lane. Ask for Herman.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
-2456,Have we discussed your severance package?,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,Have we discussed your severance package?,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,It must have heard we sell snake oil.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,"I said buy Amazon, not anaconda.",1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
 2456,"On behalf of our team, let me welcome our new legal counselor.",1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
 2456,"Is it Bring Your Komodo Dragon to Work Day, again?",1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
-2456,Assign her to the Sherwood case; the trial is next week.,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,Assign her to the Sherwood case; the trial is next week.,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,Good! That will keep the creditors away.,1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
-2456,Where should we put the new campaign manager?,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
-2456,Put it back where you found it. Now!,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,Where should we put the new campaign manager?,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
+2456,Put it back where you found it. Now!,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,I thought they were being figurative!,1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
 2456,Our snake oil is made from all natural ingredients.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,"I said ""an accountant"". You heard ""anaconda""!",1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
@@ -2552,8 +2552,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2456,"Sorry, but we've modified our bring-a-pet-to-work policy.",1.188235294117647,0.05674187869198082,85.0,74.0,6.0,5.0,534
 2456,Put the tail in the vice-presidents office and the head in the mail room.,1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
 2456,We're taking him where he'll fit in--The New Yorker,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
-2456,Where's the grass?,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
-2456,"When I said you had to land a big fish, I didn't think you would take it literally!",1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,Where's the grass?,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
+2456,"When I said you had to land a big fish, I didn't think you would take it literally!",1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,I thought we weren't hiring any more Slytherin's.,1.188235294117647,0.05674187869198082,85.0,74.0,6.0,5.0,534
 2456,I said we'd need to get some snacks for the recruiting function.,1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
 2456,"Sorry, fellas. The boss changed her mind. Get her an aardvark sample, asap!",1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
@@ -2564,16 +2564,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2456,"Um, Salazar, I'm not sure Basilisks are appropriate for bring your pet to work day...",1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
 2456,Put him over there - next to the mouse trap.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,"Why does it always take both of you to ""drain the snake""?",1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
-2456,"Good job guys, that forked tongue will fit right in with tonight's presidential debate coverage.",1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,"Good job guys, that forked tongue will fit right in with tonight's presidential debate coverage.",1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,Don't tell me that my former boss has been reincarnated.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,LEAVE IT UNDER BOARD ROOM CONFERENCE TABLE AND CLOSE THE DOOR..,1.188235294117647,0.05674187869198082,85.0,74.0,6.0,5.0,534
-2456,"So, THAT is the new corporate mascot?",1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,"So, THAT is the new corporate mascot?",1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,Meeting's cancelled; Bob forgot the ladder.,1.188235294117647,0.05674187869198082,85.0,74.0,6.0,5.0,534
 2456,"I actually said public servant roles hold different pay scales, not publically hold a serpent with grey scales.",1.188235294117647,0.054217421117916886,85.0,73.0,8.0,4.0,534
 2456,Be sure to hide him back in the grass when the shareholders show up!,1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
-2456,You two SHOULD be rattled by those second-quarter earnings.,1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,You two SHOULD be rattled by those second-quarter earnings.,1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,"You caught Neely slithering home early, again?",1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
-2456,"Look fellas, the boss's memo clearly says 'I welcome constructive criticism"" - with a 'u'.",1.188235294117647,0.051569532748121864,85.0,72.0,10.0,3.0,534
+2456,"Look fellas, the boss's memo clearly says 'I welcome constructive criticism"" - with a 'u'.",1.188235294117647,0.05156953274812186,85.0,72.0,10.0,3.0,534
 2456,It tastes like chicken,1.188235294117647,0.04581694684528597,85.0,70.0,14.0,1.0,534
 2456,I guess you should put it in the grass.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
 2456,The sushi chef is waiting in the back room.,1.188235294117647,0.048778116640986524,85.0,71.0,12.0,2.0,534
@@ -3269,7 +3269,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3267,It's apparently the first of our two performance boas for the year.,1.1410256410256407,0.047320331546548966,78.0,69.0,7.0,2.0,534
 3267,I said 'Don't reinvent the WHEEL.',1.1410256410256407,0.047320331546548966,78.0,69.0,7.0,2.0,534
 3267,That's the wrong snake in the grass.,1.1410256410256407,0.047320331546548966,78.0,69.0,7.0,2.0,534
-3267,"Ah, of course, the new HR Director. Sir!",1.1410256410256407,0.04366020435906119,78.0,68.0,9.0,1.0,534
+3267,"Ah, of course, the new HR Director. Sir!",1.1410256410256407,0.043660204359061185,78.0,68.0,9.0,1.0,534
 3267,My anaconda don't want none unless you got TPS reports.,1.1410256410256407,0.047320331546548966,78.0,69.0,7.0,2.0,534
 3267,Is he eeling ok?,1.1410256410256407,0.039663750600197285,78.0,67.0,11.0,0.0,534
 3267,"Well, ""Reptilian"" in our editorial about the candidate's personality was a figure of speech, not an invitation to afford him companionship.",1.1410256410256407,0.047320331546548966,78.0,69.0,7.0,2.0,534
@@ -3278,18 +3278,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3267,You must be the new director of our legal department.,1.1410256410256407,0.047320331546548966,78.0,69.0,7.0,2.0,534
 3267,"NO, NO! A BOA for the wife's costume, you idiots!",1.1410256410256407,0.047320331546548966,78.0,69.0,7.0,2.0,534
 3267,Breaking in another new intern today boys?,1.1410256410256407,0.039663750600197285,78.0,67.0,11.0,0.0,534
-3267,We wanted you to have a big stake in the game...,1.1410256410256407,0.04366020435906119,78.0,68.0,9.0,1.0,534
+3267,We wanted you to have a big stake in the game...,1.1410256410256407,0.043660204359061185,78.0,68.0,9.0,1.0,534
 3281,Everything here is local.,1.139240506329114,0.04314095017892056,79.0,69.0,9.0,1.0,534
 3282,"They don't call us ""Snake Farm Insurance"" for nothing.",1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,I said to bring sake for the Yamaha meeting. Sake!,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,I'd keep it under wraps until you get it up and running.,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
-3282,We finally caught the office snake red handed!,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,We finally caught the office snake red handed!,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,The boardroom. HR is interviewing.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
-3282,The note says 'Greetings from the FTC'.,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,The note says 'Greetings from the FTC'.,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,It's too big for the microwave.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,"That's right, it's Bring Your Pet To Work day.",1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,Sorry but that's not a moray.,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
-3282,This organization is not going to scale itself.,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,This organization is not going to scale itself.,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,Glad you could make it. I just received another summons.,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
 3282,Nooo...how's that supposed to unclog a drain?,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,Make sure his survival is a temporary thing.,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
@@ -3302,22 +3302,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3282,"And they told me it would be ""impossible to get the 'Big Snake' out of the office.""",1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,"I don't know why he needs to smell it first this time, but whatever, just go right in...",1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,That goes in the conference room where potential employees are being interviewed.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
-3282,Whatsamatta? Never met the boss before?,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,Whatsamatta? Never met the boss before?,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,The boss looks mad today.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,Why don't you join me in the conference room once you wrap up that project.,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,"Hey sorry, the folks in legal didn't buy the companion animal thing.",1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
-3282,I ordered mine with half pepperoni.,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,I ordered mine with half pepperoni.,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,Now we'll show Amazon what brick and mortar can really do!,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
-3282,"So it's All-You-Can-Eat Fish Day at the Cafeteria, Ferguson?",1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
-3282,Halpert having one of his spells again?,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,"So it's All-You-Can-Eat Fish Day at the Cafeteria, Ferguson?",1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
+3282,Halpert having one of his spells again?,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,"SORRY, NO, ITS NOT MINE.",1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,"Sorry, no snake oil solicitors allowed between 12:00 and 2:00 PM.",1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,It's the candidate's old manager. They all end up like this.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,I'm only interested if you've trained it to chase its own tail!,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
-3282,"It's ""Bring Your Pet To Work Day.",1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,"It's ""Bring Your Pet To Work Day.",1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,"""No, I said when you get to the fork in the ROAD, TAKE it!?",1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,If any of you guys speak parseltongue ask her how she feels about cold-desking.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
-3282,Tell HR we need some fresh legal.,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,Tell HR we need some fresh legal.,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,Some relatives can be a handful.,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
 3282,Our loan packages are getting more constrictive every day.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,It's a basilisk. You wouldn't understand.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
@@ -3326,7 +3326,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3282,"Um, I think it's 'bring your _child_ to work' day",1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,So that's why all the mice have been disappearing.,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
 3282,What can you tell me about the one that got away?,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
-3282,We wanted to make our water cooler conversations a little more interesting.,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,We wanted to make our water cooler conversations a little more interesting.,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,That must be the way the Board sends us big hugs.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,Show the CRA auditors into my office.,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,You just couldn't get a couple of Goldfish for an office pet!,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
@@ -3338,7 +3338,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3282,Is that really the best we can do for an Apple mascot?,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,His office isn't ready yet.,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,What? We're just taking him for a walk.,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
-3282,"Well, Bob, we could keep you on for another week if you're willing to train your replacement.",1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,"Well, Bob, we could keep you on for another week if you're willing to train your replacement.",1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,IS HE POTTIE TRAINED?,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,Is that the twelve foot sub for the office party?,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,Your slithering friend is needed on the trading floor.,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
@@ -3348,11 +3348,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3282,Lunch in staff room in 15 minutes. Raw chicken!,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
 3282,"So, handling serpents. That still a thing?",1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,Is that the new intern?,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
-3282,"That's not what I meant by our new ""short head-long tail"" strategy.",1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,"That's not what I meant by our new ""short head-long tail"" strategy.",1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,I'm ridiculously sick and tired of these ridiculous snakes on the mother board main frame.,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
-3282,The market is suggesting exotic snakes are the best liquid asset to have on hand right now.,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,The market is suggesting exotic snakes are the best liquid asset to have on hand right now.,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,What was the name of that software I requested?,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
-3282,"On second thought, I'd prefer the red tape.",1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,"On second thought, I'd prefer the red tape.",1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,The Chamber of Corporate Secrets is down the hall.,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,"Oh, why didn't you just go to the 3D printing place...",1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,Don't bring her to the office parties anymore.,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
@@ -3363,24 +3363,24 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3282,That's not funny. Get back to work.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,Monday's,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
 3282,"I'll give those interns a ""safe space"".",1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
-3282,Sssssssssell short!,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,Sssssssssell short!,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,You're fired!,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,Was in the water cooler.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
-3282,The guys in research have gone too far this time.,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,The guys in research have gone too far this time.,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,"I know what bull and bear markets mean, but what's snake market?",1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,The Battle of Hogwarts clean-up crew.,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,Ugh! Al has turned from a slimeball into a snake!,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,"You were feeling peckish??? He is STILL our CFO. You swallowed him whole, you can spit him out whole!",1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,The Good and Evil tree desk is next to the Editor's office,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,I think we went a bit too far in this last game of snakes and corporate ladders,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
-3282,You sure she's pregnant or someone she ate?,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
-3282,Because I think it will give the staff meeting some gravitas.,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,You sure she's pregnant or someone she ate?,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
+3282,Because I think it will give the staff meeting some gravitas.,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,"The sushi is for Don's going away party, 5th floor.",1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,There's one in every group.,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,Not her eel. She said her heels were killing her.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,I never thought Jim would turn out this way.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,"I said to get a birthday cake, not a birthday snake!",1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
-3282,Feed her the mice - but keep her away from the computers!,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,Feed her the mice - but keep her away from the computers!,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,"I knew we should have gone for cloud storage. Great, Libby from accounting is missing.",1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,This ones out of snake oil.,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,"When I asked for a Jumbo Anchovy, I meant PIZZA!",1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
@@ -3391,24 +3391,24 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3282,So they finally caught you overcharging.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,Mr. Svengali's office is on the next floor.,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,"Mr. Adam, he keeps mumbling...where's Eve?",1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
-3282,"I asked for a new mouse, not for the reason my old one is dead.",1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,"I asked for a new mouse, not for the reason my old one is dead.",1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,And I want that snake on my desk by 5!,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,"Bulls and Bears only, guys....",1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,Are those shoes snakeskin?,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,"The new manager, you say?",1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,Casual Fridays.,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
 3282,Just back from the Lizard Lounge?,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
-3282,"No, The lunch hour scavenger hunt does not include the furnace room. And this has nothing to do with BOA.",1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
-3282,I told you that account was run by snakes.,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,"No, The lunch hour scavenger hunt does not include the furnace room. And this has nothing to do with BOA.",1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
+3282,I told you that account was run by snakes.,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,But you said we could get an office pet!,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
-3282,We have plenty of wolves on Wall Street; we don't need a snake.,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,We have plenty of wolves on Wall Street; we don't need a snake.,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,"Morning, Boss. Just having a few problems with the organic paper shredder.",1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,When I said 'vermin' I wasn't referring to us!,1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
 3282,Make sure you get all the oil out this time. The sales department is getting low.,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,"OK, he gets a 5 minute break. But then back to work!",1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,I might have known; it's Woodward and Bernstein.,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
 3282,Don't know if this is what I had in mind when asking for reducing electricity costs for small businesses.,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
-3282,Bring him upstairs boys. He's the new Senior VP of Customer Service,1.131578947368421,0.03903262361629298,76.0,66.0,10.0,0.0,534
+3282,Bring him upstairs boys. He's the new Senior VP of Customer Service,1.131578947368421,0.039032623616292984,76.0,66.0,10.0,0.0,534
 3282,So there was a tremendous turnaround in the Rainforest market..,1.131578947368421,0.05075605663680504,76.0,69.0,4.0,3.0,534
 3282,He heard there were other snakes here.,1.131578947368421,0.043294605892116034,76.0,67.0,8.0,1.0,534
 3282,"Jim, there's no need to throw HISS-y fit because summer Fridays are over.",1.131578947368421,0.04717308652543424,76.0,68.0,6.0,2.0,534
@@ -3506,14 +3506,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3437,"We have the serpent, but where's the Tree of Knowledge?",1.1216216216216215,0.04694559031179952,74.0,67.0,5.0,2.0,534
 3437,"Great try guys, but it won't be usable for our new GEICO Commercial.",1.1216216216216215,0.04282120038926688,74.0,66.0,7.0,1.0,534
 3507,Take it back. They changed to order from snake skin belt to alligator boots.,1.12,0.042277504507567405,75.0,67.0,7.0,1.0,534
-3507,The job description actually asked for Python experience...,1.12,0.03777601126412133,75.0,66.0,9.0,0.0,534
-3507,"I'm just taking your lunch order, I don't think you need advice of counsel for that!",1.12,0.03777601126412133,75.0,66.0,9.0,0.0,534
+3507,The job description actually asked for Python experience...,1.12,0.037776011264121334,75.0,66.0,9.0,0.0,534
+3507,"I'm just taking your lunch order, I don't think you need advice of counsel for that!",1.12,0.037776011264121334,75.0,66.0,9.0,0.0,534
 3507,"Oh, geez: I didn't realize our C.S.O. was visiting today!",1.12,0.0463437994530848,75.0,68.0,5.0,2.0,534
 3507,"Thanks for pitching in, guys!",1.12,0.042277504507567405,75.0,67.0,7.0,1.0,534
 3507,This is not the investment in sushi futures I was anticipating.,1.12,0.042277504507567405,75.0,67.0,7.0,1.0,534
 3507,A good start.,1.12,0.0463437994530848,75.0,68.0,5.0,2.0,534
 3507,'A hissing lizard is just what we need to eat the competition alive.',1.12,0.042277504507567405,75.0,67.0,7.0,1.0,534
-3507,We're always carrying the boss.,1.12,0.03777601126412133,75.0,66.0,9.0,0.0,534
+3507,We're always carrying the boss.,1.12,0.037776011264121334,75.0,66.0,9.0,0.0,534
 3507,Hacking has become more sophisticated.,1.12,0.042277504507567405,75.0,67.0,7.0,1.0,534
 3517,"Oh, my God! How will this end?",1.118421052631579,0.0373090707335732,76.0,67.0,9.0,0.0,534
 3518,"""No,he doesn't have a vote"".",1.1095890410958904,0.04166275705683711,73.0,66.0,6.0,1.0,534
@@ -3758,97 +3758,97 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3756,Didn't I tell you that it's not safe to bring your pets to work?,1.095890410958904,0.039807296288042686,73.0,67.0,5.0,1.0,534
 3758,Where do we place the mascot?,1.0869565217391304,0.04494540799009202,69.0,65.0,2.0,2.0,534
 3758,The new Director of Advertising?,1.0869565217391304,0.04494540799009202,69.0,65.0,2.0,2.0,534
-3758,"Sorry guys, Human Resources says it has to go.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,Have the vet take a look before you put it with the others.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,"Sorry guys, Human Resources says it has to go.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,Have the vet take a look before you put it with the others.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,I see you've captured one of the candidates,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,"I said out source, not out snake, the CEO!",1.0869565217391304,0.04494540799009202,69.0,65.0,2.0,2.0,534
 3758,Just what we needed around here - another hissy pet!,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,He swallowed the boss? Promote him!,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,Reminds me of Gene Simmons,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,Reminds me of Gene Simmons,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,"No, that's the Damien Hirst.",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,He ate all our mice.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,"Yeah, her typing gets sloppy when she's hungry. She just told me she sent out for a big snack.",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,It's gonna take some teamwork to tame *this* snake...,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"I said get the bull by the horns, not the snake by the head.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,How many times do I have to tell you guys?--no pets in the office!,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,It's gonna take some teamwork to tame *this* snake...,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"I said get the bull by the horns, not the snake by the head.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,How many times do I have to tell you guys?--no pets in the office!,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,"What am I, Oprah? No, I said ""get cracking"" not ""you get a Kraken.""",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,Drop that or I'll have to call Security,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,"He said if this ever happens, all we need to do is give him a kiss and he'll be the old on in no time.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,"He said if this ever happens, all we need to do is give him a kiss and he'll be the old on in no time.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,See what the boys in the back room will have.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,"I requested larger merchants, not serpents.",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,"I said go take a break, not take the snake.",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,Sorry for the elllongated hours.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,You told us the suspect was a real snake so here it is.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,"Park it on the old man's desk. He's picking visual aids to show why we're in the tank, and the swan died.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,Clean him cook him tomato sauce cold vino Tarantella music please.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"If it can persuade investors with that tongue, hire it.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,"Park it on the old man's desk. He's picking visual aids to show why we're in the tank, and the swan died.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,Clean him cook him tomato sauce cold vino Tarantella music please.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"If it can persuade investors with that tongue, hire it.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,Wonton soup not available due to track work in Chinatown station.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,Is this the new job applicant?,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,Is this the new job applicant?,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,Can you make me a Manhattan with a knotted cherry?,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,Is this you guys on your Python refresher course then ?,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,Something looks fishy here!,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"Oh, no. The emails again!",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,Is this you guys on your Python refresher course then ?,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,Something looks fishy here!,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"Oh, no. The emails again!",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,"Guys, when I told you to kill the barracuda I meant Sidney, our in-house corporate counsel.",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,The potluck invite said bring a DISH to feed 30.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,The potluck invite said bring a DISH to feed 30.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,That'll show Mr. Trump what a 12 foot Python looks like. Down the hall to your left.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,HELLA-monster? Capitalism? captured at last?,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,HELLA-monster? Capitalism? captured at last?,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,"Guys, I ordered the grilled eel!",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,You're late. The sales force strategy meeting ended ten minutes ago.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,You're late. The sales force strategy meeting ended ten minutes ago.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,I knew Charlie spoke with a forked tongue in the last board meeting.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,Credit Default Viper - CDV,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,Credit Default Viper - CDV,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,"An appropriate gift for you Sales Manager?, Ah no!",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,This critter will do great on those late night talk shows--his tongue is so salty.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,Industrious employees in Florida have outsourced menial office tasks like hole-punching and envelope-licking to a local legless reptile.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,We're diversifying into real estate.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,We're diversifying into real estate.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,Bring it to the cafeteria. Tomorrow's lunch!,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,"He'll be perfect on the showroom floor, Boss.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"""So, how many money market managers does it take to milk an anaconda""?",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,"He'll be perfect on the showroom floor, Boss.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"""So, how many money market managers does it take to milk an anaconda""?",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,Since you guys got all the oil out you can get started on the turnips!,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,Is that the new mascot or experiment?,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,Aw... He's harmless. He loves to cuddle!,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,"I can't follow that, half my speech is about eels!",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,Men in suits ready to use anaconda tactics to rob average Joe.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"Wow, that's a big penis!",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"This was in the apple, left on your 2nd grade teacher's desk.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"Are we in the sequel to ""Snakes on a Plane""?",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,"I can't follow that, half my speech is about eels!",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,Men in suits ready to use anaconda tactics to rob average Joe.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"Wow, that's a big penis!",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"This was in the apple, left on your 2nd grade teacher's desk.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"Are we in the sequel to ""Snakes on a Plane""?",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,"You nitwit, I asked if 'you feel ill'?",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,It's fish a congo line.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,It's fish a congo line.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,Put it in the employee lounge with the others.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,"I wouldn't want to be you guys if that is not THE Kimono Dragon from the movie ""The Freshman""",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,"We value corporate loyalty, and snakes are not tolerated.",1.0869565217391304,0.04494540799009202,69.0,65.0,2.0,2.0,534
 3758,I thought I said no animals were to be harmed.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,I thought I entered the football pool contest.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"No! I requested the Eleemosynary Reports, not the eel, Mo and Larry, your dorks!",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"Er, no--actually I was referring to the 60s comedy group.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,I thought I entered the football pool contest.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"No! I requested the Eleemosynary Reports, not the eel, Mo and Larry, your dorks!",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"Er, no--actually I was referring to the 60s comedy group.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,I meant the printer is out of paper and to fetch the largest __reel__.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,So this is the slippery customer that's been taking up all your time.,1.0869565217391304,0.04494540799009202,69.0,65.0,2.0,2.0,534
 3758,Corner office for Mr. Henderson.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,I didn't mean to swipe right.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,The boss told you to go for that low hanging fruit?,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,The boss told you to go for that low hanging fruit?,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,The negotiations are occurring in the rear conference room.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,Sorry gents. All ladders have been discontinued.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,Sorry gents. All ladders have been discontinued.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,Management again wants to squeeze our budget?,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,Hillary Clinton speech preparation,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"I'm not sure this will fit in withe boss' ""all inclusive"" program",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,Hillary Clinton speech preparation,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"I'm not sure this will fit in withe boss' ""all inclusive"" program",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,"Never mind. Guess it was an accounting error, not the return of Nög-Threzzaq.",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,This lady just called about her missing snake? But hers was bigger than that --see?,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,"This is not what I meant when I said to watch 'Shark Tank,' for branding ideas.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"Green screen him, pronto.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"No, it turns out loch ness monsters don't qualify for watercraft insurance.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,Uhh...how will the Slytherin Dept. feel about this?,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,You said it was bring your pet to work Friday.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,Where can we put the cake?,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"What's the matter, is the corporate serpent telling the truth again?",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,Eel got your tongue?,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,"This is not what I meant when I said to watch 'Shark Tank,' for branding ideas.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"Green screen him, pronto.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"No, it turns out loch ness monsters don't qualify for watercraft insurance.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,Uhh...how will the Slytherin Dept. feel about this?,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,You said it was bring your pet to work Friday.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,Where can we put the cake?,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"What's the matter, is the corporate serpent telling the truth again?",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,Eel got your tongue?,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,I see you have elevated our poison pill offer,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,"For the last time, no! We're not starting a Snakes-as-a-Service company!",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,"For the last time, no! We're not starting a Snakes-as-a-Service company!",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,"Well, I guess that answers the Hillary-Donald in-vitro question.",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,"I don't care who its master is, Malfoy. No pets allowed!",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,"After restarting didn't help, we called in I.T.",1.0869565217391304,0.04494540799009202,69.0,65.0,2.0,2.0,534
 3758,You guys headed to the white elephant party?,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,No pets allowed.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"Personally, I don't think that's the best mascot for our female recruitment campaign. Maybe we should have an office vote.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,We think we caught the newly forme species: Asian Carpe Diem,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,No pets allowed.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"Personally, I don't think that's the best mascot for our female recruitment campaign. Maybe we should have an office vote.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,We think we caught the newly forme species: Asian Carpe Diem,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,I'd rather feed the pig.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,"Yep, you're dying.",1.0869565217391304,0.04494540799009202,69.0,65.0,2.0,2.0,534
 3758,Is that pescetarian?,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
@@ -3858,24 +3858,24 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3758,"Sorry Serp, only one pet allowed during ""bring your pet to work day.""",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,"Didn't""t the Boss say ""oven ready""?",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,How can explain this to HR?,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,Joe at Crab Shack said this was his freshest seafood today.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,Joe at Crab Shack said this was his freshest seafood today.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,"Gentlemen, I see. The ""white mamba"" computer virus is more literal than virtual!",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,I just got the memo. She's definitely been crossed by too many corporate ladders.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,I just got the memo. She's definitely been crossed by too many corporate ladders.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,"I know you're behind the others in sales, but don't you think putting giant snakes in their offices is a bit much?",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,"It doesn't bite, it licks.",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,"You know that Giant Slithering Snakes was pushed to Q4, right?",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,She's key to implementation of our updated affirmative action and diversity protocols.,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,She's key to implementation of our updated affirmative action and diversity protocols.,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,I see you've returned from that slippery slope you went down.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,"""Okay guys, you know the dress code - let's get those jackets back on before someone says you look Nessy.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,"""Okay guys, you know the dress code - let's get those jackets back on before someone says you look Nessy.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,Back office poison!,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,"No guys, I said you have to 'take the bull by the horns'!",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,"No guys, I said you have to 'take the bull by the horns'!",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,When I told Monique we needed Lazard Frères I did not mean the Lizard Brothers.,1.0869565217391304,0.04494540799009202,69.0,65.0,2.0,2.0,534
-3758,He followed us home. Can we keep him?,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"I see Trump has transformed from CEO, to Politico, and finally real-self-o.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,He followed us home. Can we keep him?,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"I see Trump has transformed from CEO, to Politico, and finally real-self-o.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,Medusa's still alive?,1.0869565217391304,0.04494540799009202,69.0,65.0,2.0,2.0,534
 3758,"When you say it was unfit for purpose, what exactly do you mean?",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,I have two eye-witnesses that place you in that garden Satan. Play ball or it's Paradise Lost Part Deux for you!,1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
-3758,"VP of Finance? No, HR.",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,I have two eye-witnesses that place you in that garden Satan. Play ball or it's Paradise Lost Part Deux for you!,1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
+3758,"VP of Finance? No, HR.",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,We have plenty of wolves on Wall Street; we definitely don't snakes.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,That was antidote in the workroom fridge? Sorry.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,Get that f-ing snake off this pla...I mean out of this office!,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
@@ -3888,7 +3888,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3758,"No, I definitely ordered eel avocado.",1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,Great! Donald's hair is starving.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3758,There are other ways to rattle my cage.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
-3758,"Take Gripper, our new Lean mascot over to the sales meeting",1.0869565217391304,0.039922828555730934,69.0,64.0,4.0,1.0,534
+3758,"Take Gripper, our new Lean mascot over to the sales meeting",1.0869565217391304,0.03992282855573093,69.0,64.0,4.0,1.0,534
 3758,It's probably best you help direct him to HR.,1.0869565217391304,0.034169793391016334,69.0,63.0,6.0,0.0,534
 3892,"Trump IS honest, as far as I know!",1.0857142857142856,0.03936797335696675,70.0,65.0,4.0,1.0,534
 3892,I've ordered an XXX buckle.,1.0857142857142856,0.03936797335696675,70.0,65.0,4.0,1.0,534
@@ -3998,7 +3998,6 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3913,Hillary chemtrails are real.,1.0735294117647058,0.04352840328186599,68.0,65.0,1.0,2.0,534
 3913,Here's the magician's number. Tell him I don't care if Wilson's true nature is that of fork tongued serpent. He needs to be in human form again.,1.0735294117647058,0.03188665499421403,68.0,63.0,5.0,0.0,534
 3913,take that thing back to Lock Ness,1.0735294117647058,0.038154165296785066,68.0,64.0,3.0,1.0,534
-3913,,1.0735294117647058,0.04352840328186599,68.0,65.0,1.0,2.0,534
 3913,Security is tightening our safety regulations.,1.0735294117647058,0.03188665499421403,68.0,63.0,5.0,0.0,534
 3913,"Gentleman, I said we need to start enforcing breaks.",1.0735294117647058,0.03188665499421403,68.0,63.0,5.0,0.0,534
 3913,He seems to like you.,1.0735294117647058,0.038154165296785066,68.0,64.0,3.0,1.0,534
@@ -4013,15 +4012,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3913,This unagi rolling workshop is going to boost our team morale and productivity.,1.0735294117647058,0.03188665499421403,68.0,63.0,5.0,0.0,534
 3913,Is this another of your sick jokes?,1.0735294117647058,0.03188665499421403,68.0,63.0,5.0,0.0,534
 3913,I see Taylor Swift has arrived for her meeting.,1.0735294117647058,0.038154165296785066,68.0,64.0,3.0,1.0,534
-4015,The eel is ill. Send him home sick for the day.,1.0724637681159421,0.03761223941765689,69.0,65.0,3.0,1.0,534
-4015,How did the apples she gave you taste?,1.0724637681159421,0.03761223941765689,69.0,65.0,3.0,1.0,534
-4015,Here's that scrip for the tongue depressor....,1.0724637681159421,0.031439196785312463,69.0,64.0,5.0,0.0,534
-4015,"Ah, putting the ""H"" back in HR are we?",1.0724637681159421,0.031439196785312463,69.0,64.0,5.0,0.0,534
-4015,"If that is meant for the boss, you had better wait until he goes out to lunch!",1.0724637681159421,0.031439196785312463,69.0,64.0,5.0,0.0,534
-4015,I ordered Nakagawa's Eel Roll not an eel from the Nakagawa Market.,1.0724637681159421,0.03761223941765689,69.0,65.0,3.0,1.0,534
-4015,You guys make sure to sell only its oil.,1.0724637681159421,0.031439196785312463,69.0,64.0,5.0,0.0,534
-4015,We need a bigger office,1.0724637681159421,0.031439196785312463,69.0,64.0,5.0,0.0,534
-4015,"I see you've brought a snake, but like you I am awaiting that ladder.",1.0724637681159421,0.031439196785312463,69.0,64.0,5.0,0.0,534
+4015,The eel is ill. Send him home sick for the day.,1.072463768115942,0.03761223941765689,69.0,65.0,3.0,1.0,534
+4015,How did the apples she gave you taste?,1.072463768115942,0.03761223941765689,69.0,65.0,3.0,1.0,534
+4015,Here's that scrip for the tongue depressor....,1.072463768115942,0.031439196785312463,69.0,64.0,5.0,0.0,534
+4015,"Ah, putting the ""H"" back in HR are we?",1.072463768115942,0.031439196785312463,69.0,64.0,5.0,0.0,534
+4015,"If that is meant for the boss, you had better wait until he goes out to lunch!",1.072463768115942,0.031439196785312463,69.0,64.0,5.0,0.0,534
+4015,I ordered Nakagawa's Eel Roll not an eel from the Nakagawa Market.,1.072463768115942,0.03761223941765689,69.0,65.0,3.0,1.0,534
+4015,You guys make sure to sell only its oil.,1.072463768115942,0.031439196785312463,69.0,64.0,5.0,0.0,534
+4015,We need a bigger office,1.072463768115942,0.031439196785312463,69.0,64.0,5.0,0.0,534
+4015,"I see you've brought a snake, but like you I am awaiting that ladder.",1.072463768115942,0.031439196785312463,69.0,64.0,5.0,0.0,534
 4024,"First the water fountain for them, then lunch.",1.0714285714285714,0.031004097581515382,70.0,65.0,5.0,0.0,534
 4025,"No, no, remember if it bleeds it leads",1.0606060606060606,0.029595468994133137,66.0,62.0,4.0,0.0,534
 4025,So you caught that SOB!,1.0606060606060606,0.03663457726224177,66.0,63.0,2.0,1.0,534
@@ -4135,60 +4134,60 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4123,Your groping is clearly asexual harassment.,1.0597014925373134,0.036094986345958924,67.0,64.0,2.0,1.0,534
 4123,"A mutant ninja garfish, I presume.",1.0597014925373134,0.029164430475175987,67.0,63.0,4.0,0.0,534
 4136,These new temps are such slimeballs.,1.0588235294117647,0.02874575161324829,68.0,64.0,4.0,0.0,534
-4137,Memo for the CEO.,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
+4137,Memo for the CEO.,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
 4137,I don't condom what you two are doing.,1.046875,0.034716021271691086,64.0,62.0,1.0,1.0,534
 4137,"Right idea, wrong half.",1.046875,0.034716021271691086,64.0,62.0,1.0,1.0,534
-4137,Are we having sushi for lunch?,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"Like so many other invasive vipers found in late July, this one was lurking in the tall grass around Philadelphia, nipping a the heels of women in pantsuits; since then, there’ve been sightings all over the country.",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"I know we’re a fragrance free office, but isn’t this a little extreme?",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"Adam and Evan, the big man upstairs said to tell you that his confidence in your decision making process is seriously waning.",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,I thought you said he was a snake 'in the GRASS'??,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,Send this one back to WallStreet,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"I think you misunderstood, I said that belongs in belongs in a POOL, not the office pool.",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"Well, weasels ARE the basilisk's only natural predator.",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"That was a Python, he wasn't that happy to see me,,",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"Sir, your wife called. She wants to know if you can pick up the kids from tee-ball.",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"""ADVERTISING wants him in their ""Cigarette Endorsement Photo-Ops"".",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,A woman named Eve sold to tp me.,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"Special delivery! Your precious cargo, Sir.",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,You can't make sushi with that.,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
+4137,Are we having sushi for lunch?,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"Like so many other invasive vipers found in late July, this one was lurking in the tall grass around Philadelphia, nipping a the heels of women in pantsuits; since then, there’ve been sightings all over the country.",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"I know we’re a fragrance free office, but isn’t this a little extreme?",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"Adam and Evan, the big man upstairs said to tell you that his confidence in your decision making process is seriously waning.",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,I thought you said he was a snake 'in the GRASS'??,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,Send this one back to WallStreet,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"I think you misunderstood, I said that belongs in belongs in a POOL, not the office pool.",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"Well, weasels ARE the basilisk's only natural predator.",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"That was a Python, he wasn't that happy to see me,,",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"Sir, your wife called. She wants to know if you can pick up the kids from tee-ball.",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"""ADVERTISING wants him in their ""Cigarette Endorsement Photo-Ops"".",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,A woman named Eve sold to tp me.,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"Special delivery! Your precious cargo, Sir.",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,You can't make sushi with that.,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
 4137,It's the lunch for our lost tribes client.,1.046875,0.034716021271691086,64.0,62.0,1.0,1.0,534
-4137,With this symbolism maybe now the public will understand why we quit the Trump campaign.,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,It's to save money during peak energy hours.,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,Mr Trump always orders the filet o' fish.,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"This is FedEx, not VetEx.",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,The instructions say that's the wrong end to milk a rattler,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,Pretty Cool Vey to display a snake.,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"Don't worry, the layoffs are over. We just need to constrict head count a little further.",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,BBQ at our house.,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,Did you short sell before you killed the mascot?,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,working in an office seems to be an appropriate mix of normalcy but also comedy stemming from the mundane repetativeness of corporate america lol,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"Uh!! Um yeah, I think i'm just going to go to my office now! Bye!",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"Are you sure he's safe, you know Johnny doesn't like surprises!",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,sneaky snake...,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"We need to get him on some coral, STAT!",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"Jerry, I don't care that you got while attending the convention; you still can't expense it.",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,That's the biggest anaconda you'll ever get.,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,I Guess,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,I guess you guys found the company snake. How did he betray you!,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"Uh... I hope the stick is not coming later, guys.""",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"When I said I didn't want any forked tongue snakes working for me, I didn't realize we literally had one working here.",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,Does that come with training wheels?,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
+4137,With this symbolism maybe now the public will understand why we quit the Trump campaign.,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,It's to save money during peak energy hours.,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,Mr Trump always orders the filet o' fish.,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"This is FedEx, not VetEx.",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,The instructions say that's the wrong end to milk a rattler,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,Pretty Cool Vey to display a snake.,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"Don't worry, the layoffs are over. We just need to constrict head count a little further.",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,BBQ at our house.,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,Did you short sell before you killed the mascot?,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,working in an office seems to be an appropriate mix of normalcy but also comedy stemming from the mundane repetativeness of corporate america lol,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"Uh!! Um yeah, I think i'm just going to go to my office now! Bye!",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"Are you sure he's safe, you know Johnny doesn't like surprises!",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,sneaky snake...,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"We need to get him on some coral, STAT!",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"Jerry, I don't care that you got while attending the convention; you still can't expense it.",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,That's the biggest anaconda you'll ever get.,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,I Guess,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,I guess you guys found the company snake. How did he betray you!,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"Uh... I hope the stick is not coming later, guys.""",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"When I said I didn't want any forked tongue snakes working for me, I didn't realize we literally had one working here.",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,Does that come with training wheels?,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
 4137,"Why are you guys running with that big, forked-tongue snake?",1.046875,0.034716021271691086,64.0,62.0,1.0,1.0,534
-4137,I don't ever want to get to work that early.,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,Nobody knew that Flash Mob Bob and Exotic Pet Pete were in fact very good friends.,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,Why did you let Jeff do cold-calling...you know he gets a little greens behind the gills after awhile!,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,Oh! I got s-s-snake-itis-s-s-s.,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,Anaconda accommodate these demands; get back to work!,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"No, the rule is the dung must be corked.",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,Now where are we going to catch the dragonite,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,It's conventionitis. It will soon pass.,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"Just in time, gentlemen. The wiener-dogs have demanded a 51% stake of our chew-toy acquisition.",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"Nice basilisk, Potter...but I said Chambers HAS secrets...",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,Hey! That's a great way to boost corporate morale.,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
-4137,"Oh carp, does this mean the cafeteria's 'Spagetti & Meatballs' special is over?",1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
+4137,I don't ever want to get to work that early.,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,Nobody knew that Flash Mob Bob and Exotic Pet Pete were in fact very good friends.,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,Why did you let Jeff do cold-calling...you know he gets a little greens behind the gills after awhile!,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,Oh! I got s-s-snake-itis-s-s-s.,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,Anaconda accommodate these demands; get back to work!,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"No, the rule is the dung must be corked.",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,Now where are we going to catch the dragonite,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,It's conventionitis. It will soon pass.,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"Just in time, gentlemen. The wiener-dogs have demanded a 51% stake of our chew-toy acquisition.",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"Nice basilisk, Potter...but I said Chambers HAS secrets...",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,Hey! That's a great way to boost corporate morale.,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
+4137,"Oh carp, does this mean the cafeteria's 'Spagetti & Meatballs' special is over?",1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
 4137,You're chocking him!,1.046875,0.034716021271691086,64.0,62.0,1.0,1.0,534
-4137,We are not underwater,1.046875,0.026630253226448332,64.0,61.0,3.0,0.0,534
+4137,We are not underwater,1.046875,0.02663025322644833,64.0,61.0,3.0,0.0,534
 4191,Th-therrr st-st-still gripe-p-p-p-p-p-p-in' fer m-m-m-more ale.,1.0461538461538462,0.03418536314352148,65.0,63.0,1.0,1.0,534
 4192,I'd rather you both slide down the stairwell together on it's back to the basement. Just hand this note to the janitor. He'll see each of you get a ladder in exchange for your adder... no questions asked!,1.032258064516129,0.022622157203815392,62.0,60.0,2.0,0.0,534
 4192,Just release that new 'old snake-in-the-grass' replacement chairman for Fox News into the empty CEO office marked 'Danger! Paleoconservative Feeding Zone' on the door.,1.032258064516129,0.022622157203815392,62.0,60.0,2.0,0.0,534
@@ -4231,10 +4230,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4192,"Sorry, we're out of jumbo fries, but we have fresh squeal.",1.032258064516129,0.022622157203815392,62.0,60.0,2.0,0.0,534
 4192,Hiya have you met Medusa? She intends to use the vending machine on your floor because she has a yawn activated coffee machine on hers which freezes every time she uses it,1.032258064516129,0.022622157203815392,62.0,60.0,2.0,0.0,534
 4192,The new guy was having some trouble with his treadmill desk.,1.032258064516129,0.022622157203815392,62.0,60.0,2.0,0.0,534
-4233,He's over qualified for the python programming spot. We don't have a pay scale for him,1.0317460317460319,0.02226606749120207,63.0,61.0,2.0,0.0,534
-4233,"""I've got your message! If I say I'm bring donuts, I'll bring donuts.",1.0317460317460319,0.02226606749120207,63.0,61.0,2.0,0.0,534
-4233,Usain Bolt,1.0317460317460319,0.02226606749120207,63.0,61.0,2.0,0.0,534
-4233,"Okay, I am frightened by your hat.",1.0317460317460319,0.02226606749120207,63.0,61.0,2.0,0.0,534
+4233,He's over qualified for the python programming spot. We don't have a pay scale for him,1.031746031746032,0.02226606749120207,63.0,61.0,2.0,0.0,534
+4233,"""I've got your message! If I say I'm bring donuts, I'll bring donuts.",1.031746031746032,0.02226606749120207,63.0,61.0,2.0,0.0,534
+4233,Usain Bolt,1.031746031746032,0.02226606749120207,63.0,61.0,2.0,0.0,534
+4233,"Okay, I am frightened by your hat.",1.031746031746032,0.02226606749120207,63.0,61.0,2.0,0.0,534
 4237,Take him to the front office to check on the our tme clock.,1.03125,0.021921011700381302,64.0,62.0,2.0,0.0,534
 4238,There'll be no hiding from office Web surfing now.,1.0307692307692309,0.021586484923695897,65.0,63.0,2.0,0.0,534
 4238,"So the CEO heard he wont be receiving his usual bonus? Better get him some fresh air...erm, I mean smog.",1.0307692307692309,0.021586484923695897,65.0,63.0,2.0,0.0,534

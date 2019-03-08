@@ -6,7 +6,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5,"Yes, I love him. I'll always love him. I'm just saying I still think the hospital switched him at birth.",1.8215102974828368,0.04111463456919842,437.0,207.0,101.0,129.0,535
 6,He wants to know if you can move your seat up,1.7964376590330788,0.04105908043183655,393.0,178.0,117.0,98.0,535
 7,It's the only way he'll fall asleep.,1.7753424657534247,0.042286920772993085,365.0,169.0,109.0,87.0,535
-8,He's not endangered. He's wearing a seatbelt.,1.760932944606414,0.04373689295446425,343.0,163.0,99.0,81.0,535
+8,He's not endangered. He's wearing a seatbelt.,1.7609329446064141,0.04373689295446425,343.0,163.0,99.0,81.0,535
 9,"At least when we brought home the elephant, we had extra trunk room.",1.7147651006711409,0.05128179098035561,298.0,171.0,41.0,86.0,535
 10,This is where the blubber meets the road.,1.695970695970696,0.048928065666418434,273.0,143.0,70.0,60.0,535
 11,It's the only way to get him to fall asleep.,1.6948529411764706,0.0462497388100098,272.0,133.0,89.0,50.0,535
@@ -167,9 +167,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 160,I could've sworn they said 'hatchback'.,1.463768115942029,0.0635354419549663,138.0,95.0,22.0,21.0,535
 160,I feel like such a fool now that you explained sperm donation to me...,1.463768115942029,0.0635354419549663,138.0,95.0,22.0,21.0,535
 160,"I told you at the pet store, ""Sure, it's cute now... but it's going to get bigger.""",1.463768115942029,0.05832695129724265,138.0,89.0,34.0,15.0,535
-169,I caught it -- you clean it.,1.4598540145985401,0.05769900740174502,137.0,88.0,35.0,14.0,535
-169,This is the last time I ever help you move.,1.4598540145985401,0.05769900740174502,137.0,88.0,35.0,14.0,535
-169,How was I supposed to know he was gonna sing the whole way?,1.4598540145985401,0.05862181899346354,137.0,89.0,33.0,15.0,535
+169,I caught it -- you clean it.,1.45985401459854,0.05769900740174502,137.0,88.0,35.0,14.0,535
+169,This is the last time I ever help you move.,1.45985401459854,0.05769900740174502,137.0,88.0,35.0,14.0,535
+169,How was I supposed to know he was gonna sing the whole way?,1.45985401459854,0.05862181899346354,137.0,89.0,33.0,15.0,535
 172,"I could have sworn the salesman said ""hatchback.""",1.4558823529411764,0.05798697083280191,136.0,88.0,34.0,14.0,535
 172,"Next time, pay the damn delivery fee.",1.4558823529411764,0.060739494334289074,136.0,91.0,28.0,17.0,535
 172,I told you I was good at carnival games.,1.4558823529411764,0.05891876821724855,136.0,89.0,32.0,15.0,535
@@ -607,11 +607,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 564,Who'd have guessed a hatchback could hold a humpback?,1.3523809523809525,0.057386537809717614,105.0,74.0,25.0,6.0,535
 564,"I enjoy cooking, watching old movies, and bluegrass. And I like whales.",1.3523809523809525,0.058960706448755625,105.0,75.0,23.0,7.0,535
 564,Your penchant for picking up strays has finally gone overboard.,1.3523809523809525,0.058960706448755625,105.0,75.0,23.0,7.0,535
-609,"Well, I couldn't have put your mother in the back seat, and him in the trunk, could I?",1.3518518518518519,0.0578171267700413,108.0,77.0,24.0,7.0,535
-609,I couldn't just leave it on the beach!,1.3518518518518519,0.05929494425725719,108.0,78.0,22.0,8.0,535
-609,Need to make a quick deposit at the sperm bank...,1.3518518518518519,0.06073681487367812,108.0,79.0,20.0,9.0,535
-609,Wake up Margaret! The car is making that sound again.,1.3518518518518519,0.0621452407472017,108.0,80.0,18.0,10.0,535
-609,"Don't worry, objects appear bigger than they appear in the mirror",1.3518518518518519,0.05929494425725719,108.0,78.0,22.0,8.0,535
+609,"Well, I couldn't have put your mother in the back seat, and him in the trunk, could I?",1.351851851851852,0.0578171267700413,108.0,77.0,24.0,7.0,535
+609,I couldn't just leave it on the beach!,1.351851851851852,0.05929494425725719,108.0,78.0,22.0,8.0,535
+609,Need to make a quick deposit at the sperm bank...,1.351851851851852,0.06073681487367812,108.0,79.0,20.0,9.0,535
+609,Wake up Margaret! The car is making that sound again.,1.351851851851852,0.0621452407472017,108.0,80.0,18.0,10.0,535
+609,"Don't worry, objects appear bigger than they appear in the mirror",1.351851851851852,0.05929494425725719,108.0,78.0,22.0,8.0,535
 614,It uses sonar and echolocation... I'm completely hands-free.,1.349056603773585,0.061491572158912836,106.0,78.0,19.0,9.0,535
 614,What is it about 'catch and release' you have trouble with?,1.349056603773585,0.05693970397379409,106.0,75.0,25.0,6.0,535
 614,"Most people settle for a puppy or kitten to rescue, but no...you always have to make the grand gesture.",1.349056603773585,0.058496362347931215,106.0,76.0,23.0,7.0,535
@@ -703,7 +703,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 699,Why couldn't we have just gotten a cat?,1.3333333333333333,0.05965885891765365,102.0,75.0,20.0,7.0,535
 699,It's a hybrid . It gets 70 knots per gallon and its loaded with omega 9s.,1.3333333333333333,0.06126431676042264,102.0,76.0,18.0,8.0,535
 699,"I had a really nice time tonight. Call me, Ishmael.",1.3333333333333333,0.06126431676042264,102.0,76.0,18.0,8.0,535
-699,We need to stop for gasoline and krill.,1.3333333333333333,0.05455976782448586,102.0,72.0,26.0,4.0,535
+699,We need to stop for gasoline and krill.,1.3333333333333333,0.054559767824485864,102.0,72.0,26.0,4.0,535
 699,I'm sure we can find a place that serves burgers and krill.,1.3333333333333333,0.05275065122154325,102.0,71.0,28.0,3.0,535
 699,"No, seriously, call me Ishmael.",1.3333333333333333,0.06282876386565553,102.0,77.0,16.0,9.0,535
 699,"Are they really going to believe he just ""ran away""?",1.3333333333333333,0.06126431676042264,102.0,76.0,18.0,8.0,535
@@ -1038,92 +1038,92 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 948,I know a sushi chef who might be interested.,1.3052631578947371,0.059999410617721724,95.0,72.0,17.0,6.0,535
 1038,I told you I had a big dick,1.3020833333333333,0.06475289004365635,96.0,76.0,11.0,9.0,535
 1038,"Then roll up your window! The point is, we won't have to go back to Costco for three weeks!",1.3020833333333333,0.06475289004365635,96.0,76.0,11.0,9.0,535
-1040,Now we can use the HOV lane.,1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,535
-1040,"Do you think we should just get a ""Save the Whales"" bumper sticker instead?",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,"The way he wiggled his tail at me... I just couldn't say ""no"".",1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,This IS how I save the whales.,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,"A ""whale of a good time"" isn't nearly as fun as it sounds.",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,He would have fit in the 5-series.,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,"If you ask one more time, 'How much longer to the ocean?' I'm turning this car around.",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,"This. This, Gwen, is why I wanted an SUV.",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,"C'mon, he was my best friend in college. I can't leave him out to dry!",1.297872340425532,0.052023319907901766,94.0,68.0,24.0,2.0,535
-1040,"No, YOU get him to fasten his seat belt.",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,Last whale I'm helping you save!,1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,Please---no more spouting off in the car.,1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,535
-1040,I just don't understand why we can't serve Chilean sea bass like everyone else.,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,It seems like we always end up with leftovers when we eat at Ahabs'.,1.297872340425532,0.0541775452899544,94.0,69.0,22.0,3.0,535
-1040,"So now we have an elephant in the room, AND a whale in the back seat.",1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,"Wake up honey, I just went through a big puddle.",1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,"I'll admit, when the salesman said it had a Humpback Seat, I had something completely different in mind.",1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,Climate change.,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,"The portions are good, but they never give you enough tartar sauce.",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,"Actually they're mammals, not fish.",1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,Does this mean I have to call YOU Ishmael?,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,"After this, I promise. No more hitchhikers.",1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,I can’t rescue every whale … but I made a difference to this one.,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,"C'mon, you saw the way she looked at me.",1.297872340425532,0.0541775452899544,94.0,69.0,22.0,3.0,535
-1040,"Oh, you said 'hatchback.'",1.297872340425532,0.06563451843409901,94.0,75.0,10.0,9.0,535
-1040,Please. Call me Ishmael.,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,But you said you wanted a car with fins.,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,How much Wasabi do you think we'll need?,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,He feeds on plankton. Your goldfish will be fine.,1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,The salesman assured me the car had no flood damage.,1.297872340425532,0.06563451843409901,94.0,75.0,10.0,9.0,535
-1040,The rental car guy gave me a great deal on the echolocation navigation package.,1.297872340425532,0.06563451843409901,94.0,75.0,10.0,9.0,535
-1040,Its too little throw it back. Its too big throw it back. Nothing ever pleases you does it.,1.297872340425532,0.06563451843409901,94.0,75.0,10.0,9.0,535
-1040,The humpback is much more eco-friendly than the hatchback.,1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,Do the kids ALWAYS have to get what they want?,1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,535
-1040,I'm not sure that he'll be better off at the lake than he was at Sea World.,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,Station wagon? I thought you said cetacean wagon!,1.297872340425532,0.06563451843409901,94.0,75.0,10.0,9.0,535
-1040,"I asked for a hatchback, not a Humpback",1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,What low-frequency noise?,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,I cant understand why this car keeps fishtailing?,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,and ...... it's full of omega 3,1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,535
-1040,I asked for a 'hatchback' but they heard 'humpback.',1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,Why is this guy tailing me?,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,The problem with having a truck is everyone calls you when they need help migrating.,1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,"Sorry, we stopped for krill an hour ago.",1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,How are we on krill?,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,"You just had to prove that you can ""speak whale.""",1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,I’ve had enough of his singing.,1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,"Well, it's too late to throw him back now!",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,It seems our 'Whale On Board' sticker has made zero difference.,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,Let's see if he likes the car wash better.,1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,535
-1040,we should have let this one get away,1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,535
-1040,Think of it as saving them one whale at a time.,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,"We usually don't pick up hitch hikers, but you don't seem like a killer.",1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,"I know, I know....and stop calling me Ishmael",1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,So is this a hybrid?,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,It's a carpool.,1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,535
-1040,What does woooowwooeeeeewonnmmmwwwaaarrmmmoooeeee mean?,1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,No! I was not talking about your mother. We literally have a whale riding us.,1.297872340425532,0.06386790595182304,94.0,74.0,12.0,8.0,535
-1040,"Okay, Okay..I didn't realize it said ""come have a whale FOR a time""",1.297872340425532,0.06386790595182304,94.0,74.0,12.0,8.0,535
-1040,What makes you think I don't know what I'm doing?,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,"Yes ,I have heard of catch and release, why.",1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,535
-1040,"He's tailgating us, I swear.",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,As if the 600 pound gorilla in our living room wasn't bad enough.,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,"Sorry for the odor, ma'am, but due to budget cuts Greenpeace will be using UberPool for whale relocations.",1.297872340425532,0.06386790595182304,94.0,74.0,12.0,8.0,535
-1040,"Oh, come on! We stopped for krill not more than 5 minutes ago.",1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,535
-1040,"Well, you brought home that stray kitten last week",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,Maybe we should have gotten a cat.,1.297872340425532,0.06386790595182304,94.0,74.0,12.0,8.0,535
-1040,This way we don't have to carpool with Larry.,1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,535
-1040,What did you think I meant by carpooling?,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,"... whale kabobs, whale creole, whale gumbo, pan-fried, deep-fried, pineapple whale ....",1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,"I swear, the ad said it was a hatch-back.",1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,We're not getting anywhere near the gas mileage the dealership promised.,1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,535
-1040,"I said on my profile that my memoir would read like ""On the Road"" meets ""Moby-Dick."" I feel like I was pretty clear.",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,Don't look at me like that. You said you wanted a 'rescue'!,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,"Well to be fair, you did bring back a lot of seashells.",1.297872340425532,0.0541775452899544,94.0,69.0,22.0,3.0,535
-1040,Next time let's just go trout fishing.,1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,"Before we address the elephant in the room, there's something more pressing I've been meaning to talk to you about.",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,It's our first date. We should be talking more about YOUR interests.,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,"You know, I still think you should have just gotten a t-shirt.",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,It's my new echolocation system. My GPS is on the fritz.,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
-1040,"You left plankton in the trunk again, didn't you.?!",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,"Well, now's a hell of a time to find out you're allergic.",1.297872340425532,0.06386790595182304,94.0,74.0,12.0,8.0,535
-1040,"Look, it's Uber. And no, I don't have to explain.",1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,535
-1040,"Well, which is it--are we not picking up hitchhikers, or are we saving the whales?",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,535
-1040,"After this one I promise, I'll go vegan",1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,535
-1040,We should only buy fish at Costco if we are having company.,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,Now we can use the HOV lane.,1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,535
+1040,"Do you think we should just get a ""Save the Whales"" bumper sticker instead?",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,"The way he wiggled his tail at me... I just couldn't say ""no"".",1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,This IS how I save the whales.,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,"A ""whale of a good time"" isn't nearly as fun as it sounds.",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,He would have fit in the 5-series.,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,"If you ask one more time, 'How much longer to the ocean?' I'm turning this car around.",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,"This. This, Gwen, is why I wanted an SUV.",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,"C'mon, he was my best friend in college. I can't leave him out to dry!",1.2978723404255321,0.052023319907901766,94.0,68.0,24.0,2.0,535
+1040,"No, YOU get him to fasten his seat belt.",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,Last whale I'm helping you save!,1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,Please---no more spouting off in the car.,1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,535
+1040,I just don't understand why we can't serve Chilean sea bass like everyone else.,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,It seems like we always end up with leftovers when we eat at Ahabs'.,1.2978723404255321,0.0541775452899544,94.0,69.0,22.0,3.0,535
+1040,"So now we have an elephant in the room, AND a whale in the back seat.",1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,"Wake up honey, I just went through a big puddle.",1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,"I'll admit, when the salesman said it had a Humpback Seat, I had something completely different in mind.",1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,Climate change.,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,"The portions are good, but they never give you enough tartar sauce.",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,"Actually they're mammals, not fish.",1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,Does this mean I have to call YOU Ishmael?,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,"After this, I promise. No more hitchhikers.",1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,I can’t rescue every whale … but I made a difference to this one.,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,"C'mon, you saw the way she looked at me.",1.2978723404255321,0.0541775452899544,94.0,69.0,22.0,3.0,535
+1040,"Oh, you said 'hatchback.'",1.2978723404255321,0.06563451843409901,94.0,75.0,10.0,9.0,535
+1040,Please. Call me Ishmael.,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,But you said you wanted a car with fins.,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,How much Wasabi do you think we'll need?,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,He feeds on plankton. Your goldfish will be fine.,1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,The salesman assured me the car had no flood damage.,1.2978723404255321,0.06563451843409901,94.0,75.0,10.0,9.0,535
+1040,The rental car guy gave me a great deal on the echolocation navigation package.,1.2978723404255321,0.06563451843409901,94.0,75.0,10.0,9.0,535
+1040,Its too little throw it back. Its too big throw it back. Nothing ever pleases you does it.,1.2978723404255321,0.06563451843409901,94.0,75.0,10.0,9.0,535
+1040,The humpback is much more eco-friendly than the hatchback.,1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,Do the kids ALWAYS have to get what they want?,1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,535
+1040,I'm not sure that he'll be better off at the lake than he was at Sea World.,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,Station wagon? I thought you said cetacean wagon!,1.2978723404255321,0.06563451843409901,94.0,75.0,10.0,9.0,535
+1040,"I asked for a hatchback, not a Humpback",1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,What low-frequency noise?,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,I cant understand why this car keeps fishtailing?,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,and ...... it's full of omega 3,1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,535
+1040,I asked for a 'hatchback' but they heard 'humpback.',1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,Why is this guy tailing me?,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,The problem with having a truck is everyone calls you when they need help migrating.,1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,"Sorry, we stopped for krill an hour ago.",1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,How are we on krill?,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,"You just had to prove that you can ""speak whale.""",1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,I’ve had enough of his singing.,1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,"Well, it's too late to throw him back now!",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,It seems our 'Whale On Board' sticker has made zero difference.,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,Let's see if he likes the car wash better.,1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,535
+1040,we should have let this one get away,1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,535
+1040,Think of it as saving them one whale at a time.,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,"We usually don't pick up hitch hikers, but you don't seem like a killer.",1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,"I know, I know....and stop calling me Ishmael",1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,So is this a hybrid?,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,It's a carpool.,1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,535
+1040,What does woooowwooeeeeewonnmmmwwwaaarrmmmoooeeee mean?,1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,No! I was not talking about your mother. We literally have a whale riding us.,1.2978723404255321,0.06386790595182304,94.0,74.0,12.0,8.0,535
+1040,"Okay, Okay..I didn't realize it said ""come have a whale FOR a time""",1.2978723404255321,0.06386790595182304,94.0,74.0,12.0,8.0,535
+1040,What makes you think I don't know what I'm doing?,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,"Yes ,I have heard of catch and release, why.",1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,535
+1040,"He's tailgating us, I swear.",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,As if the 600 pound gorilla in our living room wasn't bad enough.,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,"Sorry for the odor, ma'am, but due to budget cuts Greenpeace will be using UberPool for whale relocations.",1.2978723404255321,0.06386790595182304,94.0,74.0,12.0,8.0,535
+1040,"Oh, come on! We stopped for krill not more than 5 minutes ago.",1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,535
+1040,"Well, you brought home that stray kitten last week",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,Maybe we should have gotten a cat.,1.2978723404255321,0.06386790595182304,94.0,74.0,12.0,8.0,535
+1040,This way we don't have to carpool with Larry.,1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,535
+1040,What did you think I meant by carpooling?,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,"... whale kabobs, whale creole, whale gumbo, pan-fried, deep-fried, pineapple whale ....",1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,"I swear, the ad said it was a hatch-back.",1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,We're not getting anywhere near the gas mileage the dealership promised.,1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,535
+1040,"I said on my profile that my memoir would read like ""On the Road"" meets ""Moby-Dick."" I feel like I was pretty clear.",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,Don't look at me like that. You said you wanted a 'rescue'!,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,"Well to be fair, you did bring back a lot of seashells.",1.2978723404255321,0.0541775452899544,94.0,69.0,22.0,3.0,535
+1040,Next time let's just go trout fishing.,1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,"Before we address the elephant in the room, there's something more pressing I've been meaning to talk to you about.",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,It's our first date. We should be talking more about YOUR interests.,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,"You know, I still think you should have just gotten a t-shirt.",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,It's my new echolocation system. My GPS is on the fritz.,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
+1040,"You left plankton in the trunk again, didn't you.?!",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,"Well, now's a hell of a time to find out you're allergic.",1.2978723404255321,0.06386790595182304,94.0,74.0,12.0,8.0,535
+1040,"Look, it's Uber. And no, I don't have to explain.",1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,535
+1040,"Well, which is it--are we not picking up hitchhikers, or are we saving the whales?",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,535
+1040,"After this one I promise, I'll go vegan",1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,535
+1040,We should only buy fish at Costco if we are having company.,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,535
 1126,"No, honey, I called the whale BEHIND us a blubber-ass!",1.2947368421052632,0.061474389846998614,95.0,74.0,14.0,7.0,535
 1126,"Honey, just learn to live with it. You know, like I do with your Mother.",1.2947368421052632,0.06326977772044287,95.0,75.0,12.0,8.0,535
 1126,Is this not what you meant when you said you wanted to hump back at my place?,1.2947368421052632,0.061474389846998614,95.0,74.0,14.0,7.0,535
@@ -1592,11 +1592,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1589,"So, I'll concede the station wagon would have had some advantages over the sedan...",1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,I told you picking up Jonah was a bad idea.,1.255813953488372,0.06006391149595306,86.0,69.0,12.0,5.0,535
 1589,"Look, you're not the only one in this car who's blue.",1.255813953488372,0.06006391149595306,86.0,69.0,12.0,5.0,535
-1589,Do you think they have plankton at Taco Bell?,1.255813953488372,0.052790908597419986,86.0,66.0,18.0,2.0,535
+1589,Do you think they have plankton at Taco Bell?,1.255813953488372,0.05279090859741999,86.0,66.0,18.0,2.0,535
 1589,"I didn't know you meant ""searching for your white whale"" quite so literally...",1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,I'm thinking pan grilled with lemon and red pepper.,1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,"So, what else is allowed on this Paleo diet?",1.255813953488372,0.05532158567646685,86.0,67.0,16.0,3.0,535
-1589,"Other than that, how did you enjoy the beach?",1.255813953488372,0.052790908597419986,86.0,66.0,18.0,2.0,535
+1589,"Other than that, how did you enjoy the beach?",1.255813953488372,0.05279090859741999,86.0,66.0,18.0,2.0,535
 1589,Must you sing that same song the whole way?,1.255813953488372,0.06006391149595306,86.0,69.0,12.0,5.0,535
 1589,You're the one who said he'd grow on us.,1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,Can we talk about the 100 ton Cetacean in the room...?,1.255813953488372,0.062299849722219976,86.0,70.0,10.0,6.0,535
@@ -1606,20 +1606,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1589,"If you didn't want an Uber Pool, you shouldn't have selected it.",1.255813953488372,0.05532158567646685,86.0,67.0,16.0,3.0,535
 1589,"Next time they say ""You'll have a whale of time,"" let's pass.",1.255813953488372,0.062299849722219976,86.0,70.0,10.0,6.0,535
 1589,This certainly tops anything else we've done in the back seat.,1.255813953488372,0.05532158567646685,86.0,67.0,16.0,3.0,535
-1589,"Next time you might consider Uber XXL, pal.",1.255813953488372,0.052790908597419986,86.0,66.0,18.0,2.0,535
+1589,"Next time you might consider Uber XXL, pal.",1.255813953488372,0.05279090859741999,86.0,66.0,18.0,2.0,535
 1589,"I mean, everyone collects seashells at the beach...that's the obvious choice.",1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,"Did you feel that, I think we just fish-tailed!",1.255813953488372,0.06006391149595306,86.0,69.0,12.0,5.0,535
 1589,Why can't you just be glad that I picked up the right whale and not the killer whale?,1.255813953488372,0.05013264624297865,86.0,65.0,20.0,1.0,535
 1589,It's the Herman Melville Limited Edition.,1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,So you think we should have picked the other one?,1.255813953488372,0.06006391149595306,86.0,69.0,12.0,5.0,535
-1589,"Relax, it's only until Sea World finds her a forever home.",1.255813953488372,0.052790908597419986,86.0,66.0,18.0,2.0,535
+1589,"Relax, it's only until Sea World finds her a forever home.",1.255813953488372,0.05279090859741999,86.0,66.0,18.0,2.0,535
 1589,"So there I was on this desert island, standing next to a palm tree...",1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,I know a good bar and krill.,1.255813953488372,0.06006391149595306,86.0,69.0,12.0,5.0,535
 1589,He was hitchhiking near SeaWorld.,1.255813953488372,0.06006391149595306,86.0,69.0,12.0,5.0,535
 1589,Why don't we just acknowledge 200 ton whale in the car?,1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,I think one of the taillights is out.,1.255813953488372,0.05532158567646685,86.0,67.0,16.0,3.0,535
 1589,Now will you believe my fish story?,1.255813953488372,0.06006391149595306,86.0,69.0,12.0,5.0,535
-1589,"Yes, but there are a lot fewer stops than with the old carpool.",1.255813953488372,0.052790908597419986,86.0,66.0,18.0,2.0,535
+1589,"Yes, but there are a lot fewer stops than with the old carpool.",1.255813953488372,0.05279090859741999,86.0,66.0,18.0,2.0,535
 1589,"He keeps saying, ""This is all so Kafkaesque.""",1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,He was stranded on the beach. So we pick him up and take him to the nearest marine park. They'll fix him up and release him back into the wild. What's the worst that can happen? It's not like he's some bison from Yellowstone.,1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,"Honey, wake up. You'll never guess what's trying to pass us!",1.255813953488372,0.062299849722219976,86.0,70.0,10.0,6.0,535
@@ -1628,7 +1628,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1589,"Car dealers. 'Seats five comfortably,' my ass.",1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,It's a hybrid.,1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,It really does improve the handling,1.255813953488372,0.06006391149595306,86.0,69.0,12.0,5.0,535
-1589,"I agree, dear. This would never have worked with Uber.",1.255813953488372,0.052790908597419986,86.0,66.0,18.0,2.0,535
+1589,"I agree, dear. This would never have worked with Uber.",1.255813953488372,0.05279090859741999,86.0,66.0,18.0,2.0,535
 1589,Did you feel a hump?,1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,Did it even occur to you that maybe it isn't my sperm motility that's the problem?,1.255813953488372,0.06006391149595306,86.0,69.0,12.0,5.0,535
 1589,That's the last time I take my kleptomaniac girlfriend to SeaWorld.,1.255813953488372,0.062299849722219976,86.0,70.0,10.0,6.0,535
@@ -1638,7 +1638,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1589,Should we discuss the gigantic whale in the car?,1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,Did you bring some water?,1.255813953488372,0.05532158567646685,86.0,67.0,16.0,3.0,535
 1589,You should see the one I threw back!,1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
-1589,Just think of the traction when it snows!,1.255813953488372,0.052790908597419986,86.0,66.0,18.0,2.0,535
+1589,Just think of the traction when it snows!,1.255813953488372,0.05279090859741999,86.0,66.0,18.0,2.0,535
 1589,I prefer the old horn sound.,1.255813953488372,0.05013264624297865,86.0,65.0,20.0,1.0,535
 1589,I know this ride blows.,1.255813953488372,0.062299849722219976,86.0,70.0,10.0,6.0,535
 1589,We need to talk about the elephant in the room.,1.255813953488372,0.06006391149595306,86.0,69.0,12.0,5.0,535
@@ -1669,7 +1669,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1589,"You were right, we have a tail.",1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,You used to love sushi.,1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,535
 1589,You wanted a compact.,1.255813953488372,0.062299849722219976,86.0,70.0,10.0,6.0,535
-1589,"I'm not taking this too far, and I promise this is the last thing I buy for the aquarium.",1.255813953488372,0.052790908597419986,86.0,66.0,18.0,2.0,535
+1589,"I'm not taking this too far, and I promise this is the last thing I buy for the aquarium.",1.255813953488372,0.05279090859741999,86.0,66.0,18.0,2.0,535
 1589,Do I tell you how to swim?,1.255813953488372,0.06006391149595306,86.0,69.0,12.0,5.0,535
 1589,"You never know with these rescues, but the guy promised he wouldn't get any bigger.",1.255813953488372,0.062299849722219976,86.0,70.0,10.0,6.0,535
 1589,"So, whose sperm count is low?",1.255813953488372,0.062299849722219976,86.0,70.0,10.0,6.0,535
@@ -1711,12 +1711,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1687,But we agreed that this was the only way to save Jonah,1.2528735632183907,0.05714959431707437,87.0,69.0,14.0,4.0,535
 1687,"When he stuck out his fluke, I couldn't resist picking him up.",1.2528735632183907,0.05714959431707437,87.0,69.0,14.0,4.0,535
 1687,"Sperm whale donor, Honey. We know he's a good swimmer!",1.2528735632183907,0.05714959431707437,87.0,69.0,14.0,4.0,535
-1713,"""I told you when we met that I was super serious about saving them.",1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,"""I told you when we met that I was super serious about saving them.",1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,We did what you wanted to do last weekend.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,Do we have to take your mother with us everywhere?,1.25,0.06308887810420713,84.0,69.0,9.0,6.0,535
 1713,At the time teaching him how to live outside his tank and giving him room to grow seemed like a good idea.,1.25,0.05322367527583983,84.0,65.0,17.0,2.0,535
 1713,"I know you don't understand, but we were stranded on an island together a couple of weeks ago, so we're like brothers now.",1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
-1713,Looks like I get to buy that big new grill!,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,Looks like I get to buy that big new grill!,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,Call me Lyftmael.,1.25,0.06308887810420713,84.0,69.0,9.0,6.0,535
 1713,We're the first on our block to own a humpback hatchback.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,"Because I like the smell of the ocean, okay?",1.25,0.05322367527583983,84.0,65.0,17.0,2.0,535
@@ -1725,10 +1725,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1713,I read that echolocation is the new GPS.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,What's that smell?,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,He says he lost his pilot fish.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
-1713,And at home its 'the elephant in the room' you won't discuss!,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,And at home its 'the elephant in the room' you won't discuss!,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,Uber doesn't play favorites.,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,What? You said I could get one thing from the gift shop.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
-1713,"They aren't the tailfins I had in mind, but I like them.",1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,"They aren't the tailfins I had in mind, but I like them.",1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,"""I think he wants us to pull over"".",1.25,0.05322367527583983,84.0,65.0,17.0,2.0,535
 1713,"Now, that was a true all-you-can-eat seafood buffet.",1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,You wouldn't let me have a dog.,1.25,0.06532280056069527,84.0,70.0,7.0,7.0,535
@@ -1739,10 +1739,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1713,"When I was talking about bringing a whale home, I was talking about your mother.",1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,Yes I'm sure there will be leftovers.,1.25,0.05045689127585228,84.0,64.0,19.0,1.0,535
 1713,It will make a change from tilapia.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
-1713,I feel like our relationship has alot of dead weight,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,I feel like our relationship has alot of dead weight,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,Next time let's use a different car-pool app.,1.25,0.05322367527583983,84.0,65.0,17.0,2.0,535
 1713,Read the fine print before clicking Submit.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
-1713,"No, I said this car was echo friendly.",1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,"No, I said this car was echo friendly.",1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,Look on the bright side: we can use the HOV lane the whole way home.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,"Well, you could stand to lose a few pounds yourself!",1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,So where the hell am I supposed to get 100 kilos of plankton?,1.25,0.06308887810420713,84.0,69.0,9.0,6.0,535
@@ -1751,12 +1751,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1713,Just drop me off at 19.896` N and 155.582`W.,1.25,0.06101287186254521,88.0,72.0,10.0,6.0,535
 1713,Can we tone down the nonverbal communication?,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,I can't wait until he's old enough to drive himself.,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
-1713,Whales must be really easy for cartoonists to draw.,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,Whales must be really easy for cartoonists to draw.,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,We should have rented at least a mid-size.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
-1713,Is this what you meant by whale watching?,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,Is this what you meant by whale watching?,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,Maybe we should rethink sushi night.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,"If you say ""whale of a tale"" one more time........",1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
-1713,For sushi takeout you can't beat the serving size.,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,For sushi takeout you can't beat the serving size.,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,"If you ask me, a whale in the back seat is a heck of a lot worse than an elephant in the room.",1.25,0.05322367527583983,84.0,65.0,17.0,2.0,535
 1713,We can't go--she hasn't fastened her seat belt yet.,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,"Honey, see if there's any of that krill left in the glove box.",1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
@@ -1766,16 +1766,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1713,""" Well , at least we know my sperm count isn't the issue "" .",1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,"When they offered a whale of a deal in a used car, this isn't what I expected.",1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,Where am I going to get 5 million pounds of plankton?,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
-1713,Perhaps we should re-consider our position on hitch hikers,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
-1713,YOU tell him he has krill breath!,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,Perhaps we should re-consider our position on hitch hikers,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
+1713,YOU tell him he has krill breath!,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,And you said we'd have a whale of a time...,1.25,0.06308887810420713,84.0,69.0,9.0,6.0,535
 1713,"His singing soothes me in traffic, OK?",1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,"You're right, I think we do need a new air freshener.",1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,I am not avoiding the elephant in the room.,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
-1713,Another Tailgater.,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,Another Tailgater.,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,"No, honestly, it followed me to the car.",1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,I never thought we'd be watching him for this long.,1.25,0.06308887810420713,84.0,69.0,9.0,6.0,535
-1713,I can't wait to see that show off try to filet this.,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,I can't wait to see that show off try to filet this.,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,Any objections to having it mounted?,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,You kids quit crying back there!,1.25,0.06308887810420713,84.0,69.0,9.0,6.0,535
 1713,You tell him it's time he found his own way to the coast off Baja,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
@@ -1788,10 +1788,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1713,Do you think he'll miss the ocean as much as we do?,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,Do you get the feeling that they might have put a tail on us?,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,I thought you brought the krill.,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
-1713,Let's just keep driving. Maybe we will find some roadkrill.,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
-1713,This car won't stop fish tailing,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,Let's just keep driving. Maybe we will find some roadkrill.,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
+1713,This car won't stop fish tailing,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,I told you we should have gotten the cetacean wagon.,1.25,0.06748281266913253,84.0,71.0,5.0,8.0,535
-1713,He wants krill? We could stop at Whole Foods.,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,He wants krill? We could stop at Whole Foods.,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,"You really can't beat the warehouse store prices, even if you're getting a little more than you need.",1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,"I know honey, but the doc said I had to do things to increase my sperm count!",1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,"Next time we get pulled over, let me do the talking, ok?",1.25,0.06308887810420713,84.0,69.0,9.0,6.0,535
@@ -1801,11 +1801,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1713,I told you I was dedicated to Greenpeace when we met.,1.25,0.05045689127585228,84.0,64.0,19.0,1.0,535
 1713,I assumed it was ok since your profile said you like pets.,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,I still say your Uncle Ahab would have liked a gift card better.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
-1713,I thought you said we need to eat less meat?,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,I thought you said we need to eat less meat?,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,"If there's one thing I can't stand, it's whalegating",1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,It is not unprecedented. Someone took a young bison from a national park just last summer.,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,Your turn to clean the catch.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
-1713,Your sure the whale sounds CD isn't enough to get you to sleep?,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,Your sure the whale sounds CD isn't enough to get you to sleep?,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,Is that Greenpeace following us?,1.25,0.05322367527583983,84.0,65.0,17.0,2.0,535
 1713,I think Whole Foods probably knows what it's doing.,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,I think it's time we talked about the blue whale in the car.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
@@ -1813,7 +1813,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1713,What a back sea driver.,1.25,0.06532280056069527,84.0,70.0,7.0,7.0,535
 1713,Something's fishy around here.,1.25,0.05421135926495693,88.0,69.0,16.0,3.0,535
 1713,"On the phone, you said you didn't mind sharing your Uber ride.",1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
-1713,"Ever since I put on that bumper sticker that says 'Honk if You Love Krill', this has been happening.",1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,"Ever since I put on that bumper sticker that says 'Honk if You Love Krill', this has been happening.",1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,I thought I was buying a hatchback.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,He's not quite as majestic above water.,1.25,0.06308887810420713,84.0,69.0,9.0,6.0,535
 1713,We can't just give our son a goldfish. His fifth birthday is too important.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
@@ -1821,11 +1821,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1713,"I know you're skeptical, but trust me. The kids are going to love it.",1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,"You distinctly said, ""Show me a whale of a good time.""",1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,"No, we're not at the beach yet!",1.25,0.06308887810420713,84.0,69.0,9.0,6.0,535
-1713,I spy with my little eye....,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,I spy with my little eye....,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,Does your radio get any lower frequencies?,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,"How far ya migratin', stranger?",1.25,0.05585357054399395,84.0,66.0,15.0,3.0,535
 1713,"I promise, it's just for one night.",1.25,0.05322367527583983,84.0,65.0,17.0,2.0,535
-1713,This should be enough blubber to last us through the Trump administration.,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,535
+1713,This should be enough blubber to last us through the Trump administration.,1.25,0.060772895338322,84.0,68.0,11.0,5.0,535
 1713,What are we going to say we used for bait?,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,I am giving him a lift just to school,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,535
 1713,"Now I just need to stop by the store for 10,000 pounds of krill.",1.25,0.06308887810420713,84.0,69.0,9.0,6.0,535
@@ -1992,16 +1992,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1857,"Honey, he's got a point. All the other eight year olds get to sit in the front.",1.2409638554216869,0.05578589650734455,83.0,66.0,14.0,3.0,535
 1857,I just need to stop for some more krill.,1.2409638554216869,0.05578589650734455,83.0,66.0,14.0,3.0,535
 1857,"Remember, you said I got to pick out our next pet.",1.2409638554216869,0.05308679580515109,83.0,65.0,16.0,2.0,535
-1994,How long are we going to save this whale?,1.2380952380952381,0.0577326608747873,84.0,68.0,12.0,4.0,535
-1994,I bet he'll taste just like chicken,1.2380952380952381,0.055192376276423635,84.0,67.0,14.0,3.0,535
-1994,The doubters will have to believe us this time!,1.2380952380952381,0.05252938859717925,84.0,66.0,16.0,2.0,535
-1994,He's hitchhiking to the Pacific.,1.2380952380952381,0.0577326608747873,84.0,68.0,12.0,4.0,535
-1994,The rules were clear! What happens at Sea World stays at Sea World.,1.2380952380952381,0.0577326608747873,84.0,68.0,12.0,4.0,535
-1994,They really overdid it with the party favors.,1.2380952380952381,0.055192376276423635,84.0,67.0,14.0,3.0,535
-1994,We'll address the elephant in the room and explain he's no longer the largest land mammal.,1.2380952380952381,0.055192376276423635,84.0,67.0,14.0,3.0,535
-1994,There's a whale in this car that I think we really need to talk about!,1.2380952380952381,0.05252938859717925,84.0,66.0,16.0,2.0,535
-1994,"On the bright side, we'll never need another oil change.",1.2380952380952381,0.05252938859717925,84.0,66.0,16.0,2.0,535
-1994,"So maybe it's not the great white whale, but it's still pretty great if you ask me.",1.2380952380952381,0.05252938859717925,84.0,66.0,16.0,2.0,535
+1994,How long are we going to save this whale?,1.238095238095238,0.0577326608747873,84.0,68.0,12.0,4.0,535
+1994,I bet he'll taste just like chicken,1.238095238095238,0.055192376276423635,84.0,67.0,14.0,3.0,535
+1994,The doubters will have to believe us this time!,1.238095238095238,0.05252938859717925,84.0,66.0,16.0,2.0,535
+1994,He's hitchhiking to the Pacific.,1.238095238095238,0.0577326608747873,84.0,68.0,12.0,4.0,535
+1994,The rules were clear! What happens at Sea World stays at Sea World.,1.238095238095238,0.0577326608747873,84.0,68.0,12.0,4.0,535
+1994,They really overdid it with the party favors.,1.238095238095238,0.055192376276423635,84.0,67.0,14.0,3.0,535
+1994,We'll address the elephant in the room and explain he's no longer the largest land mammal.,1.238095238095238,0.055192376276423635,84.0,67.0,14.0,3.0,535
+1994,There's a whale in this car that I think we really need to talk about!,1.238095238095238,0.05252938859717925,84.0,66.0,16.0,2.0,535
+1994,"On the bright side, we'll never need another oil change.",1.238095238095238,0.05252938859717925,84.0,66.0,16.0,2.0,535
+1994,"So maybe it's not the great white whale, but it's still pretty great if you ask me.",1.238095238095238,0.05252938859717925,84.0,66.0,16.0,2.0,535
 2004,You were the one who wanted a hybrid!,1.2352941176470589,0.05461107413662157,85.0,68.0,14.0,3.0,535
 2005,I know I told you that there's plenty of fish in the sea but whales are actually mammals.,1.2317073170731707,0.055687595089524436,82.0,66.0,13.0,3.0,535
 2005,"Yeah, but the trip wouldn't be as fun without Jonah.",1.2317073170731707,0.05832857249330864,82.0,67.0,11.0,4.0,535
@@ -2647,7 +2647,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2634,I still don't see how this improves our carbon footprint.,1.205128205128205,0.05873280098105636,78.0,66.0,8.0,4.0,535
 2634,We can convert the den.,1.205128205128205,0.052759276388894,78.0,64.0,12.0,2.0,535
 2634,"Whale, are we there yet?",1.205128205128205,0.05873280098105636,78.0,66.0,8.0,4.0,535
-2649,"Say what you will, I think it was a helluva catch.",1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,535
+2649,"Say what you will, I think it was a helluva catch.",1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,535
 2649,Good thing he's not a puffer fish.,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,535
 2651,Do we have enough Krill in the house?,1.1973684210526316,0.0530466092376872,76.0,63.0,11.0,2.0,535
 2651,"This is not what I expected when I gave to the ""adopt-a-whale"" program!",1.1973684210526316,0.04962928126251099,76.0,62.0,13.0,1.0,535
@@ -4885,7 +4885,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4855,"I hear you, but Jill Stein still has no chance.",1.1076923076923078,0.038748926306942086,65.0,58.0,7.0,0.0,535
 4855,"Not this time, Alice! I am taking my ""tall fish tale"" with me this time!",1.1076923076923078,0.04962879961755362,65.0,60.0,3.0,2.0,535
 4886,You know you missed your exit again............,1.106060606060606,0.03819217678704997,66.0,59.0,7.0,0.0,535
-4887,That's a whale of a story you got there.,1.1044776119402986,0.04324223293582181,67.0,61.0,5.0,1.0,535
+4887,That's a whale of a story you got there.,1.1044776119402986,0.043242232935821814,67.0,61.0,5.0,1.0,535
 4888,There's a whale in the car....but I'm not going to panic.,1.0967741935483872,0.03785410929280441,62.0,56.0,6.0,0.0,535
 4888,You're really reeling in Moby Dick with this one!,1.0967741935483872,0.03785410929280441,62.0,56.0,6.0,0.0,535
 4888,"""Dan, I think it's time you stop telling everyone your hybrid is 'great for the environment'"".",1.0967741935483872,0.03785410929280441,62.0,56.0,6.0,0.0,535
@@ -5416,13 +5416,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5414,"Listen, Shanahan—it could be worse. I could've landed on top of you on your tiny desert island again.",1.0806451612903225,0.04176428464117017,62.0,58.0,3.0,1.0,535
 5414,"So Jonah, what do you think of the 2017 model?",1.0806451612903225,0.034863085661141296,62.0,57.0,5.0,0.0,535
 5414,So...where ya going?,1.0806451612903225,0.04176428464117017,62.0,58.0,3.0,1.0,535
-5414,"Remember, we drove over the wedding cake last year.",1.0806451612903225,0.047676788916214664,62.0,59.0,1.0,2.0,535
+5414,"Remember, we drove over the wedding cake last year.",1.0806451612903225,0.04767678891621466,62.0,59.0,1.0,2.0,535
 5414,We'll have a whale of a time on this road trip!,1.0806451612903225,0.034863085661141296,62.0,57.0,5.0,0.0,535
 5414,I thought you said there was plenty of leg room,1.0806451612903225,0.034863085661141296,62.0,57.0,5.0,0.0,535
 5414,'Ahab' isn't a funny name.,1.0806451612903225,0.04176428464117017,62.0,58.0,3.0,1.0,535
 5414,I'd like it sauteed whole in a little butter.,1.0806451612903225,0.034863085661141296,62.0,57.0,5.0,0.0,535
 5414,Head or tail?,1.0806451612903225,0.034863085661141296,62.0,57.0,5.0,0.0,535
-5414,I'm sorry your mother died but you knew we have a small car and you could have told me that she was a hump back whale.,1.0806451612903225,0.047676788916214664,62.0,59.0,1.0,2.0,535
+5414,I'm sorry your mother died but you knew we have a small car and you could have told me that she was a hump back whale.,1.0806451612903225,0.04767678891621466,62.0,59.0,1.0,2.0,535
 5414,He's trying to evolve faster than I expected.,1.0806451612903225,0.034863085661141296,62.0,57.0,5.0,0.0,535
 5414,It's a tail of a whale.,1.0806451612903225,0.034863085661141296,62.0,57.0,5.0,0.0,535
 5414,Even whales do it...,1.0806451612903225,0.04176428464117017,62.0,58.0,3.0,1.0,535
@@ -5436,7 +5436,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5414,Well they did promise it would be a whale of a deal...,1.0806451612903225,0.034863085661141296,62.0,57.0,5.0,0.0,535
 5414,"Not again, surf and turf for dinner",1.0806451612903225,0.04176428464117017,62.0,58.0,3.0,1.0,535
 5414,"You'll have a whale of a time, they said.",1.0806451612903225,0.04176428464117017,62.0,58.0,3.0,1.0,535
-5414,I think this heist has gone too far.,1.0806451612903225,0.047676788916214664,62.0,59.0,1.0,2.0,535
+5414,I think this heist has gone too far.,1.0806451612903225,0.04767678891621466,62.0,59.0,1.0,2.0,535
 5414,"Krill, lots and lots of krill.",1.0806451612903225,0.034863085661141296,62.0,57.0,5.0,0.0,535
 5414,There's a food locker in Hensonville—just one hour away.,1.0806451612903225,0.034863085661141296,62.0,57.0,5.0,0.0,535
 5414,Another (italicized) water break?,1.0806451612903225,0.04176428464117017,62.0,58.0,3.0,1.0,535

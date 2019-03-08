@@ -36,7 +36,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 35,"First of all, do you have insurance?",1.5912408759124088,0.06433157363214698,137.0,78.0,37.0,22.0,536
 36,"Well, I can validate your feelings, but not your parking.",1.5895522388059702,0.06633612170012251,134.0,78.0,33.0,23.0,536
 37,You can break down if you need to.,1.5851851851851853,0.06342463976455166,135.0,76.0,39.0,20.0,536
-38,I'm afraid we're out of time. Is someone coming to pick you up?,1.5820895522388059,0.06293829147327541,134.0,75.0,40.0,19.0,536
+38,I'm afraid we're out of time. Is someone coming to pick you up?,1.582089552238806,0.06293829147327541,134.0,75.0,40.0,19.0,536
 39,"Well, problems may appear larger in your rearview.",1.5801526717557253,0.06314724608866794,131.0,73.0,40.0,18.0,536
 39,You bet I'm going to charge you.,1.5801526717557253,0.06763707377662262,131.0,78.0,30.0,23.0,536
 41,How much baggage could you possibly have?,1.5769230769230769,0.06448306865957043,130.0,74.0,37.0,19.0,536
@@ -2295,257 +2295,257 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2292,"Perhaps you just misinterpreted the ""your full of gas"" comment.",1.2424242424242424,0.07180849324358678,66.0,55.0,6.0,5.0,536
 2292,My parents hoped I'd be a truck.,1.2424242424242424,0.06130137276858365,66.0,52.0,12.0,2.0,536
 2292,It is lonely to be a self-driving car,1.2424242424242424,0.0649927593622037,66.0,53.0,10.0,3.0,536
-2297,You need to improve your self-control.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,When did you first know you were cabriolet?,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Take two gallons of high-test and call me in the morning.,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,536
-2297,How did it feel to try the drive-thru?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,How do you feel when they tell you size matters?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,What makes you think Apple is your daddy?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"I took your suggestion and Googled you . . . God, where do we start?",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"We have talked about the Ego and Id so far. Now, the Uber?",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,At what point did your mother being gasoline and your father electric become a problem for you?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,When did you start to drive yourself so hard?,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,When did you first begin feeling guilty over your father's carbon footprint?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"Frankly, you need to open up a bit more. Perhaps try cracking your window a bit.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,I thought you'd prefer autosuggestions.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,Can you please tell me more about your desire to be so self driven?,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"That was merely a suggestion, not backseat driving.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"No, I 'm not saying you have a loose screw.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"So, what's buggin' you?",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"I'm not sure putting a banana in your tailpipe falls under ""inappropriate touching.""",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"So, tell me more about the time someone puked in your back seat.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"Well, the informal name is Little Car Syndrome.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,"People may say you are 'self-driven', have you considered the other people who got you here?",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Everyone says I am not old enough to drive.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"But, back to your recurring nightmare...it was your first time driverless; the Dodge Ram pulled up behind you, and...?",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,So do you identify more with fossil fuels or electricity?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"Sure doc I have had some tough brakes. I've been rear-ended and I've have had spare tires, after all I'm a Car-dashian.",1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,536
-2297,"Right now, I feel like I'm going nowhere.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"With greater autonomy comes the need to avoid feelings of loneliness . . . and pedestrians, of course.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,It doesn't mean that you can just go without letting people know.,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,536
-2297,"I know it might be difficult, but can you go back for just a moment?",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"""Who called you ""low energy"".",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,How do you feel about your father being a four door?,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,536
-2297,You need to stop blaming yourself for the emissions cheating scandal.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"Doc, I've been driving myself crazy.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,I keep telling them I don't lack the drive.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,Why am I bullied when I am a Smart Car?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,So you just feel like your being used?,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,I miss my human driver.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,Why don't you tell me about your feelings of emptiness.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"Yes, well, sometimes 'Smart' cars are the most tortured.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,"So you feel the use of the term ""smart car"" is ironic rather than laudatory. Say more.""",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,And how long would you say you’ve suffered from this “range anxiety”?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"PTSD? Okay, when did you run over the squirrel.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,You said your mother was a toaster. What feelings has that generated?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,Please tell me why you want to grow up to be a Mercedes Benz?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"We call it a ""Napoleon Complex"" . . .",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,How much am I getting charged for this?,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,When did you start feeling autonomous was wrong for you?,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,I wouldn't worry too much ... the smart ones always get bullied.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,People are literally driving me crazy!,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,And how does it make you feel when people laugh at your parallel parking?,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"Sure buddy, whatever you want to talk about - but the meter's running.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,When did this fantasy to kill a taxi and marry your rhumba begin?,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,536
-2297,I understand completely - Monster Truck envy is far more common that you know.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,"So, how long have you had this obsession that you were in control?",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"It must be hard, always having to rely on yourself.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"Well, apparently size does matter.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"You're afraid that without a carbon footprint, how will anyone know you're there?",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,When did you first experience the feeling that you were a Lamborghini?,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,And this feeling of being small and insignificant amongst your peers. When did it start?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"When did you first notice this tired, less-driven feeling?",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,And when did you start thinking you had a Google Complex?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,I just... I feel like I dont have control over my life.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"And so when we go out together, I feel like he just makes a decision and I then have to do all the planning.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,Did you ever think that maybe they're the one with the control issue?,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,"Other than size issues, what brought you here?",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"Then I realized, I didn't have control over my life at all. I was still going where someone told me to go.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,Yes I found my way over here easily. DUH!,1.2380952380952381,0.07744738965256855,63.0,54.0,3.0,6.0,536
-2297,And did you say your father was an 18 wheeler?,1.2380952380952381,0.05409160326162522,63.0,48.0,15.0,0.0,536
-2297,So you always wanted to be a Telsa?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,Let's explore your feelings about not having a steering wheel.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,When did you first feel you were losing control?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,...and how long have you been worried about the length of your gearshift?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"How do the ""big"" cars make you feel?",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"And remember, a small hand brake doesn't mean anything.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,"Just because you have extremely ""low emissions,"" you should not have these feelings of being inadequate.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,"Don't worry, size does not matter",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Tell me more about this feeling that you are always running on autopilot...,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"So, it's Google that brings you here today?",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Don't be embarrassed. Lack of get-up-and-go is very common in older models.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"Yes, you're smart, but let's focus on your emotional intelligence.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,I just found out my father was a toaster,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,Why do you think you are so curious about auto-erotic asphyxiation?,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Anthony Wiener referred you.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,i'm concerned that you're too focused on being a smart car instead of a fully-functioning car.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,I think it will be productive today to concentrate our work on your fear of the last mile.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,How did you feel when she said size doesn't matter?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,Your belief that you are a real car is a delusion of grandiosity.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"So, you don't feel driven, anymore?",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,When were you first told you had too much junk in your trunk?,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,How long have you had the feeling you are driverless?,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Still have nightmares of Uber?,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Do you feel in charge?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"So tell me, why so ashamed of being a hybrid?",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,Your eGo needs a recharge,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,Just accept the fact that you are adorable.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,I just hate that I always have to drive while he gets to play in his phone.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"Yes I know, small is the new big.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"I know you've got Jaguar envy, but look how easily you park.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,"Sometimes I just feel so lost, you know? Like there's no one really at the steering wheel.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,You need your own space.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,And how did that make you wheel?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"No, I don't offer alternative fuel discounts.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,You're clearly suffering from Prius Envy.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,Can you remember feeling out of control?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"On a positive note, you don't have to worry about where to park during our sessions...",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,I've seen things...,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,At least I'm not a Jet Ski,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,There is no shame because your mother was a toaster.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"Yes, I am transitioning to be a toaster.",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,It's not like you have a manual on how to run your life.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,There's nothing to be ashamed about. It's okay to want a big Shriner inside of you.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,So are you saying that size matters?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"And so though my wife does bemoan the size of my pistons, she does quite appreciate how long I can go on a glass of gas.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,How does it feel with no one behind the wheel but you?,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Tell me about your feelings of being controlled.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,So what you seem to be saying is that although you're self-driving you're not self-driven.,1.2380952380952381,0.05409160326162522,63.0,48.0,15.0,0.0,536
-2297,Revolutionising automobile transport does sound like a lot of pressure.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,So you're still looking for a driver?,1.2380952380952381,0.05409160326162522,63.0,48.0,15.0,0.0,536
-2297,"And how does it make you feel, that you never had a ""baby on board""?",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"I'm sorry, our time has expired.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,I am afraid that in your line of work size does matter.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"I normally don't give advice, but I can assure you that size does not matter!",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,You've got to learn to accept responsibility.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"Yes, so many clowns in there would be scary.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,All self driving cars need help sometimes,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,I've got autonomy issues.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,Tell me about your relationship with your Mazda.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,I'm tired of always having to be more efficient than my parents,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"Then I discovered my boyfriend, a VW diesel, was cheating on me...",1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,536
-2297,"Self driving is one thing, but what's your motivation?",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"So, you're fearful that size really does matter?",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Being out of alignment is more common than you might realize. I see it every day.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,When did you first start feeling you are losing control of where you are headed?,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,Tell my why you feel you are not a SmartCar.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,I am driving myself ... Crazy .,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,It's just that I'm driving myself a little crazy.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,I think you need to do more work on your confidence issues before you try self-driving.,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,536
-2297,"Don't worry. Those luxury models in the waiting room have their own, shall I say ""mileage,"" problems.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,The key to staying motivated is locked deep inside of you. We can call the dealership to get it out.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"Washroom's down the hall, on your left. Want me to show you, or can you get there yourself?",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"Okay, Mr. Self-Driver, where do YOU want to go?",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,It obvious you have a problem with auto eroticism.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,When did you first get the feeling people didn't trust you?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"The whole ""size doesn't matter"" argument is a bit of a myth.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,You DO have an electric personality.,1.2380952380952381,0.05409160326162522,63.0,48.0,15.0,0.0,536
-2297,What drove you to me?,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"Hmmm, yes, that *is* a rather insulting spot to place a plug-in.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,So when did this size issue start to bother you?,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,...and you were honking?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"Sure, sure, I'M good for the environment but does the environment ever say thank you or send a gift?",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,How does that make you steer?,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,536
-2297,Miles per gallon will only get you so far in this world. I want to hear what goes on under the hood when you're alone at night in the garage.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Do you frequently go out alone at night?,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,"So, you don't feel connected . . .",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,"Actually, many in tech feel driven...",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"So...You're feeling paranoid, because you think you're being controlled by signals from outer space?..",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"And then she says, Size matters",1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,536
-2297,Could it be that you are compensating for your small stature by being easy to park?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"Trust me, I've driven lots of cars, and size doesn't matter.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,So you are worried that your going to get lost?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"No, I didn't get lost. I said I felt lost.",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,...and then he said I had small tires. He's disgusting. I guarantee you there's no problem. I guarantee. Believe me.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"Now, let's talk more about why you feel that someone is controlling your life.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"Yes, I'm afraid that size does matter.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,I hear you saying you feel like you're running on auto-pilot.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Don't look at it as self-driving but self-directed.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"Just to be clear, when you say you're 'Autoerotic' does that mean manual or automatic?",1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,536
-2297,Do you have any idea how hard it is to live up to the expectations of being a smart car?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,It' normal to be nervous about getting hitched.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"You really need get over the ""size matters"" hang-up.",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"Get over yourself. There is no such thing in the DSM Five as ""Piston Envy"".",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,We don't think of it as an inferiority complex any more. You're small. Roll with it.,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,536
-2297,How did it feel when they said you weren't really very smart?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"At the outset, let me reassure you that size doesn't matter.",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"We can test your MPG, but at your age I don't believe the need to plug in every night is an addiction.",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Sometimes I feel like a driverless car.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"...and the next thing you know, I'll be changing my own oil",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,I'm sorry. I didn't mean to be insensitive when I said I wanted you to be in the driver's seat.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,And you felt like your motherboard drove you too far?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"How does it make you feel when Elon calls you a, ""Toaster on wheels?""",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"You can't let your passengers determine your self-worth. Just think of them as self-loading freight. See you again in 12,000 miles or six months.",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"No, we cannot ""turn off the meter for a little while.""",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,It's the bullying.,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,536
-2297,So you fear the next wave of technology?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"They call me smart, but it doesn't make me feel any bigger.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"So, how long have you felt that your life was just going in circles?",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Why do you think you feel your power slipping away?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,I sure hope you're not dripping oil on my couch.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,Who do you blame for your defective airbags?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,You are smarter than the other cars. . .expect to be bullied.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"I may be small, but I have an electric personality.",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Is it possible that you are self-medicating with your occasional tank of premium gasoline?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,We call it GPS dysfunction.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"I have to say, I find these monster truck fantasies a little concerning",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,In my professional opinion you are simply a product of the environment.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"So, when did you start believing you couldn't.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,Sometimes I feel like I am on the road to nowhere.,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,536
-2297,Sorry for steering the conversation - I torque too much.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,I don't feel autonomous.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,Good thing you came to see me you're a wreck .,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,You're just going to have to accept you're DC in an AC world,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"Look, you're a Smart Car : you don't need an inferiority complex.",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Your feeling of autonomy is just an illusion.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,Size isn't everything.,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,Don't worry gas prices will go back up.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,Hmm ... sounds like an Electric complex.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,I'm hearing that you feel lonely and unappreciated. Would installing a crash-test dummy help?,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,536
-2297,So your father was an SUV. Big wheels to fill.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"And yet, they still want to control you. I understand.",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,My name is not Siri. She left you.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"""You would get a new start, with Electric Shock Therapy",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,You can't just honk your way through your problems...,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,My mother was a golf cart,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"As we discussed, my fee is $50 for the first 10 miles, and twenty cents a mile after that.",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"And when those VW Bugs laugh at you, how does it make you feel?",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"My father was fuel combustion, and my mother was electric, and me, I just feel like I'm spinning my wheels sometimes.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"I know where I'm going on the road, but I feel completely lost in life",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,When did you first want to be a crossover?,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Perhaps it's time to let someone else take the driver's seat.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,Strangers coming and going at all hours...all I want is a long term relationship.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,Don't worry. Recall problems are normal with aging.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,And then they told me me I was not smart enough to get from Point A to Point B.,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Wait. So you're telling me there's no history of toasters in your family?,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,"I just don't know why they pick on us? Just because we are classified as "" Smart Cars.",1.2380952380952381,0.05409160326162522,63.0,48.0,15.0,0.0,536
-2297,You are self driving but not self aware.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,People do like you. Just not so much with gas at $2/gallon.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,I've got no drive any more!,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,"I think it's natural to feel run-down, out of gas, and having the desire to travel more.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,So your dad was a Hummer...how does that make you feel?,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,I feel like I've hit a dead end.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,It's my opinion that your road rage is a result of your feelings of inadequacy.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"When you say, ""I like to be driven,"" what are you really saying?",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,It's not you. It's your software.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,Why do you think you are so smart that you don't need a driver?,1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,Exactly WHO drives you crazy?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,No one pushes your buttons any more?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,"So, any progress this week? How many strange men did you let inside you?",1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,So what makes you think that everyone but you is driven?,1.2380952380952381,0.0586339007188704,63.0,49.0,13.0,1.0,536
-2297,"When you found the Hummer was not your Dad,how did that make you feel?",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,Your diagnosis: Little Car Syndrome.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,i'm terrified what my next inspection could reveal.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,I've seen things no one should see.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,These session aren't helping my road rage.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"Sorry to disappoint you, but you don't have any junk in your trunk.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"""You got to help me doc, I have these nightmares, I'm out of control, and I just want to be driven hard, real hard"".",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
-2297,"So, you're just not ready to be independent?",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,536
-2297,"Remember, you're a smart, uber, self-driving car that has a 300 miles range capacity. Have you considered the idea that maybe the muscle cars are just jealous?",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,What happened after you ran away to the circus?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,Do you think your competition with uber has anything to do with your relationship with your parents?,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,You can't keep blaming others for your control issues.,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,536
-2297,I understand your sense of abandonment that all the other cars have drivers. How does that make you feel?,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,You need to improve your self-control.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,When did you first know you were cabriolet?,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Take two gallons of high-test and call me in the morning.,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,536
+2297,How did it feel to try the drive-thru?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,How do you feel when they tell you size matters?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,What makes you think Apple is your daddy?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"I took your suggestion and Googled you . . . God, where do we start?",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"We have talked about the Ego and Id so far. Now, the Uber?",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,At what point did your mother being gasoline and your father electric become a problem for you?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,When did you start to drive yourself so hard?,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,When did you first begin feeling guilty over your father's carbon footprint?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"Frankly, you need to open up a bit more. Perhaps try cracking your window a bit.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,I thought you'd prefer autosuggestions.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,Can you please tell me more about your desire to be so self driven?,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"That was merely a suggestion, not backseat driving.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"No, I 'm not saying you have a loose screw.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"So, what's buggin' you?",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"I'm not sure putting a banana in your tailpipe falls under ""inappropriate touching.""",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"So, tell me more about the time someone puked in your back seat.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"Well, the informal name is Little Car Syndrome.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,"People may say you are 'self-driven', have you considered the other people who got you here?",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Everyone says I am not old enough to drive.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"But, back to your recurring nightmare...it was your first time driverless; the Dodge Ram pulled up behind you, and...?",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,So do you identify more with fossil fuels or electricity?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"Sure doc I have had some tough brakes. I've been rear-ended and I've have had spare tires, after all I'm a Car-dashian.",1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,536
+2297,"Right now, I feel like I'm going nowhere.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"With greater autonomy comes the need to avoid feelings of loneliness . . . and pedestrians, of course.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,It doesn't mean that you can just go without letting people know.,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,536
+2297,"I know it might be difficult, but can you go back for just a moment?",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"""Who called you ""low energy"".",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,How do you feel about your father being a four door?,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,536
+2297,You need to stop blaming yourself for the emissions cheating scandal.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"Doc, I've been driving myself crazy.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,I keep telling them I don't lack the drive.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,Why am I bullied when I am a Smart Car?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,So you just feel like your being used?,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,I miss my human driver.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,Why don't you tell me about your feelings of emptiness.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"Yes, well, sometimes 'Smart' cars are the most tortured.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,"So you feel the use of the term ""smart car"" is ironic rather than laudatory. Say more.""",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,And how long would you say you’ve suffered from this “range anxiety”?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"PTSD? Okay, when did you run over the squirrel.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,You said your mother was a toaster. What feelings has that generated?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,Please tell me why you want to grow up to be a Mercedes Benz?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"We call it a ""Napoleon Complex"" . . .",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,How much am I getting charged for this?,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,When did you start feeling autonomous was wrong for you?,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,I wouldn't worry too much ... the smart ones always get bullied.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,People are literally driving me crazy!,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,And how does it make you feel when people laugh at your parallel parking?,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"Sure buddy, whatever you want to talk about - but the meter's running.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,When did this fantasy to kill a taxi and marry your rhumba begin?,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,536
+2297,I understand completely - Monster Truck envy is far more common that you know.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,"So, how long have you had this obsession that you were in control?",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"It must be hard, always having to rely on yourself.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"Well, apparently size does matter.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"You're afraid that without a carbon footprint, how will anyone know you're there?",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,When did you first experience the feeling that you were a Lamborghini?,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,And this feeling of being small and insignificant amongst your peers. When did it start?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"When did you first notice this tired, less-driven feeling?",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,And when did you start thinking you had a Google Complex?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,I just... I feel like I dont have control over my life.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"And so when we go out together, I feel like he just makes a decision and I then have to do all the planning.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,Did you ever think that maybe they're the one with the control issue?,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,"Other than size issues, what brought you here?",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"Then I realized, I didn't have control over my life at all. I was still going where someone told me to go.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,Yes I found my way over here easily. DUH!,1.238095238095238,0.07744738965256855,63.0,54.0,3.0,6.0,536
+2297,And did you say your father was an 18 wheeler?,1.238095238095238,0.05409160326162522,63.0,48.0,15.0,0.0,536
+2297,So you always wanted to be a Telsa?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,Let's explore your feelings about not having a steering wheel.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,When did you first feel you were losing control?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,...and how long have you been worried about the length of your gearshift?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"How do the ""big"" cars make you feel?",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"And remember, a small hand brake doesn't mean anything.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,"Just because you have extremely ""low emissions,"" you should not have these feelings of being inadequate.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,"Don't worry, size does not matter",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Tell me more about this feeling that you are always running on autopilot...,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"So, it's Google that brings you here today?",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Don't be embarrassed. Lack of get-up-and-go is very common in older models.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"Yes, you're smart, but let's focus on your emotional intelligence.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,I just found out my father was a toaster,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,Why do you think you are so curious about auto-erotic asphyxiation?,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Anthony Wiener referred you.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,i'm concerned that you're too focused on being a smart car instead of a fully-functioning car.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,I think it will be productive today to concentrate our work on your fear of the last mile.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,How did you feel when she said size doesn't matter?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,Your belief that you are a real car is a delusion of grandiosity.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"So, you don't feel driven, anymore?",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,When were you first told you had too much junk in your trunk?,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,How long have you had the feeling you are driverless?,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Still have nightmares of Uber?,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Do you feel in charge?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"So tell me, why so ashamed of being a hybrid?",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,Your eGo needs a recharge,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,Just accept the fact that you are adorable.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,I just hate that I always have to drive while he gets to play in his phone.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"Yes I know, small is the new big.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"I know you've got Jaguar envy, but look how easily you park.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,"Sometimes I just feel so lost, you know? Like there's no one really at the steering wheel.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,You need your own space.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,And how did that make you wheel?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"No, I don't offer alternative fuel discounts.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,You're clearly suffering from Prius Envy.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,Can you remember feeling out of control?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"On a positive note, you don't have to worry about where to park during our sessions...",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,I've seen things...,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,At least I'm not a Jet Ski,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,There is no shame because your mother was a toaster.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"Yes, I am transitioning to be a toaster.",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,It's not like you have a manual on how to run your life.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,There's nothing to be ashamed about. It's okay to want a big Shriner inside of you.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,So are you saying that size matters?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"And so though my wife does bemoan the size of my pistons, she does quite appreciate how long I can go on a glass of gas.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,How does it feel with no one behind the wheel but you?,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Tell me about your feelings of being controlled.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,So what you seem to be saying is that although you're self-driving you're not self-driven.,1.238095238095238,0.05409160326162522,63.0,48.0,15.0,0.0,536
+2297,Revolutionising automobile transport does sound like a lot of pressure.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,So you're still looking for a driver?,1.238095238095238,0.05409160326162522,63.0,48.0,15.0,0.0,536
+2297,"And how does it make you feel, that you never had a ""baby on board""?",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"I'm sorry, our time has expired.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,I am afraid that in your line of work size does matter.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"I normally don't give advice, but I can assure you that size does not matter!",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,You've got to learn to accept responsibility.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"Yes, so many clowns in there would be scary.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,All self driving cars need help sometimes,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,I've got autonomy issues.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,Tell me about your relationship with your Mazda.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,I'm tired of always having to be more efficient than my parents,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"Then I discovered my boyfriend, a VW diesel, was cheating on me...",1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,536
+2297,"Self driving is one thing, but what's your motivation?",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"So, you're fearful that size really does matter?",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Being out of alignment is more common than you might realize. I see it every day.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,When did you first start feeling you are losing control of where you are headed?,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,Tell my why you feel you are not a SmartCar.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,I am driving myself ... Crazy .,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,It's just that I'm driving myself a little crazy.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,I think you need to do more work on your confidence issues before you try self-driving.,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,536
+2297,"Don't worry. Those luxury models in the waiting room have their own, shall I say ""mileage,"" problems.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,The key to staying motivated is locked deep inside of you. We can call the dealership to get it out.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"Washroom's down the hall, on your left. Want me to show you, or can you get there yourself?",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"Okay, Mr. Self-Driver, where do YOU want to go?",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,It obvious you have a problem with auto eroticism.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,When did you first get the feeling people didn't trust you?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"The whole ""size doesn't matter"" argument is a bit of a myth.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,You DO have an electric personality.,1.238095238095238,0.05409160326162522,63.0,48.0,15.0,0.0,536
+2297,What drove you to me?,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"Hmmm, yes, that *is* a rather insulting spot to place a plug-in.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,So when did this size issue start to bother you?,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,...and you were honking?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"Sure, sure, I'M good for the environment but does the environment ever say thank you or send a gift?",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,How does that make you steer?,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,536
+2297,Miles per gallon will only get you so far in this world. I want to hear what goes on under the hood when you're alone at night in the garage.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Do you frequently go out alone at night?,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,"So, you don't feel connected . . .",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,"Actually, many in tech feel driven...",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"So...You're feeling paranoid, because you think you're being controlled by signals from outer space?..",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"And then she says, Size matters",1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,536
+2297,Could it be that you are compensating for your small stature by being easy to park?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"Trust me, I've driven lots of cars, and size doesn't matter.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,So you are worried that your going to get lost?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"No, I didn't get lost. I said I felt lost.",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,...and then he said I had small tires. He's disgusting. I guarantee you there's no problem. I guarantee. Believe me.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"Now, let's talk more about why you feel that someone is controlling your life.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"Yes, I'm afraid that size does matter.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,I hear you saying you feel like you're running on auto-pilot.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Don't look at it as self-driving but self-directed.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"Just to be clear, when you say you're 'Autoerotic' does that mean manual or automatic?",1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,536
+2297,Do you have any idea how hard it is to live up to the expectations of being a smart car?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,It' normal to be nervous about getting hitched.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"You really need get over the ""size matters"" hang-up.",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"Get over yourself. There is no such thing in the DSM Five as ""Piston Envy"".",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,We don't think of it as an inferiority complex any more. You're small. Roll with it.,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,536
+2297,How did it feel when they said you weren't really very smart?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"At the outset, let me reassure you that size doesn't matter.",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"We can test your MPG, but at your age I don't believe the need to plug in every night is an addiction.",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Sometimes I feel like a driverless car.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"...and the next thing you know, I'll be changing my own oil",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,I'm sorry. I didn't mean to be insensitive when I said I wanted you to be in the driver's seat.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,And you felt like your motherboard drove you too far?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"How does it make you feel when Elon calls you a, ""Toaster on wheels?""",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"You can't let your passengers determine your self-worth. Just think of them as self-loading freight. See you again in 12,000 miles or six months.",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"No, we cannot ""turn off the meter for a little while.""",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,It's the bullying.,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,536
+2297,So you fear the next wave of technology?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"They call me smart, but it doesn't make me feel any bigger.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"So, how long have you felt that your life was just going in circles?",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Why do you think you feel your power slipping away?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,I sure hope you're not dripping oil on my couch.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,Who do you blame for your defective airbags?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,You are smarter than the other cars. . .expect to be bullied.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"I may be small, but I have an electric personality.",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Is it possible that you are self-medicating with your occasional tank of premium gasoline?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,We call it GPS dysfunction.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"I have to say, I find these monster truck fantasies a little concerning",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,In my professional opinion you are simply a product of the environment.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"So, when did you start believing you couldn't.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,Sometimes I feel like I am on the road to nowhere.,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,536
+2297,Sorry for steering the conversation - I torque too much.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,I don't feel autonomous.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,Good thing you came to see me you're a wreck .,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,You're just going to have to accept you're DC in an AC world,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"Look, you're a Smart Car : you don't need an inferiority complex.",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Your feeling of autonomy is just an illusion.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,Size isn't everything.,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,Don't worry gas prices will go back up.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,Hmm ... sounds like an Electric complex.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,I'm hearing that you feel lonely and unappreciated. Would installing a crash-test dummy help?,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,536
+2297,So your father was an SUV. Big wheels to fill.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"And yet, they still want to control you. I understand.",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,My name is not Siri. She left you.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"""You would get a new start, with Electric Shock Therapy",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,You can't just honk your way through your problems...,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,My mother was a golf cart,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"As we discussed, my fee is $50 for the first 10 miles, and twenty cents a mile after that.",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"And when those VW Bugs laugh at you, how does it make you feel?",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"My father was fuel combustion, and my mother was electric, and me, I just feel like I'm spinning my wheels sometimes.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"I know where I'm going on the road, but I feel completely lost in life",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,When did you first want to be a crossover?,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Perhaps it's time to let someone else take the driver's seat.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,Strangers coming and going at all hours...all I want is a long term relationship.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,Don't worry. Recall problems are normal with aging.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,And then they told me me I was not smart enough to get from Point A to Point B.,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Wait. So you're telling me there's no history of toasters in your family?,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,"I just don't know why they pick on us? Just because we are classified as "" Smart Cars.",1.238095238095238,0.05409160326162522,63.0,48.0,15.0,0.0,536
+2297,You are self driving but not self aware.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,People do like you. Just not so much with gas at $2/gallon.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,I've got no drive any more!,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,"I think it's natural to feel run-down, out of gas, and having the desire to travel more.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,So your dad was a Hummer...how does that make you feel?,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,I feel like I've hit a dead end.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,It's my opinion that your road rage is a result of your feelings of inadequacy.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"When you say, ""I like to be driven,"" what are you really saying?",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,It's not you. It's your software.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,Why do you think you are so smart that you don't need a driver?,1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,Exactly WHO drives you crazy?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,No one pushes your buttons any more?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,"So, any progress this week? How many strange men did you let inside you?",1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,So what makes you think that everyone but you is driven?,1.238095238095238,0.0586339007188704,63.0,49.0,13.0,1.0,536
+2297,"When you found the Hummer was not your Dad,how did that make you feel?",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,Your diagnosis: Little Car Syndrome.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,i'm terrified what my next inspection could reveal.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,I've seen things no one should see.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,These session aren't helping my road rage.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"Sorry to disappoint you, but you don't have any junk in your trunk.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"""You got to help me doc, I have these nightmares, I'm out of control, and I just want to be driven hard, real hard"".",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
+2297,"So, you're just not ready to be independent?",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,536
+2297,"Remember, you're a smart, uber, self-driving car that has a 300 miles range capacity. Have you considered the idea that maybe the muscle cars are just jealous?",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,What happened after you ran away to the circus?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,Do you think your competition with uber has anything to do with your relationship with your parents?,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,You can't keep blaming others for your control issues.,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,536
+2297,I understand your sense of abandonment that all the other cars have drivers. How does that make you feel?,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,536
 2548,"You can stop worrying. According to Masters and Johnson, four cylinders is quite acceptable.",1.234375,0.06951571243822256,64.0,53.0,7.0,4.0,536
 2548,And when did you realize that self-driving is not the same as self-actualization?,1.234375,0.06585136695439135,64.0,52.0,9.0,3.0,536
 2548,"Let me clarify, you see danger when no danger exists?",1.234375,0.061970725215460876,64.0,51.0,11.0,2.0,536
@@ -6056,17 +6056,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5780,I recommend couples therapy.,1.0638297872340423,0.036042108674890216,47.0,44.0,3.0,0.0,536
 5780,"Voyeurism, yes, but no therapy required.",1.0638297872340423,0.036042108674890216,47.0,44.0,3.0,0.0,536
 5780,You suffer from transference. Don't worry your owner is just tire kicking and has no intention of trading you in.,1.0638297872340423,0.036042108674890216,47.0,44.0,3.0,0.0,536
-6058,"Tell me more about this ""Uber.""",1.0625,0.035308292679127,48.0,45.0,3.0,0.0,536
-6058,"Do you feel like you're living a lie as an after-market hybrid conversion? I mean, keeping a forged title in the glovebox just for when you drive through North Carolina?",1.0625,0.035308292679127,48.0,45.0,3.0,0.0,536
+6058,"Tell me more about this ""Uber.""",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,536
+6058,"Do you feel like you're living a lie as an after-market hybrid conversion? I mean, keeping a forged title in the glovebox just for when you drive through North Carolina?",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,536
 6058,"Well, it's either an oedipal complex or Uber is just a superior service.",1.0625,0.04618658197582853,48.0,46.0,1.0,1.0,536
-6058,"Of course you have trouble being accepted, you are a sub-compact and this is America!",1.0625,0.035308292679127,48.0,45.0,3.0,0.0,536
-6058,"I doubt you're suffering from Parkinsons, but you are driving your family crazy!",1.0625,0.035308292679127,48.0,45.0,3.0,0.0,536
+6058,"Of course you have trouble being accepted, you are a sub-compact and this is America!",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,536
+6058,"I doubt you're suffering from Parkinsons, but you are driving your family crazy!",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,536
 6058,"Inside I've always felt I've a gas guzzler, but I feel guilty my trans mission is so unecological",1.0625,0.04618658197582853,48.0,46.0,1.0,1.0,536
-6058,"So what your saying is you used to be a toaster, now you are toast as the kids always bash you up.",1.0625,0.035308292679127,48.0,45.0,3.0,0.0,536
-6058,I have recurring dreams of being chased by a Mack truck with a big horn.,1.0625,0.035308292679127,48.0,45.0,3.0,0.0,536
-6058,Was it the smog check?,1.0625,0.035308292679127,48.0,45.0,3.0,0.0,536
-6058,"If you're stuck in a rut, why the devil don't you use your jack?",1.0625,0.035308292679127,48.0,45.0,3.0,0.0,536
-6058,So you have UBER problems...,1.0625,0.035308292679127,48.0,45.0,3.0,0.0,536
+6058,"So what your saying is you used to be a toaster, now you are toast as the kids always bash you up.",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,536
+6058,I have recurring dreams of being chased by a Mack truck with a big horn.,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,536
+6058,Was it the smog check?,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,536
+6058,"If you're stuck in a rut, why the devil don't you use your jack?",1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,536
+6058,So you have UBER problems...,1.0625,0.035308292679126996,48.0,45.0,3.0,0.0,536
 6058,"Gas prices plunging, how does that make you feel?",1.0625,0.04618658197582853,48.0,46.0,1.0,1.0,536
 6070,So how does it feel to be a self driving car? Are you a little overwhelmed?,1.0612244897959184,0.03460372440370034,49.0,46.0,3.0,0.0,536
 6071,You need to get used to the idea of not being driving.,1.06,0.04435478484645721,50.0,48.0,1.0,1.0,536
@@ -6484,117 +6484,117 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 6299,Public transport IS better. But don't worry: nobody will notice.,1.0227272727272727,0.022990024493585143,44.0,43.0,1.0,0.0,536
 6299,"No, I'm not a Freudian analyst. Now let's focus on why you are here.",1.0227272727272727,0.022990024493585143,44.0,43.0,1.0,0.0,536
 6299,I'm sorry I can't say that your gas mileage lies were caused by I'm sorry I can't testify that your gas mileage lies were caused by insanity,1.0227272727272727,0.022990024493585143,44.0,43.0,1.0,0.0,536
-6486,Go with that thought.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,536
-6486,"You said ""Parp-Parp"". And then?",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,536
-6486,The front wheels are off the ground....again.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,536
-6486,We can discuss the possible paths you can take to find a drive in life.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,536
-6486,It all started when the criticized my driving that first time.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,536
-6486,I'm smaht! Not like everybody says... like dumb... I'm smart and I want respect!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,536
-6486,We need to work on developing your fantasy.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,536
-6486,Try thinking of yourself as Joe Pesci in 'Goodfellas'.,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,536
-6486,"You really ""outta"" explore what makes you get and go...",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,536
-6486,I just can't reconcile my duplicity in road rage!,1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,536
-6486,"you know, road rage can be bad for your engine.",1.0222222222222221,0.022473328748774737,45.0,44.0,1.0,0.0,536
+6486,Go with that thought.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,536
+6486,"You said ""Parp-Parp"". And then?",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,536
+6486,The front wheels are off the ground....again.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,536
+6486,We can discuss the possible paths you can take to find a drive in life.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,536
+6486,It all started when the criticized my driving that first time.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,536
+6486,I'm smaht! Not like everybody says... like dumb... I'm smart and I want respect!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,536
+6486,We need to work on developing your fantasy.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,536
+6486,Try thinking of yourself as Joe Pesci in 'Goodfellas'.,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,536
+6486,"You really ""outta"" explore what makes you get and go...",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,536
+6486,I just can't reconcile my duplicity in road rage!,1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,536
+6486,"you know, road rage can be bad for your engine.",1.022222222222222,0.022473328748774737,45.0,44.0,1.0,0.0,536
 6497,Would it make you feel bigger if Mr. Trump is elected?,1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
 6497,Traffic jams again. Hmmm. How have your exhaust valves been functioning lately?,1.0,0.022990024493585143,44.0,44.0,0.0,0.0,536
-6497,"You can't say that. That's racist!"" ""I'm a self-driving car. I can't be racist! Asian women are really bad drivers!",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Here's my advice: just find a new job.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"You know, officer, you can't depend just on your electric personality to be eligible for a promotion.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,"You can't say that. That's racist!"" ""I'm a self-driving car. I can't be racist! Asian women are really bad drivers!",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Here's my advice: just find a new job.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"You know, officer, you can't depend just on your electric personality to be eligible for a promotion.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,"So, earlier, you said that you think that the honeymoon is over. What do you mean when you say that?",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
-6497,"I see, but how many people do you know talking about the Bing car?",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Is your fear one of road rage drivers?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"Ever since my letter engages in vehicular manslaughter, I some how feel onus",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"So then I think, do humans even factor into the big picture?",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,"I see, but how many people do you know talking about the Bing car?",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Is your fear one of road rage drivers?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"Ever since my letter engages in vehicular manslaughter, I some how feel onus",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"So then I think, do humans even factor into the big picture?",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,"Doc, I get no repek, (respect) on the road. What's a small car to do.",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
-6497,I've fallen in love with my Googly-Eyed parking-mate !!!,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,My libido is in overdrive.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"When they started making Electric cars, is this when you started o feel left out?",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,You are NOT paranoid; you feel empty because you are always at least 25% empty.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"So you still like sex way more than masturbating. For what it's worth, I don't disagree.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Just part of being a child. Most of your issues will be part of your past when you're fully grown-up and have more cylinders.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,I've fallen in love with my Googly-Eyed parking-mate !!!,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,My libido is in overdrive.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"When they started making Electric cars, is this when you started o feel left out?",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,You are NOT paranoid; you feel empty because you are always at least 25% empty.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"So you still like sex way more than masturbating. For what it's worth, I don't disagree.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Just part of being a child. Most of your issues will be part of your past when you're fully grown-up and have more cylinders.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,The goal of the trolley problem is to kill the FEWEST amount of people.,1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
-6497,"Dr. I feel small and week, and I've been referred to as a vagina car. How will I ever overcome this?",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,"Dr. I feel small and week, and I've been referred to as a vagina car. How will I ever overcome this?",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,I see your point about no space for the batteries.,1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
-6497,"You , poor thing , are experiencing a separation anxiety .",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"You know your father, but you don't know your mother?",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"Look, I'm out of gas this Uber craze keeps my engine running hot, what happened to leaving the car in the driveway?",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Were you wearing a rubber condom?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,"You , poor thing , are experiencing a separation anxiety .",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"You know your father, but you don't know your mother?",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"Look, I'm out of gas this Uber craze keeps my engine running hot, what happened to leaving the car in the driveway?",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Were you wearing a rubber condom?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,what your the google police?,1.0,0.022990024493585143,44.0,44.0,0.0,0.0,536
 6497,"What does your ad mean when it says ""the kids will love it""?",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
-6497,And ....after......,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,We need to work on your inferiority complex.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,And ....after......,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,We need to work on your inferiority complex.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,"His name was Harlan Sanders,and he could get me a lot of parts.",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
-6497,Why is everyone always fighting over me?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"After the earthquake in Oklahoma last week, you should be glad your a Smart car. They are shutting down oil fields. Go tell that to those gas guzzling bullies.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,man hook man hand car door,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,It's normal the things you've seen in your line of work.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,Why is everyone always fighting over me?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"After the earthquake in Oklahoma last week, you should be glad your a Smart car. They are shutting down oil fields. Go tell that to those gas guzzling bullies.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,man hook man hand car door,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,It's normal the things you've seen in your line of work.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,How long have you had a fear of commitment?,1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
-6497,"Sometimes I feel like the other cars don't even see me..."" ""Would you describe your light as a cry for attention?",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Why are you so depressed and anxious over not having a steering wheel or foot pedals?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,I believe you are suffering from Pinky Penis syndrome.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,"Sometimes I feel like the other cars don't even see me..."" ""Would you describe your light as a cry for attention?",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Why are you so depressed and anxious over not having a steering wheel or foot pedals?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,I believe you are suffering from Pinky Penis syndrome.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,That Whale Tail I had installed really helps to keep the back of the car down.,1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
 6497,You''ll just have to face it: Driver doesn't exist.,1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
-6497,Sometimes a cig-car is just a cig-car,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,May I suggest the Individually Wrapped Trout?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,How did you feel when this nude person started following you?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,How do you feel about the loss?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,You don't ever talk back to the owner.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Show me where it hurts.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,I don't think I can help you with your race issues; you can only speed up to 25 MPH.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,Sometimes a cig-car is just a cig-car,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,May I suggest the Individually Wrapped Trout?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,How did you feel when this nude person started following you?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,How do you feel about the loss?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,You don't ever talk back to the owner.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Show me where it hurts.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,I don't think I can help you with your race issues; you can only speed up to 25 MPH.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,They've priced me by the cubic inch and I just don't think I'm worth it.,1.0,0.022990024493585143,44.0,44.0,0.0,0.0,536
-6497,No thanks. I just ate.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"I'm dealing with a lot of stress at work. The boss is breathing down our throats about this ""green lives matter"" movement.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Google drives you to anywhere,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,No thanks. I just ate.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"I'm dealing with a lot of stress at work. The boss is breathing down our throats about this ""green lives matter"" movement.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Google drives you to anywhere,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,After all these years I finally realize you are a real tune down.,1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
-6497,"But, Dorothy, I really do have a heart!",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,You couldn't just leave it at the elephant in the room.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Dis you come in alone?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Everyone has parent issues. Try reciting: abcdefghijklmnopqrstuvwxyx.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,How long have you had this little man complex?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Self-driving cars may do without a driver but not without some sleep.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,"But, Dorothy, I really do have a heart!",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,You couldn't just leave it at the elephant in the room.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Dis you come in alone?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Everyone has parent issues. Try reciting: abcdefghijklmnopqrstuvwxyx.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,How long have you had this little man complex?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Self-driving cars may do without a driver but not without some sleep.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,"I know you're looking for a new car from your search history, but it'll take a few more sessions before I'm ready.",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
-6497,And when did you first experience this inferiority complex.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"It's well known that the exhaustion is caused by software installed by your birth parents. The sticky horn, gas peddle and blaring – nearly always false car alarm appears to be a manifestation of a Napoleon Complex.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"Stop ""driving yourself"" crazy. Sometimes in life, you need to give up some control. It will make you much happier in the end!",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,This is not the meaning of my diagnosis that you have a thing about bugs.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,You are suffering from what is known as an infericarity complex,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,My mechanic wants to rotate my tires but I have an underlying fear that I’ll only be able to drive sideways.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Yo are smart for two.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Perhaps you should consult a male therapist.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,What's the decision you are driving towards?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Road trips aren't what they used to be.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"No, this is upper level training. In the basic level I talked to the wall.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Are you feeling depressurized?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,And when did you first experience this inferiority complex.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"It's well known that the exhaustion is caused by software installed by your birth parents. The sticky horn, gas peddle and blaring – nearly always false car alarm appears to be a manifestation of a Napoleon Complex.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"Stop ""driving yourself"" crazy. Sometimes in life, you need to give up some control. It will make you much happier in the end!",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,This is not the meaning of my diagnosis that you have a thing about bugs.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,You are suffering from what is known as an infericarity complex,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,My mechanic wants to rotate my tires but I have an underlying fear that I’ll only be able to drive sideways.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Yo are smart for two.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Perhaps you should consult a male therapist.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,What's the decision you are driving towards?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Road trips aren't what they used to be.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"No, this is upper level training. In the basic level I talked to the wall.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Are you feeling depressurized?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,are you reaching your goals for the week?,1.0,0.022990024493585143,44.0,44.0,0.0,0.0,536
-6497,The old little dog is still a puppy.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,I just feel so caged up inside.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Our hour's up but for next week let's figure out why you're afraid of progress.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,When did people start making fun of your siren?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,What!? Were you born on a bahn? Get your tires off the couch!,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"Well, your physical recovery seems to be going quite well.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,The old little dog is still a puppy.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,I just feel so caged up inside.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Our hour's up but for next week let's figure out why you're afraid of progress.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,When did people start making fun of your siren?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,What!? Were you born on a bahn? Get your tires off the couch!,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"Well, your physical recovery seems to be going quite well.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,And you still can't stand the sight of bagels?,1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
 6497,so tell me about you childHOOD (car have hood),1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
-6497,I'm more likely to hear a fart than a thank you...,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,I'm more likely to hear a fart than a thank you...,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,"Excuse me, but do you have any Chanel No. 5 ?",1.0,0.022990024493585143,44.0,44.0,0.0,0.0,536
-6497,Do you feel guilt or are you sad?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"""you're just too little to succeed"".",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"Of course a black, and white's life matters.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,And what is it about hearing 'commando-style' that excites you?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,This is r-e-a-l-l-y a ridiculous situation.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"So, your patron pays for this ""Trappist Transit"" tour...will your fares take the vow of silence?",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,A Buddhist priest may have blessed you but you can't lead a monastic life,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,How long have you been focused on becoming an Ubermensch?,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"My gosh, can't you see it's useless!",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"Ali, I like hitting the road, but I don’t mind being a house husband.",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,Do you feel guilt or are you sad?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"""you're just too little to succeed"".",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"Of course a black, and white's life matters.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,And what is it about hearing 'commando-style' that excites you?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,This is r-e-a-l-l-y a ridiculous situation.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"So, your patron pays for this ""Trappist Transit"" tour...will your fares take the vow of silence?",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,A Buddhist priest may have blessed you but you can't lead a monastic life,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,How long have you been focused on becoming an Ubermensch?,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"My gosh, can't you see it's useless!",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"Ali, I like hitting the road, but I don’t mind being a house husband.",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
 6497,"My last client was Glass. Now, tell me your trauma.",1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
 6497,Not in here!,1.0,0.023531040266750583,43.0,43.0,0.0,0.0,536
-6497,The bagels are the worst.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Just beeping out the day here.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Ok tell me again what happened! I will see what I can do to help you!,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,I just can't seem to get over über.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,I suggest you take charge about your current owner driving you crazy.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,As a therapist I really can't get involved with a patient.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,"CHARGED UP TO HERE..."" YOU SAID ?",1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Let's explore your superego.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,Within each of us dwells the capacity to transform the world from asphalt jungle to Googletopia—just more so within you.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
-6497,I thought I was so smart but she really didn't love me.,1.0,0.024098134635594,42.0,42.0,0.0,0.0,536
+6497,The bagels are the worst.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Just beeping out the day here.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Ok tell me again what happened! I will see what I can do to help you!,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,I just can't seem to get over über.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,I suggest you take charge about your current owner driving you crazy.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,As a therapist I really can't get involved with a patient.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,"CHARGED UP TO HERE..."" YOU SAID ?",1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Let's explore your superego.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,Within each of us dwells the capacity to transform the world from asphalt jungle to Googletopia—just more so within you.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536
+6497,I thought I was so smart but she really didn't love me.,1.0,0.024098134635593998,42.0,42.0,0.0,0.0,536

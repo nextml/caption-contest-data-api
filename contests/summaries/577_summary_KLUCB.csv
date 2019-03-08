@@ -1,5 +1,5 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
-1,We meant get a job AND move out.,2.1605049594229038,0.013444943985493452,3327.0,776.0,1241.0,1310.0,577
+1,We meant get a job AND move out.,2.160504959422904,0.013444943985493452,3327.0,776.0,1241.0,1310.0,577
 2,Ask if they deliver.,2.101634206402508,0.011855248929040269,4467.0,1198.0,1617.0,1652.0,577
 3,"When I said I wanted some concessions, this is not what I had in mind.",2.061598506702868,0.010078153273272316,5893.0,1593.0,2344.0,1956.0,577
 4,Your mother and I don't think working from home is a good idea.,2.0450720029923315,0.01072846193252574,5347.0,1530.0,2046.0,1771.0,577
@@ -14,8 +14,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 13,I feel like he knows I wrote that Yelp review.,1.923105566933532,0.01050888255822187,5371.0,1815.0,2154.0,1402.0,577
 14,Is that for here or to go?,1.90950744558992,0.026481629299694755,873.0,310.0,332.0,231.0,577
 15,Two minutes until halftime. I'll get in line while you use the bathroom.,1.9050573999379457,0.013629103521224754,3223.0,1132.0,1265.0,826.0,577
-16,Five bucks the Korean fusion truck in the spare bedroom puts him out of business in a month.,1.8939912066438693,0.017427341937460872,2047.0,756.0,752.0,539.0,577
-17,"What do you mean, we're ""outside your delivery radius""?",1.8914644714038134,0.01173700953902346,4616.0,1745.0,1627.0,1244.0,577
+16,Five bucks the Korean fusion truck in the spare bedroom puts him out of business in a month.,1.893991206643869,0.017427341937460872,2047.0,756.0,752.0,539.0,577
+17,"What do you mean, we're ""outside your delivery radius""?",1.8914644714038131,0.01173700953902346,4616.0,1745.0,1627.0,1244.0,577
 18,"And then you said ""I wish we had hotdogs like these at home.""",1.8873552983081032,0.015985613665139398,2246.0,785.0,929.0,532.0,577
 19,"Hot dog stand, girlfriend, and for my third wish . . .",1.8645833333333333,0.021748644351413517,1248.0,464.0,489.0,295.0,577
 20,I'll go on line and check out the menu.,1.8437259430331023,0.012556595208584294,3897.0,1549.0,1408.0,940.0,577
@@ -26,7 +26,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 25,For here or to go?,1.814511041009464,0.019630243601964588,1585.0,658.0,563.0,364.0,577
 26,We get one month free. And we can cancel at anytime.,1.807043949428056,0.013037756981764051,3322.0,1320.0,1323.0,679.0,577
 27,I think you're right. It would look better on the other wall.,1.7978252114377768,0.014988512228807873,2483.0,994.0,997.0,492.0,577
-28,And I thought my first two wishes were stupid.,1.7977099236641219,0.0137172279935055,3144.0,1312.0,1156.0,676.0,577
+28,And I thought my first two wishes were stupid.,1.797709923664122,0.0137172279935055,3144.0,1312.0,1156.0,676.0,577
 29,Don't buy anything. It will just encourage him.,1.7949858471492115,0.015192740302021791,2473.0,1011.0,958.0,504.0,577
 30,Let's order out for a change.,1.794668179239932,0.017503062926298142,1763.0,694.0,737.0,332.0,577
 31,"I don't know. What has a college degree, a stupid business plan and needs to move out of the house?",1.7911096256684491,0.014557304117087604,2992.0,1326.0,965.0,701.0,577
@@ -61,7 +61,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 60,"I'll be closing in fifteen minutes, just so you know.",1.6550308008213552,0.03250323768126071,487.0,238.0,179.0,70.0,577
 61,And you wondered where they go at night.,1.6524559777571826,0.021679183023936302,1079.0,526.0,402.0,151.0,577
 62,Ask to see his license.,1.6521388216303468,0.02458446248843432,1239.0,754.0,162.0,323.0,577
-63,"Without a really long line, I doubt it's that good.",1.6318289786223281,0.02463842834161197,842.0,427.0,298.0,117.0,577
+63,"Without a really long line, I doubt it's that good.",1.631828978622328,0.02463842834161197,842.0,427.0,298.0,117.0,577
 64,2 dogs with everything to go - including you.,1.6277292576419211,0.02561798940627848,916.0,509.0,239.0,168.0,577
 65,Don't make eye contact. It just encourages him.,1.6187335092348285,0.026429496532522263,758.0,400.0,247.0,111.0,577
 66,"All I said was 'Alexa, I'm hungry.'",1.6175395858708892,0.02636340284900757,821.0,451.0,233.0,137.0,577
@@ -76,7 +76,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 75,"I thought he said there would be taco trucks ON every corner, not IN every corner.",1.5968503937007874,0.028837469449864074,635.0,347.0,197.0,91.0,577
 76,That one's ok. There's a better one in the hallway.,1.5966257668711656,0.028423490825655377,652.0,356.0,203.0,93.0,577
 77,Is that for here or to go?,1.5960061443932412,0.02837726363271635,651.0,355.0,204.0,92.0,577
-78,What if concessions AREN'T the secret to a happy marriage?,1.59369527145359,0.030849013051027864,571.0,318.0,167.0,86.0,577
+78,What if concessions AREN'T the secret to a happy marriage?,1.5936952714535901,0.030849013051027864,571.0,318.0,167.0,86.0,577
 79,Too close for comfort food,1.5907534246575343,0.030135060437366107,584.0,323.0,177.0,84.0,577
 80,Let's go now while there's no line,1.5865384615384617,0.03080522109597308,520.0,280.0,175.0,65.0,577
 81,You knew going in that marriage meant concessions.,1.5863247863247862,0.03040772952557417,585.0,329.0,169.0,87.0,577
@@ -162,7 +162,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 161,I'll have the house special.,1.494339622641509,0.04347694285749496,265.0,167.0,65.0,33.0,577
 161,Maybe we weren't clear when we asked him to move out or get a job.,1.494339622641509,0.04540673019338442,265.0,173.0,53.0,39.0,577
 163,Was this really cheaper than a NYC apartment with a kitchen?,1.4903474903474905,0.04320346045202412,259.0,162.0,67.0,30.0,577
-164,"Well, you said that you wanted to eat in more.",1.4902723735408558,0.04448993529988306,257.0,164.0,60.0,33.0,577
+164,"Well, you said that you wanted to eat in more.",1.4902723735408558,0.044489935299883064,257.0,164.0,60.0,33.0,577
 165,"When we told our son to get a job, I meant for him to leave the house also",1.4883720930232558,0.05835715087175794,129.0,78.0,39.0,12.0,577
 166,You're the one who wanted dine-in instead of take-out.,1.48828125,0.04028940263031456,256.0,152.0,83.0,21.0,577
 167,That's why you don't tip a cart guy.,1.4859437751004017,0.041078068933746326,249.0,149.0,79.0,21.0,577
@@ -170,13 +170,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 169,I told you there would be concessions in our marriage.,1.4855967078189298,0.04454755190199123,243.0,153.0,62.0,28.0,577
 170,OK - I shouldn't have told your brother to get a job.,1.4854771784232366,0.04325116627207762,241.0,148.0,69.0,24.0,577
 170,He comes with the ESPN Ultimate Sports Pack bundle.,1.4854771784232366,0.044821601603917176,241.0,152.0,61.0,28.0,577
-172,I feel guilty when we order pizza.,1.4838709677419355,0.043504469024578184,248.0,155.0,66.0,27.0,577
+172,I feel guilty when we order pizza.,1.4838709677419355,0.04350446902457818,248.0,155.0,66.0,27.0,577
 172,Can we re-gift it?,1.4838709677419355,0.04424859942248606,248.0,157.0,62.0,29.0,577
 172,Feel like a hotdog or would you prefer Korean barbecue from the living room?,1.4838709677419355,0.04387811171849877,248.0,156.0,64.0,28.0,577
 175,"I want tacos, but I don't feel like walking all the way past the lamp.",1.48068669527897,0.04431643561151125,233.0,145.0,64.0,24.0,577
 176,"I still like the food, but the attitude is starting to get to me.",1.4791666666666667,0.04002610578839657,240.0,141.0,83.0,16.0,577
-177,"""Full kitchen"" in the ad was misleading",1.476851851851852,0.045438873209178436,216.0,134.0,61.0,21.0,577
-178,"Will you please stop asking ""For here or to go?""",1.4765957446808509,0.04683495425915626,235.0,154.0,50.0,31.0,577
+177,"""Full kitchen"" in the ad was misleading",1.4768518518518519,0.045438873209178436,216.0,134.0,61.0,21.0,577
+178,"Will you please stop asking ""For here or to go?""",1.4765957446808509,0.046834954259156264,235.0,154.0,50.0,31.0,577
 178,I don't care what you're watching I'm still closing at 9.,1.4765957446808509,0.04319931363148494,235.0,145.0,68.0,22.0,577
 180,Don't you think Amazon is going a bit too far?,1.4763948497854078,0.04674552931311482,233.0,152.0,51.0,30.0,577
 180,I guess this is what the hotel meant by 'New York ambience'.,1.4763948497854078,0.04472304965589361,233.0,147.0,61.0,25.0,577
@@ -191,7 +191,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 187,"I guess you shoulda read the entire description before you bought me that ""hot dog cooker"" on ebay.",1.47136563876652,0.044712614539422366,227.0,143.0,61.0,23.0,577
 191,Maybe your brother's business would pick up in a different location.,1.4711111111111108,0.045439263103546235,225.0,143.0,58.0,24.0,577
 191,"Sure he's close, but he's only got 3 stars on Yelp.",1.4711111111111108,0.04673087042246183,225.0,146.0,52.0,27.0,577
-191,"The food's so-so, but you can't beat the delivery.",1.4711111111111108,0.04273910847570479,225.0,137.0,70.0,18.0,577
+191,"The food's so-so, but you can't beat the delivery.",1.4711111111111108,0.042739108475704786,225.0,137.0,70.0,18.0,577
 194,"First they buy up Whole Foods, and now this.",1.46875,0.05057816359492753,192.0,125.0,44.0,23.0,577
 195,"Your ex husband seems a swell guy but I just don't feel comfortable about this arrangement,",1.4684684684684686,0.043603361035841406,222.0,137.0,66.0,19.0,577
 195,You're out of hot dogs?!,1.4684684684684686,0.047195032225846915,222.0,145.0,50.0,27.0,577
@@ -229,10 +229,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 227,Tell your brother I'm sick of his fucking hot dogs.,1.4438502673796791,0.05729022375096511,187.0,138.0,15.0,34.0,577
 227,"I said to myself, if a guy from Yemen has been making pitch perfect knish for the past 27 years, I think he deserves sanctuary, even if we gotta give up the wet bar.",1.4438502673796791,0.05034537372943735,187.0,125.0,41.0,21.0,577
 230,He says business was better with the previous tenants.,1.4432432432432432,0.04957340165854305,185.0,122.0,44.0,19.0,577
-231,"You make demands, I make concessions.",1.4409937888198758,0.052012839206348534,161.0,105.0,41.0,15.0,577
+231,"You make demands, I make concessions.",1.4409937888198758,0.05201283920634853,161.0,105.0,41.0,15.0,577
 232,"We don't have room for both, so I got rid of the treadmill.",1.4406779661016949,0.053036676145532737,177.0,121.0,34.0,22.0,577
-233,$4.50 for a hot dog get the fuck out.,1.4402173913043481,0.054860671301516166,184.0,131.0,25.0,28.0,577
-233,"I want to go to the fridge, but I think he'll be offended.",1.4402173913043481,0.0532118751964754,184.0,128.0,31.0,25.0,577
+233,$4.50 for a hot dog get the fuck out.,1.440217391304348,0.054860671301516166,184.0,131.0,25.0,28.0,577
+233,"I want to go to the fridge, but I think he'll be offended.",1.440217391304348,0.0532118751964754,184.0,128.0,31.0,25.0,577
 235,Should we tell him we're vegan?,1.4388888888888889,0.05115906044368268,180.0,121.0,39.0,20.0,577
 235,I dare you to call for Chinese.,1.4388888888888889,0.04930547359257401,180.0,118.0,45.0,17.0,577
 235,When your profile said 'dog lover' I really didn't think...,1.4388888888888889,0.05235834182192895,180.0,123.0,35.0,22.0,577
@@ -243,7 +243,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 240,To eat here or take out?,1.4357541899441342,0.05134900210408037,179.0,121.0,38.0,20.0,577
 240,"You two could use a little relish, if you don't mind my saying so.",1.4357541899441342,0.048196125610835895,179.0,116.0,48.0,15.0,577
 244,Home is where the cart is.,1.4352941176470588,0.053355304879578916,170.0,116.0,34.0,20.0,577
-245,"Sweetheart, the song is , ""Take me OUT to the ballgame"".",1.4347826086956519,0.06790909691200052,92.0,60.0,24.0,8.0,577
+245,"Sweetheart, the song is , ""Take me OUT to the ballgame"".",1.434782608695652,0.06790909691200052,92.0,60.0,24.0,8.0,577
 246,Do I complain about the fashion truck in your bedroom?,1.4342857142857144,0.04896105677912723,175.0,114.0,46.0,15.0,577
 246,Oh come on--it's a minor concession!,1.4342857142857144,0.04962727602761117,175.0,115.0,44.0,16.0,577
 246,That's not what I meant when I said ' home cooking'.,1.4342857142857144,0.04828564627233575,175.0,113.0,48.0,14.0,577
@@ -257,7 +257,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 256,I miss the days when vendors came right to our seats.,1.430232558139535,0.04953297139884588,172.0,113.0,44.0,15.0,577
 256,"Well, we did tell him to get a job or move out.",1.430232558139535,0.050887269209573316,172.0,115.0,40.0,17.0,577
 256,"I know this is weird, Helen. I'll kick him out right after Taco Tuesday.",1.430232558139535,0.052206446724674636,172.0,117.0,36.0,19.0,577
-256,"I love this ""Food Cart of the Month"" club.",1.430232558139535,0.048841742389011185,172.0,112.0,46.0,14.0,577
+256,"I love this ""Food Cart of the Month"" club.",1.430232558139535,0.04884174238901119,172.0,112.0,46.0,14.0,577
 260,I think he's starting to suspect that sometimes we eat elsewhere.,1.4294117647058824,0.05063225082303337,170.0,113.0,41.0,16.0,577
 260,"I agree your cousin should focus on just one type of street food, but I think he needs to ask himself a couple of other tough questions.",1.4294117647058824,0.04994007588232406,170.0,112.0,43.0,15.0,577
 262,"That's not what I expected when I asked, 'What begins with F and ends with U-C-K?'",1.4260355029585798,0.05733265300345855,169.0,123.0,20.0,26.0,577
@@ -278,8 +278,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 275,"Well, I'll give you that. It is convenient.",1.41875,0.04894474085366786,160.0,104.0,45.0,11.0,577
 275,You two really need to get out more.,1.41875,0.05354704259284777,160.0,110.0,33.0,17.0,577
 275,Let me have the house special with some home fries.,1.41875,0.04894474085366786,160.0,104.0,45.0,11.0,577
-280,"Honey, please don't go on any more game shows.",1.4177215189873418,0.05096440706200701,158.0,105.0,40.0,13.0,577
-280,This is the next upgrade for Amazon prime delivery.,1.4177215189873418,0.05096440706200701,158.0,105.0,40.0,13.0,577
+280,"Honey, please don't go on any more game shows.",1.4177215189873418,0.050964407062007014,158.0,105.0,40.0,13.0,577
+280,This is the next upgrade for Amazon prime delivery.,1.4177215189873418,0.050964407062007014,158.0,105.0,40.0,13.0,577
 280,Where do you think that hot dog guy washes his hands?,1.4177215189873418,0.05403585298221674,158.0,109.0,32.0,17.0,577
 280,"""Since when did you decide 'No shoes no service' "" ?",1.4177215189873418,0.05252258654473183,158.0,107.0,36.0,15.0,577
 284,Sometimes I feel like we’re his only customers.,1.4172185430463575,0.05345263909673007,151.0,102.0,35.0,14.0,577
@@ -345,9 +345,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 340,How can you be out?! The game just started!,1.3863636363636365,0.06050115255250325,132.0,97.0,19.0,16.0,577
 345,We'll use him more than the vitamix.,1.3846153846153846,0.058182177838937414,130.0,93.0,24.0,13.0,577
 345,"When you won the ""Hot dogs for life"" contest, I didn't expect this.",1.3846153846153846,0.05609496099765123,130.0,91.0,28.0,11.0,577
-347,He was grandfathered in when they built this place.,1.3840000000000001,0.055397682494906335,125.0,86.0,30.0,9.0,577
-347,"Believe me, a hotdog cart in your living room is the least of your problems.",1.3840000000000001,0.055397682494906335,125.0,86.0,30.0,9.0,577
-347,It was much cheaper than a kitchen remodel.,1.3840000000000001,0.056550291633827736,125.0,87.0,28.0,10.0,577
+347,He was grandfathered in when they built this place.,1.384,0.055397682494906335,125.0,86.0,30.0,9.0,577
+347,"Believe me, a hotdog cart in your living room is the least of your problems.",1.384,0.055397682494906335,125.0,86.0,30.0,9.0,577
+347,It was much cheaper than a kitchen remodel.,1.384,0.056550291633827736,125.0,87.0,28.0,10.0,577
 350,It's taking my dad a little bit of time getting used to retirement.,1.3828125,0.05668965728300158,128.0,90.0,27.0,11.0,577
 350,He's watching us again.,1.3828125,0.05668965728300158,128.0,90.0,27.0,11.0,577
 350,You're right - I don't miss the piano at all.,1.3828125,0.059856593045822026,128.0,93.0,21.0,14.0,577
@@ -375,18 +375,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 368,Of course business is bad: we're your only customers. And we're vegan.,1.371900826446281,0.05883655209937073,121.0,87.0,23.0,11.0,577
 368,If you order from him he'll just keep coming back.,1.371900826446281,0.056446946500922926,121.0,85.0,27.0,9.0,577
 376,"Location, location, location!",1.3714285714285714,0.06091058548713136,105.0,74.0,23.0,8.0,577
-377,We should have gone with the armoire.,1.369747899159664,0.054514921689993945,119.0,82.0,30.0,7.0,577
-377,Local enough for you?,1.369747899159664,0.054514921689993945,119.0,82.0,30.0,7.0,577
-377,"...and all locally-sourced, street-to-table.",1.369747899159664,0.05830236913503538,119.0,85.0,24.0,10.0,577
-377,"You know, honey, eventually someone is going to come looking for him.",1.369747899159664,0.05830236913503538,119.0,85.0,24.0,10.0,577
-377,"Nah, it's too far.",1.369747899159664,0.06069617741960714,119.0,87.0,20.0,12.0,577
-377,Do we have to tip him if he lives here?,1.369747899159664,0.054514921689993945,119.0,82.0,30.0,7.0,577
-377,Now the Schwartz's on the 8th floor -- that is a great location.,1.369747899159664,0.054514921689993945,119.0,82.0,30.0,7.0,577
-377,Does he deliver?,1.369747899159664,0.0570678227503089,119.0,84.0,26.0,9.0,577
-377,This feels a tad too local.,1.369747899159664,0.054514921689993945,119.0,82.0,30.0,7.0,577
-377,What do you mean you're out of hot dogs?,1.369747899159664,0.05830236913503538,119.0,85.0,24.0,10.0,577
-377,This is not what I meant by eating in.,1.369747899159664,0.059511310690113166,119.0,86.0,22.0,11.0,577
-377,The last guy hated MSNBC. And he used too much chopped onions.,1.369747899159664,0.055805972262504513,119.0,83.0,28.0,8.0,577
+377,We should have gone with the armoire.,1.3697478991596639,0.054514921689993945,119.0,82.0,30.0,7.0,577
+377,Local enough for you?,1.3697478991596639,0.054514921689993945,119.0,82.0,30.0,7.0,577
+377,"...and all locally-sourced, street-to-table.",1.3697478991596639,0.05830236913503538,119.0,85.0,24.0,10.0,577
+377,"You know, honey, eventually someone is going to come looking for him.",1.3697478991596639,0.05830236913503538,119.0,85.0,24.0,10.0,577
+377,"Nah, it's too far.",1.3697478991596639,0.06069617741960714,119.0,87.0,20.0,12.0,577
+377,Do we have to tip him if he lives here?,1.3697478991596639,0.054514921689993945,119.0,82.0,30.0,7.0,577
+377,Now the Schwartz's on the 8th floor -- that is a great location.,1.3697478991596639,0.054514921689993945,119.0,82.0,30.0,7.0,577
+377,Does he deliver?,1.3697478991596639,0.0570678227503089,119.0,84.0,26.0,9.0,577
+377,This feels a tad too local.,1.3697478991596639,0.054514921689993945,119.0,82.0,30.0,7.0,577
+377,What do you mean you're out of hot dogs?,1.3697478991596639,0.05830236913503538,119.0,85.0,24.0,10.0,577
+377,This is not what I meant by eating in.,1.3697478991596639,0.059511310690113166,119.0,86.0,22.0,11.0,577
+377,The last guy hated MSNBC. And he used too much chopped onions.,1.3697478991596639,0.055805972262504513,119.0,83.0,28.0,8.0,577
 389,I said I would take care of dinner.,1.3675213675213675,0.060206798789154636,117.0,85.0,21.0,11.0,577
 389,"Technically, it's not street meat.",1.3675213675213675,0.061418407963455775,117.0,86.0,19.0,12.0,577
 389,His business plan states he is passionate about maintaining his laser beam focus on a small but promising demographic.,1.3675213675213675,0.057707314855070885,117.0,83.0,25.0,9.0,577
@@ -430,22 +430,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 421,Raise the volume? Lower your prices.,1.3545454545454545,0.05568043520945997,110.0,77.0,27.0,6.0,577
 421,Do we really have to consider what he wants to watch?,1.3545454545454545,0.05859967754092615,110.0,79.0,23.0,8.0,577
 431,"Hi, our specialty is home fries.",1.3523809523809525,0.058960706448755625,105.0,75.0,23.0,7.0,577
-432,Even the hot dog guy thinks its better to watch baseball on t.v.,1.351851851851852,0.05929494425725719,108.0,78.0,22.0,8.0,577
-432,It followed me home from the park.,1.351851851851852,0.0621452407472017,108.0,80.0,18.0,10.0,577
-432,Just ignore him.,1.351851851851852,0.05474193652846605,108.0,75.0,28.0,5.0,577
-432,I thought you might like something other than my French cooking.,1.351851851851852,0.05929494425725719,108.0,78.0,22.0,8.0,577
-432,I knew your dad would find some way to chaperone us !,1.351851851851852,0.056300531804014224,108.0,76.0,26.0,6.0,577
-432,"I'll have a hot dog Dad, but then you have to go.",1.351851851851852,0.0621452407472017,108.0,80.0,18.0,10.0,577
-432,It's just until he gets enough money for a car.,1.351851851851852,0.056300531804014224,108.0,76.0,26.0,6.0,577
-432,"Smith, party of two.",1.351851851851852,0.05929494425725719,108.0,78.0,22.0,8.0,577
-432,Cart to Couch: it's the new Farm to Table,1.351851851851852,0.05929494425725719,108.0,78.0,22.0,8.0,577
-432,He says I'm his best customer.,1.351851851851852,0.06352244653707749,108.0,81.0,16.0,11.0,577
-432,But does he deliver?,1.351851851851852,0.056300531804014224,108.0,76.0,26.0,6.0,577
-432,"Lets just all go out, I don't feel much like cooking either.",1.351851851851852,0.06073681487367812,108.0,79.0,20.0,9.0,577
-432,I'd like to go out to eat but I feel so guilty.,1.351851851851852,0.0621452407472017,108.0,80.0,18.0,10.0,577
-432,I think we need to find your father a new hobby.,1.351851851851852,0.0621452407472017,108.0,80.0,18.0,10.0,577
-432,I told him I might buy a hot dog after the game.,1.351851851851852,0.0578171267700413,108.0,77.0,24.0,7.0,577
-432,What do you mean to go only?,1.351851851851852,0.06073681487367812,108.0,79.0,20.0,9.0,577
+432,Even the hot dog guy thinks its better to watch baseball on t.v.,1.3518518518518519,0.05929494425725719,108.0,78.0,22.0,8.0,577
+432,It followed me home from the park.,1.3518518518518519,0.0621452407472017,108.0,80.0,18.0,10.0,577
+432,Just ignore him.,1.3518518518518519,0.05474193652846605,108.0,75.0,28.0,5.0,577
+432,I thought you might like something other than my French cooking.,1.3518518518518519,0.05929494425725719,108.0,78.0,22.0,8.0,577
+432,I knew your dad would find some way to chaperone us !,1.3518518518518519,0.056300531804014224,108.0,76.0,26.0,6.0,577
+432,"I'll have a hot dog Dad, but then you have to go.",1.3518518518518519,0.0621452407472017,108.0,80.0,18.0,10.0,577
+432,It's just until he gets enough money for a car.,1.3518518518518519,0.056300531804014224,108.0,76.0,26.0,6.0,577
+432,"Smith, party of two.",1.3518518518518519,0.05929494425725719,108.0,78.0,22.0,8.0,577
+432,Cart to Couch: it's the new Farm to Table,1.3518518518518519,0.05929494425725719,108.0,78.0,22.0,8.0,577
+432,He says I'm his best customer.,1.3518518518518519,0.06352244653707749,108.0,81.0,16.0,11.0,577
+432,But does he deliver?,1.3518518518518519,0.056300531804014224,108.0,76.0,26.0,6.0,577
+432,"Lets just all go out, I don't feel much like cooking either.",1.3518518518518519,0.06073681487367812,108.0,79.0,20.0,9.0,577
+432,I'd like to go out to eat but I feel so guilty.,1.3518518518518519,0.0621452407472017,108.0,80.0,18.0,10.0,577
+432,I think we need to find your father a new hobby.,1.3518518518518519,0.0621452407472017,108.0,80.0,18.0,10.0,577
+432,I told him I might buy a hot dog after the game.,1.3518518518518519,0.0578171267700413,108.0,77.0,24.0,7.0,577
+432,What do you mean to go only?,1.3518518518518519,0.06073681487367812,108.0,79.0,20.0,9.0,577
 448,"Trust me, you'll be glad he's here at 2 a.m.",1.349056603773585,0.060012656392277985,106.0,77.0,21.0,8.0,577
 448,"Believe me, if you park it they will come.",1.349056603773585,0.060012656392277985,106.0,77.0,21.0,8.0,577
 448,"When I was talking about making concessions in our relationship, this isn't really what I had in mind.",1.349056603773585,0.058496362347931215,106.0,76.0,23.0,7.0,577
@@ -517,16 +517,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 507,I'm too tired to go out. Do you think they deliver?,1.3298969072164948,0.0650826356237755,97.0,74.0,14.0,9.0,577
 517,I don't know why you're complaining. You said you wanted more concessions in our relationship...,1.3297872340425532,0.06660079885917311,94.0,72.0,13.0,9.0,577
 518,On second thought the antique corner hutch might have been a better choice!,1.3296703296703296,0.0606334994770947,91.0,66.0,20.0,5.0,577
-519,The landlord did say this unit had remarkable city views,1.326315789473684,0.058808827759374564,95.0,69.0,21.0,5.0,577
-519,"""To go"" this time.",1.326315789473684,0.06250125241864157,95.0,71.0,17.0,7.0,577
-519,Next!,1.326315789473684,0.058808827759374564,95.0,69.0,21.0,5.0,577
-519,Shall we dine in tonight?,1.326315789473684,0.06068313100166525,95.0,70.0,19.0,6.0,577
-519,Define ubiquitous.,1.326315789473684,0.058808827759374564,95.0,69.0,21.0,5.0,577
-519,How about the three of us go out for Thai tonight?,1.326315789473684,0.05687278836753393,95.0,68.0,23.0,4.0,577
-519,"'I know you don't like to cook, but this is ridiculous.""",1.326315789473684,0.06250125241864157,95.0,71.0,17.0,7.0,577
-519,"Honey, I thought you wanted a good fuck. Not a food truck."" ""I do...",1.326315789473684,0.06250125241864157,95.0,71.0,17.0,7.0,577
-519,"I see three problems with your business school project - location, location, location!",1.326315789473684,0.06250125241864157,95.0,71.0,17.0,7.0,577
-519,Who knew that dining in could be so easy?,1.326315789473684,0.058808827759374564,95.0,69.0,21.0,5.0,577
+519,The landlord did say this unit had remarkable city views,1.3263157894736841,0.058808827759374564,95.0,69.0,21.0,5.0,577
+519,"""To go"" this time.",1.3263157894736841,0.06250125241864157,95.0,71.0,17.0,7.0,577
+519,Next!,1.3263157894736841,0.058808827759374564,95.0,69.0,21.0,5.0,577
+519,Shall we dine in tonight?,1.3263157894736841,0.06068313100166525,95.0,70.0,19.0,6.0,577
+519,Define ubiquitous.,1.3263157894736841,0.058808827759374564,95.0,69.0,21.0,5.0,577
+519,How about the three of us go out for Thai tonight?,1.3263157894736841,0.05687278836753393,95.0,68.0,23.0,4.0,577
+519,"'I know you don't like to cook, but this is ridiculous.""",1.3263157894736841,0.06250125241864157,95.0,71.0,17.0,7.0,577
+519,"Honey, I thought you wanted a good fuck. Not a food truck."" ""I do...",1.3263157894736841,0.06250125241864157,95.0,71.0,17.0,7.0,577
+519,"I see three problems with your business school project - location, location, location!",1.3263157894736841,0.06250125241864157,95.0,71.0,17.0,7.0,577
+519,Who knew that dining in could be so easy?,1.3263157894736841,0.058808827759374564,95.0,69.0,21.0,5.0,577
 529,I'll give him five stars for convenience but only one star for creepy staring.,1.3258426966292134,0.0634698115746925,89.0,66.0,17.0,6.0,577
 529,One hell of a waiting room.,1.3258426966292134,0.061425193254997526,89.0,65.0,19.0,5.0,577
 529,"You have to admit, it was a lot cheaper than redoing the kitchen.",1.3258426966292134,0.05931013194641045,89.0,64.0,21.0,4.0,577
@@ -1045,7 +1045,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 977,"I just casually mentioned to ""Alexa"" that I'd like a hot dog, and......",1.2419354838709675,0.06375141715523479,62.0,49.0,11.0,2.0,577
 977,"Yes, but it's much faster than Internet delivery.",1.2419354838709675,0.06375141715523479,62.0,49.0,11.0,2.0,577
 977,I think you need to find a spot with more foot traffic.,1.2419354838709675,0.06375141715523479,62.0,49.0,11.0,2.0,577
-1047,I guess Amazon noticed we ordered out every Wed. night.,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,577
+1047,I guess Amazon noticed we ordered out every Wed. night.,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,577
 1048,"Honey, try to avoid eye contact and maybe he'll just move on.",1.2372881355932204,0.06549270642063962,59.0,47.0,10.0,2.0,577
 1048,Let's eat out; I'm tired of the taco truck.,1.2372881355932204,0.07387964311085886,59.0,49.0,6.0,4.0,577
 1048,Thought it would be a good idea for the winter,1.2372881355932204,0.07387964311085886,59.0,49.0,6.0,4.0,577
@@ -2136,7 +2136,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2135,..wait for the commercial,1.1428571428571428,0.0644049739048166,42.0,37.0,4.0,1.0,577
 2135,I felt bad for him. All the good spots out front were taken.,1.1428571428571428,0.0644049739048166,42.0,37.0,4.0,1.0,577
 2135,You said it was my night to cook.,1.1428571428571428,0.0644049739048166,42.0,37.0,4.0,1.0,577
-2135,What's the matter? You said you wanted to Netflix and chill.,1.1428571428571428,0.05050762722761053,49.0,42.0,7.0,0.0,577
+2135,What's the matter? You said you wanted to Netflix and chill.,1.1428571428571428,0.050507627227610534,49.0,42.0,7.0,0.0,577
 2135,You'll find us in more than 200 living rooms nationwide,1.1428571428571428,0.0644049739048166,42.0,37.0,4.0,1.0,577
 2140,Nothin like a good TV dinner.,1.1395348837209305,0.053466700795452085,43.0,37.0,6.0,0.0,577
 2140,"… but then again, I’d have been perfectly happy if you brought me back an ‘I ? N Y’ fridge magnet.",1.1395348837209305,0.06297704189640277,43.0,38.0,4.0,1.0,577
@@ -4030,7 +4030,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3984,No line? No thanks.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
 3984,New York is getting too crowded.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
 3984,Will the beer man be coming by soon?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
-3984,I hope he's serving couch potatoes.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,577
+3984,I hope he's serving couch potatoes.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,577
 3984,Sweetie I said ice cream truck not food truck.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
 3984,"Alexei, order Thai food.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
 3984,I still think Rob should be in the kitchen.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,577
@@ -4180,7 +4180,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3984,Do you want to watch 'Weiner'?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
 3984,BREAKING NEWS again ... We better eat in ... again,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
 3984,"I hate to tell him, but i'm in the mood for delivery.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
-3984,You were right - a taco stand would have been better.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,577
+3984,You were right - a taco stand would have been better.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,577
 3984,Sorry the pizza food truck is on Wednesday,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
 3984,I really don't think you'll need Bite Squad.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
 3984,We eat to our much.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
@@ -4217,7 +4217,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3984,I alway wished I could work from home.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
 3984,When I suggested we eat out more this isn't what I had in mind.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
 3984,"Wow, you can really get anything home delivered these days",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
-3984,"Come on you couch potatoes, it's the 7th inning stretch.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,577
+3984,"Come on you couch potatoes, it's the 7th inning stretch.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,577
 3984,This is much better than buying a new refrigerator.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
 3984,We're building our street food business. Just waiting on the investor willing to front us the money for a truck.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577
 3984,Do you have a dollar?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,577

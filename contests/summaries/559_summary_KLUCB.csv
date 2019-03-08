@@ -19,7 +19,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 18,His attitude is really ruining it for me.,1.6148867313915858,0.0419108577310324,309.0,166.0,96.0,47.0,559
 19,Great execution.,1.6132450331125827,0.02783513966254086,755.0,423.0,201.0,131.0,559
 20,Come back...they read the wrong envelope.,1.6119610570236442,0.02948284152574605,719.0,418.0,162.0,139.0,559
-21,A bottle of rum says he doesn't stick it.,1.6059701492537313,0.040107557120631986,335.0,182.0,103.0,50.0,559
+21,A bottle of rum says he doesn't stick it.,1.6059701492537313,0.04010755712063199,335.0,182.0,103.0,50.0,559
 22,Wait 'til he finds out this is the shallow end.,1.6046511627906976,0.04964454149954505,215.0,116.0,68.0,31.0,559
 23,"Well, that's a perfect execution!",1.5961844197138315,0.030992825463958075,629.0,368.0,147.0,114.0,559
 24,Perfect execution.,1.5948136142625609,0.03123060148787315,617.0,361.0,145.0,111.0,559
@@ -66,13 +66,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 65,Talk about a man going overboard.,1.5,0.044390141420982326,268.0,171.0,60.0,37.0,559
 66,"Well, it is his swan song.",1.4900398406374502,0.04238414715322079,251.0,153.0,73.0,25.0,559
 67,We're gonna kick Blackbeard's ass at Regionals.,1.4898785425101215,0.04475827288090968,247.0,156.0,61.0,30.0,559
-68,He's gone a little overboard.,1.4855967078189298,0.04416417377739978,243.0,152.0,64.0,27.0,559
-68,And that's why we had to get rid of him.,1.4855967078189298,0.04416417377739978,243.0,152.0,64.0,27.0,559
+68,He's gone a little overboard.,1.4855967078189298,0.044164173777399784,243.0,152.0,64.0,27.0,559
+68,And that's why we had to get rid of him.,1.4855967078189298,0.044164173777399784,243.0,152.0,64.0,27.0,559
 70,I like to call this the elimination round.,1.4853556485355648,0.045100036631986286,239.0,151.0,60.0,28.0,559
-70,Perfect execution.,1.4853556485355648,0.047381181396340184,239.0,157.0,48.0,34.0,559
+70,Perfect execution.,1.4853556485355648,0.04738118139634018,239.0,157.0,48.0,34.0,559
 70,"Arrrgh! I said your swan song, not your swan dive!",1.4853556485355648,0.04470853158502048,239.0,150.0,62.0,27.0,559
 70,Come to think of it. Do either of you know how to steer a ship?,1.4853556485355648,0.04470853158502048,239.0,150.0,62.0,27.0,559
-74,Good old Roger. Jolly til the end.,1.4838709677419355,0.04714804308722279,217.0,137.0,55.0,25.0,559
+74,Good old Roger. Jolly til the end.,1.4838709677419355,0.047148043087222785,217.0,137.0,55.0,25.0,559
 75,Superb execution.,1.4831932773109244,0.04715664078153059,238.0,156.0,49.0,33.0,559
 76,Talk about going overboard.,1.4830508474576272,0.04895816921648277,236.0,159.0,40.0,37.0,559
 76,This really undermines our credibility.,1.4830508474576272,0.0434975167041426,236.0,145.0,68.0,23.0,559
@@ -80,7 +80,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 79,"Well, I give him a 10 for execution.",1.4782608695652173,0.04598794311819957,230.0,147.0,56.0,27.0,559
 80,He is part of our catch and release program.,1.4755555555555555,0.045885372093228564,225.0,143.0,57.0,25.0,559
 81,Another flawless execution!,1.4729729729729732,0.04589412151092185,222.0,141.0,57.0,24.0,559
-81,"Honestly, I was expectin' a cannonball.",1.4729729729729732,0.044997120974180786,222.0,139.0,61.0,22.0,559
+81,"Honestly, I was expectin' a cannonball.",1.4729729729729732,0.04499712097418079,222.0,139.0,61.0,22.0,559
 81,He takes all the fun out of it.,1.4729729729729732,0.044541847170026086,222.0,138.0,63.0,21.0,559
 81,I'll give him a 10 for execution.,1.4729729729729732,0.04931924941071241,222.0,149.0,41.0,32.0,559
 85,He doesnt seem to be taking this seriously,1.4724770642201834,0.04651078732436899,218.0,139.0,55.0,24.0,559
@@ -151,8 +151,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 145,"In fairness, I did tell him to go overboard",1.4109589041095891,0.05805152442136256,146.0,104.0,24.0,18.0,559
 145,I'd give it a 10 for execution.,1.4109589041095891,0.0555568137475087,146.0,101.0,30.0,15.0,559
 152,"I said, ""walk it"" not ""work it""!",1.4100719424460433,0.05759304271804225,139.0,97.0,27.0,15.0,559
-153,"Zero points for attempted mutiny, but ten points for the dive.",1.406896551724138,0.054047438829925284,145.0,99.0,33.0,13.0,559
-153,"Y'know, if he'd put that much effort into his work, he'd still have a job.",1.406896551724138,0.05492641518147294,145.0,100.0,31.0,14.0,559
+153,"Zero points for attempted mutiny, but ten points for the dive.",1.4068965517241379,0.054047438829925284,145.0,99.0,33.0,13.0,559
+153,"Y'know, if he'd put that much effort into his work, he'd still have a job.",1.4068965517241379,0.05492641518147294,145.0,100.0,31.0,14.0,559
 155,No more final requests.,1.4055944055944056,0.05546803289175796,143.0,99.0,30.0,14.0,559
 155,His option was to be Trump's National Security Advisor....,1.4055944055944056,0.056348875136249865,143.0,100.0,28.0,15.0,559
 155,This isn't working. Somebody shoot him.,1.4055944055944056,0.05721615842889325,143.0,101.0,26.0,16.0,559
@@ -166,10 +166,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 163,Nice execution!,1.4042553191489362,0.051303893653184204,141.0,93.0,39.0,9.0,559
 163,He's taking all the fun out of this for me.,1.4042553191489362,0.0560238798812241,141.0,98.0,29.0,14.0,559
 163,Ten for execution.,1.4042553191489362,0.05324212382282164,141.0,95.0,35.0,11.0,559
-163,I figured he'd do a cannonball.,1.4042553191489362,0.055112230896164134,141.0,97.0,31.0,13.0,559
-163,Only happens when we smuggle performance enhancing drugs.,1.4042553191489362,0.055112230896164134,141.0,97.0,31.0,13.0,559
+163,I figured he'd do a cannonball.,1.4042553191489362,0.05511223089616413,141.0,97.0,31.0,13.0,559
+163,Only happens when we smuggle performance enhancing drugs.,1.4042553191489362,0.05511223089616413,141.0,97.0,31.0,13.0,559
 163,Talk about a perfect execution.,1.4042553191489362,0.0560238798812241,141.0,98.0,29.0,14.0,559
-171,He's not taking this very seriously.,1.4028776978417266,0.053760111264552934,139.0,94.0,34.0,11.0,559
+171,He's not taking this very seriously.,1.4028776978417266,0.05376011126455293,139.0,94.0,34.0,11.0,559
 171,Does anyone else think he is going a little overboard?,1.4028776978417266,0.052781484903532204,139.0,93.0,36.0,10.0,559
 173,Such graceful execution!,1.3970588235294117,0.05647546729104048,136.0,95.0,28.0,13.0,559
 173,Arg! I knew Roger would remain jolly till the very end.,1.3970588235294117,0.05550266609693397,136.0,94.0,30.0,12.0,559
@@ -202,9 +202,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 190,"Fine with me, I've seen enough cannonballs.",1.3875968992248062,0.05855792608425631,129.0,92.0,24.0,13.0,559
 202,Seeing him embrace his fate joyfully kinda ruins it for me.,1.3858267716535433,0.055950998181769115,127.0,88.0,29.0,10.0,559
 202,Perfectly executed,1.3858267716535433,0.05705697656281144,127.0,89.0,27.0,11.0,559
-204,Arghh! A proper pirate would do a jackknife.,1.3840000000000001,0.05301734348001058,125.0,84.0,34.0,7.0,559
-204,"Anyone yells out a number, they're goin' in too.",1.3840000000000001,0.058787753826796275,125.0,89.0,24.0,12.0,559
-204,I knew he'd do this! That's why I parked in 3 feet of water !,1.3840000000000001,0.06094312525731702,125.0,91.0,20.0,14.0,559
+204,Arghh! A proper pirate would do a jackknife.,1.384,0.05301734348001058,125.0,84.0,34.0,7.0,559
+204,"Anyone yells out a number, they're goin' in too.",1.384,0.058787753826796275,125.0,89.0,24.0,12.0,559
+204,I knew he'd do this! That's why I parked in 3 feet of water !,1.384,0.06094312525731702,125.0,91.0,20.0,14.0,559
 207,"Arr, he's good but I still prefer the cannonball.",1.3821138211382114,0.05355585310688398,123.0,83.0,33.0,7.0,559
 207,"You're right, he would have looked good strapped to the bow.",1.3821138211382114,0.0605632688182776,123.0,89.0,21.0,13.0,559
 207,"He had to go, but I am gonna miss his attitude.",1.3821138211382114,0.05478603310453257,123.0,84.0,31.0,8.0,559
@@ -888,13 +888,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 883,He's no Jackknife Sparrow.,1.2419354838709675,0.06777214707439459,62.0,50.0,9.0,3.0,559
 883,I say a 9.0 and anyone who says otherwise is a dirty landlubber,1.2419354838709675,0.06375141715523479,62.0,49.0,11.0,2.0,559
 883,Does he know we're in the shallow end?,1.2419354838709675,0.07517117385420148,62.0,52.0,5.0,5.0,559
-890,"When I said swan song, I was being figurative.",1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,559
-890,"If he does a cannonball, shoot him!",1.238095238095238,0.07052682201689092,63.0,52.0,7.0,4.0,559
-890,"You have to admit, for a traitorous, dog-faced, son-of-a-scallywog, his Swan Dive is impecable.",1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,559
-890,Seems only fair to give 'im points on 'is execution.,1.238095238095238,0.07406797819503039,63.0,53.0,5.0,5.0,559
-890,I told him this was to be his swan song; apparently he misheard”,1.238095238095238,0.06284876358057999,63.0,50.0,11.0,2.0,559
-890,Great form – a 9.8 for execution.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,559
-890,He'll die as he lived: groveling for approval.,1.238095238095238,0.06679820247360646,63.0,51.0,9.0,3.0,559
+890,"When I said swan song, I was being figurative.",1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,559
+890,"If he does a cannonball, shoot him!",1.2380952380952381,0.07052682201689092,63.0,52.0,7.0,4.0,559
+890,"You have to admit, for a traitorous, dog-faced, son-of-a-scallywog, his Swan Dive is impecable.",1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,559
+890,Seems only fair to give 'im points on 'is execution.,1.2380952380952381,0.07406797819503039,63.0,53.0,5.0,5.0,559
+890,I told him this was to be his swan song; apparently he misheard”,1.2380952380952381,0.06284876358057999,63.0,50.0,11.0,2.0,559
+890,Great form – a 9.8 for execution.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,559
+890,He'll die as he lived: groveling for approval.,1.2380952380952381,0.06679820247360646,63.0,51.0,9.0,3.0,559
 897,Thank God...the last of those trying Wallendas.,1.2372881355932204,0.06981223481771645,59.0,48.0,8.0,3.0,559
 897,I'd give it a piece of eight point five.,1.2372881355932204,0.07387964311085886,59.0,49.0,6.0,4.0,559
 897,"Well, he said he'd make death great again.",1.2372881355932204,0.06549270642063962,59.0,47.0,10.0,2.0,559
@@ -1835,7 +1835,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1830,A show-off to the end. But the sharks won't care.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,559
 1830,I told him we'd just appointed him National Security Advisor.,1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,559
 1830,"He reportedly earned gold in the ""Buccaneer All Star Games"".",1.1702127659574468,0.07014685887189226,47.0,41.0,4.0,2.0,559
-1830,"Arrgh, who gave him Red Bull?",1.1702127659574468,0.05541157865632541,47.0,39.0,8.0,0.0,559
+1830,"Arrgh, who gave him Red Bull?",1.1702127659574468,0.055411578656325414,47.0,39.0,8.0,0.0,559
 1838,"I said shove-off, show-off!",1.1666666666666667,0.06744608262285645,42.0,36.0,5.0,1.0,559
 1838,Maybe he did get that gold for a perfect 10.,1.1666666666666667,0.06744608262285645,42.0,36.0,5.0,1.0,559
 1838,I have a feeling he has done this before.,1.1666666666666667,0.07556728291396754,42.0,37.0,3.0,2.0,559
@@ -4434,7 +4434,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4193,I run a tight ship but he runs a tight butthole.,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,559
 4193,But no one can dive better than me. I'm the best at diving.,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,559
 4193,Is he entered in keel hauling?,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,559
-4193,"Aarghh! Next time, we have to be further from shore.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,559
+4193,"Aarghh! Next time, we have to be further from shore.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,559
 4193,"L'audace, l'audace, toujours l'audace!",1.0,0.05716619504750295,18.0,18.0,0.0,0.0,559
 4193,"8.5, 9, 9.1 matey",1.0,0.05716619504750295,18.0,18.0,0.0,0.0,559
 4193,"I’d call it the ""endive,"" me hearties. It be a treat for the sharks served raw or cooked.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,559
@@ -4522,7 +4522,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4193,"Before we sail away, don't forget to give him marks out of ten.",1.0,0.05716619504750295,18.0,18.0,0.0,0.0,559
 4193,Captain Jack Sparrow showing off again.,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,559
 4193,"Jim, do our shareholders a favor and leave this boardroom gracefully.",1.0,0.05716619504750295,18.0,18.0,0.0,0.0,559
-4193,Who did forget to tie him up..?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,559
+4193,Who did forget to tie him up..?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,559
 4193,"He was lousy pirate, mates--but he did have panache.",1.0,0.05716619504750295,18.0,18.0,0.0,0.0,559
 4193,I just felt a shiver in me timbers.,1.0,0.05716619504750295,18.0,18.0,0.0,0.0,559
 4193,"First mate: ""8.2"" Second mate: ""7.9"" Blackbeard: ""A plague take him! 7.1""",1.0,0.05716619504750295,18.0,18.0,0.0,0.0,559

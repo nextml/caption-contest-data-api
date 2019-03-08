@@ -55,7 +55,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 52,Another name for couch potato is lion steak.,1.5757575757575757,0.044813017680815685,297.0,178.0,67.0,52.0,531
 55,"You could tell her a thing or two about glass ceilings, couldn't you, hon?",1.5728813559322037,0.041612689702548826,295.0,165.0,91.0,39.0,531
 56,I see what you mean about the shower head.,1.5719178082191785,0.041943797961031336,292.0,164.0,89.0,39.0,531
-57,It's over your head.,1.570446735395189,0.04262200334507973,291.0,166.0,84.0,41.0,531
+57,It's over your head.,1.570446735395189,0.042622003345079734,291.0,166.0,84.0,41.0,531
 58,If Trump wins we're moving back to Kenya!,1.5649122807017544,0.04501998606321878,285.0,171.0,67.0,47.0,531
 58,I'm glad you're sitting down. The bill from the chiropractor arrived today.,1.5649122807017544,0.04276823416171529,285.0,163.0,83.0,39.0,531
 60,I broke another glass ceiling.,1.5587188612099645,0.04442497356709005,281.0,167.0,71.0,43.0,531
@@ -73,12 +73,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 72,How could we have let David Attenborough talk us into mating on camera?,1.5413533834586466,0.04735074103664548,266.0,168.0,52.0,46.0,531
 73,Gladys! I'm a giraffe. I look down on everyone.,1.5399239543726235,0.04398825359111869,263.0,155.0,74.0,34.0,531
 73,There's no way her neck is real.,1.5399239543726235,0.04332339271989965,263.0,153.0,78.0,32.0,531
-75,It's called Deep Throat.,1.5381679389312977,0.04477925289056407,262.0,157.0,69.0,36.0,531
+75,It's called Deep Throat.,1.5381679389312977,0.044779252890564065,262.0,157.0,69.0,36.0,531
 75,Noah says we sail tomorrow.,1.5381679389312977,0.045427705368005285,262.0,159.0,65.0,38.0,531
 77,"The doctor said get rest, drink lots of tea, and that sore throat will be gone in a year.",1.5366795366795367,0.04451299236070317,259.0,154.0,71.0,34.0,531
 77,Can we talk about the elephant in the other room?,1.5366795366795367,0.04583805775616619,259.0,158.0,63.0,38.0,531
 77,Yes â€” but if he wins we'll probably be deported.,1.5366795366795367,0.04451299236070317,259.0,154.0,71.0,34.0,531
-80,"You know the cheetah always wins, right?",1.5363984674329505,0.04358395433121799,261.0,153.0,76.0,32.0,531
+80,"You know the cheetah always wins, right?",1.5363984674329505,0.043583954331217985,261.0,153.0,76.0,32.0,531
 80,"If they say the Presidential race is neck and neck one more time, I'm going to scream!",1.5363984674329505,0.04524293637103398,261.0,158.0,66.0,37.0,531
 82,Spoiler alert -- the gazelle gets it.,1.5348837209302326,0.04431041368245007,258.0,153.0,72.0,33.0,531
 83,Enough TV. Let's stand up and go to sleep.,1.5330739299610896,0.04612423608424425,257.0,158.0,61.0,38.0,531
@@ -98,27 +98,27 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 97,Hooves off the couch missy.,1.5220883534136551,0.04625649922231684,249.0,154.0,60.0,35.0,531
 98,Nobody's spots really look like that.,1.5203252032520325,0.04181829863757524,246.0,140.0,84.0,22.0,531
 98,Work was a zoo today!,1.5203252032520325,0.04450907927723863,246.0,147.0,70.0,29.0,531
-100,Can we talk about the elephant in the room?,1.516260162601626,0.047052664109070025,246.0,155.0,55.0,36.0,531
-101,"The baby is down for the night...most of him, anyway.",1.5145228215767634,0.044043384033445813,241.0,143.0,72.0,26.0,531
-101,Stop watching that trash on Animal Planet - it's all gratuitous violence and sex,1.5145228215767634,0.04852584297519919,241.0,155.0,48.0,38.0,531
+100,Can we talk about the elephant in the room?,1.5162601626016259,0.047052664109070025,246.0,155.0,55.0,36.0,531
+101,"The baby is down for the night...most of him, anyway.",1.5145228215767634,0.04404338403344581,241.0,143.0,72.0,26.0,531
+101,Stop watching that trash on Animal Planet - it's all gratuitous violence and sex,1.5145228215767634,0.048525842975199185,241.0,155.0,48.0,38.0,531
 101,Big deal. I broke the glass ceiling years ago.,1.5145228215767634,0.04325116627207764,241.0,141.0,76.0,24.0,531
 104,After millions of years of natural selection this is what you want to do all day?,1.5144032921810702,0.04821395784068098,243.0,156.0,49.0,38.0,531
 104,Be patient. It's going to take me a while to swallow my pride.,1.5144032921810702,0.046049157652899006,243.0,150.0,61.0,32.0,531
 106,"""Out of Africa?"" Again?",1.5125,0.04611142967856662,240.0,148.0,61.0,31.0,531
-106,He now says the wall is going to be twenty feet high and the lions are going to pay for it.,1.5125,0.04796458552343746,240.0,153.0,51.0,36.0,531
+106,He now says the wall is going to be twenty feet high and the lions are going to pay for it.,1.5125,0.047964585523437464,240.0,153.0,51.0,36.0,531
 106,Haven't you finished swallowing that Viagra yet?!,1.5125,0.04723204905000042,240.0,151.0,55.0,34.0,531
 109,I hope you're not ordering more turtlenecks from QVC,1.5104602510460252,0.04775539973150455,239.0,152.0,52.0,35.0,531
 110,We can't keep ignoring the elephant in the other room.,1.5084033613445378,0.04678873185343712,238.0,149.0,57.0,32.0,531
-111,You were right. I should have gotten the car with the sunroof.,1.5063829787234042,0.04646837020562981,235.0,146.0,59.0,30.0,531
+111,You were right. I should have gotten the car with the sunroof.,1.5063829787234042,0.046468370205629814,235.0,146.0,59.0,30.0,531
 111,"When you ignore me, you make me feel like I'm eight feet tall.",1.5063829787234042,0.04405777950317316,235.0,140.0,71.0,24.0,531
 111,Can't you find anything else to do all day besides sitting and watching the gnus?,1.5063829787234042,0.04607536413780425,235.0,145.0,61.0,29.0,531
 114,I don't get it. Why did the Elephants nominate an orangutan?,1.5063291139240509,0.04843995980835043,237.0,153.0,48.0,36.0,531
 114,I can't believe we fit that couch through the door.,1.5063291139240509,0.04769606162633778,237.0,151.0,52.0,34.0,531
 116,"Let's stay in today, Doris. It's a zoo out there.",1.5042735042735045,0.04661926850118688,234.0,146.0,58.0,30.0,531
-117,Maybe we should have gone with the wall mount.,1.502145922746781,0.04597313414558898,233.0,144.0,61.0,28.0,531
+117,Maybe we should have gone with the wall mount.,1.502145922746781,0.045973134145588984,233.0,144.0,61.0,28.0,531
 117,Don't shoot the messenger but I think Rihanna's wearing your missing cousin.,1.502145922746781,0.04433434775629972,233.0,140.0,69.0,24.0,531
 119,The top of the fridge is dusty.,1.5,0.04682840146317163,230.0,144.0,57.0,29.0,531
-119,Big dealâ€”we break ceilings all the time.,1.5,0.04389866993370047,230.0,137.0,71.0,22.0,531
+119,Big dealâ€”we break ceilings all the time.,1.5,0.043898669933700465,230.0,137.0,71.0,22.0,531
 119,Aren't you glad we're not the logo for either party?,1.5,0.044329059342415635,230.0,138.0,69.0,23.0,531
 119,You know the camera adds 10 inches.,1.5,0.045305023518296864,232.0,142.0,64.0,26.0,531
 119,"And remember, no lion documentaries before bedtime.",1.5,0.04612139592061281,232.0,144.0,60.0,28.0,531
@@ -127,17 +127,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 119,"So this time I asked him ""how's the weather DOWN there?"" and that seemed to shut him up.",1.5,0.04489127034465819,232.0,141.0,66.0,25.0,531
 119,Is this the episode where the humans mate?,1.5,0.045305023518296864,232.0,142.0,64.0,26.0,531
 119,Bad news. The remote fell under the couch again.,1.5,0.046010375168271764,230.0,142.0,61.0,27.0,531
-119,Apparently it is illegal to drive with your head through the sunroof.,1.5,0.04389866993370047,230.0,137.0,71.0,22.0,531
+119,Apparently it is illegal to drive with your head through the sunroof.,1.5,0.043898669933700465,230.0,137.0,71.0,22.0,531
 130,"Now, can we talk about the elephant in the room?",1.4978165938864632,0.04574286774745785,229.0,141.0,62.0,26.0,531
 131,I had no idea staterooms on this ark would be so plush.,1.4933920704845816,0.047292300594939336,227.0,144.0,54.0,29.0,531
 131,Turn the TV off and let's talk about the elephant in the other room.,1.4933920704845816,0.05009446616001282,227.0,151.0,40.0,36.0,531
 131,Keeper says it's your turn in the outdoor enclosure.,1.4933920704845816,0.04931009906761718,227.0,149.0,44.0,34.0,531
-134,What if we stood it on its side?,1.491150442477876,0.04445281897414823,226.0,137.0,67.0,22.0,531
-134,Why do you keep watching these shows? You know the gazelle always loses.,1.491150442477876,0.04744863203616473,226.0,144.0,53.0,29.0,531
-134,"His father's from Kenya, you know?",1.491150442477876,0.046612336870976205,226.0,142.0,57.0,27.0,531
-134,Thank God for pre war ceilings,1.491150442477876,0.04445281897414823,226.0,137.0,67.0,22.0,531
-134,The neighbors want their gutters cleaned.,1.491150442477876,0.04576076064756111,226.0,140.0,61.0,25.0,531
-134,Glad we stayed in. It's a zoo out there!,1.491150442477876,0.0448930337748897,226.0,138.0,65.0,23.0,531
+134,What if we stood it on its side?,1.4911504424778759,0.04445281897414823,226.0,137.0,67.0,22.0,531
+134,Why do you keep watching these shows? You know the gazelle always loses.,1.4911504424778759,0.04744863203616473,226.0,144.0,53.0,29.0,531
+134,"His father's from Kenya, you know?",1.4911504424778759,0.046612336870976205,226.0,142.0,57.0,27.0,531
+134,Thank God for pre war ceilings,1.4911504424778759,0.04445281897414823,226.0,137.0,67.0,22.0,531
+134,The neighbors want their gutters cleaned.,1.4911504424778759,0.04576076064756111,226.0,140.0,61.0,25.0,531
+134,Glad we stayed in. It's a zoo out there!,1.4911504424778759,0.0448930337748897,226.0,138.0,65.0,23.0,531
 140,The Hunters said they'd be over for the big game.,1.4910714285714286,0.04776854003654907,224.0,143.0,52.0,29.0,531
 141,We need to talk about the elephant in the room.,1.4864864864864864,0.04592112070230177,222.0,138.0,60.0,24.0,531
 142,I can't believe it took Trump this long to insult us,1.4841628959276016,0.04607028998617944,221.0,138.0,59.0,24.0,531
@@ -152,12 +152,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 146,"Harold, Tuesday is your day to be the antenna.",1.4792626728110598,0.046684923013469236,217.0,137.0,56.0,24.0,531
 146,Elephants are Republican; donkeys are Democrats. I guess we're independents.,1.4792626728110598,0.04576180986103298,217.0,135.0,60.0,22.0,531
 153,"If you hide out in here all day, the jackals have won.",1.4770642201834865,0.04560443084168625,218.0,136.0,60.0,22.0,531
-154,We are out of grass.,1.4768518518518519,0.046838981254165454,216.0,137.0,55.0,24.0,531
-154,Have you seen my turtle neck?,1.4768518518518519,0.046838981254165454,216.0,137.0,55.0,24.0,531
-154,"See, I told you 'Deep Throat' wasn't a Disney movie about a lonely giraffe.",1.4768518518518519,0.04864314395135681,216.0,141.0,47.0,28.0,531
-154,I can't believe you're going to vote for that baboon.,1.4768518518518519,0.049083823970922535,216.0,142.0,45.0,29.0,531
-154,What's on Neckflix tonight?,1.4768518518518519,0.047296474361881904,216.0,138.0,53.0,25.0,531
-159,I'm buying a convertible.,1.4766355140186915,0.04526240595351647,214.0,132.0,62.0,20.0,531
+154,We are out of grass.,1.476851851851852,0.046838981254165454,216.0,137.0,55.0,24.0,531
+154,Have you seen my turtle neck?,1.476851851851852,0.046838981254165454,216.0,137.0,55.0,24.0,531
+154,"See, I told you 'Deep Throat' wasn't a Disney movie about a lonely giraffe.",1.476851851851852,0.04864314395135681,216.0,141.0,47.0,28.0,531
+154,I can't believe you're going to vote for that baboon.,1.476851851851852,0.049083823970922535,216.0,142.0,45.0,29.0,531
+154,What's on Neckflix tonight?,1.476851851851852,0.047296474361881904,216.0,138.0,53.0,25.0,531
+159,I'm buying a convertible.,1.4766355140186915,0.045262405953516466,214.0,132.0,62.0,20.0,531
 159,What? You ordered sixteen neck pillows from QVC!,1.4766355140186915,0.04853683318423035,214.0,139.0,48.0,27.0,531
 159,"Let's prioritize: before we get a bigger sofa, that ceiling fan has to go.",1.4766355140186915,0.04622163271303697,214.0,134.0,58.0,22.0,531
 159,I believe what he said was too many embarrassing gaffes,1.4766355140186915,0.04622163271303697,214.0,134.0,58.0,22.0,531
@@ -169,7 +169,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 159,I prefer Neckflix.,1.4766355140186915,0.04574453368086625,214.0,133.0,60.0,21.0,531
 169,"Who says there's no progress? After 240 years, an orangutan has been nominated for the presidency.",1.4744186046511627,0.04836139182451346,215.0,140.0,48.0,27.0,531
 170,Let me adjust the vertical.,1.4741784037558685,0.045893454529750896,213.0,133.0,59.0,21.0,531
-170,That was Noah on the 'phone again.,1.4741784037558685,0.04731893782218807,213.0,136.0,53.0,24.0,531
+170,That was Noah on the 'phone again.,1.4741784037558685,0.047318937822188066,213.0,136.0,53.0,24.0,531
 170,The Carnivores in Apartment 3 have invited us to dinner.,1.4741784037558685,0.044918007117158716,213.0,131.0,63.0,19.0,531
 170,I don't feel like either candidate really understands our situation.,1.4741784037558685,0.04915532002962125,213.0,140.0,45.0,28.0,531
 170,It makes me glad we're no party's political symbol.,1.4741784037558685,0.04684859628603087,213.0,135.0,55.0,23.0,531
@@ -194,7 +194,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 192,"We saw this, the zebra doesn't make it.",1.4663461538461535,0.04765117133328727,208.0,134.0,51.0,23.0,531
 192,I feel like Hillary really 'gets' our ceiling issue.,1.4663461538461535,0.04716124464034682,208.0,133.0,53.0,22.0,531
 192,"If you wanted an open floor plan, then why the hell did we leave the savannah?",1.4663461538461535,0.04765117133328727,208.0,134.0,51.0,23.0,531
-192,You promised things would be different once we left the zoo.,1.4663461538461535,0.045659934250978466,208.0,130.0,59.0,19.0,531
+192,You promised things would be different once we left the zoo.,1.4663461538461535,0.04565993425097847,208.0,130.0,59.0,19.0,531
 197,I love the one where the antelope chases the lion.,1.4611650485436891,0.04595638791357237,206.0,130.0,57.0,19.0,531
 197,"I don't think we can be referred to as ""wildlife"" anymore.",1.4611650485436891,0.048950462423253766,206.0,136.0,45.0,25.0,531
 197,"Since the flood, you just sit there and watch the weather report.",1.4611650485436891,0.046468799069490495,206.0,131.0,55.0,20.0,531
@@ -252,20 +252,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 246,For this we gave up the Serengeti?,1.4375,0.04821474740538155,192.0,127.0,46.0,19.0,531
 246,"Besides, you know the camera adds five feet.",1.4375,0.04407833044319722,192.0,120.0,60.0,12.0,531
 246,I was laid off from the zoo today. The only job experience I have is being looked at.,1.4375,0.04821474740538155,192.0,127.0,46.0,19.0,531
-254,"If you sit that close, you'll strain your neck.",1.436842105263158,0.04971153358084583,190.0,128.0,41.0,21.0,531
-254,Anything high-brow on?,1.436842105263158,0.04682694318739025,190.0,123.0,51.0,16.0,531
-254,I strongly disagree with his position on migration.,1.436842105263158,0.04622843081630802,190.0,122.0,53.0,15.0,531
-254,"When Witness Protection said they'd give us a new location and a new identity, I didn't quite expect this.",1.436842105263158,0.04857825630758855,190.0,126.0,45.0,19.0,531
-254,Just because you can lick the screen from there doesn't mean you should.,1.436842105263158,0.04741790169136517,190.0,124.0,49.0,17.0,531
-254,"How many times can you watch ""Out of Africa""?",1.436842105263158,0.044384495470011616,190.0,119.0,59.0,12.0,531
-254,"The ceilings are low, and the internet access isn't great, but I do like the no-hyenas policy.",1.436842105263158,0.045622067283292614,190.0,121.0,55.0,14.0,531
-254,"Am I wrong for wishing our new neighbors weren't, you know, lions?",1.436842105263158,0.04741790169136517,190.0,124.0,49.0,17.0,531
-254,"First, I told you to stop watching those gory nature shows. Second, is it anyone we know?",1.436842105263158,0.05081954501993655,190.0,130.0,37.0,23.0,531
+254,"If you sit that close, you'll strain your neck.",1.4368421052631581,0.04971153358084583,190.0,128.0,41.0,21.0,531
+254,Anything high-brow on?,1.4368421052631581,0.04682694318739025,190.0,123.0,51.0,16.0,531
+254,I strongly disagree with his position on migration.,1.4368421052631581,0.04622843081630802,190.0,122.0,53.0,15.0,531
+254,"When Witness Protection said they'd give us a new location and a new identity, I didn't quite expect this.",1.4368421052631581,0.04857825630758855,190.0,126.0,45.0,19.0,531
+254,Just because you can lick the screen from there doesn't mean you should.,1.4368421052631581,0.04741790169136517,190.0,124.0,49.0,17.0,531
+254,"How many times can you watch ""Out of Africa""?",1.4368421052631581,0.044384495470011616,190.0,119.0,59.0,12.0,531
+254,"The ceilings are low, and the internet access isn't great, but I do like the no-hyenas policy.",1.4368421052631581,0.04562206728329261,190.0,121.0,55.0,14.0,531
+254,"Am I wrong for wishing our new neighbors weren't, you know, lions?",1.4368421052631581,0.04741790169136517,190.0,124.0,49.0,17.0,531
+254,"First, I told you to stop watching those gory nature shows. Second, is it anyone we know?",1.4368421052631581,0.05081954501993655,190.0,130.0,37.0,23.0,531
 263,Stay inside. It's a zoo out there.,1.4352331606217616,0.045714562266894535,193.0,124.0,54.0,15.0,531
 264,"You're right, this is a nicer zoo.",1.4345549738219896,0.04780435038236745,191.0,126.0,47.0,18.0,531
 265,We used to be wild.,1.433862433862434,0.04816317636495381,189.0,125.0,46.0,18.0,531
 265,Do you want acacia leaves just on your half?,1.433862433862434,0.049318010282465095,189.0,127.0,42.0,20.0,531
-265,Why don't you get giraffe off the couch and do some chores?,1.433862433862434,0.04988540296069759,189.0,128.0,40.0,21.0,531
+265,Why don't you get giraffe off the couch and do some chores?,1.433862433862434,0.049885402960697586,189.0,128.0,40.0,21.0,531
 265,Would you get off your lazy butt and eat the lawn?,1.433862433862434,0.045766170871532084,189.0,121.0,54.0,14.0,531
 269,Television always makes everyone look shorter.,1.431578947368421,0.04496681108969621,190.0,121.0,56.0,13.0,531
 270,Housewives of the Serengeti? Puleeze!,1.4308510638297869,0.04713339759552943,188.0,123.0,49.0,16.0,531
@@ -288,9 +288,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 278,Wall-mounted might be better.,1.4270270270270269,0.047022029260210416,185.0,121.0,49.0,15.0,531
 288,All the people trying to keep us out of captivity and here you are...,1.423913043478261,0.050223657118925256,184.0,126.0,38.0,20.0,531
 288,I told you to buy a wall mount!,1.423913043478261,0.05081153673765385,184.0,127.0,36.0,21.0,531
-288,"If you just get up and go outside, you'd be ON that nature show.",1.423913043478261,0.04962881424290527,184.0,125.0,40.0,19.0,531
+288,"If you just get up and go outside, you'd be ON that nature show.",1.423913043478261,0.049628814242905266,184.0,125.0,40.0,19.0,531
 288,I thought we were going to neck.,1.423913043478261,0.04902675465410922,184.0,124.0,42.0,18.0,531
-288,Ever think the TV should be portrait and not landscape?,1.423913043478261,0.047799891311895985,184.0,122.0,46.0,16.0,531
+288,Ever think the TV should be portrait and not landscape?,1.423913043478261,0.04779989131189599,184.0,122.0,46.0,16.0,531
 288,"With all this diversity on TV now, I think we can stop pretending we're sisters.",1.423913043478261,0.051967348673249605,184.0,129.0,32.0,23.0,531
 294,"Sure, wide screen's great but what about tall screen?",1.4216216216216215,0.04505953546797506,185.0,119.0,54.0,12.0,531
 295,We better go before the people get back. They will not be happy about their ficus plant.,1.4207650273224044,0.04795746782552055,183.0,122.0,45.0,16.0,531
@@ -313,21 +313,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 308,"Yes, for a sore throat you have to take all thirty.",1.4166666666666667,0.04448128516557697,180.0,115.0,55.0,10.0,531
 313,It's a zoo out there.,1.4153005464480874,0.05035070618035965,183.0,127.0,36.0,20.0,531
 314,"Tigers won, get over it!",1.4134078212290502,0.0486487493226061,179.0,121.0,42.0,16.0,531
-314,Lean over and change it yourself.,1.4134078212290502,0.047999271994644786,179.0,120.0,44.0,15.0,531
+314,Lean over and change it yourself.,1.4134078212290502,0.04799927199464479,179.0,120.0,44.0,15.0,531
 314,Go clean your room. It's like a zoo in there.,1.4134078212290502,0.049289669397264604,179.0,122.0,40.0,17.0,531
-314,Any woman who can break a ceiling like THAT has my vote.,1.4134078212290502,0.047999271994644786,179.0,120.0,44.0,15.0,531
+314,Any woman who can break a ceiling like THAT has my vote.,1.4134078212290502,0.04799927199464479,179.0,120.0,44.0,15.0,531
 314,So good to be home. It's a real jungle out there.,1.4134078212290502,0.04734088521962825,179.0,119.0,46.0,14.0,531
 314,Still hoping to find Mom on Wild Kingdom?,1.4134078212290502,0.04599584781371319,179.0,117.0,50.0,12.0,531
 314,I think those Witness Protection guys kinda glossed over the 'new identities' part.,1.4134078212290502,0.0486487493226061,179.0,121.0,42.0,16.0,531
 314,"Wide screen, flat screen, but they never got around to making a tall screen.",1.4134078212290502,0.0486487493226061,179.0,121.0,42.0,16.0,531
-314,Did we ever receive residuals from this National Geographic program?,1.4134078212290502,0.047999271994644786,179.0,120.0,44.0,15.0,531
-314,What do they mean--the elephant in the room?,1.4134078212290502,0.047999271994644786,179.0,120.0,44.0,15.0,531
-314,There's never anyone who looks like us at the Republican convention.,1.4134078212290502,0.047999271994644786,179.0,120.0,44.0,15.0,531
-314,"Honey, let's do it like they do it on Discovery Channel!",1.4134078212290502,0.047999271994644786,179.0,120.0,44.0,15.0,531
+314,Did we ever receive residuals from this National Geographic program?,1.4134078212290502,0.04799927199464479,179.0,120.0,44.0,15.0,531
+314,What do they mean--the elephant in the room?,1.4134078212290502,0.04799927199464479,179.0,120.0,44.0,15.0,531
+314,There's never anyone who looks like us at the Republican convention.,1.4134078212290502,0.04799927199464479,179.0,120.0,44.0,15.0,531
+314,"Honey, let's do it like they do it on Discovery Channel!",1.4134078212290502,0.04799927199464479,179.0,120.0,44.0,15.0,531
 326,"Now we are late, the ark left 10 minutes ago.",1.4124293785310735,0.050957906636946035,177.0,123.0,35.0,19.0,531
 326,Somehow I thought life would be more exciting once we broke out of the zoo.,1.4124293785310735,0.04770431397558116,177.0,118.0,45.0,14.0,531
 326,A donkey or an elephant - hardly seems like much of a choice.,1.4124293785310735,0.049682044825511716,177.0,121.0,39.0,17.0,531
-326,They talk about low hanging fruit as if that was easy.,1.4124293785310735,0.047026590738571,177.0,117.0,47.0,13.0,531
+326,They talk about low hanging fruit as if that was easy.,1.4124293785310735,0.047026590738570996,177.0,117.0,47.0,13.0,531
 326,"How about a tall one, love?",1.4124293785310735,0.050957906636946035,177.0,123.0,35.0,19.0,531
 331,too much television will stunt your growth,1.4090909090909092,0.04785850850048902,176.0,118.0,44.0,14.0,531
 331,I'm gonna grab a long neck. You want one?,1.4090909090909092,0.04853217387286958,176.0,119.0,42.0,15.0,531
@@ -349,26 +349,26 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 343,Can you adjust the vertical?,1.4022988505747127,0.04816721990120218,174.0,118.0,42.0,14.0,531
 343,Neckflix and chill?,1.4022988505747127,0.0540189595004224,174.0,127.0,24.0,23.0,531
 350,Would you at least apply for the circus?,1.4011627906976745,0.04992847033713384,172.0,119.0,37.0,16.0,531
-350,"Honey, I can't find my good interview tie. I thought you laid it out on the bed, stairs, and kitchen table.",1.4011627906976745,0.047841966746706786,172.0,116.0,43.0,13.0,531
+350,"Honey, I can't find my good interview tie. I thought you laid it out on the bed, stairs, and kitchen table.",1.4011627906976745,0.04784196674670679,172.0,116.0,43.0,13.0,531
 350,We're out of throat lozenges.,1.4011627906976745,0.04992847033713384,172.0,119.0,37.0,16.0,531
 350,"You can stand up now, Wilma. I've had the ceiling fan removed.",1.4011627906976745,0.05127232257480401,172.0,121.0,33.0,18.0,531
 350,I'm going to the zoo. Do you need anything?,1.4011627906976745,0.0492427933224924,172.0,118.0,39.0,15.0,531
-350,I've had it up to my neck with your binge watching...,1.4011627906976745,0.047841966746706786,172.0,116.0,43.0,13.0,531
+350,I've had it up to my neck with your binge watching...,1.4011627906976745,0.04784196674670679,172.0,116.0,43.0,13.0,531
 350,Why is the screen sideways?,1.4011627906976745,0.0492427933224924,172.0,118.0,39.0,15.0,531
 350,I've seen this episode of Animal Planet. Spoiler alert. It doesn't end well for us.,1.4011627906976745,0.04992847033713384,172.0,119.0,37.0,16.0,531
 350,Love the cathedral ceilings.,1.4011627906976745,0.04712594111727261,172.0,115.0,45.0,12.0,531
 350,"My favorite movie -- ""Get Shorty.'",1.4011627906976745,0.04712594111727261,172.0,115.0,45.0,12.0,531
 350,I'm heading out for some low-hanging fruit.,1.4011627906976745,0.04639886712177673,172.0,114.0,47.0,11.0,531
-350,Give me a break!... like a herd of giraffes could really survive like that in the wilderness.,1.4011627906976745,0.047841966746706786,172.0,116.0,43.0,13.0,531
+350,Give me a break!... like a herd of giraffes could really survive like that in the wilderness.,1.4011627906976745,0.04784196674670679,172.0,116.0,43.0,13.0,531
 350,"Time to move, the zoo knows where we live.",1.4011627906976745,0.04712594111727261,172.0,115.0,45.0,12.0,531
 350,"I know that you said don't stick your neck out, but what could I do?",1.4011627906976745,0.04854743286928104,172.0,117.0,41.0,14.0,531
 350,``Housewives of the Serengeti'' again!,1.4011627906976745,0.04992847033713384,172.0,119.0,37.0,16.0,531
 350,It's a jungle out there.,1.4011627906976745,0.04712594111727261,172.0,115.0,45.0,12.0,531
-350,This election makes me happy I live in Africa.,1.4011627906976745,0.047841966746706786,172.0,116.0,43.0,13.0,531
+350,This election makes me happy I live in Africa.,1.4011627906976745,0.04784196674670679,172.0,116.0,43.0,13.0,531
 350,Don't you find it odd that all the movies on the ark are romances?,1.4011627906976745,0.04854743286928104,172.0,117.0,41.0,14.0,531
 350,I can't find the ladder.,1.4011627906976745,0.04854743286928104,172.0,117.0,41.0,14.0,531
 350,Are you watching your old Toys 'R' Us ad again?,1.4011627906976745,0.05127232257480401,172.0,121.0,33.0,18.0,531
-350,"I just sometimes feel... domesticated, you know?",1.4011627906976745,0.047841966746706786,172.0,116.0,43.0,13.0,531
+350,"I just sometimes feel... domesticated, you know?",1.4011627906976745,0.04784196674670679,172.0,116.0,43.0,13.0,531
 350,"When I was your age, I was roaming the savanna.",1.4011627906976745,0.0492427933224924,172.0,118.0,39.0,15.0,531
 350,"Yes, I walk around with my head in the clouds. Don't we all?",1.4011627906976745,0.04639886712177673,172.0,114.0,47.0,11.0,531
 350,"The kids used to look up to us, Fran.",1.4011627906976745,0.04712594111727261,172.0,115.0,45.0,12.0,531
@@ -388,8 +388,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 375,Hurry up or we'll miss the Ark.,1.3976608187134505,0.04870495699087326,171.0,117.0,40.0,14.0,531
 375,Sooooâ€¦Neckflix?,1.3976608187134505,0.051452605705643584,171.0,121.0,32.0,18.0,531
 389,Even if he does build a wall we will be fine.,1.3941176470588237,0.04741641028216498,170.0,115.0,43.0,12.0,531
-389,"It's nice, but personally I prefer tall-screen TVs.",1.3941176470588237,0.05163330155715658,170.0,121.0,31.0,18.0,531
-389,I wish they would bring back Marlin Perkins.,1.3941176470588237,0.05163330155715658,170.0,121.0,31.0,18.0,531
+389,"It's nice, but personally I prefer tall-screen TVs.",1.3941176470588237,0.051633301557156584,170.0,121.0,31.0,18.0,531
+389,I wish they would bring back Marlin Perkins.,1.3941176470588237,0.051633301557156584,170.0,121.0,31.0,18.0,531
 392,Can you clean the gutters please?,1.3928571428571428,0.04627230177376551,168.0,112.0,46.0,10.0,531
 392,I'll trim the trees if you clean the gutters this time.,1.3928571428571428,0.04925718129533267,168.0,116.0,38.0,14.0,531
 392,Weâ€™ve always looked down on television.,1.3928571428571428,0.048528176451743565,168.0,115.0,40.0,13.0,531
@@ -512,16 +512,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 496,Those politicians only go after the low-hanging fruit.,1.3670886075949369,0.051074427497710496,158.0,114.0,30.0,14.0,531
 496,"You know, if you watch TV all day your neck will stay that way.",1.3670886075949369,0.046962419750281696,158.0,109.0,40.0,9.0,531
 513,"Call me old-fashioned, but I say we just stay home and neck.",1.3653846153846154,0.05151672936623356,156.0,113.0,29.0,14.0,531
-513,...we always get our heads cut off-maybe if we got selfie stick...,1.3653846153846154,0.05070759724789727,156.0,112.0,31.0,13.0,531
+513,...we always get our heads cut off-maybe if we got selfie stick...,1.3653846153846154,0.050707597247897265,156.0,112.0,31.0,13.0,531
 513,I'm thinking wall mount and a lot higher!,1.3653846153846154,0.04645100094681488,156.0,107.0,41.0,8.0,531
 513,You don't find the plot a little hard to swallow?,1.3653846153846154,0.04988534286457463,156.0,111.0,33.0,12.0,531
 513,How many ties should I wear with my blue suit ?,1.3653846153846154,0.05231334811052093,156.0,114.0,27.0,15.0,531
 513,If you ask me these wildlife shows are all scripted.,1.3653846153846154,0.048198770324963496,156.0,109.0,37.0,10.0,531
-513,Are you just grazing the channels?,1.3653846153846154,0.05070759724789727,156.0,112.0,31.0,13.0,531
+513,Are you just grazing the channels?,1.3653846153846154,0.050707597247897265,156.0,112.0,31.0,13.0,531
 513,"Quick! Put on the game, I hear it's neck and neck.",1.3653846153846154,0.048198770324963496,156.0,109.0,37.0,10.0,531
-513,Your T V Dinner is on the roof.,1.3653846153846154,0.05070759724789727,156.0,112.0,31.0,13.0,531
+513,Your T V Dinner is on the roof.,1.3653846153846154,0.050707597247897265,156.0,112.0,31.0,13.0,531
 513,Animal Planet? Seriously?,1.3653846153846154,0.048198770324963496,156.0,109.0,37.0,10.0,531
-513,"Really? 'Tiny Houses,' again?",1.3653846153846154,0.05070759724789727,156.0,112.0,31.0,13.0,531
+513,"Really? 'Tiny Houses,' again?",1.3653846153846154,0.050707597247897265,156.0,112.0,31.0,13.0,531
 513,"No dear, it's not entitled 'Giraffic Park'.",1.3653846153846154,0.047332953371829536,156.0,108.0,39.0,9.0,531
 513,You can reach the cobwebs too you know. Just sayin'.,1.3653846153846154,0.04988534286457463,156.0,111.0,33.0,12.0,531
 513,"Watch all you want, but we're not getting a tiny house.",1.3653846153846154,0.053871257293756636,156.0,116.0,23.0,17.0,531
@@ -534,18 +534,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 513,If he wins I'm moving back!,1.3653846153846154,0.05231334811052093,156.0,114.0,27.0,15.0,531
 513,"Be careful, watching too much TV will give you a stiff neck.",1.3653846153846154,0.048198770324963496,156.0,109.0,37.0,10.0,531
 513,I'm tired of watching people who think they're above us.,1.3653846153846154,0.05151672936623356,156.0,113.0,29.0,14.0,531
-513,Perhaps it's time for the elephant and donkey to step aside.,1.3653846153846154,0.05070759724789727,156.0,112.0,31.0,13.0,531
-513,I'd rather be hunted by that Trump kid than have to hear him give a speech.,1.3653846153846154,0.05070759724789727,156.0,112.0,31.0,13.0,531
+513,Perhaps it's time for the elephant and donkey to step aside.,1.3653846153846154,0.050707597247897265,156.0,112.0,31.0,13.0,531
+513,I'd rather be hunted by that Trump kid than have to hear him give a speech.,1.3653846153846154,0.050707597247897265,156.0,112.0,31.0,13.0,531
 513,"If we can't talk, how come we get captions.",1.3653846153846154,0.05309801669056328,156.0,115.0,25.0,16.0,531
 513,The Human Channel is too violent for me,1.3653846153846154,0.048198770324963496,156.0,109.0,37.0,10.0,531
 513,You know watching Wild Kingdom before bed gives you bad dreams.,1.3653846153846154,0.047332953371829536,156.0,108.0,39.0,9.0,531
-513,I feel skittish. There's a lion sitting in a parked car across the street.,1.3653846153846154,0.05070759724789727,156.0,112.0,31.0,13.0,531
+513,I feel skittish. There's a lion sitting in a parked car across the street.,1.3653846153846154,0.050707597247897265,156.0,112.0,31.0,13.0,531
 513,Why do they keep making such a fuss about HER? You didn't have any trouble shattering the glass ceiling!,1.3653846153846154,0.04988534286457463,156.0,111.0,33.0,12.0,531
 513,How are you liking your subscription to Neckflix?,1.3653846153846154,0.04988534286457463,156.0,111.0,33.0,12.0,531
 513,"What is it about ""Place monitor at eye level"" that you don't get?",1.3653846153846154,0.04463484644404428,156.0,105.0,45.0,6.0,531
 513,Maybe we could rotate it 90 degrees.,1.3653846153846154,0.04555197584103465,156.0,106.0,43.0,7.0,531
 513,Feet on the couch again? I could just wring your neck!,1.3653846153846154,0.05231334811052093,156.0,114.0,27.0,15.0,531
-513,I say we switch to portrait view.,1.3653846153846154,0.05070759724789727,156.0,112.0,31.0,13.0,531
+513,I say we switch to portrait view.,1.3653846153846154,0.050707597247897265,156.0,112.0,31.0,13.0,531
 513,Are you seriously watching 'The Real Housewives of The Serengeti' again?,1.3653846153846154,0.04988534286457463,156.0,111.0,33.0,12.0,531
 513,Keep in mind that the camera automatically adds ten inches of neck.,1.3653846153846154,0.04904930628232548,156.0,110.0,35.0,11.0,531
 550,I think I'll stick my neck out and guess you're sitting on the remote again!,1.3630136986301369,0.04848204746536357,146.0,101.0,37.0,8.0,531
@@ -646,14 +646,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 634,It's great that you don't need a remote,1.3445945945945943,0.04861837938016613,148.0,106.0,33.0,9.0,531
 634,"I said buy a high screen, not a wide screen!",1.3445945945945943,0.04861837938016613,148.0,106.0,33.0,9.0,531
 634,I'd like to redo the sofa in zebra.,1.3445945945945943,0.04861837938016613,148.0,106.0,33.0,9.0,531
-634,Real Housewives of the Serengeti?,1.3445945945945943,0.047663593551016785,148.0,105.0,35.0,8.0,531
+634,Real Housewives of the Serengeti?,1.3445945945945943,0.04766359355101679,148.0,105.0,35.0,8.0,531
 634,How about a little necking while the ads are on.,1.3445945945945943,0.05137638371494697,148.0,109.0,27.0,12.0,531
 634,"If you're going to get upset about every little thing people say when we walk into a bar, we're never going to have a fun night out.",1.3445945945945943,0.05047379657077752,148.0,108.0,29.0,11.0,531
 634,"Yes, you're tall enough, but how's your dribbling?",1.3445945945945943,0.04668928663879214,148.0,104.0,37.0,7.0,531
 634,"Don't complain, Noah's got the Zebras in steerage...",1.3445945945945943,0.05313558252564789,148.0,111.0,23.0,14.0,531
 634,"I don't care if we live in Detroit, I find your enthusiasm for the Lions distasteful...",1.3445945945945943,0.04861837938016613,148.0,106.0,33.0,9.0,531
 634,"What time is ""Giraffic Park"" on ?",1.3445945945945943,0.04861837938016613,148.0,106.0,33.0,9.0,531
-634,Your obsession with Shark Week makes no sense.,1.3445945945945943,0.047663593551016785,148.0,105.0,35.0,8.0,531
+634,Your obsession with Shark Week makes no sense.,1.3445945945945943,0.04766359355101679,148.0,105.0,35.0,8.0,531
 656,"I know they're cute, but this tiny house craze is not for us.",1.3426573426573427,0.047704001226050126,143.0,101.0,35.0,7.0,531
 657,Leaves. What are you the mood for?,1.342281879194631,0.04739907804334821,149.0,106.0,35.0,8.0,531
 657,Come on. Let's go to the zoo and see grandma before it closes.,1.342281879194631,0.044436341373450185,149.0,103.0,41.0,5.0,531
@@ -676,11 +676,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 660,"Let's eat out tonight. I hear there is a good, new acacia tree in Central Park.",1.3401360544217686,0.046793162928624135,147.0,104.0,36.0,7.0,531
 660,I don't care how many predators are out there. You need fresh air.,1.3401360544217686,0.046793162928624135,147.0,104.0,36.0,7.0,531
 660,I would have preferred the tall screen.,1.3401360544217686,0.04874398441957602,147.0,106.0,32.0,9.0,531
-660,"If the idiot installed it sideways, he should come back and do it right!",1.3401360544217686,0.050619679348322386,147.0,108.0,28.0,11.0,531
+660,"If the idiot installed it sideways, he should come back and do it right!",1.3401360544217686,0.05061967934832239,147.0,108.0,28.0,11.0,531
 660,They call that a love seat...?,1.3401360544217686,0.051531930853040316,147.0,109.0,26.0,12.0,531
 660,Man ... It's a ZOO out there!,1.3401360544217686,0.0496906830020621,147.0,107.0,30.0,10.0,531
 660,"I'm going to pour myself a tall, stiff drink.",1.3401360544217686,0.047778531339716976,147.0,105.0,34.0,8.0,531
-660,Not tonight? Is it that sore throat again?,1.3401360544217686,0.050619679348322386,147.0,108.0,28.0,11.0,531
+660,Not tonight? Is it that sore throat again?,1.3401360544217686,0.05061967934832239,147.0,108.0,28.0,11.0,531
 660,Don't believe him. Nobody will lower anything.,1.3401360544217686,0.0496906830020621,147.0,107.0,30.0,10.0,531
 660,Any idea how the remote control got on top of the trees?,1.3401360544217686,0.051531930853040316,147.0,109.0,26.0,12.0,531
 660,In my day there was no television - just monkeys and lions.,1.3401360544217686,0.051531930853040316,147.0,109.0,26.0,12.0,531
@@ -853,23 +853,23 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 851,that can't be good for your posture,1.318840579710145,0.0459804014546237,138.0,99.0,34.0,5.0,531
 851,I kind of miss Real Housewives of the Serengeti.,1.318840579710145,0.0459804014546237,138.0,99.0,34.0,5.0,531
 851,The definition is not high enough.,1.318840579710145,0.05342942052378381,138.0,106.0,20.0,12.0,531
-851,"Sharks, hyenas, and lions...Animal Planet should be more fair and balanced.",1.318840579710145,0.048226241440966065,138.0,101.0,30.0,7.0,531
+851,"Sharks, hyenas, and lions...Animal Planet should be more fair and balanced.",1.318840579710145,0.04822624144096607,138.0,101.0,30.0,7.0,531
 851,"So I says to him, ""Look Lenny, I don't wanna go all PC on ya, but I really prefer to be called Girafferican-American.""",1.318840579710145,0.05441038044623772,138.0,107.0,18.0,13.0,531
 851,Really? You want the remote?,1.318840579710145,0.050372049880031126,138.0,103.0,26.0,9.0,531
 851,Wanna watch TV tonight or just neck?,1.318840579710145,0.052430110191666913,138.0,105.0,22.0,11.0,531
 851,I don't see a candidate that I would stick my neck out for!,1.318840579710145,0.050372049880031126,138.0,103.0,26.0,9.0,531
 851,I think a wide screen discriminates against us.,1.318840579710145,0.05441038044623772,138.0,107.0,18.0,13.0,531
 851,It's the suburbs out there!,1.318840579710145,0.050372049880031126,138.0,103.0,26.0,9.0,531
-851,"When I was young, television sets were small and had fuzzy pictures but they did tastefully cut to the next scene as the lions made a kill.",1.318840579710145,0.048226241440966065,138.0,101.0,30.0,7.0,531
+851,"When I was young, television sets were small and had fuzzy pictures but they did tastefully cut to the next scene as the lions made a kill.",1.318840579710145,0.04822624144096607,138.0,101.0,30.0,7.0,531
 851,"Like Michelle said: When they go low, we go high.",1.318840579710145,0.050372049880031126,138.0,103.0,26.0,9.0,531
 851,"I told you to buy the ""tall-screen"" format!",1.318840579710145,0.049310819160903706,138.0,102.0,28.0,8.0,531
 851,"Honey, have you seen my scarf?",1.318840579710145,0.04711670447649492,138.0,100.0,32.0,6.0,531
-866,Stop watching Animal Planet and go outside and look for PokÃ©mon like all the other kids.,1.316546762589928,0.04570600408715937,139.0,100.0,34.0,5.0,531
-866,"Jerome, you've been watching way too much Neckflix.",1.316546762589928,0.05006092755669513,139.0,104.0,26.0,9.0,531
-866,"I want a soda, but that lion is still hiding behind the fridge.",1.316546762589928,0.05109169093298821,139.0,105.0,24.0,10.0,531
-866,"Yes, the HD is great but we could just go outside.",1.316546762589928,0.05006092755669513,139.0,104.0,26.0,9.0,531
-866,"You're not watching one of those Attenborough horror films again, are you?",1.316546762589928,0.05006092755669513,139.0,104.0,26.0,9.0,531
-866,What's on Neck Flicks?,1.316546762589928,0.04900848960416313,139.0,103.0,28.0,8.0,531
+866,Stop watching Animal Planet and go outside and look for PokÃ©mon like all the other kids.,1.3165467625899279,0.04570600408715937,139.0,100.0,34.0,5.0,531
+866,"Jerome, you've been watching way too much Neckflix.",1.3165467625899279,0.05006092755669513,139.0,104.0,26.0,9.0,531
+866,"I want a soda, but that lion is still hiding behind the fridge.",1.3165467625899279,0.05109169093298821,139.0,105.0,24.0,10.0,531
+866,"Yes, the HD is great but we could just go outside.",1.3165467625899279,0.05006092755669513,139.0,104.0,26.0,9.0,531
+866,"You're not watching one of those Attenborough horror films again, are you?",1.3165467625899279,0.05006092755669513,139.0,104.0,26.0,9.0,531
+866,What's on Neck Flicks?,1.3165467625899279,0.04900848960416313,139.0,103.0,28.0,8.0,531
 872,Why don't you get outside and stretch your legs.,1.3142857142857145,0.04764302239909952,140.0,103.0,30.0,7.0,531
 872,Animal Kingdom is not a reality show!,1.3142857142857145,0.04870967569425922,140.0,104.0,28.0,8.0,531
 874,How's 'The View?',1.313868613138686,0.05049329950735402,137.0,103.0,25.0,9.0,531
@@ -968,8 +968,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 942,"I'm running out to the brush, you need anything?",1.3059701492537314,0.04396927639083428,134.0,96.0,35.0,3.0,531
 942,My dear. Why ever do you have the television sideways?,1.3059701492537314,0.05105509152021827,134.0,102.0,23.0,9.0,531
 942,Didn't I tell you you'd be disappointed with Cougar Town?,1.3059701492537314,0.05320774446831927,134.0,104.0,19.0,11.0,531
-942,How's the sore throat?,1.3059701492537314,0.046451468949880066,134.0,98.0,31.0,5.0,531
-942,I can't be the only one bringing home the Acacia around here.,1.3059701492537314,0.046451468949880066,134.0,98.0,31.0,5.0,531
+942,How's the sore throat?,1.3059701492537314,0.04645146894988007,134.0,98.0,31.0,5.0,531
+942,I can't be the only one bringing home the Acacia around here.,1.3059701492537314,0.04645146894988007,134.0,98.0,31.0,5.0,531
 942,Did you find anything good on Neckflix?,1.3059701492537314,0.048807588230415234,134.0,100.0,27.0,7.0,531
 942,"Airbnb is nice for a change, but I still prefer being out in the open.",1.3059701492537314,0.04994398381691048,134.0,101.0,25.0,8.0,531
 942,Did you hear that? Trump is going to put us all in a Zoo!,1.3059701492537314,0.048807588230415234,134.0,100.0,27.0,7.0,531
@@ -986,23 +986,23 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 982,You don't need the remote control.,1.300751879699248,0.04650579602859467,133.0,98.0,30.0,5.0,531
 982,You always grab the best seat and I have to crane my neck!,1.300751879699248,0.04771488479296578,133.0,99.0,28.0,6.0,531
 982,I'm NOT asking Noah for a larger TV.,1.300751879699248,0.05440806217944607,133.0,105.0,16.0,12.0,531
-982,Time to upgrade to a tall screen.,1.300751879699248,0.04526442198571087,133.0,97.0,32.0,4.0,531
+982,Time to upgrade to a tall screen.,1.300751879699248,0.045264421985710866,133.0,97.0,32.0,4.0,531
 982,Not another sore throat!,1.300751879699248,0.04771488479296578,133.0,99.0,28.0,6.0,531
-982,Don't look so dreamy eyed you know the TV adds six inches.,1.300751879699248,0.051171024324946184,133.0,102.0,22.0,9.0,531
+982,Don't look so dreamy eyed you know the TV adds six inches.,1.300751879699248,0.05117102432494618,133.0,102.0,22.0,9.0,531
 982,Noah can kiss my butt.,1.300751879699248,0.05227231482359452,133.0,103.0,20.0,10.0,531
-982,Move over Baby and let's 'Neck'.,1.300751879699248,0.051171024324946184,133.0,102.0,22.0,9.0,531
+982,Move over Baby and let's 'Neck'.,1.300751879699248,0.05117102432494618,133.0,102.0,22.0,9.0,531
 982,"Yes, Donald Trump is orange but that's no reason to vote for him.",1.300751879699248,0.04889408345964512,133.0,100.0,26.0,7.0,531
-982,"Well, I lost another audition to that smug bastard Geoffrey today",1.300751879699248,0.051171024324946184,133.0,102.0,22.0,9.0,531
+982,"Well, I lost another audition to that smug bastard Geoffrey today",1.300751879699248,0.05117102432494618,133.0,102.0,22.0,9.0,531
 982,"I know you're homesick, but watching Tarzan reruns will only make it worse.",1.300751879699248,0.0500455049321264,133.0,101.0,24.0,8.0,531
 982,Move over sweet thing and let's neck.,1.300751879699248,0.04771488479296578,133.0,99.0,28.0,6.0,531
 982,"Do you never tire of ""Human Kingdom""?",1.300751879699248,0.0500455049321264,133.0,101.0,24.0,8.0,531
 982,Let's do a little necking before the kids get home.,1.300751879699248,0.04771488479296578,133.0,99.0,28.0,6.0,531
 982,I like him for some reason. Maybe it's the orange hair.,1.300751879699248,0.05227231482359452,133.0,103.0,20.0,10.0,531
 982,You know how these wildlife shows give me nightmares.,1.300751879699248,0.04650579602859467,133.0,98.0,30.0,5.0,531
-982,I prefer portrait over landscape layout.,1.300751879699248,0.051171024324946184,133.0,102.0,22.0,9.0,531
+982,I prefer portrait over landscape layout.,1.300751879699248,0.05117102432494618,133.0,102.0,22.0,9.0,531
 982,Who's up for a little necking?,1.300751879699248,0.05227231482359452,133.0,103.0,20.0,10.0,531
 982,You can't change the channel or you won't change the channel?,1.300751879699248,0.05227231482359452,133.0,103.0,20.0,10.0,531
-982,Animal Planet again? I'm sick of this reality tv crap!,1.300751879699248,0.051171024324946184,133.0,102.0,22.0,9.0,531
+982,Animal Planet again? I'm sick of this reality tv crap!,1.300751879699248,0.05117102432494618,133.0,102.0,22.0,9.0,531
 982,I tell you I tried. I can't get out the door.,1.300751879699248,0.05335087687723347,133.0,104.0,18.0,11.0,531
 982,"Ok, I understand ... no necking tonight.",1.300751879699248,0.05335087687723347,133.0,104.0,18.0,11.0,531
 982,I'm not sticking my neck out for you again.,1.300751879699248,0.04771488479296578,133.0,99.0,28.0,6.0,531
@@ -1051,7 +1051,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1045,You'll pick up bad behaviors from watching the 'Human Channel'.,1.2923076923076924,0.04690308185181261,130.0,97.0,28.0,5.0,531
 1045,Maybe I should run for President. This election is already a zoo.,1.2923076923076924,0.05057351916100385,130.0,100.0,22.0,8.0,531
 1045,Have you considered IMAX?,1.2923076923076924,0.04561401651708573,130.0,96.0,30.0,4.0,531
-1045,Mounting the TV would solve all of our problems.,1.2923076923076924,0.04428744651076767,130.0,95.0,32.0,3.0,531
+1045,Mounting the TV would solve all of our problems.,1.2923076923076924,0.044287446510767665,130.0,95.0,32.0,3.0,531
 1045,I told you they installed it sideways.,1.2923076923076924,0.048157654340454506,130.0,98.0,26.0,6.0,531
 1045,I don't want to be antennae! Your turn.,1.2923076923076924,0.048157654340454506,130.0,98.0,26.0,6.0,531
 1045,The neighbors think we're Pokemon again.,1.2923076923076924,0.05057351916100385,130.0,100.0,22.0,8.0,531
@@ -1205,21 +1205,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1161,"Hey, I've got some longnecks in the fridge, want one?",1.2834645669291338,0.04859948030302109,127.0,97.0,24.0,6.0,531
 1161,I don't suppose you feel like necking.,1.2834645669291338,0.04986876640419949,127.0,98.0,22.0,7.0,531
 1206,"No, you can't order a scarf from the Home Shopping Channel.",1.28125,0.05312282881158421,128.0,102.0,16.0,10.0,531
-1206,They all have necklifts,1.28125,0.04697741436722461,128.0,97.0,26.0,5.0,531
-1206,I told you we should have mounted it.,1.28125,0.04564916170716533,128.0,96.0,28.0,4.0,531
+1206,They all have necklifts,1.28125,0.046977414367224614,128.0,97.0,26.0,5.0,531
+1206,I told you we should have mounted it.,1.28125,0.045649161707165334,128.0,96.0,28.0,4.0,531
 1206,I told you not to watch Animal Planet before bed.,1.28125,0.050754033818199096,128.0,100.0,20.0,8.0,531
 1206,"No, that erectile dysfunction pill will not help your sore neck",1.28125,0.050754033818199096,128.0,100.0,20.0,8.0,531
 1206,"I *do* love Animal Planet, Janice -- but you've still got to get out and smell the acacias every now and then",1.28125,0.04826913047376049,128.0,98.0,24.0,6.0,531
-1206,I don't think this kind of life fits us George.,1.28125,0.04564916170716533,128.0,96.0,28.0,4.0,531
+1206,I don't think this kind of life fits us George.,1.28125,0.045649161707165334,128.0,96.0,28.0,4.0,531
 1206,"I've been watching all day, and I think we're under-represented.",1.28125,0.04952716883444788,128.0,99.0,22.0,7.0,531
-1206,You're sitting in my spot.,1.28125,0.04697741436722461,128.0,97.0,26.0,5.0,531
+1206,You're sitting in my spot.,1.28125,0.046977414367224614,128.0,97.0,26.0,5.0,531
 1206,Shouldnâ€™t we only watch high-brow shows?,1.28125,0.04826913047376049,128.0,98.0,24.0,6.0,531
 1206,"Well, I think it should be on the wall, closer to the ceiling.",1.28125,0.05195193398596331,128.0,101.0,18.0,9.0,531
 1206,At least there aren't any elephants in the room . . .,1.28125,0.04826913047376049,128.0,98.0,24.0,6.0,531
-1206,Sorry I'm late but I was struck in a geraffic jam.,1.28125,0.04697741436722461,128.0,97.0,26.0,5.0,531
+1206,Sorry I'm late but I was struck in a geraffic jam.,1.28125,0.046977414367224614,128.0,97.0,26.0,5.0,531
 1206,Still think we should have gone with the wall mount.,1.28125,0.04826913047376049,128.0,98.0,24.0,6.0,531
-1206,Do you see what I'm saying? We need a sectional.,1.28125,0.04697741436722461,128.0,97.0,26.0,5.0,531
-1206,Thank god they chose an elephant. That could have been us on there.,1.28125,0.04697741436722461,128.0,97.0,26.0,5.0,531
+1206,Do you see what I'm saying? We need a sectional.,1.28125,0.046977414367224614,128.0,97.0,26.0,5.0,531
+1206,Thank god they chose an elephant. That could have been us on there.,1.28125,0.046977414367224614,128.0,97.0,26.0,5.0,531
 1206,I think I'd rather be a jackass than vote Republican this time.,1.28125,0.05195193398596331,128.0,101.0,18.0,9.0,531
 1206,This election is neck and neck!,1.28125,0.05312282881158421,128.0,102.0,16.0,10.0,531
 1206,Don't even think of asking me for a neck rub.,1.28125,0.04952716883444788,128.0,99.0,22.0,7.0,531
@@ -1272,10 +1272,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1257,High definition has nothing to do with your neck,1.2777777777777777,0.04993823345387608,126.0,98.0,21.0,7.0,531
 1257,I'm glad you found some highbrow programming.,1.2777777777777777,0.04993823345387608,126.0,98.0,21.0,7.0,531
 1273,You really think we need the remote?,1.2773109243697478,0.050526877536999686,119.0,92.0,21.0,6.0,531
-1273,"All things considered, I'd rather be in Botswana.",1.2773109243697478,0.049097204608222984,119.0,91.0,23.0,5.0,531
+1273,"All things considered, I'd rather be in Botswana.",1.2773109243697478,0.04909720460822298,119.0,91.0,23.0,5.0,531
 1275,Did your folks intentionally buy furniture that would discourage our relationship?,1.2755905511811023,0.052051003889604285,127.0,101.0,17.0,9.0,531
 1275,The toilet is out of water again...,1.2755905511811023,0.050836233426196316,127.0,100.0,19.0,8.0,531
-1275,Is it Lion Week already?,1.2755905511811023,0.049591715558244584,127.0,99.0,21.0,7.0,531
+1275,Is it Lion Week already?,1.2755905511811023,0.04959171555824458,127.0,99.0,21.0,7.0,531
 1278,Reach for the remote yourself.,1.2741935483870968,0.04903836559750547,124.0,96.0,22.0,6.0,531
 1278,Well I can see it's going to take awhile to get these spots off the couch.,1.2741935483870968,0.046287153869638685,124.0,94.0,26.0,4.0,531
 1278,"Don't watch too much TV, you'll strain your neck!",1.2741935483870968,0.05035763739529594,124.0,97.0,20.0,7.0,531
@@ -1560,7 +1560,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1551,We either need shorter necks or a taller screen.,1.2521008403361344,0.0480624258685221,119.0,94.0,20.0,5.0,531
 1551,Are you watching that human planet channel again?,1.2521008403361344,0.05093973387211289,119.0,96.0,16.0,7.0,531
 1561,"Hey, that's my spot!!",1.25,0.05319619424788554,116.0,95.0,13.0,8.0,531
-1561,They have the same number of vertebrae but that's as far as it goes.,1.25,0.05176784759846127,116.0,94.0,15.0,7.0,531
+1561,They have the same number of vertebrae but that's as far as it goes.,1.25,0.051767847598461265,116.0,94.0,15.0,7.0,531
 1563,"Sure, the big-screen t.v. in this sublet's good, but I REALLY like the high ceilings!",1.247863247863248,0.04526827212564247,117.0,91.0,23.0,3.0,531
 1563,I could binge watch these crazy Zebras all night.,1.247863247863248,0.048414263331137096,117.0,93.0,19.0,5.0,531
 1563,Not bad; just needs a tad more headroom.,1.247863247863248,0.04526827212564247,117.0,91.0,23.0,3.0,531
@@ -1635,9 +1635,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1634,Explain again how Bob woke up next to Suzanne Pleshette.,1.2457627118644068,0.04953271530274072,118.0,95.0,17.0,6.0,531
 1635,"I looked all over, dear. No one makes tall-screen TVs.",1.2434782608695651,0.04877023818264036,115.0,92.0,18.0,5.0,531
 1635,I recall your last 3am infomercial got us these pajamas...,1.2434782608695651,0.05030995362438919,115.0,93.0,16.0,6.0,531
-1635,Don't tell me you're afraid of heights.,1.2434782608695651,0.05180392586459941,115.0,94.0,14.0,7.0,531
+1635,Don't tell me you're afraid of heights.,1.2434782608695651,0.051803925864599414,115.0,94.0,14.0,7.0,531
 1635,"Hey girl, Neckflix and chill?",1.2434782608695651,0.05030995362438919,115.0,93.0,16.0,6.0,531
-1635,How did they get the TV through the door?,1.2434782608695651,0.05180392586459941,115.0,94.0,14.0,7.0,531
+1635,How did they get the TV through the door?,1.2434782608695651,0.051803925864599414,115.0,94.0,14.0,7.0,531
 1635,I don't need wide screen; I need tall screen.,1.2434782608695651,0.04205133680639167,115.0,88.0,26.0,1.0,531
 1635,Why don't they make a high-screen TV?,1.2434782608695651,0.04877023818264036,115.0,92.0,18.0,5.0,531
 1635,I don't understand your addiction to midget mud wrestling.,1.2434782608695651,0.05030995362438919,115.0,93.0,16.0,6.0,531
@@ -1650,8 +1650,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1635,I vote wall mount.,1.2434782608695651,0.04877023818264036,115.0,92.0,18.0,5.0,531
 1635,"Honey, you hav to stop watching these "" wild humans"" programs.",1.2434782608695651,0.05030995362438919,115.0,93.0,16.0,6.0,531
 1635,"darling even if the box doesn't mention it, I am sure there is no rule against turning it the other way..",1.2434782608695651,0.04553488256049456,115.0,90.0,22.0,3.0,531
-1635,I don't care if it's 4K! It cuts everyone's heads off!,1.2434782608695651,0.05180392586459941,115.0,94.0,14.0,7.0,531
-1635,The curved screen is nice but I look forward to the tall one.,1.2434782608695651,0.05180392586459941,115.0,94.0,14.0,7.0,531
+1635,I don't care if it's 4K! It cuts everyone's heads off!,1.2434782608695651,0.051803925864599414,115.0,94.0,14.0,7.0,531
+1635,The curved screen is nice but I look forward to the tall one.,1.2434782608695651,0.051803925864599414,115.0,94.0,14.0,7.0,531
 1635,Frankly I think Discovery Channel has a distinct anti-herbivore bias,1.2434782608695651,0.04553488256049456,115.0,90.0,22.0,3.0,531
 1635,"Milly, how many times I have told you? No television until you've finished cleaning the gutters.",1.2434782608695651,0.04718030130356049,115.0,91.0,20.0,4.0,531
 1635,You know that's bad for your back.,1.2434782608695651,0.05030995362438919,115.0,93.0,16.0,6.0,531
@@ -1666,7 +1666,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1635,"You're right, we can't fit through the door to leave, but that raises the question of how we got in here in the first place.",1.2434782608695651,0.05030995362438919,115.0,93.0,16.0,6.0,531
 1635,Giraffic Park movie marathon?,1.2434782608695651,0.04718030130356049,115.0,91.0,20.0,4.0,531
 1635,"Mount it on the wall? Really, Carol?",1.2434782608695651,0.05030995362438919,115.0,93.0,16.0,6.0,531
-1635,"I hate to disappoint you dear but, like that other charismatic megafauna, you're not qualified to be President.",1.2434782608695651,0.05180392586459941,115.0,94.0,14.0,7.0,531
+1635,"I hate to disappoint you dear but, like that other charismatic megafauna, you're not qualified to be President.",1.2434782608695651,0.051803925864599414,115.0,94.0,14.0,7.0,531
 1635,"No, you don't need a spot reduction like those girls on Animal Planet.",1.2434782608695651,0.04553488256049456,115.0,90.0,22.0,3.0,531
 1635,"Mitchell, I thought the orthopedist told you to mount that thing higher.",1.2434782608695651,0.04718030130356049,115.0,91.0,20.0,4.0,531
 1635,"Landscape vs. portrait really isn't a choice for us is it, Muriel?",1.2434782608695651,0.04718030130356049,115.0,91.0,20.0,4.0,531
@@ -1677,7 +1677,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1635,"You know, the TV should really be at eye level.",1.2434782608695651,0.04718030130356049,115.0,91.0,20.0,4.0,531
 1635,"No, I never met Tarzan, and neither did anyone else.",1.2434782608695651,0.04877023818264036,115.0,92.0,18.0,5.0,531
 1635,"It's very nice, but you should have gone with a tall screen",1.2434782608695651,0.04877023818264036,115.0,92.0,18.0,5.0,531
-1635,Aren't you glad we finally talked about the elephant in the living room?,1.2434782608695651,0.05180392586459941,115.0,94.0,14.0,7.0,531
+1635,Aren't you glad we finally talked about the elephant in the living room?,1.2434782608695651,0.051803925864599414,115.0,94.0,14.0,7.0,531
 1635,"Must you continue to watch reruns of your cameo role on ""Animal Kingdom""?",1.2434782608695651,0.04718030130356049,115.0,91.0,20.0,4.0,531
 1635,"You are a lazy pain in the neck, Milton.",1.2434782608695651,0.04718030130356049,115.0,91.0,20.0,4.0,531
 1635,The tiny house idea was great!,1.2434782608695651,0.04877023818264036,115.0,92.0,18.0,5.0,531
@@ -1851,7 +1851,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1846,Wanna Neck-flix and chill?,1.2300884955752212,0.04356296857379149,113.0,89.0,22.0,2.0,531
 1846,You just gotta get your head out of the clouds and join the real world.,1.2300884955752212,0.04534049011486548,113.0,90.0,20.0,3.0,531
 1846,High ceilings means high rent.,1.2300884955752212,0.04705090707681717,113.0,91.0,18.0,4.0,531
-1846,Do you mind if I watch basketball for a while?,1.2300884955752212,0.053346969064151734,113.0,95.0,10.0,8.0,531
+1846,Do you mind if I watch basketball for a while?,1.2300884955752212,0.05334696906415173,113.0,95.0,10.0,8.0,531
 1846,My legs hurt...we need to buy an antenna.,1.2300884955752212,0.04534049011486548,113.0,90.0,20.0,3.0,531
 1846,"I know we're huge, but I am with Her.",1.2300884955752212,0.051844684350823206,113.0,94.0,12.0,7.0,531
 1846,No we don't need to order the Little Giant Ladder.,1.2300884955752212,0.05029754946855188,113.0,93.0,14.0,6.0,531
@@ -1892,7 +1892,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1859,I'm not the only one around here who can forage.,1.2272727272727273,0.04595223779440722,110.0,88.0,19.0,3.0,531
 1859,I am really hoping they will be surprised to see us.,1.2272727272727273,0.04773273331484981,110.0,89.0,17.0,4.0,531
 1859,"I warned you dear about New York ""Airbnb"" rentals.",1.2272727272727273,0.0494491607724479,110.0,90.0,15.0,5.0,531
-1859,"If it's any consolation, I feel bad about my neck too.",1.2272727272727273,0.055789265873201,110.0,94.0,7.0,9.0,531
+1859,"If it's any consolation, I feel bad about my neck too.",1.2272727272727273,0.055789265873200995,110.0,94.0,7.0,9.0,531
 1859,You up for some necking?,1.2272727272727273,0.0494491607724479,110.0,90.0,15.0,5.0,531
 1859,I'm leaving you for a symbiotic relationship with a tickbird,1.2272727272727273,0.0494491607724479,110.0,90.0,15.0,5.0,531
 1859,Put it on the weather-up-there channel.,1.2272727272727273,0.04773273331484981,110.0,89.0,17.0,4.0,531
@@ -1932,50 +1932,50 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1922,You'll twist your neck sitting like that.,1.2252252252252251,0.047345048240602164,111.0,90.0,17.0,4.0,531
 1922,A first-class upgrade. . . good old Noah.,1.2252252252252251,0.0455823806871118,111.0,89.0,19.0,3.0,531
 1922,"It's not neck to neck; trust me, she'll beat him.",1.2252252252252251,0.05532227771798415,111.0,95.0,7.0,9.0,531
-1934,"If they score, pleaseâ€¦no more holes in the ceiling.",1.2232142857142858,0.043402988447120004,112.0,89.0,21.0,2.0,531
+1934,"If they score, pleaseâ€¦no more holes in the ceiling.",1.2232142857142858,0.04340298844712,112.0,89.0,21.0,2.0,531
 1935,I thought we decided that vertical worked better than wide screen.,1.220183486238532,0.043927546231223726,109.0,87.0,20.0,2.0,531
 1935,'Animal Planet' always makes you homesick.,1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
 1935,All right. I'll rub your Hooves. But no Necking.,1.220183486238532,0.041949191322226805,109.0,86.0,22.0,1.0,531
 1935,I still say the screen should be at eye level.,1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
-1935,I don't care if you can clean your room without getting up from the couch. It's the principle of the thing.,1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
+1935,I don't care if you can clean your room without getting up from the couch. It's the principle of the thing.,1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
 1935,"I agree that it resembles a baby giraffe dear, but it is in fact the Republican nomination for President",1.220183486238532,0.05271719495984061,109.0,92.0,10.0,7.0,531
 1935,Can't you just switch it to portrait mode?,1.220183486238532,0.05108040699844056,109.0,91.0,12.0,6.0,531
 1935,what good is a love seat for one,1.220183486238532,0.045820562886151966,109.0,88.0,18.0,3.0,531
 1935,I prefer the format where everyone is tall and skinny.,1.220183486238532,0.045820562886151966,109.0,88.0,18.0,3.0,531
-1935,"Honey, aren't you tired of watching all those human shows?",1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
+1935,"Honey, aren't you tired of watching all those human shows?",1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
 1935,I can't believe those TV commercials for sore throat lozenges.,1.220183486238532,0.05108040699844056,109.0,91.0,12.0,6.0,531
-1935,Not 'American Giraffiti' again.,1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
-1935,"It's OK honey, the next president has no jurisdiction over the animal kingdom.",1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
+1935,Not 'American Giraffiti' again.,1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
+1935,"It's OK honey, the next president has no jurisdiction over the animal kingdom.",1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
 1935,After watching the Elephants and now the Donkeys I really think we should get in the game.,1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
-1935,"If Trump gets elected, we should try to get on that ark in Kentucky.",1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
+1935,"If Trump gets elected, we should try to get on that ark in Kentucky.",1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
 1935,You're going to get a crick in your neck from all your binge watching.,1.220183486238532,0.05108040699844056,109.0,91.0,12.0,6.0,531
 1935,What do you need the remote control for anyway?,1.220183486238532,0.043927546231223726,109.0,87.0,20.0,2.0,531
 1935,Don't you wish they'd transmit in portrait?,1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
-1935,Wanna neck on the couch?,1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
+1935,Wanna neck on the couch?,1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
 1935,It was always my dream to play center for the Knicks,1.220183486238532,0.045820562886151966,109.0,88.0,18.0,3.0,531
 1935,I told you wall mounting would be more comfortable,1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
 1935,The head room is a plus.,1.220183486238532,0.045820562886151966,109.0,88.0,18.0,3.0,531
 1935,"And the best thing! If we lose the remote, no problem.",1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
-1935,Care for a longneck?,1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
+1935,Care for a longneck?,1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
 1935,This ballgame is neck and neck.,1.220183486238532,0.045820562886151966,109.0,88.0,18.0,3.0,531
 1935,They call THAT high-definition?,1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
 1935,Are you binge watching Tarzan movies again?,1.220183486238532,0.043927546231223726,109.0,87.0,20.0,2.0,531
 1935,How did we ever survive without air conditioning and TV?,1.220183486238532,0.045820562886151966,109.0,88.0,18.0,3.0,531
 1935,Can't you wall mount the TV?,1.220183486238532,0.043927546231223726,109.0,87.0,20.0,2.0,531
-1935,I still say you're too tall for Project Runway.,1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
+1935,I still say you're too tall for Project Runway.,1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
 1935,"If you're just going to sit around binge watching The Walking Dead, we may as well go back to the zoo.",1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
 1935,I'll never know why you find those human wildlife specials from the conventions so fascinating.,1.220183486238532,0.045820562886151966,109.0,88.0,18.0,3.0,531
-1935,"Slide over, two glasses of wine, some cuddling, and lots of necking?",1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
+1935,"Slide over, two glasses of wine, some cuddling, and lots of necking?",1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
 1935,"I'm gonna go grab a couple of long necks, want anything?",1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
 1935,Just lie on your side and quit complaining!,1.220183486238532,0.045820562886151966,109.0,88.0,18.0,3.0,531
-1935,"Not a bad idea, this vacation exchange.",1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
+1935,"Not a bad idea, this vacation exchange.",1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
 1935,"You know, Dorothy, ever since we left the savanna, you've been getting complacent.",1.220183486238532,0.05108040699844056,109.0,91.0,12.0,6.0,531
 1935,"The next time we commit to a furries fantasy weekend, let me pick our costumes.",1.220183486238532,0.05108040699844056,109.0,91.0,12.0,6.0,531
-1935,Let's put on a rom-com and neck.,1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
+1935,Let's put on a rom-com and neck.,1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
 1935,Didn't I tell you not to watch Lion Week,1.220183486238532,0.043927546231223726,109.0,87.0,20.0,2.0,531
 1935,This new wide angle TV does nothing for me.,1.220183486238532,0.05108040699844056,109.0,91.0,12.0,6.0,531
 1935,You've seen every episode of Breaking Bad. How long has it been since we did some serious necking?,1.220183486238532,0.045820562886151966,109.0,88.0,18.0,3.0,531
-1935,"How quaint, the elephants are called Republicans, and donkeys are called Democrats.",1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
+1935,"How quaint, the elephants are called Republicans, and donkeys are called Democrats.",1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
 1935,It's not fair that only Ostriches are allowed to bury their heads in the sand,1.220183486238532,0.045820562886151966,109.0,88.0,18.0,3.0,531
 1935,The elephants are really emabarassing themselves this time around.,1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
 1935,"I know his neck is long enough to win your vote, but he may send us back to Africa...",1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
@@ -1989,7 +1989,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1935,Turn it off and go eat your flora!,1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
 1935,How about a little necking on the couch?,1.220183486238532,0.045820562886151966,109.0,88.0,18.0,3.0,531
 1935,"Tell me again, are we more friendly with the elephants or the donkeys?",1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
-1935,I see I missed the boat. 'Noah' was just on.,1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
+1935,I see I missed the boat. 'Noah' was just on.,1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
 1935,Are you still watching that nature documentary about humans? They're such animals.,1.220183486238532,0.05108040699844056,109.0,91.0,12.0,6.0,531
 1935,The jungle had HD.,1.220183486238532,0.045820562886151966,109.0,88.0,18.0,3.0,531
 1935,I wish the ceilings weren't so low.,1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
@@ -1998,10 +1998,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1935,You're rubbernecking again.,1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
 1935,"Ohh, a 2 hour romance movie. Wanna neck?",1.220183486238532,0.045820562886151966,109.0,88.0,18.0,3.0,531
 1935,Isn't there anything on besides National Geographic?,1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
-1935,How many times have I told you not to put your hooves on the furniture.,1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
+1935,How many times have I told you not to put your hooves on the furniture.,1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
 1935,"Oh, THAT kind of necking.",1.220183486238532,0.04763841568011384,109.0,89.0,16.0,4.0,531
-1935,"Yes dear, with that many martinis you might be seeing pink elephants...",1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
-1935,Aren't you outraged that all TV screens are horizontally over- represented?,1.220183486238532,0.04938940487411066,109.0,90.0,14.0,5.0,531
+1935,"Yes dear, with that many martinis you might be seeing pink elephants...",1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
+1935,Aren't you outraged that all TV screens are horizontally over- represented?,1.220183486238532,0.049389404874110664,109.0,90.0,14.0,5.0,531
 1935,"Can we please watch something other than ""Real Housewives of the Serenghetti""?",1.220183486238532,0.05108040699844056,109.0,91.0,12.0,6.0,531
 1935,"Unfortunately, Animal Planet is not part of our cable package.",1.220183486238532,0.043927546231223726,109.0,87.0,20.0,2.0,531
 1935,I get the chills watching Dracula.,1.220183486238532,0.045820562886151966,109.0,88.0,18.0,3.0,531
@@ -2125,7 +2125,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2106,Your Uber is here.,1.2075471698113207,0.04780347070761396,106.0,88.0,14.0,4.0,531
 2106,Let's neck.,1.2075471698113207,0.04780347070761396,106.0,88.0,14.0,4.0,531
 2106,Are we better off than we were four years ago?,1.2075471698113207,0.04964742018484815,106.0,89.0,12.0,5.0,531
-2106,The Tree Channel will get you in the mood.,1.2075471698113207,0.04178622085977893,106.0,85.0,20.0,1.0,531
+2106,The Tree Channel will get you in the mood.,1.2075471698113207,0.041786220859778934,106.0,85.0,20.0,1.0,531
 2106,I've had it up to here with you hogging the good couch.,1.2075471698113207,0.04588548019119496,106.0,87.0,16.0,3.0,531
 2106,You're sitting on the remote.,1.2075471698113207,0.04964742018484815,106.0,89.0,12.0,5.0,531
 2106,"Honey, if you shut the TV and come to bed now, I'll give you that neck massage you've been wanting.",1.2075471698113207,0.04388374155720299,106.0,86.0,18.0,2.0,531
@@ -2133,21 +2133,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2106,Did you know they have the same number of vertebrae as we do?,1.2075471698113207,0.04780347070761396,106.0,88.0,14.0,4.0,531
 2106,Beats the stifling savannah heat and that survival of the fittest run around.,1.2075471698113207,0.04588548019119496,106.0,87.0,16.0,3.0,531
 2106,Did you order Ethiopian take-out?,1.2075471698113207,0.05314372370887449,106.0,91.0,8.0,7.0,531
-2106,Really gives you something to ruminate about.,1.2075471698113207,0.04178622085977893,106.0,85.0,20.0,1.0,531
+2106,Really gives you something to ruminate about.,1.2075471698113207,0.041786220859778934,106.0,85.0,20.0,1.0,531
 2106,I'm a little concerned about the level of violence on the Nature Channel!!,1.2075471698113207,0.04588548019119496,106.0,87.0,16.0,3.0,531
 2106,"I've told you before, you're going to get a stiff neck if you sit that close.",1.2075471698113207,0.04588548019119496,106.0,87.0,16.0,3.0,531
 2106,Scootch,1.2075471698113207,0.04780347070761396,106.0,88.0,14.0,4.0,531
 2106,You have to use the vertical control button.,1.2075471698113207,0.0514252938769243,106.0,90.0,10.0,6.0,531
 2106,They canceled Animal Planet.,1.2075471698113207,0.04388374155720299,106.0,86.0,18.0,2.0,531
 2106,Mutual of Omaha again?,1.2075471698113207,0.04388374155720299,106.0,86.0,18.0,2.0,531
-2106,"When I watch the National Geographic Channel, I just get reminiscent.",1.2075471698113207,0.04178622085977893,106.0,85.0,20.0,1.0,531
-2106,It's a beautiful day out there. Why don't you and your brother go outside and play predator and prey?,1.2075471698113207,0.04178622085977893,106.0,85.0,20.0,1.0,531
+2106,"When I watch the National Geographic Channel, I just get reminiscent.",1.2075471698113207,0.041786220859778934,106.0,85.0,20.0,1.0,531
+2106,It's a beautiful day out there. Why don't you and your brother go outside and play predator and prey?,1.2075471698113207,0.041786220859778934,106.0,85.0,20.0,1.0,531
 2106,"Screw ISIS, the real villains are those guys on Animal Planet",1.2075471698113207,0.04964742018484815,106.0,89.0,12.0,5.0,531
 2106,I'm gonna get a beer. Want another long neck?,1.2075471698113207,0.04780347070761396,106.0,88.0,14.0,4.0,531
 2106,How come everyone looks so small?,1.2075471698113207,0.0514252938769243,106.0,90.0,10.0,6.0,531
 2106,I don't think you're a couch potato unless you turn the thing on.,1.2075471698113207,0.04780347070761396,106.0,88.0,14.0,4.0,531
 2106,what were they thinking when they mounted this horizontally?,1.2075471698113207,0.04780347070761396,106.0,88.0,14.0,4.0,531
-2106,"Really? ""Naked and Afraid?""",1.2075471698113207,0.04178622085977893,106.0,85.0,20.0,1.0,531
+2106,"Really? ""Naked and Afraid?""",1.2075471698113207,0.041786220859778934,106.0,85.0,20.0,1.0,531
 2106,"Binge-watching ""Animal Kingdom""?",1.2075471698113207,0.04588548019119496,106.0,87.0,16.0,3.0,531
 2106,Height alone wonâ€™t win you Americaâ€™s Next Top Model.,1.2075471698113207,0.04388374155720299,106.0,86.0,18.0,2.0,531
 2152,So this is how the other side lives.,1.2056074766355145,0.04549598868304172,107.0,88.0,16.0,3.0,531
@@ -2270,7 +2270,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2268,Have you tried the floor?,1.194174757281553,0.041525847920697904,103.0,84.0,18.0,1.0,531
 2268,"What do you mean, you swallowed the control?",1.194174757281553,0.04985845647361317,103.0,88.0,10.0,5.0,531
 2268,You're being too domesticated! I'm missing our wild life.,1.194174757281553,0.04985845647361317,103.0,88.0,10.0,5.0,531
-2268,What does that gorilla have that I don't?,1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
+2268,What does that gorilla have that I don't?,1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
 2268,I have to chose between seeing the feet or seeing the head.,1.194174757281553,0.041525847920697904,103.0,84.0,18.0,1.0,531
 2268,"Nat Geo again, Lucy? Don't you know reality TV isn't real?",1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2268,"Whadda you say,we turn off the TV then neck up a storm ?",1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,531
@@ -2291,36 +2291,36 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2268,These human reality shows just bring back bad memories of the zoo.,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2268,"Before we got HBO, the couch was used for necking",1.194174757281553,0.04985845647361317,103.0,88.0,10.0,5.0,531
 2268,Another infomercial on neck reduction surgery?,1.194174757281553,0.041525847920697904,103.0,84.0,18.0,1.0,531
-2268,We need larger doors.,1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
+2268,We need larger doors.,1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
 2268,Did you install ceiling fans in my man cave?,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
-2268,I donâ€™t feel comfortable with anything wider than it is tall.,1.194174757281553,0.039166677628225864,103.0,83.0,20.0,0.0,531
+2268,I donâ€™t feel comfortable with anything wider than it is tall.,1.194174757281553,0.03916667762822586,103.0,83.0,20.0,0.0,531
 2268,How many times can you watch these Animal Planet reruns?,1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,531
 2268,What elephant?,1.194174757281553,0.05173232153142504,103.0,89.0,8.0,6.0,531
 2268,So for THIS you sit down?,1.194174757281553,0.041525847920697904,103.0,84.0,18.0,1.0,531
-2268,You're quite the ruminant.,1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
+2268,You're quite the ruminant.,1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
 2268,"That Rosie next door, she's such a pain in the neck!",1.194174757281553,0.041525847920697904,103.0,84.0,18.0,1.0,531
 2268,Binge watching Nature on PBS again?,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2268,It's been a long time since we've necked.,1.194174757281553,0.05173232153142504,103.0,89.0,8.0,6.0,531
 2268,You still watching the debates? Neither of them is addressing our issues.,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2268,This is precisely why I said we shouldn't swap our timeshare with the Baboons.,1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,531
 2268,"Humans... They think they are smarter than us. But if they were, they would be taller than us by now",1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,531
-2268,"You should run Hillary, but the glass ceiling would be a lot higher for you.",1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
+2268,"You should run Hillary, but the glass ceiling would be a lot higher for you.",1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
 2268,Don't strain your neck to get up.,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2268,"Is that the original Walking Tall, or the sequel?",1.194174757281553,0.04985845647361317,103.0,88.0,10.0,5.0,531
 2268,"Ted, get giraffe off the couch and help with the chores.",1.194174757281553,0.04985845647361317,103.0,88.0,10.0,5.0,531
 2268,You do know that I would stick my neck out for you.,1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,531
-2268,"When the Lion eats the cameraman they won't seem so"" Born Free Beautiful"".",1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
+2268,"When the Lion eats the cameraman they won't seem so"" Born Free Beautiful"".",1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
 2268,"Yes, Jon Stewart's new beard is oddly hypnotic. But I still think you should come graze with me.",1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,531
 2268,"Looks like those ""elephants"" are bent on extinction.",1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2268,"Every day it gets more difficult"" to hold my head up.""",1.194174757281553,0.041525847920697904,103.0,84.0,18.0,1.0,531
 2268,I'm always sticking my neck out while you relax,1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,531
 2268,A cup of hot coffee is already cold by the time it reaches my stomach. That's interesting.,1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,531
-2268,Why not raise the television?,1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
+2268,Why not raise the television?,1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
 2268,I still thing it's silly for a hooved animal to own a remote control.,1.194174757281553,0.05173232153142504,103.0,89.0,8.0,6.0,531
 2268,"""When does ""Necking With the Stars"" come on?",1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2268,You STILL can't see the lions sneaking up on Uncle Roy?,1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,531
 2268,"You know, we had to pull our necks in to get this place, but it's worth it.",1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
-2268,"Well, we could neck.",1.194174757281553,0.039166677628225864,103.0,83.0,20.0,0.0,531
+2268,"Well, we could neck.",1.194174757281553,0.03916667762822586,103.0,83.0,20.0,0.0,531
 2268,Aren't you glad we're out of Madagascar?,1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,531
 2268,"Wow, 70"" isn't really that big.",1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2268,"You do know the virtual migration is just around the corner, don't you?",1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,531
@@ -2335,9 +2335,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2268,"You know, if you just mount it on the wall it will reduce your neck-strain.",1.194174757281553,0.041525847920697904,103.0,84.0,18.0,1.0,531
 2268,Mostly I'm just wondering how we fit through that door.,1.194174757281553,0.041525847920697904,103.0,84.0,18.0,1.0,531
 2268,"Now, are you happy I got the package deal that included the Giraffe Channel.",1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
-2268,"I told you to get the vertical screen, not the horizontal one. But did you listen? So now you have to choose what we watch: heads or tails.",1.194174757281553,0.039166677628225864,103.0,83.0,20.0,0.0,531
+2268,"I told you to get the vertical screen, not the horizontal one. But did you listen? So now you have to choose what we watch: heads or tails.",1.194174757281553,0.03916667762822586,103.0,83.0,20.0,0.0,531
 2268,"Next time we stage a takeover, let's find a species with more comfortable housing.",1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
-2268,We could be doing all those ads if that insurance company was called GRAFCO.,1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
+2268,We could be doing all those ads if that insurance company was called GRAFCO.,1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
 2268,"By giraffe standards, Michael Bloomberg really is very short.",1.194174757281553,0.04985845647361317,103.0,88.0,10.0,5.0,531
 2268,I ate the last bagel.,1.194174757281553,0.04985845647361317,103.0,88.0,10.0,5.0,531
 2268,These boutique zoos are a bit of a stretch.,1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,531
@@ -2346,22 +2346,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2268,All I can find on TV are Donkeys and Elephants!,1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,531
 2268,Turning it horizontal doesn't help.,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2268,Who is that orangutan and what is he doing to the elephants?!,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
-2268,So it's settled. You get to wear the lampshade tonight.,1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
-2268,"No, I will not admit that the giraffe on that safari ad has longer legs than you",1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
+2268,So it's settled. You get to wear the lampshade tonight.,1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
+2268,"No, I will not admit that the giraffe on that safari ad has longer legs than you",1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
 2268,Binge watching Animal Planet does not reinforce our reputation as a smart species.,1.194174757281553,0.04985845647361317,103.0,88.0,10.0,5.0,531
-2268,My neck is killing me,1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
-2268,PG-13 refers to age not height.,1.194174757281553,0.039166677628225864,103.0,83.0,20.0,0.0,531
+2268,My neck is killing me,1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
+2268,PG-13 refers to age not height.,1.194174757281553,0.03916667762822586,103.0,83.0,20.0,0.0,531
 2268,I think we need to rotate the screen vertically.,1.194174757281553,0.05173232153142504,103.0,89.0,8.0,6.0,531
-2268,I knowâ€”how can we cut the cord now that they added The Giraffe Channel?,1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
+2268,I knowâ€”how can we cut the cord now that they added The Giraffe Channel?,1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
 2268,Convergent evolution is still a bit of a stretch.,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
-2268,"Honey, I told you it wasnâ€™t about zebras the last time you rented Stripes.",1.194174757281553,0.039166677628225864,103.0,83.0,20.0,0.0,531
-2268,"Don't boo, vote!",1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
+2268,"Honey, I told you it wasnâ€™t about zebras the last time you rented Stripes.",1.194174757281553,0.03916667762822586,103.0,83.0,20.0,0.0,531
+2268,"Don't boo, vote!",1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
 2268,It's so depressing! No matter what channel I put on I hear about new walls and fences! We may as well be back at the zoo!,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
-2268,"We talked about this, Harold - no shoes on the couch.",1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
+2268,"We talked about this, Harold - no shoes on the couch.",1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
 2268,Is the race still neck and neck?,1.194174757281553,0.04985845647361317,103.0,88.0,10.0,5.0,531
 2268,Should we stick our necks out for Hillary?,1.194174757281553,0.04985845647361317,103.0,88.0,10.0,5.0,531
 2268,What's so special about Naked and Afraid?,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
-2268,"Watch the convention if you'd like, but they won't really change their stripes.",1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
+2268,"Watch the convention if you'd like, but they won't really change their stripes.",1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
 2268,I'm ordering food from 'Outback.' Want anything?,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2268,"Err...Miss Jones, I'm about to stick my neck out.",1.194174757281553,0.043758010176794974,103.0,85.0,16.0,2.0,531
 2268,"""It's my favorite soap opera: As My Neck Turns"".",1.194174757281553,0.041525847920697904,103.0,84.0,18.0,1.0,531
@@ -2374,12 +2374,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2268,I haven't really enjoyed TV since those darned wide screens came in.,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2268,"Cheer up Gerald, at least we're not elephants.",1.194174757281553,0.04985845647361317,103.0,88.0,10.0,5.0,531
 2268,"No, no, this is all wrong, I ordered a 'Chaise Extra-Longue' and a 'Tall Screen' TV!",1.194174757281553,0.05173232153142504,103.0,89.0,8.0,6.0,531
-2268,"If I hear that Mr. Ed theme song one more time, I'm gonna bail.",1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
+2268,"If I hear that Mr. Ed theme song one more time, I'm gonna bail.",1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
 2268,Those TV nature programs get us all wrong,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2268,Need the remote?,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2268,DO we really have to watch the Giraffedashians again?,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2268,She finally shattered that glass ceiling.,1.194174757281553,0.041525847920697904,103.0,84.0,18.0,1.0,531
-2268,Bye sweetie and don't forget to gargle.,1.194174757281553,0.047911358494949985,103.0,87.0,12.0,4.0,531
+2268,Bye sweetie and don't forget to gargle.,1.194174757281553,0.04791135849494999,103.0,87.0,12.0,4.0,531
 2268,A third party candidate? You are being ridiculous. The elephant may be taller than the donkey but it can still be the biggest ass.,1.194174757281553,0.04588170510924866,103.0,86.0,14.0,3.0,531
 2383,I told you they should have hung the TV higher,1.1923076923076923,0.04337541944605909,104.0,86.0,16.0,2.0,531
 2383,I remember at your age for fun we'd get chased by a remote lion -not lying in a chaise with a remote...,1.1923076923076923,0.04547673591527508,104.0,87.0,14.0,3.0,531
@@ -2529,10 +2529,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2525,I've heard too much TV can shorten your neck length,1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,Salad? Again?,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
 2525,"You have to stop watching Animal Planet, and go out and see for yourself.",1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
-2525,"I can't believe we're breaking because you're jealous of a little girl who fed me acacia twigs. It's a zoo out there, Linda; it is just part of the job.",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
-2525,"Again with the Toys ""R"" Us commercials, Sheila?",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
-2525,"I agree, watching humans in their normal habitat can be uplifting.",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
-2525,"Even if I could reach the remote you dropped under the sofa, how could I change from the Weather Channel?",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,"I can't believe we're breaking because you're jealous of a little girl who fed me acacia twigs. It's a zoo out there, Linda; it is just part of the job.",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
+2525,"Again with the Toys ""R"" Us commercials, Sheila?",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
+2525,"I agree, watching humans in their normal habitat can be uplifting.",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
+2525,"Even if I could reach the remote you dropped under the sofa, how could I change from the Weather Channel?",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,It just looks wrong to me.,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,"Bad news, dear. We've been classified as illegal immigrants. And we're being deported.",1.18,0.050010099990003054,100.0,87.0,8.0,5.0,531
 2525,"How about a real safari for our next vacation, darling?",1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
@@ -2547,80 +2547,80 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2525,"Honey, I'm up for anything tonight.",1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,"""Hey cutie, Ya wanna do a little necking while watching TV""?",1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,Jeez. Don't you ever get tired of all these talking heads?,1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
-2525,"Not Our Natural Habitat, But DAMN!",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,"Not Our Natural Habitat, But DAMN!",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,How do you think these reality show participants would survive in the real world?,1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,And you think this is better than our lives at the zoo?,1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,Housewives of The Bush again?,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,Go fetch your own longneck!,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,Don't you think a movie screen is more our size?,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
-2525,"Damn, I miss phone books.",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,"Damn, I miss phone books.",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,"...yes, that David Attenborough is a hunk....",1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,Can you please just get a job? We need a place with higher doors.,1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,Can you move over a bit?,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,"You love those longneck commercials, don't you?",1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
-2525,"If you want mimosa buds for dessert, you can darn well pluck them yourself.",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,"If you want mimosa buds for dessert, you can darn well pluck them yourself.",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,"You know, when they said more diversity, I don't think they meant us.",1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
-2525,High ceilings like this in newer buildings are almost unheard of.,1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,High ceilings like this in newer buildings are almost unheard of.,1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,I'm tired of sticking my neck out for you!,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
 2525,Sucks to be an elephant.,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
-2525,"If we start necking, don't worry...I know a good chiropractor.",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
-2525,"If you want to stick your neck out, then tell them to vote their conscience.",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,"If we start necking, don't worry...I know a good chiropractor.",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
+2525,"If you want to stick your neck out, then tell them to vote their conscience.",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,Actually I'm good with human-caused climate change.,1.18,0.050010099990003054,100.0,87.0,8.0,5.0,531
 2525,"Can you turn it up, please?",1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,I think it needs a wall mount - my neck's killing me!,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
 2525,"No, the movie I'm looking for is 'Jurassic World,' not 'Giraffic World.'",1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
-2525,Even I find his ideas a reach.,1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,Even I find his ideas a reach.,1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,I've always admired your plunging neckline.,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
-2525,"While you've been captivated by rhetoric and promises, I've been sticking my reticulated neck out all day long!",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
-2525,I thought I asked you to wash your feet .,1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,"While you've been captivated by rhetoric and promises, I've been sticking my reticulated neck out all day long!",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
+2525,I thought I asked you to wash your feet .,1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,"After those conventions, it's time for a third party.",1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,Maybe we should have skipped the timeshare presentation.,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,"Oh, I've got this! What is ""Born Free?""",1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
-2525,"See, it's good you didn't get that job as the GOP mascot.",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,"See, it's good you didn't get that job as the GOP mascot.",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,Sure beats eating the top one percent.,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
 2525,Can you put some clothes on? We have a monkey and a gazelle coming over.,1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,Watching the Nature Channel sideways doesn't make the violence and sexual content appropriate.,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
 2525,"Oh, hon, we really should have bought the three-seater or the sectional.",1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
-2525,"Ha know, Geoffrey, it might be time your stop acting like such a Toys 'R' Us kid and you got out and get a job!",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,"Ha know, Geoffrey, it might be time your stop acting like such a Toys 'R' Us kid and you got out and get a job!",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,"They're coming! Quick, flatten like a throw blanket!",1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,"You'll hurt your neck watching from that angle, Doris.",1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
-2525,Read my lips. No elephants!,1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
-2525,Sorry I'm late - today's photo shoot required extra footage.,1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,Read my lips. No elephants!,1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
+2525,Sorry I'm late - today's photo shoot required extra footage.,1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,How about a little necking?,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
-2525,"Move over, we'll neck while we watch animal planet.",1.18,0.038612291966536934,100.0,82.0,18.0,0.0,531
+2525,"Move over, we'll neck while we watch animal planet.",1.18,0.03861229196653693,100.0,82.0,18.0,0.0,531
 2525,You know it's not just your neck you're lowering .,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
 2525,"You get much higher notes than those ""Voice"" contestants!",1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
-2525,I am feeling a little horny. Do you wanna neck?,1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,I am feeling a little horny. Do you wanna neck?,1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,I think we should go with the ranch house.,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
 2525,"You've already seen this episode of ""Hunting Lions.""",1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
-2525,"Soooo, you want to - uh, what' s the word: spoon? make out? Give me a sec, I'll think of it.",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,"Soooo, you want to - uh, what' s the word: spoon? make out? Give me a sec, I'll think of it.",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,Doris said the top shelf at Bed & Bath had the best selection of pillows.,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,We need a taller screen,1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
-2525,'Planet Earth'? You watch too much reality television.,1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,'Planet Earth'? You watch too much reality television.,1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,It's pretty low for Hi-Def.,1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
-2525,Seriously? Youâ€™re gonna take up the WHOLE couch?,1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
-2525,How did we ever get around before AirBnB?,1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,Seriously? Youâ€™re gonna take up the WHOLE couch?,1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
+2525,How did we ever get around before AirBnB?,1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,That's the last time we're using airbng.,1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,"I used to look up to you and admire your lofty goals, but now you just sit around watching reruns of ""The Young and the Neckless"".",1.18,0.050010099990003054,100.0,87.0,8.0,5.0,531
-2525,Mmm!! my favorite negligee! The kids must be at your mom's!,1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,Mmm!! my favorite negligee! The kids must be at your mom's!,1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,Maybe these zoo upgrades weren't a good idea.,1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,How many times have I told you not to sit on the couch?,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,You don't always have to stick your neck out.,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
-2525,Definitely our best house exchange.,1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,Definitely our best house exchange.,1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,I think you need to see how the other half lives.,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
 2525,"Animal Kingdom, really?",1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,"How bout we switch it to Lawrence Welk, and neck?",1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
-2525,What are you watching? Say yes to the Turtle neck !,1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,What are you watching? Say yes to the Turtle neck !,1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,Love these extra tall ceilings!,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,I think Trump said we're going home!,1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,Really? Keeping up with the Giraffians?....Again?,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,"How many more times are you going to watch ""The Toys-R-Us story?""",1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
-2525,"Bob, every Sunday it's the same thing, National Geographic and Animal Planet all day!",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,"Bob, every Sunday it's the same thing, National Geographic and Animal Planet all day!",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,And no one believed in Lamarckian evolution back in the 21st Century!,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,"Good grief, it seems like everyone these days has an acacia leaf show.",1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,Mutual of Omaha re-runs still going on?,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,Binge watching the Animal Planet?,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
-2525,Hey Honey - Wanna' neck some tonight?,1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,Hey Honey - Wanna' neck some tonight?,1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,Any news from back home?,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,World's tallest mammals. Hah! Apparently we are smartest too.,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
 2525,"If you don't move over, off goes Animal Planet!",1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
@@ -2630,12 +2630,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2525,"Can we watch the news? I am so over ""Wild Kingdom.""",1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,"""Real Housewives""? I know you like low-hanging fruit, but come on.",1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,"Chill, babycakes. We'll stay here four years if the elephants win.",1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
-2525,Who tipped the TV over?,1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,Who tipped the TV over?,1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,Stand tall! Stand tall! That's all you ever say!,1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
 2525,Instead of watching 'Animal Planet' let's go out and be part of it!,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,A reality show about Giraffes living in the Jungle? That is so absurd!,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,"If you like, I can hang the TV higher.",1.18,0.04353101761904375,100.0,84.0,14.0,2.0,531
-2525,"No, you cannot skip Safari School to watch ""Katching Up With The Kangaroos.""",1.18,0.04794778304562058,100.0,86.0,10.0,4.0,531
+2525,"No, you cannot skip Safari School to watch ""Katching Up With The Kangaroos.""",1.18,0.047947783045620584,100.0,86.0,10.0,4.0,531
 2525,Neck flicks and chill?,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
 2525,My neck hurts - we need to mount the t.v. higher.,1.18,0.04579268169663903,100.0,85.0,12.0,3.0,531
 2525,Really? You're watching Animal Planet again?,1.18,0.041145221993924085,100.0,83.0,16.0,1.0,531
@@ -2648,89 +2648,89 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2644,"Go figure, a donkey instead of us.",1.1782178217821782,0.04750412093423826,101.0,87.0,10.0,4.0,531
 2644,Your grandparents wouldn't have called these low ceilings.,1.1782178217821782,0.04954453862652202,101.0,88.0,8.0,5.0,531
 2649,There's no way out of this room!,1.174757281553398,0.042363057985699726,103.0,87.0,14.0,2.0,531
-2650,"Don't worry, Geoffrey, you'll work again. How long could this internet fad last?",1.1734693877551021,0.04357646269496895,98.0,83.0,13.0,2.0,531
-2650,"I'm going to work. If you can pull yourself away from the TV and get to the grocery store, were almost out of acacia leaves.",1.1734693877551021,0.03844634221296493,98.0,81.0,17.0,0.0,531
-2650,"To be stars, we need the TV vertical.",1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,531
-2650,There's a surcharge for using the baby pool but breakfast is all vegetarian.,1.1734693877551021,0.04357646269496895,98.0,83.0,13.0,2.0,531
-2650,The picture is much better when the screen is vertical.,1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,531
-2650,You're sure you don't want to mount it?...,1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,531
-2650,who'd even want a dick that big?,1.1734693877551021,0.0523496116881992,98.0,87.0,5.0,6.0,531
-2650,I'm glad I'm up here and not down on that convention floor.,1.1734693877551021,0.04816321181623616,98.0,85.0,9.0,4.0,531
-2650,Can't we watch Animal Kingdom?,1.1734693877551021,0.04816321181623616,98.0,85.0,9.0,4.0,531
-2650,"Yea, yea, portrait would be better for you but this IS landscape.",1.1734693877551021,0.050299984176741405,98.0,86.0,7.0,5.0,531
-2650,Why else do you think we built this place with 22 foot ceilings?,1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,531
-2650,The Game of Thrones season is over. Time to join the real world.,1.1734693877551021,0.04816321181623616,98.0,85.0,9.0,4.0,531
-2650,At least 'The Real Housegiraffes of New York' are getting some dinner!,1.1734693877551021,0.04357646269496895,98.0,83.0,13.0,2.0,531
-2650,It's a new reality show about giraffes in the suburbs.,1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,531
-2650,Are you sure we haven't forgotten our roots?,1.1734693877551021,0.04109154006947433,98.0,82.0,15.0,1.0,531
-2650,Do these shows make any sense to you?,1.1734693877551021,0.03844634221296493,98.0,81.0,17.0,0.0,531
-2650,Does this reticulate make me look fat?,1.1734693877551021,0.04816321181623616,98.0,85.0,9.0,4.0,531
-2650,"I hear bipeds are using our term ""helicopter parents.""",1.1734693877551021,0.04357646269496895,98.0,83.0,13.0,2.0,531
-2650,I can't find the remote.,1.1734693877551021,0.04816321181623616,98.0,85.0,9.0,4.0,531
-2650,These talking animal jokes never age.,1.1734693877551021,0.03844634221296493,98.0,81.0,17.0,0.0,531
-2650,How are we going to get out of that door.,1.1734693877551021,0.04357646269496895,98.0,83.0,13.0,2.0,531
-2650,You're a real couch zucchini,1.1734693877551021,0.04357646269496895,98.0,83.0,13.0,2.0,531
-2650,And he doesn't shed?,1.1734693877551021,0.04109154006947433,98.0,82.0,15.0,1.0,531
-2650,Wouldn't it be easier to watch if we mounted it in the Baobab tree in the corner?,1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,531
-2650,This is just like watching the monkeys throw poo at each other.,1.1734693877551021,0.04816321181623616,98.0,85.0,9.0,4.0,531
-2650,"No son, I won't leave your father for Richard Attenborough.",1.1734693877551021,0.04357646269496895,98.0,83.0,13.0,2.0,531
-2650,Are you sitting on the remote?,1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,531
-2650,No wall mounting?,1.1734693877551021,0.04109154006947433,98.0,82.0,15.0,1.0,531
-2650,They don't have a vertical control button on these new flat screens.,1.1734693877551021,0.03844634221296493,98.0,81.0,17.0,0.0,531
-2650,"What do you mean, you're vegetating? There's no vegetation in here.",1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,531
-2650,Where did the throw rug go?,1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,531
-2650,Anything appetizing on Wild Vegetable Network?,1.1734693877551021,0.04816321181623616,98.0,85.0,9.0,4.0,531
-2650,Don't be alarmed. It's TV. They can't get you.,1.1734693877551021,0.04357646269496895,98.0,83.0,13.0,2.0,531
-2650,"Whatching TV shows all day long, at least you need to stretch you neck or something.",1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,531
-2650,I know its not healthy but tonight we get to look down at a retrospective on Kurt Vonnegut!,1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,531
-2650,If put your feet on the sofa again and I'll break your neck young man!,1.1734693877551021,0.04816321181623616,98.0,85.0,9.0,4.0,531
-2650,Are you watching Pippi Longstocking AGAIN?,1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,531
-2650,Is this Giraffic Park 2 or 3?,1.1734693877551021,0.04109154006947433,98.0,82.0,15.0,1.0,531
-2650,Don't you ever get tired of watching 'Animal Kingdom?',1.1734693877551021,0.03844634221296493,98.0,81.0,17.0,0.0,531
-2650,When are these donkeys and elephants going to learn how to connect with the rest of us?,1.1734693877551021,0.04109154006947433,98.0,82.0,15.0,1.0,531
-2650,We stuck our necks out for Bernie but Sarah Silverman looks better to me now.,1.1734693877551021,0.04357646269496895,98.0,83.0,13.0,2.0,531
-2650,I see you're ready for some necking.,1.1734693877551021,0.04816321181623616,98.0,85.0,9.0,4.0,531
-2650,That show Giraffes Gone Wild is not what you'd think.,1.1734693877551021,0.04816321181623616,98.0,85.0,9.0,4.0,531
-2650,"Sorry honey, I don't think they do tall screen TV.",1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,531
-2650,I don't trust any infomercial that asks me to stick my neck out that far!,1.1734693877551021,0.04592713290344636,98.0,84.0,11.0,3.0,531
-2650,I thought I told you to go eat the grass.,1.1734693877551021,0.04357646269496895,98.0,83.0,13.0,2.0,531
+2650,"Don't worry, Geoffrey, you'll work again. How long could this internet fad last?",1.173469387755102,0.04357646269496895,98.0,83.0,13.0,2.0,531
+2650,"I'm going to work. If you can pull yourself away from the TV and get to the grocery store, were almost out of acacia leaves.",1.173469387755102,0.03844634221296493,98.0,81.0,17.0,0.0,531
+2650,"To be stars, we need the TV vertical.",1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,531
+2650,There's a surcharge for using the baby pool but breakfast is all vegetarian.,1.173469387755102,0.04357646269496895,98.0,83.0,13.0,2.0,531
+2650,The picture is much better when the screen is vertical.,1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,531
+2650,You're sure you don't want to mount it?...,1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,531
+2650,who'd even want a dick that big?,1.173469387755102,0.0523496116881992,98.0,87.0,5.0,6.0,531
+2650,I'm glad I'm up here and not down on that convention floor.,1.173469387755102,0.04816321181623616,98.0,85.0,9.0,4.0,531
+2650,Can't we watch Animal Kingdom?,1.173469387755102,0.04816321181623616,98.0,85.0,9.0,4.0,531
+2650,"Yea, yea, portrait would be better for you but this IS landscape.",1.173469387755102,0.050299984176741405,98.0,86.0,7.0,5.0,531
+2650,Why else do you think we built this place with 22 foot ceilings?,1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,531
+2650,The Game of Thrones season is over. Time to join the real world.,1.173469387755102,0.04816321181623616,98.0,85.0,9.0,4.0,531
+2650,At least 'The Real Housegiraffes of New York' are getting some dinner!,1.173469387755102,0.04357646269496895,98.0,83.0,13.0,2.0,531
+2650,It's a new reality show about giraffes in the suburbs.,1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,531
+2650,Are you sure we haven't forgotten our roots?,1.173469387755102,0.04109154006947433,98.0,82.0,15.0,1.0,531
+2650,Do these shows make any sense to you?,1.173469387755102,0.03844634221296493,98.0,81.0,17.0,0.0,531
+2650,Does this reticulate make me look fat?,1.173469387755102,0.04816321181623616,98.0,85.0,9.0,4.0,531
+2650,"I hear bipeds are using our term ""helicopter parents.""",1.173469387755102,0.04357646269496895,98.0,83.0,13.0,2.0,531
+2650,I can't find the remote.,1.173469387755102,0.04816321181623616,98.0,85.0,9.0,4.0,531
+2650,These talking animal jokes never age.,1.173469387755102,0.03844634221296493,98.0,81.0,17.0,0.0,531
+2650,How are we going to get out of that door.,1.173469387755102,0.04357646269496895,98.0,83.0,13.0,2.0,531
+2650,You're a real couch zucchini,1.173469387755102,0.04357646269496895,98.0,83.0,13.0,2.0,531
+2650,And he doesn't shed?,1.173469387755102,0.04109154006947433,98.0,82.0,15.0,1.0,531
+2650,Wouldn't it be easier to watch if we mounted it in the Baobab tree in the corner?,1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,531
+2650,This is just like watching the monkeys throw poo at each other.,1.173469387755102,0.04816321181623616,98.0,85.0,9.0,4.0,531
+2650,"No son, I won't leave your father for Richard Attenborough.",1.173469387755102,0.04357646269496895,98.0,83.0,13.0,2.0,531
+2650,Are you sitting on the remote?,1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,531
+2650,No wall mounting?,1.173469387755102,0.04109154006947433,98.0,82.0,15.0,1.0,531
+2650,They don't have a vertical control button on these new flat screens.,1.173469387755102,0.03844634221296493,98.0,81.0,17.0,0.0,531
+2650,"What do you mean, you're vegetating? There's no vegetation in here.",1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,531
+2650,Where did the throw rug go?,1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,531
+2650,Anything appetizing on Wild Vegetable Network?,1.173469387755102,0.04816321181623616,98.0,85.0,9.0,4.0,531
+2650,Don't be alarmed. It's TV. They can't get you.,1.173469387755102,0.04357646269496895,98.0,83.0,13.0,2.0,531
+2650,"Whatching TV shows all day long, at least you need to stretch you neck or something.",1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,531
+2650,I know its not healthy but tonight we get to look down at a retrospective on Kurt Vonnegut!,1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,531
+2650,If put your feet on the sofa again and I'll break your neck young man!,1.173469387755102,0.04816321181623616,98.0,85.0,9.0,4.0,531
+2650,Are you watching Pippi Longstocking AGAIN?,1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,531
+2650,Is this Giraffic Park 2 or 3?,1.173469387755102,0.04109154006947433,98.0,82.0,15.0,1.0,531
+2650,Don't you ever get tired of watching 'Animal Kingdom?',1.173469387755102,0.03844634221296493,98.0,81.0,17.0,0.0,531
+2650,When are these donkeys and elephants going to learn how to connect with the rest of us?,1.173469387755102,0.04109154006947433,98.0,82.0,15.0,1.0,531
+2650,We stuck our necks out for Bernie but Sarah Silverman looks better to me now.,1.173469387755102,0.04357646269496895,98.0,83.0,13.0,2.0,531
+2650,I see you're ready for some necking.,1.173469387755102,0.04816321181623616,98.0,85.0,9.0,4.0,531
+2650,That show Giraffes Gone Wild is not what you'd think.,1.173469387755102,0.04816321181623616,98.0,85.0,9.0,4.0,531
+2650,"Sorry honey, I don't think they do tall screen TV.",1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,531
+2650,I don't trust any infomercial that asks me to stick my neck out that far!,1.173469387755102,0.04592713290344636,98.0,84.0,11.0,3.0,531
+2650,I thought I told you to go eat the grass.,1.173469387755102,0.04357646269496895,98.0,83.0,13.0,2.0,531
 2696,Don't you think we could have used a bigger screen.,1.1717171717171715,0.040712080749396494,99.0,83.0,15.0,1.0,531
 2696,"I can't understand your fascination with 'Reality TV', it's all low hanging fruit.",1.1717171717171715,0.040712080749396494,99.0,83.0,15.0,1.0,531
 2696,I'm so much happier with this new upholstry; animal print is just so distasteful.,1.1717171717171715,0.040712080749396494,99.0,83.0,15.0,1.0,531
 2699,I'm going to stick my neck out.,1.17,0.04507009131689365,100.0,86.0,11.0,3.0,531
 2700,So far so good. Now let's check the bathroom.,1.1666666666666667,0.04836508334066742,96.0,84.0,8.0,4.0,531
-2700,Hi !,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,Hi !,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,"Don't you think we should invest in a vertical screen, so our heads don't get cut off?",1.1666666666666667,0.0382359556450936,96.0,80.0,16.0,0.0,531
 2700,Those National Geographic shows always stereotyping us for eating the tops of trees.,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
 2700,A complete waste of screen dimension.,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
-2700,Are the elephants still yelling?,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,Are the elephants still yelling?,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,Do you think the guests will mind sitting on folding chairs?,1.1666666666666667,0.04836508334066742,96.0,84.0,8.0,4.0,531
 2700,Do the security cameras still show the lions out there?,1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
 2700,Time to Netflix and neck.,1.1666666666666667,0.04836508334066742,96.0,84.0,8.0,4.0,531
 2700,I donâ€™t care what it means. Donâ€™t call your brother a camelopard.,1.1666666666666667,0.04836508334066742,96.0,84.0,8.0,4.0,531
 2700,"If Trump keeps sticking his neck out, they'll make us adopt him.",1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
 2700,"Yes dear, I'm certain you'd win if there was an olympic competition for 'Treetop Chomping'.",1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
-2700,It's hard to look up to you when you're watching TV.,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,It's hard to look up to you when you're watching TV.,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,Nova's 'Nature vs Nurture' again?,1.1666666666666667,0.04836508334066742,96.0,84.0,8.0,4.0,531
 2700,"Hey Long Tall Sally, enough Animal Planet. I know it's a jungle out there, but go outside and play.",1.1666666666666667,0.04836508334066742,96.0,84.0,8.0,4.0,531
 2700,Lean closer if you can't see it.,1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
-2700,It is a tall order,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,It is a tall order,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,"Do you think whoever started ""The Giraffe Channel"" is really sticking their neck out?",1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
-2700,You need an ottoman for your neck,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,You need an ottoman for your neck,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,"The salesman said, ""for big-screen mode just lean in!'",1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
 2700,That'll rot your neck!,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
 2700,And then she said human rights are giraffe rights.,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
-2700,"Of course ""Sharknado"" is not real. There is no watering hole in the world that big.",1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,"Of course ""Sharknado"" is not real. There is no watering hole in the world that big.",1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,Aren't you tired of watching your close escape from the Lion King?,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
-2700,"No, watching Wild Kingdom isn't the same.",1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
-2700,How the hell did you bend and fold up correctly to get on that couch?,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,"No, watching Wild Kingdom isn't the same.",1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
+2700,How the hell did you bend and fold up correctly to get on that couch?,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,"I'll flip the screen vertically for you, honey, so you can see that video the way it was meant to be seen.",1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
-2700,"Sure, Trump and Hillary are running neck and neck right now. But thinking that Trump can actually win is kind of a stretch, isn't it?",1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
-2700,Video yoga lessons are ruining your posture!,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,"Sure, Trump and Hillary are running neck and neck right now. But thinking that Trump can actually win is kind of a stretch, isn't it?",1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
+2700,Video yoga lessons are ruining your posture!,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,But you're the one who is better at changing diapers.,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
 2700,"He says he will fight for all citizens - Latino citizens, women, orphans, LGBTQ citizens, the elderly citizens.....But will he fight for giraffes, that's what I want to know !",1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
 2700,"Let's have dinner now, ""Human Planet"" isn't on for 30 more minutes",1.1666666666666667,0.0382359556450936,96.0,80.0,16.0,0.0,531
-2700,'Deported?!',1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,'Deported?!',1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,Is that calf appropriate?,1.1666666666666667,0.04836508334066742,96.0,84.0,8.0,4.0,531
 2700,"Dear, why are you always sitting in my spot?",1.1666666666666667,0.04836508334066742,96.0,84.0,8.0,4.0,531
 2700,They say the election is neck and neck.,1.1666666666666667,0.0382359556450936,96.0,80.0,16.0,0.0,531
@@ -2738,7 +2738,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2700,Didn't she tell you a hundred times to keep your feet off the sofa!,1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
 2700,You do know that wrestling is fake right?,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
 2700,But WHY do we need a washing machine?,1.1666666666666667,0.04836508334066742,96.0,84.0,8.0,4.0,531
-2700,While you're watching Nature I need nurture.,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,While you're watching Nature I need nurture.,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,I could show them naked and afraid.,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
 2700,"Well, this convention sure picked the low-lying fruit",1.1666666666666667,0.050581414888906974,96.0,85.0,6.0,5.0,531
 2700,Our compassionate political natures are head and shoulders above those elephants and donkeys.,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
@@ -2746,20 +2746,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2700,Poor elephants.,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
 2700,I thought the love seat was meant for us to cuddle.,1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
 2700,"Sure i like humans, but giraffes are funnier !",1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
-2700,About last night.,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
-2700,We need to elevate the discourse.,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,About last night.,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
+2700,We need to elevate the discourse.,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,Jed Falby just calledâ€”wants to know if an English bloke can win the New Yorker cartoon contest? I told him not to stick his neck out.,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
-2700,"Serengeti, Shmerengeti! What's on cable.",1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
-2700,"""Let's go down to the watering hole and grab a couple of 'longnecks'.",1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,"Serengeti, Shmerengeti! What's on cable.",1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
+2700,"""Let's go down to the watering hole and grab a couple of 'longnecks'.",1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,I'm for going high.,1.1666666666666667,0.04836508334066742,96.0,84.0,8.0,4.0,531
 2700,83 channels of humans reproducing at the Hyatt? This cable's got to go.,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
 2700,"Let's get takeout, but I'm really sick of leaves.",1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
-2700,You should try yoga.,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
-2700,Nothing on TV tonight. Let's neck.,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,You should try yoga.,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
+2700,Nothing on TV tonight. Let's neck.,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,Remember when Mutual of Omaha's Wild Kingdom was the only corporate sponsor you had ever heard?,1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
 2700,"Let me know when they have the ""Housewives of Nairobi.""",1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
 2700,Want another Longnecker?,1.1666666666666667,0.04836508334066742,96.0,84.0,8.0,4.0,531
-2700,I'll share the remote when you share the couch!,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,I'll share the remote when you share the couch!,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,Don't you get tired of watching animal shows?,1.1666666666666667,0.04836508334066742,96.0,84.0,8.0,4.0,531
 2700,Feeling amorous? Wanna neck?,1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
 2700,Hey Honey. It has been a long day at work. What kind of leaves are we having for dinner tonight?,1.1666666666666667,0.046042187621090185,96.0,83.0,10.0,3.0,531
@@ -2772,17 +2772,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2700,Elephants and donkeys! Elephants and donkeys! How discouraging!!,1.1666666666666667,0.04836508334066742,96.0,84.0,8.0,4.0,531
 2700,I'm gonna go out on a limb and say this speech seems plagiarized,1.1666666666666667,0.04836508334066742,96.0,84.0,8.0,4.0,531
 2700,Are you watching animal planet again?,1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
-2700,You'll only see Donkeys and Elephants.,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,You'll only see Donkeys and Elephants.,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,I think we need a wall model.,1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
-2700,Can we talk?,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,Can we talk?,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,"Listen Junior, I am not sticking my neck out to get you an audition on Animal Planet",1.1666666666666667,0.0382359556450936,96.0,80.0,16.0,0.0,531
 2700,"Argh, what did the elephants say now?",1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
 2700,"If it were up to me, I'd watch in high-def.",1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
 2700,You give really good neck.,1.1666666666666667,0.050581414888906974,96.0,85.0,6.0,5.0,531
-2700,Don't waste your time. The signal is spotty.,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
-2700,We can stay at the zoo when we compete in Rio.,1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,Don't waste your time. The signal is spotty.,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
+2700,We can stay at the zoo when we compete in Rio.,1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2700,Are high collars back in?,1.1666666666666667,0.04100349435972013,96.0,81.0,14.0,1.0,531
-2700,"That's the trouble with politics today, not many remember how to rise to the occasion.",1.1666666666666667,0.043595696981716385,96.0,82.0,12.0,2.0,531
+2700,"That's the trouble with politics today, not many remember how to rise to the occasion.",1.1666666666666667,0.04359569698171639,96.0,82.0,12.0,2.0,531
 2785,"""No necking on the love seat!!",1.1649484536082475,0.04061493695385844,97.0,82.0,14.0,1.0,531
 2785,Did you see the shower?,1.1649484536082475,0.04061493695385844,97.0,82.0,14.0,1.0,531
 2787,"""I warned you it would make your neck look huge"".",1.1578947368421053,0.03760997900055243,95.0,80.0,15.0,0.0,531
@@ -3418,9 +3418,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3351,"Trump's on again, wanna neck?",1.1162790697674418,0.04505234727343496,86.0,79.0,4.0,3.0,531
 3351,You look like you need some cheering up.What say we go stomp some lions to death?,1.1162790697674418,0.03850348519824097,86.0,77.0,8.0,1.0,531
 3351,It looks more fun than necking!,1.1162790697674418,0.03850348519824097,86.0,77.0,8.0,1.0,531
-3420,How about we turn off the t.v. and poke our heads out the door?,1.1149425287356325,0.041443118108781464,87.0,79.0,6.0,2.0,531
+3420,How about we turn off the t.v. and poke our heads out the door?,1.1149425287356325,0.04144311810878146,87.0,79.0,6.0,2.0,531
 3420,Lets go out to the Savanna.,1.1149425287356325,0.0380818044768952,87.0,78.0,8.0,1.0,531
-3420,Get yer affe (giraffe) off the couch,1.1149425287356325,0.041443118108781464,87.0,79.0,6.0,2.0,531
+3420,Get yer affe (giraffe) off the couch,1.1149425287356325,0.04144311810878146,87.0,79.0,6.0,2.0,531
 3423,I think you would find the viewing more pleasurable if you turned the TV on its side.,1.1097560975609757,0.03882533545228831,82.0,74.0,7.0,1.0,531
 3424,All that lowbrow trash is making you an animal.,1.1058823529411763,0.0375120126857039,85.0,77.0,7.0,1.0,531
 3424,"A new TV, with a larger screen? Just lean in.",1.1058823529411763,0.0375120126857039,85.0,77.0,7.0,1.0,531

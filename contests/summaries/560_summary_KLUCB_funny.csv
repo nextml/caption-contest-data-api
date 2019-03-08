@@ -1,7 +1,7 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1,That's Bob Mankoff. He used to be the cartoon editor of the New Yorker.,1.9313482216708024,0.012499590678797657,4836.0,2004.0,1160.0,1672.0,560
 2,He got the cave but she got the wheel and the fire.,1.898812049215104,0.012229374260511298,4714.0,1924.0,1343.0,1447.0,560
-3,He got the man cave in the divorce.,1.874946282767512,0.01776717355953535,2327.0,1018.0,582.0,727.0,560
+3,He got the man cave in the divorce.,1.8749462827675119,0.01776717355953535,2327.0,1018.0,582.0,727.0,560
 4,I couldn't afford that place if I lived to be 30.,1.7701986754966887,0.011917300235100205,4530.0,2097.0,1377.0,1056.0,560
 5,So this is how the 1% live.,1.7655908760009706,0.012354659616733628,4121.0,1892.0,1303.0,926.0,560
 6,I invented fire. He invested in it.,1.7560795873249817,0.0126246379828052,4071.0,1938.0,1188.0,945.0,560
@@ -30,7 +30,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 29,"You know what? ""Cave Man"" does have a better ring to it than ""Hole Man""...",1.5009960159362548,0.02252644732069116,1004.0,631.0,243.0,130.0,560
 30,"No, THIS is a manhole. That's a man cave.",1.498492462311558,0.02236594107466918,995.0,622.0,250.0,123.0,560
 31,He'll never move. It's rent-controlled.,1.4952879581151832,0.023953133739612286,955.0,624.0,189.0,142.0,560
-32,The real fun starts when the bear wakes up!,1.494092373791622,0.02461764263594795,931.0,617.0,168.0,146.0,560
+32,The real fun starts when the bear wakes up!,1.4940923737916219,0.02461764263594795,931.0,617.0,168.0,146.0,560
 33,We've got to move out of your parents' basement.,1.4904815229563269,0.02282991796680351,893.0,551.0,246.0,96.0,560
 34,Very nice. Makes our place look like a hole in the ground.,1.4902857142857142,0.02367557307590696,875.0,551.0,219.0,105.0,560
 35,"He'll never leave, it's rent controlled.",1.4888641425389757,0.02467378700016698,898.0,592.0,173.0,133.0,560
@@ -39,7 +39,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 38,"Sure, caves are great until the bears come home.",1.48642266824085,0.026298808470974808,847.0,577.0,128.0,142.0,560
 39,"It's nice, I guess... if you don't mind living in a hole in the wall.",1.4844124700239811,0.03430509263559413,417.0,265.0,102.0,50.0,560
 40,I heard his wife left him for some big wheel inventor.,1.4835443037974685,0.0246027323214002,790.0,498.0,202.0,90.0,560
-41,He also has a cave in the Hamptons.,1.4818523153942431,0.02458838209774433,799.0,507.0,199.0,93.0,560
+41,He also has a cave in the Hamptons.,1.4818523153942431,0.024588382097744332,799.0,507.0,199.0,93.0,560
 42,"Sure, he's smug now, but wait until the bear comes back!",1.4817518248175183,0.026368393754205872,822.0,558.0,132.0,132.0,560
 43,Don't expect him to leave anytime soon. That cave is rent controlled.,1.4805389221556886,0.027654440484462958,668.0,434.0,147.0,87.0,560
 44,"He'll never leave, it's rent controlled.",1.4793814432989691,0.026791329990163013,776.0,523.0,134.0,119.0,560
@@ -62,7 +62,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 61,I don’t like the way he draws you on the wall.,1.4498714652956295,0.03436778209789769,389.0,255.0,93.0,41.0,560
 62,"Personally, I'm not a big fan of modern architecture.",1.446069469835466,0.02876724509661214,547.0,359.0,132.0,56.0,560
 63,I don't understand what you see in it. It is just a hole in the wall.,1.4450867052023122,0.029639957104385245,519.0,342.0,123.0,54.0,560
-64,"His name is Mankoff. He drew all of those pictures on the cave wall. Been there since before the dinosaurs, so they say.",1.443181818181818,0.02999191609893864,528.0,354.0,114.0,60.0,560
+64,"His name is Mankoff. He drew all of those pictures on the cave wall. Been there since before the dinosaurs, so they say.",1.4431818181818181,0.02999191609893864,528.0,354.0,114.0,60.0,560
 65,"Uh-oh, looks like your Dad is waiting up!",1.4431372549019608,0.029365372968809294,510.0,333.0,128.0,49.0,560
 66,Why would anyone live in that hole in the wall?,1.4416826003824093,0.028449972988128125,523.0,338.0,139.0,46.0,560
 67,"That isn't a ""man-cave"". It's a grizzly bear-cave. He'll soon be wishing he had a man-hole like us!",1.4414587332053743,0.03296825286161289,521.0,374.0,64.0,83.0,560
@@ -70,7 +70,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 68,"I'd yell ""fire"", but I don't think he knows what that is yet.",1.4384920634920637,0.030387515158956206,504.0,338.0,111.0,55.0,560
 70,Ha! He had the blueprints sideways!,1.4380000000000002,0.02880923365672498,500.0,323.0,135.0,42.0,560
 71,"Hmm, horizontal. I think he's onto something.",1.4356164383561645,0.03467413367987976,365.0,241.0,89.0,35.0,560
-72,Isn't that where the bear lives?,1.435318275154004,0.034744176687928625,487.0,358.0,46.0,83.0,560
+72,Isn't that where the bear lives?,1.4353182751540041,0.034744176687928625,487.0,358.0,46.0,83.0,560
 73,He's just in a foul mood because I said his drawings had repetitive themes.,1.4351145038167938,0.03288457398153003,393.0,257.0,101.0,35.0,560
 74,"True, but he has a lot more overhead.",1.4350515463917526,0.029131014683529907,485.0,314.0,131.0,40.0,560
 75,Should we tell him about the bear at the back of his cave?,1.4322033898305084,0.03392303606836585,472.0,338.0,64.0,70.0,560
@@ -89,19 +89,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 88,"No hunting, no gathering. He just binge-watches last season's cave murals.",1.4154228855721394,0.03300708616056989,402.0,274.0,89.0,39.0,560
 88,Looks like a real hole-in-the-wall.,1.4154228855721394,0.03243836239593741,402.0,271.0,95.0,36.0,560
 88,Keep dreaming; it's rent-controlled. He'll never move out!,1.4154228855721394,0.03536602972198222,402.0,287.0,63.0,52.0,560
-91,"Location, location, location.",1.414141414141414,0.03297475022133788,396.0,269.0,90.0,37.0,560
+91,"Location, location, location.",1.4141414141414141,0.03297475022133788,396.0,269.0,90.0,37.0,560
 92,You do realize we are hiding in the outhouse?,1.4137055837563453,0.03289641350616415,394.0,267.0,91.0,36.0,560
 93,The one percent.,1.4117647058823528,0.0348032403812974,391.0,275.0,71.0,45.0,560
 93,"As soon as the bear comes back and eats him, the cave will be ours.",1.4117647058823528,0.03734814773157056,391.0,289.0,43.0,59.0,560
 95,His flip went south when the bear moved in.,1.4108527131782946,0.03782048820497464,387.0,288.0,39.0,60.0,560
 96,He feels like a third what?,1.4103896103896103,0.034223613081607686,385.0,267.0,78.0,40.0,560
 97,N0 use waiting--looks like a rent controlled apt.!,1.4094488188976375,0.03680554745322688,381.0,277.0,52.0,52.0,560
-98,So...that's how he stays dry when it rains.,1.4080000000000001,0.03276622755901567,375.0,252.0,93.0,30.0,560
+98,So...that's how he stays dry when it rains.,1.408,0.03276622755901567,375.0,252.0,93.0,30.0,560
 99,"What's next, cliff dwelling?",1.4075067024128691,0.033963632915443305,373.0,256.0,82.0,35.0,560
 100,I guess he does know his ass from a hole in the ground.,1.4070080862533694,0.03596354270633313,371.0,264.0,63.0,44.0,560
 101,"I highly doubt ""Cave Dweller"" will become a thing.",1.4059945504087197,0.03347376042536589,367.0,249.0,87.0,31.0,560
 101,Don't forget to walk upright when I introduce you. Dad is kind of racist.,1.4059945504087197,0.03499599680900251,367.0,256.0,73.0,38.0,560
-103,This hole is greater than some of the parties.,1.403899721448468,0.036415817952148384,359.0,256.0,61.0,42.0,560
+103,This hole is greater than some of the parties.,1.4038997214484679,0.036415817952148384,359.0,256.0,61.0,42.0,560
 104,Wait! How will your Dad even know if we're late for curfew if he can't tell time?,1.4006309148264984,0.03713256192969926,317.0,221.0,65.0,31.0,560
 105,They say he was once a cartoon editor.,1.4,0.035965144357806435,350.0,247.0,66.0,37.0,560
 106,I'd better apologize. He DOES know his cave from a hole in the ground.,1.3993399339933994,0.038078315651041424,303.0,212.0,61.0,30.0,560
@@ -115,9 +115,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 112,Yet another architecture trend that will never last.,1.394578313253012,0.03349781922131845,332.0,223.0,87.0,22.0,560
 115,"You're right, I think that is Bob Mankoff!",1.393939393939394,0.03872185132680003,330.0,242.0,46.0,42.0,560
 116,"Yeah, but there's no basement.",1.3932926829268293,0.03235279932343445,328.0,216.0,95.0,17.0,560
-117,The original man cave.,1.391156462585034,0.03794312942841797,294.0,206.0,61.0,27.0,560
+117,The original man cave.,1.3911564625850341,0.03794312942841797,294.0,206.0,61.0,27.0,560
 118,I knew he'd eventually cave.,1.38801261829653,0.038082148697392085,317.0,229.0,53.0,35.0,560
-119,I've never seen a cave-man before ... this changes the hole-world.,1.3870967741935485,0.03976034828526567,248.0,171.0,58.0,19.0,560
+119,I've never seen a cave-man before ... this changes the hole-world.,1.3870967741935485,0.039760348285265666,248.0,171.0,58.0,19.0,560
 120,Noah can explain better,1.3865814696485623,0.03895913219580792,313.0,229.0,47.0,37.0,560
 121,This is just our Starter Hole.,1.3858520900321545,0.0334227570479339,311.0,208.0,86.0,17.0,560
 121,Another McMansion blocking the view.,1.3858520900321545,0.035819527870577635,311.0,216.0,70.0,25.0,560
@@ -128,7 +128,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 126,Looks like a case of painter's block.,1.3851132686084142,0.03568171185578254,309.0,214.0,71.0,24.0,560
 128,He's going to be insufferable the next time it rains.,1.383606557377049,0.035692041657066284,305.0,211.0,71.0,23.0,560
 129,We can get in. I know the bouncer.,1.3833333333333333,0.034524427341238124,300.0,203.0,79.0,18.0,560
-130,Has he invited you inside to see his stupid wall etchings?,1.3812949640287773,0.038065909985341186,278.0,195.0,60.0,23.0,560
+130,Has he invited you inside to see his stupid wall etchings?,1.3812949640287773,0.03806590998534119,278.0,195.0,60.0,23.0,560
 131,Just as I predicted......gentrification.,1.3812709030100334,0.03553859934585807,299.0,206.0,72.0,21.0,560
 132,A horizontal hole in the ground! What will they think of next?,1.3804713804713804,0.03845553377804914,297.0,214.0,53.0,30.0,560
 133,"Well, I think the foyer is pretentious.",1.3796610169491526,0.03893514670043062,295.0,214.0,50.0,31.0,560
@@ -141,7 +141,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 140,"It's big, but he can't afford to heat it.",1.375,0.03498683096557653,280.0,190.0,75.0,15.0,560
 140,"It's pretentious, it blocks our view and it complete;y destroys the character of the neighborhood.",1.375,0.03746051001451897,280.0,197.0,61.0,22.0,560
 142,He's always been a lateral thinker.,1.3741007194244603,0.03866011696221835,278.0,199.0,54.0,25.0,560
-143,I heard she left after finding all the nude cave paintings...,1.3731884057971016,0.03781962498880426,276.0,195.0,59.0,22.0,560
+143,I heard she left after finding all the nude cave paintings...,1.3731884057971016,0.037819624988804264,276.0,195.0,59.0,22.0,560
 143,How bad could it be? They have a doorman.,1.3731884057971016,0.035296895137707215,276.0,188.0,73.0,15.0,560
 143,Another Neanderthal. There goes the neighborhood.,1.3731884057971016,0.03675966064716292,276.0,192.0,65.0,19.0,560
 143,He's still mad I clubbed you first.,1.3731884057971016,0.03675966064716292,276.0,192.0,65.0,19.0,560
@@ -185,7 +185,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 183,It's just a hole in the wall.,1.3553719008264462,0.040452419113676176,242.0,176.0,46.0,20.0,560
 183,So this is how the 1% live.,1.3553719008264462,0.0391601976723127,242.0,173.0,52.0,17.0,560
 183,Caves are the new holes.,1.3553719008264462,0.0391601976723127,242.0,173.0,52.0,17.0,560
-187,Did you see what he did to the walls? SO primitive.,1.3540669856459329,0.04007005363304567,209.0,146.0,52.0,11.0,560
+187,Did you see what he did to the walls? SO primitive.,1.3540669856459329,0.040070053633045666,209.0,146.0,52.0,11.0,560
 188,The writing's on the wall.,1.3531914893617023,0.040384834176681525,235.0,170.0,47.0,18.0,560
 189,"You know, one of these days your father is going to notice this tunnel.",1.351931330472103,0.03826313454547433,233.0,164.0,56.0,13.0,560
 190,I hear he once was Caption Editor for the New Yorker.,1.3506493506493509,0.04263957000837163,231.0,172.0,37.0,22.0,560
@@ -313,8 +313,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 311,"First the wheel, now this",1.3053892215568863,0.04136109955330642,167.0,122.0,39.0,6.0,560
 311,Can you imagine what the taxes and utilities would be on a place like that?,1.3053892215568863,0.04307006257302124,167.0,124.0,35.0,8.0,560
 311,"I'm sorry, but there's such a thing as too much house.",1.3053892215568863,0.04629913344345495,167.0,128.0,27.0,12.0,560
-311,"You know, he may have a point.",1.3053892215568863,0.04389960315238266,167.0,125.0,33.0,9.0,560
-311,How can he afford that place?,1.3053892215568863,0.045513348489450066,167.0,127.0,29.0,11.0,560
+311,"You know, he may have a point.",1.3053892215568863,0.043899603152382664,167.0,125.0,33.0,9.0,560
+311,How can he afford that place?,1.3053892215568863,0.04551334848945007,167.0,127.0,29.0,11.0,560
 317,I'm starting to think that maybe we bought the wrong unit.,1.304878048780488,0.03999293741002296,164.0,118.0,42.0,4.0,560
 317,How come he gets a man cave and I only get a man hole?,1.304878048780488,0.04688249817767719,164.0,126.0,26.0,12.0,560
 317,How can anyone live like that?,1.304878048780488,0.04525853772721156,164.0,124.0,30.0,10.0,560
@@ -330,7 +330,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 327,"Wow, did we ever use the wrong architect!",1.3024691358024691,0.04722943246447391,162.0,125.0,25.0,12.0,560
 327,"Yeah, but what about wind from the south? Ever think about that? And the lack of overhead light? And the lousy feng shui? And the ...",1.3024691358024691,0.044727794296295496,162.0,122.0,31.0,9.0,560
 327,Is this China?,1.3024691358024691,0.04882603570964321,162.0,127.0,21.0,14.0,560
-332,After the divorce he just caved.,1.300751879699248,0.05117102432494618,133.0,102.0,22.0,9.0,560
+332,After the divorce he just caved.,1.300751879699248,0.051171024324946184,133.0,102.0,22.0,9.0,560
 333,"Damn, there's going to be a cover charge to get in.",1.3,0.0441552435684732,160.0,120.0,32.0,8.0,560
 333,I like the flow of his foyer.,1.3,0.04590117905886198,160.0,122.0,28.0,10.0,560
 333,"""First fire, and now the sideways hole--what'll they think of next?",1.3,0.04840214143607164,160.0,125.0,22.0,13.0,560
@@ -359,7 +359,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 355,How can he afford it on one income?,1.2941176470588236,0.04436064257884794,153.0,115.0,31.0,7.0,560
 355,I told you there'd be less border control at the north entrance,1.2941176470588236,0.04531959754911555,153.0,116.0,29.0,8.0,560
 355,I'm worried too. He refuses to hunt and gather.,1.2941176470588236,0.048967981069631766,153.0,120.0,21.0,12.0,560
-355,Let him be. He's pondering his health care options.,1.2941176470588236,0.048081845409991414,153.0,119.0,23.0,11.0,560
+355,Let him be. He's pondering his health care options.,1.2941176470588236,0.04808184540999141,153.0,119.0,23.0,11.0,560
 362,"It was a nasty divorce but he got the house.""",1.2913907284768211,0.04466149748367515,151.0,114.0,30.0,7.0,560
 362,Yo is this China ?,1.2913907284768211,0.04563934243867755,151.0,115.0,28.0,8.0,560
 362,How'd he get it sideways?,1.2913907284768211,0.047534724357420836,151.0,117.0,24.0,10.0,560
@@ -429,16 +429,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 427,Man cave?,1.2805755395683454,0.046824706304139325,139.0,107.0,25.0,7.0,560
 427,"Boring stuff. Hunting scenes, mostly. Nobody pays any attention. Nobody is every going to pay attention.",1.2805755395683454,0.04569779760462853,139.0,106.0,27.0,6.0,560
 427,He called our place a hole.,1.2805755395683454,0.04454238758035183,139.0,105.0,29.0,5.0,560
-427,"First he sulks, then he tweets about it.",1.2805755395683454,0.049000836213064065,139.0,109.0,21.0,9.0,560
+427,"First he sulks, then he tweets about it.",1.2805755395683454,0.04900083621306407,139.0,109.0,21.0,9.0,560
 427,He still can't believe that she left him for a rock star!,1.2805755395683454,0.04792512425674258,139.0,108.0,23.0,8.0,560
 427,"Sure, it's nice. But the taxes must be enormous.",1.2805755395683454,0.04792512425674258,139.0,108.0,23.0,8.0,560
 427,We can take him. We have tools.,1.2805755395683454,0.050053435088261836,139.0,110.0,19.0,10.0,560
 427,"Oh, I see. You dig horizontally, not vertically.",1.2805755395683454,0.04213662851068718,139.0,103.0,33.0,3.0,560
 427,Just wait for the property tax.,1.2805755395683454,0.04792512425674258,139.0,108.0,23.0,8.0,560
 427,Relax. This was a good investment. Horizontal holes are only a fad.,1.2805755395683454,0.046824706304139325,139.0,107.0,25.0,7.0,560
-427,Hmm. Fletcher may be on to something with his horizontal hole.,1.2805755395683454,0.049000836213064065,139.0,109.0,21.0,9.0,560
-427,He said his man cave has a better ring to it than our man hole.,1.2805755395683454,0.049000836213064065,139.0,109.0,21.0,9.0,560
-427,That's the dream.,1.2805755395683454,0.049000836213064065,139.0,109.0,21.0,9.0,560
+427,Hmm. Fletcher may be on to something with his horizontal hole.,1.2805755395683454,0.04900083621306407,139.0,109.0,21.0,9.0,560
+427,He said his man cave has a better ring to it than our man hole.,1.2805755395683454,0.04900083621306407,139.0,109.0,21.0,9.0,560
+427,That's the dream.,1.2805755395683454,0.04900083621306407,139.0,109.0,21.0,9.0,560
 427,"Yeah, but he doesn't have a skylight.",1.2805755395683454,0.046824706304139325,139.0,107.0,25.0,7.0,560
 427,I'm not impressed; it's just a hole in the wall.,1.2805755395683454,0.050053435088261836,139.0,110.0,19.0,10.0,560
 427,"I've had it, Sheila...tonight your brother gets the guest room.",1.2805755395683454,0.046824706304139325,139.0,107.0,25.0,7.0,560
@@ -446,28 +446,28 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 444,Damn! Another toll.,1.2773722627737227,0.048296359303278746,137.0,107.0,22.0,8.0,560
 444,It has recessed torches too.,1.2773722627737227,0.04483872992273616,137.0,104.0,28.0,5.0,560
 444,"Hal, call me shallow, but I'm leaving you.",1.2773722627737227,0.048296359303278746,137.0,107.0,22.0,8.0,560
-448,Look at Mr. Fancy.,1.274074074074074,0.043897500630392564,135.0,102.0,29.0,4.0,560
-448,"It's crazy, two years ago I could have had that cave for a wooly mammoth leg and saber tooth tiger tail. Now? You can't touch that for less than eight giant sloths and a cave bear.",1.274074074074074,0.04979741116928703,135.0,107.0,19.0,9.0,560
-448,He is waiting for some guy named Godot.,1.274074074074074,0.05197017219704125,135.0,109.0,15.0,11.0,560
-448,I feel like a Neanderthal at these gallery events.,1.274074074074074,0.050895387597272274,135.0,108.0,17.0,10.0,560
-448,"He's part of the top one percent.""",1.274074074074074,0.050895387597272274,135.0,108.0,17.0,10.0,560
-448,"But..., how does he keep the rain in?",1.274074074074074,0.048674673492993134,135.0,106.0,21.0,8.0,560
-448,Just think of ours as a fixer-upper.,1.274074074074074,0.04513921666476789,135.0,103.0,27.0,5.0,560
-448,"He has his strengths, but hide and seek isn't one of them.",1.274074074074074,0.04513921666476789,135.0,103.0,27.0,5.0,560
-448,He's been like that ever since GEICO let him go.,1.274074074074074,0.043897500630392564,135.0,102.0,29.0,4.0,560
-448,"If we save our rocks, honey, we could afford a cave like that.",1.274074074074074,0.04752541972603657,135.0,105.0,23.0,7.0,560
-448,Sideways--not down--whoda thunk it?,1.274074074074074,0.04979741116928703,135.0,107.0,19.0,9.0,560
-448,I don't think your father likes me.,1.274074074074074,0.04752541972603657,135.0,105.0,23.0,7.0,560
-448,This neighborhood is gentrifying too fast.,1.274074074074074,0.04752541972603657,135.0,105.0,23.0,7.0,560
-448,Ostentatious and impractical - plus he barely gets any natural light in there.,1.274074074074074,0.04752541972603657,135.0,105.0,23.0,7.0,560
-448,Oh great ! Now our property taxes will go up.,1.274074074074074,0.043897500630392564,135.0,102.0,29.0,4.0,560
-448,So that's where Letterman is living these days!,1.274074074074074,0.048674673492993134,135.0,106.0,21.0,8.0,560
-448,I'd hate to live in a hole in the wall like that.,1.274074074074074,0.043897500630392564,135.0,102.0,29.0,4.0,560
+448,Look at Mr. Fancy.,1.2740740740740741,0.043897500630392564,135.0,102.0,29.0,4.0,560
+448,"It's crazy, two years ago I could have had that cave for a wooly mammoth leg and saber tooth tiger tail. Now? You can't touch that for less than eight giant sloths and a cave bear.",1.2740740740740741,0.04979741116928703,135.0,107.0,19.0,9.0,560
+448,He is waiting for some guy named Godot.,1.2740740740740741,0.05197017219704125,135.0,109.0,15.0,11.0,560
+448,I feel like a Neanderthal at these gallery events.,1.2740740740740741,0.050895387597272274,135.0,108.0,17.0,10.0,560
+448,"He's part of the top one percent.""",1.2740740740740741,0.050895387597272274,135.0,108.0,17.0,10.0,560
+448,"But..., how does he keep the rain in?",1.2740740740740741,0.048674673492993134,135.0,106.0,21.0,8.0,560
+448,Just think of ours as a fixer-upper.,1.2740740740740741,0.04513921666476789,135.0,103.0,27.0,5.0,560
+448,"He has his strengths, but hide and seek isn't one of them.",1.2740740740740741,0.04513921666476789,135.0,103.0,27.0,5.0,560
+448,He's been like that ever since GEICO let him go.,1.2740740740740741,0.043897500630392564,135.0,102.0,29.0,4.0,560
+448,"If we save our rocks, honey, we could afford a cave like that.",1.2740740740740741,0.04752541972603657,135.0,105.0,23.0,7.0,560
+448,Sideways--not down--whoda thunk it?,1.2740740740740741,0.04979741116928703,135.0,107.0,19.0,9.0,560
+448,I don't think your father likes me.,1.2740740740740741,0.04752541972603657,135.0,105.0,23.0,7.0,560
+448,This neighborhood is gentrifying too fast.,1.2740740740740741,0.04752541972603657,135.0,105.0,23.0,7.0,560
+448,Ostentatious and impractical - plus he barely gets any natural light in there.,1.2740740740740741,0.04752541972603657,135.0,105.0,23.0,7.0,560
+448,Oh great ! Now our property taxes will go up.,1.2740740740740741,0.043897500630392564,135.0,102.0,29.0,4.0,560
+448,So that's where Letterman is living these days!,1.2740740740740741,0.048674673492993134,135.0,106.0,21.0,8.0,560
+448,I'd hate to live in a hole in the wall like that.,1.2740740740740741,0.043897500630392564,135.0,102.0,29.0,4.0,560
 465,Is Gerald watching the cave drawings again?,1.2727272727272727,0.04939011464665993,132.0,104.0,20.0,8.0,560
 465,How do you know we're not the Neanderthals?,1.2727272727272727,0.048205010152537885,132.0,103.0,22.0,7.0,560
 465,While his design is derivative; he has managed to improve functionality without sacrificing the classic aesthetic of a hole.,1.2727272727272727,0.05054744153579036,132.0,105.0,18.0,9.0,560
 465,This is the last time we pay for orchestra seats.,1.2727272727272727,0.048205010152537885,132.0,103.0,22.0,7.0,560
-465,"Compared to that, I feel like we are living in a hole.",1.2727272727272727,0.044460563883001784,132.0,100.0,28.0,4.0,560
+465,"Compared to that, I feel like we are living in a hole.",1.2727272727272727,0.04446056388300178,132.0,100.0,28.0,4.0,560
 465,I think they call it a man cave.,1.2727272727272727,0.048205010152537885,132.0,103.0,22.0,7.0,560
 465,I can't believe he got the house.,1.2727272727272727,0.04939011464665993,132.0,104.0,20.0,8.0,560
 465,What a Neanderthal.,1.2727272727272727,0.05054744153579036,132.0,105.0,18.0,9.0,560
@@ -514,13 +514,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 511,Some day we'll be able to afford a place like that.,1.265625,0.0436470597159808,128.0,97.0,28.0,3.0,560
 511,"Come back into the hot tub, Bob. I promise, no more bubbles!",1.265625,0.04768815691594056,128.0,100.0,22.0,6.0,560
 511,He just saw his mom without her fig leaf.,1.265625,0.051412593770674,128.0,103.0,16.0,9.0,560
-516,Another one of those obnoxious McMansions.,1.264,0.048385548362321784,125.0,98.0,21.0,6.0,560
-516,I still say drop-in is better than walk-in.,1.264,0.048385548362321784,125.0,98.0,21.0,6.0,560
+516,Another one of those obnoxious McMansions.,1.264,0.04838554836232178,125.0,98.0,21.0,6.0,560
+516,I still say drop-in is better than walk-in.,1.264,0.04838554836232178,125.0,98.0,21.0,6.0,560
 516,Sure it's got some advantages but its way too ostentatious for my taste.,1.264,0.04703327579765272,125.0,97.0,23.0,5.0,560
 516,You're the one who wanted a tiny house,1.264,0.049701041723359256,125.0,99.0,19.0,7.0,560
 516,"Oh dear, do we have the wrong night?",1.264,0.04703327579765272,125.0,97.0,23.0,5.0,560
 516,At least he's got a roof over his head.,1.264,0.049701041723359256,125.0,99.0,19.0,7.0,560
-516,One day the cavemen and the holemen will be friends. One day.,1.264,0.048385548362321784,125.0,98.0,21.0,6.0,560
+516,One day the cavemen and the holemen will be friends. One day.,1.264,0.04838554836232178,125.0,98.0,21.0,6.0,560
 523,Did they have to put a holeless shelter in our neighborhood?,1.2622950819672132,0.05047300811289448,122.0,97.0,18.0,7.0,560
 524,can' t wait to get out of this basement apartment.,1.2601626016260163,0.04594353918685367,123.0,95.0,24.0,4.0,560
 524,What is he doing home? I thought you said he was out hunting and gathering.,1.2601626016260163,0.04737181455611303,123.0,96.0,22.0,5.0,560
@@ -694,7 +694,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 693,I'm sick of him treating us like gophers.,1.2407407407407407,0.054034798939476256,108.0,89.0,12.0,7.0,560
 693,I'm thinking that the sideways approach is better.,1.2407407407407407,0.04719616965725907,108.0,85.0,20.0,3.0,560
 693,Maybe we should have called first.,1.2407407407407407,0.0453255795747674,108.0,84.0,22.0,2.0,560
-693,He said we didn't know a cave from a hole in the ground.,1.2407407407407407,0.04899539464934426,108.0,86.0,18.0,4.0,560
+693,He said we didn't know a cave from a hole in the ground.,1.2407407407407407,0.048995394649344264,108.0,86.0,18.0,4.0,560
 693,Some day we'll be able to move out of this hole-in-the-ground into a more cavernous place.,1.2407407407407407,0.05073084824220075,108.0,87.0,16.0,5.0,560
 693,"Honey, I guarantee you he used a realtor.",1.2407407407407407,0.052408865947484624,108.0,88.0,14.0,6.0,560
 693,Above ground living - it's the latest in new home design.,1.2407407407407407,0.04719616965725907,108.0,85.0,20.0,3.0,560
@@ -707,64 +707,64 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 693,That my dear is a penthouse.,1.2407407407407407,0.054034798939476256,108.0,89.0,12.0,7.0,560
 693,"I'd like to leave the hole, too, but we've got rent control.",1.2407407407407407,0.0453255795747674,108.0,84.0,22.0,2.0,560
 693,I knew we should have bought when the housing market was good.,1.2407407407407407,0.04719616965725907,108.0,85.0,20.0,3.0,560
-693,Looks like we need to find ourselves a new realtor!,1.2407407407407407,0.04899539464934426,108.0,86.0,18.0,4.0,560
+693,Looks like we need to find ourselves a new realtor!,1.2407407407407407,0.048995394649344264,108.0,86.0,18.0,4.0,560
 693,I told you he would be a terrible HUD secretary.,1.2407407407407407,0.052408865947484624,108.0,88.0,14.0,6.0,560
 693,I don't think this is China,1.2407407407407407,0.052408865947484624,108.0,88.0,14.0,6.0,560
-693,I have no idea how a guy like that can afford a cave.,1.2407407407407407,0.04899539464934426,108.0,86.0,18.0,4.0,560
+693,I have no idea how a guy like that can afford a cave.,1.2407407407407407,0.048995394649344264,108.0,86.0,18.0,4.0,560
 693,"He's smug now, but it will never catch on!",1.2407407407407407,0.04719616965725907,108.0,85.0,20.0,3.0,560
 693,"Honey, can I get a man cave too?",1.2407407407407407,0.05073084824220075,108.0,87.0,16.0,5.0,560
 693,I have no idea how he can afford that place.,1.2407407407407407,0.052408865947484624,108.0,88.0,14.0,6.0,560
-693,We need to find him a woman. Not a single painting in his cave.,1.2407407407407407,0.04899539464934426,108.0,86.0,18.0,4.0,560
-693,"Ugh, the one percent.",1.2407407407407407,0.04899539464934426,108.0,86.0,18.0,4.0,560
+693,We need to find him a woman. Not a single painting in his cave.,1.2407407407407407,0.048995394649344264,108.0,86.0,18.0,4.0,560
+693,"Ugh, the one percent.",1.2407407407407407,0.048995394649344264,108.0,86.0,18.0,4.0,560
 693,"I don't get it. If he's a cave man, what does that make us?",1.2407407407407407,0.05073084824220075,108.0,87.0,16.0,5.0,560
-693,His friends have started calling him a caveman.,1.2407407407407407,0.04899539464934426,108.0,86.0,18.0,4.0,560
-693,They broke the news to him that fire had already been discovered.,1.2407407407407407,0.04899539464934426,108.0,86.0,18.0,4.0,560
-693,I guess he just got tired of being called Hole Man.,1.2407407407407407,0.04899539464934426,108.0,86.0,18.0,4.0,560
+693,His friends have started calling him a caveman.,1.2407407407407407,0.048995394649344264,108.0,86.0,18.0,4.0,560
+693,They broke the news to him that fire had already been discovered.,1.2407407407407407,0.048995394649344264,108.0,86.0,18.0,4.0,560
+693,I guess he just got tired of being called Hole Man.,1.2407407407407407,0.048995394649344264,108.0,86.0,18.0,4.0,560
 693,"Well Og, I guess no one likes to feel like the third...hey that gives me an idea!",1.2407407407407407,0.054034798939476256,108.0,89.0,12.0,7.0,560
 693,Maybe we shouldn't have said three is a crowd.,1.2407407407407407,0.05073084824220075,108.0,87.0,16.0,5.0,560
 724,If he only knew there was light at the end of the tunnel.,1.2386363636363635,0.05359178052527192,88.0,70.0,15.0,3.0,560
-725,I don't care for his holeier than thou attitude.,1.238095238095238,0.055012169023084825,105.0,87.0,11.0,7.0,560
-725,He needs to understand that you're a modern woman.,1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,560
-725,I heard the association fees are ridiculous.,1.238095238095238,0.047892984956293135,105.0,83.0,19.0,3.0,560
-725,He's gone Paleo.,1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,560
-725,She went gathering with his best friend.,1.238095238095238,0.05157555985468396,105.0,85.0,15.0,5.0,560
-725,He can't decide between the stone or granite.,1.238095238095238,0.05665235144082404,105.0,88.0,9.0,8.0,560
-725,Watching him would be more fun if he did something.,1.238095238095238,0.047892984956293135,105.0,83.0,19.0,3.0,560
-725,"How were we supposed to know, we've been living under a rock!",1.238095238095238,0.047892984956293135,105.0,83.0,19.0,3.0,560
-725,"Personally, I'd say the man cave is just a fad. Soon manholes will be everywhere.",1.238095238095238,0.0533215580930853,105.0,86.0,13.0,6.0,560
-725,"Clearly, it hasn't got that balcony you wanted. I say we keep looking.",1.238095238095238,0.0533215580930853,105.0,86.0,13.0,6.0,560
-725,"But Honey, we just can't afford that big a house.",1.238095238095238,0.0533215580930853,105.0,86.0,13.0,6.0,560
-725,This new generation is way too pampered.,1.238095238095238,0.05157555985468396,105.0,85.0,15.0,5.0,560
-725,This isn't the right neighborhood for an art gallery.,1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,560
-725,I hate these stakeouts!He may never come out of there.,1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,560
-725,"I always enjoy watching ""The Bachelor""",1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,560
-725,He's in a time-out.,1.238095238095238,0.0533215580930853,105.0,86.0,13.0,6.0,560
-725,He's binge-watching 'Bison.',1.238095238095238,0.05157555985468396,105.0,85.0,15.0,5.0,560
-725,There must be an easier way to sneak out of your parents' den!,1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,560
-725,"I don't know about you, but I'm tired of living in a rut.",1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,560
-725,He's in his man cave.,1.238095238095238,0.05157555985468396,105.0,85.0,15.0,5.0,560
-725,He calls himself a 'Cave Man'.,1.238095238095238,0.0533215580930853,105.0,86.0,13.0,6.0,560
-725,How do you suppose he dug that?,1.238095238095238,0.0533215580930853,105.0,86.0,13.0,6.0,560
-725,Just what this neighborhood needs -- another hole in the wall joint.,1.238095238095238,0.05665235144082404,105.0,88.0,9.0,8.0,560
-725,"Well, at least we have each other.",1.238095238095238,0.043902592653775635,105.0,81.0,23.0,1.0,560
-725,"Imagine, no possessions...",1.238095238095238,0.05157555985468396,105.0,85.0,15.0,5.0,560
-725,"What with the divorce and his kids off at college, you'd think he'd downsize.",1.238095238095238,0.0459411343446539,105.0,82.0,21.0,2.0,560
-725,He says volcanoes are a Chinese hoax.,1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,560
-725,So that's how the other half lives.,1.238095238095238,0.0459411343446539,105.0,82.0,21.0,2.0,560
-725,I should have majored in Finance instead of History,1.238095238095238,0.0533215580930853,105.0,86.0,13.0,6.0,560
-725,Can you blame her? What a hole in the wall.,1.238095238095238,0.05665235144082404,105.0,88.0,9.0,8.0,560
-725,This is his idea of a guest house?,1.238095238095238,0.0533215580930853,105.0,86.0,13.0,6.0,560
-725,I want one of those,1.238095238095238,0.05157555985468396,105.0,85.0,15.0,5.0,560
-725,You think he'll sublet?,1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,560
-725,This is how it begins...gentrificavetion.,1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,560
-725,This game may take a while given none of us know how to count.,1.238095238095238,0.0533215580930853,105.0,86.0,13.0,6.0,560
-725,I have to pee.,1.238095238095238,0.05824636561129647,105.0,89.0,7.0,9.0,560
-725,Buyer's remorse.,1.238095238095238,0.055012169023084825,105.0,87.0,11.0,7.0,560
-725,i wonder if he'll sublet.,1.238095238095238,0.05157555985468396,105.0,85.0,15.0,5.0,560
-725,The security system looks primitive,1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,560
-725,He's defying the cave bear just to make a point.,1.238095238095238,0.05824636561129647,105.0,89.0,7.0,9.0,560
-725,That idiot thinks he's Plato.,1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,560
-766,A high rise....do you think it will catch on?,1.2358490566037736,0.049347743443954865,106.0,85.0,17.0,4.0,560
+725,I don't care for his holeier than thou attitude.,1.2380952380952381,0.055012169023084825,105.0,87.0,11.0,7.0,560
+725,He needs to understand that you're a modern woman.,1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,560
+725,I heard the association fees are ridiculous.,1.2380952380952381,0.047892984956293135,105.0,83.0,19.0,3.0,560
+725,He's gone Paleo.,1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,560
+725,She went gathering with his best friend.,1.2380952380952381,0.05157555985468396,105.0,85.0,15.0,5.0,560
+725,He can't decide between the stone or granite.,1.2380952380952381,0.05665235144082404,105.0,88.0,9.0,8.0,560
+725,Watching him would be more fun if he did something.,1.2380952380952381,0.047892984956293135,105.0,83.0,19.0,3.0,560
+725,"How were we supposed to know, we've been living under a rock!",1.2380952380952381,0.047892984956293135,105.0,83.0,19.0,3.0,560
+725,"Personally, I'd say the man cave is just a fad. Soon manholes will be everywhere.",1.2380952380952381,0.0533215580930853,105.0,86.0,13.0,6.0,560
+725,"Clearly, it hasn't got that balcony you wanted. I say we keep looking.",1.2380952380952381,0.0533215580930853,105.0,86.0,13.0,6.0,560
+725,"But Honey, we just can't afford that big a house.",1.2380952380952381,0.0533215580930853,105.0,86.0,13.0,6.0,560
+725,This new generation is way too pampered.,1.2380952380952381,0.05157555985468396,105.0,85.0,15.0,5.0,560
+725,This isn't the right neighborhood for an art gallery.,1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,560
+725,I hate these stakeouts!He may never come out of there.,1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,560
+725,"I always enjoy watching ""The Bachelor""",1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,560
+725,He's in a time-out.,1.2380952380952381,0.0533215580930853,105.0,86.0,13.0,6.0,560
+725,He's binge-watching 'Bison.',1.2380952380952381,0.05157555985468396,105.0,85.0,15.0,5.0,560
+725,There must be an easier way to sneak out of your parents' den!,1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,560
+725,"I don't know about you, but I'm tired of living in a rut.",1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,560
+725,He's in his man cave.,1.2380952380952381,0.05157555985468396,105.0,85.0,15.0,5.0,560
+725,He calls himself a 'Cave Man'.,1.2380952380952381,0.0533215580930853,105.0,86.0,13.0,6.0,560
+725,How do you suppose he dug that?,1.2380952380952381,0.0533215580930853,105.0,86.0,13.0,6.0,560
+725,Just what this neighborhood needs -- another hole in the wall joint.,1.2380952380952381,0.05665235144082404,105.0,88.0,9.0,8.0,560
+725,"Well, at least we have each other.",1.2380952380952381,0.043902592653775635,105.0,81.0,23.0,1.0,560
+725,"Imagine, no possessions...",1.2380952380952381,0.05157555985468396,105.0,85.0,15.0,5.0,560
+725,"What with the divorce and his kids off at college, you'd think he'd downsize.",1.2380952380952381,0.0459411343446539,105.0,82.0,21.0,2.0,560
+725,He says volcanoes are a Chinese hoax.,1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,560
+725,So that's how the other half lives.,1.2380952380952381,0.0459411343446539,105.0,82.0,21.0,2.0,560
+725,I should have majored in Finance instead of History,1.2380952380952381,0.0533215580930853,105.0,86.0,13.0,6.0,560
+725,Can you blame her? What a hole in the wall.,1.2380952380952381,0.05665235144082404,105.0,88.0,9.0,8.0,560
+725,This is his idea of a guest house?,1.2380952380952381,0.0533215580930853,105.0,86.0,13.0,6.0,560
+725,I want one of those,1.2380952380952381,0.05157555985468396,105.0,85.0,15.0,5.0,560
+725,You think he'll sublet?,1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,560
+725,This is how it begins...gentrificavetion.,1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,560
+725,This game may take a while given none of us know how to count.,1.2380952380952381,0.0533215580930853,105.0,86.0,13.0,6.0,560
+725,I have to pee.,1.2380952380952381,0.05824636561129647,105.0,89.0,7.0,9.0,560
+725,Buyer's remorse.,1.2380952380952381,0.055012169023084825,105.0,87.0,11.0,7.0,560
+725,i wonder if he'll sublet.,1.2380952380952381,0.05157555985468396,105.0,85.0,15.0,5.0,560
+725,The security system looks primitive,1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,560
+725,He's defying the cave bear just to make a point.,1.2380952380952381,0.05824636561129647,105.0,89.0,7.0,9.0,560
+725,That idiot thinks he's Plato.,1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,560
+766,A high rise....do you think it will catch on?,1.2358490566037736,0.04934774344395487,106.0,85.0,17.0,4.0,560
 766,"Sure, hon, he's in the one percent, but we have each other.",1.2358490566037736,0.0474921600234526,106.0,84.0,19.0,3.0,560
 768,You'd think he'd be a little happier. He definitely had the better lawyer.,1.2340425531914894,0.05331717021201928,94.0,76.0,14.0,4.0,560
 768,He drew on the walls again.,1.2340425531914894,0.0511267057418358,94.0,75.0,16.0,3.0,560
@@ -1010,7 +1010,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 982,Cave dwelling will never catch on.,1.2111111111111108,0.051189214601288266,90.0,74.0,13.0,3.0,560
 982,He says he is not going to come out until the next election.,1.2111111111111108,0.053572601034802034,90.0,75.0,11.0,4.0,560
 982,How much for that hole in the wall?,1.2111111111111108,0.053572601034802034,90.0,75.0,11.0,4.0,560
-982,"Living in a cave, what will they think of next?",1.2111111111111108,0.04605388052294927,90.0,72.0,17.0,1.0,560
+982,"Living in a cave, what will they think of next?",1.2111111111111108,0.046053880522949266,90.0,72.0,17.0,1.0,560
 982,I feel like he might be onto something?,1.2111111111111108,0.053572601034802034,90.0,75.0,11.0,4.0,560
 982,He's watching reruns of the Flintstones.,1.2111111111111108,0.05585437737341094,90.0,76.0,9.0,5.0,560
 982,He just found out that he's been living under a rock.,1.2111111111111108,0.051189214601288266,90.0,74.0,13.0,3.0,560
@@ -1029,7 +1029,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 982,"Yeah, he has more space with the horizontal design but it doesn't seem to have made him any happier.",1.2111111111111108,0.04868929863285582,90.0,73.0,15.0,2.0,560
 982,Think he'll sell? This housing market is crazy.,1.2111111111111108,0.04325820177821493,90.0,71.0,19.0,0.0,560
 982,Check out the convex arch.,1.2111111111111108,0.053572601034802034,90.0,75.0,11.0,4.0,560
-982,"It's nice, but he'll have to give it up once he's married.",1.2111111111111108,0.04605388052294927,90.0,72.0,17.0,1.0,560
+982,"It's nice, but he'll have to give it up once he's married.",1.2111111111111108,0.046053880522949266,90.0,72.0,17.0,1.0,560
 982,That is Blargg's new invention--the man cave.,1.2111111111111108,0.051189214601288266,90.0,74.0,13.0,3.0,560
 982,"As you can see, it is a one bedroom, with a doorman wall paintings, and a great view.",1.2111111111111108,0.051189214601288266,90.0,74.0,13.0,3.0,560
 982,Glerg is about to learn why we are called the clan of the cave bear.,1.2111111111111108,0.051189214601288266,90.0,74.0,13.0,3.0,560
@@ -1055,10 +1055,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 982,"So sad, Vlad left and still no Godot.",1.2111111111111108,0.051189214601288266,90.0,74.0,13.0,3.0,560
 982,Maybe he's on to something.,1.2111111111111108,0.051189214601288266,90.0,74.0,13.0,3.0,560
 982,I'm so sorry I married you. Our house is a hole compared to your brother's.,1.2111111111111108,0.04868929863285582,90.0,73.0,15.0,2.0,560
-982,I just don't think living with a roof over your head is going to catch on.,1.2111111111111108,0.04605388052294927,90.0,72.0,17.0,1.0,560
+982,I just don't think living with a roof over your head is going to catch on.,1.2111111111111108,0.046053880522949266,90.0,72.0,17.0,1.0,560
 982,He's got a mammoth case of writer's block.,1.2111111111111108,0.05585437737341094,90.0,76.0,9.0,5.0,560
 982,So that's what penthouse living is like.,1.2111111111111108,0.053572601034802034,90.0,75.0,11.0,4.0,560
-982,That's the trouble with modern architecture - No privacy.,1.2111111111111108,0.04605388052294927,90.0,72.0,17.0,1.0,560
+982,That's the trouble with modern architecture - No privacy.,1.2111111111111108,0.046053880522949266,90.0,72.0,17.0,1.0,560
 982,Make up your mind; hole in the wall or hole in the ground.,1.2111111111111108,0.053572601034802034,90.0,75.0,11.0,4.0,560
 1062,We definitely need to move up in the world.,1.206896551724138,0.049423111543959376,87.0,71.0,14.0,2.0,560
 1062,one percent.,1.206896551724138,0.052057200856832346,87.0,72.0,12.0,3.0,560
@@ -1845,10 +1845,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1732,Is this your definition of a better life.,1.1538461538461535,0.0547317287336835,65.0,57.0,6.0,2.0,560
 1845,They don't know a tunnel from a hole in the ground.,1.152542372881356,0.04721067919755555,59.0,50.0,9.0,0.0,560
 1845,I don't know what his problem is; all I told him was that his house was a hole in the wall.,1.152542372881356,0.04721067919755555,59.0,50.0,9.0,0.0,560
-1847,Isn't this where we started?,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,"He might have a big house and everything honey, but is he really happy?",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,"We told him. Couples that burrow together, stay together. But he didn't listen...",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,"Zog, please stop drawing on the walls and come to dinner!",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,Isn't this where we started?,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,"He might have a big house and everything honey, but is he really happy?",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,"We told him. Couples that burrow together, stay together. But he didn't listen...",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,"Zog, please stop drawing on the walls and come to dinner!",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,"I've never been a Cave Man.""",1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,"it said ""super host"" on airbnb",1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,"Another twenty feet of digging, and we could have claimed squatter's rights!",1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
@@ -1856,22 +1856,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1847,It's his own fault really. She told him if he called it his man cave one more time she was out of that hole in the wall.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,I'm just saying--if you're really serious about painting it gets a lot more light.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,"If I was a betting man, I'd say he knows about us.",1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
-1847,"Come on, are you a caveboy or a caveman?",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,"Come on, are you a caveboy or a caveman?",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,Troglodyte!,1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
-1847,"Separate bathrooms, too?",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,"He looks lonely in that spacious, dry, and comfortable cave all by himself.",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,"Separate bathrooms, too?",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,"He looks lonely in that spacious, dry, and comfortable cave all by himself.",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,Damn gentrification! Thank god for rent control.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,He couldn't possibly understand what it means to be homeless.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,I told you he had moved up in the world.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,He couldn't possibly understand what it means to be homeless.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,I told you he had moved up in the world.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,He has been sitting there since Trump took the office.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,We tunneled under the wall for this?,1.1451612903225807,0.0601723867369453,62.0,56.0,3.0,3.0,560
 1847,Doesn't look exactly like the Tunnel of Love to me.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,I don't see that big of a difference between us and the 10% now.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,"Trust me. Once he's in his man cave, he won't even notice you're missing.",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,I don't see that big of a difference between us and the 10% now.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,"Trust me. Once he's in his man cave, he won't even notice you're missing.",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,When did the Rockinghams get a doorman?,1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
 1847,I guess it would be drier.,1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
-1847,It was hard work digging this escape tunnel. Now all we have to do is wait for the prison guard to fall asleep!,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,It's 2007BC Grog. A year from now we'll be buying his cave for pebbles on the rocks!,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,It was hard work digging this escape tunnel. Now all we have to do is wait for the prison guard to fall asleep!,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,It's 2007BC Grog. A year from now we'll be buying his cave for pebbles on the rocks!,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,I think he's jealous of our new digs.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,"""Your dad looks mad, what time was I suppose to get you home""?",1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,I bet you he's thinking about a way to comfortably stand up in that cave.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
@@ -1879,50 +1879,50 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1847,"So, that's where Bob Mankoff got to ...",1.1451612903225807,0.0601723867369453,62.0,56.0,3.0,3.0,560
 1847,He's got the Yabba Dabba Blues.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,I knew she'd left him the moment he chiselled his status as 'It's complicated.',1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,We'll always be kept down by the 1%.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,We'll always be kept down by the 1%.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,His boss discovered firing.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,Peek-a-boo! We see you!,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,Got trumped?,1.1451612903225807,0.0601723867369453,62.0,56.0,3.0,3.0,560
 1847,"""Ooh. I make stone tools. I'm a technologist."" It's guys like him that are making this neighborhood unaffordable.",1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
 1847,"Excuse me, Mr. 'I've evolved beyond you.'",1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,"We may be down and out, but at least we have each other",1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
-1847,"Ticky Tacky, if you ask me.",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,"Ticky Tacky, if you ask me.",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,"Oh great, just what we need. More gentrification!",1.1451612903225807,0.0601723867369453,62.0,56.0,3.0,3.0,560
 1847,"Sure he lives in a big house, but he has nobody to share it with.",1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,"I'm calling it his ""climate change denial"" cave.",1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,He said he'd come back when everything isn't rigged.,1.1451612903225807,0.0601723867369453,62.0,56.0,3.0,3.0,560
-1847,You just wait. He'll be back down next eruption.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,Don't worry. He'll grow out of it.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,You just wait. He'll be back down next eruption.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,Don't worry. He'll grow out of it.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,"Just once, I'd like to come to one without a ""Spare change?"" guy!",1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,"On top of that, he has great health insurance.",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,He says they're easier to flip.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,Show-off.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,We missed your curfew. Your dad's gonna clobber us.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,"On top of that, he has great health insurance.",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,He says they're easier to flip.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,Show-off.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,We missed your curfew. Your dad's gonna clobber us.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,I don't know. This horizontal thing might just work!,1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
 1847,"You knew I wanted a man cave. Instead, we ended up in this S*#t Hole.",1.1451612903225807,0.0601723867369453,62.0,56.0,3.0,3.0,560
-1847,I don't think the new style home will ever become popular.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,He wanted the painting a little up and to the left.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,I don't think the new style home will ever become popular.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,He wanted the painting a little up and to the left.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,He swears he still doesn't regret voting for Trump.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,I don't think he's realized that we've escaped yet.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,"We could manage the deposit, but the payments would leave us ""cave poor"".",1.1451612903225807,0.0601723867369453,62.0,56.0,3.0,3.0,560
-1847,I still can't believe he has a TV,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,I still can't believe he has a TV,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,I told you he wouldn't be into it.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,"Being 18 and moving out of the cave isn't as good as you thought, huh?",1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
-1847,Just so derivative.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,"Remember, honey: it's best to have the worst house on the best block.",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,Just so derivative.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,"Remember, honey: it's best to have the worst house on the best block.",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,He calls it 'yoga.' I say it's lack of initiative.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,"Yep, looks like he's still mad because he thinks I stole his wheel invention.",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,He said it comes with free wifi.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,"Yep, looks like he's still mad because he thinks I stole his wheel invention.",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,He said it comes with free wifi.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,"It STARTS with the cave artists, but next year we'll paying through the nose for a converted lion's den.",1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
 1847,I think we should go back.,1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
-1847,He's not coming out until we give back his Twitter access.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,Today is not the day to tell him.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,He's not coming out until we give back his Twitter access.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,Today is not the day to tell him.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,I knew we should have kept digging another couple of days.,1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
 1847,"We have to stop meeting like this, your husband is getting suspicious.",1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
 1847,He's holeless.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,He's waiting for his Amazon bride,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,He's waiting for his Amazon bride,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,GOOD IDEA HONEY . FROM NOW ON WE CALL HIM CAVE MAN .,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,Maybe our fire pit is too deep.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,Maybe our fire pit is too deep.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,People are so ostentatious these days.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,He always said he would retire by forty.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,He always gets all caveman when he's in a state.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
@@ -1934,64 +1934,64 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1847,Lucky Og! New subway right by cave.,1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
 1847,I don't care what he says. We have the cave...he has the hole!,1.1451612903225807,0.06441689883402582,62.0,57.0,1.0,4.0,560
 1847,"Ralph, you and your stupid idea to dig to China! That looks like Uncle Bob in Boulder.",1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,I think we're just digging ourselves deeper.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,I think we're just digging ourselves deeper.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,He'll cave eventually.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,And the above ground caves come with lobby attendants.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,So much for your tunnel distance calculator app.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,And the above ground caves come with lobby attendants.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,So much for your tunnel distance calculator app.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,Another four year hermit.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,"My Dad said, if we watch our sticks and stones, we might be able to move out of this hole one day, and find a nice ditch.",1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,I'm starting to think his way might have some merit.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,Should we go back for him?,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,Should we go back for him?,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,"He used to be a caveman in a hole, but now he's an a-hole in a cave.",1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
 1847,"Shelter, that's what I forgot. Our shopping list is food, clothing, and shelter.",1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
-1847,I really don't like this evolution business.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,I think he needs a light.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,"Yeah, it was available when I moved in here, but it was just too bourgeoisie at the time.",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,I really don't like this evolution business.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,I think he needs a light.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,"Yeah, it was available when I moved in here, but it was just too bourgeoisie at the time.",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,Maybe we should rethink this loophole idea.,1.1451612903225807,0.0601723867369453,62.0,56.0,3.0,3.0,560
 1847,He says mammoths are fake news.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,"The judge awarded Larry the cave, but I got to keep the vacation hole.",1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,Squatter's rights.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,Squatter's rights.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,I told him we were thinking of re-inventing the wheel.,1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
-1847,"Cave man."" ""Man cave.",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,"Cave man."" ""Man cave.",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,Zok's house is clearly better in the rain.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,You go shake your moneymaker while I sneak past and pee on everything.,1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
 1847,Should we tell Bob his time out is over?,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,He bought the Penthouse when we went co-op.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,He bought the Penthouse when we went co-op.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,Hurry. It's orange on top and fat around the middle.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,Wait for it - wait for it.....he's about to do absolutely nothing.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,"Perspective, it's all about perspective",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,"Perspective, it's all about perspective",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,"Generations from now, they will look back on this day as the initial step, that led our species, to alternate world views.",1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,"Is this the ""light"" I heard so much about?",1.1451612903225807,0.0601723867369453,62.0,56.0,3.0,3.0,560
 1847,Him draw dirty pictures on walls.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,Early peeping Toms,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,I say let him pout for a bit. As soon as he notices the size of the claw prints going into the cave I bet he'll think this hole is perfectly big enough for three!!,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,These time-outs don't seem to be working. How old is he now?,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,Is there another entrance to your parents' cave?,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,I say let him pout for a bit. As soon as he notices the size of the claw prints going into the cave I bet he'll think this hole is perfectly big enough for three!!,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,These time-outs don't seem to be working. How old is he now?,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,Is there another entrance to your parents' cave?,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,"Well....Yes, I think there's room enough for us.",1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
 1847,That's Jim. He lives in one of the outer boroughs.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,"Oh, he's home. But he simply isn't answering our call.",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,I like renting this hole. Plus cave maintenance is a pain in the ass.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,"It's a zero-sum game. Diggers out, borers in.",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,"Oh, he's home. But he simply isn't answering our call.",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,I like renting this hole. Plus cave maintenance is a pain in the ass.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,"It's a zero-sum game. Diggers out, borers in.",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,Why can't I have my own man cave?,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,Holes aren't fun anymore,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,"He branded it his ""man cave.""",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,...beats living in a hole in the ground!,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,Something about Neanderthals Going Their Own Way.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,"He branded it his ""man cave.""",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,...beats living in a hole in the ground!,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,Something about Neanderthals Going Their Own Way.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,Living in a rock is so yesterday.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,This gentrification is out of control,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,This gentrification is out of control,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,He has a better idea.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,It's just a passing fad.,1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
-1847,"Sure it looks bigger, the ceiling blocks all the light and water that falls from the sky. How is that an improvement?",1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,"Sure it looks bigger, the ceiling blocks all the light and water that falls from the sky. How is that an improvement?",1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,I suspect that he may be evolving prematurely.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,This Day in Real Estate History: The first househunters spot their quarry.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,This Day in Real Estate History: The first househunters spot their quarry.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,That must be where we transfer to the J,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,You wouldn't be in a time-out if you stopped acting like a neanderthal!,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,And when I get to China? Then what?,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,He goes there every fall Sunday and stares at rocks.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,And when I get to China? Then what?,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,He goes there every fall Sunday and stares at rocks.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,"Sure, it looks good now, but just wait till after the election.",1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
 1847,It's where he goes to brood and be alone. He's calling it his man cave.,1.1451612903225807,0.055604814502414286,62.0,55.0,5.0,2.0,560
-1847,He was dragging her by the hair--and her wig came off.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
-1847,Notice the symmetrical lines around the entrance.,1.1451612903225807,0.05062681765700167,62.0,54.0,7.0,1.0,560
+1847,He was dragging her by the hair--and her wig came off.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
+1847,Notice the symmetrical lines around the entrance.,1.1451612903225807,0.050626817657001666,62.0,54.0,7.0,1.0,560
 1847,He thinks Climate Change is a hoax.,1.1451612903225807,0.0601723867369453,62.0,56.0,3.0,3.0,560
 1847,I told him Second Ave.,1.1451612903225807,0.06441689883402582,62.0,57.0,1.0,4.0,560
 1847,"""You're against open relationships! But you two look so evolved.",1.1451612903225807,0.04510270431252087,62.0,53.0,9.0,0.0,560
@@ -2669,199 +2669,199 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2664,Can Donald come out and play?,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
 2664,No one believe he can see Russian ice shelf from his house.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,He has all the comforts of home.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,I'm about to upgrade from an iHole to an iCave too.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,I'm about to upgrade from an iHole to an iCave too.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,He doesn't believe there's a China.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,Nippy out.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,Nippy out.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,We should tell him he has to take the subway from here.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,I think we misheard which hole is to 'sit' in.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,"This hole is not a good place to live. Let's go live with my brother in the cave."" ""But will..."" ""Yes, we both will.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,I think we misheard which hole is to 'sit' in.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,"This hole is not a good place to live. Let's go live with my brother in the cave."" ""But will..."" ""Yes, we both will.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,He probably believes that cause he's living in an echo chamber,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,He'll never find us in here..,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,I don't care of the housing market is eroding. I'm not willing to wait another 10 million years.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,Murg feelings hurt-not want sit in hot tub,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,Murg feelings hurt-not want sit in hot tub,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,We really should have used a better architect.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,Damn! We're still in Syria!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,"Well, I'm firm about a square entry.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,He always was a nonconformist.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,You do understand we're not really equals.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,Ogg thinks we caved in.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,He says every guy should have a man cave.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,Grog thinks he is so cool in his penthouse.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"Well, I'm firm about a square entry.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,He always was a nonconformist.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,You do understand we're not really equals.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,Ogg thinks we caved in.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,He says every guy should have a man cave.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,Grog thinks he is so cool in his penthouse.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,"Sometimes,I wish we could move on to the next eon.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,I knew we should've taken a left turn at Albuquerque.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,It's called mindfulness.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,Obviously he intends to mind the gap.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,Obviously he intends to mind the gap.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,I disagree. When they invent jails this will be VERY useful.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,I told him be'd be waiting a LONG time for Mexico to pay for tthat.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,We all need our space .,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"Ook have good year, upgrade to sideways hole.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,I heard he got sent to his man cave after throwing another one of his 'mantrums' again.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,We should have bought the penthouse when we had the chance.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,Did you tell him about Cavedwellersonly.com?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,We should have bought the penthouse when we had the chance.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,Did you tell him about Cavedwellersonly.com?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,"Gee, that place didn't look nearly so nice on Zillow.",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
-2664,He thinks we have a holier than thou attitude.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,"Eh, Gronk meditates?",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,He thinks we have a holier than thou attitude.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,"Eh, Gronk meditates?",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,First gentrification. Next it'll be Holocenials moving in and fire.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,Told ya he'd cave,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,How many frequent hunters' miles do you suppose the upgrade cost him?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,How many frequent hunters' miles do you suppose the upgrade cost him?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,Someday there'll be crude stone weapons to confront him with.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"He's not grasping the concept of ""Hide and Seek,"" is he?",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"So, no Chinese tonight?",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
 2664,Never filed his tax return in 1951.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
-2664,The climate is perfect for his wine collection.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,Obviously a Man Cave!,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,Mindfulness is a load of crap.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,The climate is perfect for his wine collection.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,Obviously a Man Cave!,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,Mindfulness is a load of crap.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,One man shouldn't have such a large nice cave. Perhaps we could eminent domain him.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
-2664,if you want to get past your father we'll have to dig another 25 feet.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,I thought up this tunnel thing in my dorm room.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,if you want to get past your father we'll have to dig another 25 feet.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,I thought up this tunnel thing in my dorm room.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,At least he has a cave?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,His conditions for coming out are impeachment or resignation,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,His conditions for coming out are impeachment or resignation,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,He has big dreams that his buildings will be the biggest and best of any built anywhere in the world and he'll be the most loved and best President ever.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,He's obviously not a holey man.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,He's obviously not a holey man.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,"So smug, ensconced in his ivory tower.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,Hey hotshot...we're not selling. We're never selling!,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,Hey hotshot...we're not selling. We're never selling!,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,Marco.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,"The FISA Court denied our warrant for a wiretap, so this will have to do.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"The FISA Court denied our warrant for a wiretap, so this will have to do.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,Hobbits. . . .,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,"So, ""Trickle-down economics benefits the less-fortunate."" My clavicle!",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"So, ""Trickle-down economics benefits the less-fortunate."" My clavicle!",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,"Og's design looks great, but you insisted on a sunken Library/ Den.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,Narcissist.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,Narcissist.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,"They call him a ""cave man.""",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,I find those above-ground caves so tacky,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,I find those above-ground caves so tacky,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,"""He's an atheist"".",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
 2664,"He'll take a break soon. It's been almost 20,000 years.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,"It's a doorman cave, low maintenance, and just a stone's throw from the subway.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"It's a doorman cave, low maintenance, and just a stone's throw from the subway.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,Still grounded?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,"He said he lived in a high-rise, but I didn't believe him!",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,"And, get this - it's rent contolled!",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,"Hey man, I'm telling you they say ""fire in the hole!"" not ""fire in the cave!"" so stop being ridiculous and help us",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"He said he lived in a high-rise, but I didn't believe him!",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,"And, get this - it's rent contolled!",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,"Hey man, I'm telling you they say ""fire in the hole!"" not ""fire in the cave!"" so stop being ridiculous and help us",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,I think he must be waiting for Godot,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
 2664,"Yeah, but the closets are way too small.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,"Screw this, I'm voting for Thump.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,Yes it is nice but it may not be rent controlled,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"Screw this, I'm voting for Thump.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,Yes it is nice but it may not be rent controlled,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,All he ever wanted was to be a U.S. Attorney.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,Careful! Don't let him suspect we're desperate to rent.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,"""Let's go spy on the neighbor"" you said. ""It'll be fun"" you said.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"""Let's go spy on the neighbor"" you said. ""It'll be fun"" you said.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,He won't budge. Time for some eminent domain.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,"Darn, since the election in January every cave we find is already taken",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,He's such a sore loser.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"Darn, since the election in January every cave we find is already taken",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,He's such a sore loser.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,"I'm not sure what it is, but there's just something better about his cave.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,It's the latest thing - I think it's called horizontal housing.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,He's determined to wait this term out!,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,He's determined to wait this term out!,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,He always sulks just to get his own space.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"Uh oh, we in the hole.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,Today are we being professional spies or plain old voyeurs?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,Wow that's got to be worth 1 million dollars in today's market.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
 2664,I'm not quite sure the cave's safe under our current administration.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,Him not happy. Him want cave have big-screen TV.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,Him not happy. Him want cave have big-screen TV.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,"I tried telling him that this spring's over-the-shoulder look doesn't make him look fat, but you know how sensitive the Cro-Magnons are.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,Orrg is absolutely addicted to Netflix.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
-2664,Look at who's made enough money for a cave ...,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,Look at who's made enough money for a cave ...,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,"Call me a snob, but 'cave-dweller' just sounds a tad low-brow.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,Who's he calling a Neanderthal?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,Who's he calling a Neanderthal?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,"Darn that Ogg, he’s already on line for the new iRock 8.",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
 2664,"He said Survivalism was just Paranoia, do you think he knows about the smoke?",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,"Hey, remember, you're getting the beach house.terrence",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"Hey, remember, you're getting the beach house.terrence",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,Every generation has its New Agers. Back in the day we called 'em frontiersmen.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,He never wants to party.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"This is why a wall's a bad idea, Mr. President.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,See? Money can't buy happiness.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,No hunting or gathering for Ken today. It's A Day Without a Caveman.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,He's not the sharpest rock in the cave.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,He knows Ben Carson.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,He knows Ben Carson.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,With reception like that you'd think he'd upgrade his basic cable service!,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
 2664,"On the count of ""3"" you kick him in the nuts, and I'll grab the TV.",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
-2664,Can I have a man cave?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,Can I have a man cave?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,"He still refuses to accept climate change,",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,Quick! Think of something to cover this with before he sees us!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"You were right again, digging horizontal was a better plan.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"One day, we'll get one of those swanky rainproof places like Jeremy.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,He's looking for inspiration to invent the wheel.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
 2664,I am tired of renting.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,"This pretentious ""McCave"" trend is destroying the character of the neighborhood.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"This pretentious ""McCave"" trend is destroying the character of the neighborhood.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,I hate stakeout duty.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,His farts are positively Jurassic.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,"Partner, I keep thinking about the shape of those doughnuts.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"Partner, I keep thinking about the shape of those doughnuts.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,He's pouting because we're in the hot tub.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,Cool and dry? - I'm in.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,Cool and dry? - I'm in.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,Threeway?,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
-2664,I told you we should've read the instruction.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,"Don't bother, he's a pyroclastic flow denier.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,"Yeah, it's a nice place, but I'd hate to have his mortgage.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,I told you we should've read the instruction.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,"Don't bother, he's a pyroclastic flow denier.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,"Yeah, it's a nice place, but I'd hate to have his mortgage.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,I hate loud upstairs neighbors.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,He pays $3500. a month a one bedroom cave because we're in San Francisco. At least our hole is free.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,I think we were just disrupted.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,I think El Chapo is upset by how far escapism has regressed.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,He pays $3500. a month a one bedroom cave because we're in San Francisco. At least our hole is free.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,I think we were just disrupted.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,I think El Chapo is upset by how far escapism has regressed.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,Your Dad thinks he's plugged the Tunnel of Love!,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
 2664,Radical!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"Bob say, ""Bob first.""",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,whoops! It's occupied.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,whoops! It's occupied.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,So what now he gets the cave and I get the guest hole?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"Honestly Bob, did you have to tell him his fur pelt made him look fat?",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,How come he gets service?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"I tried to talk him into a single-family place, like ours.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,It's too drafty to live in one of those.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,My bad.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,No better in China after all.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,He's living beyond his means in that efficiency den.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,It does have a kind of historical inevitability about it.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,My bad.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,No better in China after all.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,He's living beyond his means in that efficiency den.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,It does have a kind of historical inevitability about it.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,He insists dragons don't exist. Just watch.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,She must have left him again!,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,We are right on target to connect with the other Tunnel. The engineer is waiting for us,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,She must have left him again!,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,We are right on target to connect with the other Tunnel. The engineer is waiting for us,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,He's not registered yet.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
 2664,I thought Neanderthal bouncers were extinct.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,That's him! The light at the end of the tunnel!,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
-2664,sticks and stones. sticks and stones.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,A housewarming gift basket? First we have to invent the basket.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,sticks and stones. sticks and stones.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,A housewarming gift basket? First we have to invent the basket.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,But the condo developer said we were getting in on the ground floor!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"A typical cro-magnon man, playing hard to get.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,"Well, at least next week it's his turn to clean out the poop hole!",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"Well, at least next week it's his turn to clean out the poop hole!",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,Its probably above our pay grade but I think we should make an offer.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,"Yes, the Butler is included in the cost of the penthouse.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"Yes, the Butler is included in the cost of the penthouse.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,He lobbied for hiway funds,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"OK...as soon as he passes out, you go into the cave and get the cocaine. NO WAY...you go.",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
 2664,I wonder how much he paid for that cave.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,He invented homeland security.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,I think you put it together wrong.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
 2664,[Just how long is that Beckett guy going to sit there figuring out what we’re gonna get to say?],1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
-2664,"THAT'S the ""menacing beast"" guarding the exit?!",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,He's taking a mental health day.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"THAT'S the ""menacing beast"" guarding the exit?!",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,He's taking a mental health day.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,I suspect he has interior motives.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,I prefer a more rustic homestay.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,"I'm telling you, shelter is just a passing fad.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,I prefer a more rustic homestay.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,"I'm telling you, shelter is just a passing fad.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,"Great, now where are we going to park the Mercedes?",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
 2664,"Well, I guess that sort of worked.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,Did you remember to hide his club?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"There's the sign! Now, go in and take club back from the bear.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,He's mad because we stole his door.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,He's mad because we stole his door.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,Leave him alone. Everyone's disoriented by the new Administration.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
 2664,"Well, there's Will in the way.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,They say he just paints all day.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,He thinks he's more secure with his back to the wall.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,We'll have to move.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,So - same time next week?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,I've changed my mind on the coffee.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,I think he'll cave into our demands pretty soon.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,We'll have to move.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,So - same time next week?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,I've changed my mind on the coffee.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,I think he'll cave into our demands pretty soon.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,Oh Stan's just sulking 'cause I said his Homo erectus brain is no bigger than my Homo habilis brain.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,560
-2664,Don't be shy ... there's room in the Hot Hole for one more.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,I think he's using my barber.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,Don't be shy ... there's room in the Hot Hole for one more.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,I think he's using my barber.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,Good luck finding a subletter in this economy!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,So ostentatious! I remember when a single-family hole in the ground was good enough for this neighborhood.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,"Hasn't anyone told him, underground tunnels are the only means of escape",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,"Hasn't anyone told him, underground tunnels are the only means of escape",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,We should have sprung for first class.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,He's the strong silent type.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"Oh, yeah? Well, it's just a matter of time before that roof wears out, jerk!",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"See, Carl has a man-cave!",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,Dad always said he'd put a roof over our heads someday.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"How could he not be lonely, living all alone in that big house?",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,Should we wiretap his smoke signals?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,So he gets to live large and we're in this shithole!,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,Should we wiretap his smoke signals?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,So he gets to live large and we're in this shithole!,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,Grog's cave make him one-percenter.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"Admittedly, couples swing night at Big Rock was a little ambitious",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,Men aren't meant to live in caves.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2664,"If he lived here, he'd be hole by now.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
-2664,What? It's not a hole. It's our alternative cave.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
-2664,the best part is he doesn't know about electronic surveillance yet.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,560
+2664,What? It's not a hole. It's our alternative cave.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
+2664,the best part is he doesn't know about electronic surveillance yet.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,560
 2664,"Original, ""Grand Opening of the Holland Tunnel,"" festivities.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,560
 2865,"That's not what I meant when I said ""Cave in"".",1.1020408163265305,0.04369126727437127,49.0,44.0,5.0,0.0,560
 2865,Og detest nouveau riche.,1.1020408163265305,0.052528725209117416,49.0,45.0,3.0,1.0,560

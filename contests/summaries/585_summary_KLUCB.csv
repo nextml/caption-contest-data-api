@@ -1,9 +1,9 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1,"I went ahead and fixed the bagel setting, too. So with parts and labor, that actually comes out to two wishes.",1.9718353450943984,0.013134671832398104,3231.0,947.0,1428.0,856.0,585
 2,"OK, your crumb tray is cleaned and the coffee is brewing. You have one left.",1.9493807215939687,0.012371078538173713,3714.0,1154.0,1594.0,966.0,585
-3,It was the only way I could get into the country.,1.9180006533812481,0.014599345223475746,3061.0,1134.0,1044.0,883.0,585
+3,It was the only way I could get into the country.,1.918000653381248,0.014599345223475746,3061.0,1134.0,1044.0,883.0,585
 4,"you have three wishes, as long as they're light, medium and dark..",1.909873417721519,0.01210564455470152,3950.0,1337.0,1632.0,981.0,585
-5,Toasted sesame is way different than open sesame and you know it.,1.865709156193896,0.015056861452474419,2785.0,1091.0,977.0,717.0,585
+5,Toasted sesame is way different than open sesame and you know it.,1.8657091561938959,0.015056861452474419,2785.0,1091.0,977.0,717.0,585
 6,"Thanks, kid, I've been in there since your parents' wedding.",1.8480565371024733,0.015541024450919328,2547.0,1006.0,922.0,619.0,585
 7,"Listen, if you want to talk to my supervisor, rub the coffee maker.",1.8193430656934304,0.014443272860871537,2740.0,1075.0,1085.0,580.0,585
 8,"Toast, Master?",1.8117897727272727,0.020800488053866004,1408.0,586.0,501.0,321.0,585
@@ -19,7 +19,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 18,"I know it's not customary, but the last guy rubbed me the wrong way.",1.7221163012392755,0.016258734650880086,2098.0,954.0,773.0,371.0,585
 19,It wasn't plugged in. You have two more wishes.,1.7160148975791434,0.016203077208280903,2148.0,997.0,764.0,387.0,585
 20,Your first wish is a Pop Tart?,1.6910569105691058,0.01996114029831723,1353.0,638.0,495.0,220.0,585
-21,Two wishes remaining. Maybe aim a little higher than 'fix the toaster?',1.684387241186346,0.017216357812810598,1787.0,844.0,663.0,280.0,585
+21,Two wishes remaining. Maybe aim a little higher than 'fix the toaster?',1.6843872411863459,0.017216357812810598,1787.0,844.0,663.0,280.0,585
 22,"This place is way better, has two skylights and an elevator.",1.673960612691466,0.0247903449741016,914.0,454.0,304.0,156.0,585
 23,Next time disable your pop-up blocker.,1.6730103806228374,0.0220369201818856,1156.0,575.0,384.0,197.0,585
 24,I've been updated to work across multiple devices,1.667590027700831,0.03702032949983758,361.0,169.0,143.0,49.0,585
@@ -30,7 +30,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 29,"With this travel ban, it was the only way I could get into the country.",1.6492985971943888,0.02391885520924513,998.0,521.0,306.0,171.0,585
 30,Rub me the wrong way and you're toast,1.6463768115942028,0.02313051670172371,1035.0,534.0,333.0,168.0,585
 31,Take three more. I couldn't get all the crumbs out either.,1.6345291479820627,0.024236529204718225,892.0,456.0,306.0,130.0,585
-32,"An edible gluten-free bread loaf? I'm a genie, not a miracle worker.",1.6323024054982818,0.043222536587024386,291.0,152.0,94.0,45.0,585
+32,"An edible gluten-free bread loaf? I'm a genie, not a miracle worker.",1.6323024054982818,0.04322253658702439,291.0,152.0,94.0,45.0,585
 33,"What can I say, kid? It's roomier and has central heating and an elevator.",1.6296296296296295,0.02616892145061049,837.0,452.0,243.0,142.0,585
 34,"Yes, I can fit into the coffeemaker too. But that will be number two and I think you're missing the point here.",1.6271820448877805,0.02615709744867592,802.0,425.0,251.0,126.0,585
 35,"You know, it's really pretty easy to make it yourself.",1.6260762607626076,0.02570886168887886,813.0,427.0,263.0,123.0,585
@@ -90,8 +90,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 89,After 3 wishes you're toast!,1.5283018867924532,0.03949531865690471,318.0,189.0,90.0,39.0,585
 90,Anything you'd like as long as it's toast.,1.5258064516129033,0.03974203648932435,310.0,184.0,89.0,37.0,585
 91,"You wanted a genius on the West Coast? I thought you said, 'genie who makes the best toast.'",1.5256410256410255,0.04058111049909202,312.0,189.0,82.0,41.0,585
-92,Oh yeah.. I moved to a place with central heating.,1.5244299674267099,0.037847658949919136,307.0,175.0,103.0,29.0,585
-92,"It's fixable, but you'll need to use another wish to extend the warranty.",1.5244299674267099,0.040824408624919664,307.0,186.0,81.0,40.0,585
+92,Oh yeah.. I moved to a place with central heating.,1.52442996742671,0.037847658949919136,307.0,175.0,103.0,29.0,585
+92,"It's fixable, but you'll need to use another wish to extend the warranty.",1.52442996742671,0.040824408624919664,307.0,186.0,81.0,40.0,585
 94,"OK, toaster's fixed. Your second wish?",1.5201342281879195,0.04066804729856704,298.0,179.0,83.0,36.0,585
 94,Are you sure this isn't a job for Mr. Coffee?,1.5201342281879195,0.03896544678143711,298.0,173.0,95.0,30.0,585
 96,"You know, all you had to do was plug it in...",1.52,0.04074008760441744,300.0,181.0,82.0,37.0,585
@@ -131,18 +131,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 130,"Actually, I'm a Sikh. We don't grant wishes.",1.4872881355932204,0.047086378261580464,236.0,153.0,51.0,32.0,585
 131,I got transferred.,1.4871794871794872,0.04418862415409495,234.0,144.0,66.0,24.0,585
 131,"What, you were expecting Pop-Tarts?",1.4871794871794872,0.043771589696011116,234.0,143.0,68.0,23.0,585
-133,Jeannie got the lantern in the divorce.,1.48471615720524,0.04573189604206378,229.0,144.0,59.0,26.0,585
+133,Jeannie got the lantern in the divorce.,1.48471615720524,0.045731896042063784,229.0,144.0,59.0,26.0,585
 133,"I was able to sweep out most of the crumbs, but you really ought to put a little more thought into your next wish.",1.48471615720524,0.04488647429656584,229.0,142.0,63.0,24.0,585
 135,"Sorry, Aladdin's on vacation. I'm his cousin, Amuffin.",1.4823008849557522,0.04488140245063155,226.0,140.0,63.0,23.0,585
 135,I'd like to help but I'm burned out.,1.4823008849557522,0.04399633567020742,226.0,138.0,67.0,21.0,585
 137,I'm going to stay in the toaster. Someone might think that's a Neti-pot.,1.4798206278026906,0.0487510544477009,223.0,147.0,45.0,31.0,585
 137,If you rub the lamp I'm toast.,1.4798206278026906,0.04997862283393939,223.0,150.0,39.0,34.0,585
-139,"Okay, the toaster is clean. What is your second wish?",1.476851851851852,0.047296474361881904,216.0,138.0,53.0,25.0,585
+139,"Okay, the toaster is clean. What is your second wish?",1.4768518518518519,0.047296474361881904,216.0,138.0,53.0,25.0,585
 140,"Sorry, weird night. Would you mind wishing for some coffee?",1.4746543778801844,0.04757980313062006,217.0,140.0,51.0,26.0,585
 141,No. I'm Crusty. Genie is in the garage door.,1.4744186046511627,0.04836139182451346,215.0,140.0,48.0,27.0,585
 142,It's just easier to pop out of the toaster.,1.4739336492890995,0.04211906559447092,211.0,124.0,74.0,13.0,585
 142,"Sorry, the only three wishes the toaster genie can grant are light, medium and dark.",1.4739336492890995,0.04996198850117835,211.0,140.0,42.0,29.0,585
-142,Fixed it. Next wish?,1.4739336492890995,0.04521985089224138,211.0,130.0,62.0,19.0,585
+142,Fixed it. Next wish?,1.4739336492890995,0.045219850892241384,211.0,130.0,62.0,19.0,585
 145,"Listen, kid. You got that lamp at the dollar store. I'll sleep where I want.",1.4714285714285715,0.04435008808102837,210.0,128.0,65.0,17.0,585
 146,"To be honest, I thought we were playing hide and go seek.",1.4688995215311005,0.05076880572146888,209.0,141.0,38.0,30.0,585
 146,It was the only way I could get into the country.,1.4688995215311005,0.050313666229268736,209.0,140.0,40.0,29.0,585
@@ -191,13 +191,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 190,"Its three choices, not three wishes.... White, Whole Wheat or Pumpernickel...",1.4457142857142855,0.05036297989904407,175.0,114.0,44.0,17.0,585
 190,OK bagels will never get stuck in the toaster again. What is your second wish?,1.4457142857142855,0.05036297989904407,175.0,114.0,44.0,17.0,585
 190,Toaster's fixed. But the fridge needs a large appliance genie.,1.4457142857142855,0.05036297989904407,175.0,114.0,44.0,17.0,585
-190,"Unfortunately, with that lantern, instead of getting three wishes you get three appliances.",1.4457142857142855,0.049706622288380534,175.0,113.0,46.0,16.0,585
+190,"Unfortunately, with that lantern, instead of getting three wishes you get three appliances.",1.4457142857142855,0.04970662228838053,175.0,113.0,46.0,16.0,585
 190,That was your last wish...I'm toast.,1.4457142857142855,0.05165067893353481,175.0,116.0,40.0,19.0,585
 195,"For the third one, I'd suggest a blender or possibly a juicer.",1.442528735632184,0.05055183070288872,174.0,114.0,43.0,17.0,585
 195,Toast is done. Coffee is brewing. You got one wish left...,1.442528735632184,0.04715170990682235,174.0,109.0,53.0,12.0,585
 195,"Sorry, I can only grant wishes that are gluten free.",1.442528735632184,0.05248628288971662,174.0,117.0,37.0,20.0,585
 198,"No, I'm not here to grant a wish. You were about to burn your toast.",1.4418604651162792,0.047520674368358856,172.0,108.0,52.0,12.0,585
-198,Just gonna' lay low here until this Muslim ban blows over.,1.4418604651162792,0.05163536799955733,172.0,114.0,40.0,18.0,585
+198,Just gonna' lay low here until this Muslim ban blows over.,1.4418604651162792,0.051635367999557334,172.0,114.0,40.0,18.0,585
 198,"Sorry kid, I got this sponsor years ago. Now I'm a GEnie!",1.4418604651162792,0.05097265710599515,172.0,113.0,42.0,17.0,585
 201,This thing works like magic.,1.4411764705882353,0.0471652989663833,170.0,106.0,53.0,11.0,585
 201,Don’t ask. Just make three wishes before I’m toast.,1.4411764705882353,0.05273968696136279,170.0,114.0,37.0,19.0,585
@@ -292,9 +292,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 291,You've got your toaster and your coffee machine. What'll the third wish be?,1.3969465648854962,0.05160875138360624,131.0,86.0,38.0,7.0,585
 291,"I also respond to ""open sesame bagel"".",1.3969465648854962,0.05701457953766196,131.0,91.0,28.0,12.0,585
 291,Always wishes! What about your needs?,1.3969465648854962,0.050458135194223916,131.0,85.0,40.0,6.0,585
-291,"You didn't expect me to pop up just anywhere, did you?",1.3969465648854962,0.053836259561446866,131.0,88.0,34.0,9.0,585
-291,It's part of the new two-step authentication process.,1.3969465648854962,0.053836259561446866,131.0,88.0,34.0,9.0,585
-291,The toaster is my winter home.,1.3969465648854962,0.053836259561446866,131.0,88.0,34.0,9.0,585
+291,"You didn't expect me to pop up just anywhere, did you?",1.3969465648854962,0.05383625956144687,131.0,88.0,34.0,9.0,585
+291,It's part of the new two-step authentication process.,1.3969465648854962,0.05383625956144687,131.0,88.0,34.0,9.0,585
+291,The toaster is my winter home.,1.3969465648854962,0.05383625956144687,131.0,88.0,34.0,9.0,585
 291,"I'd love to help you, but I'm a little burnt out.",1.3969465648854962,0.05701457953766196,131.0,91.0,28.0,12.0,585
 291,"A thoughtful wish, master, but really the lamp is fine.",1.3969465648854962,0.05273426809458134,131.0,87.0,36.0,8.0,585
 291,"Ok, I've done it. Your parents are toast.",1.3969465648854962,0.0580353520877808,131.0,92.0,26.0,13.0,585
@@ -306,7 +306,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 291,"You get three wishes--four, if you clean the crap out of my toaster.",1.3969465648854962,0.06002484249163245,131.0,94.0,22.0,15.0,585
 291,"Yeah, but this new place has central heating!",1.3969465648854962,0.054916142031863284,131.0,89.0,32.0,10.0,585
 291,"Thanks, kid. I thought I was toast!",1.3969465648854962,0.05597519511140698,131.0,90.0,30.0,11.0,585
-291,You were expecting an Open Sesame bagel???,1.3969465648854962,0.053836259561446866,131.0,88.0,34.0,9.0,585
+291,You were expecting an Open Sesame bagel???,1.3969465648854962,0.05383625956144687,131.0,88.0,34.0,9.0,585
 309,Thanks for finding an oil lamp. The toaster is no place for a genie.,1.3953488372093024,0.054384555040318916,129.0,87.0,33.0,9.0,585
 309,How about one wish and I throw in the coffee maker and the toaster?,1.3953488372093024,0.052109804882747086,129.0,85.0,37.0,7.0,585
 311,"Sorry, kid, I can't figure out what the dial does either.",1.3937007874015748,0.05494822677682002,127.0,86.0,32.0,9.0,585
@@ -368,7 +368,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 364,Did you ask to see a genie in a toaster or a bikini in a roadster?,1.373913043478261,0.06353539115402493,115.0,85.0,17.0,13.0,585
 364,Thanks! After Siri I thought I was toast!,1.373913043478261,0.0610871126057003,115.0,83.0,21.0,11.0,585
 364,"Before you start, mind if I grab a cup?",1.373913043478261,0.05982541287116028,115.0,82.0,23.0,10.0,585
-364,Let's not blow through all three of these before 7am.,1.373913043478261,0.05161151245046466,115.0,76.0,35.0,4.0,585
+364,Let's not blow through all three of these before 7am.,1.373913043478261,0.051611512450464664,115.0,76.0,35.0,4.0,585
 364,"Yes, the new kitchen appliances ARE thoughtful. But if I were you, I wouldn't tell your family that's where their 3 wishes went...",1.373913043478261,0.05586961715740165,115.0,79.0,29.0,7.0,585
 364,Have you seen my other earring?,1.373913043478261,0.05853652469961015,115.0,81.0,25.0,9.0,585
 364,"First, how bout I grant you a knish?",1.373913043478261,0.05853652469961015,115.0,81.0,25.0,9.0,585
@@ -392,8 +392,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 389,Gluten free counts as a separate wish,1.3693693693693694,0.0651690021528137,111.0,83.0,15.0,13.0,585
 389,This one comes with central heating,1.3693693693693694,0.061282936860050576,111.0,80.0,21.0,10.0,585
 389,Three wishes and you asked for toast?,1.3693693693693694,0.061282936860050576,111.0,80.0,21.0,10.0,585
-389,You know you've always rubbed me the wrong way.,1.3693693693693694,0.05568121492022501,111.0,76.0,29.0,6.0,585
-389,It was just a fuse. What’s your last wish?,1.3693693693693694,0.05568121492022501,111.0,76.0,29.0,6.0,585
+389,You know you've always rubbed me the wrong way.,1.3693693693693694,0.055681214920225014,111.0,76.0,29.0,6.0,585
+389,It was just a fuse. What’s your last wish?,1.3693693693693694,0.055681214920225014,111.0,76.0,29.0,6.0,585
 389,You should see the perky little genie that lives in the coffee pot.,1.3693693693693694,0.06260509974429486,111.0,81.0,19.0,11.0,585
 389,We've been hacked!,1.3693693693693694,0.05713315901289244,111.0,77.0,27.0,7.0,585
 398,Where did you finally find the lamp?,1.3669724770642202,0.05158143056095718,109.0,72.0,34.0,3.0,585
@@ -440,9 +440,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 424,I was Mr. Coffee before I was Mr. Genie,1.3611111111111112,0.05496834000711991,108.0,74.0,29.0,5.0,585
 424,Oh yeah? Wait until you see what's in the teapot.,1.3611111111111112,0.05803153398105864,108.0,76.0,25.0,7.0,585
 424,I'm better than Alexa. I grant wishes and make toast.,1.3611111111111112,0.05652069240257545,108.0,75.0,27.0,6.0,585
-442,"Wish all you want about size, but I only do toast.",1.3584905660377358,0.053935303237868534,106.0,72.0,30.0,4.0,585
+442,"Wish all you want about size, but I only do toast.",1.3584905660377358,0.05393530323786853,106.0,72.0,30.0,4.0,585
 442,Ok. I've fixed your toaster. Now on to your two other wishes.,1.3584905660377358,0.05557617704266813,106.0,73.0,28.0,5.0,585
-442,I updated my appliances. Get over it.,1.3584905660377358,0.053935303237868534,106.0,72.0,30.0,4.0,585
+442,I updated my appliances. Get over it.,1.3584905660377358,0.05393530323786853,106.0,72.0,30.0,4.0,585
 442,Sorry. You caught me at breakfast.,1.3584905660377358,0.06170485825238265,106.0,77.0,20.0,9.0,585
 442,"We're in Omaha, the best I can do is Lender's.",1.3584905660377358,0.06170485825238265,106.0,77.0,20.0,9.0,585
 442,NOW who's the stereotype?,1.3584905660377358,0.05557617704266813,106.0,73.0,28.0,5.0,585
@@ -1418,7 +1418,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1265,You wished for a toaster oven that actually toasts. That appears to be impossible. Try this.,1.2615384615384615,0.06308161333406433,65.0,50.0,13.0,2.0,585
 1418,"Yes , your wish is my command but pop tarts ? Really ?",1.2580645161290325,0.06874059282197471,62.0,49.0,10.0,3.0,585
 1418,"Look, I'm sure you've got a very good genie in there, I'm just saying: ""do you like bread?""",1.2580645161290325,0.06874059282197471,62.0,49.0,10.0,3.0,585
-1418,I got stuck in a bagel.,1.2580645161290325,0.056025056110625186,62.0,46.0,16.0,0.0,585
+1418,I got stuck in a bagel.,1.2580645161290325,0.05602505611062519,62.0,46.0,16.0,0.0,585
 1418,And her last wish was that I use a toaster from now on.,1.2580645161290325,0.06477999978190735,62.0,48.0,12.0,2.0,585
 1418,The toaster has free WiFi.,1.2580645161290325,0.06874059282197471,62.0,49.0,10.0,3.0,585
 1418,You preferred it when there wasn't a password??,1.2580645161290325,0.06477999978190735,62.0,48.0,12.0,2.0,585
@@ -1428,9 +1428,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1418,"You have one remaining wish: lightly toasted, medium, or well-done.",1.2580645161290325,0.06874059282197471,62.0,49.0,10.0,3.0,585
 1418,It's an open sesame and shut case.,1.2580645161290325,0.07248510075380409,62.0,50.0,8.0,4.0,585
 1418,"Sorry, kid. Best I can do is grant you three ... uh, two pieces of toast.",1.2580645161290325,0.06874059282197471,62.0,49.0,10.0,3.0,585
-1418,Does this mean I get toast from this lamp?,1.2580645161290325,0.056025056110625186,62.0,46.0,16.0,0.0,585
+1418,Does this mean I get toast from this lamp?,1.2580645161290325,0.05602505611062519,62.0,46.0,16.0,0.0,585
 1418,"You do know there's an IHOP right around the corner, don't you?",1.2580645161290325,0.06874059282197471,62.0,49.0,10.0,3.0,585
-1418,Just a mix up at the factory - they make garage door openers too,1.2580645161290325,0.056025056110625186,62.0,46.0,16.0,0.0,585
+1418,Just a mix up at the factory - they make garage door openers too,1.2580645161290325,0.05602505611062519,62.0,46.0,16.0,0.0,585
 1418,"Nah, you can keep the lamp, it's nice and toasty in here.",1.2580645161290325,0.0605609415545309,62.0,47.0,14.0,1.0,585
 1418,"You've got three wishes. But first, can I have some coffee?",1.2580645161290325,0.06874059282197471,62.0,49.0,10.0,3.0,585
 1418,Your toast is my command.,1.2580645161290325,0.06477999978190735,62.0,48.0,12.0,2.0,585
@@ -1447,7 +1447,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1418,Your wish is toast.,1.2580645161290325,0.06477999978190735,62.0,48.0,12.0,2.0,585
 1418,"Look, kid, let me explain the new Terms of Service over coffee, okay?",1.2580645161290325,0.0605609415545309,62.0,47.0,14.0,1.0,585
 1418,I will grant you 3 toasts.,1.2580645161290325,0.0605609415545309,62.0,47.0,14.0,1.0,585
-1418,Toss the lamp; I'm going solar next week.,1.2580645161290325,0.056025056110625186,62.0,46.0,16.0,0.0,585
+1418,Toss the lamp; I'm going solar next week.,1.2580645161290325,0.05602505611062519,62.0,46.0,16.0,0.0,585
 1418,"Stereotype me, fine, but you do NOT get to assume Mr. Coffee's gender",1.2580645161290325,0.06874059282197471,62.0,49.0,10.0,3.0,585
 1418,Any three toppings on your bagel.,1.2580645161290325,0.0605609415545309,62.0,47.0,14.0,1.0,585
 1418,What? You were waiting for the Muffin Man.,1.2580645161290325,0.06874059282197471,62.0,49.0,10.0,3.0,585

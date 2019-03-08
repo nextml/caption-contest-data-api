@@ -1,5 +1,5 @@
 unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
-114,66,Your overhead is going to kill you.,1.824175824175824,0.04806653318335127,93,1,273,530
+114,66,Your overhead is going to kill you.,1.824175824175824,0.048066533183351266,93,1,273,530
 99,46,The consensus of your wise men is: move the chair.,1.7675438596491229,0.0506316513591674,83,2,228,530
 88,36,"According to the doctor, your longevity would improve dramatically if you'd get off the throne and walk more.",1.7636363636363637,0.04815161533686505,96,3,220,530
 90,37,And the king lived happily severed after.,1.7225130890052356,0.05562669182265358,64,4,191,530
@@ -49,12 +49,12 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 71,20,Apparently you're killed in Act 1.,1.5714285714285714,0.07017124410828818,28,48,119,530
 77,22,Wherefore I pronounce you King for a Day.,1.5703125,0.06809015285702125,29,49,128,530
 71,16,"In summary, short live the king.",1.5703125,0.0624346053059885,41,49,128,530
-69,12,Shall I speed read?,1.5681818181818181,0.057103723858705775,51,51,132,530
+69,12,Shall I speed read?,1.568181818181818,0.057103723858705775,51,51,132,530
 72,18,"... and finally, while the pen may be mightier than the sword, I suggest you move your chair, sire.",1.568,0.06558520682927448,35,52,125,530
 71,17,"Well, it says here, someone ordered king size.",1.568,0.06459401749987527,37,52,125,530
 71,15,The rumor is your reign will be cut short.,1.565891472868217,0.06112336739500063,43,54,129,530
 75,19,The royal rope maker would like to know if Your Majesty will be renewing the maintenance contract.,1.565891472868217,0.06496585384442533,35,54,129,530
-65,15,The queen has asked me to read this last part very... very... slowly.,1.565217391304348,0.06666335016457936,35,56,115,530
+65,15,The queen has asked me to read this last part very... very... slowly.,1.5652173913043481,0.06666335016457936,35,56,115,530
 72,18,It's a recall notice from the rope company.,1.564516129032258,0.06602292344821778,34,57,124,530
 99,24,May I suggest that we dispense with today's reading of the royal horoscope?,1.5639534883720931,0.05540809358653443,49,58,172,530
 78,21,...and to conclude.. there is a penalty for early termination of your cell phone plan..,1.5615384615384615,0.06643116976615153,31,59,130,530
@@ -265,18 +265,18 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 62,9,So the cable repair guy will be here Friday between 1-5pm. Will that work?,1.4361702127659577,0.06858125390153902,23,264,94,530
 60,7,The Royal Mathematicians suggest moving your throne four cubits to the north.,1.4361702127659577,0.06516001218459846,27,264,94,530
 53,5,"It says ""enlarged to show detail"".",1.4352941176470588,0.06577923101923304,27,266,85,530
-66,14,...and nobody henceforth shall question the size of the king's hands.,1.434782608695652,0.0777495640041775,12,267,92,530
-57,5,"A gift from the Queen, Your Majesty.",1.434782608695652,0.06240970127861027,30,267,92,530
-62,10,"It says ""Giant sold separately.""",1.434782608695652,0.07134023079498843,20,267,92,530
-61,9,"In lieu of alimony, your ex-queen offers this piece of installation art.",1.434782608695652,0.06964579661862477,22,267,92,530
-64,12,The End.,1.434782608695652,0.07461374951281402,16,267,92,530
+66,14,...and nobody henceforth shall question the size of the king's hands.,1.4347826086956519,0.0777495640041775,12,267,92,530
+57,5,"A gift from the Queen, Your Majesty.",1.4347826086956519,0.06240970127861027,30,267,92,530
+62,10,"It says ""Giant sold separately.""",1.4347826086956519,0.07134023079498843,20,267,92,530
+61,9,"In lieu of alimony, your ex-queen offers this piece of installation art.",1.4347826086956519,0.06964579661862477,22,267,92,530
+64,12,The End.,1.4347826086956519,0.07461374951281402,16,267,92,530
 63,7,Good news sire: 60% of the people believe that the size of your sword does matter.,1.4343434343434345,0.06284929795204205,29,272,99,530
 69,13,Damocles wants to know how it is hanging.,1.4343434343434345,0.07202008492622096,17,272,99,530
 61,10,Damocles called. He wants his sword back.,1.4333333333333331,0.07249779367257159,19,274,90,530
 64,9,The architect advises Your Highness to move said chair.,1.4329896907216495,0.06701030927835051,24,275,97,530
 63,8,"Balanced? Well, m'Lord, I think you're missing the point of the metaphor.",1.4329896907216495,0.06538810990751899,26,275,97,530
-59,9,Goliath requests that you check Lost and Found once again.,1.4318181818181819,0.07191123952683566,20,277,88,530
-57,7,"Then at noon, the Queen has scheduled lunch with Liberty Mutual.",1.4318181818181819,0.06818181818181818,24,277,88,530
+59,9,Goliath requests that you check Lost and Found once again.,1.431818181818182,0.07191123952683566,20,277,88,530
+57,7,"Then at noon, the Queen has scheduled lunch with Liberty Mutual.",1.431818181818182,0.06818181818181818,24,277,88,530
 59,6,"""Before I continue, might I suggest you slide your chair forward a bit?",1.4301075268817205,0.06377161187512337,28,279,93,530
 65,9,"Happy Birthday, Uncle. With love, Hamlet.",1.4285714285714286,0.06647000940439916,24,280,98,530
 63,11,The peasants feel it's a reasonable alternative to a democracy,1.4285714285714286,0.07353428534756311,17,280,91,530
@@ -1168,7 +1168,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 47,4,Sire: your new cutlery comes with a lifetime guarantee.,1.2586206896551724,0.07605019845184599,7,1167,58,530
 45,2,Your ministers say there's no hurry... take your time,1.2586206896551724,0.06762921949463294,11,1167,58,530
 48,2,Your doctor has advised that you go under the knife again...,1.2580645161290325,0.06477999978190735,12,1169,62,530
-46,0,"I'm sorry to report, your majesty, but it seems we have termites.",1.2580645161290325,0.05602505611062519,16,1169,62,530
+46,0,"I'm sorry to report, your majesty, but it seems we have termites.",1.2580645161290325,0.056025056110625186,16,1169,62,530
 50,4,"Lord Damocles, The first order of business is the contract talks with the rope weavers union.",1.2580645161290325,0.07248510075380409,8,1169,62,530
 49,3,That takes care of that. Next on the scavenger hunt list is Occam's razor.,1.2580645161290325,0.06874059282197471,10,1169,62,530
 49,3,"Sire, the note is from the Emir of Damocles: 'I know it's not your birthday, but I didn't want to leave this hanging.""",1.2580645161290325,0.06874059282197471,10,1169,62,530
@@ -1383,40 +1383,40 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 49,5,"Regardless, my pen is still mightier.",1.2413793103448276,0.0789769155686149,4,1379,58,530
 47,3,"Your Highness, your exchequer declares that the fork and spoon should arrive by noon on Wednesday.",1.2413793103448276,0.07090438517905794,8,1379,58,530
 43,2,"Your Grace, your son is ill-equipped to succeed you. He lives in fear of going under the knife.",1.2407407407407407,0.06961602376844407,9,1384,54,530
-51,3,"Upon further consideration, the Prince has submitted his resignation.",1.2380952380952381,0.06679820247360645,9,1385,63,530
-53,5,The contract doesn't specify metaphorical.,1.2380952380952381,0.07406797819503037,5,1385,63,530
-49,1,"Your Majesty, there are rumors Sir Lancelot disapproves of the ""Make Camelot great again"" policy",1.2380952380952381,0.0586339007188704,13,1385,63,530
-51,3,"Sire, we've just gotten a huge bill from the decorator.",1.2380952380952381,0.06679820247360645,9,1385,63,530
-51,3,Damocles sends his regards and hopes you're enjoying the Sword,1.2380952380952381,0.06679820247360645,9,1385,63,530
-51,3,It was installed by one of your faithful servants... Let's see... Here it is: Damocles.,1.2380952380952381,0.06679820247360645,9,1385,63,530
-49,1,The finding of the royal psychoanalyst is that you have a slight inferiority complex.,1.2380952380952381,0.0586339007188704,13,1385,63,530
-51,3,"If I may add my own commentary, sire: No pressure.",1.2380952380952381,0.06679820247360645,9,1385,63,530
-49,1,"Sire, the Council is recommending that the throne's location be changed.",1.2380952380952381,0.0586339007188704,13,1385,63,530
-50,2,"Sire, your crackerjack security guards have received credible information regarding a possible attack.",1.2380952380952381,0.06284876358057999,11,1385,63,530
-50,2,"First, Damocles says he forgot and left something here…",1.2380952380952381,0.06284876358057999,11,1385,63,530
-51,3,We're starting a lottery for when the sword will fall.,1.2380952380952381,0.06679820247360645,9,1385,63,530
-51,3,"Milk, bread, eggs, that good rope you saw on TV, orange juice...",1.2380952380952381,0.06679820247360645,9,1385,63,530
-51,3,"It says: ""Happy Birthday from Mr. Damocles""",1.2380952380952381,0.06679820247360645,9,1385,63,530
-51,3,"By my calculation, in about 10 minutes.",1.2380952380952381,0.06679820247360645,9,1385,63,530
-48,0,Your Majesty has been charged with abuse of power. I think we can cut you a fair deal.,1.2380952380952381,0.05409160326162522,15,1385,63,530
-48,0,"Yes, yes tell Damocles I got his housewarming gift.",1.2380952380952381,0.05409160326162522,15,1385,63,530
-50,2,"Do you still have 'half-a-mind' to resign, your Majesty?",1.2380952380952381,0.06284876358057999,11,1385,63,530
-52,4,"Sire, an urgent message from Damocles....",1.2380952380952381,0.07052682201689092,7,1385,63,530
-50,2,Sire has more pressing concerns hanging over his head!,1.2380952380952381,0.06284876358057999,11,1385,63,530
-52,4,Damocles called wanted to know if you've seen his sword.,1.2380952380952381,0.07052682201689092,7,1385,63,530
-51,3,It's from Damocles. He humbly declines your offer.,1.2380952380952381,0.06679820247360645,9,1385,63,530
-52,4,Your support contract expires soon.,1.2380952380952381,0.07052682201689092,7,1385,63,530
-52,4,Let's look at the bright side; at least you aren't king of the NRA,1.2380952380952381,0.07052682201689092,7,1385,63,530
-50,2,"Bad news, the rope can not be repaired, and the Feng Shui master insists that the throne must not be moved.",1.2380952380952381,0.06284876358057999,11,1385,63,530
-49,1,Hear Yee ! Hear Yee! Let it now be known .. Mack the Knife is Back In Town !,1.2380952380952381,0.0586339007188704,13,1385,63,530
-52,4,"No noose is good noose? I'm a frayed knot? Sorry, Sire, I have nothing!",1.2380952380952381,0.07052682201689092,7,1385,63,530
-50,2,It appears your enemies have sent a gift of peace.,1.2380952380952381,0.06284876358057999,11,1385,63,530
-52,4,Your tweet shall read 'I have the biggest sword of Damocles. Everyone says it's huuuge'.,1.2380952380952381,0.07052682201689092,7,1385,63,530
-50,2,"Shall we continue to increase military spending, Sir?",1.2380952380952381,0.06284876358057999,11,1385,63,530
-51,3,"Damocles, I come bearing a message from Dionysius, ""Have you tried selling the sword on eBay?""",1.2380952380952381,0.06679820247360645,9,1385,63,530
-52,4,It's another blackmail note from Damocles sire.,1.2380952380952381,0.07052682201689092,7,1385,63,530
-49,1,"Your Highness, the people fear you're compensating for something...",1.2380952380952381,0.0586339007188704,13,1385,63,530
-52,4,"According to the latest polling, 3% think it's the beard, 4% think it's the queen, and 90% think it's the giant dagger.",1.2380952380952381,0.07052682201689092,7,1385,63,530
+51,3,"Upon further consideration, the Prince has submitted his resignation.",1.238095238095238,0.06679820247360645,9,1385,63,530
+53,5,The contract doesn't specify metaphorical.,1.238095238095238,0.07406797819503037,5,1385,63,530
+49,1,"Your Majesty, there are rumors Sir Lancelot disapproves of the ""Make Camelot great again"" policy",1.238095238095238,0.0586339007188704,13,1385,63,530
+51,3,"Sire, we've just gotten a huge bill from the decorator.",1.238095238095238,0.06679820247360645,9,1385,63,530
+51,3,Damocles sends his regards and hopes you're enjoying the Sword,1.238095238095238,0.06679820247360645,9,1385,63,530
+51,3,It was installed by one of your faithful servants... Let's see... Here it is: Damocles.,1.238095238095238,0.06679820247360645,9,1385,63,530
+49,1,The finding of the royal psychoanalyst is that you have a slight inferiority complex.,1.238095238095238,0.0586339007188704,13,1385,63,530
+51,3,"If I may add my own commentary, sire: No pressure.",1.238095238095238,0.06679820247360645,9,1385,63,530
+49,1,"Sire, the Council is recommending that the throne's location be changed.",1.238095238095238,0.0586339007188704,13,1385,63,530
+50,2,"Sire, your crackerjack security guards have received credible information regarding a possible attack.",1.238095238095238,0.06284876358057999,11,1385,63,530
+50,2,"First, Damocles says he forgot and left something here…",1.238095238095238,0.06284876358057999,11,1385,63,530
+51,3,We're starting a lottery for when the sword will fall.,1.238095238095238,0.06679820247360645,9,1385,63,530
+51,3,"Milk, bread, eggs, that good rope you saw on TV, orange juice...",1.238095238095238,0.06679820247360645,9,1385,63,530
+51,3,"It says: ""Happy Birthday from Mr. Damocles""",1.238095238095238,0.06679820247360645,9,1385,63,530
+51,3,"By my calculation, in about 10 minutes.",1.238095238095238,0.06679820247360645,9,1385,63,530
+48,0,Your Majesty has been charged with abuse of power. I think we can cut you a fair deal.,1.238095238095238,0.05409160326162522,15,1385,63,530
+48,0,"Yes, yes tell Damocles I got his housewarming gift.",1.238095238095238,0.05409160326162522,15,1385,63,530
+50,2,"Do you still have 'half-a-mind' to resign, your Majesty?",1.238095238095238,0.06284876358057999,11,1385,63,530
+52,4,"Sire, an urgent message from Damocles....",1.238095238095238,0.07052682201689092,7,1385,63,530
+50,2,Sire has more pressing concerns hanging over his head!,1.238095238095238,0.06284876358057999,11,1385,63,530
+52,4,Damocles called wanted to know if you've seen his sword.,1.238095238095238,0.07052682201689092,7,1385,63,530
+51,3,It's from Damocles. He humbly declines your offer.,1.238095238095238,0.06679820247360645,9,1385,63,530
+52,4,Your support contract expires soon.,1.238095238095238,0.07052682201689092,7,1385,63,530
+52,4,Let's look at the bright side; at least you aren't king of the NRA,1.238095238095238,0.07052682201689092,7,1385,63,530
+50,2,"Bad news, the rope can not be repaired, and the Feng Shui master insists that the throne must not be moved.",1.238095238095238,0.06284876358057999,11,1385,63,530
+49,1,Hear Yee ! Hear Yee! Let it now be known .. Mack the Knife is Back In Town !,1.238095238095238,0.0586339007188704,13,1385,63,530
+52,4,"No noose is good noose? I'm a frayed knot? Sorry, Sire, I have nothing!",1.238095238095238,0.07052682201689092,7,1385,63,530
+50,2,It appears your enemies have sent a gift of peace.,1.238095238095238,0.06284876358057999,11,1385,63,530
+52,4,Your tweet shall read 'I have the biggest sword of Damocles. Everyone says it's huuuge'.,1.238095238095238,0.07052682201689092,7,1385,63,530
+50,2,"Shall we continue to increase military spending, Sir?",1.238095238095238,0.06284876358057999,11,1385,63,530
+51,3,"Damocles, I come bearing a message from Dionysius, ""Have you tried selling the sword on eBay?""",1.238095238095238,0.06679820247360645,9,1385,63,530
+52,4,It's another blackmail note from Damocles sire.,1.238095238095238,0.07052682201689092,7,1385,63,530
+49,1,"Your Highness, the people fear you're compensating for something...",1.238095238095238,0.0586339007188704,13,1385,63,530
+52,4,"According to the latest polling, 3% think it's the beard, 4% think it's the queen, and 90% think it's the giant dagger.",1.238095238095238,0.07052682201689092,7,1385,63,530
 48,3,"And what should we serve for dessert, at the funeral?",1.2372881355932204,0.06981223481771649,8,1419,59,530
 45,0,He says that he has something mightier than your sword and it is not his pen.,1.2372881355932204,0.055860428949412025,14,1419,59,530
 47,2,It's from the queen. She seems to have found out about what you were doing last weekend with her ladies-in-waiting and is very unhappy.,1.2372881355932204,0.06549270642063965,10,1419,59,530
@@ -2035,7 +2035,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 48,1,"Sire, in answer to your ‘who died and made you Pope?’ rejoinder, the Pope responds ‘Raise thy royal carcass from that throne and meet me at the cathedral.’",1.1754385964912282,0.056654910052417636,8,2028,57,530
 49,2,"King Leopold writes to say that he selects ""truth"" this round.",1.1754385964912282,0.061938237374723815,6,2028,57,530
 48,1,Just give me the gist!,1.1754385964912282,0.056654910052417636,8,2028,57,530
-47,0,"Sire, we might want to think about re-writing the second act.",1.1754385964912282,0.050825312758579586,10,2028,57,530
+47,0,"Sire, we might want to think about re-writing the second act.",1.1754385964912282,0.05082531275857959,10,2028,57,530
 48,1,Make Camelot Safe Again.,1.1754385964912282,0.056654910052417636,8,2028,57,530
 48,1,Damocles sends his regrets that he can't be here to help try out the new model.,1.1754385964912282,0.056654910052417636,8,2028,57,530
 48,1,"Continuing on Your Majesty, Chapter 2 of your King Dagger owners manual...",1.1754385964912282,0.056654910052417636,8,2028,57,530
@@ -2405,19 +2405,19 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 48,1,We retained the drama. The tungsten still looks like a hair.,1.1454545454545455,0.05454545454545457,6,2382,55,530
 49,2,"The decree now reads, 'Henceforth, all subjects shall become Jewish.' Last chance, are you absolutely sure?",1.1454545454545455,0.06040370257667094,4,2382,55,530
 48,1,"That's all Your Highness, let's plan next month if we get there.",1.1454545454545455,0.05454545454545457,6,2382,55,530
-42,0,"King Leo writes to say, ""Mine is bigger than yours.""",1.1428571428571428,0.050507627227610534,7,2407,49,530
+42,0,"King Leo writes to say, ""Mine is bigger than yours.""",1.1428571428571428,0.05050762722761053,7,2407,49,530
 43,1,Did you want to reschedule your meeting with Damocles for earlier?,1.1428571428571428,0.05832118435198042,5,2407,49,530
 44,2,"FYI that is not a dagger you see before you. Warmest wishes, Macbeth.",1.1428571428571428,0.06520506636966264,3,2407,49,530
-42,0,The one-year limited warranty excludes using it as a guillotine.,1.1428571428571428,0.050507627227610534,7,2407,49,530
+42,0,The one-year limited warranty excludes using it as a guillotine.,1.1428571428571428,0.05050762722761053,7,2407,49,530
 43,1,"... and for dessert tonight, we have a gigantic chocolate layer cake.",1.1428571428571428,0.05832118435198042,5,2407,49,530
 43,1,Your present from Damocles should arrive today.,1.1428571428571428,0.05832118435198042,5,2407,49,530
-42,0,"It says his name is Damocles, sire, and he brings news from Greece.",1.1428571428571428,0.050507627227610534,7,2407,49,530
-42,0,A stitch in time saves Thine.,1.1428571428571428,0.050507627227610534,7,2407,49,530
-42,0,"The big sword IS cool, your majesty; however, we think a big pen would play much better, especially among the revolting peasents.",1.1428571428571428,0.050507627227610534,7,2407,49,530
+42,0,"It says his name is Damocles, sire, and he brings news from Greece.",1.1428571428571428,0.05050762722761053,7,2407,49,530
+42,0,A stitch in time saves Thine.,1.1428571428571428,0.05050762722761053,7,2407,49,530
+42,0,"The big sword IS cool, your majesty; however, we think a big pen would play much better, especially among the revolting peasents.",1.1428571428571428,0.05050762722761053,7,2407,49,530
 44,2,Here is your official decree endorsing Donald Trump.,1.1428571428571428,0.06520506636966264,3,2407,49,530
 43,1,And further proclaim that the boys' choir as enough altos.,1.1428571428571428,0.05832118435198042,5,2407,49,530
 50,2,It says here that the Sword of Damocles is an old wives tale and myth.,1.1428571428571428,0.05937210104240241,4,2407,56,530
-42,0,"Sire, Damocles is next.",1.1428571428571428,0.050507627227610534,7,2407,49,530
+42,0,"Sire, Damocles is next.",1.1428571428571428,0.05050762722761053,7,2407,49,530
 43,1,Damocles demands your daughter's hand.,1.1428571428571428,0.05832118435198042,5,2407,49,530
 43,1,"Henceforth, the King shall rule at the mercy of that rope up there...that appears to be fraying.",1.1428571428571428,0.05832118435198042,5,2407,49,530
 50,2,"Sire, Your reign is over.",1.1428571428571428,0.05937210104240241,4,2407,56,530
@@ -2590,9 +2590,9 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 41,1,Sword of Trump!,1.1304347826086956,0.059047967499893814,4,2586,46,530
 41,1,"and Parliament has again rejected your request for some rope,",1.1304347826086956,0.059047967499893814,4,2586,46,530
 42,2,"He says ""The bigger the sword, the smaller the wienie""......",1.1304347826086956,0.06672964888823965,2,2586,46,530
-49,2,"You have been accused of ""living in the moment"".",1.1296296296296295,0.059383604691421,3,2592,54,530
+49,2,"You have been accused of ""living in the moment"".",1.1296296296296295,0.059383604691420996,3,2592,54,530
 48,1,It clearly states 'Don't shoot the messenger.' Stabbing is clearly a loophole.,1.1296296296296295,0.05317518675642072,5,2592,54,530
-49,2,No more money for armaments that can't be used.,1.1296296296296295,0.059383604691421,3,2592,54,530
+49,2,No more money for armaments that can't be used.,1.1296296296296295,0.059383604691420996,3,2592,54,530
 48,1,"Here's a good one, Sire - 'Dear King Damocles...'",1.1296296296296295,0.05317518675642072,5,2592,54,530
 48,1,But Sire.. it says right here: 'One Giant Slayer'.,1.1296296296296295,0.05317518675642072,5,2592,54,530
 47,0,I see you've gotten my point.,1.1296296296296295,0.04613879568230499,7,2592,54,530
@@ -2660,47 +2660,47 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 45,1,Your majesty this letter from the queen clearly states that the big sword is missing,1.12,0.054510811509539764,4,2659,50,530
 45,1,The renovation is nearly complete Damocles.,1.12,0.054510811509539764,4,2659,50,530
 45,1,"You don't look any different, my king. Perhaps it means something different in America.",1.12,0.054510811509539764,4,2659,50,530
-44,0,The royal compensator.,1.12,0.046423076597919784,6,2659,50,530
-44,0,It has a warranty that runs out in the first week of November.,1.12,0.046423076597919784,6,2659,50,530
+44,0,The royal compensator.,1.12,0.04642307659791978,6,2659,50,530
+44,0,It has a warranty that runs out in the first week of November.,1.12,0.04642307659791978,6,2659,50,530
 45,1,Hear me out my King. I'm only going to say this one time!,1.12,0.054510811509539764,4,2659,50,530
-44,0,"""The sword the body wounds, sharp words the mind."" -- Menander",1.12,0.046423076597919784,6,2659,50,530
-44,0,Hear ye! Hear ye! Bidding is up to $2 million for this piece of junk.,1.12,0.046423076597919784,6,2659,50,530
+44,0,"""The sword the body wounds, sharp words the mind."" -- Menander",1.12,0.04642307659791978,6,2659,50,530
+44,0,Hear ye! Hear ye! Bidding is up to $2 million for this piece of junk.,1.12,0.04642307659791978,6,2659,50,530
 45,1,I saw an infomercial on TV and just had to have it!,1.12,0.054510811509539764,4,2659,50,530
 46,2,"Intelligence from the colonies, Sire. No, nothing here on independence...",1.12,0.061544740652965765,2,2659,50,530
 45,1,"The Tax Collector says you're NOT exempt, Sire.",1.12,0.054510811509539764,4,2659,50,530
 45,1,"Still no reports of the royal sword ""making up for something.""",1.12,0.054510811509539764,4,2659,50,530
-44,0,"Your majesty, the King of Clubs has requested your presence with 3 Queens.",1.12,0.046423076597919784,6,2659,50,530
-44,0,They say it's payback for the dinner prank yesterday.,1.12,0.046423076597919784,6,2659,50,530
-44,0,"According to this week's Gallop, the clear choice of the people is Off with His Head.",1.12,0.046423076597919784,6,2659,50,530
-44,0,"and in conclusion, we art quite pleased yond thee couldst s'rve as temp'rary monarch f'r our humble  kingdom h're.",1.12,0.046423076597919784,6,2659,50,530
+44,0,"Your majesty, the King of Clubs has requested your presence with 3 Queens.",1.12,0.04642307659791978,6,2659,50,530
+44,0,They say it's payback for the dinner prank yesterday.,1.12,0.04642307659791978,6,2659,50,530
+44,0,"According to this week's Gallop, the clear choice of the people is Off with His Head.",1.12,0.04642307659791978,6,2659,50,530
+44,0,"and in conclusion, we art quite pleased yond thee couldst s'rve as temp'rary monarch f'r our humble  kingdom h're.",1.12,0.04642307659791978,6,2659,50,530
 45,1,"A Lord Roosevelt has filed a copyright infringement action against you, something about speaking softly but carrying a big stick.",1.12,0.054510811509539764,4,2659,50,530
 45,1,"You know what they say, big hands, big....",1.12,0.054510811509539764,4,2659,50,530
-44,0,Mightier than the sword.,1.12,0.046423076597919784,6,2659,50,530
-44,0,"Here ye, hear ye, Ye Big Cheese is about to be cut . . . er . . . dubbed .",1.12,0.046423076597919784,6,2659,50,530
+44,0,Mightier than the sword.,1.12,0.04642307659791978,6,2659,50,530
+44,0,"Here ye, hear ye, Ye Big Cheese is about to be cut . . . er . . . dubbed .",1.12,0.04642307659791978,6,2659,50,530
 45,1,"Undoubtedly, there is some meaningful, philosophical point being made here, but I'm afraid it's all Greek to me.",1.12,0.054510811509539764,4,2659,50,530
-44,0,"January 20th, Sire.",1.12,0.046423076597919784,6,2659,50,530
+44,0,"January 20th, Sire.",1.12,0.04642307659791978,6,2659,50,530
 45,1,"In exchange for running for Vice President, Mr. Trump promises HUGE rewards. Simply fabulous benefits. Really, really good stuff.",1.12,0.054510811509539764,4,2659,50,530
 46,2,"Sire, your doubling of taxes has led your subjects to believe there's been a doubling of kings.",1.12,0.061544740652965765,2,2659,50,530
-44,0,"Ummmm, yeah, it's another beautiful day in the neighborhood.",1.12,0.046423076597919784,6,2659,50,530
+44,0,"Ummmm, yeah, it's another beautiful day in the neighborhood.",1.12,0.04642307659791978,6,2659,50,530
 45,1,"OK, I'll read that back you... 'The word compensate shall be stricken from the kingdom'",1.12,0.054510811509539764,4,2659,50,530
-44,0,The results are; The sword is properly placed.,1.12,0.046423076597919784,6,2659,50,530
+44,0,The results are; The sword is properly placed.,1.12,0.04642307659791978,6,2659,50,530
 45,1,Your Majesty I have bad news about this years projected budget deficit.,1.12,0.054510811509539764,4,2659,50,530
 46,2,This is way better than the sword of Damocles!,1.12,0.061544740652965765,2,2659,50,530
 45,1,There's some focus group rumbling over the militarization of the royalty.,1.12,0.054510811509539764,4,2659,50,530
-44,0,King Abramovic. The museum requests that you end your charade of peril.,1.12,0.046423076597919784,6,2659,50,530
+44,0,King Abramovic. The museum requests that you end your charade of peril.,1.12,0.04642307659791978,6,2659,50,530
 46,2,Priority Mail from Dionysius!,1.12,0.061544740652965765,2,2659,50,530
-44,0,"...and finally, if you need to go to the bathroom, you need to take the sword with you.",1.12,0.046423076597919784,6,2659,50,530
+44,0,"...and finally, if you need to go to the bathroom, you need to take the sword with you.",1.12,0.04642307659791978,6,2659,50,530
 46,2,I take that as disapproval of the proposed sliding pay scale.,1.12,0.061544740652965765,2,2659,50,530
 45,1,"Don't worry, it falls on 99% of the people",1.12,0.054510811509539764,4,2659,50,530
-44,0,"Of your own volition, you sought the office; the Sword of Damocles is held at your voters' discretion.",1.12,0.046423076597919784,6,2659,50,530
+44,0,"Of your own volition, you sought the office; the Sword of Damocles is held at your voters' discretion.",1.12,0.04642307659791978,6,2659,50,530
 46,2,"Curious how today's petitions were all submitted in writing, Your Highness.",1.12,0.061544740652965765,2,2659,50,530
-44,0,"A list of demands from the anarcho-syndicalists, your majesty",1.12,0.046423076597919784,6,2659,50,530
-44,0,I think this one's a no-brainer: Damocles wants his sword back.,1.12,0.046423076597919784,6,2659,50,530
-44,0,"I don't see a point, here.",1.12,0.046423076597919784,6,2659,50,530
+44,0,"A list of demands from the anarcho-syndicalists, your majesty",1.12,0.04642307659791978,6,2659,50,530
+44,0,I think this one's a no-brainer: Damocles wants his sword back.,1.12,0.04642307659791978,6,2659,50,530
+44,0,"I don't see a point, here.",1.12,0.04642307659791978,6,2659,50,530
 45,1,It was an original idea by Melania Trump.,1.12,0.054510811509539764,4,2659,50,530
 45,1,"I still think that the ""fluffy kitten of Damocles"" will play better with the electorate.",1.12,0.054510811509539764,4,2659,50,530
-44,0,Do you feel a draft?,1.12,0.046423076597919784,6,2659,50,530
-44,0,"Your Highness, may we start with the adjustments you have eluded to in your will ?",1.12,0.046423076597919784,6,2659,50,530
+44,0,Do you feel a draft?,1.12,0.04642307659791978,6,2659,50,530
+44,0,"Your Highness, may we start with the adjustments you have eluded to in your will ?",1.12,0.04642307659791978,6,2659,50,530
 45,0,"We, "" The People"" get the point. We find this type of symbolism redundant.",1.1176470588235294,0.04556450995538139,6,2703,51,530
 46,1,"Sir, we cannot seem to locate Damocles anywhere in the kingdom.",1.1176470588235294,0.05348306547837592,4,2703,51,530
 45,0,"""...and as bestowed by Emperor Ginsu"".",1.1176470588235294,0.04556450995538139,6,2703,51,530
@@ -2826,27 +2826,27 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 42,0,"However, should the council decide to severe ties to the monarchy ...",1.1063829787234043,0.04546036031565445,5,2818,47,530
 43,1,"Henry Tudor pronounced you guilty of treason, but the weight of the sword will make the final decision!",1.1063829787234043,0.05469656058869374,3,2818,47,530
 43,1,Medical Times regrets to inform you that the guests did stay for the piñata.,1.1063829787234043,0.05469656058869374,3,2818,47,530
-44,1,....being the principal reason that most of your subjects resist coming before you to pledge their allegiance.,1.1041666666666667,0.053590773834580184,3,2828,48,530
+44,1,....being the principal reason that most of your subjects resist coming before you to pledge their allegiance.,1.1041666666666667,0.05359077383458018,3,2828,48,530
 43,0,"Damocles, Sir! You can Thank Cicero",1.1041666666666667,0.04455834621587845,5,2828,48,530
 43,0,"And lastly king Dionysius, Damocles sends his regrets",1.1041666666666667,0.04455834621587845,5,2828,48,530
-44,1,"So you said, ""I will build a great wall."" Bad idea.",1.1041666666666667,0.053590773834580184,3,2828,48,530
-44,1,"By royal proclamation, throne rooms shall be made safe again",1.1041666666666667,0.053590773834580184,3,2828,48,530
+44,1,"So you said, ""I will build a great wall."" Bad idea.",1.1041666666666667,0.05359077383458018,3,2828,48,530
+44,1,"By royal proclamation, throne rooms shall be made safe again",1.1041666666666667,0.05359077383458018,3,2828,48,530
 43,0,You mean there's more to the expression,1.1041666666666667,0.04455834621587845,5,2828,48,530
 43,0,"Damocles, you can thank Cicero for the allegorical gift.",1.1041666666666667,0.04455834621587845,5,2828,48,530
-44,1,"THE SURGEONS ARE READY FOR YOUR SURGERY, SIRE.",1.1041666666666667,0.053590773834580184,3,2828,48,530
+44,1,"THE SURGEONS ARE READY FOR YOUR SURGERY, SIRE.",1.1041666666666667,0.05359077383458018,3,2828,48,530
 43,0,"O Mighty King, a belated message from thou Secret Service...",1.1041666666666667,0.04455834621587845,5,2828,48,530
-44,1,Is the spelling of your name P-E-N-C-E?,1.1041666666666667,0.053590773834580184,3,2828,48,530
-44,1,"...And thus my lord, I have spake my first filibuster.",1.1041666666666667,0.053590773834580184,3,2828,48,530
+44,1,Is the spelling of your name P-E-N-C-E?,1.1041666666666667,0.05359077383458018,3,2828,48,530
+44,1,"...And thus my lord, I have spake my first filibuster.",1.1041666666666667,0.05359077383458018,3,2828,48,530
 43,0,"It says, 'A dagger for your thoughts, Sire?'...and if I might be allowed to refresh his Majesty's recollection, Sire, I am but the messenger.",1.1041666666666667,0.04455834621587845,5,2828,48,530
 43,0,Doctor Damocles called--he said your valium prescription has expired.,1.1041666666666667,0.04455834621587845,5,2828,48,530
 43,0,"So saith he: 'I shall assume the throne and build a wall. And it shall be truly, truly awesome.'",1.1041666666666667,0.04455834621587845,5,2828,48,530
 43,0,Dionysius says hi.,1.1041666666666667,0.04455834621587845,5,2828,48,530
 45,2,"Your Majesty, it appears thou art on Mrs. Clinton's hit list. Thou may want to switcheth allegiance.",1.1041666666666667,0.06130657275434796,1,2828,48,530
-44,1,...one more thing your Highness. Your moon is in Scorpio today and that is generally considered to be an icky thing.,1.1041666666666667,0.053590773834580184,3,2828,48,530
+44,1,...one more thing your Highness. Your moon is in Scorpio today and that is generally considered to be an icky thing.,1.1041666666666667,0.05359077383458018,3,2828,48,530
 45,2,The Congressional Democlese will block your budget request for sword suspension improvements unless you abandon your line item request for tax cuts for the top one-percent.,1.1041666666666667,0.06130657275434796,1,2828,48,530
-44,1,"Your reign is up, Highness. Lord Trump has staged a coup.",1.1041666666666667,0.053590773834580184,3,2828,48,530
-44,1,This letter says you need to pay Damocles now or else he'll release it from the suspense account.,1.1041666666666667,0.053590773834580184,3,2828,48,530
-44,1,"Sire,we the people are tired of your histrionics.",1.1041666666666667,0.053590773834580184,3,2828,48,530
+44,1,"Your reign is up, Highness. Lord Trump has staged a coup.",1.1041666666666667,0.05359077383458018,3,2828,48,530
+44,1,This letter says you need to pay Damocles now or else he'll release it from the suspense account.,1.1041666666666667,0.05359077383458018,3,2828,48,530
+44,1,"Sire,we the people are tired of your histrionics.",1.1041666666666667,0.05359077383458018,3,2828,48,530
 35,0,"Sooner or later, lover or hater.",1.1025641025641026,0.04921614717627658,4,2849,39,530
 44,0,All you soothsayers are all alike-is there one in this kingdom that doesn't predict upcoming doom or calamity?,1.1020408163265305,0.0436912672743712,5,2850,49,530
 44,0,"It's a pain now, but I promise you'll be an immortalized as an overused cliche in no time flat.",1.1020408163265305,0.0436912672743712,5,2850,49,530
@@ -2953,16 +2953,16 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 41,1,You're positive that this Damocles guy was a protégé of Warhol's?,1.0909090909090908,0.054580679253385125,2,2948,44,530
 40,0,I'll take the throne so move out. No one knows horse hair like I do,1.0909090909090908,0.04384025656094653,4,2948,44,530
 40,0,"Damocles ends by saying ""rule by your conscience.""",1.0909090909090908,0.04384025656094653,4,2948,44,530
-41,0,A message for Sir O. Verr Kompensate...,1.0888888888888888,0.042902546629485463,4,2955,45,530
-41,0,"And after dinner father, Mariah Carey will be here to perform her rendition of ""Lovin' You""",1.0888888888888888,0.042902546629485463,4,2955,45,530
-41,0,"The queen say; ""For this is the last thing you shall ever hold over you""",1.0888888888888888,0.042902546629485463,4,2955,45,530
+41,0,A message for Sir O. Verr Kompensate...,1.0888888888888888,0.04290254662948546,4,2955,45,530
+41,0,"And after dinner father, Mariah Carey will be here to perform her rendition of ""Lovin' You""",1.0888888888888888,0.04290254662948546,4,2955,45,530
+41,0,"The queen say; ""For this is the last thing you shall ever hold over you""",1.0888888888888888,0.04290254662948546,4,2955,45,530
 42,1,"Have you considered augmentation of your Highness' income by placing an advertising slogan on Excalibur, your grace?",1.0888888888888888,0.05339222337940409,2,2955,45,530
 42,1,Zorro sends his regrets.,1.0888888888888888,0.05339222337940409,2,2955,45,530
-41,0,"O.K, Fool! Get to the point.",1.0888888888888888,0.042902546629485463,4,2955,45,530
+41,0,"O.K, Fool! Get to the point.",1.0888888888888888,0.04290254662948546,4,2955,45,530
 42,1,This official scroll announces that Damocles is now a giant Benihana steak chef.,1.0888888888888888,0.05339222337940409,2,2955,45,530
 42,1,PS: It seems you have a rather loose handle on the throne.,1.0888888888888888,0.05339222337940409,2,2955,45,530
 42,1,"Oh yep, you did originally say ""Giant Knight.""",1.0888888888888888,0.05339222337940409,2,2955,45,530
-41,0,And lastly king Sanders the Dorne nominating committee says the rope is fine.,1.0888888888888888,0.042902546629485463,4,2955,45,530
+41,0,And lastly king Sanders the Dorne nominating committee says the rope is fine.,1.0888888888888888,0.04290254662948546,4,2955,45,530
 43,1,It was the best of times. It was the worst of times...,1.0869565217391304,0.0522543663110723,2,2965,46,530
 42,0,"Sire, it indicates that support system is 10 years out of warranty.",1.0869565217391304,0.04200399056866503,4,2965,46,530
 42,0,lol u have gotta be kidding me rn w/ this,1.0869565217391304,0.04200399056866503,4,2965,46,530
@@ -3072,7 +3072,6 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 46,1,This is not the knife your family wished you to go under!!,1.0816326530612246,0.049114044483651885,2,3045,49,530
 45,0,Let the pokeman games begin!!!!,1.0816326530612246,0.03952023822660631,4,3045,49,530
 45,0,"And so the script goes, ""and this can be yours, if the price is right.""",1.0816326530612246,0.03952023822660631,4,3045,49,530
-45,0,,1.0816326530612246,0.03952023822660631,4,3045,49,530
 46,1,Dear King Damaclease...,1.0816326530612246,0.049114044483651885,2,3045,49,530
 45,0,The majesty should not pay any attention to objects hanging from the palace ceiling.,1.0816326530612246,0.03952023822660631,4,3045,49,530
 45,0,The royal taster would like to trade jobs for a day.,1.0816326530612246,0.03952023822660631,4,3045,49,530
@@ -3174,44 +3173,44 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 44,0,Earl of Onion is here for the slicing !,1.0638297872340423,0.036042108674890216,3,3144,47,530
 45,1,"Just to confirm, you want them to pay for the wall AND the moat?",1.0638297872340423,0.0471603962868858,1,3144,47,530
 44,0,"You can now afford to remain utterly silent, sir.",1.0638297872340423,0.036042108674890216,3,3144,47,530
-45,0,Damocles had the Republican Convention in mind.,1.0625,0.035308292679127,3,3176,48,530
-45,0,"As heir apparent, I thought it best to use a teleprompter.",1.0625,0.035308292679127,3,3176,48,530
-45,0,"Yes, it is a knife you see above your face",1.0625,0.035308292679127,3,3176,48,530
-45,0,"New King and Crown of the Realm, I have an important dispatch from Cicero.",1.0625,0.035308292679127,3,3176,48,530
-45,0,"...and, therefore, as President of the Foundation for the Preservation of Future Elections, we are reluctant to bury this double-edged sword in our current time capsule. Please try again next year. Thank you.",1.0625,0.035308292679127,3,3176,48,530
-45,0,"Sire, Lord Wolf sends Breaking News; standby.",1.0625,0.035308292679127,3,3176,48,530
-45,0,"Your highness, the committee on responsible kingdom management is asking you cut 15 % from the fiscal 1520 budget ... NOW.",1.0625,0.035308292679127,3,3176,48,530
+45,0,Damocles had the Republican Convention in mind.,1.0625,0.035308292679126996,3,3176,48,530
+45,0,"As heir apparent, I thought it best to use a teleprompter.",1.0625,0.035308292679126996,3,3176,48,530
+45,0,"Yes, it is a knife you see above your face",1.0625,0.035308292679126996,3,3176,48,530
+45,0,"New King and Crown of the Realm, I have an important dispatch from Cicero.",1.0625,0.035308292679126996,3,3176,48,530
+45,0,"...and, therefore, as President of the Foundation for the Preservation of Future Elections, we are reluctant to bury this double-edged sword in our current time capsule. Please try again next year. Thank you.",1.0625,0.035308292679126996,3,3176,48,530
+45,0,"Sire, Lord Wolf sends Breaking News; standby.",1.0625,0.035308292679126996,3,3176,48,530
+45,0,"Your highness, the committee on responsible kingdom management is asking you cut 15 % from the fiscal 1520 budget ... NOW.",1.0625,0.035308292679126996,3,3176,48,530
 46,1,"M'lord, it appears father John has ""Papa Sized"" your cutting utinsil rather than your order of 37 pies.",1.0625,0.04618658197582853,1,3176,48,530
-45,0,"It states, my Lord: ""Arthur, I AM your Father!""",1.0625,0.035308292679127,3,3176,48,530
-45,0,OUR ENGINEERING STUDY SHOWS WE WILL GET A NET 150 PLOW SHARES AFTER CONVERSION,1.0625,0.035308292679127,3,3176,48,530
+45,0,"It states, my Lord: ""Arthur, I AM your Father!""",1.0625,0.035308292679126996,3,3176,48,530
+45,0,OUR ENGINEERING STUDY SHOWS WE WILL GET A NET 150 PLOW SHARES AFTER CONVERSION,1.0625,0.035308292679126996,3,3176,48,530
 46,1,"Make sure that surfboard and table don't come unglued!!!!!! or I will be screaming ""CUT""",1.0625,0.04618658197582853,1,3176,48,530
-45,0,"And it ends, 'thank you in advance for return of my sword, best regards, Damocles.'",1.0625,0.035308292679127,3,3176,48,530
-45,0,"It seems your friends have declined your dinner invitation, King Brute.",1.0625,0.035308292679127,3,3176,48,530
-45,0,". . . and they want time-and-half on weekends, too.",1.0625,0.035308292679127,3,3176,48,530
-45,0,check with the kitchen & see if they are missing any steak knives,1.0625,0.035308292679127,3,3176,48,530
-45,0,"Your Majesty, Damocles seeks your counsel on catching swords.",1.0625,0.035308292679127,3,3176,48,530
-45,0,Damn! Ol' Swordocles really wants to teach you a lesson.,1.0625,0.035308292679127,3,3176,48,530
-45,0,"The court regrets to inform you that given your unhealthy obsession, your application to change your name to King Julius has been denied.",1.0625,0.035308292679127,3,3176,48,530
-45,0,The guys that did the popemobile can have a throne-on-wheels here by Wednesday.,1.0625,0.035308292679127,3,3176,48,530
-45,0,"And Emperor Donocles Trump doth decree, 'Make America Greek Again.'",1.0625,0.035308292679127,3,3176,48,530
-45,0,"M'lord, thy will be done?",1.0625,0.035308292679127,3,3176,48,530
+45,0,"And it ends, 'thank you in advance for return of my sword, best regards, Damocles.'",1.0625,0.035308292679126996,3,3176,48,530
+45,0,"It seems your friends have declined your dinner invitation, King Brute.",1.0625,0.035308292679126996,3,3176,48,530
+45,0,". . . and they want time-and-half on weekends, too.",1.0625,0.035308292679126996,3,3176,48,530
+45,0,check with the kitchen & see if they are missing any steak knives,1.0625,0.035308292679126996,3,3176,48,530
+45,0,"Your Majesty, Damocles seeks your counsel on catching swords.",1.0625,0.035308292679126996,3,3176,48,530
+45,0,Damn! Ol' Swordocles really wants to teach you a lesson.,1.0625,0.035308292679126996,3,3176,48,530
+45,0,"The court regrets to inform you that given your unhealthy obsession, your application to change your name to King Julius has been denied.",1.0625,0.035308292679126996,3,3176,48,530
+45,0,The guys that did the popemobile can have a throne-on-wheels here by Wednesday.,1.0625,0.035308292679126996,3,3176,48,530
+45,0,"And Emperor Donocles Trump doth decree, 'Make America Greek Again.'",1.0625,0.035308292679126996,3,3176,48,530
+45,0,"M'lord, thy will be done?",1.0625,0.035308292679126996,3,3176,48,530
 46,1,"...And here today, we commiserate King OvaCompensate",1.0625,0.04618658197582853,1,3176,48,530
-45,0,"Sire, the court is concerned about this new form of hangman.",1.0625,0.035308292679127,3,3176,48,530
+45,0,"Sire, the court is concerned about this new form of hangman.",1.0625,0.035308292679126996,3,3176,48,530
 46,1,Don't just stand there. Throw me that rope!,1.0625,0.04618658197582853,1,3176,48,530
-45,0,"""Hear ye hear ye...Camelot Insurance company claims",1.0625,0.035308292679127,3,3176,48,530
-45,0,Life under the sword of Damocles,1.0625,0.035308292679127,3,3176,48,530
-45,0,The knight accusing you of having an inferiority complex has just been captured.,1.0625,0.035308292679127,3,3176,48,530
-45,0,.... And finally this: the royal weather minister is calling for a heavy cloud cover today.,1.0625,0.035308292679127,3,3176,48,530
+45,0,"""Hear ye hear ye...Camelot Insurance company claims",1.0625,0.035308292679126996,3,3176,48,530
+45,0,Life under the sword of Damocles,1.0625,0.035308292679126996,3,3176,48,530
+45,0,The knight accusing you of having an inferiority complex has just been captured.,1.0625,0.035308292679126996,3,3176,48,530
+45,0,.... And finally this: the royal weather minister is calling for a heavy cloud cover today.,1.0625,0.035308292679126996,3,3176,48,530
 46,0,It's a letter from Damoclese. He says you're too old for his sword and he wants it back.,1.0612244897959184,0.03460372440370034,3,3204,49,530
 47,1,"It sayeth: ""Your lordship no longer pleases"".",1.0612244897959184,0.045252158828741736,1,3204,49,530
 36,0,"Enunciate each word very, very slowly",1.0526315789473684,0.0367097806559429,2,3206,38,530
-39,0,For unlawful carnal knowledge.,1.048780487804878,0.03405912205797305,2,3207,41,530
-39,0,"The Sword of Damocles is alive and well, your highness.",1.048780487804878,0.03405912205797305,2,3207,41,530
-39,0,"No worries, I've reinforced the thread with the latest high-tech polymer.",1.048780487804878,0.03405912205797305,2,3207,41,530
-39,0,The giant demands that you stay in under armor.,1.048780487804878,0.03405912205797305,2,3207,41,530
-39,0,"Sorry, the Prime Minister has the monopoly on all the cords for reinforcing. unfortunately.",1.048780487804878,0.03405912205797305,2,3207,41,530
-39,0,"The tailor is requesting your inseam, Your Highness.",1.048780487804878,0.03405912205797305,2,3207,41,530
-39,0,"You'll have to sign all these proclamations. Remember, the pen is mightier than the sword.",1.048780487804878,0.03405912205797305,2,3207,41,530
+39,0,For unlawful carnal knowledge.,1.0487804878048779,0.03405912205797305,2,3207,41,530
+39,0,"The Sword of Damocles is alive and well, your highness.",1.0487804878048779,0.03405912205797305,2,3207,41,530
+39,0,"No worries, I've reinforced the thread with the latest high-tech polymer.",1.0487804878048779,0.03405912205797305,2,3207,41,530
+39,0,The giant demands that you stay in under armor.,1.0487804878048779,0.03405912205797305,2,3207,41,530
+39,0,"Sorry, the Prime Minister has the monopoly on all the cords for reinforcing. unfortunately.",1.0487804878048779,0.03405912205797305,2,3207,41,530
+39,0,"The tailor is requesting your inseam, Your Highness.",1.0487804878048779,0.03405912205797305,2,3207,41,530
+39,0,"You'll have to sign all these proclamations. Remember, the pen is mightier than the sword.",1.0487804878048779,0.03405912205797305,2,3207,41,530
 40,0,Your heiness I assure you there are more humane ways of trimming your beard,1.0476190476190477,0.033258585512837065,2,3214,42,530
 40,0,"Jester, read again the closing before guests arrive. ....... we thank you ""David"" for your gift to the Temple and are forever grateful for your conquest!",1.0476190476190477,0.033258585512837065,2,3214,42,530
 40,0,"Yes, Your Great and Noble Highness, I am his great-great-grandson, Hoover Damocles.",1.0476190476190477,0.033258585512837065,2,3214,42,530
@@ -3339,12 +3338,12 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 40,0,"I proclaim...Since I couldn't extricate Excalibur I have replaced it with my own dagger and sign it ""The King""",1.024390243902439,0.02469323991623974,1,3336,41,530
 40,0,"Yes, my lord, the sword is described as a bit of a bastard.",1.024390243902439,0.02469323991623974,1,3336,41,530
 40,0,Would you like an encore?,1.024390243902439,0.02469323991623974,1,3336,41,530
-41,0,Damocles has got nothing on me.,1.0238095238095235,0.024098134635594,1,3341,42,530
-41,0,"Furthermore, that thread is fragile so you must not waver in your integrity in your high office or the thread will brake.",1.0238095238095235,0.024098134635594,1,3341,42,530
-41,0,"'Unfair moving your throne to the background while leaving the sword in the foreground, Mr. Damocles! Unfair, unfair!' So sayeth the king.",1.0238095238095235,0.024098134635594,1,3341,42,530
-41,0,"Your Majesty, But if you think it might have a bad effect, why not postpone the election?",1.0238095238095235,0.024098134635594,1,3341,42,530
-41,0,"Your Royal Highness, your Trump campaign to end violence seems to be working...there is no one left to kill, maim or keep out.",1.0238095238095235,0.024098134635594,1,3341,42,530
-41,0,Did you get Taylor's approval?,1.0238095238095235,0.024098134635594,1,3341,42,530
+41,0,Damocles has got nothing on me.,1.0238095238095235,0.024098134635593998,1,3341,42,530
+41,0,"Furthermore, that thread is fragile so you must not waver in your integrity in your high office or the thread will brake.",1.0238095238095235,0.024098134635593998,1,3341,42,530
+41,0,"'Unfair moving your throne to the background while leaving the sword in the foreground, Mr. Damocles! Unfair, unfair!' So sayeth the king.",1.0238095238095235,0.024098134635593998,1,3341,42,530
+41,0,"Your Majesty, But if you think it might have a bad effect, why not postpone the election?",1.0238095238095235,0.024098134635593998,1,3341,42,530
+41,0,"Your Royal Highness, your Trump campaign to end violence seems to be working...there is no one left to kill, maim or keep out.",1.0238095238095235,0.024098134635593998,1,3341,42,530
+41,0,Did you get Taylor's approval?,1.0238095238095235,0.024098134635593998,1,3341,42,530
 42,0,It seems that rope repair supplies are no longer available after Brexit.,1.0232558139534884,0.023531040266750583,1,3347,43,530
 42,0,It's a message from Chekov. I don't think you'll like what it says...,1.0232558139534884,0.023531040266750583,1,3347,43,530
 42,0,"You made a big point across, sir.",1.0232558139534884,0.023531040266750583,1,3347,43,530
@@ -3374,27 +3373,27 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 43,0,"Sire, greetings from the future!",1.0227272727272727,0.022990024493585143,1,3361,44,530
 43,0,"Fried chicken, baked potato. Is that all your Highness wishes for his last meal?",1.0227272727272727,0.022990024493585143,1,3361,44,530
 43,0,I spent a lifetime to meet you.,1.0227272727272727,0.022990024493585143,1,3361,44,530
-44,0,"Speak your mind, lad, sword of",1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,"No sire, Robin Hood, Damocles was a greek.",1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,"Hear Ye! Hear Ye! Due to the tenuous rope, the Royal Court has disbanded.",1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,"Then Damocles said to Dionysis, ""Oh King, your distress is too great. Let me sit on the throne in your place and rule over your kingdom with all of its riches.""",1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,"And Sir McKrae told Sir Raleigh to take his message to his squire, who delivered the letter to your majesty's brother-in-law, who subsequently...",1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,"Sire, it appears to be an ultimatum from the Rexit campaign.",1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,"Sire, as you requested, this proclaims any knight able to lower the stuck sword without threat to thee the foe of your arthritis, and thus dubs him Doctor of Decor!",1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,"~Tonight's Royal State Banquet Menu, sire, includes: Tripe soup, Sweetbreads, Cervelle de Veu, Pettitales, and Rocky Mountain Oysters!~",1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,"Apparently your dish didn't cut it, your Highness.",1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,"I know you said you wanted you hair cut in style, but....",1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,"It is but an illusion of imminent danger symbolized by the small dagger, suspended by a thin thread, over my left shoulder, across the room.",1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,"Dare I declare, ""Drop the dagger for our drooping despot!""?",1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,The Prince will attend with four score drummers.,1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,"Your Grace, Melania Drumpf was just seen at the RNC with a giant sword hanging above her head. Would you like to make a statement?",1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,Do you really want to hear about Route 66 again?,1.0222222222222221,0.022473328748774737,1,3376,45,530
-44,0,"In other news, The BFG has purportedly gone over to the dark side. However, I am unsure if he is able to use the Force.",1.0222222222222221,0.022473328748774737,1,3376,45,530
+44,0,"Speak your mind, lad, sword of",1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,"No sire, Robin Hood, Damocles was a greek.",1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,"Hear Ye! Hear Ye! Due to the tenuous rope, the Royal Court has disbanded.",1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,"Then Damocles said to Dionysis, ""Oh King, your distress is too great. Let me sit on the throne in your place and rule over your kingdom with all of its riches.""",1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,"And Sir McKrae told Sir Raleigh to take his message to his squire, who delivered the letter to your majesty's brother-in-law, who subsequently...",1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,"Sire, it appears to be an ultimatum from the Rexit campaign.",1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,"Sire, as you requested, this proclaims any knight able to lower the stuck sword without threat to thee the foe of your arthritis, and thus dubs him Doctor of Decor!",1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,"~Tonight's Royal State Banquet Menu, sire, includes: Tripe soup, Sweetbreads, Cervelle de Veu, Pettitales, and Rocky Mountain Oysters!~",1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,"Apparently your dish didn't cut it, your Highness.",1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,"I know you said you wanted you hair cut in style, but....",1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,"It is but an illusion of imminent danger symbolized by the small dagger, suspended by a thin thread, over my left shoulder, across the room.",1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,"Dare I declare, ""Drop the dagger for our drooping despot!""?",1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,The Prince will attend with four score drummers.,1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,"Your Grace, Melania Drumpf was just seen at the RNC with a giant sword hanging above her head. Would you like to make a statement?",1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,Do you really want to hear about Route 66 again?,1.022222222222222,0.022473328748774737,1,3376,45,530
+44,0,"In other news, The BFG has purportedly gone over to the dark side. However, I am unsure if he is able to use the Force.",1.022222222222222,0.022473328748774737,1,3376,45,530
 45,0,"Sire, your subjects express their happiness your have replaced the thread holding Damocles with a rope.",1.0217391304347827,0.021979349113192898,1,3392,46,530
 18,0,"It's called a Sword of Damastocles. The prince sent one to Donald Trump, too.",1.0,0.05716619504750295,0,3393,18,530
 41,0,"Finally, we demand that you cut taxes.",1.0,0.02469323991623974,0,3393,41,530
 43,0,"Yes, your majesty; it is here in the fine print, just above the part about Donald Trump.",1.0,0.023531040266750583,0,3393,43,530
-42,0,"And the lord said, ""let there be knife""",1.0,0.024098134635594,0,3393,42,530
+42,0,"And the lord said, ""let there be knife""",1.0,0.024098134635593998,0,3393,42,530
 41,0,Let's go over that baby thing again.,1.0,0.02469323991623974,0,3393,41,530
 41,0,"So, it's a picture of a frog sipping tea. And then there are words written over it. It says: WHEN U REALIZE HIS SWORD HELLA BIG BCUZ HE AINT GOT NO DICK THO!!",1.0,0.02469323991623974,0,3393,41,530
 43,0,"You've been sentenced to Excaliburn, baby, burn.",1.0,0.023531040266750583,0,3393,43,530
@@ -3408,23 +3407,23 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 40,0,And henceforth you will be known as King Donald J,1.0,0.025318484177091663,0,3393,40,530
 43,0,Only it's an act of God.,1.0,0.023531040266750583,0,3393,43,530
 41,0,I'm about to get the sword.,1.0,0.02469323991623974,0,3393,41,530
-42,0,"Take the crown, but you speak Queen’s English, do you ?",1.0,0.024098134635594,0,3393,42,530
+42,0,"Take the crown, but you speak Queen’s English, do you ?",1.0,0.024098134635593998,0,3393,42,530
 43,0,It says there's been a run on lightsabers.,1.0,0.023531040266750583,0,3393,43,530
 41,0,I've tried that. It doesn't work.,1.0,0.02469323991623974,0,3393,41,530
 43,0,We Live My The Sword.,1.0,0.023531040266750583,0,3393,43,530
-42,0,"Your highness, we all want to say that serving you has been a real skive ""Your highness, we just want to say that being your subjects has been a real slice.",1.0,0.024098134635594,0,3393,42,530
-42,0,"Pull finger to switch from ""Qui a coupe la fromage"" to "" Facetime"". Bite tongue to access Twitter.",1.0,0.024098134635594,0,3393,42,530
+42,0,"Your highness, we all want to say that serving you has been a real skive ""Your highness, we just want to say that being your subjects has been a real slice.",1.0,0.024098134635593998,0,3393,42,530
+42,0,"Pull finger to switch from ""Qui a coupe la fromage"" to "" Facetime"". Bite tongue to access Twitter.",1.0,0.024098134635593998,0,3393,42,530
 39,0,The people wish to greet Burp Fart your highness.,1.0,0.02597621667330656,0,3393,39,530
 39,0,Your big sword is over my head.,1.0,0.02597621667330656,0,3393,39,530
-42,0,The Queen suggests fricassee for dinner.,1.0,0.024098134635594,0,3393,42,530
+42,0,The Queen suggests fricassee for dinner.,1.0,0.024098134635593998,0,3393,42,530
 37,0,"A man named Damocles would like to hunt in your Royal Forrest, Sire",1.0,0.02739983121755955,0,3393,37,530
-42,0,The people are asking if you'll put the sword back so they can get a new king.,1.0,0.024098134635594,0,3393,42,530
-42,0,"''RELAX KING ARTHUR , MERLIN IS DIAMOND CERTIFIED ! ''",1.0,0.024098134635594,0,3393,42,530
+42,0,The people are asking if you'll put the sword back so they can get a new king.,1.0,0.024098134635593998,0,3393,42,530
+42,0,"''RELAX KING ARTHUR , MERLIN IS DIAMOND CERTIFIED ! ''",1.0,0.024098134635593998,0,3393,42,530
 39,0,"Make a note, squire, and let it be heard throughout the land; I scall it 'the sword of Sir...'",1.0,0.02597621667330656,0,3393,39,530
 41,0,The Sword of DAMOCLES.,1.0,0.02469323991623974,0,3393,41,530
 37,0,"Sire. The Queen's recent purchase receipt of ""a big stiletto for her heel"" is a little vague. I suppose it could mean she has a hot high heel surprise for you tonight.",1.0,0.02739983121755955,0,3393,37,530
 43,0,It's an invoice from the Triple Excaliber Company.,1.0,0.023531040266750583,0,3393,43,530
 41,0,Just wait till he realizes he's hanging to nothing!,1.0,0.02469323991623974,0,3393,41,530
-42,0,PLEASE ANSWER QUICKLY BEFORE THE ROPE BREAKS,1.0,0.024098134635594,0,3393,42,530
-42,0,"LOL we know is acronym, but SOD could be Superoxide Dismutase or Soap Opera Digest or Septo-Optic Dysplasia or Segregation of Duties or ...",1.0,0.024098134635594,0,3393,42,530
-42,0,You must not move from the throne for one week if you want to win sir.,1.0,0.024098134635594,0,3393,42,530
+42,0,PLEASE ANSWER QUICKLY BEFORE THE ROPE BREAKS,1.0,0.024098134635593998,0,3393,42,530
+42,0,"LOL we know is acronym, but SOD could be Superoxide Dismutase or Soap Opera Digest or Septo-Optic Dysplasia or Segregation of Duties or ...",1.0,0.024098134635593998,0,3393,42,530
+42,0,You must not move from the throne for one week if you want to win sir.,1.0,0.024098134635593998,0,3393,42,530

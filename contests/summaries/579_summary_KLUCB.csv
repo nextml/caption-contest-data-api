@@ -34,7 +34,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 33,This is why no one names a cat Rex.,1.6800991940483572,0.018406503150841785,1613.0,781.0,567.0,265.0,579
 34,It could be worse. He could think he's the president.,1.6715542521994136,0.01859024405124999,1705.0,874.0,517.0,314.0,579
 35,The dog wants to know if he can come back in.,1.6666666666666667,0.018121636325828968,1635.0,802.0,576.0,257.0,579
-36,What do you mean you've had the dog beheaded?,1.6625514403292179,0.029344234188432506,729.0,393.0,189.0,147.0,579
+36,What do you mean you've had the dog beheaded?,1.662551440329218,0.029344234188432506,729.0,393.0,189.0,147.0,579
 37,At three you have the Royal Scratching Post. At four the Ball of Twine arrives...,1.6619987269255252,0.01849311686876586,1571.0,777.0,548.0,246.0,579
 38,"OK then, we'll build a moat and have the dog pay for it.",1.6598360655737705,0.02466815431047541,976.0,512.0,284.0,180.0,579
 39,He said he still wants to build a scratching post and have us pay for it.,1.6513629842180777,0.02843660474716925,697.0,360.0,220.0,117.0,579
@@ -50,7 +50,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 49,"You just told him what ""fixed"" really means?",1.6110599078341017,0.022089008480852518,1085.0,580.0,347.0,158.0,579
 50,Try to remember where you last were when you were wearing the boots.,1.6070763500931098,0.032928545875673905,537.0,303.0,142.0,92.0,579
 51,We should have listened to the people at the shelter.,1.6036960985626283,0.02299294148023097,974.0,520.0,320.0,134.0,579
-52,"Lazy, overweight and an inexperienced leader. Sounds vaguely familiar.",1.595271210013908,0.027878329203428642,719.0,405.0,200.0,114.0,579
+52,"Lazy, overweight and an inexperienced leader. Sounds vaguely familiar.",1.5952712100139081,0.027878329203428642,719.0,405.0,200.0,114.0,579
 53,"Well, we've requested an audience with you today, Your Highness, to ask you to stop urinating on the couch.",1.593279258400927,0.024981167132741487,863.0,479.0,256.0,128.0,579
 54,Don't let them get to you. It's all fake mews.,1.5922077922077922,0.02675780289552815,770.0,433.0,218.0,119.0,579
 55,It's time to go out and do something with your nine lives,1.59041394335512,0.03286031806059203,459.0,246.0,155.0,58.0,579
@@ -110,7 +110,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 109,Did your mother say when she'd be back to pick him up?,1.4845360824742269,0.04111844520379406,291.0,185.0,71.0,35.0,579
 110,This is the last time we're cat sitting,1.4824281150159744,0.03973077387222335,313.0,200.0,75.0,38.0,579
 111,"As you start your 2nd life, we got a companion pet - a pit-bull.",1.4823151125401932,0.04069369609620696,311.0,202.0,68.0,41.0,579
-112,He's been like this since I cancelled his Twitter account.,1.4805194805194806,0.040210106015509985,308.0,198.0,72.0,38.0,579
+112,He's been like this since I cancelled his Twitter account.,1.4805194805194806,0.04021010601550999,308.0,198.0,72.0,38.0,579
 113,Please don't look so sad; the package clearly stated that the orb and scepter were being shipped separately.,1.4785478547854785,0.03792456294473638,303.0,186.0,89.0,28.0,579
 114,"I liked it better when he was an ""outside"" cat.",1.4744027303754266,0.03883893063734144,293.0,182.0,83.0,28.0,579
 115,Trumpy what's wrong?,1.4736842105263157,0.08266118589045436,76.0,50.0,16.0,10.0,579
@@ -142,7 +142,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 141,We're making you an outdoor cat,1.4393939393939394,0.08671360001948561,66.0,45.0,13.0,8.0,579
 142,Do you think we should name him Donald?,1.4390243902439024,0.07970428818348367,82.0,57.0,14.0,11.0,579
 143,I realize now I'm more of a dog person.,1.4369369369369367,0.0429766437799058,222.0,143.0,61.0,18.0,579
-144,"I don't think that just because you're fat, orange, and compelled to destroy other people's things we should make you king",1.4363636363636365,0.04692917278609447,220.0,150.0,44.0,26.0,579
+144,"I don't think that just because you're fat, orange, and compelled to destroy other people's things we should make you king",1.4363636363636365,0.046929172786094465,220.0,150.0,44.0,26.0,579
 144,"She knows it's just for a day, right?",1.4363636363636365,0.04324649413612888,220.0,142.0,60.0,18.0,579
 144,I really didn't mind until she had the dog beheaded.,1.4363636363636365,0.04909075534622236,220.0,155.0,34.0,31.0,579
 147,"We said 'your leash', not 'your liege'.........",1.433179723502304,0.044129977319846886,217.0,142.0,56.0,19.0,579
@@ -184,13 +184,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 182,I guess catching the mouse is out of the question.,1.404494382022472,0.05251148317626443,178.0,128.0,28.0,22.0,579
 182,..not wives ...lives.... nine lives,1.404494382022472,0.04875013879937399,178.0,122.0,40.0,16.0,579
 182,"We've decided that we shouldn't leave ""Game of Thrones"" on for you when we go out.",1.404494382022472,0.04875013879937399,178.0,122.0,40.0,16.0,579
-182,You can't fire us. We're the people.,1.404494382022472,0.05066572755980778,178.0,125.0,34.0,19.0,579
-182,We feed him gourmet cat food one time...,1.404494382022472,0.05066572755980778,178.0,125.0,34.0,19.0,579
+182,You can't fire us. We're the people.,1.404494382022472,0.050665727559807784,178.0,125.0,34.0,19.0,579
+182,We feed him gourmet cat food one time...,1.404494382022472,0.050665727559807784,178.0,125.0,34.0,19.0,579
 182,He binge watched Game of Thrones.,1.404494382022472,0.0480946573008834,178.0,121.0,42.0,15.0,579
 182,The vet said we can have him dethroned by next Wednesday.,1.404494382022472,0.05003534727665886,178.0,124.0,36.0,18.0,579
 182,"You're not a king, Donald! You're an overweight pussy who associates with vermin.",1.404494382022472,0.05311248287775591,178.0,129.0,26.0,23.0,579
 191,"Well, it's an improvement over his Egyptian phase.",1.4034090909090908,0.04846941549563792,176.0,120.0,41.0,15.0,579
-191,"Okay, let me get this straight. Dogs have Masters...Cats have Staff!",1.4034090909090908,0.044268203587658664,176.0,114.0,53.0,9.0,579
+191,"Okay, let me get this straight. Dogs have Masters...Cats have Staff!",1.4034090909090908,0.04426820358765866,176.0,114.0,53.0,9.0,579
 193,He thinks he won the popular vote.,1.4033149171270718,0.048157587083123496,181.0,124.0,41.0,16.0,579
 193,We should never have sent in for his DNA results ...,1.4033149171270718,0.048157587083123496,181.0,124.0,41.0,16.0,579
 195,That's not the pussy I wanted you to treat like royalty.,1.4022988505747127,0.051500338962837525,174.0,123.0,32.0,19.0,579
@@ -223,15 +223,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 221,"It's not that you have no clothes, it's more that you really don't even need them.",1.393939393939394,0.04915920536440598,165.0,113.0,39.0,13.0,579
 221,And you thought I was self absorbed.,1.393939393939394,0.05064037057600017,165.0,115.0,35.0,15.0,579
 221,Yesterday he made me put on a hat with bells and tell him jokes.,1.393939393939394,0.05064037057600017,165.0,115.0,35.0,15.0,579
-225,"Honestly, I prefer when it's reigning dogs.",1.3926380368098161,0.052532316092518,163.0,116.0,30.0,17.0,579
-225,He liked the Lion King better than Cats.,1.3926380368098161,0.04721717589788394,163.0,109.0,44.0,10.0,579
-225,"You miscounted, Henry. The last life was your eighth.",1.3926380368098161,0.0510701822002464,163.0,114.0,34.0,15.0,579
-225,Maybe it's time we had a kid.,1.3926380368098161,0.05395484184132214,163.0,118.0,26.0,19.0,579
-225,"Sometimes when my meds thin out, I see glimpses of how absurd we've become.",1.3926380368098161,0.0510701822002464,163.0,114.0,34.0,15.0,579
+225,"Honestly, I prefer when it's reigning dogs.",1.392638036809816,0.052532316092518,163.0,116.0,30.0,17.0,579
+225,He liked the Lion King better than Cats.,1.392638036809816,0.04721717589788394,163.0,109.0,44.0,10.0,579
+225,"You miscounted, Henry. The last life was your eighth.",1.392638036809816,0.0510701822002464,163.0,114.0,34.0,15.0,579
+225,Maybe it's time we had a kid.,1.392638036809816,0.05395484184132214,163.0,118.0,26.0,19.0,579
+225,"Sometimes when my meds thin out, I see glimpses of how absurd we've become.",1.392638036809816,0.0510701822002464,163.0,114.0,34.0,15.0,579
 230,Then we agree. Whoever gets the kids must also take the cat.,1.391304347826087,0.049196898922839516,161.0,110.0,39.0,12.0,579
 230,Please stop leaving dead peasants on the stoop.,1.391304347826087,0.05150974779866887,161.0,113.0,33.0,15.0,579
 232,Remember that time we talked about three co-equal branches of government?,1.389937106918239,0.05195941727301428,159.0,112.0,32.0,15.0,579
-232,This place is a dump! #Sad,1.389937106918239,0.051187591733262934,159.0,111.0,34.0,14.0,579
+232,This place is a dump! #Sad,1.389937106918239,0.05118759173326293,159.0,111.0,34.0,14.0,579
 234,"I know some people call it the 'throne', but you still need to use your litter box.",1.3888888888888888,0.04895190117015565,162.0,111.0,39.0,12.0,579
 234,...and that's why there can't be an heir to your throne.,1.3888888888888888,0.05624145258781947,162.0,121.0,19.0,22.0,579
 234,Heavy lies the cat who wears the crown.,1.3888888888888888,0.04895190117015565,162.0,111.0,39.0,12.0,579
@@ -270,7 +270,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 269,What did you do with the dog?,1.375886524822695,0.05282208778219166,141.0,99.0,31.0,11.0,579
 270,"Listen, we don't care who you were in a past life.",1.3758389261744963,0.049002854086351036,149.0,102.0,38.0,9.0,579
 270,"We know Henry, you thought you would be a Tudor king, not a neutered king, but you are still royalty to us, even without your crown ""jewels.""",1.3758389261744963,0.05081996804153482,149.0,104.0,34.0,11.0,579
-272,....a funny story about your inability to produce an heir....,1.3741496598639455,0.052173774313312785,147.0,104.0,31.0,12.0,579
+272,....a funny story about your inability to produce an heir....,1.3741496598639455,0.05217377431331279,147.0,104.0,31.0,12.0,579
 272,"Now that you've conquered the internet, let's talk about conquering your litter box.",1.3741496598639455,0.04942204817437089,147.0,101.0,37.0,9.0,579
 274,You think the Colorado Catnip was just a bit too much?,1.3733333333333333,0.050542176036834884,150.0,105.0,34.0,11.0,579
 275,It's a case of Lion King Syndrome.,1.3731343283582091,0.07316524328361154,67.0,46.0,17.0,4.0,579
@@ -336,27 +336,27 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 328,"Pretend you rule the house all you want, but you can be impeached.",1.353846153846154,0.054451828302004165,130.0,94.0,26.0,10.0,579
 336,"We know this is tough to hear, but your kitty litter does stink.",1.3515625,0.05719605105812552,128.0,95.0,21.0,12.0,579
 336,Clearly the Fancy Feast has gone to her head.,1.3515625,0.05271870894086588,128.0,91.0,29.0,8.0,579
-336,Should we tell him he has no clothes?,1.3515625,0.055002956870678466,128.0,93.0,25.0,10.0,579
+336,Should we tell him he has no clothes?,1.3515625,0.05500295687067847,128.0,93.0,25.0,10.0,579
 336,Don't shhhhhh me! If he tries to grab THIS pussy I'll scratch his eyes out with fire and fury the world has never seen.,1.3515625,0.05930810441052457,128.0,97.0,17.0,14.0,579
 336,Maybe he should go back to regular cat food.,1.3515625,0.0561102197516701,128.0,94.0,23.0,11.0,579
 336,"He says he's Pussyrus of the House Pussyrian, The Litter-Born, First of His Name, The Father of Hairballs, Chaser of Mice, The Scratcher of Posts.",1.3515625,0.05719605105812552,128.0,95.0,21.0,12.0,579
-336,"He's a spoiled, selfish little creature who needs constant attention and thinks he's the center of the universe. Let's call him Trumpy.",1.3515625,0.055002956870678466,128.0,93.0,25.0,10.0,579
+336,"He's a spoiled, selfish little creature who needs constant attention and thinks he's the center of the universe. Let's call him Trumpy.",1.3515625,0.05500295687067847,128.0,93.0,25.0,10.0,579
 336,I think it would be more respectful to just bury him.,1.3515625,0.058261649073011075,128.0,96.0,19.0,13.0,579
 336,O.K. We've exiled the dog. Now what?,1.3515625,0.0561102197516701,128.0,94.0,23.0,11.0,579
 336,"Honey, he's marked his territory, and we just have to get used to it.",1.3515625,0.05153863382287835,128.0,90.0,31.0,7.0,579
-336,It's great our marriage has found a shared focus.,1.3515625,0.055002956870678466,128.0,93.0,25.0,10.0,579
+336,It's great our marriage has found a shared focus.,1.3515625,0.05500295687067847,128.0,93.0,25.0,10.0,579
 336,"With all due respect your majesty, we will not behead the dog.",1.3515625,0.0561102197516701,128.0,94.0,23.0,11.0,579
 348,It could be worse: He could get a Twitter account.,1.3504273504273503,0.05734605902536921,117.0,85.0,23.0,9.0,579
 348,How do we tell him he didn't win the popular vote?,1.3504273504273503,0.059860629117948615,117.0,87.0,19.0,11.0,579
 350,There was a mix-up at the DNA lab. It turns out you're just a housecat.,1.3492063492063493,0.05670022571267223,126.0,93.0,22.0,11.0,579
 351,Hopefully this is the ninth life and not the first.,1.3478260869565215,0.05799008077003045,115.0,84.0,22.0,9.0,579
 352,You're bored? Use another one of your lives.,1.347457627118644,0.056935500871268675,118.0,86.0,23.0,9.0,579
-353,"This belly isn't going to rub itself, you know.",1.346774193548387,0.052531452293174984,124.0,88.0,29.0,7.0,579
+353,"This belly isn't going to rub itself, you know.",1.346774193548387,0.05253145229317498,124.0,88.0,29.0,7.0,579
 353,we're pregnant....,1.346774193548387,0.05730684823191831,124.0,92.0,21.0,11.0,579
-353,Since the dog died he's become impossible.,1.346774193548387,0.052531452293174984,124.0,88.0,29.0,7.0,579
+353,Since the dog died he's become impossible.,1.346774193548387,0.05253145229317498,124.0,88.0,29.0,7.0,579
 353,I think he ate your medical marijuana.,1.346774193548387,0.05497103025369925,124.0,90.0,25.0,9.0,579
 353,Cattitude,1.346774193548387,0.05730684823191831,124.0,92.0,21.0,11.0,579
-353,"We've decided to form our own nation, led by the people.",1.346774193548387,0.052531452293174984,124.0,88.0,29.0,7.0,579
+353,"We've decided to form our own nation, led by the people.",1.346774193548387,0.05253145229317498,124.0,88.0,29.0,7.0,579
 359,"Now that WE'VE gotten rid of the dog, shouldn't YOU be getting rid of the mice?",1.3451327433628322,0.05865365719171702,113.0,83.0,21.0,9.0,579
 360,"Think, where did you leave the boots?",1.3448275862068966,0.054900002151741116,116.0,83.0,26.0,7.0,579
 360,I was sure he had 2 more left.,1.3448275862068966,0.054900002151741116,116.0,83.0,26.0,7.0,579
@@ -593,29 +593,29 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 576,"I know the Cowardly Lion....The Cowardly Lion is a friend of mine....You are no Cowardly Lion.....enough, get back in the kitchen.",1.3020833333333333,0.06642465667671821,96.0,77.0,9.0,10.0,579
 576,We never did want to tell you that you really are just a cat.,1.3020833333333333,0.06303680292806588,96.0,75.0,13.0,8.0,579
 594,Our president freaked her out.,1.3,0.07990106877232901,60.0,47.0,8.0,5.0,579
-595,Cats rule. Dogs drool. We get that.,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,579
-595,"But if we got a dog, you would still be king.",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,579
-595,We should never have let him go on Ancestry.com!,1.2978723404255321,0.052023319907901766,94.0,68.0,24.0,2.0,579
-595,"He just realized he rules in a constitutional monarchy, and his powers are purely ceremonial.",1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,579
-595,HENRY THE NEUTERED CONTEMPLATES LIFE WITHOUT HIS ORBS AND SCEPTER,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,579
-595,Do you think it's time we had kids?,1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,579
-595,"He wants a personal groomer, a sleep chamber, and a purring coach.",1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,579
-595,The Fancy Feast has really gone to his head.,1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,579
-595,The results are back. This is not the jungle and you are not the king.,1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,579
-595,He has a sixth sense of entitlement.,1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,579
-595,I guess we shouldn't have used Craig's List to find a taxidermist.,1.2978723404255321,0.06563451843409901,94.0,75.0,10.0,9.0,579
-595,Maybe we should cut back on the Fancy Feast.,1.2978723404255321,0.06386790595182304,94.0,74.0,12.0,8.0,579
-595,This Caturday business is getting out of control,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,579
-595,So we are all in agreement. Pussy rules.,1.2978723404255321,0.06563451843409901,94.0,75.0,10.0,9.0,579
-595,He liked your idea of appointing a “Presidential Pussy” but apparently he has someone else in mind.,1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,579
-595,He is very merciful....as long as you go get him the tuna casserole.,1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,579
-595,"Sweetheart, there was not one million mice watching. I'm sorry, it's just not true.",1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,579
-595,"Turns out it's just reigning cats, no dogs.",1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,579
-595,"That's not the way you make ""Kitty litter great again"".",1.2978723404255321,0.06205101781007094,94.0,73.0,14.0,7.0,579
-595,The feast was too fancy.,1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,579
-595,"Heavy is the head that wears the crown. So, too, is the belly that holds the mouse.",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,579
-595,I hope our pampering makes up for the neutering.,1.2978723404255321,0.0562493290008888,94.0,70.0,20.0,4.0,579
-595,He thinks he's the cat's meow.,1.2978723404255321,0.060179300526514684,94.0,72.0,16.0,6.0,579
+595,Cats rule. Dogs drool. We get that.,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,579
+595,"But if we got a dog, you would still be king.",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,579
+595,We should never have let him go on Ancestry.com!,1.297872340425532,0.052023319907901766,94.0,68.0,24.0,2.0,579
+595,"He just realized he rules in a constitutional monarchy, and his powers are purely ceremonial.",1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,579
+595,HENRY THE NEUTERED CONTEMPLATES LIFE WITHOUT HIS ORBS AND SCEPTER,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,579
+595,Do you think it's time we had kids?,1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,579
+595,"He wants a personal groomer, a sleep chamber, and a purring coach.",1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,579
+595,The Fancy Feast has really gone to his head.,1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,579
+595,The results are back. This is not the jungle and you are not the king.,1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,579
+595,He has a sixth sense of entitlement.,1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,579
+595,I guess we shouldn't have used Craig's List to find a taxidermist.,1.297872340425532,0.06563451843409901,94.0,75.0,10.0,9.0,579
+595,Maybe we should cut back on the Fancy Feast.,1.297872340425532,0.06386790595182304,94.0,74.0,12.0,8.0,579
+595,This Caturday business is getting out of control,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,579
+595,So we are all in agreement. Pussy rules.,1.297872340425532,0.06563451843409901,94.0,75.0,10.0,9.0,579
+595,He liked your idea of appointing a “Presidential Pussy” but apparently he has someone else in mind.,1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,579
+595,He is very merciful....as long as you go get him the tuna casserole.,1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,579
+595,"Sweetheart, there was not one million mice watching. I'm sorry, it's just not true.",1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,579
+595,"Turns out it's just reigning cats, no dogs.",1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,579
+595,"That's not the way you make ""Kitty litter great again"".",1.297872340425532,0.06205101781007094,94.0,73.0,14.0,7.0,579
+595,The feast was too fancy.,1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,579
+595,"Heavy is the head that wears the crown. So, too, is the belly that holds the mouse.",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,579
+595,I hope our pampering makes up for the neutering.,1.297872340425532,0.0562493290008888,94.0,70.0,20.0,4.0,579
+595,He thinks he's the cat's meow.,1.297872340425532,0.060179300526514684,94.0,72.0,16.0,6.0,579
 618,"I just thought it would partially make up for the vet taking away his, um, crown jewels.",1.2976190476190477,0.06287198402654164,84.0,64.0,15.0,5.0,579
 619,We need to talk about your cattitude.,1.2967032967032968,0.05949421636865235,91.0,69.0,17.0,5.0,579
 619,You can keep the throne; crown and robe go back to Mar-a-Lago - and tell him you're sorry.,1.2967032967032968,0.06151229166207569,91.0,70.0,15.0,6.0,579
@@ -724,7 +724,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 722,I'm beginning to doubt that this is what the Pet Therapist had in mind.,1.2839506172839503,0.05888513588993492,81.0,61.0,17.0,3.0,579
 722,I don't know how the Joneses do it with three!,1.2839506172839503,0.06628261578047466,81.0,64.0,11.0,6.0,579
 722,"We've decided to get a dog, and we're going to name him Rex. You might want to reconsider your attitude.",1.2839506172839503,0.061449989455529964,81.0,62.0,15.0,4.0,579
-726,"I'm sorry sweetie, but I don't think ""Let them eat Friskies"" is an appropriate response.",1.2823529411764707,0.05452048340661893,85.0,63.0,20.0,2.0,579
+726,"I'm sorry sweetie, but I don't think ""Let them eat Friskies"" is an appropriate response.",1.2823529411764707,0.054520483406618934,85.0,63.0,20.0,2.0,579
 726,Do you think we might have spoiled him?,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0,579
 726,That Trump Brand (c) cat food really works!,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0,579
 726,I told you not to name her Princess!,1.2823529411764707,0.06397602121235049,85.0,67.0,12.0,6.0,579
@@ -758,7 +758,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 726,Do you think we let him watch The Lion King too often?,1.2823529411764707,0.05943658133277236,85.0,65.0,16.0,4.0,579
 726,Should we tell him he's no longer sitting pretty?,1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0,579
 726,I think the cat sitter spoils him.,1.2823529411764707,0.06174803029526685,85.0,66.0,14.0,5.0,579
-726,"Since she got hooked on PBS, she identifies as Victoria, not Pussin-Boots.",1.2823529411764707,0.05452048340661893,85.0,63.0,20.0,2.0,579
+726,"Since she got hooked on PBS, she identifies as Victoria, not Pussin-Boots.",1.2823529411764707,0.054520483406618934,85.0,63.0,20.0,2.0,579
 761,We think you should stop binge-watching Game of Thrones.,1.28125,0.06481333851304336,64.0,48.0,14.0,2.0,579
 762,"It's time you knew, Wigglesworth. You were adopted.",1.2804878048780488,0.058265582655826535,82.0,62.0,17.0,3.0,579
 762,So. You got your tongue?,1.2804878048780488,0.06781839434277613,82.0,66.0,9.0,7.0,579
@@ -843,7 +843,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 824,"There will be no heirs, you were neutered.",1.271604938271605,0.06337314947017575,81.0,64.0,12.0,5.0,579
 824,What if we do something to make him feel special?,1.271604938271605,0.06337314947017575,81.0,64.0,12.0,5.0,579
 824,"Fluffy, I'd like to introduce you to my new boyfriend Jake. I hope you two will get along.",1.271604938271605,0.05829984668206215,81.0,62.0,16.0,3.0,579
-824,He changed after we did his ancestry testing.,1.271604938271605,0.055589838530466264,81.0,61.0,18.0,2.0,579
+824,He changed after we did his ancestry testing.,1.271604938271605,0.05558983853046626,81.0,61.0,18.0,2.0,579
 824,"With all due respect, we'd like to discuss some type of power sharing arrangement.",1.271604938271605,0.0608893594847293,81.0,63.0,14.0,4.0,579
 824,Mom keeps saying we spoil him too much.,1.271604938271605,0.0608893594847293,81.0,63.0,14.0,4.0,579
 824,"Honey, don't be sad, Fat cat is just a term used for the rich and important.",1.271604938271605,0.05829984668206215,81.0,62.0,16.0,3.0,579
@@ -928,26 +928,26 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 927,"Your highness, having 9 lives is more than most of us.",1.2641509433962264,0.07203723938303844,53.0,41.0,10.0,2.0,579
 928,"I think it was a mistake naming him, 'The Donald'.",1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,579
 928,This is so typical of your generation.,1.2597402597402598,0.06510572243024297,77.0,62.0,10.0,5.0,579
-928,The jester will be back from the vet's tomorrow.,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
+928,The jester will be back from the vet's tomorrow.,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
 928,"Yes, you were adopted, we should have told you sooner.",1.2597402597402598,0.056687428890267476,77.0,59.0,16.0,2.0,579
 928,"Seriously, Dad... if you do post the video, PLEASE don't mention my name.",1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,579
 928,What if Don got neutered too?,1.2597402597402598,0.06767952860963261,77.0,63.0,8.0,6.0,579
 928,"He’s just a puppy, sure. But he’ll be dead long before your reign comes to an end. Ya know, because of the nine lives and everything?",1.2597402597402598,0.06510572243024297,77.0,62.0,10.0,5.0,579
 928,Should we tell him we're getting a dog or let it be a surprise?,1.2597402597402598,0.06767952860963261,77.0,63.0,8.0,6.0,579
-928,You're the one that got his DNA tested.,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
+928,You're the one that got his DNA tested.,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
 928,Dethroning really isn't humane.,1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,579
-928,"You didn't hear it from me, but the dog and fish are planning a coup.",1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
-928,"This is number nine, and it was on her bucket list.",1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
+928,"You didn't hear it from me, but the dog and fish are planning a coup.",1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
+928,"This is number nine, and it was on her bucket list.",1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
 928,I told you not to feed him. I told you not to make eye contact.,1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,579
-928,I draw the line at beheading the dog.,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
+928,I draw the line at beheading the dog.,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
 928,His attitude is really starting to show.,1.2597402597402598,0.05358825519207446,77.0,58.0,18.0,1.0,579
-928,I really thought it was what he wanted. Maybe we should get him a Superman cape.,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
+928,I really thought it was what he wanted. Maybe we should get him a Superman cape.,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
 928,Do you think maybe we should take a break from Game of Thrones?,1.2597402597402598,0.056687428890267476,77.0,59.0,16.0,2.0,579
 928,I do believe the King has no clothes,1.2597402597402598,0.056687428890267476,77.0,59.0,16.0,2.0,579
 928,Heavy the butt that wears the crown.,1.2597402597402598,0.06510572243024297,77.0,62.0,10.0,5.0,579
 928,You must understand it's our house ... your Highness?,1.2597402597402598,0.06510572243024297,77.0,62.0,10.0,5.0,579
 928,Newsweek called. They want to put you on the cover.,1.2597402597402598,0.056687428890267476,77.0,59.0,16.0,2.0,579
-928,All you have to do is wave.,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
+928,All you have to do is wave.,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
 928,He gets like this every time I date.,1.2597402597402598,0.056687428890267476,77.0,59.0,16.0,2.0,579
 928,The emperor has no claws.,1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,579
 928,"Hail, Kitty Kitty ...",1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,579
@@ -959,28 +959,28 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 928,Not to worry. You have 8 more lives to establish your legacy,1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,579
 928,"so, where did you lose your boots?",1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,579
 928,The dog was one thing. But Dad's always been so nice to you.,1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,579
-928,Shouldn't the king be wearing his pants?,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
-928,And you thought a cat would be low maintenance.,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
-928,I think he's developing an attitude.,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
+928,Shouldn't the king be wearing his pants?,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
+928,And you thought a cat would be low maintenance.,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
+928,I think he's developing an attitude.,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
 928,You think we've been a tad too indulgent?,1.2597402597402598,0.05358825519207446,77.0,58.0,18.0,1.0,579
-928,Canned it is.,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
-928,"So, just how are we supposed to come in on Little Cat Feet?",1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
-928,One of you needs to see a therapist.,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
+928,Canned it is.,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
+928,"So, just how are we supposed to come in on Little Cat Feet?",1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
+928,One of you needs to see a therapist.,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
 928,He was more of an 'anything but a dog' choice.,1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,579
 928,We have noticed you've been hitting the catnip more as of late.,1.2597402597402598,0.06510572243024297,77.0,62.0,10.0,5.0,579
-928,"Honey, I thought we agreed on cremation.",1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
+928,"Honey, I thought we agreed on cremation.",1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
 928,Now he communicates only by tweets.,1.2597402597402598,0.056687428890267476,77.0,59.0,16.0,2.0,579
 928,"I agree, it's a bit much, but he did get rid of the mice.",1.2597402597402598,0.056687428890267476,77.0,59.0,16.0,2.0,579
 928,So now that you are truly king will you stop throwing up on the carpet?,1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,579
 928,We should have never taken him to see the Lion King,1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,579
-928,And you're absolutely sure you don't know anything about Mrs. Keldorf's canary?,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
-928,"I know... but he's a stray. And, I think he likes football.",1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
+928,And you're absolutely sure you don't know anything about Mrs. Keldorf's canary?,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
+928,"I know... but he's a stray. And, I think he likes football.",1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
 928,"He wants to watch the Lion King, again.",1.2597402597402598,0.06510572243024297,77.0,62.0,10.0,5.0,579
 928,"They say, 'Uneasy lays the head that wears a crown.' My ass.",1.2597402597402598,0.06510572243024297,77.0,62.0,10.0,5.0,579
 928,We should have just had a child,1.2597402597402598,0.06767952860963261,77.0,63.0,8.0,6.0,579
 928,"I don't know about you, but I'm pretty sick of bringing him dead mice.",1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,579
 928,"""Do you think it's time to have a kid?",1.2597402597402598,0.06242588880829495,77.0,61.0,12.0,4.0,579
-928,Maybe we should just give him some of my Xanax instead.,1.2597402597402598,0.059625733486871,77.0,60.0,14.0,3.0,579
+928,Maybe we should just give him some of my Xanax instead.,1.2597402597402598,0.059625733486870995,77.0,60.0,14.0,3.0,579
 983,The vet says it's Stage 4 Ennuie.,1.2567567567567568,0.06399281131765669,74.0,59.0,11.0,4.0,579
 983,"Come on, it's just one mouse.",1.2567567567567568,0.06682299864030937,74.0,60.0,9.0,5.0,579
 983,I wonder about his other eight lives.,1.2567567567567568,0.06399281131765669,74.0,59.0,11.0,4.0,579
@@ -2235,7 +2235,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2035,It's a House cat.,1.1964285714285714,0.06456469048857104,56.0,47.0,7.0,2.0,579
 2035,Not my King!,1.1964285714285714,0.06456469048857104,56.0,47.0,7.0,2.0,579
 2236,His father was in real estate. He's never scratched or clawed for anything.,1.196078431372549,0.0627450980392157,51.0,42.0,8.0,1.0,579
-2237,My kingdom for a sandbox right about now.,1.1935483870967742,0.05556645312185479,62.0,51.0,10.0,1.0,579
+2237,My kingdom for a sandbox right about now.,1.1935483870967742,0.055566453121854785,62.0,51.0,10.0,1.0,579
 2238,Dog people are so emotionally needy.,1.1929824561403508,0.06351541803245209,57.0,48.0,7.0,2.0,579
 2238,"The ""millennial"" breed name should have tipped us off.",1.1929824561403508,0.06826986702694858,57.0,49.0,5.0,3.0,579
 2238,But its good to be king!,1.1929824561403508,0.07271410564613541,57.0,50.0,3.0,4.0,579
@@ -3271,7 +3271,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3162,"He's auditioning for the role of Louis XIV in ""A Tale of Two Kitties.""",1.1428571428571428,0.054649432548286164,42.0,36.0,6.0,0.0,579
 3162,Cat's in the Cradle.,1.1428571428571428,0.0644049739048166,42.0,37.0,4.0,1.0,579
 3162,"Okay, but you still have to use the box.",1.1428571428571428,0.0644049739048166,42.0,37.0,4.0,1.0,579
-3162,This cartoon idea I had in college did not age well.,1.1428571428571428,0.05050762722761053,49.0,42.0,7.0,0.0,579
+3162,This cartoon idea I had in college did not age well.,1.1428571428571428,0.050507627227610534,49.0,42.0,7.0,0.0,579
 3162,We're getting a dog and you can have all the catnip you want.,1.1428571428571428,0.054649432548286164,42.0,36.0,6.0,0.0,579
 3162,Everyone still has to use the litter box.,1.1428571428571428,0.054649432548286164,42.0,36.0,6.0,0.0,579
 3162,"Heavy is the head, eh?",1.1428571428571428,0.0644049739048166,42.0,37.0,4.0,1.0,579
@@ -3318,7 +3318,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3162,Must it always be the death penalty?,1.1428571428571428,0.07286591006438152,42.0,38.0,2.0,2.0,579
 3162,"Only 7 lives left to shape up, Your Majesty.",1.1428571428571428,0.054649432548286164,42.0,36.0,6.0,0.0,579
 3162,We are putting you on a low-carb diet immediately after your coronation celebration.,1.1428571428571428,0.0644049739048166,42.0,37.0,4.0,1.0,579
-3162,Joffrey over here hasn't seen season four yet,1.1428571428571428,0.05050762722761053,49.0,42.0,7.0,0.0,579
+3162,Joffrey over here hasn't seen season four yet,1.1428571428571428,0.050507627227610534,49.0,42.0,7.0,0.0,579
 3162,King Leo says you're blocking his sunlight.,1.1428571428571428,0.054649432548286164,42.0,36.0,6.0,0.0,579
 3162,"What he's requesting, sire, is to move the litter box off of his pillow and back to the kitchen.",1.1428571428571428,0.054649432548286164,42.0,36.0,6.0,0.0,579
 3162,Have you checked the canary cage?,1.1428571428571428,0.0644049739048166,42.0,37.0,4.0,1.0,579
@@ -5852,14 +5852,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5849,And after wrestling that piece of pizza away from that NYC rat I became King Kat.,1.0303030303030305,0.03077287274483318,33.0,32.0,1.0,0.0,579
 5852,I thought you said this was a quiet little bistro!,1.0277777777777777,0.02817180849095056,36.0,35.0,1.0,0.0,579
 5853,Lady Jane Grey your 9th life is up.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"'I've gotta say, ""Cats: The Musical Chairs"" isn't very good.""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"'I've gotta say, ""Cats: The Musical Chairs"" isn't very good.""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Frailty, thy name is feline.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Why are you surprised that you have indigestion? If Twitter can't stop his tweets, eating the bird won't stop him.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Ben and I are worried that an iron throne of swords would be even less comfortable.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Catleesi, Winter is coming...",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Catleesi, Winter is coming...",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,We want you to take your throne and go.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Look - this IS the strippagram.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Yes, we are sorry, too. But all kings can't have tiny hands.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Yes, we are sorry, too. But all kings can't have tiny hands.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,It's tough being head pussy in charge.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"And you're going to build a moat around his litter box, too?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,They're famous for their pizza.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
@@ -5867,20 +5867,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,"Cheer up, sire. Your strategy to distract them away from the tax return issue has gone well.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"We understand that this is your 9th life, but don't you think this is a little too much?",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"You wasted two wishes to see the cat to be a king and have a thrown, now we have to use the last one to get rid of her.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Look Lebron, you are the top cat still, but Kyrie thinks he's the alpha dog......",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Look Lebron, you are the top cat still, but Kyrie thinks he's the alpha dog......",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,The yelp review did say the pizza was instagram-worthy.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,We must be the court jesters for allowing this,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Em'purr'or wants us to stroke its fur!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,'Let's call the apartment Graceland.',1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"The typical Leo from ""King of the World"" syndrome.",1.0,0.0408248290463863,25.0,25.0,0.0,0.0,579
 5853,Well at least he won't shed...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,I told you we shouldn't name him Henry.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I told you we shouldn't name him Henry.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,This place really treats you like a movie star.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,I bet this looked great before it 404-ed,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I bet this looked great before it 404-ed,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Marie Catoinette, we need to hold a catnip intervention...",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,The shift from kleptocracy to Catocracy was surprisingly subtle.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"When this Rex goes, I say we get a Maine Coon.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"The Vet suggested ""Pamper Camp"" they help obese cas recover He's not a spoiled, pampered cat he's just a little out of shape!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"The Vet suggested ""Pamper Camp"" they help obese cas recover He's not a spoiled, pampered cat he's just a little out of shape!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,We don't mind your 'holding court' every night ... but do you have to dress for it?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,'The Trump Method Of Empowering Pets' is becoming worrisome.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Yeah, I did. I beat both Trump and Kim Jong Un in a pie-eating contest.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
@@ -5890,28 +5890,28 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,"Do, cheer up darling..let's sing the Mozart duet..",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"I agree you have 9 lives, but I'm not renaming you Cersei Lannister",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Maybe we shouldn’t have fed him grapes.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,She just hasn't been the same since Lord Mittens ran away.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,That Access Hollywood footage just took every bit of majesty out of him.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Honey, let the groomer take care of him next time.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,She just hasn't been the same since Lord Mittens ran away.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,That Access Hollywood footage just took every bit of majesty out of him.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Honey, let the groomer take care of him next time.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I warned you not to call her Queenie,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Help us understand this sudden identity chaos.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Get your leashes,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Get your leashes,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I think he's starting to realize it's a jungle out there.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"King? OK, maybe I'd feel better if you named your dog ""pussy cat"".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"King? OK, maybe I'd feel better if you named your dog ""pussy cat"".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Well, Rex and I don't think all pampering is spoiling.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Our poor dumb cat wants to imitate Trump.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,And I thought I would be the one placed on a pedestal.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,As we have said before - where does Sheeba sit? Anywhere Sheeba wants.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Sure, being king of the house is great, but we think it's time for you to step up and become king of the jungle.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Sure, being king of the house is great, but we think it's time for you to step up and become king of the jungle.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,He says he doesn't want to be a King in his next 8 lives,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I told you naming him Henry was a bad idea!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,I think her new food is a little too salty. What do you think?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I think her new food is a little too salty. What do you think?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Bad Mr. Mittens! Not until we hear from the College of Heralds.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"He just found out that even with 9 lives, he won't live long enough to succeed Queen Elizabeth.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"He just found out that even with 9 lives, he won't live long enough to succeed Queen Elizabeth.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"He may be our leader, but I'm just getting tired of the hissy-fits.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Felix the Ninth, this is probably the end of your line...",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Don't you think it's time you took off that stupid crown, claiming to be a descendant of the Cheshire cat and went back to chasing mice?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Don't listen to the dog. You ARE King of the Jungle.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Don't you think it's time you took off that stupid crown, claiming to be a descendant of the Cheshire cat and went back to chasing mice?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Don't listen to the dog. You ARE King of the Jungle.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Didn't we ask the waiter to go light on the paparazzi?,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,Looks like the Clooneys are eating in again tonight.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Would you like a chin strap?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
@@ -5920,8 +5920,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,Some cats don't have everything you have so we were just donating some of your old toys to the shelter. So you see you can still be just as happy with what you have here.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Do you think the cape's too small?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Let's call him The Mooch.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,No more HBO.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,It's not that we don't support your passion. We just think you're taking the Henry VIII tribute a little too far.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,No more HBO.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,It's not that we don't support your passion. We just think you're taking the Henry VIII tribute a little too far.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,He's killing himself making America great again. Sad!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Bring me the dog, I'd like to slowly push him off the couch",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Cat got your tongue?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
@@ -5932,15 +5932,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,"So stop sight your baby, and be happy again...When you're smiling!",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Why the big puss?,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,Let them eat mice.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
-5853,"Do you really think ""My kingdom for more catnip"" was such a great idea?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Do you really think ""My kingdom for more catnip"" was such a great idea?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"I don't care if you're king, Fluffy-- I'm not getting you a Twitter account.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,What if we promise to change your litter every day?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,What if we promise to change your litter every day?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Honey, I'm sorry, but we have to cancel our vacation...",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Where the Wild Things Are, The Sequel: Scene 1, Take 1.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
-5853,"We got you the throne. We got you the crown and the robe. But Fluffy dear, we're not going to call you ""Rex."" That's a dog's name.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"We got you the throne. We got you the crown and the robe. But Fluffy dear, we're not going to call you ""Rex."" That's a dog's name.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Remember when you just couldn't wait to be king?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"No Sugar, we can't snuff out ALL the dogs just because you want to.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,The vet said it is the post-modern ennui virus. He says all the cats have come down with it.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,The vet said it is the post-modern ennui virus. He says all the cats have come down with it.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I guess Princess is all grown up and ready to rule.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"No, the mice won't listen to us either",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Was dinner really that bad?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
@@ -5949,25 +5949,25 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,Now we have a king.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,We don't mean to intrude but there's a mouse in the garage...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,A dog would be your subject.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Seems depressed, after we took away his tweeting toy.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,He's been this way since he ate our Doberman.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,We should have never sent you to college.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Seems depressed, after we took away his tweeting toy.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,He's been this way since he ate our Doberman.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,We should have never sent you to college.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"""It's your move"".",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"No, Mommy and Daddy are not going to get you more cheese right now.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Stop letting him purr-suade you honey,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"No, Mommy and Daddy are not going to get you more cheese right now.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Stop letting him purr-suade you honey,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I really think it's time for the monarchy to go.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Good try, but here the Kardashians are the aristocrats",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Your turn to scratch 'His Royal Heinie',1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,We bring news of plots to dethrone Your Majesty upon signs of any more poop outside the royal litter box.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Just because female cats are called queens doesn't mean you're the king.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,She's not feeling purrr-fect!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"This is not what they meant by ""Lion King"".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,It must be the grain-free cat food.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Mittens... we know you've been using our HBO log-in details.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,White Russians don't sit well with Russian Whites.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,She's not feeling purrr-fect!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"This is not what they meant by ""Lion King"".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,It must be the grain-free cat food.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Mittens... we know you've been using our HBO log-in details.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,White Russians don't sit well with Russian Whites.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Turns out he's making a statement about the imperial presidency.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I'm sorry. He found my Instagram.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,He wants us to purr before him.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,He wants us to purr before him.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Ideal choice. This one hasn't been clawed off.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,He just couldn't wait to be king,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,And to think my ancestors fought in the revolutionary war to free us from royalty.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
@@ -5979,16 +5979,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,He's a Millennial cat.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,But can a king who looks like a cat look at nothing?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I can't wait for the dragon queen.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"No, it's NOT a joke, it's my life!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Look with 2020 is just around the corner so if we can get the cat lover vote...well you do the math.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,It's just that imported silk is much pricier than yarn.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"No, it's NOT a joke, it's my life!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Look with 2020 is just around the corner so if we can get the cat lover vote...well you do the math.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,It's just that imported silk is much pricier than yarn.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Tell us about the pillaging sire,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Keep reminding yourself, ""I'm a lion trapped in a cat's body.""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Keep reminding yourself, ""I'm a lion trapped in a cat's body.""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I suppose he won't be settling for Cat Chow from now on.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Huh? So, where's Owl and my Beautiful Pea Green Boat?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Huh? So, where's Owl and my Beautiful Pea Green Boat?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"You're taking this lion- thing too far.""",1.0,0.0408248290463863,25.0,25.0,0.0,0.0,579
-5853,He's a real 'Royal' you know; a 'Royal' pain in the ...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Do you ever feel that Kitty is kinda taking us for granted?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,He's a real 'Royal' you know; a 'Royal' pain in the ...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Do you ever feel that Kitty is kinda taking us for granted?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Sorry honey, we just didn't know how to break it to you that you aren't actually king.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,When would you like to dine?,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,579
 5853,But you wanted to be President of the United States.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
@@ -6000,18 +6000,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,It has been this way since instagram gave his account the verification badge,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Are we overindulging his 'king of the jungle' complex?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,i kinda wanna suck off this cat,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,They won't leave this King of the Cats thing alone.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,They won't leave this King of the Cats thing alone.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Do you think we cheated him of the values he'll need to cope with life?,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,"And we loved you so much we named out ""Queenie."" It's a good name, darling, but that's all it is. We are not your ""liege men,"" and you can't order Buddy to be beheaded.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Good news, darling: Henry has abdicated the throne—and believes you should become the new King of the Cats.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Good news, darling: Henry has abdicated the throne—and believes you should become the new King of the Cats.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Poor thing, Trump thought he was a she. His family jewels will never be the same!",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"In my opinion, King Thomas sounds more royal than King Tom.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Your approval rating is at a historically low 50%...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Quit milking it, pussy.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,King partied too much last night with the catnip,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Your approval rating is at a historically low 50%...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Quit milking it, pussy.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,King partied too much last night with the catnip,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I still think you should use the kitty litter. Your Highness.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"Thanks, Rex. Now it’s your turn, Dad – what are YOU offering as a role model?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"I know you think we use you as a tool of transference, but somebody's got to do it.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Thanks, Rex. Now it’s your turn, Dad – what are YOU offering as a role model?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"I know you think we use you as a tool of transference, but somebody's got to do it.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Just remember - this is not a game.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"When I grow up, I can clean the litter box!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,How would your royal highness like his cat food prepared? Or would he prefer fish?,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
@@ -6019,40 +6019,40 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,Only you can unbanish the laser pointer.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I think this cat is really starting to come between us,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,No! I did say 'glitter'. I said l-i-t-t-e-r... 'litter',1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,He's been this way ever since he saw The Lion King,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Banished?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,He's been this way ever since he saw The Lion King,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Banished?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I just wish we knew he didn't really want to be king before he accepted it.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"I know you want another belly rub, but don't you think 20 a day is a bit much?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Should we have rethink the name Empurror Puffybottom?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Should we have rethink the name Empurror Puffybottom?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,We should have used a lighter material.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Don't sell yourself short. Remember, a lion was supposed to have that crown.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,We'll inform the press that your 'Let them drink latte' tweet was ironic.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Can he have it back until he falls asleep?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Can he have it back until he falls asleep?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Baby, you were adopted",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I hear they got their pizza recipe from Alec Baldwin.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Meow, meow, ennui, ennui",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,No one's trying to mercury poison you.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"But it's not like they show ""King Rat"" on TCM a lot.""",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"Well, Puss, the store doesn't sell boots this time of year, so you will have to wait for Fall.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Lester Holt: ""So when did you discover your cat poops diamonds?""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Well, Puss, the store doesn't sell boots this time of year, so you will have to wait for Fall.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Lester Holt: ""So when did you discover your cat poops diamonds?""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I would rather have a potbellied pig,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"How 'bout this: separate feeding bowls, shared litter box, you get the patio in the morning, he'll have it for two hours every evening.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Louis the 14th with claws,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Louis the 14th with claws,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,So it's a game of cat and thrones?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Sir, the Queen prefers cats to corgies now.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"Yes, we know kings had someone to wipe their bottoms, but you're a cat.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Yes, we know kings had someone to wipe their bottoms, but you're a cat.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Look, Flea Bottom’s not real, Smokey, it’s just a TV show.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,We do value your needs as higher than our own needs.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"That's it, we're calling him ""Trump.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Please tell us what you want.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,I see that but what dose have to do with Trump,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I see that but what dose have to do with Trump,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Great idea to have chosen career over children!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I think it's time for a social media vacation.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"let 's change tack and call our next cat ""cataract"" and avoid any need for costume jewellery",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Felix... We need to discuss your curfew, so take that crown off your head NOW.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Yeah, we were worried about the cost, but we gotta let Nicole be Nicole... just going to see where this takes her.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,He thinks letting cats into the Westminster Dog Show was a really big deal,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
-5853,The purr seemed innocent...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,The purr seemed innocent...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"We're holding this intervention regarding your demand for a daily dinner of fresh, not canned tuna and shrimp...",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"His Highness has deemed you acceptable as a live-in servant-you may now consider yourself as Feline Sanitation Engineer, Bedwarmer-Second Class, and Food Provider on Demand Provisional. Sharing of His Human is non-negotiable.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"So, just when everyone started calling me the King of Beasts and then this had to happen.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
@@ -6062,9 +6062,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,It's time to take us out.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Now as King, you'll be in charge of the house finances",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"""Look Tom, think of it as a two-fer!"" They would only get in the way anyway and without them it makes you look thinner! Win, win!",1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
-5853,Even a King couple can look at a cat.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Even a King couple can look at a cat.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,No slouching if you want to be on YouTube!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,We're sorry.A retirement account is a bridge too far.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,We're sorry.A retirement account is a bridge too far.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"C'mon Puss, give'em another chance. He didn't mean to question your lineage.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,There's only room for one queen in this household.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,This is just another example of what we have been talking about.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
@@ -6072,7 +6072,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,"Naming him Rex was fine, but did you have to teach him French?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Gingy took the wrong sense of the word ""pedigree"" at the vet's today.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"He may think he's king of the jungle, but really he's just king of this lousy little apartment.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,I just detest the pizzarazzi!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I just detest the pizzarazzi!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,We promise this will be your last shot.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"We bought you this ridiculous throne to boost your self esteem, but this is excessive",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,It's entirely your choice: You don't have to sleep with her if you don't want.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
@@ -6090,75 +6090,75 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,"No matter what happens you will always be our little king. I'm sure the ""King of Thrones"" people will consider all of your selfe.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"""He just keeps telling me over and over again that all he wants is a horse"".",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Queen of Spayed.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Fat cat is still too obvious. They will think you are being fake!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,This Fat Cat needs to be dethroned - not to mention declawed!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Fat cat is still too obvious. They will think you are being fake!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,This Fat Cat needs to be dethroned - not to mention declawed!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I think the taxidermist did a great job done.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
 5853,"My Ex's all choked on Pizza, but I love it!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"I'm just saying, maybe the electoral college needs to be revisited.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Don't worry, Felix, just tell us how you feel about it.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,So how do you feel about choosing mediation now?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,So how do you feel about choosing mediation now?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Mouse flambé for dinner -- again?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I can't believe the EU turned down Our Grace Flufflykins's offer to negotiate Brexit.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"We have been more than fair with you, but addressing you as ""Calico of the Castle"" is a definite NO.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Old King Cat was a very smart tom, And a very smart tom was he; He called for his bowl, and he called for his crown, And he called for his owners three",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Old King Cat was a very smart tom, And a very smart tom was he; He called for his bowl, and he called for his crown, And he called for his owners three",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Maybe I'd be treated like a Queen too if I slouched around like that all day only wearing a crown and fancy robe.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,It looks like Leo is all worn out!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,You sound just like Mel Brooks!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,It looks like Leo is all worn out!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,You sound just like Mel Brooks!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Don't worry, feeling uneasy comes with the territory.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,So did this kittykat have too many nips?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"I'm afraid the cable out, Puss. They'll no Game Of Thrones tonight.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"I'm afraid the cable out, Puss. They'll no Game Of Thrones tonight.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,It's not you; it's him.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,I think we should start making him clean his own litter box.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,All he needs is a mirror,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I think we should start making him clean his own litter box.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,All he needs is a mirror,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,King of the Jones's,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I guess cofefe finally got him.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,What's wrong with trying to improve yourself?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Old King-Cat-Acole Was a merry old soul,",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"We understand Cleo, heavy hangs the head that wears the crown.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Well Kitty, your reign is coming to an end. I'm pregnant.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"We tried, but the board vetoed your mouse pool.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Well Kitty, your reign is coming to an end. I'm pregnant.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"We tried, but the board vetoed your mouse pool.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Shouldn't have let him see that movie, now its gone to his head.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,He's so beat,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,He's so beat,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,We're sorry the ladies all rejected you.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I was wondering about calling her Porphyria. What do you think?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,""" I wanted the Tuna in Clam sauce "" !",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,It seems Donald has gotten some clothes.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,I think having him fixed might have been a mistake.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,The doctor says his reign is terminal.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,I don't see why you wanted a cat with a pedigree. The other type is just as nice.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I think having him fixed might have been a mistake.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,The doctor says his reign is terminal.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,I don't see why you wanted a cat with a pedigree. The other type is just as nice.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"For goodness sake, the Cavelier King Charles is just a dog. How 'bout we call you Queenie?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,He wasn't kidding when he said our dinner would be here in a flash.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,He wasn't kidding when he said our dinner would be here in a flash.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Maybe I pamper Rex a little too much.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Winter is coming.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Winter is coming.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Dad, who let the king out of the bag?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Isn't it time you moved on from kitty litter?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,And you wanted to get a stupid dog,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"We have made progress, sweetheart, and I thank you for your efforts.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,He hasn't been the same since Lady Olenna drank that poison.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,You're King of the Beasts but want more?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"But you said if we were really, really good we'd get our phones back today. [NOTE: If possible, today in ital]",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"But you said if we were really, really good we'd get our phones back today. [NOTE: If possible, today in ital]",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"As if it was not enough to have a hot dog in our room, now they bring a cold cat king here.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,This is no time for a hissy fit your Grace.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Give him wet food once, and...",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I promised you'd stop the leaks but he doesn't believe me.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,He says will can still scratch his belly,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,He says will can still scratch his belly,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"...""the jungle...not the house"" !",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,We'll get rid of the dog if you'll stop tweeting.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Kitty litter,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Kitty litter,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"He says we should address him as ""The Donald"".",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,I told you that naming him 'King' was a lousy idea.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,The only trick he knows is successfully running a pyramid scheme.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Who do you think could have possibly thrown her?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"A twenty percent approval rating with sewer rats isn't bad, considering they're your base and your dinner.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Who do you think could have possibly thrown her?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"A twenty percent approval rating with sewer rats isn't bad, considering they're your base and your dinner.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,They said it's Twitter withdrawal.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Does ""Your Majesty"" need a treat?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Well, you have been treating him like he was king of the house. What other kind of attitude did you expect?",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,"You should know it's true. You do have an older brother. He ran away years ago chasing some tramp, but now he's back and he is asking about the rules of succession.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I'm thinking we should have named him something other than Henry the 8th.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"Its OK, relax, the robe is in a better place now.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Its OK, relax, the robe is in a better place now.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Everything about you is precedential, and we think you'll do great in the White House.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Chris and Emma chose a pet over parenthood and lived happily ever after,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"Yep, the cat can look like a king.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Yep, the cat can look like a king.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"They said you could look at one, not be one.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"He's devastated. The other dancers won't perform unless a mouse is named to play the ""Mouse King.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,They are so entitled these days.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
@@ -6169,48 +6169,48 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,Next time let's not use Trump's taxidermist.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"I told you the sign, 'Free Kittens', was totally untrue, that pets cost a great deal, but I wasn't prepared for this.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,"I think that ""King of the Sea"" tuna we started buying for you, is going to your head!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Bad news, Matt. My Fat Cat sat on your white rat and squashed it flat. Sorry about that.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Well, it definitely wasn't me...",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,You're going to grab them by the what?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,I think I'm done with this taxidermist!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Bad news, Matt. My Fat Cat sat on your white rat and squashed it flat. Sorry about that.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Well, it definitely wasn't me...",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,You're going to grab them by the what?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,I think I'm done with this taxidermist!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,She thinks she is King Trump!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Animal Planet was speaking generically. You're still the real King.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,He requests his chief-of-staff to be a general AND a billionaire.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,He requests his chief-of-staff to be a general AND a billionaire.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,King my ass! You're just a cat.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,My analyst suggested a sex-change for Henrietta.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,My analyst suggested a sex-change for Henrietta.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Garfield called to say you are the greatest king ever!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,What did I do to deserve being the one chosen for royalty?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,What did I do to deserve being the one chosen for royalty?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,He say's he's leaving us because he's bored.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"It happens sometimes when you trap, neuter, and don't return to the colonies.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Can we tell our master that he needs a diet?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,We warned you--it's a jungle out there.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,We warned you--it's a jungle out there.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Our Orange Tabby has a comb-over under the crown...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Honey we think of you as a lion.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Did mom at least try to explain this to you?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,He said he just wants to go back to being a tomcat.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Did mom at least try to explain this to you?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,He said he just wants to go back to being a tomcat.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,their pizza is famous,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Well, to quote your favorite show, Game of Thrones, ""You look a lot better brooding than I do.""",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,They call her the crazy people lady.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,Shall we name him Donald?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Never should have named him 'Henry the 8th'.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Never should have named him 'Henry the 8th'.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,We are a cat more sinned against than sinning...,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,"Think of it as ""adding a new subject""...",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"All we're saying is, we think you're taking this King of the Castle business a little too far. We already clean your litter box three times a day. So the answer is 'No, we're not adding 'Girls Gone Wild' to your cable TV.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"All we're saying is, we think you're taking this King of the Castle business a little too far. We already clean your litter box three times a day. So the answer is 'No, we're not adding 'Girls Gone Wild' to your cable TV.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,What Happened,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,"I'm afraid he's right, Fluffy - all of the tuna comes from a can.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Sorry you lost your twitter privileges.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Sorry you lost your twitter privileges.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,We should have sprung for sable.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Ironic, his for us orange.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,At least we don't have to splurge on his haircuts...,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,579
 5853,He's deciding if his command is 'errnt' or 'Meow.',1.0,0.0408248290463863,25.0,25.0,0.0,0.0,579
 5853,We're still not tipping him.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
-5853,We need to give the cat a tonic.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,We need to give the cat a tonic.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I guess I do indulge him a little.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,But will the 99 percent be content to eat cream?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"I said cater ""fish"" to my every need",1.0,0.0408248290463863,25.0,25.0,0.0,0.0,579
-5853,"Henry the Eighth I may not be, but I demand your obedience nevertheless",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Henry the Eighth I may not be, but I demand your obedience nevertheless",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,That's the big inheritance?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"Ironic, his for us orange.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Ironic, his for us orange.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"We understand it is your decree, King Whiskers, but we are not decapitating Snow Ball.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,He only eats King Chow now.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,We should have let him have one litter.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
@@ -6224,17 +6224,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,He's bummed he's no outdoor king.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I was hoping for a more subtle memorial.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"The ogre really isn't sitting well, is he?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Yes, he voted for 'Trump' too!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Yes, he voted for 'Trump' too!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"We know, it's not easy being King.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,You don't seem to understand. You can't just hang out and do nothing but reign.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,We would need to be Fat Cats to support your kingdom!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"I know he's a German Rex, but who knew he would take it so literally?",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Uneasy lies the head that wears the crown...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Uneasy lies the head that wears the crown...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,You are invited to the premiere of another new-open broadway show theater.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Oh, honey, maybe cosplay just isn't a fit for you.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Maybe he identifies more as a CEO . . .,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Even though the mouse got away, you're still the King of the house in our eyes.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Since the brain transplant, the country has been purring.....",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Since the brain transplant, the country has been purring.....",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Well, it's a start...",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I knew we shouldn't have named him King Arthur.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Would you like us to take our shoes off while you're napping?,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
@@ -6246,47 +6246,47 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,Puss and Dupes,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Are you telling me we are out of food? Off with your head!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"While Jack and I were very much looking forward to our vacation in Aruba, I suppose...",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Catachresis Cat Scan.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Think he's just hungry?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Catachresis Cat Scan.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Think he's just hungry?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Shall I get you another mouse, Sire?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Your constituency is not what it used to be.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I told you that cat food would go to his head.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,He really is the alpha male,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,He really is the alpha male,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Downsizing becoming reality.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Don't tell me. Royal Canin for cats was on sale at Amazon.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"You know, sweetie, some things just aren't all they're cracked up to be.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"We're sorry freckles, but we will not be ordering you the rodent guillotine.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"I told you I didn't want to watch ""The Wizard of Oz.""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"You know, sweetie, some things just aren't all they're cracked up to be.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"We're sorry freckles, but we will not be ordering you the rodent guillotine.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"I told you I didn't want to watch ""The Wizard of Oz.""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"The cat sitter was binge watching "" The Game of Thrones"".",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Don't take it personally. Insurrections are just part of the job.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Cat issues proclaimation for , "" Dogless days of Summer"".",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Tell me, Your Majesty, why you'd rather be the cat's meow than king.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Maybe with a bucket a chicken.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,All hail the feline queen!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,All hail the feline queen!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,This is for which birthday party?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Have you considered abdicating the throne?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Have you considered abdicating the throne?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Should I order 1 or 2 mousetraps on Amazon Prime?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"We are so, so sorry. We had no idea there was such a difference between Fancy Feast and Fancy Fest.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Fuck, dude, look at this cat.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Poor Brexit. Do you think he'll survive.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Your highest, we are not worthy.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"If it makes you feel any better, we executed all those pesky red dots.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Now that you made it to the big top, what's next?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"If it makes you feel any better, we executed all those pesky red dots.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Now that you made it to the big top, what's next?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I should never have let you name him Trump.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,I warned you about calling him Rex.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I warned you about calling him Rex.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"I told him to leave, but I can't bear to grab him by anything.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I just don't think he's going to be happy until the Knights in Armor get back from their battles.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,''It just shows the importance of a name. I guess we never should have called him Trump.'',1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Fired,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,''It just shows the importance of a name. I guess we never should have called him Trump.'',1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Fired,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"I told you he wanted the ""scepter""!",1.0,0.0408248290463863,25.0,25.0,0.0,0.0,579
-5853,i am not sure your combination of kitty litter and royal throne works for him,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,i am not sure your combination of kitty litter and royal throne works for him,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Bring me Fido's head on a stick.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I told you not to go to that taxidermist.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,You look hot. How about a cold micecream cone?,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,579
 5853,Tell us about your day at Burger King.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,He's been like this ever since you gave him the canned food.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Sorry, Your Majesty--guess it wasn't ""A cat may look like a king"" after all.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,And why did the taxidermist pick this costume?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,He's been like this ever since you gave him the canned food.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Sorry, Your Majesty--guess it wasn't ""A cat may look like a king"" after all.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,And why did the taxidermist pick this costume?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"We treat you like a king, I'm just not so sure anyone else will accept your reign.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Maybe that vasectomy wasn't a good idea after all...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I think his thrown is too low.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
@@ -6298,52 +6298,52 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,"Of COURSE I was going to implement the Solomon option first, sweetie..",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,This is too much even for a cat.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,We tried a regular litter box.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Do you think he realizes he has no clothes on?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Do you think he realizes he has no clothes on?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"King Fluffy, when I called you 'Princess', I meant it affectionately.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,He's been watching The Borgia.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"He was playing King of the Castle with the dog, but there were a lot of mice in the Keep.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"He was playing King of the Castle with the dog, but there were a lot of mice in the Keep.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"You gave him ""King's Cat Food,"" huh?",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,We tried our best in our middle class but it doesn't seem to be working.,1.0,0.039223227027636816,26.0,26.0,0.0,0.0,579
 5853,This is what you get for naming me Rex.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Your father and I think that conversion therapy would be helpful.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I'm sorry but the budgie has staged a coup and says that you have 24 hours to get out.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,...Our son has two parents who love him very much and for his sake we want to keep this situation as private as possible moving forward. We still have love for each other and will always cherish our time together.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,His kitten photos went viral.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,His kitten photos went viral.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Joffrey has been terrorizing the neighbors again. Mrs Tyrell threatened to take matters in her own hands if he pees on her roses one more time.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,The cat in the crown knows a lot about lying around,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,I thought he would be more regal but he just wants to nap.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I thought he would be more regal but he just wants to nap.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"But we don't have a dog, so what does it matter?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,He thinks he's Henry VIII. Hide the ax!,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
 5853,I think maybe it's time we get a cat scan.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,He's a rescue all right. One of the volunteers at our no-kill shelter found a miniature guillotine that had been poorly constructed the night before.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,He's a rescue all right. One of the volunteers at our no-kill shelter found a miniature guillotine that had been poorly constructed the night before.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Let's name him Darnold.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,We do understand that even royalty gets dog-tired.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,They said his cavity would require a crown,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,We do understand that even royalty gets dog-tired.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,They said his cavity would require a crown,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"I know the boots were tight, but the crown does fit.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"BURGER KING again, Jack?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Burmese-y lies the head that wears the crown.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,He just can't stop brooding about his legacy.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,You'll be OK. I felt the same way when I got my crown.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Be that as it may, we feel that even royalty shouldn't lick their private parts in front of company.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"My Loyal Subjects, I'm Sorry to Say, You're Fired!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"My Loyal Subjects, I'm Sorry to Say, You're Fired!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"But he'll still use the litter box, right?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,But his litter box still requires attention.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,But his litter box still requires attention.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Catnip consumption withdrawal syndrome.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Don't turn around. It's the pizzarazzi.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,And that is how I became King of the U.S.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Maybe Louis Catorce isn't such a great name after all.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I don't think fluffy's the one being trained here,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Is it a tiara or a crown?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Is it a tiara or a crown?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,You'll be Simba in your next Circle of Life.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,And/ we're switching back to Starkist.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,King Of The Jungle seems like an unrealistic goal,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,King Of The Jungle seems like an unrealistic goal,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I wish she'd wear underwear.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,where did my big plate of fish go?!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I love when the humans watch me sleep...they are so easily amused!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Thank god we didn't name him 'your malevolent dictator'!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,There was a sale at Royal Pet,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,579
-5853,What can Tom and I do to make your life less uneasy?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,What can Tom and I do to make your life less uneasy?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Ma'am, could you consider moving the throne back to under the kitchen table?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"As you can see, being the King is not always what you think.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,You still can't grab people like that.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
@@ -6353,30 +6353,30 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,Is the guillotine ready?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Looks like the Pot Nips are a Go!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Do you wonder if we should have gotten a dog instead?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,I have no idea what happened to all that Imperial Margarine I left out on the counter,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"But sweetheart, you are the real king of our urban jungle",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I have no idea what happened to all that Imperial Margarine I left out on the counter,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"But sweetheart, you are the real king of our urban jungle",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Hemophilia cat?,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
-5853,"But, be forewarned, your Grace - White Walkers are approaching from beyond the wall.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,This is just how I pictured it.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"But, be forewarned, your Grace - White Walkers are approaching from beyond the wall.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,This is just how I pictured it.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,It's her Memory.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Seventh or eighth life?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"She ate Bingo, now it's just reigning cats.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,I told you Mittens was not a strong name!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I told you Mittens was not a strong name!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"No matter how much you stare at it, it's still weird!",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Uneasy lies the head that takes over the whole damn house!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Uneasy lies the head that takes over the whole damn house!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Doggone it. I knew we should have named him Fido.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Honey, I didn't think they meant ""Cat's Palace"" literally!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Honey, I didn't think they meant ""Cat's Palace"" literally!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"He thinks ""kitty litter"" is a form of transport.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I've heard about orange tabbies.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Who would be in your small council? Your grace.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I'll tell you what I need when I need it. So don't leave.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Frank: Now all he needs is a keyboard… Nancy: Why? Frank: Cat King Cole,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,579
 5853,If he could learn how to golf who knows? 2020?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"I knew it would happen one day, watching too many cat food commercials finally contributed to His Majesty's sense of entitlement.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"I knew it would happen one day, watching too many cat food commercials finally contributed to His Majesty's sense of entitlement.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,My first executive order is: we're having cat yummies again.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"She says she only wants to be referred to as ""The Royal Purrr-incess"" from now on.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"She says she only wants to be referred to as ""The Royal Purrr-incess"" from now on.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"If you are feeling stressed, we can always get you a bigger throne.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,His litter box got an upgrade.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,His litter box got an upgrade.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"That's not what I meant when I said you should treat my pussy like royalty, Tom!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"John Adams, I know him; that can't be; he's that little cat that spoke to me",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,You were supposed to give me the royal treatment!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
@@ -6384,7 +6384,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,It's good to be the king... of cats.,1.0,0.032791291789197645,31.0,31.0,0.0,0.0,579
 5853,Perhaps we shouldn't have spoiled you so much when you were a kitten but all we're asking now is that you help out a bit with the mice.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,What can we do to help?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"No, I’m not mourning the kids moving out. I’m just practicing for grand kids.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"No, I’m not mourning the kids moving out. I’m just practicing for grand kids.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Is the crown tall enough?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"He seems to have mastered the keep calm bit, but hasn't quite figured out how to carry on.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,On with the royal hair ball!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
@@ -6394,7 +6394,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,Something to do with Guinevere?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,But we do have visas!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,We really need to talk about the new baby.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,The cat has taken this 'Game of Thrones' thing too far.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,The cat has taken this 'Game of Thrones' thing too far.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,How did this happen to our lives?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"So I said, ""Kiss the ring, bitch.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Of course she's beautiful, but your father and I find your obsession with Cersei just a bit unsettling.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
@@ -6406,15 +6406,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,We shall cut the dog down the middle!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I didn't know it was going to be this much work.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,He was kicked out of the contest to become king of the jungle.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"He thinks he was ""Tudored.""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"He thinks he was ""Tudored.""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I think we should send him to a castle.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
-5853,This isn't over. I'm calling your agent in the morning to see if they will consider changing the part from a lion to a house cat!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,You're gonna need a bigger throne.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,This isn't over. I'm calling your agent in the morning to see if they will consider changing the part from a lion to a house cat!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,You're gonna need a bigger throne.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"OK, what did you wish for this time?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I told you naming him Simba was a bad idea.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Henry, sadly, we must beseech you to eat a more plant-based diet.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I guess we've been watching too much Game of Thrones...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Simply, I auditioned for the part and they loved me.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Simply, I auditioned for the part and they loved me.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"As you ordered , your litter box has been gilded in gold.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"No, it's pronounced ""Muller"", not ""Mew-ler"", so you shouldn't expect a 'Gentleman's Pass'.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,So did Trump issue crowns to ALL fat cats?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
@@ -6422,39 +6422,39 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,"Bob and I will find you some help. If we told you once, we have told you a hundred times, margarine is not good for you!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"I know YouTube made you the breadwinner here, but we need to talk.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I'm afraid we are spoiling Emperor Maximillian.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Next he will be wanting a smart phone!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"....Then it's an hour with a ball of wool, 1/2 hour licking yourself and your day ends with a buffet of tuna and creme anglaise....",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,What was the last bar you were in?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,How many more series of Game of Thrones?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Next he will be wanting a smart phone!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"....Then it's an hour with a ball of wool, 1/2 hour licking yourself and your day ends with a buffet of tuna and creme anglaise....",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,What was the last bar you were in?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,How many more series of Game of Thrones?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,He's been like that ever since he ate the goldfish.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"I don't care what Kim Jong Un's cat can or can't do. This is New York, not Pyongyang, and you're not banishing us to the gulag!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Bear in mind, he did lose the popular vote.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Meow and Paw, I took care of the Wildlings.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,What time does Willy's daycare end?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Perrrfect.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"I know we said ""Cats Rule!"", but this has gone too far. We're not putting ""Let them eat kibble"" on your campaign website.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"I know we said ""Cats Rule!"", but this has gone too far. We're not putting ""Let them eat kibble"" on your campaign website.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"It's okay sweetie, the ROKU will be fixed by this evening...",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,My kingdom for a toy mouse!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,My kingdom for a toy mouse!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"You're not King of the Jungle, but you are still our king.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,So he ate catnap?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Methinks the cat is not amused.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,I told you we shouldn't have named him 'Joffrey'.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,So he ate catnap?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Methinks the cat is not amused.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,I told you we shouldn't have named him 'Joffrey'.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,This cat can sure strike a regal pose all within spit and a half timing.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Well, now that everything has calmed down, perhaps we should call Mum and Dad. He did after all eat the children.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I told you he was taking 'Thrones' too seriously.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Is His Majesty ready for His annual check-up?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,At least he's not wearing stockings and pink satin pants.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Is His Majesty ready for His annual check-up?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,At least he's not wearing stockings and pink satin pants.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Cat is the king! Bring him the mouse.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
-5853,It's the Trump Kitty!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,It's the Trump Kitty!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,The question is .. Who's turn is it to fetch me the Newyorker! And whos turn is it to clean my litter box ?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Okay, you aren't the Lion King, but you are the Laying King!",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Waiting for your order!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Waiting for your order!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"I'm sorry, but we've sworn allegiance to House Targaryen.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,"Your Highness, it's time for feral rehab.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Sorry, no king cat showed up to your cat nip soree.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Sorry, no king cat showed up to your cat nip soree.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,He has been insufferable he caught that squirrel.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I know she will return for her glass slipper!,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
-5853,Sorry Rex but we don't think we'll be able to locate your birth parents.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Sorry Rex but we don't think we'll be able to locate your birth parents.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Her Majesty is collapsing under the weight of her Royal duties.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,It's hard to say if he's participating in the labor force.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"You're the cat expert here, should we be concerned?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
@@ -6464,74 +6464,74 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,Real kings can't have kittens.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"It was at this moment, as Harriet spoke about irregular feedings and the punishment, that Larry realized he should have never let the cat watch that Vice episode on Micronations.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Is there any chance that you might reconsider?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"It's a shame he ate the sixteen white rats you trained, to draw his carriage, before anyone got to see it.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"It's a shame he ate the sixteen white rats you trained, to draw his carriage, before anyone got to see it.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,We really need to talk about your Game Of Thrones binge watching.,1.0,0.039223227027636816,26.0,26.0,0.0,0.0,579
 5853,Just think of it as getting more staff,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,Why do we keep hoping he'll change?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,He hasn't been himself since the mice left.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"King of the Pussies is a NICE title, Harley.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"King of the Pussies is a NICE title, Harley.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"You know, a simple meow goes a long way/",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Do not be mad, you can go out on weekends.",1.0,0.0363696483726654,28.0,28.0,0.0,0.0,579
 5853,The King of the Road needs a rest now and then.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Buzz off, I've been stung before",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Seems like it isn't enough to just look at a queen.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Let them eat fish cake and sleep till noon.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,I hope her retinue takes her home soon.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,But it would be stupid to buy him a horse!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I hope her retinue takes her home soon.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,But it would be stupid to buy him a horse!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,The prince is a superhero.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"I'm getting a sense of remorse here Bob...oh...Joan, get me a bowl of ice cream...you know what? ...make it two and be quick about it.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Meowller has empaneled a grand jury to look at his Siamese connections.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Meowller has empaneled a grand jury to look at his Siamese connections.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Good thing he doesn't have a successor, he will never abdicate.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,It's kind of trickle-down.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Let Kitty be Kitty?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,More caged birds and catnit by the fortnight or you'll both be hanged for treason.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,I'm a subject to his every whim,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I'm a subject to his every whim,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Queenie, have you seen the new puppy anywhere?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Do you remember, Rex, when Mommy and Daddy first mentioned the concept of ""servant leadership?""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Wear what you want, but Burger King says you're not welcome back after what you did to their deep fryer.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Sorry, he said, ""My kingdom for a horse"" not a cat.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Do you remember, Rex, when Mommy and Daddy first mentioned the concept of ""servant leadership?""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Wear what you want, but Burger King says you're not welcome back after what you did to their deep fryer.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Sorry, he said, ""My kingdom for a horse"" not a cat.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Don't be depressed. Think of it as just a bigger family.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,You got the throne so now will you raise the drawbridge?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"At least, he doesn't pussyfoot around on who rules the house!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"As you loyal subjects, we have to neuter you.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"As you loyal subjects, we have to neuter you.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Do you really think by wearing that crown, you can become President Trump's pet at the White House? th",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"But, he doesn't look like a lion?",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"George and I were just wondering if you've made a decision about our request to have a child? It's been six years now, and neither of us is getting any younger....",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Well, we could get a dog named Cromwell....",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Don’t worry sweetie. You’re our little lion.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"We're from West Virginia, but we didn't vote for this.",1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
-5853,You fired the dog.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,You were just supposed to look at him.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"King Whiskers, when we say “exercise”, we mean the option holder would capture the intrinsic value -- not actually exercise.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,You fired the dog.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,You were just supposed to look at him.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"King Whiskers, when we say “exercise”, we mean the option holder would capture the intrinsic value -- not actually exercise.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"We're sorry that Mr Trump passed over you for Chief of Staff, but remember there's always next week.",1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
 5853,"No, the Royal Veterinarian prescribed Cat Mix not cat fix.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,We're restricting this show: it's worse than your catnip habit.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Ennui's already setting in.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"No, darling, what John said was ""Hear, hear, kitty!""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Cat gut gout.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"No, darling, what John said was ""Hear, hear, kitty!""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Cat gut gout.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,This is how he reacted when I told him we were getting another cat.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
-5853,YOUR TURN TO ASK FOR THE BED.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,YOUR TURN TO ASK FOR THE BED.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Oh dear, you think we called him a 'royal pain' once too often?",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,""" Do you think he's really happy""?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Maybe someday Amazon will have a flash sale in mice.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,I always suspected as much.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I always suspected as much.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,He must have seen The Mummy.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"But Your Highness, Marie Catoinette is Austrian. You are Persian. This proposed marriage is not the cat's meow.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Should we put her on a diet before winter comes?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Sorry about the rejection letter. I thought ""The Car King"" had potential.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"""Entitlement"" has gone to his head!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Jungle, schmungle...your therapist is right--just let it go, Harry.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"But Your Highness, Marie Catoinette is Austrian. You are Persian. This proposed marriage is not the cat's meow.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Should we put her on a diet before winter comes?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Sorry about the rejection letter. I thought ""The Car King"" had potential.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"""Entitlement"" has gone to his head!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Jungle, schmungle...your therapist is right--just let it go, Harry.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I knew naming her Cersei was a mistake,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,He said Trump Cats were the best.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I suppose he's worn out from walking to his food dish.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,The vet doesn't know how to stop the tweeting.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,The vet doesn't know how to stop the tweeting.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Well, of course she loves us. But do we still love her?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I really think a dog is the way to go.,1.0,0.039223227027636816,26.0,26.0,0.0,0.0,579
-5853,Maybe Simba was a bad choice of names?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Maybe Simba was a bad choice of names?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I did beg you not to read The King Must Die...,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,The chicken salad is still off limits.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,It's okay honey. Even kings get hairballs sometimes,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,His cosplay while binging Game of Thrones is a little extreme.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,His cosplay while binging Game of Thrones is a little extreme.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,We understand you don't like domestic mice. We've arranged boarder crossings for all the mice your catdom needs to flourish.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,He's upset over climate change. Milton Jefferson,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I told you we shouldn't have named him Sultan.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
@@ -6540,34 +6540,34 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,He's been binge watching The Crown again.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Pussycat used to be queen of the house, but now she's worn out. Since Trump was elected, everyone's always grabbing her!",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Sit - Up Straight !,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,What are you guys looking at? Get me some milk...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,We are having this intervention to tell you that your fancy feasts are really cutting into our family budget.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,What are you guys looking at? Get me some milk...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,We are having this intervention to tell you that your fancy feasts are really cutting into our family budget.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Your scepter is fine, Rex, but about your orbs ...",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"What can we do for you, your kittyness?",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,But he only spent the weekend with our grandkids.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,We just don't understand why you need the crown.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Why no, I haven't been dating.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,We just don't understand why you need the crown.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Why no, I haven't been dating.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I'm thinking we should not have named a Siamese cat Yul Brynner.,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,579
 5853,I don't give him catnip often.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Talk about rubbing salt in the wound.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"Please, ...just a nod.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Please, ...just a nod.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Relax, your royal highness.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,There was catnip everywhere and Whiskers was passed out in a paper bag.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,There was catnip everywhere and Whiskers was passed out in a paper bag.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"A year from now you'll ask, ""How did we ever live without a puppy?""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,When we said King of the Jungle this isn't what we meant.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,We think we've been a little bit too submissive.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Mortimer, we need to talk about you not bingeing Game of Thrones anymore.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,We think we've been a little bit too submissive.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Mortimer, we need to talk about you not bingeing Game of Thrones anymore.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Ooh, Gwumpy King PuddyFootFoot Kittywampus Meowmeow chop your fucking head off.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Mice for dessert is fine, but we draw the line at 30-year-old Port.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Louis XVI also believed that most people were happy with his reign.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Well, that pretty catty of you.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,"We've discussed it, and we feel that Game of Thrones isn't good for you.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Honey, don't you think your obsession with The Lion King has gonne a bit too far?",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
-5853,Will it be Charles or William?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Will it be Charles or William?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"So, your first wish was to be President, the Second was to be King, and what was your third wish?",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"Cats just won't be herded, even by Your Majesty.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Cats just won't be herded, even by Your Majesty.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Your Highness, Fido requests a stay of execution.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"But, Martin Luther, now is the time to rise from the dark and desolate valley.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"But, Martin Luther, now is the time to rise from the dark and desolate valley.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Not to worry. My other eight lives are my successors.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"We got you the crown, chair, and cape - and we get ""A dump"" from you?",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"I ordered pepperoni pizza, not paparazzi pizza!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
@@ -6580,8 +6580,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,Remember when we thought the cone of shame was a royal pain!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,We were hoping to take a long weekend next June.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"One neutering, declawing and obedience class later...and it's still king of the jungle.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,She became her name!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Stop looking this forlorn, she might have eloped with a scaramouch, but you've still got your heirs!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,She became her name!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Stop looking this forlorn, she might have eloped with a scaramouch, but you've still got your heirs!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I think that might actually be her own hair!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I think she just misses the chase.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Human! Fetch me my fancy feast!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
@@ -6592,35 +6592,35 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,Living with him in NOT easy,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Feline-right theory of kingship.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Your Majesty, asking us to chase mice is not part of the deal.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,You have to stop tweeting the canary.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,You have to stop tweeting the canary.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,She's the one he grabbed the most.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Being a fat cat doesn't mean you can throw in our faces like this...,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,It's missing something. . . .,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,We've decided to move out so you can have the place to yourself.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,One more fur ball and your reign is over!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,One more fur ball and your reign is over!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Fluffy, when we said you are the King of house, we did not mean it 'litterally'",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Hail to the King...Kitty,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
-5853,I'll have the paparazzi and sausage please.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,The vet warned us that cats are sometimes very imperious.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I'll have the paparazzi and sausage please.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,The vet warned us that cats are sometimes very imperious.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,We advise you not to fire the dog.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Must you always win?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Must you always win?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"All that said, how will I avoid being the next catastrophe?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Maybe we should've gotten a dog.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Just play with your cat toys and try to forget that you couldn't roll back the sea.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Just play with your cat toys and try to forget that you couldn't roll back the sea.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Draw me up a hot nap, preferably with a sunny spot.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,I suppose I got here by thinking outside the litter box.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I suppose I got here by thinking outside the litter box.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"I said you could LOOK at the king, not EAT him!",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,I just take so much joy in contributing to another life!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I just take so much joy in contributing to another life!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I don't understand why she's so upset; I only asked to borrow the cape not to keep it!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,This is taking the royal breed a bit too far.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Out ranks us but likes us.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,We were wrong to name him Donald.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,We have to revoke the tweeting; the neighbors are embarrassed.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,You think too much catnip was like opioids to her?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"He says the 9 lives are fine, but he would have preferred 9 wives.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"He says the 9 lives are fine, but he would have preferred 9 wives.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,The royal bath is a rite of passage in this kingdom.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,You just had to buy Fancy Feast.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"But, how does the new baby make you feel?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"But, how does the new baby make you feel?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,It's just that being a fat cat isn't cool now.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,We are not amused,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"I don't care that you're king, you've got too many tongues.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
@@ -6633,76 +6633,76 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,"Well... they chose me, so I guess it's all legitimate.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Yo, my King it's a hard job being the boss.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"I have to forget you, though I hate that word",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,What's the matter? Cat got your tongue?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,What's the matter? Cat got your tongue?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Now, do I have this right? You want a potty box in the kitchen.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I didn't coronate him. Did you?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,He's king of the convertible studio.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,He's king of the convertible studio.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"He's a king, he just thinks he's a cat.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"I told you we shouldn't let him watch the ""Wizard of Oz.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Mitzy, no more sacking mommy's secret snack drawer.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,What is the Magna Carta's position on tummy rubs?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,What is the Magna Carta's position on tummy rubs?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,It's really tough being the top cat.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,We’re still not going to gild your litter box.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Uneasy lies the head...,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Next week, your 'Me! Ow!' will be replaced by a 'Bow! Wow!'",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
-5853,They were out of donuts.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,They were out of donuts.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"If you keep the attitude up, we may bring back King Kong.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Our King's ideology is mostly ""middle-of-the-room.""",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,You know what happened to Macbeth in the end don't you?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"I won the electoral college, you can't make me go to the vet.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"I won the electoral college, you can't make me go to the vet.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,We should buy him a boat.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,Every fat cat's reign eventually comes to an end.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Darling, I thought I was your queen!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"All hail his grace, Sir Pounce, First of his Name, King of the Andals and the First Men, Lord of the Seven Kingdoms, and Protector of the Realm.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Okay, I draw the line on his going gluten free.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,OK. Maybe Trump wasn't the best name for our cat.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,OK. Maybe Trump wasn't the best name for our cat.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I am moving to a mono-species autocratic efficiency.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,The bill for his litter box came today.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Tomorrow is the free spay clinic...,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,579
-5853,The royal prerogative does not include scratching the sofa.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,The royal prerogative does not include scratching the sofa.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,We rescued him from a feudal uprising.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,You're boring me!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"We watched the ""Lion Kng"" last night.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,An Image I could see could be worth a 1000 words.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,An Image I could see could be worth a 1000 words.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,You misunderstood me - I said stay away from Tweety Bird not stay away from Twitter.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,He’s a British Royal Breed. In England only Dukes can own one.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"""Your Highness, it's my turn to wear the crown"".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,The cat videos are not worth the costume budget.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"""Your Highness, it's my turn to wear the crown"".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,The cat videos are not worth the costume budget.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Henry is my 8th cat, but I'm adulting so I just call him Henry.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,So...bragging about grabbing some was the easy part?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"No, her name is Kitty, Queen is just her job!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"As you wish, sire.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"As you wish, sire.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,It's time to abdicat the throne.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Why don't you try a little golf to relax? You can keep your throne; just call it a working vacation.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Get me a mirror!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,The world is mix grill with no meat sauce.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Still got your dog whistle?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,The world is mix grill with no meat sauce.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Still got your dog whistle?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,He thinks his daddy was a lion.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,It's a bit Rococo and I'd say we're more Late-Modern.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Noblesse oblige. Purr-form your royal duties, King Katniss.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Are you sure the vet prescribed Regicide?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Are you sure the vet prescribed Regicide?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,He thinks he is king of the pussy cats,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,"I'm intrigued. Tell me more about those investments called TIGRs, CATs, and LIONs.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,He just saw the Wizard of Oz and is deflated.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,You had to let him watch Lion King?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,He just saw the Wizard of Oz and is deflated.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,You had to let him watch Lion King?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Maybe we made a mistake with the name Rex.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,She says it wasn't the Russians that let her get into this position.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,She says it wasn't the Russians that let her get into this position.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Ummm... maybe which try bowing down.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Sire, adoption is not the stigma in Royal Succession it once was.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"I am *not* addressing you as ""your highness.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,I told you we shouldn't have named her Queenie,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I told you we shouldn't have named her Queenie,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"You stand in the presence of Mittens, First of Her Name, The Unburnt, Queen of the Andals and the First Men, Queen of Meereen, Khaleesi of the Great Grass Sea, Protector of the Realm, Breaker of Chains and Mother of Dragons.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
-5853,Itchy lies the head that wears a crown.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Itchy lies the head that wears a crown.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"You said, ""Let him see Game of Thrones.""",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I've always heard crowns can be very heavy.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Who died and made him king?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,I hate it when he slumps on his throne,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Somethings are just worth waiting for! The next Game of Thrones Book is due out any day now!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Who died and made him king?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,I hate it when he slumps on his throne,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Somethings are just worth waiting for! The next Game of Thrones Book is due out any day now!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,But you're the King for your ninth life.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,This is what always happens to the Prince of Tails when the old Queen just won't abdi-cat(e).,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Yes, he dows have delusions of grandure.",1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
-5853,Meow.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,The paparizza here is to die for.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Meow.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,The paparizza here is to die for.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Seven more episodes to go is still a lot. I think your ""Game of Thrones is ending"" depression is a bit premature.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"From the sofa to the catbird seat, we lose.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"I'm sorry Mr. Scuffles, you were neutered before you could have any descendants.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
@@ -6713,7 +6713,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,Did you order the paparazzi pizza?,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
 5853,And you fought for the King of the Beasts crown?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"...and there was a little girl there named Alice, yes, and she was trying to find her way home...It was the strangest thing.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,As you're loyal subjects may we ask to use this space briefly?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,As you're loyal subjects may we ask to use this space briefly?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Does your brother sell cotton candy?,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
 5853,"Whiskers, you went viral a week ago. I think it's time to start being a cat again.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Rulers aren't for pussies.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
@@ -6721,19 +6721,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,I told you it was a mistake to name him Donald Trump,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
 5853,Stop being a helicator parent,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"That's it, no more Animal Channel",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Emma is telling us they want to be called King George,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Emma is telling us they want to be called King George,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,The doctor says that once you heal you'll never miss them.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,We should have known better. Its OPM Syndrome and what happens to a Progressive who feeds continuously on other People's Money.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,He is depressed because Donald Trump took away his health care.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,We should have known better. Its OPM Syndrome and what happens to a Progressive who feeds continuously on other People's Money.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,He is depressed because Donald Trump took away his health care.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Couples Therapy Session # 579: An age old question, ""Who will bell the cat?""",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Salt comes with our wounds.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Looks like our little king has some nyan-ui.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Get up and walk around! Queen or not, you're still a quadruped.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Looks like our little king has some nyan-ui.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Get up and walk around! Queen or not, you're still a quadruped.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I thought we were over with this when little Johnny went to college.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Not sure if mid century modern was the right choice for us.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Not sure if mid century modern was the right choice for us.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"You're supposed tp eat the mice, not try to rule over them",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Robert Purratheon,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"We don't mind being your loyal subjects, but the milkman says he's not bowing anymore.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"We don't mind being your loyal subjects, but the milkman says he's not bowing anymore.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"I don't think that ""let them eat mice"" is the proper response.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"A real game of thrones with this one, am I right?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Paul and Michelle choosing a name to be ignored.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
@@ -6742,59 +6742,59 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,You still can't beat a good belly rub!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"""You're right, Mr. Orange does look a lot like Trump""!",1.0,0.039223227027636816,26.0,26.0,0.0,0.0,579
 5853,"Well, there he is...the King of Feasts!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"You know we love you, right? But, you're LARPing again, and we just can't do this anymore. Last time, Bob almost lost his job in that Black Knight misunderstanding! Isn't that right, Bob?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"As a psychiatrist and your father, I want you to tell me what is real and not real about Bertie and me.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,This wasn't what I had in mind when I said I wanted an open kitchen,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"You know we love you, right? But, you're LARPing again, and we just can't do this anymore. Last time, Bob almost lost his job in that Black Knight misunderstanding! Isn't that right, Bob?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"As a psychiatrist and your father, I want you to tell me what is real and not real about Bertie and me.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,This wasn't what I had in mind when I said I wanted an open kitchen,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Donald Trump is a jackass.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Your Majesty. The mice do love you!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,You should see his catsle.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,You should see his catsle.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,You are now crowned... KING FAT CAT!!!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,We're really sorry about the operation. You're still king.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"There is no 'elephant in the room', just us and KingWhiskerPuss.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"There is no 'elephant in the room', just us and KingWhiskerPuss.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"When I invited you over to watch Game of Thrones, I didn't mean for you to bring your cat.",1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
-5853,"You HAD to let him know the royal line of succession isn't gonna happen, he's spayed.!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"You HAD to let him know the royal line of succession isn't gonna happen, he's spayed.!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"It's OK, your jokers and clowns will be back as soon as the President fires them.",1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
 5853,Allegory is so confusing. Is this yours or mine?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"I suppose we must tell the vet about the curious incident of the cat on the throne."" ""But the cat did nothing on the throne."" ""That was the curious incident,",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"I suppose we must tell the vet about the curious incident of the cat on the throne."" ""But the cat did nothing on the throne."" ""That was the curious incident,",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Yes you are possibly the coolest cat that ever chased a mouse.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Would not it better to have a dog?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"We wish you could have your own bedroom too, but this is a studio apartment.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,You think you're better than me?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"So, we were wondering if we could have your ah... purrmission to go away for a night.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"So, we were wondering if we could have your ah... purrmission to go away for a night.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Frankly, I wish we'd stayed with Starbucks.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"I told you it was dangerous to indulge him with all that fancy feast wet food, but you wouldn't listen.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"I told you it was dangerous to indulge him with all that fancy feast wet food, but you wouldn't listen.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"What's that old adage, Henry, ""Dogs have family, but cats have staff.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,You don't have to wear pants to wear a crown.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"We may be looking at at case of ""failure to launch""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Not to worry, Kingsley, enough catnip and toys (live mice) for you are safely stored in case of any nuclear threat!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"We may be looking at at case of ""failure to launch""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Not to worry, Kingsley, enough catnip and toys (live mice) for you are safely stored in case of any nuclear threat!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Which one do you think fits best: Simbooze of Mufasalky?,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
-5853,"Isn't ""locked and loaded"" a pretty strong message, your Highness?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Isn't ""locked and loaded"" a pretty strong message, your Highness?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"What is it you wish of us, O Master?",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"I'm starting a taxidermy practice called ""Game of Bones.""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"I'm starting a taxidermy practice called ""Game of Bones.""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,The Marquis de Carabas has gas,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,You let the boy talk go to your head.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"This will not get you the ""royal"" treatment. You are not a King Pin, nor a Chess piece. And... it's not Halloween.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Sorry, the Queen only takes corgis.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Do you love me more than...you know?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Do you love me more than...you know?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Is it really good to be the king?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"No, no, we can keep the butt scratches.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"No, no, we can keep the butt scratches.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Her Highness requests thee fetch her royal ball of string.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,You frightened a little mouse under her chair?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Looks like Rex pulled another toolshed-tickle trunk heist.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Winter is coming.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"His name is Wheeler Walker, Jr. Jr.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Winter is coming.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"His name is Wheeler Walker, Jr. Jr.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Well honey, too bad but it's your own fault. You can't just eat your Fiddlers Three because they're mice and then regret not having music.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,OK. What about as many Apple shares as you can stuff in your mouth?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Did you run into the neighbor's dog again?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,OK. What about as many Apple shares as you can stuff in your mouth?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Did you run into the neighbor's dog again?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,He does resemble Donald Trump.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"We know you're disappointed Fuzzybell, but 'Mother of Kittens' just didn't have the same impact.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Come back in December.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"I know it may sound cruel, but that's why there won't be an heir to the throne.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,You said you were going to look for his scepter.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,You said you were going to look for his scepter.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"I'm sorry, we didn't realize you were so attached to that raggedy mouse toy but a mouse farm is just out of the question.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Why do I always have to be the Royal food taster??,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I'm pretty sure that's what the dead mouse means.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"I wish to carried to my Royal Lavatory to be left there alone, and absolutely - no peeking!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"I wish to carried to my Royal Lavatory to be left there alone, and absolutely - no peeking!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Brexit needs four cocktails a day,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Mouse Fondue?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Was this the pre-nuptial you expressed?,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
@@ -6814,47 +6814,47 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,So where is the Queen?,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
 5853,He's the king of my heart...,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Should we tell him that it's the LION who's considered the ""King?""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Cats were worship as gods in ancient Egypt. Mittens has not forgotten this.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Cats were worship as gods in ancient Egypt. Mittens has not forgotten this.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"You know I support you no matter what, but I just don't think you're cut out to be a taxidermist",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Well if he promises to use the litter box.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Some little token of esteem Is needed, like a dish of cream.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,"I'm not quite sure how to put this Your Highness... We've made an appointment for you with the Royal veterinarian to have two of the royal jewels removed, if you know what I mean.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Ever since he saw the cover of Mewsweek!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Ever since he saw the cover of Mewsweek!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,CNN says last October he secretly sniffed the junk of Putin's cat in a Trump Tower alley.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,The ancient het-W parallel makes my Hebrew name cognate with 'weasel'. My subjects will revolt when they find out I'm related to a polecat. It's a catastrophe.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,The ancient het-W parallel makes my Hebrew name cognate with 'weasel'. My subjects will revolt when they find out I'm related to a polecat. It's a catastrophe.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"He ate the ""Whole Thing""!",1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
-5853,"You're not a cat person? What about a ""royalty"" person?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"You're not a cat person? What about a ""royalty"" person?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I think it needs to be said: your meme was not that cute.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,...and procure a crystal chalice like in the commercial.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Once again, ""Cats Rule, Dogs Droole"" is not to be taken literally.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I told you the Halloween costume was a bad idea.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Choose between me and a 'cat-as-trophy'ic marriage!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Choose between me and a 'cat-as-trophy'ic marriage!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"He is to be addressed as ""His Recumbancy, Felix Rex, the First.""",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,And the cat came back .....,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,He doesn't seem to get it that he's a fierce descendent of the king of the forest,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Mon Dieu, Cherie Chat! Uneasy lies the head that wears a silly crown!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,What were you saying about being dog people?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"Is it catnip or cat nap, Dad?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Don't blame him. All of the stores, and even Amazon, are out of your favorite canned fish.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Is it catnip or cat nap, Dad?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Don't blame him. All of the stores, and even Amazon, are out of your favorite canned fish.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"I'm not sure if that look says ""off with their heads"" or ""I'll take the salmon for dinner""",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I think she just misunderstood when I mentioned we're living in a kakistocracy now.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,I love that - it's funny,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I love that - it's funny,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"I just can't be vegan anymore, Henry.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,What a fatcat.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,What a fatcat.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"It's okay, cats don't even wear clothes.",1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
-5853,He understands me better,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,He understands me better,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"But Sheeba, a crown is antithetical to the whole idea of democracy.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,The righteous King!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"I don' think we should have done it, Harold.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"It's called ennui King Fluffy, and there's nothing we can do. Maybe spinning around chasing your tail will help.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,They say he's tops in his field in marriage counselor vs. mediator.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,They say he's tops in his field in marriage counselor vs. mediator.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I knew we shouldn't have named her Cersei.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I think he's worried about who will succeed him when he's gone.,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,579
 5853,You have just got to stop with all the tweeting.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,You're king of the cat-stle.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,You're king of the cat-stle.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Mom said I was king of the house.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Do you think Fluffy is trying to tell us something?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Didn't you tell him we already watched the last episode of Game of Thrones?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Do you think Fluffy is trying to tell us something?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Didn't you tell him we already watched the last episode of Game of Thrones?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"We thought that you would admire Robin Hood, not King John.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,You always loved her more,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,Kitty just didn't believe the nine-lives limitation.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
@@ -6866,30 +6866,30 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,"Yes your majesty, we will line your littler box in gold like the Donald.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Wouldst your Majestry request the presence of the Royal Catnip?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,The genetic test found he's not our son.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,I think that he's pining for that excitement of his life in the alley.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I think that he's pining for that excitement of his life in the alley.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"""People... oye vey!!",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,He just got offered a job as communications director.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Game of Thrones is so overrated.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,He said he liked Kong at first.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"I think ""Kitty"" is a royal pain in the butt.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"First he's a tomcat. Now, he thinks he's king. Where have we seen this before?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"First he's a tomcat. Now, he thinks he's king. Where have we seen this before?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"No, Fluffy, I do not think a moat around your litter box sounds reasonable.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Divorce Counseling from yours Purrly,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,The king consults with his court.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,She's been depressed ever since the release of the Access Hollywood tapes.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,She's been depressed ever since the release of the Access Hollywood tapes.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"...Queen of Katzenjammer, Empress of Persians and Catalonia, Ruler of Qatar and Los Gatos...",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I forgot it was shrimp Friday...,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I told you we shouldn't have names him Tybalt.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Is there really a crisis in the Kingdom, Donald?",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"But Mommy and Daddy still love you, don't we?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"But Mommy and Daddy still love you, don't we?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Grandiose,yes, but maybe catatonic?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Just think how much fun it will be having a little prince around the house!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"I know King Harold....I am not sure why people love that cat in a hat. Yes, he is such a commoner. Yes, your crown is much better.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,It's totally untrue. You know it's just more fake mews.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"I know King Harold....I am not sure why people love that cat in a hat. Yes, he is such a commoner. Yes, your crown is much better.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,It's totally untrue. You know it's just more fake mews.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"We have to buy him ""Lavish Feast"" because fancy isn't good enough anymore.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,We're going 'kitty' condo?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,i LOVE monday's! lol!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Be sure not to meet his gaze.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Be sure not to meet his gaze.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"You know we've always been happy to address you as ""Your Royal Highness.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Go peel me some yarn, humants.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,The vet said it was the worst case of despotism he's ever seen.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
@@ -6901,14 +6901,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,How about him as our communications director?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,So it probably started at the Meetup at the Cat Cafe.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Woman: It's not really fair you don't let us change the TV channel. Cat: My castle, my rules.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
-5853,Ever since the coronation the royal litter box has taken on a particularly pungent aroma.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Tom attempting to find a queen.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,Maybe he needs a recliner,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Ever since the coronation the royal litter box has taken on a particularly pungent aroma.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Tom attempting to find a queen.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,Maybe he needs a recliner,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,baby trump never grew up,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,That Game of Thrones marathon really took its toll!,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,He's truly a renaissance cat.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,How about King Joffrey?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Are you sure catnip has no opioid content?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Are you sure catnip has no opioid content?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,You had a full day—no more mice.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"So the crown must pass to the Donald. He's the new ""King of the Internetz"".",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Wut a pwitty wittle putty tat.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
@@ -6918,59 +6918,59 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,Isn't this taking the king of viral's a little too far?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"You win, we'll get him neutered.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Can I get you some pate?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"But, Binky, we told you working at the White House wouldn't last.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"But, Binky, we told you working at the White House wouldn't last.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"The fur balls are all rounded up, your highness.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"I think he's taking this whole ""cat may look at a king"" thing a bit too far.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"This taxidermist, I think you may have given him the wrong impression.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,It's time we tell you that Simba is not your biological father.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
-5853,"Coco, why don't you love us?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,It's time we tell you that Simba is not your biological father.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
+5853,"Coco, why don't you love us?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Honey, I don't know if he's as thrilled with your GOT obsession",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"No sooner had I been crowned King was I then de-sexed, that's right 'fixed'. The days of this monarchy are surely numbered, mark my words!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"No sooner had I been crowned King was I then de-sexed, that's right 'fixed'. The days of this monarchy are surely numbered, mark my words!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,It's our week for the Game of Thrones viewing party.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Following the surprise of Reginald's 23andMe royal lineage confirmation, Frank and Carol soon found their double take, double checked.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"Oh Mr.Cat King ,may I have a raise in my allowance?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,We ran out of beef tartare again,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"Your royal highness, I am sorry but it is true, Jon Snow is not coming to save you.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Your royal highness, I am sorry but it is true, Jon Snow is not coming to save you.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I guess I overdid it on the mousetrap buffet.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,Does that thing come with buttons?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Royal prerogatives aren't so energizing.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,This is why I didn't want to name him Trump just because he's fat and orange!,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
-5853,His passion for Shakespeare has gone a bit too far.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,His passion for Shakespeare has gone a bit too far.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,We think GOT may be unhealthy for you.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,I'm afraid this isn't bumping up the YouTube following as you expected.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I'm afraid this isn't bumping up the YouTube following as you expected.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I hadn't considered my having a PhD in litter box care was required by Mr. Tiddles.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
-5853,"Butlers, fetch me more cat treats. Remember now, I am the king... not you. Hurry, my royal stomach is growling for pizzazz!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Butlers, fetch me more cat treats. Remember now, I am the king... not you. Hurry, my royal stomach is growling for pizzazz!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Yes, you're still our Rex, but you've been de -sexed.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"We're sorry, King Peanut. We promise we'll empty your litter box more frequently.",1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
 5853,"Right after I walked off stage, he grabbed me and said, ""I'm the biggest star in the world.""",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,we really feel you should maybe not binge on Disney quite so much,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,This is not Game of Thrones. We will not call you Ser Pounce.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"No no, he is not the Cat in the Hat. He is rather agile.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"No no, he is not the Cat in the Hat. He is rather agile.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Your father doesn't satisfy me sexually.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,If we asked do you think she would knight us?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I didn't think this would help with his self-esteem issues.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,For he's a jolly good fellow.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,I think we need to switch back to regular-strength catnip,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,I think we need to switch back to regular-strength catnip,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Congratulations you are my new taste testers. Now taste. No one likes me. Poison incidents are up this year.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I say we name her Cersei.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Okay, let's start by expressing our feelings using ""I messages"".",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,We warned you that being married to Morris could only end badly!,1.0,0.039223227027636816,26.0,26.0,0.0,0.0,579
 5853,I think making your cat King is the reason he gained so much weight.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"As I see it your highness, the people are bracing for CATastrophic times.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"So, exactly what issues do you have",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"So, exactly what issues do you have",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Princess, now that you are almost a queen, you will need to be a bit more active in your reign.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Please give him a chance -- he's a ""dog person"" with redeeming qualities.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,He says he's tired of trying to live up to our expectations.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,OK. Cats rule and dogs drool. Now will drink your bowl of milk?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,I'm sorry but I'm leaving with John. It would never work between us. We are from two different worlds.........and species.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"Methinks, m'lord, we've had enough of mice for every meal.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Methinks, m'lord, we've had enough of mice for every meal.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"It's only a chess game, Lulu. There isn't any real mating.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,I told you not to place the litter box in the living room!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,"I think he's taking ""King of the Jungle"" too literally.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,So the mouse roared.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,Now he's demanding diamonds in his litter box.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Now he's demanding diamonds in his litter box.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I told you that Coco had taken this role playing thing a bit too far...,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"Forget about the Mother of Dragons taking the throne, Felix has an army of trained mice.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"Forget about the Mother of Dragons taking the throne, Felix has an army of trained mice.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,Too much Ancient Egypt on TV again.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
 5853,It's the least we can do after he brought us that juicy rat.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
 5853,Enough stalling. Do I have my divorce or not?,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
@@ -6981,14 +6981,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,"I'm sorry, we have to cut it to one Fancy Feast a night.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Well, he looks like he may be King of the FatCats Club.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,You better start acting like a normal cat!,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
-5853,"The pheasantry is stewing, sure.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"The pheasantry is stewing, sure.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Maybe so, but you're a king to us.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
-5853,"We know you are the king around here, but this is no jungle, you have to use the litter box.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"We know you are the king around here, but this is no jungle, you have to use the litter box.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,"Dad, where's the dog?",1.0,0.04256282653793743,24.0,24.0,0.0,0.0,579
-5853,You spoil that dog.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,You spoil that dog.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,I hate fake mews. I vote we get a dog.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,Nowadays I get the appeal of monarchy,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,"It will take some getting used to, but I'm glad we got him taxidermed this way.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,"It will take some getting used to, but I'm glad we got him taxidermed this way.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579
 5853,You're calling this a new mousetrap?,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,579
 5853,Let's hope the liberals don't hate this one.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"But your box is not like all the rest -- it's gold plated, with a silver trim.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
@@ -6997,4 +6997,4 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5853,"We miss Bert Parks too, Miss Whiskers",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,"Want us to get you a mouse or should I say, mice?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,579
 5853,How ironic that you had named him Donald.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,579
-5853,Your French is horrible.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,579
+5853,Your French is horrible.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,579

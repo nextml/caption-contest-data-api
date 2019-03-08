@@ -1,10 +1,10 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
-1,You were with Ringling Brothers? I was with Lehman Brothers.,1.98209179834462,0.01017728817545217,6645.0,2347.0,2070.0,2228.0,554
+1,You were with Ringling Brothers? I was with Lehman Brothers.,1.9820917983446202,0.01017728817545217,6645.0,2347.0,2070.0,2228.0,554
 2,"Well, it suits you better than the president costume.",1.9316546762589928,0.03900218935947818,556.0,255.0,84.0,217.0,554
 3,"Sure, it's all fun and games. Until one of you gets elected.",1.916803144448084,0.01489363491224041,3053.0,1171.0,965.0,917.0,554
 4,"Hey, all I know is that they left in a very small car.",1.9081786251881585,0.017256255119848497,1993.0,691.0,794.0,508.0,554
-5,"Would you like that straight up, on the rocks, or sprayed directly in your face?",1.9057502551888401,0.01489955256324503,2939.0,1110.0,996.0,833.0,554
-6,Shouldn't you be at your confirmation hearing?,1.8947762591275041,0.011897073799721616,5341.0,2329.0,1245.0,1767.0,554
+5,"Would you like that straight up, on the rocks, or sprayed directly in your face?",1.90575025518884,0.01489955256324503,2939.0,1110.0,996.0,833.0,554
+6,Shouldn't you be at your confirmation hearing?,1.894776259127504,0.011897073799721616,5341.0,2329.0,1245.0,1767.0,554
 7,Don't let it get you down. There were only so many cabinet positions he could fill.,1.8535060294774448,0.017347479370546925,2239.0,942.0,683.0,614.0,554
 8,"Well, whoever they hire to replace you is going to have some big shoes to fill.",1.815811606391926,0.023144725121540043,1189.0,508.0,392.0,289.0,554
 9,It's not that kind of happy hour.,1.8126283367556468,0.01728075121568816,1948.0,783.0,747.0,418.0,554
@@ -26,7 +26,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 25,Sorry -- none of our hours are happy anymore.,1.6681564245810057,0.02565046113377472,895.0,461.0,270.0,164.0,554
 26,"Neat, on the rocks, or squirted in your eye?",1.6563245823389017,0.02667318526759152,838.0,443.0,240.0,155.0,554
 27,Do you want that in a glass or squirted directly in your face?,1.6545893719806763,0.02678346790451927,828.0,438.0,238.0,152.0,554
-28,"Must be tough, having your kid run off to join a law firm.",1.651105651105651,0.02729154383320769,814.0,438.0,222.0,154.0,554
+28,"Must be tough, having your kid run off to join a law firm.",1.651105651105651,0.027291543833207692,814.0,438.0,222.0,154.0,554
 29,First they came for the elephants...,1.6483790523690771,0.028583224348293,802.0,453.0,178.0,171.0,554
 30,Your wife called. She wants you to pick up a cream pie on the way home.,1.6435006435006434,0.026959971758815485,777.0,407.0,240.0,130.0,554
 31,One more before your confirmation hearing?,1.6431322207958925,0.028860056029095964,779.0,441.0,175.0,163.0,554
@@ -39,7 +39,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 38,Will the rest of Congress be joining you today?,1.619942196531792,0.02931922640062767,692.0,387.0,181.0,124.0,554
 39,"That's how it ends, one day they just tell you their is no room in the car.",1.617910447761194,0.02987995804239187,670.0,377.0,172.0,121.0,554
 40,You want it in a glass or to the face?,1.6163982430453885,0.029431829606632237,683.0,383.0,179.0,121.0,554
-41,This is 6100 Pennsylvania Avenue. I think you're looking for 1600.,1.6130500758725341,0.03150242831974793,659.0,392.0,130.0,137.0,554
+41,This is 6100 Pennsylvania Avenue. I think you're looking for 1600.,1.613050075872534,0.03150242831974793,659.0,392.0,130.0,137.0,554
 42,… so 25 was one too many for the car?,1.6105263157894736,0.02949457673189444,665.0,372.0,180.0,113.0,554
 43,I'm guessing you're in D.C. for a confirmation hearing.,1.6040688575899844,0.03127755709613614,639.0,376.0,140.0,123.0,554
 44,"I agree, he is going to make the rest of you look bad.",1.599041533546326,0.03084991701751476,626.0,362.0,153.0,111.0,554
@@ -61,7 +61,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 60,Don't lose hope. There's still the Supreme Court vacancy.,1.5661080074487896,0.032918523968939906,537.0,323.0,124.0,90.0,554
 61,He offered you Secretary of what?,1.563327032136106,0.0332139990494351,529.0,320.0,120.0,89.0,554
 62,Sounds like you've got some big shoes to fill.,1.5515873015873016,0.03156951382815884,504.0,290.0,150.0,64.0,554
-62,Nope. Haven't seen that Bozo in here for years.,1.5515873015873016,0.032432366759768,504.0,297.0,136.0,71.0,554
+62,Nope. Haven't seen that Bozo in here for years.,1.5515873015873016,0.032432366759767996,504.0,297.0,136.0,71.0,554
 64,"Girls say they want a guy who's funny and spontaneous, but they don't really mean it.",1.5502008032128514,0.03273638508851493,498.0,295.0,132.0,71.0,554
 65,No more circus? Next you're gonna tell me Donald Trump is President.,1.5497925311203318,0.035689406642410215,482.0,305.0,89.0,88.0,554
 66,"I usually expect a priest and a rabbi this time of day, but you'll do.",1.5474747474747474,0.03149996435884018,495.0,284.0,151.0,60.0,554
@@ -102,8 +102,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 100,"Good morning, Mr. Secretary.",1.5048543689320388,0.035797329761787726,412.0,261.0,94.0,57.0,554
 102,Look on the bright side: now you have representation in the White House.,1.5048309178743962,0.03711174285166653,414.0,271.0,77.0,66.0,554
 103,You're right: You could be president.,1.5036496350364963,0.0356983555981587,411.0,260.0,95.0,56.0,554
-104,"Cheer up, pal. If there's one person who can bring back the circus, it's our new President.",1.502439024390244,0.03593129928192968,410.0,261.0,92.0,57.0,554
-104,It must be tough. Nobody is laughing since Nov 8.,1.502439024390244,0.035429902048753494,410.0,258.0,98.0,54.0,554
+104,"Cheer up, pal. If there's one person who can bring back the circus, it's our new President.",1.5024390243902441,0.03593129928192968,410.0,261.0,92.0,57.0,554
+104,It must be tough. Nobody is laughing since Nov 8.,1.5024390243902441,0.035429902048753494,410.0,258.0,98.0,54.0,554
 106,"So, what cabinet post are you in town for?",1.5012285012285012,0.03696179612839499,407.0,265.0,80.0,62.0,554
 107,I'll need to see a picture ID.,1.5,0.036202045414552034,406.0,260.0,89.0,57.0,554
 107,"Sorry, it's not funny unless TWO clowns walk into a bar.",1.5,0.033157616932193226,404.0,241.0,124.0,39.0,554
@@ -149,13 +149,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 146,"Sorry, they just all left in one car.",1.4710743801652892,0.03726146361066317,363.0,238.0,79.0,46.0,554
 149,"Oh, I get it - this is where I'm supposed to say 'Why the sad face?', right?",1.4709141274238229,0.035517607589639025,361.0,228.0,96.0,37.0,554
 149,"No. You being here does not automatically make it ""Happy Hour.""",1.4709141274238229,0.03573359482980951,361.0,229.0,94.0,38.0,554
-151,Sorry pal -- we only serve seltzer in a glass.,1.4694444444444446,0.03623232756222487,360.0,231.0,89.0,40.0,554
+151,Sorry pal -- we only serve seltzer in a glass.,1.4694444444444446,0.036232327562224866,360.0,231.0,89.0,40.0,554
 151,You just missed the priest and the rabbi.,1.4694444444444446,0.034256470842158375,360.0,222.0,107.0,31.0,554
 153,"I didn't go to college for this, either.",1.469208211143695,0.03631825644765109,341.0,215.0,92.0,34.0,554
 154,Cheer up bub. Those elephants are unemployed now too.,1.4662921348314606,0.03903767091032311,356.0,242.0,62.0,52.0,554
 154,Have you considered politics?,1.4662921348314606,0.03695520074343365,356.0,232.0,82.0,42.0,554
 156,You're not a joke unless you walk into a bar with someone.,1.4633431085043989,0.03770084949416326,341.0,223.0,78.0,40.0,554
-157,"Smile buddy, you finally got one of your own in the white house",1.4630681818181819,0.037475698588334105,352.0,232.0,77.0,43.0,554
+157,"Smile buddy, you finally got one of your own in the white house",1.463068181818182,0.037475698588334105,352.0,232.0,77.0,43.0,554
 158,"Look, not every bozo gets a cabinet position.",1.4628571428571429,0.0380680760036446,350.0,233.0,72.0,45.0,554
 158,Congress on recess?,1.4628571428571429,0.0380680760036446,350.0,233.0,72.0,45.0,554
 160,"Sorry buddy, you are on the no-pie list.",1.4617647058823529,0.038461536498634166,340.0,226.0,71.0,43.0,554
@@ -211,11 +211,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 206,Friends don't let friends drink and unicycle.,1.4371069182389935,0.03594451002272202,318.0,205.0,87.0,26.0,554
 211,Why the long shoes?,1.4353312302839116,0.03790477087335667,317.0,212.0,72.0,33.0,554
 211,So how'd your confirmation hearing go?,1.4353312302839116,0.03764048347053027,317.0,211.0,74.0,32.0,554
-213,I'm guessing it wasn't the Greatest Show on Earth?,1.4335443037974684,0.03798263596325519,316.0,212.0,71.0,33.0,554
+213,I'm guessing it wasn't the Greatest Show on Earth?,1.4335443037974684,0.037982635963255185,316.0,212.0,71.0,33.0,554
 213,I'll need to see a photo ID.,1.4335443037974684,0.038768001111539344,316.0,215.0,65.0,36.0,554
 213,"I apologize. I was wrong to use the phrase ""you people.""",1.4335443037974684,0.03928285580880988,316.0,217.0,61.0,38.0,554
 213,I know a place that’s hiring guys with your qualifications…but you have to appear before a Senate Confirmation Committee.,1.4335443037974684,0.03902627749786074,316.0,216.0,63.0,37.0,554
-213,You have big shoes to fill.,1.4335443037974684,0.03798263596325519,316.0,212.0,71.0,33.0,554
+213,You have big shoes to fill.,1.4335443037974684,0.037982635963255185,316.0,212.0,71.0,33.0,554
 218,When you told me you were coming out I thought you were gay.,1.4331210191082802,0.03842289118473116,314.0,212.0,68.0,34.0,554
 218,"One sidecar, coming up!",1.4331210191082802,0.038157161329933485,314.0,211.0,70.0,33.0,554
 218,Why the long shoes?,1.4331210191082802,0.03734862972122557,314.0,208.0,76.0,30.0,554
@@ -224,7 +224,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 218,I need you to work all your shifts until the full Senate approves your nomination.,1.4331210191082802,0.04048599037784115,314.0,220.0,52.0,42.0,554
 224,"Seltzer, no ice, straight to the face?",1.4327868852459016,0.03925428307494073,305.0,207.0,64.0,34.0,554
 225,A quick one before your confirmation hearing?,1.4317460317460318,0.03910878306952351,315.0,216.0,62.0,37.0,554
-225,Are you serious?,1.4317460317460318,0.03936644911044247,315.0,217.0,60.0,38.0,554
+225,Are you serious?,1.4317460317460318,0.039366449110442465,315.0,217.0,60.0,38.0,554
 227,Any funny business and you’re out.,1.4313099041533546,0.03602999461267395,313.0,203.0,85.0,25.0,554
 227,The orange hair gave you away...,1.4313099041533546,0.040066960181966975,313.0,218.0,55.0,40.0,554
 227,Congratulations on the cabinet appointment.,1.4313099041533546,0.03876804142691058,313.0,213.0,65.0,35.0,554
@@ -234,7 +234,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 233,It would've been funnier if you walked in with priest and a rabbi.,1.4271844660194175,0.03746860865259522,309.0,206.0,74.0,29.0,554
 233,You should have seen it coming when they got rid of the elephants.,1.4271844660194175,0.03938272112501871,309.0,213.0,60.0,36.0,554
 233,We don't want any funny business here.,1.4271844660194175,0.03690348853589012,309.0,204.0,78.0,27.0,554
-233,Let me guess--you want a Sidecar,1.4271844660194175,0.03884545732731479,309.0,211.0,64.0,34.0,554
+233,Let me guess--you want a Sidecar,1.4271844660194175,0.038845457327314786,309.0,211.0,64.0,34.0,554
 233,The rabbi and the priest haven't arrived yet.,1.4271844660194175,0.0380253310650163,309.0,208.0,70.0,31.0,554
 233,"Sorry, I'll pour it into a glass and you'll have to throw it in your own face,",1.4271844660194175,0.0380253310650163,309.0,208.0,70.0,31.0,554
 233,"You can have a drink, but I don't want any funny business.",1.4271844660194175,0.03774799621811353,309.0,207.0,72.0,30.0,554
@@ -248,10 +248,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 247,Why are you hiding out here? Aren't you supposed to be making America great again?,1.4243421052631582,0.04092308561565675,304.0,215.0,49.0,40.0,554
 247,"Going by the color of your nose, I'd say you've had enough",1.4243421052631582,0.03731533019677366,304.0,202.0,75.0,27.0,554
 247,I think that making clowning great again has already be taken care of.,1.4243421052631582,0.04065693346430378,304.0,214.0,51.0,39.0,554
-247,Looks like you missed happy hour.,1.4243421052631582,0.03957442922366199,304.0,210.0,59.0,35.0,554
+247,Looks like you missed happy hour.,1.4243421052631582,0.039574429223661986,304.0,210.0,59.0,35.0,554
 247,You have some big shoes to fill.,1.4243421052631582,0.03702325174952493,304.0,201.0,77.0,26.0,554
 247,"The ad was meant to read ""must be able to juggle shifts .... """,1.4243421052631582,0.03902191760033759,304.0,208.0,63.0,33.0,554
-247,Well it certainly sounds like you should have won the caption contest by now,1.4243421052631582,0.03957442922366199,304.0,210.0,59.0,35.0,554
+247,Well it certainly sounds like you should have won the caption contest by now,1.4243421052631582,0.039574429223661986,304.0,210.0,59.0,35.0,554
 247,Look on the bright side. You won't feel alone in Washington.,1.4243421052631582,0.03817816077878677,304.0,205.0,69.0,30.0,554
 255,"Look, I don't want no funny business.",1.4224422442244224,0.037970184208821166,303.0,204.0,70.0,29.0,554
 255,We're not hiring any clowns right now. Try the White House.,1.4224422442244224,0.03938295748513261,303.0,209.0,60.0,34.0,554
@@ -267,7 +267,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 265,"Look, I don't want no funny business.",1.4175084175084176,0.03907500356954916,297.0,204.0,62.0,31.0,554
 265,This is happy hour; silly hour starts at 5pm.,1.4175084175084176,0.03819169851826718,297.0,201.0,68.0,28.0,554
 265,'A clown walks into a bar?' That's all you've got?,1.4175084175084176,0.03667227456758168,297.0,196.0,78.0,23.0,554
-269,"You can have anything you want. Remember, you're the President now.",1.4166666666666667,0.041017801647885384,300.0,214.0,47.0,39.0,554
+269,"You can have anything you want. Remember, you're the President now.",1.4166666666666667,0.04101780164788538,300.0,214.0,47.0,39.0,554
 270,"Sorry to hear about Ringling Bros., have you tried The White House?",1.4161073825503356,0.04011185360947847,298.0,209.0,54.0,35.0,554
 271,"Sorry, not hiring. Have you tried the White House?",1.4155405405405406,0.04031036735025978,296.0,208.0,53.0,35.0,554
 271,Sorry we're not hiring. I hear the government has a few openings!,1.4155405405405406,0.03796961461976831,296.0,200.0,69.0,27.0,554
@@ -279,9 +279,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 273,No more Ringling Brothers? Cheer up. I hear there's a big clown show starting in Washington.,1.4149659863945578,0.04022385032463207,294.0,206.0,54.0,34.0,554
 273,"What will you have, Congressman?",1.4149659863945578,0.03905237793615513,294.0,202.0,62.0,30.0,554
 273,Seriously?,1.4149659863945578,0.04022385032463207,294.0,206.0,54.0,34.0,554
-281,How about a sidecar?,1.4129692832764504,0.03853267312268487,293.0,200.0,65.0,28.0,554
+281,How about a sidecar?,1.4129692832764504,0.038532673122684866,293.0,200.0,65.0,28.0,554
 282,"Dressed for the times, I see.",1.4125874125874125,0.040744314868998564,286.0,201.0,52.0,33.0,554
-283,Cheer up. You're guy won.,1.4109589041095891,0.042111139402716866,292.0,212.0,40.0,40.0,554
+283,Cheer up. You're guy won.,1.4109589041095891,0.04211113940271687,292.0,212.0,40.0,40.0,554
 283,"On the bright side, you won't have to juggle work and family.",1.4109589041095891,0.03951599138501558,292.0,203.0,58.0,31.0,554
 283,"So, it says on your resume you went to Trump University?",1.4109589041095891,0.04068982963685062,292.0,207.0,50.0,35.0,554
 283,Ditched the Secret Service again sir?,1.4109589041095891,0.039812695717879376,292.0,204.0,56.0,32.0,554
@@ -290,10 +290,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 283,'You wouldn't be the guy who left a VW parked out back last night with 16 people in it?',1.4109589041095891,0.03799773347479424,292.0,198.0,68.0,26.0,554
 283,You've got some big shoes to fill.,1.4109589041095891,0.03768674281544737,292.0,197.0,70.0,25.0,554
 283,"Don't call me a soda jerk, you clown.",1.4109589041095891,0.04039956770427255,292.0,206.0,52.0,34.0,554
-292,"Don't worry, the media circus will still be around",1.4103448275862067,0.040010881099253985,290.0,203.0,55.0,32.0,554
+292,"Don't worry, the media circus will still be around",1.4103448275862067,0.04001088109925399,290.0,203.0,55.0,32.0,554
 292,Its not literally a happy hour.,1.4103448275862067,0.039106011098192416,290.0,200.0,61.0,29.0,554
 292,"I wasn't laughing with you, I was laughing at you.",1.4103448275862067,0.037549468706416206,290.0,195.0,71.0,24.0,554
-292,What happen?... no room in the car.,1.4103448275862067,0.040010881099253985,290.0,203.0,55.0,32.0,554
+292,What happen?... no room in the car.,1.4103448275862067,0.04001088109925399,290.0,203.0,55.0,32.0,554
 296,"Try the White House. It will be the next ""greatest show on earth.""",1.4084507042253518,0.042419091984939934,284.0,206.0,40.0,38.0,554
 297,Happy Hour just ended.,1.4083044982698962,0.03888031677022352,289.0,199.0,62.0,28.0,554
 297,"No, I don't want to see how many Sidecars will fit into a clown.",1.4083044982698962,0.04185655537024542,289.0,209.0,42.0,38.0,554
@@ -304,15 +304,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 300,You just missed happy hour.,1.4076655052264808,0.03968995110373368,287.0,200.0,57.0,30.0,554
 300,Of course I take you seriously.,1.4076655052264808,0.036491552972881605,287.0,190.0,77.0,20.0,554
 300,You can have a drink but you better not try anything funny.,1.4076655052264808,0.03844253772215242,287.0,196.0,65.0,26.0,554
-306,"Sorry - no pants, no seltzer.",1.4068965517241379,0.038462611354632914,290.0,199.0,64.0,27.0,554
+306,"Sorry - no pants, no seltzer.",1.406896551724138,0.038462611354632914,290.0,199.0,64.0,27.0,554
 307,You one of those clowns from Washington?,1.4059040590405905,0.0410585893082865,271.0,190.0,52.0,29.0,554
-308,I know it's tough getting rejected to perform at the Inauguration. But I hear there's going to be an opening for press secretary real soon.,1.4049295774647887,0.040592507769902385,284.0,201.0,51.0,32.0,554
+308,I know it's tough getting rejected to perform at the Inauguration. But I hear there's going to be an opening for press secretary real soon.,1.4049295774647887,0.04059250776990239,284.0,201.0,51.0,32.0,554
 308,"This would be funnier if you walked in with a priest, a rabbi, and a horse.",1.4049295774647887,0.040897872501025084,284.0,202.0,49.0,33.0,554
 308,Mid-laugh crisis?,1.4049295774647887,0.040284828397165434,284.0,200.0,53.0,31.0,554
 308,Play what again?,1.4049295774647887,0.040284828397165434,284.0,200.0,53.0,31.0,554
 308,"What do you mean, a ""clownsgendered"" bathroom?",1.4049295774647887,0.038709765675943766,284.0,195.0,63.0,26.0,554
 308,"Sorry, we only serve serious drinkers here!",1.4049295774647887,0.038709765675943766,284.0,195.0,63.0,26.0,554
-308,That flower makes you look stupid.,1.4049295774647887,0.040592507769902385,284.0,201.0,51.0,32.0,554
+308,That flower makes you look stupid.,1.4049295774647887,0.04059250776990239,284.0,201.0,51.0,32.0,554
 308,10 of your friends just left....in a Volkswagen.,1.4049295774647887,0.038709765675943766,284.0,195.0,63.0,26.0,554
 308,Don't bother. They're already here.,1.4049295774647887,0.041200974056090266,284.0,203.0,47.0,34.0,554
 308,Congratulations on your confirmation.,1.4049295774647887,0.0393473574056443,284.0,197.0,59.0,28.0,554
@@ -329,7 +329,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 324,Expecting any other Cabinet members to join you?,1.4028268551236749,0.04129293662347247,283.0,203.0,46.0,34.0,554
 324,Happy Hour? Now? Try again in 2020.,1.4028268551236749,0.04159528083043939,283.0,204.0,44.0,35.0,554
 330,"No, I do not have Clown Royal.",1.400709219858156,0.037882657764067074,282.0,192.0,67.0,23.0,554
-330,Would you like the seltzer in a glass or sprayed in your face?,1.400709219858156,0.03919250339934938,282.0,196.0,59.0,27.0,554
+330,Would you like the seltzer in a glass or sprayed in your face?,1.400709219858156,0.039192503399349383,282.0,196.0,59.0,27.0,554
 332,Maybe they walked into a different bar.,1.4,0.03873313847837597,280.0,193.0,62.0,25.0,554
 332,"You should get going, sir--you'll be late for your confirmation hearing.",1.4,0.0409813065423627,280.0,200.0,48.0,32.0,554
 332,"It's a classic story-- clown meets girl, clown falls for girl, girl gets eaten by a lion.",1.4,0.039388568054637085,280.0,195.0,58.0,27.0,554
@@ -373,7 +373,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 372,I take it you're part of the new administration.,1.3940520446096654,0.039102751564667235,269.0,186.0,60.0,23.0,554
 373,"We're closed, Mr. President.",1.391941391941392,0.04233130821917317,273.0,200.0,39.0,34.0,554
 373,We don't serve clowns. Try Capitol Hill.,1.391941391941392,0.04037742627715471,273.0,194.0,51.0,28.0,554
-373,"What'll it be, Mr. President?",1.391941391941392,0.042011972163698466,273.0,199.0,41.0,33.0,554
+373,"What'll it be, Mr. President?",1.391941391941392,0.04201197216369847,273.0,199.0,41.0,33.0,554
 373,Don't you have an inauguration to be at?,1.391941391941392,0.041365905092924656,273.0,197.0,45.0,31.0,554
 373,"Congress is back in session, I see.",1.391941391941392,0.040709586134353236,273.0,195.0,49.0,29.0,554
 373,Shouldn't you be at the White House?,1.391941391941392,0.038673858101445635,273.0,189.0,61.0,23.0,554
@@ -385,7 +385,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 382,"Sorry about the circus shutting down. But, hey, I hear they're hiring at the White House.",1.3911439114391144,0.03956486455699818,271.0,190.0,56.0,25.0,554
 382,I warned you when they got rid of the elephants.,1.3911439114391144,0.040249791561602036,271.0,192.0,52.0,27.0,554
 382,"Tough break on the circus gig, but I hear the White House is hiring.",1.3911439114391144,0.040587920954661016,271.0,193.0,50.0,28.0,554
-382,You really shouldn't be drinking before your inauguration.,1.3911439114391144,0.042560321514742004,271.0,199.0,38.0,34.0,554
+382,You really shouldn't be drinking before your inauguration.,1.3911439114391144,0.042560321514742,271.0,199.0,38.0,34.0,554
 382,"Sorry buddy, the Presidents Day free drink promo requires customers to be dressed up as former presidents not the current one.",1.3911439114391144,0.04319777981305303,271.0,201.0,34.0,36.0,554
 382,Let me guess. You're here for happy hour.,1.3911439114391144,0.040249791561602036,271.0,192.0,52.0,27.0,554
 382,"That's what I've been trying to tell you pal, the clown convention has been moved to Washington.",1.3911439114391144,0.040249791561602036,271.0,192.0,52.0,27.0,554
@@ -418,14 +418,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 415,"I'm sorry, but it's happy hour.",1.3857677902621723,0.04132120041881905,267.0,193.0,45.0,29.0,554
 415,"Glad to see you back from recess, congressman.",1.3857677902621723,0.03958080547747162,267.0,188.0,55.0,24.0,554
 415,"I'll tell you the same thing I told those other 23 clowns: No, I did not find a tiny set of car keys.",1.3857677902621723,0.03958080547747162,267.0,188.0,55.0,24.0,554
-415,I'm sorry. I know how much you wanted to be the first clown elected president.,1.3857677902621723,0.04199716872331893,267.0,195.0,41.0,31.0,554
+415,I'm sorry. I know how much you wanted to be the first clown elected president.,1.3857677902621723,0.041997168723318934,267.0,195.0,41.0,31.0,554
 421,"So you found work in D.C.?""",1.3843283582089552,0.041529767686816335,268.0,195.0,43.0,30.0,554
 422,"Banana daiquiri, extra peel.",1.3834586466165413,0.03894028552705829,266.0,186.0,58.0,22.0,554
 422,Clown Royal on the rocks?,1.3834586466165413,0.03857425330566066,266.0,185.0,60.0,21.0,554
 422,"Heck, take the offer. A year or two on this White House communication team would look good on your resume.",1.3834586466165413,0.040371241153660746,266.0,190.0,50.0,26.0,554
 422,I see you scared away the priest and the rabbi.,1.3834586466165413,0.04001829948220538,266.0,189.0,52.0,25.0,554
 422,Do you think you'll be able to juggle 2 jobs?,1.3834586466165413,0.03930290899880537,266.0,187.0,56.0,23.0,554
-427,It's nice to see a new face.,1.3825757575757576,0.03950520837460039,264.0,186.0,55.0,23.0,554
+427,It's nice to see a new face.,1.3825757575757576,0.039505208374600385,264.0,186.0,55.0,23.0,554
 427,"Move along, sad bar's down the street buddy, this is a gay bar.",1.3825757575757576,0.04093753945049258,264.0,190.0,47.0,27.0,554
 427,"Sorry, we stopped doing happy hours last November.",1.3825757575757576,0.04022774928442576,264.0,188.0,51.0,25.0,554
 427,What part of Happy Hour didn't you understand?,1.3825757575757576,0.04022774928442576,264.0,188.0,51.0,25.0,554
@@ -438,8 +438,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 427,One circus closes and another opens up,1.3825757575757576,0.04022774928442576,264.0,188.0,51.0,25.0,554
 427,You can't worry about that bozo she left you for.,1.3825757575757576,0.0405841961159221,264.0,189.0,49.0,26.0,554
 427,"About a dozen of them hung around for a while, then they all left in a tiny car.",1.3825757575757576,0.03986811571425977,264.0,187.0,53.0,24.0,554
-440,The circus has closed down. I think it moved to Washington.,1.3802281368821292,0.040312177296008264,263.0,188.0,50.0,25.0,554
-440,"Well, I heard the new administration is hiring.",1.3802281368821292,0.040312177296008264,263.0,188.0,50.0,25.0,554
+440,The circus has closed down. I think it moved to Washington.,1.3802281368821292,0.04031217729600826,263.0,188.0,50.0,25.0,554
+440,"Well, I heard the new administration is hiring.",1.3802281368821292,0.04031217729600826,263.0,188.0,50.0,25.0,554
 440,Congratulations on your cabinet appointment.,1.3802281368821292,0.041025866664565626,263.0,190.0,46.0,27.0,554
 440,In town for the Inauguration?,1.3802281368821292,0.0373211903535934,263.0,180.0,66.0,17.0,554
 440,Have you considered running for Congress?,1.3802281368821292,0.03958562290921909,263.0,186.0,54.0,23.0,554
@@ -566,7 +566,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 557,I'm gonna need a picture ID.,1.3617886178861789,0.04007641883215103,246.0,177.0,49.0,20.0,554
 557,"Barnum & Bailey's gone, but I hear a bunch of clowns are being hired at the White House.",1.3617886178861789,0.04089605551919245,246.0,179.0,45.0,22.0,554
 557,"Sir, this is not that kind of happy hour.",1.3617886178861789,0.04048831129745264,246.0,178.0,47.0,21.0,554
-557,"It's on the house, Mr. President.",1.3617886178861789,0.04364373258779498,246.0,186.0,31.0,29.0,554
+557,"It's on the house, Mr. President.",1.3617886178861789,0.043643732587794984,246.0,186.0,31.0,29.0,554
 557,Happy Hour hasn't started.,1.3617886178861789,0.04089605551919245,246.0,179.0,45.0,22.0,554
 557,Don't be silly.,1.3617886178861789,0.04169958474191024,246.0,181.0,41.0,24.0,554
 557,"No clown shoes, no service.",1.3617886178861789,0.04089605551919245,246.0,179.0,45.0,22.0,554
@@ -637,7 +637,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 631,"We pour local, organic, small batch, craft, artisan, artesian seltzers.",1.347457627118644,0.04149836839502892,236.0,175.0,40.0,21.0,554
 631,So how'd you ditch the Secret Service detail?,1.347457627118644,0.04278201327085057,236.0,178.0,34.0,24.0,554
 638,Shouldn't you be at your inauguration ceremony?,1.3461538461538465,0.04260370117955923,234.0,176.0,35.0,23.0,554
-638,"What can I getcha? A little song, a little dance, a little seltzer down your pants?",1.3461538461538465,0.04129198510424786,234.0,173.0,41.0,20.0,554
+638,"What can I getcha? A little song, a little dance, a little seltzer down your pants?",1.3461538461538465,0.041291985104247864,234.0,173.0,41.0,20.0,554
 638,Do you want the dribble glass again?,1.3461538461538465,0.03900789449931698,234.0,168.0,51.0,15.0,554
 638,Twenty-two of you guys in that car and you couldn't find one designated driver?,1.3461538461538465,0.03993720963589817,234.0,170.0,47.0,17.0,554
 638,"What sort of business did you say you were in, again?",1.3461538461538465,0.04260370117955923,234.0,176.0,35.0,23.0,554
@@ -746,7 +746,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 739,Aren't you supposed to be in Washington?,1.3348017621145374,0.04154698924465653,227.0,170.0,38.0,19.0,554
 739,"Listen Bozo, I'm still gonna need to check your I.D.",1.3348017621145374,0.04011480787188109,227.0,167.0,44.0,16.0,554
 739,Your ID looks a little funny.,1.3348017621145374,0.04059781577249147,227.0,168.0,42.0,17.0,554
-739,"Listen, the Inauguration's over, so go back out there and just be the best President you can be. And tweet me now and then, wouldya?",1.3348017621145374,0.044272579828726386,227.0,176.0,26.0,25.0,554
+739,"Listen, the Inauguration's over, so go back out there and just be the best President you can be. And tweet me now and then, wouldya?",1.3348017621145374,0.04427257982872639,227.0,176.0,26.0,25.0,554
 739,"A white house consultant, you say?",1.3348017621145374,0.04107514431376208,227.0,169.0,40.0,18.0,554
 739,You'll find work. It's all a circus now.,1.3348017621145374,0.039625912932053815,227.0,166.0,46.0,15.0,554
 739,"Sorry, but Trump had the last laugh.",1.3348017621145374,0.039625912932053815,227.0,166.0,46.0,15.0,554
@@ -759,7 +759,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 756,"What can I get you, Mr. President?",1.3303571428571428,0.0418659058480885,224.0,169.0,36.0,19.0,554
 756,Let me guess...you want a squirt of water.,1.3303571428571428,0.04040592483513699,224.0,166.0,42.0,16.0,554
 756,Seltzer? Really??,1.3303571428571428,0.04089837647978418,224.0,167.0,40.0,17.0,554
-756,We've had clowns like you in here before.,1.3303571428571428,0.038372972443961734,224.0,162.0,50.0,12.0,554
+756,We've had clowns like you in here before.,1.3303571428571428,0.03837297244396173,224.0,162.0,50.0,12.0,554
 756,"Cheer up, pal. He promised to make clowns great again ,too.",1.3303571428571428,0.042341380579528035,224.0,170.0,34.0,20.0,554
 756,I hear they're hiring in Washington.,1.3303571428571428,0.04089837647978418,224.0,167.0,40.0,17.0,554
 756,Don't be silly.,1.3303571428571428,0.03990739686929375,224.0,165.0,44.0,15.0,554
@@ -769,7 +769,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 756,I called you a clown because you called me a jerk.,1.3303571428571428,0.04040592483513699,224.0,166.0,42.0,16.0,554
 756,Why are you so sad? There's a clown in the White House.,1.3303571428571428,0.042341380579528035,224.0,170.0,34.0,20.0,554
 770,Drinks are double during Unhappy Hour.,1.3288888888888888,0.04217833976911624,225.0,171.0,34.0,20.0,554
-771,"Yeah, they were all here. So, you just couldn't fit in the car, huh?",1.3288288288288288,0.04063102788159666,222.0,165.0,41.0,16.0,554
+771,"Yeah, they were all here. So, you just couldn't fit in the car, huh?",1.3288288288288288,0.040631027881596664,222.0,165.0,41.0,16.0,554
 771,"Sorry about your job loss, but the circus just can't compete with today's politics.",1.3288288288288288,0.04400265507040209,222.0,172.0,27.0,23.0,554
 771,The usual Mr President?,1.3288288288288288,0.04353698320506007,222.0,171.0,29.0,22.0,554
 771,"Listen Bozo, I don't want any funny business here.",1.3288288288288288,0.040126246772754434,222.0,164.0,43.0,15.0,554
@@ -785,7 +785,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 771,Clown Royal on the rocks?,1.3288288288288288,0.040126246772754434,222.0,164.0,43.0,15.0,554
 771,"Hey, aren't you supposed to be running our country?",1.3288288288288288,0.042590367611743896,222.0,169.0,33.0,20.0,554
 771,And which cabinet position have you been nominated for?,1.3288288288288288,0.03961503418427007,222.0,163.0,45.0,14.0,554
-771,"I know it's you, Steve. Just pay your tab.",1.3288288288288288,0.04063102788159666,222.0,165.0,41.0,16.0,554
+771,"I know it's you, Steve. Just pay your tab.",1.3288288288288288,0.040631027881596664,222.0,165.0,41.0,16.0,554
 771,"When one door closes, another opens. Have you tried Washington DC?",1.3288288288288288,0.04353698320506007,222.0,171.0,29.0,22.0,554
 771,"Sorry about the circus gig, but they're hiring in Washington, D.C.",1.3288288288288288,0.042109080572441664,222.0,168.0,35.0,19.0,554
 771,I can't believe you didn't get the cabinet post.,1.3288288288288288,0.040126246772754434,222.0,164.0,43.0,15.0,554
@@ -818,8 +818,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 815,"The first drink is on me, the second on you.",1.3242009132420092,0.041438902889618885,219.0,165.0,37.0,17.0,554
 815,"Sorry, I think your 14 friends drove off 15 min. ago in a yellow volkswagen.",1.3242009132420092,0.04243779380761766,219.0,167.0,33.0,19.0,554
 815,"Happy Hour's over, no thanks to you.",1.3242009132420092,0.04243779380761766,219.0,167.0,33.0,19.0,554
-815,For which cabinet department are you nominated?,1.3242009132420092,0.04194132220110101,219.0,166.0,35.0,18.0,554
-815,Let me guess...Seltzer?,1.3242009132420092,0.04194132220110101,219.0,166.0,35.0,18.0,554
+815,For which cabinet department are you nominated?,1.3242009132420092,0.041941322201101014,219.0,166.0,35.0,18.0,554
+815,Let me guess...Seltzer?,1.3242009132420092,0.041941322201101014,219.0,166.0,35.0,18.0,554
 815,"Let me guess, you just discovered that not quite everyone loves a clown",1.3242009132420092,0.04093031684966488,219.0,164.0,39.0,16.0,554
 815,Shouldn't you be getting ready for your inauguration?,1.3242009132420092,0.041438902889618885,219.0,165.0,37.0,17.0,554
 815,"What'll it be, the usual seltzer to the face?",1.3242009132420092,0.0398936983350924,219.0,162.0,43.0,14.0,554
@@ -895,7 +895,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 879,I hear the show is moving to D.C.,1.3177570093457944,0.041996310872538016,214.0,163.0,34.0,17.0,554
 895,"Bar policy: red nose, we cut you off.",1.3162790697674418,0.03969373713828054,215.0,160.0,42.0,13.0,554
 895,"Sorry, did you ask for a Clown Royal?",1.3162790697674418,0.04130374318856536,215.0,163.0,36.0,16.0,554
-895,"Go home, you're piefaced.",1.3162790697674418,0.04023756427930159,215.0,161.0,40.0,14.0,554
+895,"Go home, you're piefaced.",1.3162790697674418,0.040237564279301585,215.0,161.0,40.0,14.0,554
 895,"Buddy, if you're looking for a happy meal, you're in the wrong place.",1.3162790697674418,0.040774138743313065,215.0,162.0,38.0,15.0,554
 895,Sam isn't here. He says you scare him.,1.3162790697674418,0.042853303662273294,215.0,166.0,30.0,19.0,554
 895,"While Trump can't bring back your job, you have the perfect qualifications to be his advisor.",1.3162790697674418,0.040774138743313065,215.0,162.0,38.0,15.0,554
@@ -956,13 +956,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 949,One circus replaces another. Sad!,1.3095238095238095,0.043976669072011663,210.0,165.0,25.0,20.0,554
 956,What's up? You look like the circus just died.,1.3076923076923077,0.04154320960517858,208.0,159.0,34.0,15.0,554
 956,Nice try but it's still not happy hour.,1.3076923076923077,0.040980326144287184,208.0,158.0,36.0,14.0,554
-956,You going to clown around or order a drink?,1.3076923076923077,0.03864689634707458,208.0,154.0,44.0,10.0,554
+956,You going to clown around or order a drink?,1.3076923076923077,0.038646896347074584,208.0,154.0,44.0,10.0,554
 956,Will that seltzer be to go or just sprayed in your face?,1.3076923076923077,0.039830702530545915,208.0,156.0,40.0,12.0,554
 956,A job ? Don't make me laugh.,1.3076923076923077,0.04209856764436835,208.0,160.0,32.0,16.0,554
 956,Come back at Happy Hour.,1.3076923076923077,0.039830702530545915,208.0,156.0,40.0,12.0,554
 956,"Yes, we have seltzer.",1.3076923076923077,0.040980326144287184,208.0,158.0,36.0,14.0,554
 956,"Bailey's I can do, but no more Barnum & Bailey's.",1.3076923076923077,0.04318786478309351,208.0,162.0,28.0,18.0,554
-956,"This is a respectable joint, so don't try anything funny in here!",1.3076923076923077,0.03864689634707458,208.0,154.0,44.0,10.0,554
+956,"This is a respectable joint, so don't try anything funny in here!",1.3076923076923077,0.038646896347074584,208.0,154.0,44.0,10.0,554
 956,"You're in the wrong joke...it's ""two cannibals are eating a clown, one says--this taste funny to you?""",1.3076923076923077,0.03924326350686424,208.0,155.0,42.0,11.0,554
 956,Why not run for president?,1.3076923076923077,0.042646694257762977,208.0,161.0,30.0,17.0,554
 956,"Yeah, the Trump administration's poaching hit Ringling Brothers pretty hard.",1.3076923076923077,0.04318786478309351,208.0,162.0,28.0,18.0,554
@@ -977,7 +977,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 956,How'd your inauguration go?,1.3076923076923077,0.04318786478309351,208.0,162.0,28.0,18.0,554
 956,We don't serve multicolored people.,1.3076923076923077,0.03924326350686424,208.0,155.0,42.0,11.0,554
 956,"Sorry sir. No smile, no service.",1.3076923076923077,0.04154320960517858,208.0,159.0,34.0,15.0,554
-956,My wife doesn't understand me either.,1.3076923076923077,0.03864689634707458,208.0,154.0,44.0,10.0,554
+956,My wife doesn't understand me either.,1.3076923076923077,0.038646896347074584,208.0,154.0,44.0,10.0,554
 956,"I'm sorry, but we don't take funny money.",1.3076923076923077,0.042646694257762977,208.0,161.0,30.0,17.0,554
 956,"Cheer up. You may be sad and drunk, but you're still a clown.",1.3076923076923077,0.038041181157449255,208.0,153.0,46.0,9.0,554
 956,Seltzer water it is. Do you want the whole bottle?,1.3076923076923077,0.04040960278800687,208.0,157.0,38.0,13.0,554
@@ -986,7 +986,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 956,No kidding.,1.3076923076923077,0.04209856764436835,208.0,160.0,32.0,16.0,554
 956,Is it still Happy Hour?,1.3076923076923077,0.042646694257762977,208.0,161.0,30.0,17.0,554
 956,"Too bad about the circus, but I hear Trump still has some openings.",1.3076923076923077,0.04040960278800687,208.0,157.0,38.0,13.0,554
-956,Are you here for the inauguration or a Trump appointee?,1.3076923076923077,0.04528792552274159,208.0,166.0,20.0,22.0,554
+956,Are you here for the inauguration or a Trump appointee?,1.3076923076923077,0.045287925522741586,208.0,166.0,20.0,22.0,554
 956,I hear those confirmation hearings are rough,1.3076923076923077,0.04154320960517858,208.0,159.0,34.0,15.0,554
 956,"Sorry, the other 30 guys said you were the DD",1.3076923076923077,0.04040960278800687,208.0,157.0,38.0,13.0,554
 956,"If birthday parties don't work out, I heard they're hiring for the Cabinet.",1.3076923076923077,0.040980326144287184,208.0,158.0,36.0,14.0,554
@@ -1013,7 +1013,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 997,You're not the only clown to come in here thinking you can drown your sorrows.,1.3043478260869563,0.03988224510852107,207.0,156.0,39.0,12.0,554
 997,I know you're the only one performing but the inauguration is still a pretty big deal.,1.3043478260869563,0.042721236537852585,207.0,161.0,29.0,17.0,554
 997,The usual Mr President?,1.3043478260869563,0.04326668656840444,207.0,162.0,27.0,18.0,554
-997,Ever consider running for office?,1.3043478260869563,0.038688360579447585,207.0,154.0,43.0,10.0,554
+997,Ever consider running for office?,1.3043478260869563,0.03868836057944759,207.0,154.0,43.0,10.0,554
 997,"Clown shirt, clown shoes, no service.",1.3043478260869563,0.040465980652661215,207.0,157.0,37.0,13.0,554
 997,"Now before you start, I don't want any funny business",1.3043478260869563,0.03745644155221576,207.0,152.0,47.0,8.0,554
 997,I have no son.,1.3043478260869563,0.042168731733806634,207.0,160.0,31.0,16.0,554
@@ -1100,8 +1100,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1098,Eighteen beers...my buddies are parking the car.,1.2990196078431373,0.04133616743927493,204.0,157.0,33.0,14.0,554
 1098,I see you are here for happy hour.,1.2990196078431373,0.042488458419314486,204.0,159.0,29.0,16.0,554
 1098,"So what you've been laid off, have you given any thought to Politics?",1.2990196078431373,0.038304083827480635,204.0,152.0,43.0,9.0,554
-1098,"Hey, why the drawn face?",1.2990196078431373,0.039544825175295784,204.0,154.0,39.0,11.0,554
-1098,How about a Barnum and Baileys Irish Cream?,1.2990196078431373,0.039544825175295784,204.0,154.0,39.0,11.0,554
+1098,"Hey, why the drawn face?",1.2990196078431373,0.03954482517529578,204.0,154.0,39.0,11.0,554
+1098,How about a Barnum and Baileys Irish Cream?,1.2990196078431373,0.03954482517529578,204.0,154.0,39.0,11.0,554
 1104,"Sorry pal, I don't talk politics, religion, or the circus",1.297560975609756,0.04115988714860865,205.0,158.0,33.0,14.0,554
 1104,"Sorry, no happy meals here. Try down the block.",1.297560975609756,0.039981099219287566,205.0,156.0,37.0,12.0,554
 1106,"Sorry buddy, we only serve serious drinkers here.",1.2970297029702973,0.04157454013709602,202.0,156.0,32.0,14.0,554
@@ -1136,7 +1136,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1106,Happy Hour starts in ten minutes. We don't have a Funny Hour.,1.2970297029702973,0.039757595701752316,202.0,153.0,38.0,11.0,554
 1106,"Hey, Donald.",1.2970297029702973,0.04388025770716286,202.0,160.0,24.0,18.0,554
 1106,"Sorry, we're outta seltzer",1.2970297029702973,0.039133205322015086,202.0,152.0,40.0,10.0,554
-1138,"You walked into a bar, I get it but you still need the punch line.",1.2955665024630545,0.043126261199171734,203.0,160.0,26.0,17.0,554
+1138,"You walked into a bar, I get it but you still need the punch line.",1.2955665024630545,0.04312626119917173,203.0,160.0,26.0,17.0,554
 1138,They already have one in the White House !,1.2955665024630545,0.04198008700010434,203.0,158.0,30.0,15.0,554
 1138,I hope you're a better tipper than the clown who came in yesterday.,1.2955665024630545,0.04139510060737745,203.0,157.0,32.0,14.0,554
 1138,Would you like the seltzer water in a glass or sprayed directly in your face?,1.2955665024630545,0.03958831018837022,203.0,154.0,38.0,11.0,554
@@ -1379,11 +1379,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1376,"I'm not hiring, but Trump Tower is just down the street.",1.2727272727272727,0.040514100764177774,187.0,146.0,31.0,10.0,554
 1376,"Sorry, it's not that kind of happy hour.",1.2727272727272727,0.03906904590842642,187.0,144.0,35.0,8.0,554
 1376,"I know you're the president, but we don't serve clowns.",1.2727272727272727,0.0445690295870979,187.0,152.0,19.0,16.0,554
-1376,I'd like you to leave. It's time for happy hour.,1.2727272727272727,0.041909359017589014,187.0,148.0,27.0,12.0,554
+1376,I'd like you to leave. It's time for happy hour.,1.2727272727272727,0.04190935901758901,187.0,148.0,27.0,12.0,554
 1376,Can I see your id?,1.2727272727272727,0.04391921438354742,187.0,151.0,21.0,15.0,554
 1376,"Yeah, Cirque du Soleil's killing us all.",1.2727272727272727,0.040514100764177774,187.0,146.0,31.0,10.0,554
 1376,"I wasn't laughing at you, I was laughing with you.",1.2727272727272727,0.03979813254993682,187.0,145.0,33.0,9.0,554
-1376,"Sorry, bud, happy hour just ended.",1.2727272727272727,0.041909359017589014,187.0,148.0,27.0,12.0,554
+1376,"Sorry, bud, happy hour just ended.",1.2727272727272727,0.04190935901758901,187.0,148.0,27.0,12.0,554
 1376,We really miss the elephants too.,1.2727272727272727,0.040514100764177774,187.0,146.0,31.0,10.0,554
 1376,So your agent booked you for the inauguration?,1.2727272727272727,0.041217634175162936,187.0,147.0,29.0,11.0,554
 1376,You'd better be a clown. We don't serve mimes.,1.2727272727272727,0.04325963922411268,187.0,150.0,23.0,14.0,554
@@ -1392,13 +1392,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1376,I'm sure you'll land back on your big red feet.,1.2727272727272727,0.03979813254993682,187.0,145.0,33.0,9.0,554
 1376,"Well, I heard Donald Trump is hiring",1.2727272727272727,0.040514100764177774,187.0,146.0,31.0,10.0,554
 1376,This isn't a good humor bar.,1.2727272727272727,0.04325963922411268,187.0,150.0,23.0,14.0,554
-1376,There's always one clown sitting around waiting for Happy Hour to start.,1.2727272727272727,0.041909359017589014,187.0,148.0,27.0,12.0,554
-1376,Who would have guessed the President would take your job?,1.2727272727272727,0.041909359017589014,187.0,148.0,27.0,12.0,554
+1376,There's always one clown sitting around waiting for Happy Hour to start.,1.2727272727272727,0.04190935901758901,187.0,148.0,27.0,12.0,554
+1376,Who would have guessed the President would take your job?,1.2727272727272727,0.04190935901758901,187.0,148.0,27.0,12.0,554
 1376,Why would I know your name? You're just some Bozo.,1.2727272727272727,0.03756844867251656,187.0,142.0,39.0,6.0,554
 1376,No I don't want to buy a circus.,1.2727272727272727,0.04258985066342425,187.0,149.0,25.0,13.0,554
 1376,Happy hours not till 5:00 o'clock.,1.2727272727272727,0.040514100764177774,187.0,146.0,31.0,10.0,554
 1376,"Don't take it from me, but I heard there is still an opening at State.",1.2727272727272727,0.041217634175162936,187.0,147.0,29.0,11.0,554
-1376,Everybody loves a clown. Every clown loves a double bourbon and soda.,1.2727272727272727,0.041909359017589014,187.0,148.0,27.0,12.0,554
+1376,Everybody loves a clown. Every clown loves a double bourbon and soda.,1.2727272727272727,0.04190935901758901,187.0,148.0,27.0,12.0,554
 1401,"Sorry, but my religious beliefs prohibit me from serving anyone who makes animals out of balloons.",1.2712765957446808,0.04238753453415131,188.0,150.0,25.0,13.0,554
 1401,"Listen pal, for the last time I ain't servin' you beer in a dribble glass.",1.2712765957446808,0.041023462762350034,188.0,148.0,29.0,11.0,554
 1401,You actually lost by 3 million votes.,1.2712765957446808,0.04435505567789084,188.0,153.0,19.0,16.0,554
@@ -1687,36 +1687,36 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1681,"Who are you calling a jerk, clown?",1.2513966480446927,0.03786696698228269,179.0,140.0,33.0,6.0,554
 1681,He's Giving Clowns a Bad Name.,1.2513966480446927,0.04255033936720766,179.0,146.0,21.0,12.0,554
 1688,Do you want that with seltzer?,1.25,0.04069206502309946,176.0,141.0,26.0,9.0,554
-1688,"Well, until you walked in, my friend, it WAS Happy Hour.",1.25,0.03906371751349359,176.0,139.0,30.0,7.0,554
+1688,"Well, until you walked in, my friend, it WAS Happy Hour.",1.25,0.039063717513493586,176.0,139.0,30.0,7.0,554
 1688,"Do you want a Ringling, a Barnum, or a Bailey?",1.25,0.039886201760873284,176.0,140.0,28.0,8.0,554
-1688,The 32 other clowns got into the car and left ten minutes ago.,1.25,0.03906371751349359,176.0,139.0,30.0,7.0,554
+1688,The 32 other clowns got into the car and left ten minutes ago.,1.25,0.039063717513493586,176.0,139.0,30.0,7.0,554
 1688,"""Where are your buddies, the priest and the rabbi?",1.25,0.03822353935782191,176.0,138.0,32.0,6.0,554
 1688,Do you like Green eggs and ham?,1.25,0.04301917422091399,176.0,144.0,20.0,12.0,554
 1688,'Post-irony hour' does have a certain ring to it.,1.25,0.039886201760873284,176.0,140.0,28.0,8.0,554
 1688,"So, any idea why the mortuary let you go ?",1.25,0.04225771273642583,176.0,143.0,22.0,11.0,554
 1688,23 burgers for one car?,1.25,0.04225771273642583,176.0,143.0,22.0,11.0,554
-1688,We're out of seltzer,1.25,0.03906371751349359,176.0,139.0,30.0,7.0,554
+1688,We're out of seltzer,1.25,0.039063717513493586,176.0,139.0,30.0,7.0,554
 1688,I told you absinthe doesn't make it grow fonder.,1.25,0.04376738986488017,176.0,145.0,18.0,13.0,554
 1688,"I'm not sure if that's what they mean by ""anonymous"" at those meetings.",1.25,0.039886201760873284,176.0,140.0,28.0,8.0,554
-1688,If Ringling Bros. doesn't work out there may be an opening in the Trump administration.,1.25,0.03906371751349359,176.0,139.0,30.0,7.0,554
+1688,If Ringling Bros. doesn't work out there may be an opening in the Trump administration.,1.25,0.039063717513493586,176.0,139.0,30.0,7.0,554
 1688,"You want a Trump wine? How about, ""The media doesn't like me, wah, wah, wah.",1.25,0.039886201760873284,176.0,140.0,28.0,8.0,554
 1688,No. Trump Tower is three blocks over.,1.25,0.04301917422091399,176.0,144.0,20.0,12.0,554
 1688,"Bozo just left, but the President is still here.",1.25,0.04301917422091399,176.0,144.0,20.0,12.0,554
 1688,"Sorry, bud, things just aren't funny anymore",1.25,0.04069206502309946,176.0,141.0,26.0,9.0,554
-1688,"Missed the Inaugural Parade, eh?",1.25,0.03906371751349359,176.0,139.0,30.0,7.0,554
+1688,"Missed the Inaugural Parade, eh?",1.25,0.039063717513493586,176.0,139.0,30.0,7.0,554
 1688,"Wait, I thought the clown was in the White House.",1.25,0.04376738986488017,176.0,145.0,18.0,13.0,554
-1688,"Listen clown, I'm no jerk.",1.25,0.03906371751349359,176.0,139.0,30.0,7.0,554
+1688,"Listen clown, I'm no jerk.",1.25,0.039063717513493586,176.0,139.0,30.0,7.0,554
 1688,I wasn't picked for the President's cabinet either.,1.25,0.039886201760873284,176.0,140.0,28.0,8.0,554
 1688,So how did they export the clown jobs?,1.25,0.04225771273642583,176.0,143.0,22.0,11.0,554
 1688,"You know, if it weren't for the flower, you would look just like the President of the United States.",1.25,0.04376738986488017,176.0,145.0,18.0,13.0,554
 1688,'Boozo The Clown',1.25,0.04301917422091399,176.0,144.0,20.0,12.0,554
 1688,Take out for how many in the car?,1.25,0.039886201760873284,176.0,140.0,28.0,8.0,554
 1688,I think you should run for office.,1.25,0.039886201760873284,176.0,140.0,28.0,8.0,554
-1688,"yeah, we serve clowns, just not your kind of clown.",1.25,0.03906371751349359,176.0,139.0,30.0,7.0,554
+1688,"yeah, we serve clowns, just not your kind of clown.",1.25,0.039063717513493586,176.0,139.0,30.0,7.0,554
 1688,A Bailey's on the rocks?,1.25,0.04225771273642583,176.0,143.0,22.0,11.0,554
 1688,You've had too much to drink to drive your thirty friends home in that tiny car.,1.25,0.04069206502309946,176.0,141.0,26.0,9.0,554
 1688,"Sorry, You just missed Sad Hour!",1.25,0.04069206502309946,176.0,141.0,26.0,9.0,554
-1688,"You're a bit late, I 86'd the priest and the rabbi about an hour ago.",1.25,0.03906371751349359,176.0,139.0,30.0,7.0,554
+1688,"You're a bit late, I 86'd the priest and the rabbi about an hour ago.",1.25,0.039063717513493586,176.0,139.0,30.0,7.0,554
 1688,I know who you are. You're one of the new Cabinet members.,1.25,0.039886201760873284,176.0,140.0,28.0,8.0,554
 1688,I am gonna have to see some ID,1.25,0.04301917422091399,176.0,144.0,20.0,12.0,554
 1688,"I hear you buddy, but remember, only fools fall in love.",1.25,0.03736447371640468,176.0,137.0,34.0,5.0,554
@@ -1737,11 +1737,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1688,Sam I am. And I do not like clowns in a pub or in a club.,1.25,0.039886201760873284,176.0,140.0,28.0,8.0,554
 1688,Something light and hoppy with a rounded nose?,1.25,0.04148227598359595,176.0,142.0,24.0,10.0,554
 1688,Sorry. Your photo ID looks faked.,1.25,0.04225771273642583,176.0,143.0,22.0,11.0,554
-1688,Happy hour doesn't start until 5.,1.25,0.03906371751349359,176.0,139.0,30.0,7.0,554
+1688,Happy hour doesn't start until 5.,1.25,0.039063717513493586,176.0,139.0,30.0,7.0,554
 1688,So a clown walks into a bar...,1.25,0.039886201760873284,176.0,140.0,28.0,8.0,554
 1688,What is your pleasure now that the circus has moved to Washington?,1.25,0.04225771273642583,176.0,143.0,22.0,11.0,554
 1688,New clown in town getting you down?,1.25,0.04225771273642583,176.0,143.0,22.0,11.0,554
-1688,"So, seltzer in a bottle.",1.25,0.03906371751349359,176.0,139.0,30.0,7.0,554
+1688,"So, seltzer in a bottle.",1.25,0.039063717513493586,176.0,139.0,30.0,7.0,554
 1688,Dour Hour starts in five minutes.,1.25,0.03822353935782191,176.0,138.0,32.0,6.0,554
 1688,"For the last time, no, we don't serve pie.",1.25,0.03822353935782191,176.0,138.0,32.0,6.0,554
 1688,"You don't really understand the point of ""happy hour"", do you?",1.25,0.03736447371640468,176.0,137.0,34.0,5.0,554
@@ -1767,16 +1767,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1751,"""It's OK to cry in your beer, everyone else does"".",1.2471264367816093,0.041711747542038914,174.0,141.0,23.0,10.0,554
 1751,"Sorry, I can't guarantee an hour of happiness.",1.2471264367816093,0.040087259159242,174.0,139.0,27.0,8.0,554
 1751,This job is easy; you won't have to jump through any hoops.,1.2471264367816093,0.0383940986453605,174.0,137.0,31.0,6.0,554
-1751,I played it again already.,1.2471264367816093,0.03751887581917127,174.0,136.0,33.0,5.0,554
-1751,DC's gonna be a circus.,1.2471264367816093,0.03751887581917127,174.0,136.0,33.0,5.0,554
-1751,Ever get the feeling you've become a cliche'?,1.2471264367816093,0.03751887581917127,174.0,136.0,33.0,5.0,554
+1751,I played it again already.,1.2471264367816093,0.037518875819171266,174.0,136.0,33.0,5.0,554
+1751,DC's gonna be a circus.,1.2471264367816093,0.037518875819171266,174.0,136.0,33.0,5.0,554
+1751,Ever get the feeling you've become a cliche'?,1.2471264367816093,0.037518875819171266,174.0,136.0,33.0,5.0,554
 1751,B&B on the rocks?,1.2471264367816093,0.04090756794231979,174.0,140.0,25.0,9.0,554
-1751,So when did you first suspect Mrs. Bozo had eyes for the Human Cannon Ball?,1.2471264367816093,0.03751887581917127,174.0,136.0,33.0,5.0,554
+1751,So when did you first suspect Mrs. Bozo had eyes for the Human Cannon Ball?,1.2471264367816093,0.037518875819171266,174.0,136.0,33.0,5.0,554
 1751,"Sorry, pal. You just missed Sad Hour.",1.2471264367816093,0.04250071353596393,174.0,142.0,21.0,11.0,554
 1751,"Sir. I knew Chuck Schumer, and you are no Chuck Schumer.",1.2471264367816093,0.041711747542038914,174.0,141.0,23.0,10.0,554
 1751,"OK, I'll pour you one, but don't blame me if it tastes funny.",1.2471264367816093,0.03570412450437396,174.0,134.0,37.0,3.0,554
 1751,I hear there's a gig at the White House.,1.2471264367816093,0.04250071353596393,174.0,142.0,21.0,11.0,554
-1751,"Normally, I'd say no. But if it's just you and a few of your friends in that VW parked outside...",1.2471264367816093,0.03751887581917127,174.0,136.0,33.0,5.0,554
+1751,"Normally, I'd say no. But if it's just you and a few of your friends in that VW parked outside...",1.2471264367816093,0.037518875819171266,174.0,136.0,33.0,5.0,554
 1751,"Hey, bozo, you gonna order something?",1.2471264367816093,0.0392498099211315,174.0,138.0,29.0,7.0,554
 1751,Your buddies out in that tiny car?,1.2471264367816093,0.04090756794231979,174.0,140.0,25.0,9.0,554
 1751,Let's get this straight. I'm not Sam and you're not Bozo!,1.2471264367816093,0.04250071353596393,174.0,142.0,21.0,11.0,554
@@ -1792,7 +1792,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1751,"First, promise, no seltzer down my pants.",1.2471264367816093,0.041711747542038914,174.0,141.0,23.0,10.0,554
 1751,Let me guess. You want a wine with a big red nose.,1.2471264367816093,0.041711747542038914,174.0,141.0,23.0,10.0,554
 1751,Of all the gin joints in Coney Island you had to walk into mine?!,1.2471264367816093,0.041711747542038914,174.0,141.0,23.0,10.0,554
-1751,Welcome to happy hour,1.2471264367816093,0.03751887581917127,174.0,136.0,33.0,5.0,554
+1751,Welcome to happy hour,1.2471264367816093,0.037518875819171266,174.0,136.0,33.0,5.0,554
 1751,"Look, if you're going to sit at the counter, you gotta order something besides seltzer.",1.2471264367816093,0.0383940986453605,174.0,137.0,31.0,6.0,554
 1751,"Has anyone every told you that you have ""resting disillusioned"" face?",1.2471264367816093,0.04327529802463925,174.0,143.0,19.0,12.0,554
 1751,"Yea, I heard the Greatest Show on Earth is closing. Have you thought of politics?",1.2471264367816093,0.041711747542038914,174.0,141.0,23.0,10.0,554
@@ -1814,7 +1814,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1751,I think you're dressed perfect for your new job at the White House.,1.2471264367816093,0.04250071353596393,174.0,142.0,21.0,11.0,554
 1751,"Actually, I think you have a GREAT shot at becoming commander-in-chief!",1.2471264367816093,0.04327529802463925,174.0,143.0,19.0,12.0,554
 1751,"The hat and orange hair should be fine, but if you want to run for President you should cut back a little on the makeup.",1.2471264367816093,0.04250071353596393,174.0,142.0,21.0,11.0,554
-1751,So which fake media outlet did you come from?,1.2471264367816093,0.03751887581917127,174.0,136.0,33.0,5.0,554
+1751,So which fake media outlet did you come from?,1.2471264367816093,0.037518875819171266,174.0,136.0,33.0,5.0,554
 1751,Have you thought of running for political office?,1.2471264367816093,0.041711747542038914,174.0,141.0,23.0,10.0,554
 1751,Ten bucks to park the elephant and you clean up afterwards.,1.2471264367816093,0.041711747542038914,174.0,141.0,23.0,10.0,554
 1751,"No, I can't just spray you with the seltzer bottle.",1.2471264367816093,0.04327529802463925,174.0,143.0,19.0,12.0,554
@@ -1860,7 +1860,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1855,"Clowns to the left, Jokers to the right; where do your politics lie?",1.2427745664739884,0.04091122828205061,173.0,140.0,24.0,9.0,554
 1855,Why so glum? The circus just started.,1.2427745664739884,0.03923393848818495,173.0,138.0,28.0,7.0,554
 1855,I always thought it was a big waste of seltzer.,1.2427745664739884,0.03923393848818495,173.0,138.0,28.0,7.0,554
-1855,"It was the elephants, don't take it personally.",1.2427745664739884,0.038367806741707186,173.0,137.0,30.0,6.0,554
+1855,"It was the elephants, don't take it personally.",1.2427745664739884,0.03836780674170719,173.0,137.0,30.0,6.0,554
 1855,Laid off after 146 years - that's rough.,1.2427745664739884,0.03923393848818495,173.0,138.0,28.0,7.0,554
 1855,A Bailey's on the rocks?,1.2427745664739884,0.04091122828205061,173.0,140.0,24.0,9.0,554
 1855,Too bad about Ringling Brothers! Have you considered a career in politics? America loves scary clowns!,1.2427745664739884,0.04172459627931404,173.0,141.0,22.0,10.0,554
@@ -1871,12 +1871,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1855,Happy hour doesn't start for another 45 minutes.,1.2427745664739884,0.03923393848818495,173.0,138.0,28.0,7.0,554
 1855,Too bad the Senate didn't confirm you. How about a beer?,1.2427745664739884,0.04172459627931404,173.0,141.0,22.0,10.0,554
 1855,"Nope; I can still tell it's you, Mr. Cosby.",1.2427745664739884,0.04172459627931404,173.0,141.0,22.0,10.0,554
-1855,So what if your father thinks you're a clown?,1.2427745664739884,0.038367806741707186,173.0,137.0,30.0,6.0,554
+1855,So what if your father thinks you're a clown?,1.2427745664739884,0.03836780674170719,173.0,137.0,30.0,6.0,554
 1855,"You want to go where everyone knows your name, Bozo.",1.2427745664739884,0.04172459627931404,173.0,141.0,22.0,10.0,554
 1855,The usual Senator Schumer?,1.2427745664739884,0.044074731310001364,173.0,144.0,16.0,13.0,554
 1855,"Sorry, happy hour's over.",1.2427745664739884,0.042522409030973735,173.0,142.0,20.0,11.0,554
 1855,"There's no discount for bringing your own seltzer bottle, Claribel.",1.2427745664739884,0.03923393848818495,173.0,138.0,28.0,7.0,554
-1855,Remind me again what you do for a living?,1.2427745664739884,0.038367806741707186,173.0,137.0,30.0,6.0,554
+1855,Remind me again what you do for a living?,1.2427745664739884,0.03836780674170719,173.0,137.0,30.0,6.0,554
 1879,"Lucille, we can't go on meeting like this.",1.2413793103448276,0.04069934986516517,174.0,141.0,24.0,9.0,554
 1880,"Turn around. You're double-parked, and all twenty of your buddies are getting tickets.",1.24,0.04208053893403285,175.0,144.0,20.0,11.0,554
 1881,Sorry. We no longer have Barnum and Baileys on tap.,1.239766081871345,0.04028176929035217,171.0,138.0,25.0,8.0,554
@@ -2028,13 +2028,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2024,There's no way you can compete with the scary clown in the White House.,1.2339181286549707,0.03918821722456645,171.0,138.0,26.0,7.0,554
 2028,I'm serious: No funny business in this bar.,1.2321428571428572,0.03773341413364213,168.0,134.0,29.0,5.0,554
 2028,"The Trump victory party is tonight at 8 o'clock, Mr. Roberts.",1.2321428571428572,0.039577550973252086,168.0,136.0,25.0,7.0,554
-2028,Last one to blink drinks.,1.2321428571428572,0.043849886410216934,168.0,141.0,15.0,12.0,554
+2028,Last one to blink drinks.,1.2321428571428572,0.04384988641021693,168.0,141.0,15.0,12.0,554
 2028,Face it. It is your circus. Those are your monkeys.,1.2321428571428572,0.039577550973252086,168.0,136.0,25.0,7.0,554
-2028,We don't serve politicians here.,1.2321428571428572,0.040468117580016984,168.0,137.0,23.0,8.0,554
+2028,We don't serve politicians here.,1.2321428571428572,0.04046811758001698,168.0,137.0,23.0,8.0,554
 2028,Many other voters feel the same,1.2321428571428572,0.038666478267494905,168.0,135.0,27.0,6.0,554
 2028,"What, you're the only one Trump didn't offer a cabinet position?",1.2321428571428572,0.04544650192312222,168.0,143.0,11.0,14.0,554
 2028,"Orange sherbet, as usual, Mr. President?""",1.2321428571428572,0.04133950338235562,168.0,138.0,21.0,9.0,554
-2028,Sorry! No discounts for members of the presidential inaugural committee.,1.2321428571428572,0.040468117580016984,168.0,137.0,23.0,8.0,554
+2028,Sorry! No discounts for members of the presidential inaugural committee.,1.2321428571428572,0.04046811758001698,168.0,137.0,23.0,8.0,554
 2028,"Don't worry, Mr. Trump. Your secret is safe with me.",1.2321428571428572,0.04302936832861035,168.0,140.0,17.0,11.0,554
 2028,I'm afraid I can't seat you until your entire party arrives.,1.2321428571428572,0.039577550973252086,168.0,136.0,25.0,7.0,554
 2028,Oh well 146 years that's a pretty good run.,1.2321428571428572,0.04219289678760518,168.0,139.0,19.0,10.0,554
@@ -2045,7 +2045,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2028,Now who's the jerk?,1.2321428571428572,0.039577550973252086,168.0,136.0,25.0,7.0,554
 2028,"Another seltzer, Mr. President?",1.2321428571428572,0.04133950338235562,168.0,138.0,21.0,9.0,554
 2028,Just because you're the president now doesn't mean you get a free soda.,1.2321428571428572,0.039577550973252086,168.0,136.0,25.0,7.0,554
-2028,"Yes, Mr. President?",1.2321428571428572,0.043849886410216934,168.0,141.0,15.0,12.0,554
+2028,"Yes, Mr. President?",1.2321428571428572,0.04384988641021693,168.0,141.0,15.0,12.0,554
 2028,"Well Donald, how's the president gig working out?",1.2321428571428572,0.044655330450223296,168.0,142.0,13.0,13.0,554
 2049,"Oh, sorry, I thought you knew the circus was closing.",1.2307692307692308,0.038461538461538464,169.0,136.0,27.0,6.0,554
 2050,I'm sorry to hear the new guy in the White House has already filled the position.,1.2289156626506024,0.04066856609169571,166.0,136.0,22.0,8.0,554
@@ -2058,7 +2058,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2050,"You'll learn. It's basically sweep, lights out, close.",1.2289156626506024,0.035900355392610016,166.0,131.0,32.0,3.0,554
 2050,And where do you want that seltzer?,1.2289156626506024,0.042426064726889166,166.0,138.0,18.0,10.0,554
 2050,Er...so where's the priest and the rabbi?,1.2289156626506024,0.03976069564063031,166.0,135.0,24.0,7.0,554
-2050,Last call before Happy Hour.,1.2289156626506024,0.03787973359952879,166.0,133.0,28.0,5.0,554
+2050,Last call before Happy Hour.,1.2289156626506024,0.037879733599528786,166.0,133.0,28.0,5.0,554
 2050,"No balloon animals, no beer!",1.2289156626506024,0.04155660739379968,166.0,137.0,20.0,9.0,554
 2050,We're out of seltzer,1.2289156626506024,0.04155660739379968,166.0,137.0,20.0,9.0,554
 2050,Putting on more make-up will not make you look 21.,1.2289156626506024,0.04155660739379968,166.0,137.0,20.0,9.0,554
@@ -2067,8 +2067,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2050,"Sorry, fella. We don't serve new leaders of the free world in here.",1.2289156626506024,0.042426064726889166,166.0,138.0,18.0,10.0,554
 2050,"So, let me get this straight. You were at an inauguration with your hand on a stack of Bibles, you bolted, and now you want bourbon and a beer.",1.2289156626506024,0.042426064726889166,166.0,138.0,18.0,10.0,554
 2050,I was just joking. Some of my best friends are clowns.,1.2289156626506024,0.035900355392610016,166.0,131.0,32.0,3.0,554
-2050,"No, I didn't know that circus performers were being displaced by self-driving clown cars. Tough break!",1.2289156626506024,0.03787973359952879,166.0,133.0,28.0,5.0,554
-2050,You heading the the Clown Lives Matter rally?,1.2289156626506024,0.03787973359952879,166.0,133.0,28.0,5.0,554
+2050,"No, I didn't know that circus performers were being displaced by self-driving clown cars. Tough break!",1.2289156626506024,0.037879733599528786,166.0,133.0,28.0,5.0,554
+2050,You heading the the Clown Lives Matter rally?,1.2289156626506024,0.037879733599528786,166.0,133.0,28.0,5.0,554
 2050,"Pop, you know those are some big shoes to fill.",1.2289156626506024,0.035900355392610016,166.0,131.0,32.0,3.0,554
 2050,"So she's been seeing the elephant trainer again, eh Rusty?",1.2289156626506024,0.04066856609169571,166.0,136.0,22.0,8.0,554
 2050,"MILDRED; off with that silly costume!!! I don’t have a girlfriend, I just work nights.",1.2289156626506024,0.04155660739379968,166.0,137.0,20.0,9.0,554
@@ -2107,7 +2107,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2050,The last clown I hired ran me out of seltzer.,1.2289156626506024,0.04066856609169571,166.0,136.0,22.0,8.0,554
 2050,I suppose you think this is funny.,1.2289156626506024,0.04066856609169571,166.0,136.0,22.0,8.0,554
 2050,"Sorry, no carry outs. You'll just have to invite the other 27 guys in the car to join you.",1.2289156626506024,0.0432780581627454,166.0,139.0,16.0,11.0,554
-2050,"No, the drinks aren't cheaper if you want to use your own seltzer water.",1.2289156626506024,0.03787973359952879,166.0,133.0,28.0,5.0,554
+2050,"No, the drinks aren't cheaper if you want to use your own seltzer water.",1.2289156626506024,0.037879733599528786,166.0,133.0,28.0,5.0,554
 2110,The last clown I served here ran off with my first first wife! Can I buy you a beer?,1.2275449101796407,0.03954565451888787,167.0,136.0,24.0,7.0,554
 2110,We don't accept funny money.,1.2275449101796407,0.03954565451888787,167.0,136.0,24.0,7.0,554
 2112,So this clown walks into a bar . . .,1.2272727272727273,0.04274226900296567,154.0,127.0,19.0,8.0,554
@@ -2198,21 +2198,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2116,"Make it a double, Sam. I work with a bunch of clowns.",1.225609756097561,0.040870209774351365,164.0,135.0,21.0,8.0,554
 2116,"I don't give a damn about Ringling Brothers, a beer is still two dollars.",1.225609756097561,0.04177548020174899,164.0,136.0,19.0,9.0,554
 2116,So they made you perform at the inauguration?,1.225609756097561,0.0399444282461553,164.0,134.0,23.0,7.0,554
-2200,That's it -- I'm cutting you off. No more seltzer!,1.2242424242424241,0.03972514134963802,165.0,135.0,23.0,7.0,554
-2200,"Sam, I overreacted and went for the juggler.",1.2242424242424241,0.042424242424242455,165.0,138.0,17.0,10.0,554
-2200,Happy hour's at four.,1.2242424242424241,0.04064476208881178,165.0,136.0,21.0,8.0,554
-2200,who are you calling a jerk you clown,1.2242424242424241,0.0415440310425397,165.0,137.0,19.0,9.0,554
-2200,"I think you've had enough, Mac. That's three bottles of seltzer today.",1.2242424242424241,0.03682875731309091,165.0,132.0,29.0,4.0,554
-2200,You missed happy hour by five minutes.,1.2242424242424241,0.042424242424242455,165.0,138.0,17.0,10.0,554
-2200,"I'm sorry sir, but happy hour's over",1.2242424242424241,0.03682875731309091,165.0,132.0,29.0,4.0,554
-2200,Not funny.,1.2242424242424241,0.043286558829251885,165.0,139.0,15.0,11.0,554
-2200,How many times do I have to tell you that we're out of seltzer?,1.2242424242424241,0.04064476208881178,165.0,136.0,21.0,8.0,554
-2200,I understand. Now there's nothing funny.,1.2242424242424241,0.042424242424242455,165.0,138.0,17.0,10.0,554
-2200,We no longer host happy hour.,1.2242424242424241,0.03972514134963802,165.0,135.0,23.0,7.0,554
-2200,"No, I can't rig it to squirt vodka.",1.2242424242424241,0.03781887353205987,165.0,133.0,27.0,5.0,554
-2200,Is that the Priest and the Rabbi coming in you're supposed to meet?,1.2242424242424241,0.04064476208881178,165.0,136.0,21.0,8.0,554
-2200,"Clown walks in? That won't cut it, pal. We've raised the bar.",1.2242424242424241,0.03781887353205987,165.0,133.0,27.0,5.0,554
-2200,"Buddy , I don't need you to tell me that the circus has come to town .",1.2242424242424241,0.03781887353205987,165.0,133.0,27.0,5.0,554
+2200,That's it -- I'm cutting you off. No more seltzer!,1.224242424242424,0.03972514134963802,165.0,135.0,23.0,7.0,554
+2200,"Sam, I overreacted and went for the juggler.",1.224242424242424,0.042424242424242455,165.0,138.0,17.0,10.0,554
+2200,Happy hour's at four.,1.224242424242424,0.04064476208881178,165.0,136.0,21.0,8.0,554
+2200,who are you calling a jerk you clown,1.224242424242424,0.0415440310425397,165.0,137.0,19.0,9.0,554
+2200,"I think you've had enough, Mac. That's three bottles of seltzer today.",1.224242424242424,0.03682875731309091,165.0,132.0,29.0,4.0,554
+2200,You missed happy hour by five minutes.,1.224242424242424,0.042424242424242455,165.0,138.0,17.0,10.0,554
+2200,"I'm sorry sir, but happy hour's over",1.224242424242424,0.03682875731309091,165.0,132.0,29.0,4.0,554
+2200,Not funny.,1.224242424242424,0.043286558829251885,165.0,139.0,15.0,11.0,554
+2200,How many times do I have to tell you that we're out of seltzer?,1.224242424242424,0.04064476208881178,165.0,136.0,21.0,8.0,554
+2200,I understand. Now there's nothing funny.,1.224242424242424,0.042424242424242455,165.0,138.0,17.0,10.0,554
+2200,We no longer host happy hour.,1.224242424242424,0.03972514134963802,165.0,135.0,23.0,7.0,554
+2200,"No, I can't rig it to squirt vodka.",1.224242424242424,0.03781887353205987,165.0,133.0,27.0,5.0,554
+2200,Is that the Priest and the Rabbi coming in you're supposed to meet?,1.224242424242424,0.04064476208881178,165.0,136.0,21.0,8.0,554
+2200,"Clown walks in? That won't cut it, pal. We've raised the bar.",1.224242424242424,0.03781887353205987,165.0,133.0,27.0,5.0,554
+2200,"Buddy , I don't need you to tell me that the circus has come to town .",1.224242424242424,0.03781887353205987,165.0,133.0,27.0,5.0,554
 2215,Any matches on tinder yet?,1.2228915662650603,0.04218953221197794,166.0,139.0,17.0,10.0,554
 2216,Go ahead. Squirt me again with that flower.,1.221556886227545,0.03836458895452542,167.0,136.0,25.0,6.0,554
 2216,Can I get you anything Mr.Trump?,1.221556886227545,0.04280848070316555,167.0,141.0,15.0,11.0,554
@@ -2221,7 +2221,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2218,"Sorry, we're the ""psycho taxi driver"" bar. The ""creepy clown"" bar is at Lex and 83rd.",1.2208588957055215,0.04175987291750948,163.0,136.0,18.0,9.0,554
 2218,I heard the layoffs may not be over with the elephants.,1.2208588957055215,0.036948412359557335,163.0,131.0,28.0,4.0,554
 2218,"I don't have anything against clowns, it's just concerning when they're being elected president.",1.2208588957055215,0.0426570902444772,163.0,137.0,16.0,10.0,554
-2218,"One bottle of seltzer, neat.",1.2208588957055215,0.038944394975012134,163.0,133.0,24.0,6.0,554
+2218,"One bottle of seltzer, neat.",1.2208588957055215,0.03894439497501213,163.0,133.0,24.0,6.0,554
 2218,I'd suggest the Creepy IPA.,1.2208588957055215,0.04084295072650373,163.0,135.0,20.0,8.0,554
 2218,Are you the designated driver of the clown car?,1.2208588957055215,0.04175987291750948,163.0,136.0,18.0,9.0,554
 2218,What happened to this place? It used to be a circus.,1.2208588957055215,0.03795952499611685,163.0,132.0,26.0,5.0,554
@@ -2234,12 +2234,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2218,The inaugural performance could really catapult your career.,1.2208588957055215,0.04175987291750948,163.0,136.0,18.0,9.0,554
 2218,"No sir , dressing up is not required for Happy Hour.",1.2208588957055215,0.04175987291750948,163.0,136.0,18.0,9.0,554
 2218,They've sent in a scarier clown.,1.2208588957055215,0.03990496538037192,163.0,134.0,22.0,7.0,554
-2218,"Read the sign, pal. No oversize shoes, no squirting flower, no service.",1.2208588957055215,0.038944394975012134,163.0,133.0,24.0,6.0,554
+2218,"Read the sign, pal. No oversize shoes, no squirting flower, no service.",1.2208588957055215,0.03894439497501213,163.0,133.0,24.0,6.0,554
 2218,"Seltzer with mime, coming up.",1.2208588957055215,0.04084295072650373,163.0,135.0,20.0,8.0,554
-2218,"Nobody does seltzer water in bottles anymore pal, it's all on tap.",1.2208588957055215,0.038944394975012134,163.0,133.0,24.0,6.0,554
+2218,"Nobody does seltzer water in bottles anymore pal, it's all on tap.",1.2208588957055215,0.03894439497501213,163.0,133.0,24.0,6.0,554
 2218,Just because a clown walks into a bar doesn't mean I can solve your existential problems.,1.2208588957055215,0.03990496538037192,163.0,134.0,22.0,7.0,554
-2218,"Sorry, we don't accept funny money.",1.2208588957055215,0.038944394975012134,163.0,133.0,24.0,6.0,554
-2218,I told you no funny business!,1.2208588957055215,0.038944394975012134,163.0,133.0,24.0,6.0,554
+2218,"Sorry, we don't accept funny money.",1.2208588957055215,0.03894439497501213,163.0,133.0,24.0,6.0,554
+2218,I told you no funny business!,1.2208588957055215,0.03894439497501213,163.0,133.0,24.0,6.0,554
 2218,"Sorry, no seltzer, just beer.",1.2208588957055215,0.03990496538037192,163.0,134.0,22.0,7.0,554
 2218,No seltzer for you!,1.2208588957055215,0.0426570902444772,163.0,137.0,16.0,10.0,554
 2218,"I see that Ringling Brothers is ""Sending in the unemployable Clowns""",1.2208588957055215,0.04175987291750948,163.0,136.0,18.0,9.0,554
@@ -2250,16 +2250,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2218,"Sorry to hear it pal, but if you didn't really want the job, you shouldn't have run in the first place.",1.2208588957055215,0.04175987291750948,163.0,136.0,18.0,9.0,554
 2218,Sorry your blind date didn't work out again!,1.2208588957055215,0.04084295072650373,163.0,135.0,20.0,8.0,554
 2218,I wish I had a nickel for every time some sad clown came in here and tried to sell me that line of malarkey.,1.2208588957055215,0.03990496538037192,163.0,134.0,22.0,7.0,554
-2218,The soda jerk position has been filled.,1.2208588957055215,0.038944394975012134,163.0,133.0,24.0,6.0,554
+2218,The soda jerk position has been filled.,1.2208588957055215,0.03894439497501213,163.0,133.0,24.0,6.0,554
 2218,It's not just you. It's your 37 passengers I'm worried about.,1.2208588957055215,0.04353582100023385,163.0,138.0,14.0,11.0,554
 2218,Can you be trusted with seltzer?,1.2208588957055215,0.03990496538037192,163.0,134.0,22.0,7.0,554
 2218,"No, I'm not sure where the Electoral College is.",1.2208588957055215,0.03990496538037192,163.0,134.0,22.0,7.0,554
 2218,What's with the stupid flower?,1.2208588957055215,0.0426570902444772,163.0,137.0,16.0,10.0,554
 2218,How about a post-election scoop to turn that frown upside down?,1.2208588957055215,0.03795952499611685,163.0,132.0,26.0,5.0,554
-2218,"Mother, I told you to stop checking up on me...",1.2208588957055215,0.038944394975012134,163.0,133.0,24.0,6.0,554
+2218,"Mother, I told you to stop checking up on me...",1.2208588957055215,0.03894439497501213,163.0,133.0,24.0,6.0,554
 2218,"Have you tried, 'Able to squeeze into very small cars.'?",1.2208588957055215,0.03795952499611685,163.0,132.0,26.0,5.0,554
-2218,"One Clown Loyal on the rocks, please.",1.2208588957055215,0.038944394975012134,163.0,133.0,24.0,6.0,554
-2218,Have you any experience in seltzer?,1.2208588957055215,0.038944394975012134,163.0,133.0,24.0,6.0,554
+2218,"One Clown Loyal on the rocks, please.",1.2208588957055215,0.03894439497501213,163.0,133.0,24.0,6.0,554
+2218,Have you any experience in seltzer?,1.2208588957055215,0.03894439497501213,163.0,133.0,24.0,6.0,554
 2218,"Small car, 21 clowns, where'd you think your nose would go?",1.2208588957055215,0.04084295072650373,163.0,135.0,20.0,8.0,554
 2218,Easy on the seltzer.,1.2208588957055215,0.03990496538037192,163.0,134.0,22.0,7.0,554
 2218,People no longer take me at face value.,1.2208588957055215,0.03990496538037192,163.0,134.0,22.0,7.0,554
@@ -2276,7 +2276,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2218,"Happy hour is over, Mr. Barnum",1.2208588957055215,0.03990496538037192,163.0,134.0,22.0,7.0,554
 2218,"A little song, a little dance, a little seltzer down your… no, I couldn’t do that.",1.2208588957055215,0.04084295072650373,163.0,135.0,20.0,8.0,554
 2218,"Are you a scary clown, a funny clown, or just one of the usual clowns who comes in?",1.2208588957055215,0.03990496538037192,163.0,134.0,22.0,7.0,554
-2218,Sorry. We serve clowns only on Inauguration Day.,1.2208588957055215,0.038944394975012134,163.0,133.0,24.0,6.0,554
+2218,Sorry. We serve clowns only on Inauguration Day.,1.2208588957055215,0.03894439497501213,163.0,133.0,24.0,6.0,554
 2218,"So, this is your alternative face?",1.2208588957055215,0.03990496538037192,163.0,134.0,22.0,7.0,554
 2218,You just missed Sam--he left to join the circus.,1.2208588957055215,0.04175987291750948,163.0,136.0,18.0,9.0,554
 2218,We don't serve Trump supporters here.,1.2208588957055215,0.04175987291750948,163.0,136.0,18.0,9.0,554
@@ -2323,7 +2323,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2322,So I guess you don't want to hear the Happy Hour specials.,1.2160493827160497,0.036860890330866085,162.0,131.0,27.0,4.0,554
 2322,"Ten cream pies and a diet soda, please.",1.2160493827160497,0.038885571979684036,162.0,133.0,23.0,6.0,554
 2322,"Uh, no...that says 'lager on tap', not 'laughter'.",1.2160493827160497,0.0408099274734744,162.0,135.0,19.0,8.0,554
-2325,Which one of you bozos said the seltzer tastes funny?,1.2142857142857142,0.03794693567819261,154.0,125.0,25.0,4.0,554
+2325,Which one of you bozos said the seltzer tastes funny?,1.2142857142857142,0.037946935678192614,154.0,125.0,25.0,4.0,554
 2325,That flower is a Forget-me-not? Believe me. No one who sees you will ever forget you.,1.2142857142857142,0.04317849136413822,154.0,130.0,15.0,9.0,554
 2325,Let me guess...you're hiding from your wife.,1.2142857142857142,0.04012150050798344,154.0,127.0,21.0,6.0,554
 2325,"I do own the place, but I'm not exactly what you'd call a ringleader.",1.2142857142857142,0.04116572896033459,154.0,128.0,19.0,7.0,554
@@ -2386,13 +2386,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2383,you know that really isn't much of a disguise Mr.President,1.2125,0.04003487080662488,160.0,133.0,20.0,7.0,554
 2383,"Truth, you don't look like a happy drunk to me.",1.2125,0.036972176347888575,160.0,130.0,26.0,4.0,554
 2383,It's not my fault. I always took the kids to the circus.,1.2125,0.04100496595175275,160.0,134.0,18.0,8.0,554
-2383,Who's tab this time...Barnum's or Bailey's?,1.2125,0.038020496789240264,160.0,131.0,24.0,5.0,554
+2383,Who's tab this time...Barnum's or Bailey's?,1.2125,0.03802049678924026,160.0,131.0,24.0,5.0,554
 2383,It was worth a try but can we go back to normal Happy Hour now?,1.2125,0.0390406778668338,160.0,132.0,22.0,6.0,554
 2383,"Cheer up, Dufus. We can't all be Bozos.",1.2125,0.04100496595175275,160.0,134.0,18.0,8.0,554
-2383,"Sorry bub, but you can't have a rubber chicken on your pizza.",1.2125,0.038020496789240264,160.0,131.0,24.0,5.0,554
+2383,"Sorry bub, but you can't have a rubber chicken on your pizza.",1.2125,0.03802049678924026,160.0,131.0,24.0,5.0,554
 2383,The beer tastes funny. Are you kidding me?,1.2125,0.04100496595175275,160.0,134.0,18.0,8.0,554
 2383,I'm not surprised work has been slow for you since the election.,1.2125,0.0390406778668338,160.0,132.0,22.0,6.0,554
-2383,I'm not afraid of you.,1.2125,0.038020496789240264,160.0,131.0,24.0,5.0,554
+2383,I'm not afraid of you.,1.2125,0.03802049678924026,160.0,131.0,24.0,5.0,554
 2383,We're all sold out of inauguration pies.,1.2125,0.04003487080662488,160.0,133.0,20.0,7.0,554
 2383,"I'm sorry, we need an ID with a current photo.",1.2125,0.04003487080662488,160.0,133.0,20.0,7.0,554
 2383,One Soda Water In The Face coming up. Pretzels?,1.2125,0.04003487080662488,160.0,133.0,20.0,7.0,554
@@ -2481,7 +2481,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2399,"John, your perception of reality inspires all of us here.",1.2101910828025475,0.037293551852556936,157.0,128.0,25.0,4.0,554
 2399,We don't serve shaving cream pies.,1.2101910828025475,0.037293551852556936,157.0,128.0,25.0,4.0,554
 2399,A little seltzer in you pants?,1.2101910828025475,0.037293551852556936,157.0,128.0,25.0,4.0,554
-2399,A spritz of seltzer down your pants is two bits.,1.2101910828025475,0.036182173683338134,157.0,127.0,27.0,3.0,554
+2399,A spritz of seltzer down your pants is two bits.,1.2101910828025475,0.03618217368333813,157.0,127.0,27.0,3.0,554
 2399,"Sorry, we're all out of seltzer. ... And cream pie.",1.2101910828025475,0.037293551852556936,157.0,128.0,25.0,4.0,554
 2399,"trust me, we can make sam's great again",1.2101910828025475,0.03942242565387837,157.0,130.0,21.0,6.0,554
 2399,"Is that you, Norm?",1.2101910828025475,0.04144208343087715,157.0,132.0,17.0,8.0,554
@@ -2495,9 +2495,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2494,"Sorry, we don't take any funny business here.",1.2088607594936709,0.03919470503414218,158.0,131.0,21.0,6.0,554
 2494,Pathos is dead.,1.2088607594936709,0.04021008030080092,158.0,132.0,19.0,7.0,554
 2494,"...and one cannibal says to the other, ""does this taste funny?""",1.2088607594936709,0.04021008030080092,158.0,132.0,19.0,7.0,554
-2494,"Don't let it get you down, Sprinkles. The new President is hiring.",1.2088607594936709,0.03815231641237479,158.0,130.0,23.0,5.0,554
+2494,"Don't let it get you down, Sprinkles. The new President is hiring.",1.2088607594936709,0.038152316412374786,158.0,130.0,23.0,5.0,554
 2494,"It's the show that won't go on, not your life.",1.2088607594936709,0.037080636355738494,158.0,129.0,25.0,4.0,554
-2494,You know they are looking for people just like you in Washington D.C.!,1.2088607594936709,0.03815231641237479,158.0,130.0,23.0,5.0,554
+2494,You know they are looking for people just like you in Washington D.C.!,1.2088607594936709,0.038152316412374786,158.0,130.0,23.0,5.0,554
 2494,I am not serving the other 15 clowns in your car until see their IDs.,1.2088607594936709,0.04216754519726935,158.0,134.0,15.0,9.0,554
 2494,Why the wide face!,1.2088607594936709,0.03919470503414218,158.0,131.0,21.0,6.0,554
 2494,I see you've got a new look since your inauguration.,1.2088607594936709,0.041200439474358835,158.0,133.0,17.0,8.0,554
@@ -2507,11 +2507,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2506,Are you guys hiring? My last gig just folded its tent,1.207792207792208,0.03981465917961695,154.0,128.0,20.0,6.0,554
 2506,"Sorry, no Happy Hour for sad clowns...",1.207792207792208,0.04387182281241017,154.0,132.0,12.0,10.0,554
 2506,"I'm sorry, this is a post-humor bar.",1.207792207792208,0.03981465917961695,154.0,128.0,20.0,6.0,554
-2509,Buyer's remorse?,1.206451612903226,0.04062434215875319,155.0,130.0,18.0,7.0,554
+2509,Buyer's remorse?,1.206451612903226,0.040624342158753185,155.0,130.0,18.0,7.0,554
 2509,Maybe the world was not ready for a clown mortician.,1.206451612903226,0.042636973825005454,155.0,132.0,14.0,9.0,554
 2511,"Tough break. But, since the election, our clown residency is filled.",1.205128205128205,0.04038477949734928,156.0,131.0,18.0,7.0,554
 2511,Do you know the one about why cannibals don't like clowns?,1.205128205128205,0.038281907517415295,156.0,129.0,22.0,5.0,554
-2511,"I get it, pal. Its just like when Austin Powers ruined the Bond franchise. It was inevitable Trump would ruin the circus. Shall I make it double?",1.205128205128205,0.04139617616384773,156.0,132.0,16.0,8.0,554
+2511,"I get it, pal. Its just like when Austin Powers ruined the Bond franchise. It was inevitable Trump would ruin the circus. Shall I make it double?",1.205128205128205,0.041396176163847734,156.0,132.0,16.0,8.0,554
 2511,No country for old clowns.,1.205128205128205,0.038281907517415295,156.0,129.0,22.0,5.0,554
 2511,Scotch with a wine chaser? You can't be serious.,1.205128205128205,0.038281907517415295,156.0,129.0,22.0,5.0,554
 2511,What do you mean? You are dressed perfectly for your new job in Washington.,1.205128205128205,0.039347394184503885,156.0,130.0,20.0,6.0,554
@@ -2521,43 +2521,43 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2511,Your the third clown from Ringling's in here this week!,1.205128205128205,0.039347394184503885,156.0,130.0,20.0,6.0,554
 2511,"Sorry, I didn't mean to step on your shoes.",1.205128205128205,0.039347394184503885,156.0,130.0,20.0,6.0,554
 2511,"It's a soda, jerk.",1.205128205128205,0.04038477949734928,156.0,131.0,18.0,7.0,554
-2511,It's like Bear Sterns all over again.,1.205128205128205,0.04139617616384773,156.0,132.0,16.0,8.0,554
+2511,It's like Bear Sterns all over again.,1.205128205128205,0.041396176163847734,156.0,132.0,16.0,8.0,554
 2511,"Sorry pal, creepy clowns are just so 2016.",1.205128205128205,0.03718590401258447,156.0,128.0,24.0,4.0,554
 2511,"If that's as funny as you can be, we're going to have to ask you to leave.",1.205128205128205,0.04238344472700523,156.0,133.0,14.0,9.0,554
-2511,Heard you are in the on-deck circle for a cabinet appointment. You sure you want to put up with that circus?,1.205128205128205,0.04139617616384773,156.0,132.0,16.0,8.0,554
+2511,Heard you are in the on-deck circle for a cabinet appointment. You sure you want to put up with that circus?,1.205128205128205,0.041396176163847734,156.0,132.0,16.0,8.0,554
 2511,"'OK, one drink and back to the bank""",1.205128205128205,0.039347394184503885,156.0,130.0,20.0,6.0,554
 2511,Pastrami on white with mayo? That's not funny.,1.205128205128205,0.04038477949734928,156.0,131.0,18.0,7.0,554
 2511,"No, he won't play it again.",1.205128205128205,0.04038477949734928,156.0,131.0,18.0,7.0,554
 2511,"Not going to the inauguration,Senator Schumer?",1.205128205128205,0.04238344472700523,156.0,133.0,14.0,9.0,554
-2511,"Bill, when I said we need to increase spirits, this is not what I had in mind.",1.205128205128205,0.04139617616384773,156.0,132.0,16.0,8.0,554
+2511,"Bill, when I said we need to increase spirits, this is not what I had in mind.",1.205128205128205,0.041396176163847734,156.0,132.0,16.0,8.0,554
 2511,"What's up, Boozo?",1.205128205128205,0.039347394184503885,156.0,130.0,20.0,6.0,554
 2511,"I sorry President Trump, I didn't recognize you without the orange hair.",1.205128205128205,0.04038477949734928,156.0,131.0,18.0,7.0,554
 2511,"Well Chuckles, it looks like you finally had the last laugh.",1.205128205128205,0.038281907517415295,156.0,129.0,22.0,5.0,554
-2511,"So glad you dropped the orange mask, Mr. President. This is definitely the real you.",1.205128205128205,0.04139617616384773,156.0,132.0,16.0,8.0,554
+2511,"So glad you dropped the orange mask, Mr. President. This is definitely the real you.",1.205128205128205,0.041396176163847734,156.0,132.0,16.0,8.0,554
 2511,Stop clowning around Sam. I know it's you,1.205128205128205,0.04038477949734928,156.0,131.0,18.0,7.0,554
 2511,"Sorry, we don't have Happy Hour on Mondays.",1.205128205128205,0.038281907517415295,156.0,129.0,22.0,5.0,554
 2511,"It is pronounced ""Smas"".",1.205128205128205,0.04238344472700523,156.0,133.0,14.0,9.0,554
-2511,Sorry--inauguration party's over.,1.205128205128205,0.04139617616384773,156.0,132.0,16.0,8.0,554
+2511,Sorry--inauguration party's over.,1.205128205128205,0.041396176163847734,156.0,132.0,16.0,8.0,554
 2511,Green eggs and beer? Not here! Not there!,1.205128205128205,0.038281907517415295,156.0,129.0,22.0,5.0,554
-2511,"Good God, no wonder people run from you.",1.205128205128205,0.04139617616384773,156.0,132.0,16.0,8.0,554
+2511,"Good God, no wonder people run from you.",1.205128205128205,0.041396176163847734,156.0,132.0,16.0,8.0,554
 2511,"No, I'm not joking...",1.205128205128205,0.04238344472700523,156.0,133.0,14.0,9.0,554
 2511,A little Dutch courage for your confirmation hearing?,1.205128205128205,0.04038477949734928,156.0,131.0,18.0,7.0,554
-2511,"What do you mean: ""You're having doubts about the election?""",1.205128205128205,0.04139617616384773,156.0,132.0,16.0,8.0,554
+2511,"What do you mean: ""You're having doubts about the election?""",1.205128205128205,0.041396176163847734,156.0,132.0,16.0,8.0,554
 2511,Good luck with your inauguration.,1.205128205128205,0.04038477949734928,156.0,131.0,18.0,7.0,554
 2511,"So, you're a friend of Bozo. Who the hell is Bozo?",1.205128205128205,0.039347394184503885,156.0,130.0,20.0,6.0,554
 2511,"My previous employer? Well, after a 146-year run, they came to the conclusion we wouldn't be able to compete with this new administration.",1.205128205128205,0.038281907517415295,156.0,129.0,22.0,5.0,554
 2511,"No worries, everyone is a clown these days",1.205128205128205,0.04038477949734928,156.0,131.0,18.0,7.0,554
-2511,"Looks like now that the circus is closing, we'll be getting a bunch of real clowns in here.",1.205128205128205,0.04139617616384773,156.0,132.0,16.0,8.0,554
-2511,You should apply for a Cabinet position.,1.205128205128205,0.04139617616384773,156.0,132.0,16.0,8.0,554
-2511,I'm sorry-we're out of seltzer.,1.205128205128205,0.04139617616384773,156.0,132.0,16.0,8.0,554
+2511,"Looks like now that the circus is closing, we'll be getting a bunch of real clowns in here.",1.205128205128205,0.041396176163847734,156.0,132.0,16.0,8.0,554
+2511,You should apply for a Cabinet position.,1.205128205128205,0.041396176163847734,156.0,132.0,16.0,8.0,554
+2511,I'm sorry-we're out of seltzer.,1.205128205128205,0.041396176163847734,156.0,132.0,16.0,8.0,554
 2511,Did Mr. Trump send you?,1.205128205128205,0.039347394184503885,156.0,130.0,20.0,6.0,554
 2511,You're too sensitive... I wasn't referring to you when I said some clown was terrorizing my patrons.,1.205128205128205,0.038281907517415295,156.0,129.0,22.0,5.0,554
 2511,"Sorry, but I don't think it's going to work out. That's not what I would call business casual.",1.205128205128205,0.038281907517415295,156.0,129.0,22.0,5.0,554
 2511,I knew Sam. Sam was a friend of mine. You are no Sam.,1.205128205128205,0.039347394184503885,156.0,130.0,20.0,6.0,554
-2511,"Sorry about the closing, maybe a cabinet position in the new administration.",1.205128205128205,0.04139617616384773,156.0,132.0,16.0,8.0,554
+2511,"Sorry about the closing, maybe a cabinet position in the new administration.",1.205128205128205,0.041396176163847734,156.0,132.0,16.0,8.0,554
 2511,"Son, I knew you'd be back.",1.205128205128205,0.039347394184503885,156.0,130.0,20.0,6.0,554
 2511,"Hey, what's goin on, you're the third clown we interviewed today!",1.205128205128205,0.036056600939278136,156.0,127.0,26.0,3.0,554
-2511,"You want to return a milkshake because it tastes funny? What are you, some sort of clown?",1.205128205128205,0.04139617616384773,156.0,132.0,16.0,8.0,554
+2511,"You want to return a milkshake because it tastes funny? What are you, some sort of clown?",1.205128205128205,0.041396176163847734,156.0,132.0,16.0,8.0,554
 2560,"''Let me guess, a shot of depression and leave the bottle''.",1.2039473684210529,0.037732451145146284,152.0,125.0,23.0,4.0,554
 2561,You might try a Twitter account.,1.2038216560509554,0.041152407210729325,157.0,133.0,16.0,8.0,554
 2561,Let me guess. Seltzer on the rocks?,1.2038216560509554,0.038059725002335024,157.0,130.0,22.0,5.0,554
@@ -3066,14 +3066,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3056,"Sorry, buddy. No photo ID, no beer.",1.178082191780822,0.03970240204435462,146.0,126.0,14.0,6.0,554
 3056,I have been waiting to cash in on that Judy Collin's song.,1.178082191780822,0.03970240204435462,146.0,126.0,14.0,6.0,554
 3056,"No, I'm not interested in having an UN-happy hour.",1.178082191780822,0.03724693417601578,146.0,124.0,18.0,4.0,554
-3068,"""Health and Human Services. Why do you ssk'l",1.1768707482993197,0.040613917407896466,147.0,128.0,12.0,7.0,554
-3069,"Sorry, that was the last of my Seltzer.",1.1748251748251748,0.03883799894420519,143.0,123.0,15.0,5.0,554
+3068,"""Health and Human Services. Why do you ssk'l",1.1768707482993197,0.04061391740789647,147.0,128.0,12.0,7.0,554
+3069,"Sorry, that was the last of my Seltzer.",1.1748251748251748,0.038837998944205185,143.0,123.0,15.0,5.0,554
 3069,Is this a joke?,1.1748251748251748,0.03621331315291399,143.0,121.0,19.0,3.0,554
 3069,You look familiar. Have I seen you somewhere?,1.1748251748251748,0.0375485965882954,143.0,122.0,17.0,4.0,554
 3069,"Straight, dry, and no seltzer! Are you really a clown?",1.1748251748251748,0.04008594788987306,143.0,124.0,13.0,6.0,554
 3069,The trucker called; he’s running late. And the rabbi’s wife won’t let him come.,1.1748251748251748,0.0375485965882954,143.0,122.0,17.0,4.0,554
 3069,"In the wake of the eminent inauguration of Donald Trump, Giggles the Clown takes to his beloved pub to dampen the blow of a lifelong passion swallowed by a corporate competitor.",1.1748251748251748,0.04129620169542417,143.0,125.0,11.0,7.0,554
-3069,"Sam, have you been watching 'Undercover Boss' again?",1.1748251748251748,0.03883799894420519,143.0,123.0,15.0,5.0,554
+3069,"Sam, have you been watching 'Undercover Boss' again?",1.1748251748251748,0.038837998944205185,143.0,123.0,15.0,5.0,554
 3069,I can give you something that'll put a smile on your face,1.1748251748251748,0.03621331315291399,143.0,121.0,19.0,3.0,554
 3069,"I respect you asking, but I cannot consent to you marrying my daughter.",1.1748251748251748,0.03621331315291399,143.0,121.0,19.0,3.0,554
 3069,And do you own your own car?,1.1748251748251748,0.0375485965882954,143.0,122.0,17.0,4.0,554
@@ -3081,8 +3081,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3069,"I'm sorry, sir. Seltzer isn't sold in those types of bottles anymore.",1.1748251748251748,0.04247198289118003,143.0,126.0,9.0,8.0,554
 3069,"Yeah, I know... a little song, a little dance...",1.1748251748251748,0.03621331315291399,143.0,121.0,19.0,3.0,554
 3069,I believe your elephant is double parked!,1.1748251748251748,0.0375485965882954,143.0,122.0,17.0,4.0,554
-3069,"I should leave the bottle of seltzer, right?",1.1748251748251748,0.03883799894420519,143.0,123.0,15.0,5.0,554
-3069,"You had a good run, Mr. Ringling. What'll it be?",1.1748251748251748,0.03883799894420519,143.0,123.0,15.0,5.0,554
+3069,"I should leave the bottle of seltzer, right?",1.1748251748251748,0.038837998944205185,143.0,123.0,15.0,5.0,554
+3069,"You had a good run, Mr. Ringling. What'll it be?",1.1748251748251748,0.038837998944205185,143.0,123.0,15.0,5.0,554
 3069,"Sorry, bub. I'm lookin for a bouncer, not a juggler",1.1748251748251748,0.0375485965882954,143.0,122.0,17.0,4.0,554
 3069,There might be something in 2020.,1.1748251748251748,0.03621331315291399,143.0,121.0,19.0,3.0,554
 3069,"Just a hunch, Mr President.",1.1748251748251748,0.04008594788987306,143.0,124.0,13.0,6.0,554
@@ -3091,14 +3091,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3069,"No. Mr.Fellini hasn't been in here since maybe ""73.""",1.1748251748251748,0.04008594788987306,143.0,124.0,13.0,6.0,554
 3069,Sorry I can only squeeze 30 flavors in a cone.,1.1748251748251748,0.03621331315291399,143.0,121.0,19.0,3.0,554
 3069,"Yeah, that's not a balloon dispenser.",1.1748251748251748,0.0375485965882954,143.0,122.0,17.0,4.0,554
-3069,"I hate to tell you this, but happy hour ended an hour ago.",1.1748251748251748,0.03883799894420519,143.0,123.0,15.0,5.0,554
+3069,"I hate to tell you this, but happy hour ended an hour ago.",1.1748251748251748,0.038837998944205185,143.0,123.0,15.0,5.0,554
 3069,"Pour is again, Sam.",1.1748251748251748,0.04129620169542417,143.0,125.0,11.0,7.0,554
 3069,"Yes, I heard the one about the man who walked into the white house looking like that.",1.1748251748251748,0.04008594788987306,143.0,124.0,13.0,6.0,554
 3069,"I'm so sorry, I heard about Ringling Bros.",1.1748251748251748,0.04008594788987306,143.0,124.0,13.0,6.0,554
 3069,I blame the Russians,1.1748251748251748,0.04129620169542417,143.0,125.0,11.0,7.0,554
-3069,"No, by golly, I DON'T know what the duck said when he walked into a bar and sat down next to a couple of incompetent chiropractors.",1.1748251748251748,0.03883799894420519,143.0,123.0,15.0,5.0,554
+3069,"No, by golly, I DON'T know what the duck said when he walked into a bar and sat down next to a couple of incompetent chiropractors.",1.1748251748251748,0.038837998944205185,143.0,123.0,15.0,5.0,554
 3069,"""Sorry we don't accept play money"".",1.1748251748251748,0.03482687171239298,143.0,120.0,21.0,2.0,554
-3069,"No, I don't think there's one called Ringling Sisters.",1.1748251748251748,0.03883799894420519,143.0,123.0,15.0,5.0,554
+3069,"No, I don't think there's one called Ringling Sisters.",1.1748251748251748,0.038837998944205185,143.0,123.0,15.0,5.0,554
 3069,I'll have to cut you off; you're becoming too maudlin.,1.1748251748251748,0.0375485965882954,143.0,122.0,17.0,4.0,554
 3069,"Sorry, we don't take balloons here.",1.1748251748251748,0.03621331315291399,143.0,121.0,19.0,3.0,554
 3069,"Sorry to say, your running tab has been canceled by the two Ringling brothers.",1.1748251748251748,0.04008594788987306,143.0,124.0,13.0,6.0,554
@@ -3110,21 +3110,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3069,"Get lost, clown, this is a Hillary bar.",1.1748251748251748,0.04129620169542417,143.0,125.0,11.0,7.0,554
 3069,Now you just look sad and creepy...,1.1748251748251748,0.04008594788987306,143.0,124.0,13.0,6.0,554
 3069,"One gin and seltzer, hold the seltzer, coming right up.",1.1748251748251748,0.03621331315291399,143.0,121.0,19.0,3.0,554
-3069,"""No, we don't have elephants either"".",1.1748251748251748,0.03883799894420519,143.0,123.0,15.0,5.0,554
+3069,"""No, we don't have elephants either"".",1.1748251748251748,0.038837998944205185,143.0,123.0,15.0,5.0,554
 3069,This is no joke...a clown walks into a bar...,1.1748251748251748,0.0375485965882954,143.0,122.0,17.0,4.0,554
 3069,"First the elephants got the boot, now you clowns. Wish I had a nickle for every time I heard that.",1.1748251748251748,0.0375485965882954,143.0,122.0,17.0,4.0,554
 3069,We dont serve clowns. They taste funny.,1.1748251748251748,0.0375485965882954,143.0,122.0,17.0,4.0,554
 3069,You're using a lot of selzer and I'm not buying that its for medicinal purposes anymore.,1.1748251748251748,0.03621331315291399,143.0,121.0,19.0,3.0,554
 3069,And thats the reason I wouldn't perform at the inauguration. What was your excuse?,1.1748251748251748,0.0375485965882954,143.0,122.0,17.0,4.0,554
-3069,"Opera, Schmopera, you're a clown and you're out.",1.1748251748251748,0.03883799894420519,143.0,123.0,15.0,5.0,554
+3069,"Opera, Schmopera, you're a clown and you're out.",1.1748251748251748,0.038837998944205185,143.0,123.0,15.0,5.0,554
 3069,"I'm sorry, you have to be happy inside, too, to get discounts during Happy Hour.",1.1748251748251748,0.03482687171239298,143.0,120.0,21.0,2.0,554
 3069,There's always the rodeo circuit.,1.1748251748251748,0.0375485965882954,143.0,122.0,17.0,4.0,554
-3069,What can I do to make that sad clown a glad clown?,1.1748251748251748,0.03883799894420519,143.0,123.0,15.0,5.0,554
+3069,What can I do to make that sad clown a glad clown?,1.1748251748251748,0.038837998944205185,143.0,123.0,15.0,5.0,554
 3069,"'Sorry,Happy Hour was two hours ago.""",1.1748251748251748,0.04008594788987306,143.0,124.0,13.0,6.0,554
 3069,"Listen clown, water the flower then beat it",1.1748251748251748,0.03482687171239298,143.0,120.0,21.0,2.0,554
-3069,"Sorry, the RNC already has a mascot.",1.1748251748251748,0.03883799894420519,143.0,123.0,15.0,5.0,554
+3069,"Sorry, the RNC already has a mascot.",1.1748251748251748,0.038837998944205185,143.0,123.0,15.0,5.0,554
 3069,"We're obliged to serve all customers, including Republicans. What's yours?",1.1748251748251748,0.0375485965882954,143.0,122.0,17.0,4.0,554
-3069,I am definitely not interested in your punch recipe.,1.1748251748251748,0.03883799894420519,143.0,123.0,15.0,5.0,554
+3069,I am definitely not interested in your punch recipe.,1.1748251748251748,0.038837998944205185,143.0,123.0,15.0,5.0,554
 3069,It's 'Bring in the clowns'--plural! Sorry.,1.1748251748251748,0.03482687171239298,143.0,120.0,21.0,2.0,554
 3069,"I know the circus has closed, but were just not hiring.",1.1748251748251748,0.04129620169542417,143.0,125.0,11.0,7.0,554
 3069,"Ok, that's two eggs funny side up with a side of giggles?",1.1748251748251748,0.0375485965882954,143.0,122.0,17.0,4.0,554
@@ -3204,10 +3204,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3133,Don't worry. Trump would not recognize you as a CNN reporter.,1.1690140845070425,0.037358371028687005,142.0,122.0,16.0,4.0,554
 3133,How about politics?,1.1690140845070425,0.034581319295003014,142.0,120.0,20.0,2.0,554
 3133,"Sorry about the laid offs at Barnum & Bailey, but kids find you guys to too scary to work here. Have you tried applying at the White House?",1.1690140845070425,0.037358371028687005,142.0,122.0,16.0,4.0,554
-3206,"I know people say it's a circus in here every evening, but it's not what you were thinking.",1.167832167832168,0.03576355974804332,143.0,122.0,18.0,3.0,554
-3206,"I've heard that ""Down on my luck, need seltzer water"" story too many times, bozo.",1.167832167832168,0.037115027442956285,143.0,123.0,16.0,4.0,554
-3206,Happy hour just doesn't work the same for everyone.,1.167832167832168,0.03435897480444272,143.0,121.0,20.0,2.0,554
-3206,"What can I get for you, Mr. Trump?",1.167832167832168,0.040902376835704836,143.0,126.0,10.0,7.0,554
+3206,"I know people say it's a circus in here every evening, but it's not what you were thinking.",1.1678321678321681,0.03576355974804332,143.0,122.0,18.0,3.0,554
+3206,"I've heard that ""Down on my luck, need seltzer water"" story too many times, bozo.",1.1678321678321681,0.037115027442956285,143.0,123.0,16.0,4.0,554
+3206,Happy hour just doesn't work the same for everyone.,1.1678321678321681,0.03435897480444272,143.0,121.0,20.0,2.0,554
+3206,"What can I get for you, Mr. Trump?",1.1678321678321681,0.040902376835704836,143.0,126.0,10.0,7.0,554
 3210,You're wrecking the 'Nighthawks' painting motif we have going here.,1.1666666666666667,0.03553345272593508,144.0,123.0,18.0,3.0,554
 3211,Nuts?,1.1642857142857144,0.0360009053867454,140.0,120.0,17.0,3.0,554
 3211,Just one word: Rebranding!,1.1642857142857144,0.034544033721419766,140.0,119.0,19.0,2.0,554
@@ -3688,7 +3688,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3672,"Your flower sags to the left, I guess you voted for Hillary.",1.1417910447761197,0.03537792351429723,134.0,118.0,13.0,3.0,554
 3672,"I appreciate the disguise, your bar tab is twenty bucks.",1.1417910447761197,0.03537792351429723,134.0,118.0,13.0,3.0,554
 3672,I'm guessing Rocky Road.,1.1417910447761197,0.030247891170812575,134.0,115.0,19.0,0.0,554
-3672,Are you the character the agency sent to give the joint atmoshere?,1.1417910447761197,0.039852980115489586,134.0,121.0,7.0,6.0,554
+3672,Are you the character the agency sent to give the joint atmoshere?,1.1417910447761197,0.03985298011548959,134.0,121.0,7.0,6.0,554
 3672,"Sorry, check the Big Top Bar. We don't sell seltzer bottles to go.",1.1417910447761197,0.03692991095057654,134.0,119.0,11.0,4.0,554
 3672,Juggling highballs and lowballs just takes practice.,1.1417910447761197,0.03375465333179141,134.0,117.0,15.0,2.0,554
 3672,Sorry to hear about that circus closing.,1.1417910447761197,0.03537792351429723,134.0,118.0,13.0,3.0,554
@@ -3702,17 +3702,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3701,"We do give free drinks to Presidential Cabinet members, but you don't look like one.",1.1374045801526718,0.035553436296466484,131.0,116.0,12.0,3.0,554
 3701,"Hey, I'm supposed to be the jerk!",1.1374045801526718,0.03716835541940484,131.0,117.0,10.0,4.0,554
 3701,Can you quit clowning around and order already!,1.1374045801526718,0.032080636033194526,131.0,114.0,16.0,1.0,554
-3701,He's mad because he is about to lose his job and the President doesn't care enough to tweet about it.,1.1374045801526718,0.03871597159673901,131.0,118.0,8.0,5.0,554
-3701,"Sorry, we don't serve clowns.",1.1374045801526718,0.03871597159673901,131.0,118.0,8.0,5.0,554
+3701,He's mad because he is about to lose his job and the President doesn't care enough to tweet about it.,1.1374045801526718,0.038715971596739014,131.0,118.0,8.0,5.0,554
+3701,"Sorry, we don't serve clowns.",1.1374045801526718,0.038715971596739014,131.0,118.0,8.0,5.0,554
 3701,"Nah, career choices don't come on tap.",1.1374045801526718,0.03716835541940484,131.0,117.0,10.0,4.0,554
-3701,"It's a thin disguise, Mr. President. And Barnum isn't hiring. Drink?",1.1374045801526718,0.03871597159673901,131.0,118.0,8.0,5.0,554
+3701,"It's a thin disguise, Mr. President. And Barnum isn't hiring. Drink?",1.1374045801526718,0.038715971596739014,131.0,118.0,8.0,5.0,554
 3701,You wouldn't believe who was just in here.,1.1374045801526718,0.035553436296466484,131.0,116.0,12.0,3.0,554
-3701,I'm sorry about Barnum and Bailey but I can't give you a Shirley Temple to drown your sorrows,1.1374045801526718,0.03871597159673901,131.0,118.0,8.0,5.0,554
+3701,I'm sorry about Barnum and Bailey but I can't give you a Shirley Temple to drown your sorrows,1.1374045801526718,0.038715971596739014,131.0,118.0,8.0,5.0,554
 3701,"So that's how you get out of the ""Tower"" Mr. Trump. Will you do the same in DC?",1.1374045801526718,0.040204057864546484,131.0,119.0,6.0,6.0,554
 3701,Need a cup of coffee before terrorizing the neighborhood porches all night?,1.1374045801526718,0.035553436296466484,131.0,116.0,12.0,3.0,554
-3701,Yeah I checked... the soda tax will apply to those seltzer water bottles you love so much.,1.1374045801526718,0.03871597159673901,131.0,118.0,8.0,5.0,554
+3701,Yeah I checked... the soda tax will apply to those seltzer water bottles you love so much.,1.1374045801526718,0.038715971596739014,131.0,118.0,8.0,5.0,554
 3701,"So, what are you going to do now that Trump has left town?",1.1374045801526718,0.035553436296466484,131.0,116.0,12.0,3.0,554
-3701,Well I certainly didn't mean anything by it.... Mr. Pesci.,1.1374045801526718,0.03871597159673901,131.0,118.0,8.0,5.0,554
+3701,Well I certainly didn't mean anything by it.... Mr. Pesci.,1.1374045801526718,0.038715971596739014,131.0,118.0,8.0,5.0,554
 3701,Quit clowning around and get back to work.,1.1374045801526718,0.033861586206062465,131.0,115.0,14.0,2.0,554
 3701,"Isn't it rich, my time to swear- Me here at last in DC, with my orange hair.",1.1374045801526718,0.040204057864546484,131.0,119.0,6.0,6.0,554
 3701,"So, the kids didn't think you were scary enough. Sad. Seltzer Water?",1.1374045801526718,0.03716835541940484,131.0,117.0,10.0,4.0,554
@@ -3722,7 +3722,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3701,"Turn that frown upside down, and I might serve you.",1.1374045801526718,0.035553436296466484,131.0,116.0,12.0,3.0,554
 3701,"Tell me Barnum, how's business?",1.1374045801526718,0.03716835541940484,131.0,117.0,10.0,4.0,554
 3701,"Despite what you've heard, you do NOT need to be a clown to work here.",1.1374045801526718,0.033861586206062465,131.0,115.0,14.0,2.0,554
-3701,"please, no clowning around.",1.1374045801526718,0.03871597159673901,131.0,118.0,8.0,5.0,554
+3701,"please, no clowning around.",1.1374045801526718,0.038715971596739014,131.0,118.0,8.0,5.0,554
 3701,Are you a clown or a hippie? We don't serve hippies here.,1.1374045801526718,0.03716835541940484,131.0,117.0,10.0,4.0,554
 3701,"Yes, I heard about Ringling Brothers. Are you laughing on the inside?",1.1374045801526718,0.032080636033194526,131.0,114.0,16.0,1.0,554
 3701,Trump replaced you as head clown? He's not even funny.,1.1374045801526718,0.033861586206062465,131.0,115.0,14.0,2.0,554
@@ -3732,7 +3732,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3701,"Sorry, Barack, but its not about you anymore.",1.1374045801526718,0.040204057864546484,131.0,119.0,6.0,6.0,554
 3701,"""Our clientele are a serious people and they don't like any funny business.",1.1374045801526718,0.03716835541940484,131.0,117.0,10.0,4.0,554
 3701,I was going for shabby chic. You?,1.1374045801526718,0.035553436296466484,131.0,116.0,12.0,3.0,554
-3701,I'm sorry but buffoonery has recently migrated to the Beltway.,1.1374045801526718,0.03871597159673901,131.0,118.0,8.0,5.0,554
+3701,I'm sorry but buffoonery has recently migrated to the Beltway.,1.1374045801526718,0.038715971596739014,131.0,118.0,8.0,5.0,554
 3701,I heard your circus gigis is up. Shall I make it a double?,1.1374045801526718,0.03716835541940484,131.0,117.0,10.0,4.0,554
 3701,"I'm sorry, but clowns are really out right now.",1.1374045801526718,0.03716835541940484,131.0,117.0,10.0,4.0,554
 3701,a tough day Senator Schumer?,1.1374045801526718,0.033861586206062465,131.0,115.0,14.0,2.0,554
@@ -3740,7 +3740,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3701,What do you mean they wouldn't let you stay with the rest of the circus at the White House.,1.1374045801526718,0.03716835541940484,131.0,117.0,10.0,4.0,554
 3701,"No, I haven't seen a priest, a rabbi or (in italics) a minister.",1.1374045801526718,0.032080636033194526,131.0,114.0,16.0,1.0,554
 3701,"Hey Bozo, I already told you we're not hiring!",1.1374045801526718,0.035553436296466484,131.0,116.0,12.0,3.0,554
-3701,Sephora's moved.,1.1374045801526718,0.03871597159673901,131.0,118.0,8.0,5.0,554
+3701,Sephora's moved.,1.1374045801526718,0.038715971596739014,131.0,118.0,8.0,5.0,554
 3701,"Sorry but no, I can't let you see the soda gun today",1.1374045801526718,0.035553436296466484,131.0,116.0,12.0,3.0,554
 3701,"I know Ringling Brothers is going out of business, but if you want a job you'll have to think about the outfit.",1.1374045801526718,0.035553436296466484,131.0,116.0,12.0,3.0,554
 3701,"Just one drink, Seriously?",1.1374045801526718,0.033861586206062465,131.0,115.0,14.0,2.0,554
@@ -3749,7 +3749,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3701,"Sorry, no opening for a short order cook... consider a presidential run.",1.1374045801526718,0.035553436296466484,131.0,116.0,12.0,3.0,554
 3701,"Uncle Sam needs more than a clown, pal.",1.1374045801526718,0.033861586206062465,131.0,115.0,14.0,2.0,554
 3701,"So, who did you vote for?",1.1374045801526718,0.035553436296466484,131.0,116.0,12.0,3.0,554
-3701,At least you've got custard-y.,1.1374045801526718,0.03871597159673901,131.0,118.0,8.0,5.0,554
+3701,At least you've got custard-y.,1.1374045801526718,0.038715971596739014,131.0,118.0,8.0,5.0,554
 3701,"Hey, did we install that one way mirror yet?",1.1374045801526718,0.03716835541940484,131.0,117.0,10.0,4.0,554
 3701,What is your current job?,1.1374045801526718,0.035553436296466484,131.0,116.0,12.0,3.0,554
 3701,Would you mind taking your hat off in the house?,1.1374045801526718,0.03716835541940484,131.0,117.0,10.0,4.0,554
@@ -3784,15 +3784,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3783,Is that really what I look like?,1.1353383458646618,0.03815933976861295,133.0,120.0,8.0,5.0,554
 3784,Where are your horse and priest?,1.1343283582089552,0.0314092107945762,134.0,117.0,16.0,1.0,554
 3785,"Yes, we bottle our own seltzer water, but I'm only going to sell one glass at a time to you.",1.1333333333333333,0.036119083186866914,135.0,121.0,10.0,4.0,554
-3786,This is now the Greatest Show on Earth,1.1317829457364341,0.0354577024487054,129.0,115.0,11.0,3.0,554
-3786,"I told you, no clowning around.",1.1317829457364341,0.033706447928151334,129.0,114.0,13.0,2.0,554
-3786,"Yeah right, Bobo - the circus went out of business...",1.1317829457364341,0.0354577024487054,129.0,115.0,11.0,3.0,554
-3786,"No, the presidential car did not come by here.",1.1317829457364341,0.03712644197803879,129.0,116.0,9.0,4.0,554
-3786,You are not mature enough to drink.,1.1317829457364341,0.0354577024487054,129.0,115.0,11.0,3.0,554
-3786,"Executive interview didn't go so well, huh?",1.1317829457364341,0.033706447928151334,129.0,114.0,13.0,2.0,554
-3786,You say you’re depressed because you don’t get why people are laughing at you?,1.1317829457364341,0.03872333566412419,129.0,117.0,7.0,5.0,554
-3786,Don't worry. You belong in the Cabinet and you will be.,1.1317829457364341,0.033706447928151334,129.0,114.0,13.0,2.0,554
-3786,"Oh no, not another joke about a nine inch pianist.",1.1317829457364341,0.033706447928151334,129.0,114.0,13.0,2.0,554
+3786,This is now the Greatest Show on Earth,1.131782945736434,0.0354577024487054,129.0,115.0,11.0,3.0,554
+3786,"I told you, no clowning around.",1.131782945736434,0.033706447928151334,129.0,114.0,13.0,2.0,554
+3786,"Yeah right, Bobo - the circus went out of business...",1.131782945736434,0.0354577024487054,129.0,115.0,11.0,3.0,554
+3786,"No, the presidential car did not come by here.",1.131782945736434,0.037126441978038785,129.0,116.0,9.0,4.0,554
+3786,You are not mature enough to drink.,1.131782945736434,0.0354577024487054,129.0,115.0,11.0,3.0,554
+3786,"Executive interview didn't go so well, huh?",1.131782945736434,0.033706447928151334,129.0,114.0,13.0,2.0,554
+3786,You say you’re depressed because you don’t get why people are laughing at you?,1.131782945736434,0.03872333566412419,129.0,117.0,7.0,5.0,554
+3786,Don't worry. You belong in the Cabinet and you will be.,1.131782945736434,0.033706447928151334,129.0,114.0,13.0,2.0,554
+3786,"Oh no, not another joke about a nine inch pianist.",1.131782945736434,0.033706447928151334,129.0,114.0,13.0,2.0,554
 3795,Sorry you didn't get enough votes to become our new Senator. You can try again in four years.,1.1307692307692307,0.03685369151428872,130.0,117.0,9.0,4.0,554
 3795,Sad to hear the circus is closing down; why don't you get a job in government?,1.1307692307692307,0.03685369151428872,130.0,117.0,9.0,4.0,554
 3797,"It is easy to recognize you, Mr. President.",1.1297709923664123,0.03966528566951625,131.0,120.0,5.0,6.0,554
@@ -4336,18 +4336,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4332,"So they promised you The Greatest Show On Earth, and it was just a totally overrated three ring circus!! Sad!",1.1056910569105691,0.03616459501830077,123.0,114.0,5.0,4.0,554
 4336,…BOB IH,1.1048387096774193,0.03588188433283868,124.0,115.0,5.0,4.0,554
 4337,"Sorry, we don't serve free tap seltzer.",1.1031746031746033,0.031531017894181335,126.0,115.0,9.0,2.0,554
-4338,Send in the clowns!,1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
-4338,The circus doesn't close until May. I'll have a Sad Clown Special for you then.,1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
-4338,"Sorry Ronald , Sam's doesn't want you either .",1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
-4338,I beg to differ. Adult vomit is entirely more problematic than child vomit.,1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
+4338,Send in the clowns!,1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
+4338,The circus doesn't close until May. I'll have a Sad Clown Special for you then.,1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
+4338,"Sorry Ronald , Sam's doesn't want you either .",1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
+4338,I beg to differ. Adult vomit is entirely more problematic than child vomit.,1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
 4338,Are you as confused as I am?,1.100840336134454,0.027720084308873426,119.0,107.0,12.0,0.0,554
-4338,"No, we ain't got pie in the face, and we ain't got seltzer on tap neither--whad'we look like, a clown bar?",1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
+4338,"No, we ain't got pie in the face, and we ain't got seltzer on tap neither--whad'we look like, a clown bar?",1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
 4338,"Yes, WE are still open.",1.100840336134454,0.036580356576721006,119.0,111.0,4.0,4.0,554
-4338,"Sam, you look a mess. How long is it going to take you to get yourself together? I can't keep pretending to be you any longer. Plus this place doesn't make enough money.",1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
+4338,"Sam, you look a mess. How long is it going to take you to get yourself together? I can't keep pretending to be you any longer. Plus this place doesn't make enough money.",1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
 4338,You said you'd never stop smiling,1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
-4338,We don't serve Sad Clowns here.,1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
-4338,You need more blonde hair.,1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
-4338,There's always room for a clown.,1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
+4338,We don't serve Sad Clowns here.,1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
+4338,You need more blonde hair.,1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
+4338,There's always room for a clown.,1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
 4338,The chicken didn't taste funny to me.,1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
 4338,"Hey Bozo, there's no beer before 9:00 a.m.",1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
 4338,Ringling Brothers have closed their account.,1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
@@ -4366,20 +4366,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4338,Awf'lly diff'rent now...don't get many clowns much anymore.,1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
 4338,"A little early for a gin and tonic, don't you think, Phil?",1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
 4338,"That's a clown question, bro.",1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
-4338,This is a magic mirror sir.,1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
+4338,This is a magic mirror sir.,1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
 4338,My birthday's tomorrow.,1.100840336134454,0.027720084308873426,119.0,107.0,12.0,0.0,554
 4338,"No, we don't got no animal crackers.",1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
 4338,I play it twice a day. Doesn't matter. They get here when they get here.,1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
 4338,So you’re depressed because the doors won’t fall off your car?,1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
 4338,For you we always give a straw.,1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
-4338,Are you sure about that? The meat wagon already picked up three clowns who order a Four-Year Bender.,1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
+4338,Are you sure about that? The meat wagon already picked up three clowns who order a Four-Year Bender.,1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
 4338,"Alice, I never promised you a rose garden!",1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
 4338,We don't serve funny drinks.,1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
 4338,"So Ringling Brothers is going out of business, huh?",1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
 4338,"Well, does my form fitting apron amuse you?",1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
-4338,What this country needs is a 5 cent latte,1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
+4338,What this country needs is a 5 cent latte,1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
 4338,"Play it again, Sam!",1.100840336134454,0.036580356576721006,119.0,111.0,4.0,4.0,554
-4338,Go get your owner to pay.,1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
+4338,Go get your owner to pay.,1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
 4338,Every day i tell you! We don't serve green eggs and ham.,1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
 4338,There will always be rough times in life so don't judge people straight away.,1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
 4338,"With the circus closing down, let's not make this a habit.",1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
@@ -4389,17 +4389,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4338,"I know, I know...it's hard to find a great dress for this inauguration, right? Don't worry, maybe they'll all be laughing on the inside.",1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
 4338,"We don't allow talk like that in here Mr. President, take it outside please.",1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
 4338,"Sorry, you're closed.",1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
-4338,how was your day,1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
+4338,how was your day,1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
 4338,Told you cesium was no substitute for old fashioned seltzer.,1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
 4338,How 'bout a beer and a smile?,1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
 4338,"Quit clowning around Sam, we need to get back to business.",1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
 4338,"Sorry, President Trump has reinstated prohibition, except in his buildings.",1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
-4338,"Happy Hour? Caveat emptor, pal.",1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
-4338,Sorry dude we don't serve bears even funny ones,1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
-4338,"What's the matter, did you fart in the clown car?",1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
+4338,"Happy Hour? Caveat emptor, pal.",1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
+4338,Sorry dude we don't serve bears even funny ones,1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
+4338,"What's the matter, did you fart in the clown car?",1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
 4338,"Yes, we do still have them here, but they are all pink and require at least 5 shots to perform.",1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
 4338,"No, I'm afraid we no longer offer valet parking.",1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
-4338,That's the first time I've heard that listening to 2 years of 24 hours a day coverage of Donald Trump can bring back Smallpox.,1.100840336134454,0.034578788787099,119.0,110.0,6.0,3.0,554
+4338,That's the first time I've heard that listening to 2 years of 24 hours a day coverage of Donald Trump can bring back Smallpox.,1.100840336134454,0.034578788787098996,119.0,110.0,6.0,3.0,554
 4338,Cheer up! You might find a new wave of inspiration coming up.,1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
 4338,"No severance? Sorry, I'm not Ringling, Barnum or Bailey.",1.100840336134454,0.0324540102404241,119.0,109.0,8.0,2.0,554
 4338,What time is the kids' party?,1.100840336134454,0.03018000873737948,119.0,108.0,10.0,1.0,554
@@ -4422,37 +4422,37 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4409,You hiring?,1.1,0.03219339320149912,120.0,110.0,8.0,2.0,554
 4422,That would be a bad jester to the community.,1.0991735537190082,0.03402510553758497,121.0,112.0,6.0,3.0,554
 4422,"Sorry, Mr. Trump. No monee, no drinkee.",1.0991735537190082,0.03599234437593293,121.0,113.0,4.0,4.0,554
-4424,"How have you been Bob? The elephants just passed through, and we are out of Bailey's too.",1.0940170940170941,0.03207828708097138,117.0,108.0,7.0,2.0,554
-4424,…but didn’t you know you would be expected to actually do something as POUTS?,1.0940170940170941,0.03207828708097138,117.0,108.0,7.0,2.0,554
-4424,"Yes, I am sad. Ringling HR has arranged a job in Trump's inner circle for me.",1.0940170940170941,0.034298377780544516,117.0,109.0,5.0,3.0,554
-4424,You sure you're not looking for Sam's Fun Zone?,1.0940170940170941,0.03207828708097138,117.0,108.0,7.0,2.0,554
-4424,"I'll have a large SMAS, please.",1.0940170940170941,0.03638325074405368,117.0,110.0,3.0,4.0,554
-4424,Are you going to squirt me?,1.0940170940170941,0.029692663836737205,117.0,107.0,9.0,1.0,554
-4424,"Sorry Jack, but I think you've hit your limit",1.0940170940170941,0.029692663836737205,117.0,107.0,9.0,1.0,554
-4424,Are funny bones on the menu?,1.0940170940170941,0.029692663836737205,117.0,107.0,9.0,1.0,554
-4424,"Sam, we need to discuss your appearance - it's dragging down business.",1.0940170940170941,0.03207828708097138,117.0,108.0,7.0,2.0,554
-4424,What makes you think I have dry tap?,1.0940170940170941,0.03207828708097138,117.0,108.0,7.0,2.0,554
-4424,Its spotted COW not CLOWN and not on tap today.,1.0940170940170941,0.03207828708097138,117.0,108.0,7.0,2.0,554
-4424,"Hmm let me think....Beer!...Yeah, beer usually turns a ""frown upside down"".",1.0940170940170941,0.03207828708097138,117.0,108.0,7.0,2.0,554
-4424,Get the large draft-the small is 'PennyWise'-drunkard foolish.,1.0940170940170941,0.029692663836737205,117.0,107.0,9.0,1.0,554
-4424,"My therapist keeps telling me I need to clown around more, but you guys have always scared the hell out of me.",1.0940170940170941,0.027097824071200767,117.0,106.0,11.0,0.0,554
-4424,Sorry.....Mr. Smiley picked up your order.,1.0940170940170941,0.03207828708097138,117.0,108.0,7.0,2.0,554
-4424,You STILL won't admit that he made America great again???,1.0940170940170941,0.034298377780544516,117.0,109.0,5.0,3.0,554
-4424,Let me guess. You've just been let out of a circus and your name is Sam.,1.0940170940170941,0.03207828708097138,117.0,108.0,7.0,2.0,554
-4424,"Give me the usual, but no seltzer this time.",1.0940170940170941,0.029692663836737205,117.0,107.0,9.0,1.0,554
-4424,"No, sorry, I don't have a son…",1.0940170940170941,0.034298377780544516,117.0,109.0,5.0,3.0,554
-4424,they stared eye to eye wondering who's job was worse in awe,1.0940170940170941,0.03207828708097138,117.0,108.0,7.0,2.0,554
-4424,"Yes, I heard about the circus closing, but jerks and clowns are completely different occupations",1.0940170940170941,0.027097824071200767,117.0,106.0,11.0,0.0,554
-4424,Did you ever find your fish?,1.0940170940170941,0.034298377780544516,117.0,109.0,5.0,3.0,554
-4424,"Cheer up, drinks are on the house for circus clowns.",1.0940170940170941,0.034298377780544516,117.0,109.0,5.0,3.0,554
-4424,What'll ya have? Fountain of Youth? Or Laugh Track?,1.0940170940170941,0.029692663836737205,117.0,107.0,9.0,1.0,554
-4424,Don't bother,1.0940170940170941,0.034298377780544516,117.0,109.0,5.0,3.0,554
-4424,Our mocha milk stout is laughing on the inside too.,1.0940170940170941,0.027097824071200767,117.0,106.0,11.0,0.0,554
-4424,The comedy is only beginning.,1.0940170940170941,0.029692663836737205,117.0,107.0,9.0,1.0,554
-4424,I've been co-opted by the Commander-in-Chief.,1.0940170940170941,0.03207828708097138,117.0,108.0,7.0,2.0,554
-4424,"I'm sorry, we are all out of barrels. I'll let you jump out from behind the counter if it makes you feel better.",1.0940170940170941,0.029692663836737205,117.0,107.0,9.0,1.0,554
-4424,I told you the triple gin fizz would have deleterous results.,1.0940170940170941,0.034298377780544516,117.0,109.0,5.0,3.0,554
-4424,"Editors: PLEASE de-enter my caption entry for last week: ""The Trumpet did sound."" THANK YOU!",1.0940170940170941,0.034298377780544516,117.0,109.0,5.0,3.0,554
+4424,"How have you been Bob? The elephants just passed through, and we are out of Bailey's too.",1.094017094017094,0.03207828708097138,117.0,108.0,7.0,2.0,554
+4424,…but didn’t you know you would be expected to actually do something as POUTS?,1.094017094017094,0.03207828708097138,117.0,108.0,7.0,2.0,554
+4424,"Yes, I am sad. Ringling HR has arranged a job in Trump's inner circle for me.",1.094017094017094,0.034298377780544516,117.0,109.0,5.0,3.0,554
+4424,You sure you're not looking for Sam's Fun Zone?,1.094017094017094,0.03207828708097138,117.0,108.0,7.0,2.0,554
+4424,"I'll have a large SMAS, please.",1.094017094017094,0.03638325074405368,117.0,110.0,3.0,4.0,554
+4424,Are you going to squirt me?,1.094017094017094,0.029692663836737205,117.0,107.0,9.0,1.0,554
+4424,"Sorry Jack, but I think you've hit your limit",1.094017094017094,0.029692663836737205,117.0,107.0,9.0,1.0,554
+4424,Are funny bones on the menu?,1.094017094017094,0.029692663836737205,117.0,107.0,9.0,1.0,554
+4424,"Sam, we need to discuss your appearance - it's dragging down business.",1.094017094017094,0.03207828708097138,117.0,108.0,7.0,2.0,554
+4424,What makes you think I have dry tap?,1.094017094017094,0.03207828708097138,117.0,108.0,7.0,2.0,554
+4424,Its spotted COW not CLOWN and not on tap today.,1.094017094017094,0.03207828708097138,117.0,108.0,7.0,2.0,554
+4424,"Hmm let me think....Beer!...Yeah, beer usually turns a ""frown upside down"".",1.094017094017094,0.03207828708097138,117.0,108.0,7.0,2.0,554
+4424,Get the large draft-the small is 'PennyWise'-drunkard foolish.,1.094017094017094,0.029692663836737205,117.0,107.0,9.0,1.0,554
+4424,"My therapist keeps telling me I need to clown around more, but you guys have always scared the hell out of me.",1.094017094017094,0.027097824071200767,117.0,106.0,11.0,0.0,554
+4424,Sorry.....Mr. Smiley picked up your order.,1.094017094017094,0.03207828708097138,117.0,108.0,7.0,2.0,554
+4424,You STILL won't admit that he made America great again???,1.094017094017094,0.034298377780544516,117.0,109.0,5.0,3.0,554
+4424,Let me guess. You've just been let out of a circus and your name is Sam.,1.094017094017094,0.03207828708097138,117.0,108.0,7.0,2.0,554
+4424,"Give me the usual, but no seltzer this time.",1.094017094017094,0.029692663836737205,117.0,107.0,9.0,1.0,554
+4424,"No, sorry, I don't have a son…",1.094017094017094,0.034298377780544516,117.0,109.0,5.0,3.0,554
+4424,they stared eye to eye wondering who's job was worse in awe,1.094017094017094,0.03207828708097138,117.0,108.0,7.0,2.0,554
+4424,"Yes, I heard about the circus closing, but jerks and clowns are completely different occupations",1.094017094017094,0.027097824071200767,117.0,106.0,11.0,0.0,554
+4424,Did you ever find your fish?,1.094017094017094,0.034298377780544516,117.0,109.0,5.0,3.0,554
+4424,"Cheer up, drinks are on the house for circus clowns.",1.094017094017094,0.034298377780544516,117.0,109.0,5.0,3.0,554
+4424,What'll ya have? Fountain of Youth? Or Laugh Track?,1.094017094017094,0.029692663836737205,117.0,107.0,9.0,1.0,554
+4424,Don't bother,1.094017094017094,0.034298377780544516,117.0,109.0,5.0,3.0,554
+4424,Our mocha milk stout is laughing on the inside too.,1.094017094017094,0.027097824071200767,117.0,106.0,11.0,0.0,554
+4424,The comedy is only beginning.,1.094017094017094,0.029692663836737205,117.0,107.0,9.0,1.0,554
+4424,I've been co-opted by the Commander-in-Chief.,1.094017094017094,0.03207828708097138,117.0,108.0,7.0,2.0,554
+4424,"I'm sorry, we are all out of barrels. I'll let you jump out from behind the counter if it makes you feel better.",1.094017094017094,0.029692663836737205,117.0,107.0,9.0,1.0,554
+4424,I told you the triple gin fizz would have deleterous results.,1.094017094017094,0.034298377780544516,117.0,109.0,5.0,3.0,554
+4424,"Editors: PLEASE de-enter my caption entry for last week: ""The Trumpet did sound."" THANK YOU!",1.094017094017094,0.034298377780544516,117.0,109.0,5.0,3.0,554
 4455,Wow! ...and your fallback career was a high wire act?,1.0932203389830508,0.03181525362104848,118.0,109.0,7.0,2.0,554
 4455,No. For the last time I will not trade you root beer float for a dog made out of a twisted up Dog balloon.,1.0932203389830508,0.029450735327448543,118.0,108.0,9.0,1.0,554
 4455,Sam the clown wants in again.,1.0932203389830508,0.03181525362104848,118.0,109.0,7.0,2.0,554
@@ -4474,8 +4474,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4455,"No more Beer thru your Flower, Buddy",1.0932203389830508,0.03181525362104848,118.0,109.0,7.0,2.0,554
 4455,Different uncle,1.0932203389830508,0.03181525362104848,118.0,109.0,7.0,2.0,554
 4455,"Sorry, we don't serve any funny food.",1.0932203389830508,0.029450735327448543,118.0,108.0,9.0,1.0,554
-4476,"No, I don't want to be your best friend- Yes, I'm lonely, but also terrified of you!",1.0924369747899159,0.02921270665754888,119.0,109.0,9.0,1.0,554
-4476,How 'bout a bit of the bubbly?,1.0924369747899159,0.03155649035550772,119.0,110.0,7.0,2.0,554
+4476,"No, I don't want to be your best friend- Yes, I'm lonely, but also terrified of you!",1.092436974789916,0.02921270665754888,119.0,109.0,9.0,1.0,554
+4476,How 'bout a bit of the bubbly?,1.092436974789916,0.03155649035550772,119.0,110.0,7.0,2.0,554
 4478,"I can legally sell beer to clowns, but that means I shouldn't be selling it at all.",1.0916666666666666,0.031301894353260924,120.0,111.0,7.0,2.0,554
 4478,"Here's a good one...one day, a Rabbi, a Priest, and a Minister walk into a bar",1.0916666666666666,0.031301894353260924,120.0,111.0,7.0,2.0,554
 4480,Nothing. What's s'mas with you?,1.0909090909090908,0.03319530651546461,121.0,113.0,5.0,3.0,554
@@ -4831,8 +4831,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4830,"Refill your flower, give you batteries for your bow tie, poke your eyes back in. Is that all our marriage means to you?",1.0636363636363635,0.02338092550798894,110.0,103.0,7.0,0.0,554
 4830,Not after Bozo got caught squirting a 3-year-old with our homebrew.,1.0636363636363635,0.02338092550798894,110.0,103.0,7.0,0.0,554
 4830,"I'm sorry, but we don't allow pets in here. Not even emotional support rabbits.",1.0636363636363635,0.02671092190477437,110.0,104.0,5.0,1.0,554
-4833,"But have you seen ""Lost?"" Now *that's* a great show.",1.063063063063063,0.02647539701104769,111.0,105.0,5.0,1.0,554
-4833,Did you lose your wallet again?,1.063063063063063,0.02647539701104769,111.0,105.0,5.0,1.0,554
+4833,"But have you seen ""Lost?"" Now *that's* a great show.",1.063063063063063,0.026475397011047692,111.0,105.0,5.0,1.0,554
+4833,Did you lose your wallet again?,1.063063063063063,0.026475397011047692,111.0,105.0,5.0,1.0,554
 4835,Would you like the meatless meat or the sugar free fruit?,1.0625,0.029148275135450867,112.0,107.0,3.0,2.0,554
 4836,"For bozos, the glass ceiling is real.",1.0619469026548674,0.026016581071120915,113.0,107.0,5.0,1.0,554
 4836,"Hey clown, is there something I can serve you that will put a smile on you sad face?!!",1.0619469026548674,0.02889446838973295,113.0,108.0,3.0,2.0,554
@@ -4955,62 +4955,62 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4954,You'd like to borrow a full soda canister? I guess if I can't trust a clown....,1.0454545454545454,0.023766881578025614,110.0,106.0,3.0,1.0,554
 4954,"Well, if you're looking for a ""safe space"", you've come to the right place",1.0454545454545454,0.0199514157029286,110.0,105.0,5.0,0.0,554
 4956,"If this is supposed to be some kinda joke, where's the cannibals?",1.0446428571428572,0.019601864327811826,112.0,107.0,5.0,0.0,554
-4957,"Sorry, I do not sell any colorful food to fill your need.",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,It is Trump is isn't it,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
+4957,"Sorry, I do not sell any colorful food to fill your need.",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,It is Trump is isn't it,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
 4957,Two bread slices and a cut above .,1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
 4957,"If you don't mind d relocating to the DC. If you don't mind relocating to the DC area, I am certain you could find something down there.",1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
 4957,"""You remind me of my Aunt Zelda"".",1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
 4957,"You were with Ringling Brothers, weren't you?",1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
 4957,I cannot play any more!,1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
 4957,"Sorry, we don't serve here, but we do serve air.",1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
-4957,"Yeah...I understand that you want to take Ayden's birthday party to the next level, but I don't think it's actually legal to fill your balloons with the beers we have on tap.",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
+4957,"Yeah...I understand that you want to take Ayden's birthday party to the next level, but I don't think it's actually legal to fill your balloons with the beers we have on tap.",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
 4957,Moving from clown to soda jerk is not an uptick; perhaps the circus (oops).,1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
-4957,Applied for a manufacturing job that will be created?,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
+4957,Applied for a manufacturing job that will be created?,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
 4957,"Sorry pal, we don't have Clown Shoes on tap here.",1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
-4957,"Mind you, with the circus gone the basketball team won't have those crazy, long road trips anymore.",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,Cheer up. Greatest Show on Earth ramps up after last call.,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,YOUR BOOK IS SO SAD. HAVE A FREE BEER.,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,"""Scissors? Naw, I didn't see any scissors""...",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,"Look Clarabell, I told you, we serve strong drinks for strong clowns here!",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,"I'm sorry, we have a strict policy of service to happy clowns only. Cathy's place is down the street.",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
+4957,"Mind you, with the circus gone the basketball team won't have those crazy, long road trips anymore.",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,Cheer up. Greatest Show on Earth ramps up after last call.,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,YOUR BOOK IS SO SAD. HAVE A FREE BEER.,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,"""Scissors? Naw, I didn't see any scissors""...",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,"Look Clarabell, I told you, we serve strong drinks for strong clowns here!",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,"I'm sorry, we have a strict policy of service to happy clowns only. Cathy's place is down the street.",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
 4957,"Sorry, we have no openings for ex-circus workers.",1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
-4957,I hope you didn't come in here for the beer.,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,MY CAPTION: Should we order out? PS - Where's the proper image? IT'S STILL JANUARY 15TH (ONLY 11:11PM PST!!!),1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,I thought that you'd want what I want.,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,"Looks like you could use Sam's special, ""Bozo Ale.""",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
+4957,I hope you didn't come in here for the beer.,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,MY CAPTION: Should we order out? PS - Where's the proper image? IT'S STILL JANUARY 15TH (ONLY 11:11PM PST!!!),1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,I thought that you'd want what I want.,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,"Looks like you could use Sam's special, ""Bozo Ale.""",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
 4957,"Hey Mauriece, here is another Crown. His brother was here with an elephant at 7 am this morning.",1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
 4957,Bigfoot Family in Yellowstone?,1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
-4957,"We've been doing business a long time and you're the new owner? This is a joke, right?",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,Yesterday was your Clowns’ Savings Day Sale.,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,"Well, at least hexpensive ain't Muslim.",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
+4957,"We've been doing business a long time and you're the new owner? This is a joke, right?",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,Yesterday was your Clowns’ Savings Day Sale.,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,"Well, at least hexpensive ain't Muslim.",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
 4957,Valentine's Day is a totally overrated.,1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
 4957,"I need a job, even the Zoo didn't want me I used to work at the Ringling Barnum @ Bailey Circus",1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
-4957,"I feel for ya, Buddy, we're both folding up shop. You guys at Ringling lost your elephants and Sam lost his lease.",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,So what if people laugh at you. Let me get you a drink.,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,udjihudshuhvhsd,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
+4957,"I feel for ya, Buddy, we're both folding up shop. You guys at Ringling lost your elephants and Sam lost his lease.",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,So what if people laugh at you. Let me get you a drink.,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,udjihudshuhvhsd,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
 4957,Hey Sam.Hey Smas.,1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
-4957,May I entertain YOU with some tapping beer?,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,I guess my PIN was hacked.,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,Haven't we met?,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
+4957,May I entertain YOU with some tapping beer?,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,I guess my PIN was hacked.,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,Haven't we met?,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
 4957,"Kid, it's alright, I've just had a few too many....",1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
-4957,Sam's not here now...,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,"That's a you question, Bro.",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
+4957,Sam's not here now...,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,"That's a you question, Bro.",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
 4957,"Sam has left the building, but stop clowing around and leave your business card.",1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
-4957,"Sorry, sir, I can't serve you. I ran away from the circus when I was 12 and hid in the back of a beer truck.",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,"Back to clown your sorrows, Popo....?",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,You're too early for attitude adjustment hour!,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
+4957,"Sorry, sir, I can't serve you. I ran away from the circus when I was 12 and hid in the back of a beer truck.",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,"Back to clown your sorrows, Popo....?",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,You're too early for attitude adjustment hour!,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
 4957,Nope...haven't seen the Clown Car since about November 8. I suggest you file a report with the F.B.I. or the C.I.A.,1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
-4957,Sorry to hear about your circus but we don't hire buffoons!,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,I can't go any longer...the inauguration after party has too many others fighting for my spotlight!,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,you a sad clown or a happy one? Trying to figure out if I got the blue pill or the red one.,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,I'm afraid!! I can't help you.,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
+4957,Sorry to hear about your circus but we don't hire buffoons!,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,I can't go any longer...the inauguration after party has too many others fighting for my spotlight!,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,you a sad clown or a happy one? Trying to figure out if I got the blue pill or the red one.,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,I'm afraid!! I can't help you.,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
 4957,Wait is that my neighbor Jimmy?,1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
-4957,Too bad you didn't have Wisconsin residency when you voted.,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,"So just because you lost your job from Ringling Brothers, there are still no handouts here!",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,"Oh I admit, SCADD has saved lives.",1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
-4957,You're supposed to be the one with the hiccup,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
+4957,Too bad you didn't have Wisconsin residency when you voted.,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,"So just because you lost your job from Ringling Brothers, there are still no handouts here!",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,"Oh I admit, SCADD has saved lives.",1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
+4957,You're supposed to be the one with the hiccup,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
 4957,"Sorry Sam,your Unhappy Hour doesn't seem to be cutting it.",1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
-4957,The restroom is to your right.,1.0388349514563109,0.01912979351735493,103.0,99.0,4.0,0.0,554
+4957,The restroom is to your right.,1.0388349514563109,0.019129793517354932,103.0,99.0,4.0,0.0,554
 4957,"Animal rights is not a joke anymore, is it? You can start by cleaning those tables.",1.0388349514563109,0.02358636065857124,103.0,100.0,2.0,1.0,554
 5014,"What'll you be, Mac?",1.0384615384615383,0.01894863996469789,104.0,100.0,4.0,0.0,554
 5014,"Quit clownin', yo! :)",1.0384615384615383,0.01894863996469789,104.0,100.0,4.0,0.0,554
@@ -5099,32 +5099,32 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5096,Sorry about Ringling Brothers closing after all these years.,1.0294117647058822,0.016811921984695534,102.0,99.0,3.0,0.0,554
 5099,No creepypasta.,1.029126213592233,0.016650348072088258,103.0,100.0,3.0,0.0,554
 5100,Hey Happy Noise the usual coming up.,1.0285714285714285,0.021213820125377723,105.0,103.0,1.0,1.0,554
-5101,Sorry but we only sell Stella Artois' to star comedians.,1.02020202020202,0.02020202020202028,99.0,98.0,0.0,1.0,554
-5101,Okay if you really were a clown I would probably allow you to drop your pants,1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,"Clown |klown| a fool or comedian. Listen here clown I told you that we do not sale any root beer float here, and tell me what is with that funny attire you are wearing.",1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,Feste are you smart enough for Sam's?,1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,Would you like the usual?,1.02020202020202,0.02020202020202028,99.0,98.0,0.0,1.0,554
-5101,"Keep em coming Sam ... it all started when the elephants retired near Disney World and I'm laid off with a mortgage on the RV, a kid in college, and a wife whose been diagnosed with coulrophia. Where my Disney World, I ask ya?",1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,How was,1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,Your wife Annette was a wonderful lady. Sorry to hear you're working without her.,1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,The important thing is you don't tell Lexie about the tiny burgers in the back,1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,Mike Stevens may drawn a most indecipherable cartoon.,1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,"Give me the usual."" ""Menu of the day?",1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,Hey pal! What are you some sort of clown? If you want to get served in this place you have to look like the clowns that frequent this circus every day!,1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,"Unfortunately, we don't have any openings at this time.",1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,"No, we don't want you ex-circus guys in here. It gets pretty wild in here and you'd want to put 'em all behind bars.",1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,This is the last time I let you airbnb the house to a WWII reenactment group.,1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,"So you see, it's perfectly safe to live here now that they're only using drones…",1.02020202020202,0.02020202020202028,99.0,98.0,0.0,1.0,554
-5101,Trade you?,1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,"Sorry, we no longer serve pepperoni on tap.",1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,"Didn't you hear nobody likes clowns,you. I thought you had clown face book or sometbing.",1.02020202020202,0.02020202020202028,99.0,98.0,0.0,1.0,554
-5101,"Sorry, we don't have quarters.",1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,Well Dang! Where is Breanne Foister?,1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,"If I serve you anything, I might be arrested for contributing to the death of a clown.",1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,"Honesrly no, I can't say a birthday boy should know when to keep his mouth shut",1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,"Look, I am sorry - the call out was in the singular.",1.02020202020202,0.02020202020202028,99.0,98.0,0.0,1.0,554
-5101,"Time to grab the bull by its horns or bite the bullet, friend.",1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
-5101,"Business is good. Was the coal miners out of work, but now the clowns can't compete.",1.02020202020202,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,Sorry but we only sell Stella Artois' to star comedians.,1.0202020202020199,0.02020202020202028,99.0,98.0,0.0,1.0,554
+5101,Okay if you really were a clown I would probably allow you to drop your pants,1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,"Clown |klown| a fool or comedian. Listen here clown I told you that we do not sale any root beer float here, and tell me what is with that funny attire you are wearing.",1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,Feste are you smart enough for Sam's?,1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,Would you like the usual?,1.0202020202020199,0.02020202020202028,99.0,98.0,0.0,1.0,554
+5101,"Keep em coming Sam ... it all started when the elephants retired near Disney World and I'm laid off with a mortgage on the RV, a kid in college, and a wife whose been diagnosed with coulrophia. Where my Disney World, I ask ya?",1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,How was,1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,Your wife Annette was a wonderful lady. Sorry to hear you're working without her.,1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,The important thing is you don't tell Lexie about the tiny burgers in the back,1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,Mike Stevens may drawn a most indecipherable cartoon.,1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,"Give me the usual."" ""Menu of the day?",1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,Hey pal! What are you some sort of clown? If you want to get served in this place you have to look like the clowns that frequent this circus every day!,1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,"Unfortunately, we don't have any openings at this time.",1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,"No, we don't want you ex-circus guys in here. It gets pretty wild in here and you'd want to put 'em all behind bars.",1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,This is the last time I let you airbnb the house to a WWII reenactment group.,1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,"So you see, it's perfectly safe to live here now that they're only using drones…",1.0202020202020199,0.02020202020202028,99.0,98.0,0.0,1.0,554
+5101,Trade you?,1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,"Sorry, we no longer serve pepperoni on tap.",1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,"Didn't you hear nobody likes clowns,you. I thought you had clown face book or sometbing.",1.0202020202020199,0.02020202020202028,99.0,98.0,0.0,1.0,554
+5101,"Sorry, we don't have quarters.",1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,Well Dang! Where is Breanne Foister?,1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,"If I serve you anything, I might be arrested for contributing to the death of a clown.",1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,"Honesrly no, I can't say a birthday boy should know when to keep his mouth shut",1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,"Look, I am sorry - the call out was in the singular.",1.0202020202020199,0.02020202020202028,99.0,98.0,0.0,1.0,554
+5101,"Time to grab the bull by its horns or bite the bullet, friend.",1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
+5101,"Business is good. Was the coal miners out of work, but now the clowns can't compete.",1.0202020202020199,0.014211916019907896,99.0,97.0,2.0,0.0,554
 5127,"This is for last week ;) ... Marvin, when you booked these tickets, did you even know what ""Aleppo"" is?",1.02,0.019999999999999983,100.0,99.0,0.0,1.0,554
 5128,"Sorry, Sam isn't hiring today.",1.0103092783505154,0.01036283340362098,97.0,96.0,1.0,0.0,554
 5128,Do you think this is really organic?,1.0103092783505154,0.01036283340362098,97.0,96.0,1.0,0.0,554

@@ -5,7 +5,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4,I identify as fish,1.6976744186046508,0.06658605636670341,129.0,62.0,44.0,23.0,562
 5,Will we raise the kids as birds or fish?,1.6969696969696968,0.029489069969656,759.0,400.0,189.0,170.0,562
 6,Let's walk into a bar.,1.6903409090909092,0.04075807717634506,352.0,174.0,113.0,65.0,562
-7,What am I doing here? I missed my flight.,1.6826424870466319,0.031623717211555755,772.0,459.0,99.0,214.0,562
+7,What am I doing here? I missed my flight.,1.682642487046632,0.031623717211555755,772.0,459.0,99.0,214.0,562
 8,What do you mean I'm adopted?,1.6822660098522169,0.03868012738973578,406.0,208.0,119.0,79.0,562
 9,"No, you don't look like your profile photo.",1.6821705426356592,0.045940042499360616,258.0,124.0,92.0,42.0,562
 10,It's not you. I've just...evolved.,1.6576576576576576,0.043058325999373766,333.0,179.0,89.0,65.0,562
@@ -38,7 +38,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 37,"After Trump was elected, I was SURE I'd see a pig flying up here",1.5483870967741935,0.0680888547896161,124.0,76.0,28.0,20.0,562
 38,I believe you're out of water.,1.548148148148148,0.06014403066290251,135.0,77.0,42.0,16.0,562
 39,"One of these things is not like the other, one of these things just doesn't belong...",1.5431034482758617,0.05387800416389563,232.0,155.0,28.0,49.0,562
-40,"Maybe I'm wrong but I think Hammerstein said ""Fish gotta fly, birds gotta swim.""",1.536036036036036,0.05051843082072918,222.0,138.0,49.0,35.0,562
+40,"Maybe I'm wrong but I think Hammerstein said ""Fish gotta fly, birds gotta swim.""",1.5360360360360361,0.05051843082072918,222.0,138.0,49.0,35.0,562
 41,You look nothing like your Match profile.,1.5265700483091786,0.047842594599732176,207.0,121.0,63.0,23.0,562
 41,Welcome to the witness protection program.,1.5265700483091786,0.04881309341360288,207.0,123.0,59.0,25.0,562
 43,What pronoun do you prefer?,1.5163934426229508,0.06505092328234699,122.0,75.0,31.0,16.0,562
@@ -70,11 +70,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 67,You look nothing like your tinder profile.,1.4771241830065358,0.05334120759100852,153.0,94.0,45.0,14.0,562
 70,Great costume.,1.4727272727272729,0.06419981696700792,110.0,69.0,30.0,11.0,562
 71,"Some weather we're having, eh?",1.47,0.06735253251633258,100.0,63.0,27.0,10.0,562
-72,"""Do you ever feel like a fish out of water""?",1.4689655172413794,0.05626903459447959,145.0,92.0,38.0,15.0,562
+72,"""Do you ever feel like a fish out of water""?",1.4689655172413794,0.056269034594479586,145.0,92.0,38.0,15.0,562
 73,"You're late, I got the worm!",1.4685314685314683,0.0577016339324539,143.0,92.0,35.0,16.0,562
 73,"Birds got to swim, fish got to fly . . . .",1.4685314685314683,0.05326362057987834,143.0,87.0,45.0,11.0,562
 75,Humor me: Are you a fish out of water or I am in over my head?,1.4647887323943662,0.0605158557522029,142.0,95.0,28.0,19.0,562
-75,"Don't mind me, I'm just phishing.",1.4647887323943662,0.04757843109312013,142.0,81.0,56.0,5.0,562
+75,"Don't mind me, I'm just phishing.",1.4647887323943662,0.047578431093120134,142.0,81.0,56.0,5.0,562
 77,"Well, you don't look much like your profile picture either.",1.4609375,0.0616600485194048,128.0,84.0,29.0,15.0,562
 78,"Climate change, am I right?",1.4604316546762592,0.05709597786344185,139.0,89.0,36.0,14.0,562
 78,It could work. We both like worms.,1.4604316546762592,0.0588937986318871,139.0,91.0,32.0,16.0,562
@@ -97,18 +97,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 96,Birds gotta swim; fish gotta fly.,1.43801652892562,0.04964413578771377,121.0,71.0,47.0,3.0,562
 97,I need to see the loan shark. My nest is under water.,1.4369747899159664,0.06042937974377825,119.0,78.0,30.0,11.0,562
 97,"Tonight, you sleep with the pigeons.",1.4369747899159664,0.05551567817318593,119.0,74.0,38.0,7.0,562
-99,One of us is outside our comfort zone.,1.4347826086956519,0.06790909691200052,92.0,60.0,24.0,8.0,562
+99,One of us is outside our comfort zone.,1.434782608695652,0.06790909691200052,92.0,60.0,24.0,8.0,562
 100,This is what happens when you eliminate the EPA.,1.4328358208955223,0.08826146500023015,67.0,47.0,11.0,9.0,562
 101,"Separated since birth, they had never before met face to face.",1.4310344827586208,0.06149577078745173,116.0,77.0,28.0,11.0,562
 101,You must be from the other side of the family.,1.4310344827586208,0.06270290951960729,116.0,78.0,26.0,12.0,562
 101,Are you here for the Fish & Wildlife Convention?,1.4310344827586208,0.06026445708094898,116.0,76.0,30.0,10.0,562
 101,No. It said fish FRY today only.,1.4310344827586208,0.06388724363834551,116.0,79.0,24.0,13.0,562
 101,I deliver important messages. What do you do?,1.4310344827586208,0.06026445708094898,116.0,76.0,30.0,10.0,562
-106,I self-identify as a fish.,1.4247787610619467,0.05870132372310442,113.0,73.0,32.0,8.0,562
-106,"Well, I've always sung it, ""Birds gotta swim and fish gotta fly"".",1.4247787610619467,0.05153354579659112,113.0,68.0,42.0,3.0,562
-106,You don't look like your profile picture either.,1.4247787610619467,0.06003226815421664,113.0,74.0,30.0,9.0,562
-106,You don't look like your profile picture either.,1.4247787610619467,0.06260933513087254,113.0,76.0,26.0,11.0,562
-106,It’ll never work -- you’re farm-raised and I’m from the city.,1.4247787610619467,0.066287346335595,113.0,79.0,20.0,14.0,562
+106,I self-identify as a fish.,1.424778761061947,0.05870132372310442,113.0,73.0,32.0,8.0,562
+106,"Well, I've always sung it, ""Birds gotta swim and fish gotta fly"".",1.424778761061947,0.05153354579659112,113.0,68.0,42.0,3.0,562
+106,You don't look like your profile picture either.,1.424778761061947,0.06003226815421664,113.0,74.0,30.0,9.0,562
+106,You don't look like your profile picture either.,1.424778761061947,0.06260933513087254,113.0,76.0,26.0,11.0,562
+106,It’ll never work -- you’re farm-raised and I’m from the city.,1.424778761061947,0.066287346335595,113.0,79.0,20.0,14.0,562
 111,"Actually, I'm looking for a perch.",1.423423423423423,0.06594558791182911,111.0,77.0,21.0,13.0,562
 111,"Sorry son, but I need to finally tell you - you were adopted.",1.423423423423423,0.06210813210551652,111.0,74.0,27.0,10.0,562
 111,"No, I’m pretty sure it’s “Fish gotta swim, BIRDS gotta fly.”",1.423423423423423,0.06594558791182911,111.0,77.0,21.0,13.0,562
@@ -120,7 +120,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 119,You can't get there from here.,1.4181818181818182,0.06110167108034256,110.0,73.0,28.0,9.0,562
 119,Thanks for meeting me half-way.,1.4181818181818182,0.05972108955316826,110.0,72.0,30.0,8.0,562
 121,"No, there would be wavy lines if this were water.",1.4177215189873418,0.07771400171074942,79.0,55.0,15.0,9.0,562
-122,"Just give it a couple hundred million years, you'll get there.",1.4166666666666667,0.054441053574445133,108.0,67.0,37.0,4.0,562
+122,"Just give it a couple hundred million years, you'll get there.",1.4166666666666667,0.05444105357444513,108.0,67.0,37.0,4.0,562
 122,I thought the F stood for female.,1.4166666666666667,0.06594232666900135,108.0,75.0,21.0,12.0,562
 122,"Screw the scientists, they told the bumblebees the same thing.",1.4166666666666667,0.0632633378305703,108.0,73.0,25.0,10.0,562
 125,"Yeah, but it's just a theory.",1.4150943396226414,0.06684781031962561,106.0,74.0,20.0,12.0,562
@@ -137,12 +137,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 136,Perch?,1.4107142857142858,0.07967786488187027,56.0,36.0,17.0,3.0,562
 137,"If a bird's gotta swim, then fish gotta fly",1.4077669902912622,0.05924342656420732,103.0,67.0,30.0,6.0,562
 137,Think what our children will have to go through.,1.4077669902912622,0.05057614601342034,103.0,62.0,40.0,1.0,562
-139,"Yes, I do have confidence in my GPS - Why do you ask?",1.405940594059406,0.06321144435450443,101.0,68.0,25.0,8.0,562
-139,"It's not you, it's me.",1.405940594059406,0.06627010111160997,101.0,70.0,21.0,10.0,562
-139,Yes I'm sure it's fine - all the guy said was 'two by two',1.405940594059406,0.06475883336937756,101.0,69.0,23.0,9.0,562
-139,This will not end well for one of us.,1.405940594059406,0.06475883336937756,101.0,69.0,23.0,9.0,562
-139,You look nothing like your profile picture.,1.405940594059406,0.06475883336937756,101.0,69.0,23.0,9.0,562
-139,What time is your flight,1.405940594059406,0.06475883336937756,101.0,69.0,23.0,9.0,562
+139,"Yes, I do have confidence in my GPS - Why do you ask?",1.4059405940594059,0.06321144435450443,101.0,68.0,25.0,8.0,562
+139,"It's not you, it's me.",1.4059405940594059,0.06627010111160997,101.0,70.0,21.0,10.0,562
+139,Yes I'm sure it's fine - all the guy said was 'two by two',1.4059405940594059,0.06475883336937756,101.0,69.0,23.0,9.0,562
+139,This will not end well for one of us.,1.4059405940594059,0.06475883336937756,101.0,69.0,23.0,9.0,562
+139,You look nothing like your profile picture.,1.4059405940594059,0.06475883336937756,101.0,69.0,23.0,9.0,562
+139,What time is your flight,1.4059405940594059,0.06475883336937756,101.0,69.0,23.0,9.0,562
 145,You're a strange bird.,1.4057971014492754,0.07534756232995568,69.0,46.0,18.0,5.0,562
 146,"I don't know either, global warming?",1.3979591836734695,0.06605692181366461,98.0,68.0,21.0,9.0,562
 146,We'd never have met had it not been for climate change,1.3979591836734695,0.06916866191380465,98.0,70.0,17.0,11.0,562
@@ -2801,380 +2801,380 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2557,I suppose sea levels are rising,1.0833333333333333,0.057630339567343765,24.0,22.0,2.0,0.0,562
 2557,"""It would never work. You're Pisces; I'm Aries.",1.0833333333333333,0.057630339567343765,24.0,22.0,2.0,0.0,562
 2557,Well! Aren't you a fish out of water!,1.0833333333333333,0.057630339567343765,24.0,22.0,2.0,0.0,562
-2803,Something's fishy.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"no no i'm not, like, against rodents ethnically. i don't like them culturally. rodent culture is lame. like, a chill squirrel who isn't trying to be all rodenty all the time, who can hang out and eat bread crumbs, i mean, that's fine. you feel me?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Hold Still.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Let's get all of our friends together and drive M.C. Escher nuts!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"It be we, the pigeons of the sea.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,We're doing renos on the bird bath.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,The hard part is landing.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Are you one of those flying fish I've heard about, or am I hallucinating again?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Of all the gin joints...,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You've made an elementary error.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Either I've turned into a loon or this is great VR.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You are the air I breathe.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I think you're in the wrong medium.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'll think about swimming. It's up in the air for now.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Air? Don't touch the stuff. Bats screw in it, you know.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I love you too. More than all the stars in the sea.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I was part of the Fail Whale team!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I don't care what Siri told you!.....,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Do you sometimes feel like a fish out of water?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Is this the road to Mandalay?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I don't think high and dry was your smartest move, my friend.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Hi. My name is Scott Pruitt. Am I in the right place?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Fly fishing is my favorite pastime too!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,2017 is the year of diversity no matter what Trump says.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Err . . . I think I made a wrong turn.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Stool pigeon meets red herring,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Sharks versus Jets?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,How did you get a visa?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Fancy seeing you here.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Can you imagine something as unbelievable as a flying fish?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,My parents will never approve.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I didn't think you'd play the 'fish nor fowl' card,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,And you are?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,...and so the ugly duckling turned out to be a beautiful swan and lived happily ever after,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,What kind of documents?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Don't try and pigeon-hole me.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Is it you, or me?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,One of us is about to wake up in an unfortunate reality,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"1) I'm above, you're below, wish we could get the in between to become more green. 2) I'm above, you're below, wish we could control the in between.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"What do you mean, something fishy is going on?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"""I seem to have run afoul'"" ""Yes, something's fishy here""'",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I know you won't believe this, but I just saw a talking dog.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I had to see you again,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"No, not an appetizer app.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Which one of us is lost?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I told you: Flying is pretty easy!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Fish are friends, not food",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"You'll get used to it. When I first started here I felt out of my element, too,",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I think one of us is dreaming,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Nice costume, but Halloween isn't till October.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Once of us is hallucinating!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'll believe in global warming when pig's fly!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,It's the sky fish-brain!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You are out of your depth.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I'm telling you, there's something fishy about this place.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Did you get tired of his tweeting too?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"You've heard the saying ""fish out of water?"" I think you're there.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,So...did you grow lungs or did I grow gills?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I'm a Republican and you are a Democrat. Or, is it the other way around?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Birds of a feather swim together,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You look like a blimp. Try growing a pair!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'm not bad but I hear the bees got nothing on you.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Please don't be a dream.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"You're dreamin', pal.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I'm telling you Frank, a week of after switching to gluten-free bread crumbs the ounces just fell off!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,The only thing you'll miss are the bubbles.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,you first,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I see you'r ready for climate change, too.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Everything okay? Lately, you've been acting like a fish out of water.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Do you know why birds sing?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,We got this...right?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Swimming north for the summer ?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'm sorry you don't speak pidgin.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I've lost track. Is this south and is it still winter?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Stay in your lane!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Fish n' chicks?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Fine, but just you remember--the park is mine.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,How long you been living in this dive?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Is this one of those this where we are either two dogs or a vase?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Biotechnology is super, right?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,All I know is that one of us is going to be hurting for oxygen pretty soon.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Lent again?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I can't breath,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"""Chicken"" of the sea?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"No reason to be jealous, its just as dirty up there!!!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I just LOVED your latest codcast!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Bird out of air? No, can't say I've heard that one.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Farm Raised . . . Organic . . . or Wild?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Climate change, rising sea levels...it's all a load of bunk.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"As Michelle might ask: Did you go high, or is it that I went low?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Good news! Dad would like to have you for dinner.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Have you given any more thought to my ""build our nest in a tree"" idea?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Well sis, the test results are in and I guess all mom's talk about her wild days of free love are more than just a lot of talk.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Have you ever been high before?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Where were you during evolution?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Evidently you never listened to the song, ""Can't Help Lovin' that Man of Mine""!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,How'd you get out of the nest?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,. . . And the Fish ran away with the Loon.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I've never dated a Pisces before.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,What school did you come from?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I was skeptical too, but I'm telling you, the bird outfit fools the sharks every time!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Fly fishing ? That's so old school.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Two words: timeshare grotto.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,There's something you need to know about Alternative Facts.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"That saying ""a bird in hand"" sounds very fishy to me.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Did you see his latest tweet?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Just a head's up, buddy. The brown worms circulating amongst you are not specifically too good.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I tend to take a pretty macro view of things."" ""I prefer to see things more panoramically.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Wow! Climate change has REALLY altered your migration!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You strike me as a fish out of water,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I took the high road and you took the low one. Go figure.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Water levels a rose a little quicker than I expected.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,We can't have an appropriate caption to this cartoon until we know whether the medium we're in is water or air.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Aren't you a little out of your element?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"No, I didn't see a pig come by here.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,em...Think one of us is out of his comfort zone?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You are the fins beneath my wings.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Go with the flow.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Does Atlantis have statues?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"For me, being early is great -- for you, maybe not so much.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Trump will get elected ... You just can't stop yourself!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Are you out of your depth? Or is it me?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Clearly, at least one of us does not fully understand fluid dynamics",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,- You have to be kidding. - You have to be kidding...,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,It's a dog eat dog world,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Bird: ""Why can't the Trumpster get his agenda off the ground."" Fish: ""He's pig?""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Talk about being out of your element!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I know you are, but what am I?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Can we get beyond fish gotta swim and birds gotta fly.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"That's your excuse? Not tonight dear, I am a haddock.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Clearly, one of us is living in a bubble.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"No, you are supposed to put it over the ear.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,First time I've used VRBO!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Just think, our ancestors untimately became humans!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Welcome to Manhattan!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"You gotta swim and I gotta fly, but only I can talk.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Sadly, sometimes meeting halfway won't work.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,This new witness relocation program is for the birds.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Well, now that you put it that way... Yes, I would resent the term ""air food"".",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'm too stuffed to fly.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Of all the environmentally friendly places, you had to come into mine!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I was tired of being pigeonholed into the role of a bird.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I don't care what the other kids are wearing!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Never thought budgets cuts to science would lead to this!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Yes, but Darwin was wrong.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"if only you were a flying fish, maybe there would be a second date",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Would you like to horse around?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,It's reverse evolution!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Resistance or Restaurant: those are the choices.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"The message is: ""I'm watching you.""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Excuse me, sir, would you like to make a donation to The Waterfowl Endowment For The Arts?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Being a flying fish is one thing, but I'm still not going out on a date with you.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You're a real fish out of water.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"It's spring, so I was expecting a bee.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Welcome to America!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Sometimes I can't tell whether I'm swimming or flying. You, too?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,So! Water water everywhere...climate change is real!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Humid, isn't it?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I thought you said the water in Flint had no side effects?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,A catbird may look at a kingfish.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,We have to stop meeting like this! My family thinks something is fishy.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,What's for dinner?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You lay HOW many eggs?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I can't tell which one of us is out of our element.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Are you flying, or am I diving?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"""Truthfully? I've always hated those lyrics"".",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Can you believe this humidity?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You look just like one of my relatives!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"With honesty, that is not big news.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,So you're a pilot fish!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Just like the Donald Trump presidency you are truly a ""fish out of water.""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Now do you believe in global warming?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Even though you're Reformed and I'm Orthodox, it could still work. We could both be Unitarians.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"No, it's you ugly duckling",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,OOPS!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I don't think I've ever seen you here before.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"the swimming is easy, but how am I supposed to breathe?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You're pretty fly for a whitefish.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,A bad day with a bird and a fish is better than two bushed days in the factory. Huh? Go with it!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Oops.You looked smaller from above.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"My pastor said God only accepts 'the birds and the bees,' not 'the birds and the fish.'",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Air bladder got you up again, Mac?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I've fallen and I can't get up!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Trust me. They'll use worms to catch us.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"You've heard of a Flying Fish? Well, I''m a Swimming Bird.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Climate change, climate shmange, I say fish gotta swim, birds gotta fly.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,This will get clear when the guy draws more stuff.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Sheesh, do you know anything else besides ""Take me to the River""?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,They said I tasted like fish.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Birds gotta swim and fish gotta fly? It sounds good but it'll never be a hit.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Have you ever done a time share?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Avoid Monterey Bay. The Leuresthes are way below par this season,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,It's not gonna be any better up here if they cut the EPA!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Oh my Cawd,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You remember that old saying: 'A bird out of water' is better than 'a fish in the hand?',1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Breathing kills up there.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,One of use is as good as dead,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,What? Cat got your gill?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Awesome! Where did you get this Halloween costume?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,When I left this was beachfront,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Out of water?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Either I'm taking on water, or you're taking on air.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Where's the Beef?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Naw, you don't look out of water one bit.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"What? We were promised bees, not fish!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Fish got to swim, birds got to fly, I got to love one man till I die. Can't help lovin' dat man of mine.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I don't understand you but as far as I am concerned love transcends the language of both fish and fowl.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Guess you can't just wing it.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Don't take the bait. The fly-ornithologists around here are insane.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,What kind of bird? Early.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,This cartoon is so random,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'm a bi-flyer,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I think this is the beginning and end of a beautiful friendship.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,The mole beat us.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"You are certainly a fish out oof water, Homer.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'm early but something tells me you caught the worm.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You're not what I was looking for in a perch.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"You believed GOP's constant opposition rhetoric the last 8 years, but this little bird's says it won't fly; if they don't stop tweeting and squawking, and take a deep dive for brilliant solutions, Trump's political career will be sleeping with you!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You're very different from your profile picture.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Dense fog, isn't it?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,GPS sure isn't what it used to be,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Aren't you just a little out of your element?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Just Breath.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Well if anything, it will make Tom Waits happy.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I love fly-fishing, don't you?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Pisces?! Me, too! I just LOVE this speed dating thing.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"If you're looking for Nemo, turn left, then right, then drop about six thousand feet.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I bet you can't do the butterfly.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Seriously, leave the flying to us.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"It's not you, it's the sea.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"And that is how it became known as ""fly fishing""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"No, what are YOU doing here? I asked you first.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'm on a cleanse.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"They were warned about the seas rising, but did they listen? Nooo, of course not.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Effects of eating too close to bedtime.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Simply put, as the ocean rose, the sky shrunk.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"""Yeah, but do you get frequent flyer miles?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'll believe that when pigs walk.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You look lost... may I should you the way?!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You've haven't changed a bit since graduation!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You're mime skills need some work.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Hello, fish, follow me.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Yes, I'm in your school now. Previously, I was homing schooled.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Let's not panic. Our situation is very fluid.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Now it's birds gotta swim, fish gotta fly. Climate change has even gotten to Gershwin.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Twitter was my idea.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,The men's room is on the left.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"So, are you a fish flying? Or, am I a bird swimming?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I hope you're a fish out of water.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,ok. I will say: breaking news: gefilte fish tweets from the oven..,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,This is the first time I have used Airbnb!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'm in deep trouble.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Romeo, Romeo, wherefore art thou Romeo?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Don't give me that ""fish got to swim, birds got to fly"" jive!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I am not ""neither fish nor fowl""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Your the chicken of the sea?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"No, it's ""birds got'ta fly and fish got'ta swim""!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Well, if you had got the worm, we wouldn't be having this conversation!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Love how your bark reverberates me to my bones!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I'm sorry, I just can't do long distance relationships. Maybe fin and feather don't fly together",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,This place takes my breath away!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Peace said the pigeon to the fish...... Is like the great American Bald Eagle; gliding through a warm, cool breeze. Swooping down for Salmon spawning in fresh water lakes with a gentile ease. By David Grandville Norman 2006",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Well,it took a couple of eons longer than we thought but it happened.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Hey, worms are my favorite, too, but the ones on a hook will kill a guy.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Yeah? You haven't got the barbels.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Call me an optimistic fool, but I thought congestion pricing would help.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'd do this more often if I had webbed feet.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,The Adventures of Jonathan Livingston Pigeon,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Welcome to my world.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Sure, I'm concerned about the environment, but sometimes, voting against my own best interests just makes me feel good, OK?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I'll ask you one more time and that's it, stop hovering.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Getting the worm is not all that it's cracked up to be.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Gravity is not alternative science.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I need your frequent flyer number.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"And before you know it, you're rats with fins.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Fish gotta swim, birds gotta fly; get with it!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,And to think this whole time we thought it would be pigs or monkeys.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Why not?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'm a Pisces.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You're doomed.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,But what about our children? Every flying fish I know is in therapy.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Real estate is cheaper down here.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Awfully humid today, isn't it?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Nightmare for you too?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Trump says global warming's a hoax, so there's no way that I'm underwater--you must be airborne!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,It’s a typical “bird out of air” story.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Tell me you’re not a flying fish. For the sake of birds everywhere PLEASE tell me you’re not a flying fish.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"You realise of course, this means war!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"To quote the icon, ""The guy who drew us don't know jack.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,One of us has made a terrible mistake.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'm looking for a flying fish,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Either you're a flying fish or I'm a waterfowl.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'm ambivalent about the whole thing.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"So the water is really that bad, huh?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'm supposed to believe my ancestors descended from you.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Well here's something new under the sun!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Fine...Okay. Now your turn to teach me how to swim.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I guess this rising sea-level thing is real. Hey, Donald!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Birds are from Mars. Fish are from Venus?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Better rejected than alienated!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Cat got your tongue?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Parcheesi? Love it!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Atlantis? You're way off, pal.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Either you shouldn't look down, or I shouldn't look up.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I feel like a fish out of water!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"See, a wet bird can fly.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,A fish in the air beats two in the kelp.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I can't view the cartoon! That Stupid Hood News post won't close!!!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I think your GPS has been hacked!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'll catch you next time!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Out of my element? Guess I know how Trump must be feeling.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"So, Are you a balloon, or what?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Hang out here often, Sailor?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Yeah, Luca Brasi and I are close.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I'm a fish out of water.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Hey Fishy, I can poop on people while resting on a telephone line. What can you do?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,This is a nice acquarium!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,i know fish gotta swim. but what can i do?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Nice to meet you, but let's not talk politics",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Nice to chat but I can't stay.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Something looks fishy.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,What? We're in Florida?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Do you like the view from up here ?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Seriously, just because he refuses to evolve doesn't mean you should give up your lofty ambitions.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,One of us is out of our mainstream medium,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"No, you're not talented enough to swim. Obviously, I'm flying.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"They destroyed the environment up there, so this is a thing now.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Now I understand water, but what the hell is air?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,There's something fishey about my GPS.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,'Why do fish gotta swim and birds gotta fly?',1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"No, I said, ""when you go low, we go high!""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I haven't had surgery yet.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,This airstream doesn't lead downstream.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,My story? I thought 'taxidermy' was another name for 'Uber'.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,One of us has to admit they're wrong.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Do you know of any statues on which I can defecate down here?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,This is nothing. You should see what's going on upstairs.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,No one—not even Al Gore—thought sea levels would ever get this high.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I didn't know you could fly. ...I can't.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,what water?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,So...where exactly are we??,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You can call me Aquadove.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I like to disrupt their facile binaries.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"So, are gills considered a pre-existing condition?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I identify as gander fluid.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I'm not kidding, it's from Showboat, and the lyrics go: ""You gott'a swim, I gott'a fly..."" or something like that.""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I told him, dammit, ""NEITHER fish, nor fowl...""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Sorry, I have no idea which direction is ""up-stream"".",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"With the EPA's help, the water is now just as bad as the air.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,I suppose next we will see a pig.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Aries? I would have guessed Pisces.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Fish gotta swim. Birds gotta...oh hell, I gotta be me.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Something is fishy, you say?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Where the flocks your school?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Fish gotta swim and birds gotta fly.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Do you come here often?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,And they say there's no such thing as global warming.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Let's go fly a kite!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Go fish, no fowl",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"That was some flood, wasn't it?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Sorta settles the whole ""sink or swim"" dilemma, doesn't it?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"It's not the whole secret of evolution, but it's a start.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You just get a lot more for your money down here.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"Well, one of us is in trouble.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"If I find her, I'll send a carrier.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"They said ""Head South""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"No disrespect to Jason, but this cartoon seems neither fish nor fowl.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Let's kiss the land good-bye.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,Just because you gave away all your scales doesn't mean that I have to give you a feather!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"All I'm saying is, the Upper East Side has better schools.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,"I don't care where we meet next time, as long as there's coffee.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You remember what Oscar Hammerstein said.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,It's a bird out of air story.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
-2803,You don't want to live in our world; it's nasty out here.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,562
+2803,Something's fishy.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"no no i'm not, like, against rodents ethnically. i don't like them culturally. rodent culture is lame. like, a chill squirrel who isn't trying to be all rodenty all the time, who can hang out and eat bread crumbs, i mean, that's fine. you feel me?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Hold Still.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Let's get all of our friends together and drive M.C. Escher nuts!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"It be we, the pigeons of the sea.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,We're doing renos on the bird bath.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,The hard part is landing.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Are you one of those flying fish I've heard about, or am I hallucinating again?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Of all the gin joints...,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You've made an elementary error.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Either I've turned into a loon or this is great VR.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You are the air I breathe.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I think you're in the wrong medium.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'll think about swimming. It's up in the air for now.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Air? Don't touch the stuff. Bats screw in it, you know.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I love you too. More than all the stars in the sea.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I was part of the Fail Whale team!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I don't care what Siri told you!.....,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Do you sometimes feel like a fish out of water?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Is this the road to Mandalay?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I don't think high and dry was your smartest move, my friend.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Hi. My name is Scott Pruitt. Am I in the right place?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Fly fishing is my favorite pastime too!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,2017 is the year of diversity no matter what Trump says.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Err . . . I think I made a wrong turn.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Stool pigeon meets red herring,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Sharks versus Jets?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,How did you get a visa?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Fancy seeing you here.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Can you imagine something as unbelievable as a flying fish?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,My parents will never approve.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I didn't think you'd play the 'fish nor fowl' card,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,And you are?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,...and so the ugly duckling turned out to be a beautiful swan and lived happily ever after,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,What kind of documents?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Don't try and pigeon-hole me.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Is it you, or me?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,One of us is about to wake up in an unfortunate reality,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"1) I'm above, you're below, wish we could get the in between to become more green. 2) I'm above, you're below, wish we could control the in between.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"What do you mean, something fishy is going on?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"""I seem to have run afoul'"" ""Yes, something's fishy here""'",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I know you won't believe this, but I just saw a talking dog.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I had to see you again,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"No, not an appetizer app.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Which one of us is lost?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I told you: Flying is pretty easy!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Fish are friends, not food",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"You'll get used to it. When I first started here I felt out of my element, too,",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I think one of us is dreaming,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Nice costume, but Halloween isn't till October.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Once of us is hallucinating!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'll believe in global warming when pig's fly!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,It's the sky fish-brain!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You are out of your depth.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I'm telling you, there's something fishy about this place.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Did you get tired of his tweeting too?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"You've heard the saying ""fish out of water?"" I think you're there.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,So...did you grow lungs or did I grow gills?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I'm a Republican and you are a Democrat. Or, is it the other way around?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Birds of a feather swim together,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You look like a blimp. Try growing a pair!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'm not bad but I hear the bees got nothing on you.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Please don't be a dream.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"You're dreamin', pal.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I'm telling you Frank, a week of after switching to gluten-free bread crumbs the ounces just fell off!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,The only thing you'll miss are the bubbles.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,you first,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I see you'r ready for climate change, too.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Everything okay? Lately, you've been acting like a fish out of water.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Do you know why birds sing?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,We got this...right?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Swimming north for the summer ?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'm sorry you don't speak pidgin.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I've lost track. Is this south and is it still winter?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Stay in your lane!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Fish n' chicks?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Fine, but just you remember--the park is mine.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,How long you been living in this dive?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Is this one of those this where we are either two dogs or a vase?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Biotechnology is super, right?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,All I know is that one of us is going to be hurting for oxygen pretty soon.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Lent again?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I can't breath,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"""Chicken"" of the sea?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"No reason to be jealous, its just as dirty up there!!!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I just LOVED your latest codcast!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Bird out of air? No, can't say I've heard that one.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Farm Raised . . . Organic . . . or Wild?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Climate change, rising sea levels...it's all a load of bunk.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"As Michelle might ask: Did you go high, or is it that I went low?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Good news! Dad would like to have you for dinner.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Have you given any more thought to my ""build our nest in a tree"" idea?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Well sis, the test results are in and I guess all mom's talk about her wild days of free love are more than just a lot of talk.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Have you ever been high before?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Where were you during evolution?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Evidently you never listened to the song, ""Can't Help Lovin' that Man of Mine""!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,How'd you get out of the nest?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,. . . And the Fish ran away with the Loon.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I've never dated a Pisces before.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,What school did you come from?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I was skeptical too, but I'm telling you, the bird outfit fools the sharks every time!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Fly fishing ? That's so old school.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Two words: timeshare grotto.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,There's something you need to know about Alternative Facts.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"That saying ""a bird in hand"" sounds very fishy to me.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Did you see his latest tweet?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Just a head's up, buddy. The brown worms circulating amongst you are not specifically too good.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I tend to take a pretty macro view of things."" ""I prefer to see things more panoramically.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Wow! Climate change has REALLY altered your migration!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You strike me as a fish out of water,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I took the high road and you took the low one. Go figure.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Water levels a rose a little quicker than I expected.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,We can't have an appropriate caption to this cartoon until we know whether the medium we're in is water or air.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Aren't you a little out of your element?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"No, I didn't see a pig come by here.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,em...Think one of us is out of his comfort zone?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You are the fins beneath my wings.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Go with the flow.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Does Atlantis have statues?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"For me, being early is great -- for you, maybe not so much.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Trump will get elected ... You just can't stop yourself!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Are you out of your depth? Or is it me?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Clearly, at least one of us does not fully understand fluid dynamics",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,- You have to be kidding. - You have to be kidding...,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,It's a dog eat dog world,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Bird: ""Why can't the Trumpster get his agenda off the ground."" Fish: ""He's pig?""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Talk about being out of your element!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I know you are, but what am I?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Can we get beyond fish gotta swim and birds gotta fly.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"That's your excuse? Not tonight dear, I am a haddock.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Clearly, one of us is living in a bubble.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"No, you are supposed to put it over the ear.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,First time I've used VRBO!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Just think, our ancestors untimately became humans!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Welcome to Manhattan!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"You gotta swim and I gotta fly, but only I can talk.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Sadly, sometimes meeting halfway won't work.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,This new witness relocation program is for the birds.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Well, now that you put it that way... Yes, I would resent the term ""air food"".",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'm too stuffed to fly.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Of all the environmentally friendly places, you had to come into mine!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I was tired of being pigeonholed into the role of a bird.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I don't care what the other kids are wearing!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Never thought budgets cuts to science would lead to this!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Yes, but Darwin was wrong.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"if only you were a flying fish, maybe there would be a second date",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Would you like to horse around?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,It's reverse evolution!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Resistance or Restaurant: those are the choices.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"The message is: ""I'm watching you.""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Excuse me, sir, would you like to make a donation to The Waterfowl Endowment For The Arts?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Being a flying fish is one thing, but I'm still not going out on a date with you.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You're a real fish out of water.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"It's spring, so I was expecting a bee.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Welcome to America!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Sometimes I can't tell whether I'm swimming or flying. You, too?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,So! Water water everywhere...climate change is real!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Humid, isn't it?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I thought you said the water in Flint had no side effects?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,A catbird may look at a kingfish.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,We have to stop meeting like this! My family thinks something is fishy.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,What's for dinner?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You lay HOW many eggs?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I can't tell which one of us is out of our element.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Are you flying, or am I diving?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"""Truthfully? I've always hated those lyrics"".",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Can you believe this humidity?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You look just like one of my relatives!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"With honesty, that is not big news.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,So you're a pilot fish!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Just like the Donald Trump presidency you are truly a ""fish out of water.""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Now do you believe in global warming?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Even though you're Reformed and I'm Orthodox, it could still work. We could both be Unitarians.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"No, it's you ugly duckling",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,OOPS!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I don't think I've ever seen you here before.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"the swimming is easy, but how am I supposed to breathe?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You're pretty fly for a whitefish.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,A bad day with a bird and a fish is better than two bushed days in the factory. Huh? Go with it!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Oops.You looked smaller from above.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"My pastor said God only accepts 'the birds and the bees,' not 'the birds and the fish.'",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Air bladder got you up again, Mac?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I've fallen and I can't get up!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Trust me. They'll use worms to catch us.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"You've heard of a Flying Fish? Well, I''m a Swimming Bird.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Climate change, climate shmange, I say fish gotta swim, birds gotta fly.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,This will get clear when the guy draws more stuff.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Sheesh, do you know anything else besides ""Take me to the River""?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,They said I tasted like fish.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Birds gotta swim and fish gotta fly? It sounds good but it'll never be a hit.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Have you ever done a time share?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Avoid Monterey Bay. The Leuresthes are way below par this season,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,It's not gonna be any better up here if they cut the EPA!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Oh my Cawd,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You remember that old saying: 'A bird out of water' is better than 'a fish in the hand?',1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Breathing kills up there.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,One of use is as good as dead,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,What? Cat got your gill?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Awesome! Where did you get this Halloween costume?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,When I left this was beachfront,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Out of water?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Either I'm taking on water, or you're taking on air.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Where's the Beef?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Naw, you don't look out of water one bit.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"What? We were promised bees, not fish!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Fish got to swim, birds got to fly, I got to love one man till I die. Can't help lovin' dat man of mine.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I don't understand you but as far as I am concerned love transcends the language of both fish and fowl.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Guess you can't just wing it.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Don't take the bait. The fly-ornithologists around here are insane.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,What kind of bird? Early.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,This cartoon is so random,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'm a bi-flyer,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I think this is the beginning and end of a beautiful friendship.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,The mole beat us.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"You are certainly a fish out oof water, Homer.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'm early but something tells me you caught the worm.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You're not what I was looking for in a perch.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"You believed GOP's constant opposition rhetoric the last 8 years, but this little bird's says it won't fly; if they don't stop tweeting and squawking, and take a deep dive for brilliant solutions, Trump's political career will be sleeping with you!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You're very different from your profile picture.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Dense fog, isn't it?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,GPS sure isn't what it used to be,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Aren't you just a little out of your element?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Just Breath.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Well if anything, it will make Tom Waits happy.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I love fly-fishing, don't you?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Pisces?! Me, too! I just LOVE this speed dating thing.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"If you're looking for Nemo, turn left, then right, then drop about six thousand feet.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I bet you can't do the butterfly.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Seriously, leave the flying to us.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"It's not you, it's the sea.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"And that is how it became known as ""fly fishing""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"No, what are YOU doing here? I asked you first.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'm on a cleanse.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"They were warned about the seas rising, but did they listen? Nooo, of course not.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Effects of eating too close to bedtime.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Simply put, as the ocean rose, the sky shrunk.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"""Yeah, but do you get frequent flyer miles?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'll believe that when pigs walk.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You look lost... may I should you the way?!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You've haven't changed a bit since graduation!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You're mime skills need some work.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Hello, fish, follow me.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Yes, I'm in your school now. Previously, I was homing schooled.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Let's not panic. Our situation is very fluid.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Now it's birds gotta swim, fish gotta fly. Climate change has even gotten to Gershwin.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Twitter was my idea.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,The men's room is on the left.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"So, are you a fish flying? Or, am I a bird swimming?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I hope you're a fish out of water.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,ok. I will say: breaking news: gefilte fish tweets from the oven..,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,This is the first time I have used Airbnb!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'm in deep trouble.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Romeo, Romeo, wherefore art thou Romeo?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Don't give me that ""fish got to swim, birds got to fly"" jive!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I am not ""neither fish nor fowl""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Your the chicken of the sea?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"No, it's ""birds got'ta fly and fish got'ta swim""!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Well, if you had got the worm, we wouldn't be having this conversation!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Love how your bark reverberates me to my bones!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I'm sorry, I just can't do long distance relationships. Maybe fin and feather don't fly together",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,This place takes my breath away!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Peace said the pigeon to the fish...... Is like the great American Bald Eagle; gliding through a warm, cool breeze. Swooping down for Salmon spawning in fresh water lakes with a gentile ease. By David Grandville Norman 2006",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Well,it took a couple of eons longer than we thought but it happened.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Hey, worms are my favorite, too, but the ones on a hook will kill a guy.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Yeah? You haven't got the barbels.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Call me an optimistic fool, but I thought congestion pricing would help.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'd do this more often if I had webbed feet.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,The Adventures of Jonathan Livingston Pigeon,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Welcome to my world.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Sure, I'm concerned about the environment, but sometimes, voting against my own best interests just makes me feel good, OK?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I'll ask you one more time and that's it, stop hovering.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Getting the worm is not all that it's cracked up to be.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Gravity is not alternative science.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I need your frequent flyer number.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"And before you know it, you're rats with fins.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Fish gotta swim, birds gotta fly; get with it!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,And to think this whole time we thought it would be pigs or monkeys.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Why not?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'm a Pisces.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You're doomed.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,But what about our children? Every flying fish I know is in therapy.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Real estate is cheaper down here.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Awfully humid today, isn't it?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Nightmare for you too?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Trump says global warming's a hoax, so there's no way that I'm underwater--you must be airborne!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,It’s a typical “bird out of air” story.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Tell me you’re not a flying fish. For the sake of birds everywhere PLEASE tell me you’re not a flying fish.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"You realise of course, this means war!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"To quote the icon, ""The guy who drew us don't know jack.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,One of us has made a terrible mistake.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'm looking for a flying fish,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Either you're a flying fish or I'm a waterfowl.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'm ambivalent about the whole thing.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"So the water is really that bad, huh?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'm supposed to believe my ancestors descended from you.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Well here's something new under the sun!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Fine...Okay. Now your turn to teach me how to swim.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I guess this rising sea-level thing is real. Hey, Donald!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Birds are from Mars. Fish are from Venus?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Better rejected than alienated!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Cat got your tongue?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Parcheesi? Love it!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Atlantis? You're way off, pal.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Either you shouldn't look down, or I shouldn't look up.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I feel like a fish out of water!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"See, a wet bird can fly.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,A fish in the air beats two in the kelp.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I can't view the cartoon! That Stupid Hood News post won't close!!!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I think your GPS has been hacked!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'll catch you next time!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Out of my element? Guess I know how Trump must be feeling.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"So, Are you a balloon, or what?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Hang out here often, Sailor?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Yeah, Luca Brasi and I are close.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I'm a fish out of water.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Hey Fishy, I can poop on people while resting on a telephone line. What can you do?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,This is a nice acquarium!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,i know fish gotta swim. but what can i do?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Nice to meet you, but let's not talk politics",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Nice to chat but I can't stay.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Something looks fishy.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,What? We're in Florida?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Do you like the view from up here ?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Seriously, just because he refuses to evolve doesn't mean you should give up your lofty ambitions.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,One of us is out of our mainstream medium,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"No, you're not talented enough to swim. Obviously, I'm flying.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"They destroyed the environment up there, so this is a thing now.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Now I understand water, but what the hell is air?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,There's something fishey about my GPS.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,'Why do fish gotta swim and birds gotta fly?',1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"No, I said, ""when you go low, we go high!""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I haven't had surgery yet.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,This airstream doesn't lead downstream.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,My story? I thought 'taxidermy' was another name for 'Uber'.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,One of us has to admit they're wrong.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Do you know of any statues on which I can defecate down here?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,This is nothing. You should see what's going on upstairs.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,No one—not even Al Gore—thought sea levels would ever get this high.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I didn't know you could fly. ...I can't.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,what water?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,So...where exactly are we??,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You can call me Aquadove.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I like to disrupt their facile binaries.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"So, are gills considered a pre-existing condition?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I identify as gander fluid.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I'm not kidding, it's from Showboat, and the lyrics go: ""You gott'a swim, I gott'a fly..."" or something like that.""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I told him, dammit, ""NEITHER fish, nor fowl...""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Sorry, I have no idea which direction is ""up-stream"".",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"With the EPA's help, the water is now just as bad as the air.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,I suppose next we will see a pig.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Aries? I would have guessed Pisces.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Fish gotta swim. Birds gotta...oh hell, I gotta be me.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Something is fishy, you say?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Where the flocks your school?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Fish gotta swim and birds gotta fly.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Do you come here often?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,And they say there's no such thing as global warming.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Let's go fly a kite!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Go fish, no fowl",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"That was some flood, wasn't it?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Sorta settles the whole ""sink or swim"" dilemma, doesn't it?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"It's not the whole secret of evolution, but it's a start.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You just get a lot more for your money down here.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"Well, one of us is in trouble.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"If I find her, I'll send a carrier.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"They said ""Head South""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"No disrespect to Jason, but this cartoon seems neither fish nor fowl.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Let's kiss the land good-bye.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,Just because you gave away all your scales doesn't mean that I have to give you a feather!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"All I'm saying is, the Upper East Side has better schools.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,"I don't care where we meet next time, as long as there's coffee.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You remember what Oscar Hammerstein said.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,It's a bird out of air story.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
+2803,You don't want to live in our world; it's nasty out here.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,562
 3177,"Easy does it sailor, you're out of your element.",1.0,0.06454972243679027,16.0,16.0,0.0,0.0,562
 3177,"""Fish gotta swim, birds gotta fly...."" Show Boat 1927",1.0,0.06454972243679027,16.0,16.0,0.0,0.0,562
 3177,"Believe me, one of us is screwed.",1.0,0.06454972243679027,16.0,16.0,0.0,0.0,562

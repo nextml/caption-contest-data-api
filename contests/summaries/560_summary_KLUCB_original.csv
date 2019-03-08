@@ -1,11 +1,11 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1,I invented fire. He invested in it.,2.130434782608696,0.05738147608020176,184.0,45.0,70.0,69.0,560
-2,He comes from prehistoric money.,2.069767441860465,0.06976744186046509,129.0,36.0,48.0,45.0,560
+2,He comes from prehistoric money.,2.0697674418604652,0.06976744186046509,129.0,36.0,48.0,45.0,560
 3,Getting past the guard is easy. How do we remove the paintings?,2.068702290076336,0.07600633506885922,131.0,45.0,32.0,54.0,560
 4,"The artists move in, the rents go up, and we end up living in some hole.",2.0288461538461537,0.07784524724430536,104.0,31.0,39.0,34.0,560
-5,He booked it on Lairbnb.,1.988372093023256,0.08829465971818512,86.0,29.0,29.0,28.0,560
+5,He booked it on Lairbnb.,1.9883720930232558,0.08829465971818512,86.0,29.0,29.0,28.0,560
 6,Don't forget to walk upright when I introduce you. Dad is kind of racist.,1.9855072463768115,0.09571544576085307,69.0,22.0,26.0,21.0,560
-7,"He won""t be smiling when the 9:15 comes through.",1.976744186046512,0.0874892906263077,86.0,29.0,30.0,27.0,560
+7,"He won""t be smiling when the 9:15 comes through.",1.9767441860465118,0.0874892906263077,86.0,29.0,30.0,27.0,560
 8,I couldn't afford that place if I lived to be 30.,1.945945945945946,0.09206160689376558,74.0,25.0,28.0,21.0,560
 9,"I'd yell ""fire"", but I don't think he knows what that is yet.",1.9275362318840576,0.09969869479648157,69.0,26.0,22.0,21.0,560
 10,I hear he once was Caption Editor for the New Yorker.,1.9264705882352944,0.10950478453510204,68.0,30.0,13.0,25.0,560
@@ -32,7 +32,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 31,Any other ideas besides tunneling past the guard?,1.8387096774193548,0.14735498936022282,31.0,13.0,10.0,8.0,560
 32,Watch for the giant golf ball.,1.836734693877551,0.12145286443100085,49.0,22.0,13.0,14.0,560
 32,"Eve, where did he come from?",1.836734693877551,0.11790020416623816,49.0,21.0,15.0,13.0,560
-32,"He may have a window, but we have a skylight.",1.836734693877551,0.114237113086712,49.0,20.0,17.0,12.0,560
+32,"He may have a window, but we have a skylight.",1.836734693877551,0.11423711308671199,49.0,20.0,17.0,12.0,560
 35,He just came out as homo sapien,1.8333333333333333,0.1127246902500166,48.0,19.0,18.0,11.0,560
 35,I know he looks scary but the next restroom is like twelve caves away.,1.8333333333333333,0.1203324787301926,48.0,21.0,14.0,13.0,560
 35,They say he was once a cartoon editor.,1.8333333333333333,0.1203324787301926,48.0,21.0,14.0,13.0,560
@@ -778,34 +778,34 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 641,"Nice place, but I don't know how he manages on his salary.",1.5714285714285714,0.1898800194035894,21.0,14.0,2.0,5.0,560
 641,He says they're easier to flip.,1.5714285714285714,0.16288220358559116,21.0,12.0,6.0,3.0,560
 641,Maybe we should go around back,1.5714285714285714,0.17689691067625438,21.0,13.0,4.0,4.0,560
-780,"I highly doubt ""Cave Dweller"" will become a thing.",1.5652173913043481,0.1381138751751474,23.0,12.0,9.0,2.0,560
-780,This plan made way more sense when we were high.,1.5652173913043481,0.16425766604885494,23.0,14.0,5.0,4.0,560
-780,"English is so problematic, he thought I meant ""wholesome"".",1.5652173913043481,0.17587822499041098,23.0,15.0,3.0,5.0,560
-780,"So, now living under a rock isn't good enough for you, you want to live in one?",1.5652173913043481,0.16425766604885494,23.0,14.0,5.0,4.0,560
-780,Is there another entrance to your parents' cave?,1.5652173913043481,0.16425766604885494,23.0,14.0,5.0,4.0,560
-780,I hear he put granite countertops in his kitchen.,1.5652173913043481,0.15174983257274674,23.0,13.0,7.0,3.0,560
-780,It's his new man cave.,1.5652173913043481,0.17587822499041098,23.0,15.0,3.0,5.0,560
-780,For next year's vacation let's spring for the cave upgrade.,1.5652173913043481,0.16425766604885494,23.0,14.0,5.0,4.0,560
-780,He'll never get this by the zoning board.,1.5652173913043481,0.15174983257274674,23.0,13.0,7.0,3.0,560
-780,Don't you just love mid-paleozoic modern?,1.5652173913043481,0.12297509238026913,23.0,11.0,11.0,1.0,560
-780,He calls it 'The Great Indoors',1.5652173913043481,0.15174983257274674,23.0,13.0,7.0,3.0,560
-780,His farts are positively Jurassic.,1.5652173913043481,0.1381138751751474,23.0,12.0,9.0,2.0,560
-780,He's gone overground!,1.5652173913043481,0.16425766604885494,23.0,14.0,5.0,4.0,560
-780,"Nouveau enough for you? Plus, now he wants drawings on the walls.",1.5652173913043481,0.15174983257274674,23.0,13.0,7.0,3.0,560
-780,We can't judge them for fighting when our own marriage is in a hole.,1.5652173913043481,0.16425766604885494,23.0,14.0,5.0,4.0,560
-780,"Dammit, he’s home. I told you not take the tunnel during rush hour.",1.5652173913043481,0.15174983257274674,23.0,13.0,7.0,3.0,560
-780,What is our safe word?,1.5652173913043481,0.15174983257274674,23.0,13.0,7.0,3.0,560
-780,"Someday, honey, we'll live like the 1%.",1.5652173913043481,0.1381138751751474,23.0,12.0,9.0,2.0,560
-780,Do you think it's something we grunted?,1.5652173913043481,0.1381138751751474,23.0,12.0,9.0,2.0,560
-780,"He said he was tired of always being the third wheel."" What's a wheel?",1.5652173913043481,0.1381138751751474,23.0,12.0,9.0,2.0,560
-780,"I'm sure you'll agree that ""Pit-Person"" is way more inclusive.",1.5652173913043481,0.17587822499041098,23.0,15.0,3.0,5.0,560
-780,How does he even know what a third wheel feels like?,1.5652173913043481,0.15174983257274674,23.0,13.0,7.0,3.0,560
-780,Can we still be atheists down here if it’s still B.C.?,1.5652173913043481,0.16425766604885494,23.0,14.0,5.0,4.0,560
-780,"Why do those Goddamned chickens keep popping up on my screen and obstructing the bloody, blooming, blithering, buggering cartoon?",1.5652173913043481,0.17587822499041098,23.0,15.0,3.0,5.0,560
-780,"Is that a strapless hide? So 20,000 years ago.",1.5652173913043481,0.15174983257274674,23.0,13.0,7.0,3.0,560
-780,I envy his upward mobility,1.5652173913043481,0.1381138751751474,23.0,12.0,9.0,2.0,560
-780,This is the difference between vertical and horizontal integration.,1.5652173913043481,0.15174983257274674,23.0,13.0,7.0,3.0,560
-780,"He might have a big house and everything honey, but is he really happy?",1.5652173913043481,0.1381138751751474,23.0,12.0,9.0,2.0,560
+780,"I highly doubt ""Cave Dweller"" will become a thing.",1.565217391304348,0.1381138751751474,23.0,12.0,9.0,2.0,560
+780,This plan made way more sense when we were high.,1.565217391304348,0.16425766604885494,23.0,14.0,5.0,4.0,560
+780,"English is so problematic, he thought I meant ""wholesome"".",1.565217391304348,0.17587822499041098,23.0,15.0,3.0,5.0,560
+780,"So, now living under a rock isn't good enough for you, you want to live in one?",1.565217391304348,0.16425766604885494,23.0,14.0,5.0,4.0,560
+780,Is there another entrance to your parents' cave?,1.565217391304348,0.16425766604885494,23.0,14.0,5.0,4.0,560
+780,I hear he put granite countertops in his kitchen.,1.565217391304348,0.15174983257274674,23.0,13.0,7.0,3.0,560
+780,It's his new man cave.,1.565217391304348,0.17587822499041098,23.0,15.0,3.0,5.0,560
+780,For next year's vacation let's spring for the cave upgrade.,1.565217391304348,0.16425766604885494,23.0,14.0,5.0,4.0,560
+780,He'll never get this by the zoning board.,1.565217391304348,0.15174983257274674,23.0,13.0,7.0,3.0,560
+780,Don't you just love mid-paleozoic modern?,1.565217391304348,0.12297509238026913,23.0,11.0,11.0,1.0,560
+780,He calls it 'The Great Indoors',1.565217391304348,0.15174983257274674,23.0,13.0,7.0,3.0,560
+780,His farts are positively Jurassic.,1.565217391304348,0.1381138751751474,23.0,12.0,9.0,2.0,560
+780,He's gone overground!,1.565217391304348,0.16425766604885494,23.0,14.0,5.0,4.0,560
+780,"Nouveau enough for you? Plus, now he wants drawings on the walls.",1.565217391304348,0.15174983257274674,23.0,13.0,7.0,3.0,560
+780,We can't judge them for fighting when our own marriage is in a hole.,1.565217391304348,0.16425766604885494,23.0,14.0,5.0,4.0,560
+780,"Dammit, he’s home. I told you not take the tunnel during rush hour.",1.565217391304348,0.15174983257274674,23.0,13.0,7.0,3.0,560
+780,What is our safe word?,1.565217391304348,0.15174983257274674,23.0,13.0,7.0,3.0,560
+780,"Someday, honey, we'll live like the 1%.",1.565217391304348,0.1381138751751474,23.0,12.0,9.0,2.0,560
+780,Do you think it's something we grunted?,1.565217391304348,0.1381138751751474,23.0,12.0,9.0,2.0,560
+780,"He said he was tired of always being the third wheel."" What's a wheel?",1.565217391304348,0.1381138751751474,23.0,12.0,9.0,2.0,560
+780,"I'm sure you'll agree that ""Pit-Person"" is way more inclusive.",1.565217391304348,0.17587822499041098,23.0,15.0,3.0,5.0,560
+780,How does he even know what a third wheel feels like?,1.565217391304348,0.15174983257274674,23.0,13.0,7.0,3.0,560
+780,Can we still be atheists down here if it’s still B.C.?,1.565217391304348,0.16425766604885494,23.0,14.0,5.0,4.0,560
+780,"Why do those Goddamned chickens keep popping up on my screen and obstructing the bloody, blooming, blithering, buggering cartoon?",1.565217391304348,0.17587822499041098,23.0,15.0,3.0,5.0,560
+780,"Is that a strapless hide? So 20,000 years ago.",1.565217391304348,0.15174983257274674,23.0,13.0,7.0,3.0,560
+780,I envy his upward mobility,1.565217391304348,0.1381138751751474,23.0,12.0,9.0,2.0,560
+780,This is the difference between vertical and horizontal integration.,1.565217391304348,0.15174983257274674,23.0,13.0,7.0,3.0,560
+780,"He might have a big house and everything honey, but is he really happy?",1.565217391304348,0.1381138751751474,23.0,12.0,9.0,2.0,560
 808,He can call it a foyer all he wants. Still smells like bear's ass.,1.5625,0.15728821740147395,16.0,8.0,7.0,1.0,560
 809,He's still just a Neanderthal like the rest of us.,1.55,0.16975214129336985,20.0,12.0,5.0,3.0,560
 809,I just wish we could get him to try eHarmony.,1.55,0.16975214129336985,20.0,12.0,5.0,3.0,560

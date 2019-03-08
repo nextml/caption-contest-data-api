@@ -1,15 +1,15 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1,Row v. Wave,1.9812343619683068,0.01701525068712556,2398.0,855.0,733.0,810.0,551
 2,We shall overcomb.,1.9284692417739628,0.017931547667255618,2097.0,787.0,673.0,637.0,551
-3,Row v. Wave,1.9180151024811216,0.019598301061324732,1854.0,742.0,522.0,590.0,551
+3,Row v. Wave,1.9180151024811216,0.01959830106132473,1854.0,742.0,522.0,590.0,551
 4,"I don't know what's worse, the undertow or the combover",1.9050387596899223,0.019823191113115,1548.0,551.0,593.0,404.0,551
 5,"Don't worry, the polls show it will miss us.",1.9036004645760745,0.028536942257126337,861.0,347.0,250.0,264.0,551
 6,"Ladies and gentlemen, if you look to your right, you’ll see a gift of friendship from the people of France; straight ahead, a gift of friendship from the people of Russia",1.8951336531871144,0.021121098600510008,1459.0,559.0,494.0,406.0,551
 7,You've got it all wrong. We're emigrating.,1.8701842546063647,0.022464946065282043,1194.0,447.0,455.0,292.0,551
 8,Mayday! We've been hit by a raging tycoon!,1.8695652173913044,0.021842682960761164,1357.0,539.0,456.0,362.0,551
 9,To think this started as a Twitter storm.,1.858365019011407,0.024430291424944017,1052.0,415.0,371.0,266.0,551
-10,We shall overcomb.,1.858049167327518,0.02315115511975682,1261.0,528.0,384.0,349.0,551
-11,Did you just say there will be hell toupee?,1.846938775510204,0.02317985490600578,1176.0,475.0,406.0,295.0,551
+10,We shall overcomb.,1.8580491673275181,0.02315115511975682,1261.0,528.0,384.0,349.0,551
+11,Did you just say there will be hell toupee?,1.8469387755102042,0.02317985490600578,1176.0,475.0,406.0,295.0,551
 12,"I'm the perfect storm..the best storm, everybody tells me that.",1.8339021615472129,0.027170670953802056,879.0,370.0,285.0,224.0,551
 13,Don't worry --if you're not a 10 it won't touch you.,1.8013318534961154,0.026499624844086054,901.0,392.0,296.0,213.0,551
 14,"Huge wave, really terrific. But such tiny hands.",1.7822085889570551,0.03119603780544498,652.0,293.0,208.0,151.0,551
@@ -28,7 +28,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 27,"Woe, woe, woe your vote...",1.6652078774617067,0.03780114124689296,457.0,251.0,108.0,98.0,551
 28,"Ha ha ha, good one. Now do Putin riding on a seahorse!",1.6585365853658536,0.03505632915857156,451.0,228.0,149.0,74.0,551
 29,There will be hell toupee!,1.6545454545454543,0.0374903113797959,440.0,238.0,116.0,86.0,551
-30,Small hands on deck!,1.6477832512315271,0.03950624258703359,406.0,225.0,99.0,82.0,551
+30,Small hands on deck!,1.6477832512315271,0.039506242587033585,406.0,225.0,99.0,82.0,551
 31,Something tells me this wave is going to touch us inappropriately.,1.6455399061032865,0.0375643809545156,426.0,230.0,117.0,79.0,551
 32,Everyone take a deep breath and hold it for four years!,1.6365853658536584,0.037423364316228384,410.0,219.0,121.0,70.0,551
 33,It's a foam over.,1.628140703517588,0.03888930654585983,398.0,221.0,104.0,73.0,551
@@ -48,12 +48,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 47,Quick - compliment him on something!,1.5954415954415957,0.04020224679740772,351.0,199.0,95.0,57.0,551
 48,Quick everyone. Shout out compliments.,1.594900849858357,0.03982469689556628,353.0,199.0,98.0,56.0,551
 49,"On second thought, let's yearn to be free somewhere else.",1.5917159763313609,0.03993489389369268,338.0,188.0,100.0,50.0,551
-50,"Hold on, everyone. We've got hell AND high water coming.",1.587719298245614,0.040666829977970144,342.0,196.0,91.0,55.0,551
+50,"Hold on, everyone. We've got hell AND high water coming.",1.5877192982456139,0.040666829977970144,342.0,196.0,91.0,55.0,551
 51,It looks just like Alec Baldwin!,1.5870206489675516,0.04030989671820838,339.0,192.0,95.0,52.0,551
 52,I knew there'd be hell toupee.,1.5850746268656717,0.04366421130779236,335.0,205.0,64.0,66.0,551
-53,"Be careful, These waves usually come in gropes.",1.5820895522388059,0.03869029970662238,335.0,183.0,109.0,43.0,551
+53,"Be careful, These waves usually come in gropes.",1.582089552238806,0.03869029970662238,335.0,183.0,109.0,43.0,551
 54,How did we not see this coming?,1.5813253012048192,0.0410084070458176,332.0,191.0,89.0,52.0,551
-55,Tycoon season is early this year!,1.5766871165644172,0.041170099396778584,326.0,188.0,88.0,50.0,551
+55,Tycoon season is early this year!,1.5766871165644172,0.04117009939677858,326.0,188.0,88.0,50.0,551
 56,"Hold on, everyone. We've got hell AND high water coming.",1.5753846153846154,0.041045579200677126,325.0,187.0,89.0,49.0,551
 56,"But we're trying to leave the country, not enter it.",1.5753846153846154,0.042186565794722936,325.0,192.0,79.0,54.0,551
 58,Everybody lean to the right.,1.5749235474006116,0.04039104239762716,327.0,186.0,94.0,47.0,551
@@ -66,14 +66,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 64,"On a positive note, it's not a permanent wave.",1.5678233438485805,0.04212914920700817,317.0,187.0,80.0,50.0,551
 66,Take a deep breath and hold it for four years.,1.5664556962025316,0.04127810753585343,316.0,183.0,87.0,46.0,551
 67,"Look, it's Alec Baldwin!",1.565079365079365,0.04352944041626215,315.0,192.0,68.0,55.0,551
-68,Just try to stay calm and look deplorable.,1.564102564102564,0.0401885074870631,312.0,176.0,96.0,40.0,551
+68,Just try to stay calm and look deplorable.,1.5641025641025639,0.0401885074870631,312.0,176.0,96.0,40.0,551
 69,Irrefutable evidence the climate has changed.,1.562700964630225,0.04279026107899184,311.0,186.0,75.0,50.0,551
 70,"Don't worry, this is almost statistically impossible.",1.5612903225806452,0.04141957013257503,310.0,180.0,86.0,44.0,551
 71,They lied. It can get worse.,1.5612244897959184,0.0434192990712538,294.0,174.0,75.0,45.0,551
 72,"No, I said the weather looked ""Alt-right"" today.",1.5595238095238095,0.04672732710475617,252.0,149.0,65.0,38.0,551
 73,Moby Dickhead!,1.5578947368421052,0.047717190610296605,285.0,183.0,45.0,57.0,551
 74,Comboverboard!,1.5573770491803278,0.04396812095684899,305.0,187.0,66.0,52.0,551
-75,"Yes, we're tired, poor, and huddled. But, actually, we're headed to Canada.",1.5570934256055364,0.04402331397308341,289.0,173.0,71.0,45.0,551
+75,"Yes, we're tired, poor, and huddled. But, actually, we're headed to Canada.",1.5570934256055364,0.044023313973083414,289.0,173.0,71.0,45.0,551
 76,Don't panic. Just hold your breath for four years.,1.555921052631579,0.04102767039431898,304.0,175.0,89.0,40.0,551
 77,"Unfortunately, garbage from New York sometimes finds its way into the Hudson.",1.5529801324503312,0.04255956742493437,302.0,180.0,77.0,45.0,551
 78,Relax. We're not immigrants. We're from the French embassy. We're taking back the statue.,1.5518394648829432,0.04392916305212232,299.0,183.0,67.0,49.0,551
@@ -100,7 +100,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 99,WRONG. I tweeted Extreme Wetting,1.5255474452554745,0.047436513644083536,274.0,180.0,44.0,50.0,551
 99,"Like a comb-over troubled water, he will let you down...",1.5255474452554745,0.043924660391741456,274.0,168.0,68.0,38.0,551
 101,Nobody saw it coming?,1.5222222222222217,0.04534911566924093,270.0,170.0,59.0,41.0,551
-102,Pray it's not a permanant wave.,1.5204460966542748,0.04424637998240007,269.0,166.0,66.0,37.0,551
+102,Pray it's not a permanant wave.,1.5204460966542748,0.044246379982400066,269.0,166.0,66.0,37.0,551
 103,Quick. Show him your tits.,1.5186567164179106,0.04500090315581001,268.0,168.0,61.0,39.0,551
 103,Relax! We're trying to get to Canada.,1.5186567164179106,0.0421133001822174,268.0,159.0,79.0,30.0,551
 105,Tidal weave!,1.5185185185185186,0.04317806635136486,270.0,164.0,72.0,34.0,551
@@ -119,13 +119,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 118,I say we paddle to Canada until this whole thing combs over.,1.5039370078740155,0.043122077877232746,254.0,154.0,72.0,28.0,551
 118,"On second thought, let's row back to Cuba.",1.5039370078740155,0.045918344216290576,254.0,162.0,56.0,36.0,551
 120,"ACTUALLY, WE'RE LEAVING!!!",1.50390625,0.0449666430272589,256.0,161.0,61.0,34.0,551
-121,Oh no! We're being swept under the rug.,1.5021276595744681,0.04950177966169216,235.0,155.0,42.0,38.0,551
+121,Oh no! We're being swept under the rug.,1.502127659574468,0.04950177966169216,235.0,155.0,42.0,38.0,551
 122,No doubt this is due to political climate change.,1.5,0.044992127066584765,248.0,155.0,62.0,31.0,551
 122,"Well, the forecasters were wrong.",1.5,0.04445471961157789,252.0,157.0,64.0,31.0,551
 124,"And when you’re a tsunami, they let you do it. You can do anything.",1.4980237154150198,0.04571634143055986,253.0,162.0,56.0,35.0,551
 125,Not tired. Not sick. Not poor. I swear!,1.497991967871486,0.044493558034474696,249.0,155.0,64.0,30.0,551
 126,"Look, I'm a tremendous wave. Tremendous. And a lot of people are talking about me. A lot of people.",1.496031746031746,0.04373694378292578,252.0,156.0,67.0,29.0,551
-127,I have the best surf. My surf is tremendous.,1.496,0.04507842340885618,250.0,158.0,60.0,32.0,551
+127,I have the best surf. My surf is tremendous.,1.496,0.045078423408856184,250.0,158.0,60.0,32.0,551
 128,"So, literally caught between the devil and the deep blue sea",1.4918699186991868,0.045629229058864906,246.0,157.0,57.0,32.0,551
 128,"Watch out for the little hands, they can grab your whatever.",1.4918699186991868,0.04599141821922653,246.0,158.0,55.0,33.0,551
 128,What's the worst that could happen?,1.4918699186991868,0.04776118273622426,246.0,163.0,45.0,38.0,551
@@ -135,7 +135,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 134,"Don't worry, it's unpresidented.",1.4854771784232366,0.04558653598994943,241.0,154.0,57.0,30.0,551
 134,We're with her.,1.4854771784232366,0.048168239430586894,241.0,161.0,43.0,37.0,551
 136,It's going to grab us by the dingy!,1.4853556485355648,0.0488427925223755,239.0,161.0,40.0,38.0,551
-136,"Of course, it's him. Look at the size of his hands.",1.4853556485355648,0.04738118139634018,239.0,157.0,48.0,34.0,551
+136,"Of course, it's him. Look at the size of his hands.",1.4853556485355648,0.047381181396340184,239.0,157.0,48.0,34.0,551
 136,Es El Gropo!,1.4853556485355648,0.045100036631986286,239.0,151.0,60.0,28.0,551
 136,It's The Donald...Duck!,1.4853556485355648,0.048117536989629436,239.0,159.0,44.0,36.0,551
 136,"We expected amber waves of grain, not orange waves of pain.",1.4853556485355648,0.047750778613867916,239.0,158.0,46.0,35.0,551
@@ -162,15 +162,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 156,"The American Dream may be dead, but the American Nightmare is alive and well.",1.4716157205240177,0.048153187357448037,229.0,153.0,44.0,32.0,551
 162,Just wait. He's going to make tsunamis great again.,1.4657534246575343,0.04767062616351294,219.0,144.0,48.0,27.0,551
 163,Hold on to your pussies.,1.4649122807017545,0.049089259077542566,228.0,156.0,38.0,34.0,551
-164,"Don't worry, they say he's more foam than substance.",1.4642857142857142,0.04600344964205973,224.0,145.0,54.0,25.0,551
+164,"Don't worry, they say he's more foam than substance.",1.4642857142857142,0.046003449642059734,224.0,145.0,54.0,25.0,551
 164,Tired? Poor? Yearning to breathe free? Not sending their best. Sad.,1.4642857142857142,0.04686570444118356,224.0,147.0,50.0,27.0,551
 164,It’s either a sea change or a wave of regret.,1.4642857142857142,0.047290936654583136,224.0,148.0,48.0,28.0,551
-164,We should have taken our chances with the wall.,1.4642857142857142,0.045566203946237414,224.0,144.0,56.0,24.0,551
+164,We should have taken our chances with the wall.,1.4642857142857142,0.04556620394623741,224.0,144.0,56.0,24.0,551
 164,"Here we go, get ready to hold your breathe for four years.",1.4642857142857142,0.04686570444118356,224.0,147.0,50.0,27.0,551
 169,"He wasn't kidding about ""extreme wetting"" of immigrants.",1.4622222222222223,0.04878054372604012,225.0,153.0,40.0,32.0,551
 170,I told you this river was polluted.,1.4618834080717489,0.04828618800629983,223.0,150.0,43.0,30.0,551
 170,"But, we're trying to emigrate, not immigrate!",1.4618834080717489,0.047014450135732334,223.0,147.0,49.0,27.0,551
-172,Don't worry! Everything is going to be Alt-Right.,1.4611872146118718,0.045862740458278865,219.0,141.0,55.0,23.0,551
+172,Don't worry! Everything is going to be Alt-Right.,1.4611872146118718,0.04586274045827887,219.0,141.0,55.0,23.0,551
 173,It's not a wave. It's just a comb-over.,1.4598214285714286,0.04598693361470853,224.0,146.0,53.0,25.0,551
 174,"All together now, We shall overcomb-o-o-omb.",1.4594594594594594,0.04540235765301162,222.0,143.0,56.0,23.0,551
 174,Comb-overboard! Comb-overboard!,1.4594594594594594,0.046729737003253946,222.0,146.0,50.0,26.0,551
@@ -216,7 +216,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 211,Maybe it won't be that bad.,1.4396135265700485,0.04962104152826629,207.0,143.0,37.0,27.0,551
 216,"Don't worry, that's just a tycoon, not a typhoon.",1.4368932038834952,0.04477946371497902,206.0,133.0,56.0,17.0,551
 216,I told you we should have steered left.,1.4368932038834952,0.04582488149899575,206.0,135.0,52.0,19.0,551
-216,Uh oh. The forecasters didn't see this one coming.,1.4368932038834952,0.04734975031709061,206.0,138.0,46.0,22.0,551
+216,Uh oh. The forecasters didn't see this one coming.,1.4368932038834952,0.047349750317090614,206.0,138.0,46.0,22.0,551
 216,Let's wait to see what actually happens.,1.4368932038834952,0.047847241843065116,206.0,139.0,44.0,23.0,551
 216,Take a deep breath and hold it for four years.,1.4368932038834952,0.04882702065234619,206.0,141.0,40.0,25.0,551
 216,"Après Obama, le déluge.",1.4368932038834952,0.04978752192648798,206.0,143.0,36.0,27.0,551
@@ -224,7 +224,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 216,"Have no fear, we shall overcomb.",1.4368932038834952,0.04684697597703487,206.0,137.0,48.0,21.0,551
 216,"Be calm people, it's only a metaphor.",1.4368932038834952,0.04477946371497902,206.0,133.0,56.0,17.0,551
 225,And this concludes our tour of the signs of the Apocalypse.,1.4362745098039216,0.049670888416423205,204.0,141.0,37.0,26.0,551
-226,"If that's the wave of the future, I'm going overboard.",1.4354066985645932,0.04634655426619767,209.0,139.0,49.0,21.0,551
+226,"If that's the wave of the future, I'm going overboard.",1.4354066985645932,0.046346554266197666,209.0,139.0,49.0,21.0,551
 227,"Excuse me, do you know the way to America? I think we've gone too far right.",1.4341463414634146,0.04800191681016427,205.0,139.0,43.0,23.0,551
 228,This thing'll be catastrophic by the time it reaches Washington.,1.4320388349514563,0.048795228007744135,206.0,142.0,39.0,25.0,551
 228,"We're gonna need a whiter boat""",1.4320388349514563,0.04975634301396775,206.0,144.0,35.0,27.0,551
@@ -245,14 +245,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 243,He's saying we should comb over to the dark side.,1.427860696517413,0.048664753276169086,201.0,138.0,40.0,23.0,551
 243,I'm afraid this is a permanent wave!,1.427860696517413,0.04917325955447233,201.0,139.0,38.0,24.0,551
 246,All hands on groins ladies!,1.425,0.04617940762333587,200.0,133.0,49.0,18.0,551
-246,Don't worry. It's only a trump l'oeil.,1.425,0.049842717446103,200.0,140.0,35.0,25.0,551
+246,Don't worry. It's only a trump l'oeil.,1.425,0.049842717446102996,200.0,140.0,35.0,25.0,551
 246,"Oh, I thought he said he was a *tycoon*.",1.425,0.046720326890162256,200.0,134.0,47.0,19.0,551
 246,"So this is how we'll get a big, beautiful, forty-foot sea wall. And New Jersey is going to pay for it.",1.425,0.048306756396676434,200.0,137.0,41.0,22.0,551
 246,You know that sinking feeling I've been talking about?,1.425,0.04725505476671279,200.0,135.0,45.0,20.0,551
 251,So much for draining the swamp.,1.4242424242424243,0.04705434710949831,198.0,133.0,46.0,19.0,551
 251,Remember-- just hold your breath for 4 years and we should be ok,1.4242424242424243,0.046506315903884085,198.0,132.0,48.0,18.0,551
 251,I'm pretty sure it is not a permanent wave.,1.4242424242424243,0.04424636445127105,198.0,128.0,56.0,14.0,551
-254,"Idiot! We are trying to leave, not enter!",1.4221105527638191,0.045769928891549586,199.0,132.0,50.0,17.0,551
+254,"Idiot! We are trying to leave, not enter!",1.4221105527638191,0.04576992889154959,199.0,132.0,50.0,17.0,551
 255,Hold on! We're about to shoot the comb over!,1.4213197969543148,0.049870457083456055,197.0,138.0,35.0,24.0,551
 255,Even the New Yorker Cartoon Caption Contest can't make this funny.,1.4213197969543148,0.049348405455689866,197.0,137.0,37.0,23.0,551
 255,It's ok. Just tell him we're beauty pageant contestants.,1.4213197969543148,0.04495426755570375,197.0,129.0,53.0,15.0,551
@@ -277,7 +277,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 276,"Not to worry: In a moment, he'll change his mind.",1.416243654822335,0.045480508432455366,197.0,131.0,50.0,16.0,551
 277,Attention! Attention! Small hands on deck!,1.4145077720207253,0.048963616342585004,193.0,134.0,38.0,21.0,551
 277,"I knew about the wall, but no one told me about the permanent wave.",1.4145077720207253,0.04494028440390797,193.0,127.0,52.0,14.0,551
-277,We call this one the groper,1.4145077720207253,0.046125631644468534,193.0,129.0,48.0,16.0,551
+277,We call this one the groper,1.4145077720207253,0.04612563164446853,193.0,129.0,48.0,16.0,551
 277,It's a good thing Trump doesn't have the reading level necessary for The New Yorker.,1.4145077720207253,0.05112069238515833,193.0,138.0,30.0,25.0,551
 277,"Look, the land of the tweet and home of the depraved.",1.4145077720207253,0.047848625821927136,193.0,132.0,42.0,19.0,551
 277,Calm down. We're leaving.,1.4145077720207253,0.05005377565819507,193.0,136.0,34.0,23.0,551
@@ -320,8 +320,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 319,"Just keep rowing, it's just a tiny-handed blowhard.",1.4042553191489362,0.04808205540903504,188.0,130.0,40.0,18.0,551
 319,Looks like someone's Twitter feed is down.,1.4042553191489362,0.04925101663141043,188.0,132.0,36.0,20.0,551
 321,It's a populist wave.,1.403225806451613,0.04784154331709032,186.0,128.0,41.0,17.0,551
-321,"Tell it we're emigrating, not immigrating.",1.403225806451613,0.048445184546338865,186.0,129.0,39.0,18.0,551
-321,Hold On! This is when it usually reverses direction.,1.403225806451613,0.048445184546338865,186.0,129.0,39.0,18.0,551
+321,"Tell it we're emigrating, not immigrating.",1.403225806451613,0.04844518454633887,186.0,129.0,39.0,18.0,551
+321,Hold On! This is when it usually reverses direction.,1.403225806451613,0.04844518454633887,186.0,129.0,39.0,18.0,551
 321,Somehow trying to see the humor in it is only makes it worse.,1.403225806451613,0.04661081408241472,186.0,126.0,45.0,15.0,551
 321,Everything reminds me of him.,1.403225806451613,0.04534669460820523,186.0,124.0,49.0,13.0,551
 321,Careful - these's waves can grab you by the dingy.,1.403225806451613,0.04723018767899647,186.0,127.0,43.0,16.0,551
@@ -339,7 +339,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 333,This is where they drained the swamp.,1.4,0.0473752924146633,185.0,127.0,42.0,16.0,551
 339,It's just the overflow from draining the swamp.,1.3989071038251366,0.04514492945659098,183.0,122.0,49.0,12.0,551
 340,Of course that’s him. Look at the tiny hands.,1.3967391304347827,0.04995782358660869,184.0,131.0,33.0,20.0,551
-340,"I know waves, I have the best waves.",1.3967391304347827,0.046253702014598386,184.0,125.0,45.0,14.0,551
+340,"I know waves, I have the best waves.",1.3967391304347827,0.04625370201459839,184.0,125.0,45.0,14.0,551
 342,The waves are often biggest where it's shallow. Hang on!,1.3956043956043955,0.0472408149813239,182.0,125.0,42.0,15.0,551
 342,People told us we might run into waves of anti-immigrant sentiment.,1.3956043956043955,0.04527202553911645,182.0,122.0,48.0,12.0,551
 342,You Don't Understand! We Want to Leave!,1.3956043956043955,0.049744805474341035,182.0,129.0,34.0,19.0,551
@@ -395,7 +395,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 393,"Keep paddling and whatever you do, don't mention the tiny hands!",1.3793103448275863,0.049903740056124433,174.0,125.0,32.0,17.0,551
 393,Let' make rowing great again!,1.3793103448275863,0.047865028647472906,174.0,122.0,38.0,14.0,551
 393,Alright. Who tweeted?!,1.3793103448275863,0.04716587960982095,174.0,121.0,40.0,13.0,551
-397,"That's quite a feat, considering he doesn't know the meaning of the word anthropomorphic.",1.377906976744186,0.05030711018288239,172.0,124.0,31.0,17.0,551
+397,"That's quite a feat, considering he doesn't know the meaning of the word anthropomorphic.",1.377906976744186,0.050307110182882385,172.0,124.0,31.0,17.0,551
 398,Like we need reminding why we're all leaving,1.3757225433526012,0.05006315230836924,173.0,125.0,31.0,17.0,551
 398,Don't worry. It's just over-compensating for its tiny hands.,1.3757225433526012,0.04938730488622848,173.0,124.0,33.0,16.0,551
 398,I thought he was going to build a wall.,1.3757225433526012,0.04870207951206599,173.0,123.0,35.0,15.0,551
@@ -443,7 +443,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 440,"Look out, it's a gropenami!",1.366863905325444,0.05148350011770399,169.0,125.0,26.0,18.0,551
 440,"Just pretend we're all rich, white, Christian males, and he'll let us pass.",1.366863905325444,0.04867012709898017,169.0,121.0,34.0,14.0,551
 440,Looks like we are about to get groped!,1.366863905325444,0.052163139883487766,169.0,126.0,24.0,19.0,551
-440,Toss out Alec Baldwin now!,1.366863905325444,0.04644840295884053,169.0,118.0,40.0,11.0,551
+440,Toss out Alec Baldwin now!,1.366863905325444,0.046448402958840534,169.0,118.0,40.0,11.0,551
 440,Look! a Trumpe-l'œil.,1.366863905325444,0.04938849714220477,169.0,122.0,32.0,15.0,551
 440,The hair looks especially angry today.,1.366863905325444,0.05543649567908979,169.0,131.0,14.0,24.0,551
 440,It's the tiny hands that really creaps me out.,1.366863905325444,0.04867012709898017,169.0,121.0,34.0,14.0,551
@@ -479,7 +479,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 478,This is our wave of the future!,1.3597560975609757,0.05253359094532936,164.0,123.0,23.0,18.0,551
 479,Is she waving goodbye?,1.3592814371257484,0.051119462049242975,167.0,124.0,26.0,17.0,551
 479,We should have taken the Holland Tunnel,1.3592814371257484,0.050408873557254506,167.0,123.0,28.0,16.0,551
-479,Say he's brilliant and he'll wave you in.,1.3592814371257484,0.048956764594137864,167.0,121.0,32.0,14.0,551
+479,Say he's brilliant and he'll wave you in.,1.3592814371257484,0.04895676459413786,167.0,121.0,32.0,14.0,551
 482,Look out! It's a tycoonphoon!,1.3575757575757577,0.04859558676800869,165.0,119.0,33.0,13.0,551
 482,And when a butterfly flaps its wings in Moscow...,1.3575757575757577,0.05009341986071466,165.0,121.0,29.0,15.0,551
 482,Let's turn around. They've ammended their constitution down to 140 characters.,1.3575757575757577,0.05082578620492982,165.0,122.0,27.0,16.0,551
@@ -512,16 +512,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 510,Just keep rowing and bailing for four more years and we should be okay.,1.3540372670807452,0.048590328485982485,161.0,116.0,33.0,12.0,551
 510,"Whoa, we're not coming to America, we're leaving!",1.3540372670807452,0.04938278823566443,161.0,117.0,31.0,13.0,551
 510,"Don't be afraid! Check out his hands, he's overcompensating for a tiny under tow.",1.3540372670807452,0.05243299324032204,161.0,121.0,23.0,17.0,551
-514,"Wow, that's quite the pour-over!",1.3536585365853655,0.048733704934419586,164.0,119.0,32.0,13.0,551
+514,"Wow, that's quite the pour-over!",1.3536585365853655,0.04873370493441959,164.0,119.0,32.0,13.0,551
 514,Angry white squall!,1.3536585365853655,0.05243145517789157,164.0,124.0,22.0,18.0,551
-516,"I said we're emigrating, not immigrating.",1.3518518518518519,0.04990000139241922,162.0,119.0,29.0,14.0,551
-516,I think the new immigration policy is about to take effect.,1.3518518518518519,0.04833888359033945,162.0,117.0,33.0,12.0,551
-516,Looks like it's blowing over.,1.3518518518518519,0.04672563744409847,162.0,115.0,37.0,10.0,551
-516,Work visas? Hell no! We're with Melania.,1.3518518518518519,0.052154135476182695,162.0,122.0,23.0,17.0,551
-516,'Not my Tsunami',1.3518518518518519,0.0514137395174334,162.0,121.0,25.0,16.0,551
-516,Let's give it a chance.,1.3518518518518519,0.0514137395174334,162.0,121.0,25.0,16.0,551
-516,tell him we are a basket of deplorable,1.3518518518518519,0.04990000139241922,162.0,119.0,29.0,14.0,551
-516,"Don't worry, all the forecasts say it won't affect us.",1.3518518518518519,0.04912564404526331,162.0,118.0,31.0,13.0,551
+516,"I said we're emigrating, not immigrating.",1.351851851851852,0.04990000139241922,162.0,119.0,29.0,14.0,551
+516,I think the new immigration policy is about to take effect.,1.351851851851852,0.04833888359033945,162.0,117.0,33.0,12.0,551
+516,Looks like it's blowing over.,1.351851851851852,0.04672563744409847,162.0,115.0,37.0,10.0,551
+516,Work visas? Hell no! We're with Melania.,1.351851851851852,0.052154135476182695,162.0,122.0,23.0,17.0,551
+516,'Not my Tsunami',1.351851851851852,0.0514137395174334,162.0,121.0,25.0,16.0,551
+516,Let's give it a chance.,1.351851851851852,0.0514137395174334,162.0,121.0,25.0,16.0,551
+516,tell him we are a basket of deplorable,1.351851851851852,0.04990000139241922,162.0,119.0,29.0,14.0,551
+516,"Don't worry, all the forecasts say it won't affect us.",1.351851851851852,0.04912564404526331,162.0,118.0,31.0,13.0,551
 524,I told you we should have just climbed the wall.,1.3515151515151516,0.05144336548699238,165.0,124.0,24.0,17.0,551
 525,"Folks, let's all try to give the Apocalypse a fair chance.",1.35,0.0503134826948056,160.0,118.0,28.0,14.0,551
 525,"Okay, can we all agree this is the last Trump cartoon until the next election?",1.35,0.05185247578740111,160.0,120.0,24.0,16.0,551
@@ -529,7 +529,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 527,"Don't you worry your pretty little hands, Putin sent us.",1.3478260869565215,0.05157524019358704,161.0,121.0,24.0,16.0,551
 527,Once we cross the Sea of Tiny Hands it should be smooth sailing.,1.3478260869565215,0.04600572942750317,161.0,114.0,38.0,9.0,551
 527,Wow!! I never saw a tidal wave with such small hands!,1.3478260869565215,0.05305925842048479,161.0,123.0,20.0,18.0,551
-531,Quick everyone paddle left,1.3475609756097562,0.049382322857452664,164.0,121.0,29.0,14.0,551
+531,Quick everyone paddle left,1.3475609756097562,0.04938232285745266,164.0,121.0,29.0,14.0,551
 531,But we're not immigrants! We're just out on a boat ride!,1.3475609756097562,0.04784329015257228,164.0,119.0,33.0,12.0,551
 531,"Recalculating, ...",1.3475609756097562,0.04861889665254093,164.0,120.0,31.0,13.0,551
 534,We're about to go comb-overboard.,1.3459119496855343,0.04966845045334208,159.0,117.0,29.0,13.0,551
@@ -662,7 +662,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 657,#notourwave,1.3221476510067114,0.05152178667038431,149.0,114.0,22.0,13.0,551
 657,The last view of liberty.,1.3221476510067114,0.05063397851385358,149.0,113.0,24.0,12.0,551
 657,They weren't kidding about these new immigration policies making waves.,1.3221476510067114,0.04787186663834797,149.0,110.0,30.0,9.0,551
-657,Time for another 'Miracle on the Hudson'!,1.3221476510067114,0.054097861939361384,149.0,117.0,16.0,16.0,551
+657,Time for another 'Miracle on the Hudson'!,1.3221476510067114,0.05409786193936138,149.0,117.0,16.0,16.0,551
 657,At least we're not without a paddle.,1.3221476510067114,0.044940309864732325,149.0,107.0,36.0,6.0,551
 657,Who would have thought that global warming had a sense of humor?,1.3221476510067114,0.04973032333068207,149.0,112.0,26.0,11.0,551
 657,The tides have turned.,1.3221476510067114,0.05063397851385358,149.0,113.0,24.0,12.0,551
@@ -813,33 +813,33 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 810,It's the dreaded American comb-over wave!,1.3006993006993006,0.048654672570104425,143.0,109.0,25.0,9.0,551
 810,Coming into view next is the Mouth of the Hudson.,1.3006993006993006,0.05160190240313507,143.0,112.0,19.0,12.0,551
 810,"Ladies, prepare your flotation chastity devices!",1.3006993006993006,0.049656522422976884,143.0,110.0,23.0,10.0,551
-815,Nothing says New York like jazz hands!,1.297872340425532,0.053018970483316864,141.0,112.0,16.0,13.0,551
-815,It's the wave of populism!,1.297872340425532,0.0458452982644327,141.0,105.0,30.0,6.0,551
-815,Yes! It is the BIGGEST wave. It's Y-U-G-E!,1.297872340425532,0.04800443331758258,141.0,107.0,26.0,8.0,551
-815,"The one with the big tits can stay, the rest of you paddle back -you're disgusting!",1.297872340425532,0.05007054886187757,141.0,109.0,22.0,10.0,551
-815,"It's okay, we're white.",1.297872340425532,0.05007054886187757,141.0,109.0,22.0,10.0,551
-815,Making the sea great again?,1.297872340425532,0.046937282575246236,141.0,106.0,28.0,7.0,551
-815,"Cover your ""wherevers"".",1.297872340425532,0.05007054886187757,141.0,109.0,22.0,10.0,551
-815,"If you're feeling a bit queasy, try focusing on the horizon.",1.297872340425532,0.046937282575246236,141.0,106.0,28.0,7.0,551
-815,I thought he only claimed to walk on water.,1.297872340425532,0.05007054886187757,141.0,109.0,22.0,10.0,551
-815,It did say wail watching - I just thought it was a typo,1.297872340425532,0.0458452982644327,141.0,105.0,30.0,6.0,551
-815,What did he call us? A ship of what?,1.297872340425532,0.0458452982644327,141.0,105.0,30.0,6.0,551
-815,"""...And we end our tour with The Big Eastern Border Wave. Careful, ladies... it's a bit 'gropey' today.",1.297872340425532,0.046937282575246236,141.0,106.0,28.0,7.0,551
-815,"Don't worry, the Times says there's only a 10% chance of it breaking",1.297872340425532,0.046937282575246236,141.0,106.0,28.0,7.0,551
-815,"Brace yourselves, it's an American en(tidal)ment wave!",1.297872340425532,0.053018970483316864,141.0,112.0,16.0,13.0,551
-829,Keep paddling. The Trump wave of anti-immigrant hysteria is just metaphorical.,1.295774647887324,0.045569606006042214,142.0,106.0,30.0,6.0,551
+815,Nothing says New York like jazz hands!,1.2978723404255321,0.053018970483316864,141.0,112.0,16.0,13.0,551
+815,It's the wave of populism!,1.2978723404255321,0.0458452982644327,141.0,105.0,30.0,6.0,551
+815,Yes! It is the BIGGEST wave. It's Y-U-G-E!,1.2978723404255321,0.048004433317582584,141.0,107.0,26.0,8.0,551
+815,"The one with the big tits can stay, the rest of you paddle back -you're disgusting!",1.2978723404255321,0.05007054886187757,141.0,109.0,22.0,10.0,551
+815,"It's okay, we're white.",1.2978723404255321,0.05007054886187757,141.0,109.0,22.0,10.0,551
+815,Making the sea great again?,1.2978723404255321,0.046937282575246236,141.0,106.0,28.0,7.0,551
+815,"Cover your ""wherevers"".",1.2978723404255321,0.05007054886187757,141.0,109.0,22.0,10.0,551
+815,"If you're feeling a bit queasy, try focusing on the horizon.",1.2978723404255321,0.046937282575246236,141.0,106.0,28.0,7.0,551
+815,I thought he only claimed to walk on water.,1.2978723404255321,0.05007054886187757,141.0,109.0,22.0,10.0,551
+815,It did say wail watching - I just thought it was a typo,1.2978723404255321,0.0458452982644327,141.0,105.0,30.0,6.0,551
+815,What did he call us? A ship of what?,1.2978723404255321,0.0458452982644327,141.0,105.0,30.0,6.0,551
+815,"""...And we end our tour with The Big Eastern Border Wave. Careful, ladies... it's a bit 'gropey' today.",1.2978723404255321,0.046937282575246236,141.0,106.0,28.0,7.0,551
+815,"Don't worry, the Times says there's only a 10% chance of it breaking",1.2978723404255321,0.046937282575246236,141.0,106.0,28.0,7.0,551
+815,"Brace yourselves, it's an American en(tidal)ment wave!",1.2978723404255321,0.053018970483316864,141.0,112.0,16.0,13.0,551
+829,Keep paddling. The Trump wave of anti-immigrant hysteria is just metaphorical.,1.295774647887324,0.04556960600604221,142.0,106.0,30.0,6.0,551
 829,"Throw out a pussy, that'll distract it!",1.295774647887324,0.05172938929417393,142.0,112.0,18.0,12.0,551
 829,This too shall pass. Just like the Black Plague.,1.295774647887324,0.04771131137665377,142.0,108.0,26.0,8.0,551
-832,"Row faster, Hillary.",1.2949640287769784,0.04945035963456586,139.0,107.0,23.0,9.0,551
+832,"Row faster, Hillary.",1.2949640287769784,0.049450359634565864,139.0,107.0,23.0,9.0,551
 832,GIVE ME LIBERTY or GIVE ME DEPTH,1.2949640287769784,0.0483846427436701,139.0,106.0,25.0,8.0,551
-832,"Send back your immigrants, your tired, your hungry and your poor.",1.2949640287769784,0.04945035963456586,139.0,107.0,23.0,9.0,551
-832,Oh no. PoseiDon.,1.2949640287769784,0.04945035963456586,139.0,107.0,23.0,9.0,551
+832,"Send back your immigrants, your tired, your hungry and your poor.",1.2949640287769784,0.049450359634565864,139.0,107.0,23.0,9.0,551
+832,Oh no. PoseiDon.,1.2949640287769784,0.049450359634565864,139.0,107.0,23.0,9.0,551
 832,Maybe it won't be so bad.,1.2949640287769784,0.050493588529071806,139.0,108.0,21.0,10.0,551
-832,Remember: I voted to take the ferry.,1.2949640287769784,0.04945035963456586,139.0,107.0,23.0,9.0,551
+832,Remember: I voted to take the ferry.,1.2949640287769784,0.049450359634565864,139.0,107.0,23.0,9.0,551
 832,"No worries, it's only El Ninconpoopo",1.2949640287769784,0.05251791419747967,139.0,110.0,17.0,12.0,551
 832,We were warned about a wave of fascism engulfing our country.,1.2949640287769784,0.050493588529071806,139.0,108.0,21.0,10.0,551
-832,"Hold on, our only hope is to ride this one out!",1.2949640287769784,0.04945035963456586,139.0,107.0,23.0,9.0,551
-832,Don't worry. It's just populist posturing.,1.2949640287769784,0.04945035963456586,139.0,107.0,23.0,9.0,551
+832,"Hold on, our only hope is to ride this one out!",1.2949640287769784,0.049450359634565864,139.0,107.0,23.0,9.0,551
+832,Don't worry. It's just populist posturing.,1.2949640287769784,0.049450359634565864,139.0,107.0,23.0,9.0,551
 842,Who has a H-1B temporary fashion model visa handy?,1.2928571428571431,0.048083975629902284,140.0,107.0,25.0,8.0,551
 842,"Let's wait four years, then try again.""",1.2928571428571431,0.049141058548792416,140.0,108.0,23.0,9.0,551
 842,Don't worry. Nate Silver said the weather would be fine today.,1.2928571428571431,0.049141058548792416,140.0,108.0,23.0,9.0,551
@@ -882,11 +882,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 880,And so it begins.,1.286764705882353,0.04885183708332248,136.0,105.0,23.0,8.0,551
 880,It's a tso-sue-me!,1.286764705882353,0.04291665966786429,136.0,100.0,33.0,3.0,551
 880,The Old Man-Elect and the Sea,1.286764705882353,0.051032998247827435,136.0,107.0,19.0,10.0,551
-880,I thought he was only building a wall!,1.286764705882353,0.046568627450980386,136.0,103.0,27.0,6.0,551
+880,I thought he was only building a wall!,1.286764705882353,0.04656862745098039,136.0,103.0,27.0,6.0,551
 880,This is the result when you combine the new climate change policy with the new immigration plan.,1.286764705882353,0.04995432361957392,136.0,106.0,21.0,9.0,551
 880,"Okay masses, start huddling!",1.286764705882353,0.04772388840551284,136.0,104.0,25.0,7.0,551
 880,Who knew coming to America could be so hairy!,1.286764705882353,0.04772388840551284,136.0,104.0,25.0,7.0,551
-880,Hold on tight - we might get swamped by a huge metaphor!,1.286764705882353,0.046568627450980386,136.0,103.0,27.0,6.0,551
+880,Hold on tight - we might get swamped by a huge metaphor!,1.286764705882353,0.04656862745098039,136.0,103.0,27.0,6.0,551
 880,"If we can make it through there, we'll make it anywhere",1.286764705882353,0.04772388840551284,136.0,104.0,25.0,7.0,551
 880,Oh no! We're stuck in a hackneyed political cartoon about Donald Trump!,1.286764705882353,0.051032998247827435,136.0,107.0,19.0,10.0,551
 880,"Don’t worry, the pundits said don’t take him seriously.",1.286764705882353,0.04538396854390949,136.0,102.0,29.0,5.0,551
@@ -894,7 +894,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 880,The crest appears to be receding.,1.286764705882353,0.04416754621801994,136.0,101.0,31.0,4.0,551
 880,Look out...it's the Great Weave!,1.286764705882353,0.05208934029181399,136.0,108.0,17.0,11.0,551
 880,Does anyone else smell tic tacs?,1.286764705882353,0.04995432361957392,136.0,106.0,21.0,9.0,551
-880,"It looks really bad, but we are hoping it will just blow over.",1.286764705882353,0.046568627450980386,136.0,103.0,27.0,6.0,551
+880,"It looks really bad, but we are hoping it will just blow over.",1.286764705882353,0.04656862745098039,136.0,103.0,27.0,6.0,551
 880,It's not the size of the wave that frightens me...it's all of those little hands.,1.286764705882353,0.04995432361957392,136.0,106.0,21.0,9.0,551
 880,Hurricane Donald about to make landfall,1.286764705882353,0.051032998247827435,136.0,107.0,19.0,10.0,551
 880,Let's make the ocean great again !,1.286764705882353,0.051032998247827435,136.0,107.0,19.0,10.0,551
@@ -910,7 +910,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 880,We Should Have Voted,1.286764705882353,0.04885183708332248,136.0,105.0,23.0,8.0,551
 880,Don't worry - it might grab but it won't get you wet.,1.286764705882353,0.05208934029181399,136.0,108.0,17.0,11.0,551
 880,"My my, what small hands you have.",1.286764705882353,0.05414022807288193,136.0,110.0,13.0,13.0,551
-880,The tides have changed and they have small hands.,1.286764705882353,0.046568627450980386,136.0,103.0,27.0,6.0,551
+880,The tides have changed and they have small hands.,1.286764705882353,0.04656862745098039,136.0,103.0,27.0,6.0,551
 880,"There's got to be a ""little dingy"" joke here somewhere...anyone?",1.286764705882353,0.04995432361957392,136.0,106.0,21.0,9.0,551
 880,Did we come at a bad time?,1.286764705882353,0.04416754621801994,136.0,101.0,31.0,4.0,551
 880,"Don't worry folks--unless you're poor, a member of the huddled masses, or yearning to be free--he won't hurt you.",1.286764705882353,0.04772388840551284,136.0,104.0,25.0,7.0,551
@@ -987,21 +987,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 980,Don't panic. Small hands. All tweet ... no threat.,1.2781954887218046,0.04695487216840902,133.0,102.0,25.0,6.0,551
 980,We should have acted sooner when when we saw the water turned orange.,1.2781954887218046,0.05046309067040849,133.0,105.0,19.0,9.0,551
 980,Don't worry. He lies like a rug.,1.2781954887218046,0.05157949870406471,133.0,106.0,17.0,10.0,551
-980,"Yes, I know folks, we have to thank our best experts for not seeing this one coming.",1.2781954887218046,0.045725691397713014,133.0,101.0,27.0,5.0,551
+980,"Yes, I know folks, we have to thank our best experts for not seeing this one coming.",1.2781954887218046,0.04572569139771301,133.0,101.0,27.0,5.0,551
 980,Look out...it's the Great Weave!,1.2781954887218046,0.04815268618576098,133.0,103.0,23.0,7.0,551
 980,Please tell me we're all in the same nightmare.,1.2781954887218046,0.05046309067040849,133.0,105.0,19.0,9.0,551
 980,I think we're gonna need a bigger boat...,1.2781954887218046,0.04932141881026054,133.0,104.0,21.0,8.0,551
 980,"I thought this was about ""huddled masses"", not ""muddled asses"".",1.2781954887218046,0.05157949870406471,133.0,106.0,17.0,10.0,551
 980,"It won't hit us, I voted for it.",1.2781954887218046,0.05157949870406471,133.0,106.0,17.0,10.0,551
-980,I thought he said he was going to drain the swamp.,1.2781954887218046,0.04446254251891293,133.0,100.0,29.0,4.0,551
+980,I thought he said he was going to drain the swamp.,1.2781954887218046,0.044462542518912934,133.0,100.0,29.0,4.0,551
 980,"But we're tired, we're poor!",1.2781954887218046,0.04932141881026054,133.0,104.0,21.0,8.0,551
-980,Don't worry folks. This tweet storm shall pass soon.,1.2781954887218046,0.04446254251891293,133.0,100.0,29.0,4.0,551
-980,It's not as bad as it looks. Right?,1.2781954887218046,0.04446254251891293,133.0,100.0,29.0,4.0,551
+980,Don't worry folks. This tweet storm shall pass soon.,1.2781954887218046,0.044462542518912934,133.0,100.0,29.0,4.0,551
+980,It's not as bad as it looks. Right?,1.2781954887218046,0.044462542518912934,133.0,100.0,29.0,4.0,551
 980,Just riding the weave...,1.2781954887218046,0.04815268618576098,133.0,103.0,23.0,7.0,551
 980,Why'd he sink the ferry? He carried Staten Island!,1.2781954887218046,0.04695487216840902,133.0,102.0,25.0,6.0,551
 980,"I thought it was, 'give me liberty OR give me death.'",1.2781954887218046,0.04695487216840902,133.0,102.0,25.0,6.0,551
 980,Argh! They warned us Trump was the wave of the future.,1.2781954887218046,0.04695487216840902,133.0,102.0,25.0,6.0,551
-980,Just keep the bow pointed into the tantrum!,1.2781954887218046,0.045725691397713014,133.0,101.0,27.0,5.0,551
+980,Just keep the bow pointed into the tantrum!,1.2781954887218046,0.04572569139771301,133.0,101.0,27.0,5.0,551
 980,"Small hands, but a big under tow",1.2781954887218046,0.05046309067040849,133.0,105.0,19.0,9.0,551
 980,Hang on tight! We've got four years of this.,1.2781954887218046,0.04932141881026054,133.0,104.0,21.0,8.0,551
 980,Is this what they mean by climate change?,1.2781954887218046,0.04815268618576098,133.0,103.0,23.0,7.0,551
@@ -1011,28 +1011,28 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 980,Get down! Deadly comb-over to the starboard.,1.2781954887218046,0.04932141881026054,133.0,104.0,21.0,8.0,551
 980,Let's go back to Syria.,1.2781954887218046,0.04932141881026054,133.0,104.0,21.0,8.0,551
 980,I thought he was just going to build the wall.,1.2781954887218046,0.04815268618576098,133.0,103.0,23.0,7.0,551
-980,It really is huge!,1.2781954887218046,0.04446254251891293,133.0,100.0,29.0,4.0,551
+980,It really is huge!,1.2781954887218046,0.044462542518912934,133.0,100.0,29.0,4.0,551
 980,I thought storm Donald wasn't due until the 20th!!,1.2781954887218046,0.04695487216840902,133.0,102.0,25.0,6.0,551
-980,On your right is the Statue of Liberty. Directly before you is what used to be the United Nations.,1.2781954887218046,0.04446254251891293,133.0,100.0,29.0,4.0,551
+980,On your right is the Statue of Liberty. Directly before you is what used to be the United Nations.,1.2781954887218046,0.044462542518912934,133.0,100.0,29.0,4.0,551
 980,Tiny hands! Lookout!,1.2781954887218046,0.05267224936449324,133.0,107.0,15.0,11.0,551
 980,"Stop yelling ""all hands on deck""!",1.2781954887218046,0.05267224936449324,133.0,107.0,15.0,11.0,551
 980,The press are already calling it Trump's Watergate.,1.2781954887218046,0.05157949870406471,133.0,106.0,17.0,10.0,551
 980,And here we have the Great White Wave.,1.2781954887218046,0.04815268618576098,133.0,103.0,23.0,7.0,551
-980,It's definitely headed toward Wall Street.,1.2781954887218046,0.045725691397713014,133.0,101.0,27.0,5.0,551
+980,It's definitely headed toward Wall Street.,1.2781954887218046,0.04572569139771301,133.0,101.0,27.0,5.0,551
 980,Abandon ship! Every woman for herself!,1.2781954887218046,0.04932141881026054,133.0,104.0,21.0,8.0,551
 980,Give me your racist and your ill-read masses,1.2781954887218046,0.05267224936449324,133.0,107.0,15.0,11.0,551
 980,Why do I see a comb-over in everything I look at nowadays?,1.2781954887218046,0.04932141881026054,133.0,104.0,21.0,8.0,551
-980,I didn't elect this either but we'll just have to ride it out,1.2781954887218046,0.04446254251891293,133.0,100.0,29.0,4.0,551
+980,I didn't elect this either but we'll just have to ride it out,1.2781954887218046,0.044462542518912934,133.0,100.0,29.0,4.0,551
 980,I guess we underestimated the changing tides again.,1.2781954887218046,0.04815268618576098,133.0,103.0,23.0,7.0,551
 980,"On second thought, let's go back.",1.2781954887218046,0.05046309067040849,133.0,105.0,19.0,9.0,551
 980,"Give me your tired, your poor....never mind.",1.2781954887218046,0.04932141881026054,133.0,104.0,21.0,8.0,551
 980,The President-Elect welcomes you to the United States.,1.2781954887218046,0.05267224936449324,133.0,107.0,15.0,11.0,551
 980,"'I thought Trump said, ""...a wall.""'",1.2781954887218046,0.05157949870406471,133.0,106.0,17.0,10.0,551
-980,Merely the storm before the calm.,1.2781954887218046,0.04446254251891293,133.0,100.0,29.0,4.0,551
+980,Merely the storm before the calm.,1.2781954887218046,0.044462542518912934,133.0,100.0,29.0,4.0,551
 980,And here we have a striking example of Trump l'oeil.,1.2781954887218046,0.05157949870406471,133.0,106.0,17.0,10.0,551
 980,Hold on -- it's a great white wail!,1.2781954887218046,0.04932141881026054,133.0,104.0,21.0,8.0,551
 980,"Not worried about the hair, but the big mouth and small hands are scary.",1.2781954887218046,0.05157949870406471,133.0,106.0,17.0,10.0,551
-980,Populist wave!,1.2781954887218046,0.045725691397713014,133.0,101.0,27.0,5.0,551
+980,Populist wave!,1.2781954887218046,0.04572569139771301,133.0,101.0,27.0,5.0,551
 1035,The Hugely Imperfect Storm,1.2761194029850746,0.051235209464768235,134.0,107.0,17.0,10.0,551
 1035,"When you’re a wave, they let you do it. You can do anything.",1.2761194029850746,0.04783705819755782,134.0,104.0,23.0,7.0,551
 1035,Entitled wave!,1.2761194029850746,0.0489959690957387,134.0,105.0,21.0,8.0,551
@@ -1042,15 +1042,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1035,Stow the oars and ready the hairspray!,1.2761194029850746,0.0489959690957387,134.0,105.0,21.0,8.0,551
 1035,"Wow, so this is what they mean by 'life imitating art'.",1.2761194029850746,0.0489959690957387,134.0,105.0,21.0,8.0,551
 1035,A wave with a comb-over . . . only in America.,1.2761194029850746,0.052318902315823916,134.0,108.0,15.0,11.0,551
-1044,Guard your booty!,1.2740740740740741,0.04979741116928703,135.0,107.0,19.0,9.0,551
-1044,"If you think this looks scary, you should read his twitter.",1.2740740740740741,0.048674673492993134,135.0,106.0,21.0,8.0,551
+1044,Guard your booty!,1.274074074074074,0.04979741116928703,135.0,107.0,19.0,9.0,551
+1044,"If you think this looks scary, you should read his twitter.",1.274074074074074,0.048674673492993134,135.0,106.0,21.0,8.0,551
 1046,"Every man for himself! And, ladies, guard your vaginas!",1.2727272727272727,0.05167885705796982,132.0,106.0,16.0,10.0,551
 1046,Let's go back and try the wall again.,1.2727272727272727,0.04939011464665993,132.0,104.0,20.0,8.0,551
 1046,Who is going to pay for the wave?,1.2727272727272727,0.05054744153579036,132.0,105.0,18.0,9.0,551
 1046,"Oh thanks, we know, we were actually just leaving.",1.2727272727272727,0.04574278261975778,132.0,101.0,26.0,5.0,551
-1046,You women in the boat??? --Careful!-- this one's a grabber!,1.2727272727272727,0.04446056388300178,132.0,100.0,28.0,4.0,551
+1046,You women in the boat??? --Careful!-- this one's a grabber!,1.2727272727272727,0.044460563883001784,132.0,100.0,28.0,4.0,551
 1046,"""Here be orange-haired dragons"".",1.2727272727272727,0.05054744153579036,132.0,105.0,18.0,9.0,551
-1046,"It's true, Trump towers!",1.2727272727272727,0.04446056388300178,132.0,100.0,28.0,4.0,551
+1046,"It's true, Trump towers!",1.2727272727272727,0.044460563883001784,132.0,100.0,28.0,4.0,551
 1046,I think we should just let it crash into us and see what happens.,1.2727272727272727,0.05054744153579036,132.0,105.0,18.0,9.0,551
 1046,The wave is huge . . . but look at those tiny hands!,1.2727272727272727,0.04939011464665993,132.0,104.0,20.0,8.0,551
 1046,He acts like he won the popular vote.,1.2727272727272727,0.05167885705796982,132.0,106.0,16.0,10.0,551
@@ -1075,7 +1075,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1046,We are the ghosts of immigrants past.,1.2727272727272727,0.05167885705796982,132.0,106.0,16.0,10.0,551
 1046,We're going to need a huger boat.,1.2727272727272727,0.04939011464665993,132.0,104.0,20.0,8.0,551
 1046,We were just leaving!,1.2727272727272727,0.048205010152537885,132.0,103.0,22.0,7.0,551
-1046,"First the wall, now this?",1.2727272727272727,0.04446056388300178,132.0,100.0,28.0,4.0,551
+1046,"First the wall, now this?",1.2727272727272727,0.044460563883001784,132.0,100.0,28.0,4.0,551
 1046,"Hair today, gone tomorrow.",1.2727272727272727,0.04939011464665993,132.0,104.0,20.0,8.0,551
 1046,Let's bail.,1.2727272727272727,0.05054744153579036,132.0,105.0,18.0,9.0,551
 1046,Should we take this literally or seriously?,1.2727272727272727,0.048205010152537885,132.0,103.0,22.0,7.0,551
@@ -1086,7 +1086,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1046,There must be an easier way to get to Jersey.,1.2727272727272727,0.048205010152537885,132.0,103.0,22.0,7.0,551
 1046,It Came from Queens,1.2727272727272727,0.05054744153579036,132.0,105.0,18.0,9.0,551
 1046,Wow. I wasn’t taking ’a sea change’ so literally.,1.2727272727272727,0.04699002641840444,132.0,102.0,24.0,6.0,551
-1046,"Ok, ok it was a landslide, not a tsunami!",1.2727272727272727,0.04446056388300178,132.0,100.0,28.0,4.0,551
+1046,"Ok, ok it was a landslide, not a tsunami!",1.2727272727272727,0.044460563883001784,132.0,100.0,28.0,4.0,551
 1046,Drain the harbor!,1.2727272727272727,0.05054744153579036,132.0,105.0,18.0,9.0,551
 1046,"Holy guacamole, I didn't know he was going to build a wave, too.",1.2727272727272727,0.04699002641840444,132.0,102.0,24.0,6.0,551
 1046,i think the small hands make it less intimidating...,1.2727272727272727,0.05054744153579036,132.0,105.0,18.0,9.0,551
@@ -1144,8 +1144,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1141,What do you expect? It's Jersey.,1.2686567164179106,0.04259058497961228,134.0,101.0,30.0,3.0,551
 1141,"Now we want only your rested, your rich, your comfortable elite yearning to breathe free.",1.2686567164179106,0.05098533007977795,134.0,108.0,16.0,10.0,551
 1141,So this is what he meant by extreme wetting.,1.2686567164179106,0.04637478281143448,134.0,104.0,24.0,6.0,551
-1146,I lift my lamp beside the golden boor.,1.2671755725190839,0.04945317836471,131.0,104.0,19.0,8.0,551
-1146,Hold on tight! We're about to be in for a Trumpy ride!,1.2671755725190839,0.04445061981555059,131.0,100.0,27.0,4.0,551
+1146,I lift my lamp beside the golden boor.,1.267175572519084,0.04945317836471,131.0,104.0,19.0,8.0,551
+1146,Hold on tight! We're about to be in for a Trumpy ride!,1.267175572519084,0.04445061981555059,131.0,100.0,27.0,4.0,551
 1148,We're entering an oxymoron.,1.2666666666666666,0.05064536516517782,135.0,109.0,16.0,10.0,551
 1149,Don't let its small whitewater hands deceive you. This wave is unpresidented.,1.2635658914728682,0.051054030512866236,129.0,104.0,16.0,9.0,551
 1149,Donnie Tsunami,1.2635658914728682,0.0498536859279324,129.0,103.0,18.0,8.0,551
@@ -1182,49 +1182,49 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1181,What changed? We're huddled and yearning.,1.2598425196850394,0.04771048382553094,127.0,100.0,21.0,6.0,551
 1181,Wave goodbye everybody!,1.2598425196850394,0.053862901440886506,127.0,105.0,11.0,11.0,551
 1181,I still think we should have waited for Christie to reopen the George Washington Bridge!,1.2598425196850394,0.046382172112929,127.0,99.0,23.0,5.0,551
-1181,"Hurry, huddle your masses!",1.2598425196850394,0.04900280240781266,127.0,101.0,19.0,7.0,551
+1181,"Hurry, huddle your masses!",1.2598425196850394,0.049002802407812664,127.0,101.0,19.0,7.0,551
 1181,I'm scared. Let's row back to Syria.,1.2598425196850394,0.0526899209970728,127.0,104.0,13.0,10.0,551
 1181,I didn't think it would be a water wall.,1.2598425196850394,0.04501468108251449,127.0,98.0,25.0,4.0,551
-1181,I lift my lamp beside the golden boor.,1.2598425196850394,0.051490226234936,127.0,103.0,15.0,9.0,551
+1181,I lift my lamp beside the golden boor.,1.2598425196850394,0.051490226234935994,127.0,103.0,15.0,9.0,551
 1181,so this is how Hillary felt during the compaign.,1.2598425196850394,0.04771048382553094,127.0,100.0,21.0,6.0,551
 1181,"California, here we come!",1.2598425196850394,0.04501468108251449,127.0,98.0,25.0,4.0,551
 1181,They call it El Blanco.,1.2598425196850394,0.04771048382553094,127.0,100.0,21.0,6.0,551
 1181,He's trying to brand the ocean!,1.2598425196850394,0.05026190426925757,127.0,102.0,17.0,8.0,551
 1181,"It's ""give me your masses"" not misses.",1.2598425196850394,0.04501468108251449,127.0,98.0,25.0,4.0,551
 1181,Steady now. He alone will save us.,1.2598425196850394,0.05026190426925757,127.0,102.0,17.0,8.0,551
-1181,He made the wave great again.,1.2598425196850394,0.04900280240781266,127.0,101.0,19.0,7.0,551
-1181,Are we sure Canada is full?,1.2598425196850394,0.04900280240781266,127.0,101.0,19.0,7.0,551
+1181,He made the wave great again.,1.2598425196850394,0.049002802407812664,127.0,101.0,19.0,7.0,551
+1181,Are we sure Canada is full?,1.2598425196850394,0.049002802407812664,127.0,101.0,19.0,7.0,551
 1181,It was the perfect storm.,1.2598425196850394,0.05026190426925757,127.0,102.0,17.0,8.0,551
 1181,Was he saying vetting or wetting?,1.2598425196850394,0.05026190426925757,127.0,102.0,17.0,8.0,551
-1181,I guess we'll have to yearn to breathe free someplace else.,1.2598425196850394,0.04900280240781266,127.0,101.0,19.0,7.0,551
+1181,I guess we'll have to yearn to breathe free someplace else.,1.2598425196850394,0.049002802407812664,127.0,101.0,19.0,7.0,551
 1181,Let's just wait and see if he's all talk.,1.2598425196850394,0.04360432473972744,127.0,97.0,27.0,3.0,551
 1181,On your right is the Statue of Liberty.,1.2598425196850394,0.04360432473972744,127.0,97.0,27.0,3.0,551
 1181,Make salt water great again!,1.2598425196850394,0.053862901440886506,127.0,105.0,11.0,11.0,551
-1181,"Just remember, it's more afraid of you than you are of it.",1.2598425196850394,0.04900280240781266,127.0,101.0,19.0,7.0,551
-1181,What's that tweeting noise?,1.2598425196850394,0.051490226234936,127.0,103.0,15.0,9.0,551
-1181,It is that orange hair monster with small hands. Speaking Russian.,1.2598425196850394,0.051490226234936,127.0,103.0,15.0,9.0,551
+1181,"Just remember, it's more afraid of you than you are of it.",1.2598425196850394,0.049002802407812664,127.0,101.0,19.0,7.0,551
+1181,What's that tweeting noise?,1.2598425196850394,0.051490226234935994,127.0,103.0,15.0,9.0,551
+1181,It is that orange hair monster with small hands. Speaking Russian.,1.2598425196850394,0.051490226234935994,127.0,103.0,15.0,9.0,551
 1181,9/11 a liberty threat; 11/9 a comb-over regret.,1.2598425196850394,0.04771048382553094,127.0,100.0,21.0,6.0,551
-1181,"Tremendous wave, tiny hands - It's the Tsunami-Elect!",1.2598425196850394,0.051490226234936,127.0,103.0,15.0,9.0,551
-1181,"So, is that the wretched refuse of their teeming shore?",1.2598425196850394,0.04900280240781266,127.0,101.0,19.0,7.0,551
+1181,"Tremendous wave, tiny hands - It's the Tsunami-Elect!",1.2598425196850394,0.051490226234935994,127.0,103.0,15.0,9.0,551
+1181,"So, is that the wretched refuse of their teeming shore?",1.2598425196850394,0.049002802407812664,127.0,101.0,19.0,7.0,551
 1181,It's the populist wave that was rejected by New York.,1.2598425196850394,0.046382172112929,127.0,99.0,23.0,5.0,551
-1181,Quick! Drop the anchor babies!,1.2598425196850394,0.051490226234936,127.0,103.0,15.0,9.0,551
+1181,Quick! Drop the anchor babies!,1.2598425196850394,0.051490226234935994,127.0,103.0,15.0,9.0,551
 1181,Did we decide on Canada or Cuba?,1.2598425196850394,0.046382172112929,127.0,99.0,23.0,5.0,551
-1181,Hold tight as we enter the mouth of lies.,1.2598425196850394,0.04900280240781266,127.0,101.0,19.0,7.0,551
+1181,Hold tight as we enter the mouth of lies.,1.2598425196850394,0.049002802407812664,127.0,101.0,19.0,7.0,551
 1181,Who knew waves could be orange?,1.2598425196850394,0.04771048382553094,127.0,100.0,21.0,6.0,551
-1181,This wave is not 'unpresidented'...,1.2598425196850394,0.04900280240781266,127.0,101.0,19.0,7.0,551
+1181,This wave is not 'unpresidented'...,1.2598425196850394,0.049002802407812664,127.0,101.0,19.0,7.0,551
 1181,"Don't be afraid, he just wants to make us great again!",1.2598425196850394,0.04771048382553094,127.0,100.0,21.0,6.0,551
 1181,"I've decided to take him literarily, but not seriously.",1.2598425196850394,0.04771048382553094,127.0,100.0,21.0,6.0,551
 1181,Is this what they meant by Trumped up trickle down?,1.2598425196850394,0.04771048382553094,127.0,100.0,21.0,6.0,551
-1181,Welcome to 2017!,1.2598425196850394,0.04900280240781266,127.0,101.0,19.0,7.0,551
+1181,Welcome to 2017!,1.2598425196850394,0.049002802407812664,127.0,101.0,19.0,7.0,551
 1181,What little hands for such a bigly wave!,1.2598425196850394,0.04771048382553094,127.0,100.0,21.0,6.0,551
-1181,"Ha, ha! We all know not to take him seriously! Don't we...........................",1.2598425196850394,0.04900280240781266,127.0,101.0,19.0,7.0,551
+1181,"Ha, ha! We all know not to take him seriously! Don't we...........................",1.2598425196850394,0.049002802407812664,127.0,101.0,19.0,7.0,551
 1181,'According to the polls there's no way the trump wave will crash into us...I'm sure we'll be just fine',1.2598425196850394,0.046382172112929,127.0,99.0,23.0,5.0,551
-1181,"Man, that wave is yuge.",1.2598425196850394,0.04900280240781266,127.0,101.0,19.0,7.0,551
-1181,"That hair looks all too familiar. Ladies, cover your laps.",1.2598425196850394,0.051490226234936,127.0,103.0,15.0,9.0,551
+1181,"Man, that wave is yuge.",1.2598425196850394,0.049002802407812664,127.0,101.0,19.0,7.0,551
+1181,"That hair looks all too familiar. Ladies, cover your laps.",1.2598425196850394,0.051490226234935994,127.0,103.0,15.0,9.0,551
 1181,It's called the new wave of politics.,1.2598425196850394,0.04360432473972744,127.0,97.0,27.0,3.0,551
 1181,"Wow, the little hands, too.",1.2598425196850394,0.05026190426925757,127.0,102.0,17.0,8.0,551
 1181,Trump-nami!,1.2598425196850394,0.04771048382553094,127.0,100.0,21.0,6.0,551
-1181,Looks like getting out of the US will be as hard as getting in from now on.,1.2598425196850394,0.04900280240781266,127.0,101.0,19.0,7.0,551
+1181,Looks like getting out of the US will be as hard as getting in from now on.,1.2598425196850394,0.049002802407812664,127.0,101.0,19.0,7.0,551
 1227,REVERSE! We need to rethink this!,1.2578125,0.04990898920529342,128.0,103.0,17.0,8.0,551
 1227,"Don't worry, Lady Liberty has weathered more than this...",1.2578125,0.048660823127348575,128.0,102.0,19.0,7.0,551
 1227,I think it's another Chinese hoax.,1.2578125,0.04470773109029495,128.0,99.0,25.0,4.0,551
@@ -1351,7 +1351,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1343,Making America swell again is starting to look violent,1.248,0.049063487508040175,125.0,101.0,17.0,7.0,551
 1343,"Don't worry, folks. Your pre-existing conditions are still covered.",1.248,0.04197695220152403,125.0,96.0,27.0,2.0,551
 1343,"Wow, the Wave of Revulsion appearing during a Storm of Controversy.",1.248,0.051626449835144056,125.0,103.0,13.0,9.0,551
-1343,A rising tide swamps all boats.,1.248,0.04494584555059639,125.0,98.0,23.0,4.0,551
+1343,A rising tide swamps all boats.,1.248,0.044945845550596386,125.0,98.0,23.0,4.0,551
 1343,So much for huddled masses yearning to be free....,1.248,0.04773042581401404,125.0,100.0,19.0,6.0,551
 1343,"Relax, we're smuggling beauty queens.",1.248,0.04635904755624927,125.0,99.0,21.0,5.0,551
 1343,I think we should have stayed in the swamp.,1.248,0.05036127544568475,125.0,102.0,15.0,8.0,551
@@ -1376,14 +1376,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1363,Let's just wait and see if it goes away in four years.,1.2439024390243902,0.04371991022098887,123.0,96.0,24.0,3.0,551
 1363,Global warming!,1.2439024390243902,0.050772341450393485,123.0,101.0,14.0,8.0,551
 1363,The Wave of Tyranny!,1.2439024390243902,0.05206832701057475,123.0,102.0,12.0,9.0,551
-1363,"Don't blame me, I voted for Clinton.",1.2439024390243902,0.045218475992188534,123.0,97.0,22.0,4.0,551
+1363,"Don't blame me, I voted for Clinton.",1.2439024390243902,0.04521847599218853,123.0,97.0,22.0,4.0,551
 1363,My nausea comes in waves.,1.2439024390243902,0.04666894676742698,123.0,98.0,20.0,5.0,551
 1363,I thought we would make it before Trump became President.,1.2439024390243902,0.04944239714081975,123.0,100.0,16.0,7.0,551
 1363,Your tiny hands are no match for our diversity!,1.2439024390243902,0.04371991022098887,123.0,96.0,24.0,3.0,551
 1363,Maybe it'll pivot.,1.2439024390243902,0.04944239714081975,123.0,100.0,16.0,7.0,551
 1363,Is it my imagination or is this what the next four years will really look like?,1.2439024390243902,0.04944239714081975,123.0,100.0,16.0,7.0,551
 1363,This is unprecedented.,1.2439024390243902,0.050772341450393485,123.0,101.0,14.0,8.0,551
-1363,This is the last time I rely on CNN's hurricane tracking poll.,1.2439024390243902,0.045218475992188534,123.0,97.0,22.0,4.0,551
+1363,This is the last time I rely on CNN's hurricane tracking poll.,1.2439024390243902,0.04521847599218853,123.0,97.0,22.0,4.0,551
 1363,Don't take it literally.,1.2439024390243902,0.04807567590482465,123.0,99.0,18.0,6.0,551
 1363,Nothing to worry about--he's all show. Believe me.,1.2439024390243902,0.04807567590482465,123.0,99.0,18.0,6.0,551
 1363,And this is where global warming submerged Ellis Island.,1.2439024390243902,0.04944239714081975,123.0,100.0,16.0,7.0,551
@@ -1579,9 +1579,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1576,"Don't give me your tired, your poor!",1.2268907563025209,0.046890148802078827,119.0,97.0,17.0,5.0,551
 1576,I vote to ride the wave...,1.2268907563025209,0.04838507939415152,119.0,98.0,15.0,6.0,551
 1576,Even Lady Liberty flirted with me.,1.2268907563025209,0.04983518597613133,119.0,99.0,13.0,7.0,551
-1576,"Alex Baldwin, ladies and gentlemen.",1.2268907563025209,0.04534596124666279,119.0,96.0,19.0,4.0,551
+1576,"Alex Baldwin, ladies and gentlemen.",1.2268907563025209,0.045345961246662785,119.0,96.0,19.0,4.0,551
 1576,"No, he only tweets at low tide.",1.2268907563025209,0.04208796139977964,119.0,94.0,23.0,2.0,551
-1576,"I'd say he was a nightmare, if we weren't all in the same boat.",1.2268907563025209,0.04534596124666279,119.0,96.0,19.0,4.0,551
+1576,"I'd say he was a nightmare, if we weren't all in the same boat.",1.2268907563025209,0.045345961246662785,119.0,96.0,19.0,4.0,551
 1576,You were right; it was 'amber waves of pain.',1.2268907563025209,0.04983518597613133,119.0,99.0,13.0,7.0,551
 1576,LEFT FULL RUDDER !,1.2268907563025209,0.051244273968638177,119.0,100.0,11.0,8.0,551
 1576,So tell me again why they didn't do something about climate change when they had the chance?,1.2268907563025209,0.04983518597613133,119.0,99.0,13.0,7.0,551
@@ -1933,7 +1933,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1930,Don't worry-they're small hands.,1.2035398230088497,0.04730287467476536,113.0,95.0,13.0,5.0,551
 1933,"Seems over the top aggressive, even by New York standards.",1.2017543859649122,0.043485439802693086,114.0,94.0,17.0,3.0,551
 1934,Wasn't this thing supposed to just eat oil spills?,1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
-1934,"For God's sake, Sydney! Show him your EZPass.",1.2,0.047978310362298264,110.0,93.0,12.0,5.0,551
+1934,"For God's sake, Sydney! Show him your EZPass.",1.2,0.04797831036229826,110.0,93.0,12.0,5.0,551
 1934,"Believe me, its a YUGE hoax!",1.2,0.04244409559694417,110.0,90.0,18.0,2.0,551
 1934,"Some call him Scylla, some Charybdis.",1.2,0.051337409439965634,110.0,95.0,8.0,7.0,551
 1934,Even Al Gore doesn't know about this.,1.2,0.04043136875805354,110.0,89.0,20.0,1.0,551
@@ -1941,9 +1941,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1934,This is my favorite ride in the Make America Gasp Again theme park.,1.2,0.0443656051737758,110.0,91.0,16.0,3.0,551
 1934,Trump's New Wave Order.,1.2,0.04244409559694417,110.0,90.0,18.0,2.0,551
 1934,"""Holy tweet""!",1.2,0.04043136875805354,110.0,89.0,20.0,1.0,551
-1934,Now on your right is the Statue of Trump. Watch your pockets.,1.2,0.047978310362298264,110.0,93.0,12.0,5.0,551
+1934,Now on your right is the Statue of Trump. Watch your pockets.,1.2,0.04797831036229826,110.0,93.0,12.0,5.0,551
 1934,Looks like welcoming the huddled masses was just a fad.,1.2,0.04968625500693169,110.0,94.0,10.0,6.0,551
-1934,All the forecasts were wrong! Hurricane Trump is making landfall!,1.2,0.047978310362298264,110.0,93.0,12.0,5.0,551
+1934,All the forecasts were wrong! Hurricane Trump is making landfall!,1.2,0.04797831036229826,110.0,93.0,12.0,5.0,551
 1934,An unnatural disaster born of ignorance? Hold hard!,1.2,0.051337409439965634,110.0,95.0,8.0,7.0,551
 1934,So when did Trump get to rule the waves?,1.2,0.04968625500693169,110.0,94.0,10.0,6.0,551
 1934,"(in this case, no caption necessary; only apologies to Hiroshige) ;-)",1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
@@ -1951,32 +1951,32 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1934,Drain the swamp. Bigly.,1.2,0.04244409559694417,110.0,90.0,18.0,2.0,551
 1934,I told you he had tiny hands.,1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
 1934,Welcome to Circle Line's economy tour of New York City.,1.2,0.04043136875805354,110.0,89.0,20.0,1.0,551
-1934,Damn those forecasters!,1.2,0.047978310362298264,110.0,93.0,12.0,5.0,551
+1934,Damn those forecasters!,1.2,0.04797831036229826,110.0,93.0,12.0,5.0,551
 1934,"It came from the sea ... No, it was elected.",1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
 1934,"""So this is 'extreme vetting'!",1.2,0.04968625500693169,110.0,94.0,10.0,6.0,551
 1934,We're from Pennsylvania!,1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
 1934,Who told you we accept the tired and the poor? Her? She's just a statue.,1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
 1934,Swamp the drain.,1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
 1934,Maybe we're not the huddled masses they were talking about.,1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
-1934,And this my friends is New Jersey.,1.2,0.047978310362298264,110.0,93.0,12.0,5.0,551
+1934,And this my friends is New Jersey.,1.2,0.04797831036229826,110.0,93.0,12.0,5.0,551
 1934,I wonder if Mexico is going to pay for this.,1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
 1934,"You don't look tired or poor so, no.",1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
 1934,"Hold on, it's a President-elect tsunami!",1.2,0.04968625500693169,110.0,94.0,10.0,6.0,551
 1934,"Who put up the sign: ""no huddled asses wanted""",1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
 1934,"Watch your crotch, ladies! It's a tsunami wave of Trump hands !",1.2,0.0443656051737758,110.0,91.0,16.0,3.0,551
 1934,Are any of you rich?,1.2,0.04968625500693169,110.0,94.0,10.0,6.0,551
-1934,"What an honor . The President , himself , is welcoming us to America !",1.2,0.047978310362298264,110.0,93.0,12.0,5.0,551
-1934,"Please stop! We are tired, poor, and huddled.",1.2,0.047978310362298264,110.0,93.0,12.0,5.0,551
+1934,"What an honor . The President , himself , is welcoming us to America !",1.2,0.04797831036229826,110.0,93.0,12.0,5.0,551
+1934,"Please stop! We are tired, poor, and huddled.",1.2,0.04797831036229826,110.0,93.0,12.0,5.0,551
 1934,We have officially entered New Jersey.,1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
 1934,I didn't think he meant a wall of hair.,1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
 1934,At least we know that the incantation is no more than 140 characters.,1.2,0.04968625500693169,110.0,94.0,10.0,6.0,551
 1934,Trump really is on the frontline of the immigration battle.,1.2,0.04244409559694417,110.0,90.0,18.0,2.0,551
 1934,Women need not worry. Those hands are small.,1.2,0.04968625500693169,110.0,94.0,10.0,6.0,551
 1934,Yes! Angry like an old man trying to send back soup in a deli.,1.2,0.0443656051737758,110.0,91.0,16.0,3.0,551
-1934,"Some forecasters are predicting that this storm will last four years, and make ""Sandy"" look like a gentle rain.",1.2,0.047978310362298264,110.0,93.0,12.0,5.0,551
+1934,"Some forecasters are predicting that this storm will last four years, and make ""Sandy"" look like a gentle rain.",1.2,0.04797831036229826,110.0,93.0,12.0,5.0,551
 1934,This is turning so 2016.,1.2,0.051337409439965634,110.0,95.0,8.0,7.0,551
 1934,Oh what a shock! The New Yorker is publishing an anti Trump Cartoon!,1.2,0.04968625500693169,110.0,94.0,10.0,6.0,551
-1934,Our tour of the Statue of Liberty is about to end!,1.2,0.047978310362298264,110.0,93.0,12.0,5.0,551
+1934,Our tour of the Statue of Liberty is about to end!,1.2,0.04797831036229826,110.0,93.0,12.0,5.0,551
 1934,My God! There's just no getting away from the big orange turd.,1.2,0.051337409439965634,110.0,95.0,8.0,7.0,551
 1934,sweet JESUS-- better yet MOSES help us!,1.2,0.04968625500693169,110.0,94.0,10.0,6.0,551
 1934,Welcome to Jersey.,1.2,0.051337409439965634,110.0,95.0,8.0,7.0,551
@@ -1986,7 +1986,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1934,Last stop on the 'God Bless America' tour,1.2,0.04244409559694417,110.0,90.0,18.0,2.0,551
 1934,Maybe it'll pivot before it hits,1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
 1934,And Britain's going to pay for this wave-- believe me.,1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
-1934,"It's not the wave that you need to worry about, the real problem is the wave's chief strategist.",1.2,0.047978310362298264,110.0,93.0,12.0,5.0,551
+1934,"It's not the wave that you need to worry about, the real problem is the wave's chief strategist.",1.2,0.04797831036229826,110.0,93.0,12.0,5.0,551
 1934,This looks bigly bad for us. Sad!,1.2,0.05293708793841515,110.0,96.0,6.0,8.0,551
 1934,"Wow, Trump wasn't kidding when he said he alone could wash away the immigration problem.",1.2,0.0443656051737758,110.0,91.0,16.0,3.0,551
 1934,"Don't blame me,"" Myrtl implored. ""I voted for Bernie!",1.2,0.046207278580632616,110.0,92.0,14.0,4.0,551
@@ -2073,26 +2073,26 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2070,"'Welcome girls, says Liberty, guard thy pussy!""",1.1909090909090907,0.04744595194751529,110.0,94.0,11.0,5.0,551
 2070,Wave goodbye. It was great.,1.1909090909090907,0.045654273456195785,110.0,93.0,13.0,4.0,551
 2070,"Oh-oh, a deal breaker!",1.1909090909090907,0.04378934817304632,110.0,92.0,15.0,3.0,551
-2070,Who said climate change isn't real?,1.1909090909090907,0.041841383127562214,110.0,91.0,17.0,2.0,551
-2070,And you thought mullets were the end of the world!,1.1909090909090907,0.041841383127562214,110.0,91.0,17.0,2.0,551
-2070,I think it may be time for an offering to Poseidon.,1.1909090909090907,0.041841383127562214,110.0,91.0,17.0,2.0,551
+2070,Who said climate change isn't real?,1.1909090909090907,0.04184138312756221,110.0,91.0,17.0,2.0,551
+2070,And you thought mullets were the end of the world!,1.1909090909090907,0.04184138312756221,110.0,91.0,17.0,2.0,551
+2070,I think it may be time for an offering to Poseidon.,1.1909090909090907,0.04184138312756221,110.0,91.0,17.0,2.0,551
 2070,You have to admit ... global warming has made the Circle Line pretty darn exciting!,1.1909090909090907,0.045654273456195785,110.0,93.0,13.0,4.0,551
 2070,"Hold on Folks, its going to be a bumpy ride!",1.1909090909090907,0.04744595194751529,110.0,94.0,11.0,5.0,551
 2070,"Just watch, you losers, he's gonna lift all boats!",1.1909090909090907,0.045654273456195785,110.0,93.0,13.0,4.0,551
 2070,"Not the great white whale, it's the great orange wave.",1.1909090909090907,0.045654273456195785,110.0,93.0,13.0,4.0,551
-2070,And now on your right the President Elect,1.1909090909090907,0.041841383127562214,110.0,91.0,17.0,2.0,551
+2070,And now on your right the President Elect,1.1909090909090907,0.04184138312756221,110.0,91.0,17.0,2.0,551
 2070,Quick! Everyone grab a tiny hand and put an Android in it!,1.1909090909090907,0.04744595194751529,110.0,94.0,11.0,5.0,551
-2070,"On three, everyone wave back at Donald!",1.1909090909090907,0.041841383127562214,110.0,91.0,17.0,2.0,551
-2070,"When he said he planned to stay in New York, didn't you think he meant on Fifth Avenue?!",1.1909090909090907,0.041841383127562214,110.0,91.0,17.0,2.0,551
+2070,"On three, everyone wave back at Donald!",1.1909090909090907,0.04184138312756221,110.0,91.0,17.0,2.0,551
+2070,"When he said he planned to stay in New York, didn't you think he meant on Fifth Avenue?!",1.1909090909090907,0.04184138312756221,110.0,91.0,17.0,2.0,551
 2070,"I thought I read somewhere, "" ""Give me your tired, your poor, Your huddled masses..."" I guess not",1.1909090909090907,0.04378934817304632,110.0,92.0,15.0,3.0,551
 2070,"Send these, the homeless, tempest-tossed anywhere else.",1.1909090909090907,0.04744595194751529,110.0,94.0,11.0,5.0,551
-2070,That wave is yuuuuuge.,1.1909090909090907,0.041841383127562214,110.0,91.0,17.0,2.0,551
-2070,They say that this will be our wave of the future!,1.1909090909090907,0.041841383127562214,110.0,91.0,17.0,2.0,551
+2070,That wave is yuuuuuge.,1.1909090909090907,0.04184138312756221,110.0,91.0,17.0,2.0,551
+2070,They say that this will be our wave of the future!,1.1909090909090907,0.04184138312756221,110.0,91.0,17.0,2.0,551
 2070,"Trump seems to be taking the ""tempest-tossed"" part a bit literally.",1.1909090909090907,0.04378934817304632,110.0,92.0,15.0,3.0,551
 2070,Is this the new Homeland Security?,1.1909090909090907,0.04378934817304632,110.0,92.0,15.0,3.0,551
 2070,Hold onto your cats!,1.1909090909090907,0.04744595194751529,110.0,94.0,11.0,5.0,551
 2070,There's nothing to be afraid of. We're leaving.,1.1909090909090907,0.04917239090789422,110.0,95.0,9.0,6.0,551
-2070,Don't worry it's just Japanese Line Art.,1.1909090909090907,0.041841383127562214,110.0,91.0,17.0,2.0,551
+2070,Don't worry it's just Japanese Line Art.,1.1909090909090907,0.04184138312756221,110.0,91.0,17.0,2.0,551
 2095,There's nothing funny about this.,1.1891891891891893,0.04527378450305517,111.0,94.0,13.0,4.0,551
 2095,"""Once again, the tired, poor, huddled masses have sailed right into my trap!"" Lady Liberty cackled, maniacally.",1.1891891891891893,0.05040948377666219,111.0,97.0,7.0,7.0,551
 2097,Oh NO! ... it's the Trump sea wall!,1.1869158878504673,0.04811898407826445,107.0,92.0,10.0,5.0,551
@@ -2184,7 +2184,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2179,How did it get so big with such tiny hands?,1.181818181818182,0.04318785349158608,110.0,93.0,14.0,3.0,551
 2184,There's a pretty funny joke about small hands and a big mouth but I just can't remember it.,1.180952380952381,0.04645087282554565,105.0,90.0,11.0,4.0,551
 2184,"If you ask me, this is more of an American nightmare.",1.180952380952381,0.04443572215126961,105.0,89.0,13.0,3.0,551
-2184,That's sure one ugly looking squall!,1.180952380952381,0.050239267038397185,105.0,92.0,7.0,6.0,551
+2184,That's sure one ugly looking squall!,1.180952380952381,0.05023926703839719,105.0,92.0,7.0,6.0,551
 2184,Blimey! It's Don the Beachcombover!,1.180952380952381,0.04645087282554565,105.0,90.0,11.0,4.0,551
 2184,"The tired, the poor and the huddled masses flee the Trump tsunami.",1.180952380952381,0.04838216375282526,105.0,91.0,9.0,5.0,551
 2184,The dangers of hand wavey immigration policy,1.180952380952381,0.04838216375282526,105.0,91.0,9.0,5.0,551
@@ -2220,15 +2220,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2184,Don't worry. He doesn't mean it literally.,1.180952380952381,0.04232473532055043,105.0,88.0,15.0,2.0,551
 2184,I'm thinking we should keep paddling to Halifax.,1.180952380952381,0.04443572215126961,105.0,89.0,13.0,3.0,551
 2184,A rising tide lifts and separates.,1.180952380952381,0.04443572215126961,105.0,89.0,13.0,3.0,551
-2184,Don't worry. Hillary's got this.,1.180952380952381,0.050239267038397185,105.0,92.0,7.0,6.0,551
+2184,Don't worry. Hillary's got this.,1.180952380952381,0.05023926703839719,105.0,92.0,7.0,6.0,551
 2184,See I told you this was New York. The Statue of Liberty is on the right and that's Donald Trump right in front of us.,1.180952380952381,0.04645087282554565,105.0,90.0,11.0,4.0,551
 2184,He says he wants to play Hide the Tsunami.,1.180952380952381,0.04645087282554565,105.0,90.0,11.0,4.0,551
 2184,"Finally, a rising tide to lift our boat.",1.180952380952381,0.04645087282554565,105.0,90.0,11.0,4.0,551
 2184,"It was inevitable. From Business Tycoon, to Presidency, and now he's King of the Seas.",1.180952380952381,0.04645087282554565,105.0,90.0,11.0,4.0,551
 2184,"Quick, show the Donald your ID.",1.180952380952381,0.04443572215126961,105.0,89.0,13.0,3.0,551
-2184,"Coming to deport your tired, your poor, your huddled masses yearning to breathe free.",1.180952380952381,0.050239267038397185,105.0,92.0,7.0,6.0,551
+2184,"Coming to deport your tired, your poor, your huddled masses yearning to breathe free.",1.180952380952381,0.05023926703839719,105.0,92.0,7.0,6.0,551
 2184,"You were right, Margaret, we should have taken the ferry to Staten Island.",1.180952380952381,0.04443572215126961,105.0,89.0,13.0,3.0,551
-2184,The next one's a biggly.,1.180952380952381,0.050239267038397185,105.0,92.0,7.0,6.0,551
+2184,The next one's a biggly.,1.180952380952381,0.05023926703839719,105.0,92.0,7.0,6.0,551
 2184,Looks like the statue has changed her mind.,1.180952380952381,0.04232473532055043,105.0,88.0,15.0,2.0,551
 2184,Time and toupee wait for no man.,1.180952380952381,0.04443572215126961,105.0,89.0,13.0,3.0,551
 2184,"A dangerous wave, but with such small curls, we can ride it out.",1.180952380952381,0.04232473532055043,105.0,88.0,15.0,2.0,551
@@ -2253,7 +2253,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2184,We're in luck. The Lusitania is just leaving and will pick us up.,1.180952380952381,0.04838216375282526,105.0,91.0,9.0,5.0,551
 2184,"Quick, ladies - tops off and forward!",1.180952380952381,0.04232473532055043,105.0,88.0,15.0,2.0,551
 2184,Donald J. Tsunami,1.180952380952381,0.04645087282554565,105.0,90.0,11.0,4.0,551
-2184,I guess climate change IS real!,1.180952380952381,0.050239267038397185,105.0,92.0,7.0,6.0,551
+2184,I guess climate change IS real!,1.180952380952381,0.05023926703839719,105.0,92.0,7.0,6.0,551
 2184,Immigration is about to get hairy!,1.180952380952381,0.04645087282554565,105.0,90.0,11.0,4.0,551
 2184,Don't blame me; I voted third-party.,1.180952380952381,0.04232473532055043,105.0,88.0,15.0,2.0,551
 2184,We're tired and poor huddled masses who'd rather breathe free in Canada.,1.180952380952381,0.04443572215126961,105.0,89.0,13.0,3.0,551
@@ -2272,7 +2272,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2184,"Don't panic;, we can handle any Trumped-up wave.",1.180952380952381,0.03775026958386235,105.0,86.0,19.0,0.0,551
 2184,He says he's going to make America wave again.,1.180952380952381,0.04443572215126961,105.0,89.0,13.0,3.0,551
 2184,Beware all ye who enter here,1.180952380952381,0.04838216375282526,105.0,91.0,9.0,5.0,551
-2184,We're Saved!,1.180952380952381,0.050239267038397185,105.0,92.0,7.0,6.0,551
+2184,We're Saved!,1.180952380952381,0.05023926703839719,105.0,92.0,7.0,6.0,551
 2184,"It's OK, he doesn't mean half the things he says.",1.180952380952381,0.04232473532055043,105.0,88.0,15.0,2.0,551
 2276,"New York, New York, a helluva town. The waves are up, and the City is down. The people sail in a hole in the groun'. New York, New York, it's a helluva town!!",1.18018018018018,0.046495881825511086,111.0,96.0,10.0,5.0,551
 2277,"Ahoy! We bring tired, poor, huddled hands to help your tiny ones...",1.179245283018868,0.04404761332048583,106.0,90.0,13.0,3.0,551
@@ -2388,7 +2388,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2385,And what if you can't make it there?,1.1714285714285717,0.043763313740087635,105.0,90.0,12.0,3.0,551
 2385,It's heading to the Potomac River...,1.1714285714285717,0.043763313740087635,105.0,90.0,12.0,3.0,551
 2389,On the count of three you will wake up.,1.169811320754717,0.03901689019197877,106.0,89.0,16.0,1.0,551
-2390,It'll pass by just like Bush did.,1.1666666666666667,0.039614070410856184,102.0,86.0,15.0,1.0,551
+2390,It'll pass by just like Bush did.,1.1666666666666667,0.03961407041085618,102.0,86.0,15.0,1.0,551
 2390,Get outta my hair!,1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
 2390,My! What big eyes you have.,1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
 2390,"He hasn’t swamped any of our boats yet, but several female passengers report being grabbed by the pussy.",1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
@@ -2399,20 +2399,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2390,Thank goodness it's not real!,1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
 2390,There may be some lingering resentment.,1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
 2390,"Love trumps hate. And in an unexpected turn of events, Trump drowns love",1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
-2390,""" Lady Liberty Battles Trump World,"" Disney's newest and scariest ride is drawing mixed reviews.",1.1666666666666667,0.039614070410856184,102.0,86.0,15.0,1.0,551
+2390,""" Lady Liberty Battles Trump World,"" Disney's newest and scariest ride is drawing mixed reviews.",1.1666666666666667,0.03961407041085618,102.0,86.0,15.0,1.0,551
 2390,At least there's only one!,1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
 2390,"2016 just keeps coming in waves, kids.",1.1666666666666667,0.04199299507395456,102.0,87.0,13.0,2.0,551
 2390,Wow! Trump's Tsunami really is Disney's scariest ride!,1.1666666666666667,0.04199299507395456,102.0,87.0,13.0,2.0,551
 2390,Oh look! A rogue nationalist with small hands!,1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
 2390,They say it comes every eight years.,1.1666666666666667,0.04199299507395456,102.0,87.0,13.0,2.0,551
-2390,"Everyone take a deep breath and hold on, we're about to hit some strange white water!",1.1666666666666667,0.039614070410856184,102.0,86.0,15.0,1.0,551
+2390,"Everyone take a deep breath and hold on, we're about to hit some strange white water!",1.1666666666666667,0.03961407041085618,102.0,86.0,15.0,1.0,551
 2390,We knew that he opposed immigration!,1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
 2390,...But incredibly tiny hands.,1.1666666666666667,0.04199299507395456,102.0,87.0,13.0,2.0,551
 2390,Where in hell did that come from?,1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
 2390,Get ready . . . We're about to be swamped!,1.1666666666666667,0.04199299507395456,102.0,87.0,13.0,2.0,551
 2390,"Yeah, I guess I'm the only one who saw this coming.",1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
 2390,Donald has renamed this New York Hairbor.,1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
-2390,Not to worry -- a rising tide floats all boats!,1.1666666666666667,0.039614070410856184,102.0,86.0,15.0,1.0,551
+2390,Not to worry -- a rising tide floats all boats!,1.1666666666666667,0.03961407041085618,102.0,86.0,15.0,1.0,551
 2390,"And on your right, ladies, we have the ghost of 2016.",1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
 2390,We'll be fine if we don't rock the boat!,1.1666666666666667,0.04199299507395456,102.0,87.0,13.0,2.0,551
 2390,So that's the dreaded wall.,1.1666666666666667,0.04843369506424088,102.0,90.0,7.0,5.0,551
@@ -2421,37 +2421,37 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2390,"Women and Chicanos first, my ass!",1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
 2390,"Nope, nope, the water’s actually calm. Good day for boating. He said so on Twitter.",1.1666666666666667,0.04199299507395456,102.0,87.0,13.0,2.0,551
 2390,"Wait! We're rested, rich, well-separated elites yearning for a strong leader.",1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
-2390,"Row, wade, row, wade, we can row for Roe v. Wade!",1.1666666666666667,0.05039801462697487,102.0,91.0,5.0,6.0,551
+2390,"Row, wade, row, wade, we can row for Roe v. Wade!",1.1666666666666667,0.050398014626974866,102.0,91.0,5.0,6.0,551
 2390,"Last but not least on our Manhattan tour, the angry wave over",1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
 2390,This is the moment the rise of the oceans will begin to be YUGE,1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
 2390,"First Trump wanted to keep people out, now he wants to keep people in?",1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
-2390,"Er, this concludes this part of the tour.",1.1666666666666667,0.039614070410856184,102.0,86.0,15.0,1.0,551
+2390,"Er, this concludes this part of the tour.",1.1666666666666667,0.03961407041085618,102.0,86.0,15.0,1.0,551
 2390,Hang on: It's Hurricane Donald.,1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
 2390,"""Is he trying to keep us out? Or is he trying to keep us in?",1.1666666666666667,0.03708284662416535,102.0,85.0,17.0,0.0,551
 2390,"Watch out, ladies! This wave will grab you by the pussies!",1.1666666666666667,0.04843369506424088,102.0,90.0,7.0,5.0,551
 2390,Don't worry. It's just a bad hairpiece.,1.1666666666666667,0.04199299507395456,102.0,87.0,13.0,2.0,551
 2390,"Prepare yourself for the deluge, folks!",1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
-2390,I don't think anyone of us are ready for the Republican wave,1.1666666666666667,0.039614070410856184,102.0,86.0,15.0,1.0,551
+2390,I don't think anyone of us are ready for the Republican wave,1.1666666666666667,0.03961407041085618,102.0,86.0,15.0,1.0,551
 2390,I knew nature would have the upper hand!,1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
-2390,Our only hope is extreme rowing!,1.1666666666666667,0.039614070410856184,102.0,86.0,15.0,1.0,551
-2390,"Take back your tired, your poor, your huddled masses yearning to breathe free ...",1.1666666666666667,0.039614070410856184,102.0,86.0,15.0,1.0,551
+2390,Our only hope is extreme rowing!,1.1666666666666667,0.03961407041085618,102.0,86.0,15.0,1.0,551
+2390,"Take back your tired, your poor, your huddled masses yearning to breathe free ...",1.1666666666666667,0.03961407041085618,102.0,86.0,15.0,1.0,551
 2390,"Welcome, to the land of Extreme Vetting. He, he, he.",1.1666666666666667,0.04199299507395456,102.0,87.0,13.0,2.0,551
 2390,"Policy change'; Tired, hungry, poor - out; best and brightest - in.",1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
 2390,He can't reach us. We're in the popular boat.,1.1666666666666667,0.04199299507395456,102.0,87.0,13.0,2.0,551
-2390,I'm open to suggestions.,1.1666666666666667,0.05039801462697487,102.0,91.0,5.0,6.0,551
+2390,I'm open to suggestions.,1.1666666666666667,0.050398014626974866,102.0,91.0,5.0,6.0,551
 2390,"Don't worry, he promised to keep us safe.",1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
-2390,"Quick, put on your tweet jackets.",1.1666666666666667,0.039614070410856184,102.0,86.0,15.0,1.0,551
+2390,"Quick, put on your tweet jackets.",1.1666666666666667,0.03961407041085618,102.0,86.0,15.0,1.0,551
 2390,It's Trump's choice for Director of Immigration.,1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
 2390,"Trumpest in a teapot, this is not!",1.1666666666666667,0.04843369506424088,102.0,90.0,7.0,5.0,551
 2390,"As you can see we have the most marvelous,most fantastic and the greatest waves ever! Period! Bigly!",1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
 2390,"He may appear menacing, but what harm could he do with such small hands?",1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
 2390,"And this, ladies and gentlemen, is the repository of The Swamp.",1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
 2390,"Gee, this is turning out to be a swell day.",1.1666666666666667,0.03708284662416535,102.0,85.0,17.0,0.0,551
-2390,"Trust me, swimming is great cardio.",1.1666666666666667,0.039614070410856184,102.0,86.0,15.0,1.0,551
+2390,"Trust me, swimming is great cardio.",1.1666666666666667,0.03961407041085618,102.0,86.0,15.0,1.0,551
 2390,"I thought he said a wall, not a wave!",1.1666666666666667,0.04199299507395456,102.0,87.0,13.0,2.0,551
 2390,Keep your hands to yourself; these aren't no nasty women!!,1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
 2390,It's a rogue permanent wave!,1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
-2390,"He may grab you by the p**** but don't worry girls, he won't get you wet!",1.1666666666666667,0.05039801462697487,102.0,91.0,5.0,6.0,551
+2390,"He may grab you by the p**** but don't worry girls, he won't get you wet!",1.1666666666666667,0.050398014626974866,102.0,91.0,5.0,6.0,551
 2390,A Trumpnami ahead!,1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
 2390,"Wait, didn't he say Great Wall?",1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
 2390,"Where there is no Wall, there is The Wave.",1.1666666666666667,0.04843369506424088,102.0,90.0,7.0,5.0,551
@@ -2494,7 +2494,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2390,"Remember, a rising tide floats all boats",1.1666666666666667,0.04199299507395456,102.0,87.0,13.0,2.0,551
 2390,"Give me your tired your poor, your -- Hey, hey, get the hell away from them!",1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
 2390,"Give me your terrified, your fool-hardy, yearning to capsize.",1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
-2390,Could that really be the golden door?,1.1666666666666667,0.05039801462697487,102.0,91.0,5.0,6.0,551
+2390,Could that really be the golden door?,1.1666666666666667,0.050398014626974866,102.0,91.0,5.0,6.0,551
 2390,I wish he'd stay in Washington!,1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
 2390,Not so great!,1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
 2390,"I say we let it drown us, it's the only way to start over!",1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
@@ -2508,7 +2508,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2390,"And to your right is Trump Tower, offering the ""huddled masses"" a different perspective.",1.1666666666666667,0.044244193924695606,102.0,88.0,11.0,3.0,551
 2390,Really scary....but did you know you can save 15% on your car insurance?,1.1666666666666667,0.04843369506424088,102.0,90.0,7.0,5.0,551
 2390,Yes by golly..............It's definitely a rouge wave.,1.1666666666666667,0.04638626689884595,102.0,89.0,9.0,4.0,551
-2390,Ice hole straight ahead!,1.1666666666666667,0.05039801462697487,102.0,91.0,5.0,6.0,551
+2390,Ice hole straight ahead!,1.1666666666666667,0.050398014626974866,102.0,91.0,5.0,6.0,551
 2511,We're Saved!,1.1650485436893203,0.051803725735915816,103.0,93.0,3.0,7.0,551
 2511,We're going to pay for that wave,1.1650485436893203,0.04596219939062207,103.0,90.0,9.0,4.0,551
 2511,The Fake News Colossus,1.1650485436893203,0.04384240371744845,103.0,89.0,11.0,3.0,551
@@ -2613,7 +2613,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2609,These Trump-Tsunamis occur only when there is seismic activity around our electoral process.,1.1553398058252426,0.04309835738372566,103.0,90.0,10.0,3.0,551
 2609,"Hokusai, shumkusai, it still looks like him",1.1553398058252426,0.04083014817602034,103.0,89.0,12.0,2.0,551
 2609,We came all this way only to be featured in a racist cartoon?,1.1553398058252426,0.0452530199906581,103.0,91.0,8.0,4.0,551
-2609,"Oh nooooo! That wave looks like a really, really, really crappy caricature of Donald Trump!",1.1553398058252426,0.04928052999384266,103.0,93.0,4.0,6.0,551
+2609,"Oh nooooo! That wave looks like a really, really, really crappy caricature of Donald Trump!",1.1553398058252426,0.049280529993842664,103.0,93.0,4.0,6.0,551
 2609,"Hopeless, Lady Liberty can only stand and watch.",1.1553398058252426,0.04309835738372566,103.0,90.0,10.0,3.0,551
 2609,It never even wanted to be a wave.,1.1553398058252426,0.04309835738372566,103.0,90.0,10.0,3.0,551
 2609,Looks like the last Trump storm of the year then the depressions moves to Washington,1.1553398058252426,0.04083014817602034,103.0,89.0,12.0,2.0,551
@@ -3017,28 +3017,28 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2900,I KNEW we should have taken that left turn in Albuquerque.....,1.1354166666666667,0.035105703998301666,96.0,83.0,13.0,0.0,551
 2900,I'm beginning to harbor some doubts about this voyage.,1.1354166666666667,0.03810129523822529,96.0,84.0,11.0,1.0,551
 3018,I'm starting to doubt that he loves Hispanics.,1.134020618556701,0.043049724454871305,97.0,87.0,7.0,3.0,551
-3018,I guess they don't like out-of-towners.,1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,551
+3018,I guess they don't like out-of-towners.,1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,551
 3018,Is this real? Why is the water orange? Why did we not build a bigger boat? Who brought the rum?,1.134020618556701,0.043049724454871305,97.0,87.0,7.0,3.0,551
 3018,I guess it's time we start spreading the news.,1.134020618556701,0.043049724454871305,97.0,87.0,7.0,3.0,551
 3018,"I'm biglier than her, I know more than her.... just let me get my little hands on you immigrant rapists!",1.134020618556701,0.03773228738143944,97.0,85.0,11.0,1.0,551
-3018,"It's a trumpal wave,,,cover your pussies",1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,551
-3018,"They told me tired, poor, huddle masses, and wretched refuse was enough to get in. Now we gotta be tempest-tossed too?",1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,551
-3018,"And still, they did not understand.",1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,551
+3018,"It's a trumpal wave,,,cover your pussies",1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,551
+3018,"They told me tired, poor, huddle masses, and wretched refuse was enough to get in. Now we gotta be tempest-tossed too?",1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,551
+3018,"And still, they did not understand.",1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,551
 3018,"Watch out for those tiny, grabby hands!",1.134020618556701,0.043049724454871305,97.0,87.0,7.0,3.0,551
 3018,"Send me your tired, your poor and your good swimmers.",1.134020618556701,0.043049724454871305,97.0,87.0,7.0,3.0,551
-3018,Hang on; almost to the land of the Muddled Masses,1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,551
-3018,We should have tried before the election.,1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,551
+3018,Hang on; almost to the land of the Muddled Masses,1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,551
+3018,We should have tried before the election.,1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,551
 3018,Don't worry; he's not grabbing any of us with hands that size...,1.134020618556701,0.043049724454871305,97.0,87.0,7.0,3.0,551
 3018,Now that's chutzpah.,1.134020618556701,0.03773228738143944,97.0,85.0,11.0,1.0,551
-3018,"It's fine, it will lose steam soon.",1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,551
+3018,"It's fine, it will lose steam soon.",1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,551
 3018,Our creation of a genetically modified ocean has led to some unexpected developments.,1.134020618556701,0.03773228738143944,97.0,85.0,11.0,1.0,551
 3018,"This is ""huge""! He vowed to keep us out!",1.134020618556701,0.043049724454871305,97.0,87.0,7.0,3.0,551
-3018,I see why they named it Superstorm Trump.,1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,551
+3018,I see why they named it Superstorm Trump.,1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,551
 3018,"Give us your tired"", my ass!",1.134020618556701,0.043049724454871305,97.0,87.0,7.0,3.0,551
 3018,"I thought this was a hop-on, hop-off deal.",1.134020618556701,0.03476994217327846,97.0,84.0,13.0,0.0,551
 3018,"You are entering the Trump trough. No, the tiny hands do not massage.",1.134020618556701,0.04547587720916168,97.0,88.0,5.0,4.0,551
-3018,"Oh no, a 'Rogue Trump Wave'!",1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,551
-3018,Notice the small hands. We should be safe enough.,1.134020618556701,0.040478415771098786,97.0,86.0,9.0,2.0,551
+3018,"Oh no, a 'Rogue Trump Wave'!",1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,551
+3018,Notice the small hands. We should be safe enough.,1.134020618556701,0.04047841577109879,97.0,86.0,9.0,2.0,551
 3041,"Don't worry, we'll make it. The waves are little and they only pretend to be 6'3",1.1326530612244898,0.04008657552277356,98.0,87.0,9.0,2.0,551
 3041,"I'm not so sure about this ""They're coming to America"" thing anymore!",1.1326530612244898,0.04008657552277356,98.0,87.0,9.0,2.0,551
 3041,"Trump really is redefining, ""Give me your tired, your poor, your huddled masses yearning to breathe free...""",1.1326530612244898,0.04008657552277356,98.0,87.0,9.0,2.0,551
@@ -3350,49 +3350,49 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3349,There is no way that we will be able to escape the entire Trump Presidency,1.118279569892473,0.033668704543479866,93.0,82.0,11.0,0.0,551
 3349,Don't worry - she'll keep us safe,1.118279569892473,0.04283507835554761,93.0,85.0,5.0,3.0,551
 3349,Let me help you over the wall,1.118279569892473,0.04283507835554761,93.0,85.0,5.0,3.0,551
-3349,Enough already!,1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
-3349,"But Kennedy said a rising tide floats all boats, so what could go wrong?",1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
-3349,"Hey look, it's the iron curtain, never known to extend this far west before now!",1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
+3349,Enough already!,1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
+3349,"But Kennedy said a rising tide floats all boats, so what could go wrong?",1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
+3349,"Hey look, it's the iron curtain, never known to extend this far west before now!",1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
 3349,I didn't think a wave could have a comb over!,1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
 3349,"So this is the New Colossus? Well, It does bring a whole new meaning to huddled masses yearning to breathe free.",1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
-3349,Either Poseidon's now sporting a combover or this Trump thing is getting ridiculous!,1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
+3349,Either Poseidon's now sporting a combover or this Trump thing is getting ridiculous!,1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
 3349,"Whatever you do, don't be a pussy.",1.118279569892473,0.04283507835554761,93.0,85.0,5.0,3.0,551
 3349,"Joke's on you, Trump. We left our wallets at the boathouse.",1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
 3349,"Make the Wretched Refuse from the Teeming Shore, Great Again!",1.118279569892473,0.04283507835554761,93.0,85.0,5.0,3.0,551
 3349,A tsunami with a bad hairpiece doesn't scare me.,1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
 3349,But her emails!,1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
 3349,Relax. It's only Donald Trump.,1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
-3349,"Guard your kittys, there’s a huge populist wave with a comb over to overcome.",1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
-3349,"Lo! The poor Indian, whose untutored mind sees God in clouds, or hears him in the wind.",1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
+3349,"Guard your kittys, there’s a huge populist wave with a comb over to overcome.",1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
+3349,"Lo! The poor Indian, whose untutored mind sees God in clouds, or hears him in the wind.",1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
 3349,Trump finally unveild his economic strategy!,1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
-3349,That one looks like President Trump!,1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
+3349,That one looks like President Trump!,1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
 3349,"Trump is saying DON'T bring me your tired, your poor, your huddled masses. That's unpresidented.",1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
-3349,At least it's still blue and not orange.,1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
+3349,At least it's still blue and not orange.,1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
 3349,Merde!!,1.118279569892473,0.04283507835554761,93.0,85.0,5.0,3.0,551
-3349,"Ahead, our newest addition to NEW YORK WORLD! He doesn't play well with others and we are having glitches in his narrative loop. Try saying, 'You're fired!' and see what happens...",1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
+3349,"Ahead, our newest addition to NEW YORK WORLD! He doesn't play well with others and we are having glitches in his narrative loop. Try saying, 'You're fired!' and see what happens...",1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
 3349,Blind Trust,1.118279569892473,0.033668704543479866,93.0,82.0,11.0,0.0,551
 3349,"OK! OK! I'm sorry I called Manhattan Brooklyn.""",1.118279569892473,0.033668704543479866,93.0,82.0,11.0,0.0,551
-3349,There's no turning back now!,1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
+3349,There's no turning back now!,1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
 3349,"That's just Donald practicing his ""I'm really scary"" routine.",1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
-3349,"Man o' Trump, That's one hairy wave.",1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
-3349,Hokusai would be appalled!,1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
+3349,"Man o' Trump, That's one hairy wave.",1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
+3349,Hokusai would be appalled!,1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
 3349,... and some folks see waves as a metaphor.,1.118279569892473,0.033668704543479866,93.0,82.0,11.0,0.0,551
 3349,I told you not to go to New Jersey,1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
-3349,I'm thinking Hokusai.,1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
-3349,Scary but it's still better than where we came from,1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
-3349,Let's wait this one out and see what happens.,1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
+3349,I'm thinking Hokusai.,1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
+3349,Scary but it's still better than where we came from,1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
+3349,Let's wait this one out and see what happens.,1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
 3349,Ellis Island or Bust,1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
 3349,OMG. It's a Trump tsunami.,1.118279569892473,0.04283507835554761,93.0,85.0,5.0,3.0,551
 3349,Mobby Dick.,1.118279569892473,0.04548184284329836,93.0,86.0,3.0,4.0,551
-3349,Home of the brazen.,1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
+3349,Home of the brazen.,1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
 3349,"I said, give me back my comb!",1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
 3349,Oh no! It's a Trump-nami. We're doomed.,1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
 3349,We're looking for Ithaca!,1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
 3349,I told you we should have taken a different route.,1.118279569892473,0.04001362076879967,93.0,84.0,7.0,2.0,551
-3349,"Just keep in mind, we are in a Las Vegas replica.",1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
+3349,"Just keep in mind, we are in a Las Vegas replica.",1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
 3349,First we have to get past the Big Kahuna...,1.118279569892473,0.033668704543479866,93.0,82.0,11.0,0.0,551
-3349,Watch your...kitties!!,1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
-3349,"You know, I'll bet that tidal wave doesn't have a birth certificate.",1.118279569892473,0.03697750338155253,93.0,83.0,9.0,1.0,551
+3349,Watch your...kitties!!,1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
+3349,"You know, I'll bet that tidal wave doesn't have a birth certificate.",1.118279569892473,0.036977503381552534,93.0,83.0,9.0,1.0,551
 3349,But we made our hotel reservations in Russian.,1.118279569892473,0.033668704543479866,93.0,82.0,11.0,0.0,551
 3396,It's mirroring us. Stay calm and act benevolent.,1.1170212765957446,0.042395613063487145,94.0,86.0,5.0,3.0,551
 3396,Did you remember to close the windows?,1.1170212765957446,0.03660364473954173,94.0,84.0,9.0,1.0,551
@@ -3769,188 +3769,188 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3757,Tourist-de-traction weather here!,1.1,0.035509489509052444,90.0,82.0,7.0,1.0,551
 3757,"Now all together: Row,row,row your boat.....",1.1,0.038866588933566495,90.0,83.0,5.0,2.0,551
 3770,"Immigrants face ""hairrowing"" wave of antagonism",1.0930232558139534,0.03558349644646313,86.0,79.0,6.0,1.0,551
-3771,This will be our last stop on the sea monster tour!,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,You want to leave then leave. Nobody is stopping you. Mylie? Bryan?,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"As we passed by lady liberty, we now head into what we used to call catastrophically rising sea levels, but now glibly call, ""The Trump Bump. """,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,The Drumpf wave is an attack on everything that is diverse and wonderful about New York City.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,"and here we have an american alligator, a result of global warming.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"This is the part of the trip when it asks ""Give me your tired, your poor, Your huddled masses...""",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,I'm going to have to start listening to Blondie. The tide is high.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Look, because of the Clean Air Act we don't allow huddled masses to breathe free anymore...you'll have to pay if you want to breathe.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,His hair looks a little different up close.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,But we're from the Heartland! Remember? The Heartland?,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,This is the entrance to the Liberty Nail and Hair Salon,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"You know, I'm getting the strangest sense of deja-vu...",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,This was a wave election.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,"We've been tired, poor, huddled, wretched, tempest-tost, and now--these slimy tentacles. Sit tight, Ladies, and take a whack!",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"This way to Brooklyn, a small empty village where most of the inhabitants have recently migrated to Berlin.",1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,Looks like it's headed below deck.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,This re-enactment has some new dangers that Henry Hudson's crew never had to face.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,The roar is the collective conscience of the antiTrump voters.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,The DREAM act under Trump,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,You just cannot deny that.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Get in my BELLY!,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Please remove your headsets. NOW.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,It's just branding taken to new heights.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Look out! It's Donald Trump as a wave! It's even got small hands with which to grope attractive women! Our whiney solipsistic pseudo-informed New York opinions will be swept away! We'll become even more irrelevant!,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Goin' down,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,It's Trump's nod to Japanese art trading.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,I don't think we're at wild water park anymore.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,We got bigger in Brooklyn fuggetaboutit,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"My god, a wall of water!",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,The horror! The horror!,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,This 'Divine Kamikaze Wind' is supposed to protect Chris Christe and New Jersey.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,I told you this was a wave election.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Johnson, thanks for taking a back seat on this one.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Welcome to my house!,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,Too late to steer towards rigid and unlikable...,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"This is crazy, all the meteorologists predicted calm seas.",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"Okay, ladies--stay vigilant. This is a land of opportunity.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,I hope you all brought your surf boards.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,The tide has changed!...but this hateful wave will blow over soon.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"Do you know what, I think I left the oven on.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,We accidentally angered The Wave God.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"It said ""Send these, the homeless, tempest-tost to me..."" apparently that's so we can be devoured!",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"You know, tidal waves don't usually discriminate, but this one may be just shallow enough to keep 1% of us alive.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"HURRY, OAR'S IN THE WATER, IT'S THE TRUMP WAVE !",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Quick ... 90 degrees starboard!,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,It says that's 60 guilders each! Including Trump Tower.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Gimme, gimme, gimme your tired, your poor, your huddled masses ...",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"""Wretched refuse"" is really the pot calling the kettle black.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,I wasn't expecting this... get ready to bail!,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Oh No! I'm getting a bad feeling. Too late to abandon ship?,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,We're the huddled masses just yearning to breathe.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,The packaged macaroni and cheese isn't as bad as Europe makes it out to be.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Mexico has its wall, we have 'The Wave'!",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,America. Grabbing immigrant pussy since (strikethrough)2005(/strikethrough) 2016.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,Trump'eau.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,I like your hair.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,This is the best theme park!,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,The struggle continues!,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Well - the Circle Line guaranteed us 'a thrill a minute!',1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,Climate change should worry presidents.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,...the golden door.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,Global setback: bad permanent wave to take hold in 2017.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"Look, Trump is waving at us!",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,I told you the media were wrong. There really was a Trump tidal wave.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Apparently, sometimes he grabs 'em by the inscription.",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,I love these iconic art festival outings.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Only in America can you see that!,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,This storm is so authentic.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,"Since last November, we also notice more orange in the sunsets and more scowls in the storm clouds.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,I've heard New Yorkers are good at making waves.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,We just need one big helping hand.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,"Is this what she really meant when she said, ""send these, the homeless, tempest-tossed to me""?",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,I thought we were guaranteed that Hillary would win.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,It's the last time we listen to Pat Henry.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,I never thought that David Bowie would come back as a wave!,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"Check it out: 'Give me your tired, your poor....",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Perfect!,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,"Our tour is almost over, ladies and gentlemen. Straight ahead is the Donald Trump Sea Wall of Exclusion. So that we can all return to our homeland safely and without delay, please repeat after me today's secret password, ""THANKS, DONALD.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Great, it looks like a ""Trumpest"" is going to prevent us making it to American",1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,OK people. It's just Regret.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,We need a wall to keep us apart.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Watch out! That wave with the calamity hairdo is gonna grab our dinghy!,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,The Trump Water Wave Park is wild!,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,You ain't seen nothin yet,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Go home and take the statue with you...,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"This is carrying ""tempest tossed"" too far.",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"Unlike the King of Persia, Donald Trump is able to command the ocean with results -- here, to deal with unwanted immigrants.",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,...welcome to the huddled masses,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"All aboard granted shore leave, starting NOW.",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Trump Proposes An Extension to His Wall,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"When he said give me your huddled masses yearning to breathe free, I didn't think he meant THIS!!!",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Green isn't easy but imagine being orange.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"Either the sushi was past its sell-by date, or we're in for a world of hurt.",1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,"Pardon me, we're with the ""Melville Experience"" charters company and we were supposed to get a white whale.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Orange hair! we're in danger!,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,"And this is Sue Nammy, if everybody waves to Sue, then Sue will wave back",1.0919540229885059,0.04210507314709545,87.0,82.0,2.0,3.0,551
-3771,I had to let her go; she was too inclusive...,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,It'll be ok. He just met with Don King!!,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Didn't I tell you that sightseeing in New York City would be exciting?,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,They were right about the view from out here!,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,To your front - a picturesque giant wave.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Look, at least it's well-intentioned.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Don't worry, we're documented to wash up anywhere on shore between here and Caracas.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,We'll be alright if we can just weather the rogue wave.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Oh! Here's a promising one!,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"If we row hard together, we can survive this.",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Sandy?...Donald?,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,These huddled masses no longer feel welcome.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Comb-over here!,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,It's the Trump wave sending us back!,1.0919540229885059,0.04210507314709545,87.0,82.0,2.0,3.0,551
-3771,Timid men prefer the calm of despotism to the Trumpestuous Sea of Liberty.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,I remember hair like that,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,I think we're going out to sea.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Who are you calling a watery tart?,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"Tired, poor, and huddled, but no match for the Great Wave.",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"""Hey, hey, Colossus, we're the huddled masses"".",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"Sorry guys... I heard ""the golden door"" not ""the golden hair"" !",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"Ha! Joke's on you, bub. I already got mugged today.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"It's a rogue ""Trump-nami"" wave.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,I believe it's one of those huddled masses.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,a 3 hour tour?,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Ooh, let's get a selfie!",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"This is the Hillary tsunami, and it just won't stop.",1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,Your ancestors were immigrants too!,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"""Give me your tired, your poor, your huddled.""..Booo!",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Poseidon lost too.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,No rooms in my hotel!,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Everybody sing! ... Row, row, row your boat ....",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Waves break after hitting bottom.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,"Hold on, here comes another gust.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Have no fear; it just reminds you of something phony that was on TV.,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,"""Quick! The shrimp popcorn!",1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,"And straight ahead, you see Donald Trump, our ""President Elect"" - a scary Kraken who sometimes spends his weekends in the Hudson River.",1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,I told you to sail away from the wall.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Yeah... she asked me to take care of the huddled masses from now on,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,I'll give you tempest-tost.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,The Great Wave off Ellis Island,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Trump's Wall,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,That wave is trying to tell us something about ourselves.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"Guys, it's time for some game theory.",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"Donald,""the monster wave,"" consumes freedom seeking immigrants.",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Trump is really taking this improving infrastructure thing seriously!,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Faster, faster, the wall is coming!",1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,Please Donald! We're tired and poor. Honest!,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Guess who!,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,...and this is 'The Statute of Libertine Enfrightening the World.',1.0919540229885059,0.04210507314709545,87.0,82.0,2.0,3.0,551
-3771,Oh so THAT'S where Trump's wig went,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Don't give me tired or your poor!,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Is this what they meant by a surprise greeting?,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"Hey you, out there in the boat! Come back to Liberty Island and take me with you!!",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,You're right. He actually looks less presidential without the combover.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"Hurray, it's the Wave of Protectionism!",1.0919540229885059,0.04210507314709545,87.0,82.0,2.0,3.0,551
-3771,"Yeah, it's me. Trump. Bad hair day. GO AWAY!",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,So this is freedom everyone !!,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Send these, the homeless tempest-tossed to me. I lift my lamp beside the golden hair.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"one more time , row row row your boat",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Do not blame Queens.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Uh-oh. She lifts her lamp beside the orange door.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Extremism in the defense of liberty can be a vice.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,I guess he didn't build the wall after all.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"It's OK, compadres! It's a Mexican wave over!",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,You're Fired!,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,Noseless in a sea of no.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,"Hey Mr. Trump, there really aren't any Muslims in this boat.",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,I thought he was moving to Washington? Row on...,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,Have current events created the new colossass?,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,I think we qualify as 'Your huddled masses yearning to breathe free' at the very least.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Maybe it's the hands, but I think this one will fade quickly",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Damn the sea change, full speed ahead!",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,STEER LEFT! That wave trumps all the rest.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,It's A Trump Thing!,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,Man his hands have gone every were,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Trump Wall's bankrupt.,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Hey, that wave looks like Donald Trump.",1.0919540229885059,0.04210507314709545,87.0,82.0,2.0,3.0,551
-3771,"I thought he said wall, not swell!",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,This is sooo surreal!,1.0919540229885059,0.038801146611412436,87.0,81.0,4.0,2.0,551
-3771,Noooooo! Wake me from this nightmare!,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Welcome to New York City- here, you are in the eye of all storms-wherever!",1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"Faugh! It's that rat-crested, little-handed, mouthy wave! So sad - for US!",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Twenty percent chance of rain my eye.,1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
-3771,Why did I just think of Washington crossing the Delaware ?,1.0919540229885059,0.035188361314479916,87.0,80.0,6.0,1.0,551
-3771,"We all agreed with you, lots of small hands are better than only two big ones!",1.0919540229885059,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,This will be our last stop on the sea monster tour!,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,You want to leave then leave. Nobody is stopping you. Mylie? Bryan?,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"As we passed by lady liberty, we now head into what we used to call catastrophically rising sea levels, but now glibly call, ""The Trump Bump. """,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,The Drumpf wave is an attack on everything that is diverse and wonderful about New York City.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,"and here we have an american alligator, a result of global warming.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"This is the part of the trip when it asks ""Give me your tired, your poor, Your huddled masses...""",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,I'm going to have to start listening to Blondie. The tide is high.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Look, because of the Clean Air Act we don't allow huddled masses to breathe free anymore...you'll have to pay if you want to breathe.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,His hair looks a little different up close.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,But we're from the Heartland! Remember? The Heartland?,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,This is the entrance to the Liberty Nail and Hair Salon,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"You know, I'm getting the strangest sense of deja-vu...",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,This was a wave election.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,"We've been tired, poor, huddled, wretched, tempest-tost, and now--these slimy tentacles. Sit tight, Ladies, and take a whack!",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"This way to Brooklyn, a small empty village where most of the inhabitants have recently migrated to Berlin.",1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,Looks like it's headed below deck.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,This re-enactment has some new dangers that Henry Hudson's crew never had to face.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,The roar is the collective conscience of the antiTrump voters.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,The DREAM act under Trump,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,You just cannot deny that.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Get in my BELLY!,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Please remove your headsets. NOW.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,It's just branding taken to new heights.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Look out! It's Donald Trump as a wave! It's even got small hands with which to grope attractive women! Our whiney solipsistic pseudo-informed New York opinions will be swept away! We'll become even more irrelevant!,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Goin' down,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,It's Trump's nod to Japanese art trading.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,I don't think we're at wild water park anymore.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,We got bigger in Brooklyn fuggetaboutit,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"My god, a wall of water!",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,The horror! The horror!,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,This 'Divine Kamikaze Wind' is supposed to protect Chris Christe and New Jersey.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,I told you this was a wave election.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Johnson, thanks for taking a back seat on this one.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Welcome to my house!,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,Too late to steer towards rigid and unlikable...,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"This is crazy, all the meteorologists predicted calm seas.",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"Okay, ladies--stay vigilant. This is a land of opportunity.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,I hope you all brought your surf boards.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,The tide has changed!...but this hateful wave will blow over soon.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"Do you know what, I think I left the oven on.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,We accidentally angered The Wave God.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"It said ""Send these, the homeless, tempest-tost to me..."" apparently that's so we can be devoured!",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"You know, tidal waves don't usually discriminate, but this one may be just shallow enough to keep 1% of us alive.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"HURRY, OAR'S IN THE WATER, IT'S THE TRUMP WAVE !",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Quick ... 90 degrees starboard!,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,It says that's 60 guilders each! Including Trump Tower.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Gimme, gimme, gimme your tired, your poor, your huddled masses ...",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"""Wretched refuse"" is really the pot calling the kettle black.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,I wasn't expecting this... get ready to bail!,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Oh No! I'm getting a bad feeling. Too late to abandon ship?,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,We're the huddled masses just yearning to breathe.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,The packaged macaroni and cheese isn't as bad as Europe makes it out to be.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Mexico has its wall, we have 'The Wave'!",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,America. Grabbing immigrant pussy since (strikethrough)2005(/strikethrough) 2016.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,Trump'eau.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,I like your hair.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,This is the best theme park!,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,The struggle continues!,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Well - the Circle Line guaranteed us 'a thrill a minute!',1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,Climate change should worry presidents.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,...the golden door.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,Global setback: bad permanent wave to take hold in 2017.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"Look, Trump is waving at us!",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,I told you the media were wrong. There really was a Trump tidal wave.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Apparently, sometimes he grabs 'em by the inscription.",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,I love these iconic art festival outings.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Only in America can you see that!,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,This storm is so authentic.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,"Since last November, we also notice more orange in the sunsets and more scowls in the storm clouds.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,I've heard New Yorkers are good at making waves.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,We just need one big helping hand.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,"Is this what she really meant when she said, ""send these, the homeless, tempest-tossed to me""?",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,I thought we were guaranteed that Hillary would win.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,It's the last time we listen to Pat Henry.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,I never thought that David Bowie would come back as a wave!,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"Check it out: 'Give me your tired, your poor....",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Perfect!,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,"Our tour is almost over, ladies and gentlemen. Straight ahead is the Donald Trump Sea Wall of Exclusion. So that we can all return to our homeland safely and without delay, please repeat after me today's secret password, ""THANKS, DONALD.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Great, it looks like a ""Trumpest"" is going to prevent us making it to American",1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,OK people. It's just Regret.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,We need a wall to keep us apart.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Watch out! That wave with the calamity hairdo is gonna grab our dinghy!,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,The Trump Water Wave Park is wild!,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,You ain't seen nothin yet,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Go home and take the statue with you...,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"This is carrying ""tempest tossed"" too far.",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"Unlike the King of Persia, Donald Trump is able to command the ocean with results -- here, to deal with unwanted immigrants.",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,...welcome to the huddled masses,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"All aboard granted shore leave, starting NOW.",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Trump Proposes An Extension to His Wall,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"When he said give me your huddled masses yearning to breathe free, I didn't think he meant THIS!!!",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Green isn't easy but imagine being orange.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"Either the sushi was past its sell-by date, or we're in for a world of hurt.",1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,"Pardon me, we're with the ""Melville Experience"" charters company and we were supposed to get a white whale.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Orange hair! we're in danger!,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,"And this is Sue Nammy, if everybody waves to Sue, then Sue will wave back",1.091954022988506,0.04210507314709545,87.0,82.0,2.0,3.0,551
+3771,I had to let her go; she was too inclusive...,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,It'll be ok. He just met with Don King!!,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Didn't I tell you that sightseeing in New York City would be exciting?,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,They were right about the view from out here!,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,To your front - a picturesque giant wave.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Look, at least it's well-intentioned.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Don't worry, we're documented to wash up anywhere on shore between here and Caracas.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,We'll be alright if we can just weather the rogue wave.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Oh! Here's a promising one!,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"If we row hard together, we can survive this.",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Sandy?...Donald?,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,These huddled masses no longer feel welcome.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Comb-over here!,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,It's the Trump wave sending us back!,1.091954022988506,0.04210507314709545,87.0,82.0,2.0,3.0,551
+3771,Timid men prefer the calm of despotism to the Trumpestuous Sea of Liberty.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,I remember hair like that,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,I think we're going out to sea.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Who are you calling a watery tart?,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"Tired, poor, and huddled, but no match for the Great Wave.",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"""Hey, hey, Colossus, we're the huddled masses"".",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"Sorry guys... I heard ""the golden door"" not ""the golden hair"" !",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"Ha! Joke's on you, bub. I already got mugged today.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"It's a rogue ""Trump-nami"" wave.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,I believe it's one of those huddled masses.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,a 3 hour tour?,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Ooh, let's get a selfie!",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"This is the Hillary tsunami, and it just won't stop.",1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,Your ancestors were immigrants too!,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"""Give me your tired, your poor, your huddled.""..Booo!",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Poseidon lost too.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,No rooms in my hotel!,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Everybody sing! ... Row, row, row your boat ....",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Waves break after hitting bottom.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,"Hold on, here comes another gust.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Have no fear; it just reminds you of something phony that was on TV.,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,"""Quick! The shrimp popcorn!",1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,"And straight ahead, you see Donald Trump, our ""President Elect"" - a scary Kraken who sometimes spends his weekends in the Hudson River.",1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,I told you to sail away from the wall.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Yeah... she asked me to take care of the huddled masses from now on,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,I'll give you tempest-tost.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,The Great Wave off Ellis Island,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Trump's Wall,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,That wave is trying to tell us something about ourselves.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"Guys, it's time for some game theory.",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"Donald,""the monster wave,"" consumes freedom seeking immigrants.",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Trump is really taking this improving infrastructure thing seriously!,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Faster, faster, the wall is coming!",1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,Please Donald! We're tired and poor. Honest!,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Guess who!,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,...and this is 'The Statute of Libertine Enfrightening the World.',1.091954022988506,0.04210507314709545,87.0,82.0,2.0,3.0,551
+3771,Oh so THAT'S where Trump's wig went,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Don't give me tired or your poor!,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Is this what they meant by a surprise greeting?,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"Hey you, out there in the boat! Come back to Liberty Island and take me with you!!",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,You're right. He actually looks less presidential without the combover.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"Hurray, it's the Wave of Protectionism!",1.091954022988506,0.04210507314709545,87.0,82.0,2.0,3.0,551
+3771,"Yeah, it's me. Trump. Bad hair day. GO AWAY!",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,So this is freedom everyone !!,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Send these, the homeless tempest-tossed to me. I lift my lamp beside the golden hair.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"one more time , row row row your boat",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Do not blame Queens.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Uh-oh. She lifts her lamp beside the orange door.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Extremism in the defense of liberty can be a vice.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,I guess he didn't build the wall after all.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"It's OK, compadres! It's a Mexican wave over!",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,You're Fired!,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,Noseless in a sea of no.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,"Hey Mr. Trump, there really aren't any Muslims in this boat.",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,I thought he was moving to Washington? Row on...,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,Have current events created the new colossass?,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,I think we qualify as 'Your huddled masses yearning to breathe free' at the very least.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Maybe it's the hands, but I think this one will fade quickly",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Damn the sea change, full speed ahead!",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,STEER LEFT! That wave trumps all the rest.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,It's A Trump Thing!,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,Man his hands have gone every were,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Trump Wall's bankrupt.,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Hey, that wave looks like Donald Trump.",1.091954022988506,0.04210507314709545,87.0,82.0,2.0,3.0,551
+3771,"I thought he said wall, not swell!",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,This is sooo surreal!,1.091954022988506,0.038801146611412436,87.0,81.0,4.0,2.0,551
+3771,Noooooo! Wake me from this nightmare!,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Welcome to New York City- here, you are in the eye of all storms-wherever!",1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"Faugh! It's that rat-crested, little-handed, mouthy wave! So sad - for US!",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Twenty percent chance of rain my eye.,1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
+3771,Why did I just think of Washington crossing the Delaware ?,1.091954022988506,0.035188361314479916,87.0,80.0,6.0,1.0,551
+3771,"We all agreed with you, lots of small hands are better than only two big ones!",1.091954022988506,0.03115946991905433,87.0,79.0,8.0,0.0,551
 3953,Who is John Galt?,1.0909090909090908,0.03480188606767167,88.0,81.0,6.0,1.0,551
 3953,"I'm no longer ""feeling the yearn.""",1.0909090909090908,0.030821068346400488,88.0,80.0,8.0,0.0,551
 3953,"Give me a break! Your tired? Your poor? Your huddled masses yearning to breathe free? The wretched refuse of your teeming shore? Send these back - the homeless, tempest-tost to sea! I snuff the lamp beside the golden door!",1.0909090909090908,0.03837192064154346,88.0,82.0,4.0,2.0,551
@@ -4296,7 +4296,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4295,and this is New York's famous Donald Trump tsunami.,1.0705882352941176,0.0325749955408552,85.0,80.0,4.0,1.0,551
 4295,I see a marvelous bookplate.,1.0705882352941176,0.0325749955408552,85.0,80.0,4.0,1.0,551
 4295,"Not a kraken, it's President Trump!",1.0705882352941176,0.02794670445095108,85.0,79.0,6.0,0.0,551
-4295,I told you the ferry would be costly.,1.0705882352941176,0.036622976112061986,85.0,81.0,2.0,2.0,551
+4295,I told you the ferry would be costly.,1.0705882352941176,0.03662297611206199,85.0,81.0,2.0,2.0,551
 4295,"...And the last line is 'I lift my lamp beside the golden door!' Door? All I see is this big, fat yap.",1.0705882352941176,0.0325749955408552,85.0,80.0,4.0,1.0,551
 4295,"For those of you who have just eaten lunch, too bad.",1.0705882352941176,0.0325749955408552,85.0,80.0,4.0,1.0,551
 4295,"Relax, that's Donald the friendly wave.",1.0705882352941176,0.02794670445095108,85.0,79.0,6.0,0.0,551
@@ -4587,7 +4587,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4541,It's a one in a million tears storm!,1.0493827160493827,0.02992394973713783,81.0,78.0,2.0,1.0,551
 4541,Don't worry...It's just Moana.,1.0493827160493827,0.0242239714448748,81.0,77.0,4.0,0.0,551
 4541,Oh no. Not another remake of the Swiss Family Robinson!,1.0493827160493827,0.0242239714448748,81.0,77.0,4.0,0.0,551
-4589,"""We'll head for Fort Lee! 'Bridgegate' was child's play compared to this!",1.048780487804878,0.029562905459717362,82.0,79.0,2.0,1.0,551
+4589,"""We'll head for Fort Lee! 'Bridgegate' was child's play compared to this!",1.0487804878048779,0.029562905459717362,82.0,79.0,2.0,1.0,551
 4590,Is that Trump or Poseidon?,1.0384615384615383,0.02191549547300725,78.0,75.0,3.0,0.0,551
 4590,Nahn taebuna wafuqara'.,1.0384615384615383,0.02191549547300725,78.0,75.0,3.0,0.0,551
 4590,That wave has a wave like Donald's wave!,1.0384615384615383,0.02191549547300725,78.0,75.0,3.0,0.0,551

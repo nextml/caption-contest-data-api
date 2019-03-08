@@ -41,7 +41,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 40,"This isn't exactly what I had in mind when I asked to move back in with you, mom.",1.5414364640883975,0.03851739316878984,362.0,218.0,92.0,52.0,558
 41,Am I still grounded for life?,1.5403899721448469,0.03754461255495825,359.0,211.0,102.0,46.0,558
 42,Mommy? Daddy? Are you ever coming to get me?,1.5365168539325842,0.04362557757037085,356.0,241.0,39.0,76.0,558
-42,You win Dad. I'll pay rent.,1.5365168539325842,0.03963407565853538,356.0,220.0,81.0,55.0,558
+42,You win Dad. I'll pay rent.,1.5365168539325842,0.039634075658535384,356.0,220.0,81.0,55.0,558
 44,Is anybody there?,1.5354107648725213,0.04374757318598441,353.0,239.0,39.0,75.0,558
 44,I've been on hold so long I gotta change my order to solid foods.,1.5354107648725213,0.03825137510795077,353.0,211.0,95.0,47.0,558
 46,Is it possible to upgrade an Airbnb reservation mid-stay?,1.5340909090909092,0.03958380966168532,352.0,217.0,82.0,53.0,558
@@ -58,11 +58,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 57,Can I have the blond babysitter?,1.5137614678899085,0.03966143387610963,327.0,202.0,82.0,43.0,558
 57,"Uh, when I said I wanted my own crib...",1.5137614678899085,0.04013168430648149,327.0,204.0,78.0,45.0,558
 59,"The good news is, I finished putting it together.",1.5109034267912769,0.03973871021591565,321.0,198.0,82.0,41.0,558
-60,I guess I overslept,1.509375,0.039088842998272214,320.0,195.0,87.0,38.0,558
+60,I guess I overslept,1.509375,0.03908884299827221,320.0,195.0,87.0,38.0,558
 60,"Mom, is this really the only way I can keep my health insurance?",1.509375,0.03933865940055155,320.0,196.0,85.0,39.0,558
-62,This isn't what the Airbnb posting looked like.,1.5047619047619047,0.041304046237585185,315.0,201.0,69.0,45.0,558
+62,This isn't what the Airbnb posting looked like.,1.5047619047619047,0.04130404623758519,315.0,201.0,69.0,45.0,558
 62,"OK, OK, I'll pay rent.",1.5047619047619047,0.0405630746916275,315.0,198.0,75.0,42.0,558
-64,"Listen Mom, a lot of kids move back home after college...",1.504731861198738,0.041345963545616066,317.0,203.0,68.0,46.0,558
+64,"Listen Mom, a lot of kids move back home after college...",1.504731861198738,0.04134596354561607,317.0,203.0,68.0,46.0,558
 65,I'm having doubts about this witness protection identity.,1.5031847133757965,0.04115910974792943,314.0,200.0,70.0,44.0,558
 66,Dumb! I learned my lesson in Juvie.,1.5015974440894568,0.043905315805022486,313.0,211.0,47.0,55.0,558
 67,...and another thing: I want to get vaccinated.,1.498371335504886,0.04312982334471247,307.0,203.0,55.0,49.0,558
@@ -110,11 +110,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 106,"Mom, when I said I wanted my own crib, this isn't what I had in mind.",1.4478764478764483,0.04203068940631228,259.0,170.0,62.0,27.0,558
 110,"Nothing dude, just hangin' out in my crib.",1.4457364341085268,0.04213918899338226,258.0,170.0,61.0,27.0,558
 111,I don't think I'm the one who's acting immature in this relationship.,1.4453125,0.04237770304149966,256.0,169.0,60.0,27.0,558
-112,"Mom, can Lisa sleep over?",1.4431372549019608,0.04248813331794626,255.0,169.0,59.0,27.0,558
+112,"Mom, can Lisa sleep over?",1.4431372549019608,0.042488133317946264,255.0,169.0,59.0,27.0,558
 112,You know I can climb out ... Don't you?,1.4431372549019608,0.04138364403305937,255.0,166.0,65.0,24.0,558
 112,25 is the new 18 months.,1.4431372549019608,0.04175505342571729,255.0,167.0,63.0,25.0,558
 115,How long was my nap?,1.440944881889764,0.041861945453800516,254.0,167.0,62.0,25.0,558
-116,"It's fine, my last airbnb was a tub.",1.4404761904761905,0.042099749434410264,252.0,166.0,61.0,25.0,558
+116,"It's fine, my last airbnb was a tub.",1.4404761904761905,0.04209974943441026,252.0,166.0,61.0,25.0,558
 116,"Siri, how do I climb out of a crib?",1.4404761904761905,0.0435759924335378,252.0,170.0,53.0,29.0,558
 118,Wow. I REALLY slept in.,1.4392156862745098,0.042101622269993866,255.0,169.0,60.0,26.0,558
 119,And now they'll let me stay on your healthcare plan?,1.4382470119521913,0.04258440480777925,251.0,167.0,58.0,26.0,558
@@ -122,12 +122,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 120,How long was I out?,1.436,0.04116301221117314,250.0,163.0,65.0,22.0,558
 120,How long have I been asleep?,1.436,0.04231759818876615,250.0,166.0,59.0,25.0,558
 123,Should I drive the babysitter home?,1.435483870967742,0.04443861038532127,248.0,170.0,48.0,30.0,558
-124,"""Time travel tech support, please"".",1.4347826086956519,0.04368660920701831,230.0,152.0,56.0,22.0,558
-125,"Hey Mom, don't freak out, but I literally grew up over night.",1.4342629482071714,0.045105513950864214,251.0,175.0,43.0,33.0,558
+124,"""Time travel tech support, please"".",1.434782608695652,0.04368660920701831,230.0,152.0,56.0,22.0,558
+125,"Hey Mom, don't freak out, but I literally grew up over night.",1.4342629482071714,0.04510551395086421,251.0,175.0,43.0,33.0,558
 126,He's the president? How long was I asleep?,1.4331983805668016,0.044927660436722486,247.0,171.0,45.0,31.0,558
 127,Let me know when Trump's term is up.,1.4308943089430894,0.044681496078214505,246.0,170.0,46.0,30.0,558
 128,I think I've had a growth spurt.,1.430327868852459,0.041029960967559516,244.0,159.0,65.0,20.0,558
-128,I grew up. Over.,1.430327868852459,0.04143897996357013,244.0,160.0,63.0,21.0,558
+128,I grew up. Over.,1.430327868852459,0.041438979963570134,244.0,160.0,63.0,21.0,558
 130,"Mom, I had the student loan nightmare again.",1.4285714285714286,0.04089988102241916,245.0,160.0,65.0,20.0,558
 131,"Hell-of-a-long timeout, don't ya think?",1.4279835390946505,0.04235398060469914,243.0,162.0,58.0,23.0,558
 131,Just hanging out in my crib. S'up with you?,1.4279835390946505,0.04275359409550813,243.0,163.0,56.0,24.0,558
@@ -140,7 +140,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 135,"Okay, I get it. You're ready for me to move out.",1.4256198347107438,0.0444361890239932,242.0,167.0,47.0,28.0,558
 135,Longest. Time-out. Ever.,1.4256198347107438,0.04404863809667011,242.0,166.0,49.0,27.0,558
 135,"Let's talk about your parenting skills, then we'll talk about bedtime.",1.4256198347107438,0.042864966904892256,242.0,163.0,55.0,24.0,558
-142,I just get the feeling you're not ready for me to grow up...,1.4225941422594142,0.041995425459192534,239.0,159.0,59.0,21.0,558
+142,I just get the feeling you're not ready for me to grow up...,1.4225941422594142,0.04199542545919253,239.0,159.0,59.0,21.0,558
 142,"Mom, how much longer is this timeout?",1.4225941422594142,0.04157469484892061,239.0,158.0,61.0,20.0,558
 144,I am not jealous of the new baby.,1.421940928270042,0.04349354261881957,237.0,161.0,52.0,24.0,558
 144,"Note to self: ""Grow up!""",1.421940928270042,0.04051400139502265,237.0,154.0,66.0,17.0,558
@@ -159,11 +159,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 158,Day 28: They still do not suspect the swap.,1.4151785714285714,0.045274005823673774,224.0,155.0,45.0,24.0,558
 159,It's not a ban; it's extreme bedding.,1.4137931034482758,0.044948566182073664,232.0,162.0,44.0,26.0,558
 159,"Mom, can Bob from Accounting sleep over this weekend?",1.4137931034482758,0.04325618557477391,232.0,158.0,52.0,22.0,558
-161,You said you would come up in a few minutes and that was 1998.,1.4112554112554112,0.043800863456982066,231.0,159.0,49.0,23.0,558
+161,You said you would come up in a few minutes and that was 1998.,1.4112554112554112,0.04380086345698207,231.0,159.0,49.0,23.0,558
 161,"Honey, where's the baby?",1.4112554112554112,0.0454872476986103,231.0,163.0,41.0,27.0,558
 161,Come dress me. I have a job interview.,1.4112554112554112,0.04589916359912361,231.0,164.0,39.0,28.0,558
 161,"No, you're the big baby!",1.4112554112554112,0.0446520175511248,231.0,161.0,45.0,25.0,558
-161,Did I oversleep?,1.4112554112554112,0.04293283833813479,231.0,157.0,53.0,21.0,558
+161,Did I oversleep?,1.4112554112554112,0.042932838338134785,231.0,157.0,53.0,21.0,558
 161,"When you bring a bottle, make it bourbon.",1.4112554112554112,0.044228488053307584,231.0,160.0,47.0,24.0,558
 161,How long was I asleep?,1.4112554112554112,0.042492176831318375,231.0,156.0,55.0,20.0,558
 161,And what are you wearing?,1.4112554112554112,0.045071567393317295,231.0,162.0,43.0,26.0,558
@@ -172,7 +172,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 169,"Mom, I think I'm ready to start acting my age again.",1.4104803493449782,0.04091734412271796,229.0,151.0,62.0,16.0,558
 172,I think my timeout has been long enough!,1.4078947368421053,0.04505575919479777,228.0,160.0,43.0,25.0,558
 172,Just chillin' in my crib. 'sup with you?,1.4078947368421053,0.043750346840108666,228.0,157.0,49.0,22.0,558
-172,none of my other friends that moved back home after college had to start over,1.4078947368421053,0.04548257137940719,228.0,161.0,41.0,26.0,558
+172,none of my other friends that moved back home after college had to start over,1.4078947368421053,0.045482571379407186,228.0,161.0,41.0,26.0,558
 172,"OK, I see your point, but sometimes I feel you treat me like a child.",1.4078947368421053,0.04505575919479777,228.0,160.0,43.0,25.0,558
 176,"Mom, the student loan officer is in my closet again.",1.4052863436123348,0.045178781557093935,227.0,160.0,42.0,25.0,558
 176,This time out seems longer than the others,1.4052863436123348,0.04296740774688985,227.0,155.0,52.0,20.0,558
@@ -189,7 +189,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 187,I had that dream again where my degree is obsolete.,1.4009009009009008,0.04266790260558597,222.0,151.0,53.0,18.0,558
 187,"No, it's not weird. You guys wanted a baby. I needed a place to crash. Everybody wins.",1.4009009009009008,0.04361283533610225,222.0,153.0,49.0,20.0,558
 187,You've made your point.,1.4009009009009008,0.04589012027974504,222.0,158.0,39.0,25.0,558
-191,"One mocha latte - in a sippy cup, please!",1.3981900452488687,0.04029898441857618,221.0,146.0,62.0,13.0,558
+191,"One mocha latte - in a sippy cup, please!",1.3981900452488687,0.040298984418576184,221.0,146.0,62.0,13.0,558
 191,Is it just me - or does it seem like our whole country is regressing?,1.3981900452488687,0.04419378720128548,221.0,154.0,46.0,21.0,558
 193,If the President can act like a child why can't I?,1.3954545454545455,0.04659325035375286,220.0,159.0,35.0,26.0,558
 193,Oh not much just chilling in my crib,1.3954545454545455,0.04383908046522909,220.0,153.0,47.0,20.0,558
@@ -273,7 +273,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 264,"Mom, we need to talk.",1.3694581280788178,0.04284960194588917,203.0,142.0,47.0,14.0,558
 273,I will not be attending the White House Correspondents' Association Dinner this year. Please wish everyone well and have a great evening!,1.3681592039800996,0.045916921220449776,201.0,146.0,36.0,19.0,558
 273,"Mom, when I said I wanted a cell, I meant a cell phone.",1.3681592039800996,0.045916921220449776,201.0,146.0,36.0,19.0,558
-273,I'm starting to think there's no one on the other end of this.,1.3681592039800996,0.043696208980192,201.0,142.0,44.0,15.0,558
+273,I'm starting to think there's no one on the other end of this.,1.3681592039800996,0.043696208980192004,201.0,142.0,44.0,15.0,558
 273,"Mommy, I'm pretty sure there was growth hormone in the milk.",1.3681592039800996,0.045916921220449776,201.0,146.0,36.0,19.0,558
 277,"Uh, mom? I think we overslept.",1.365,0.04603772759171597,200.0,146.0,35.0,19.0,558
 277,The worst part of homeschooling is nap time.,1.365,0.04263759871428741,200.0,140.0,47.0,13.0,558
@@ -324,18 +324,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 320,"I need my bottle now, perhaps a Merlot",1.3523316062176165,0.04470006874444187,193.0,140.0,38.0,15.0,558
 320,When was the last time you checked on the baby?,1.3523316062176165,0.04762308239184533,193.0,145.0,28.0,20.0,558
 320,Did you forget about my time-out?,1.3523316062176165,0.04470006874444187,193.0,140.0,38.0,15.0,558
-326,Mom? Dad? Am I still on the waiting list for that perfect pre-school?,1.3507853403141359,0.04312707267919892,191.0,136.0,43.0,12.0,558
-326,"Hey Mom, better check to see if Dad put the baby in my bed.",1.3507853403141359,0.04500310212477504,191.0,139.0,37.0,15.0,558
-326,"Mom, would you bring me an Ambien and a shot of whiskey?",1.3507853403141359,0.04738908740228037,191.0,143.0,29.0,19.0,558
-326,Several things need changing.,1.3507853403141359,0.04910254991135382,191.0,146.0,23.0,22.0,558
-326,It got weird last night.,1.3507853403141359,0.04500310212477504,191.0,139.0,37.0,15.0,558
-326,I suppose using the car tonight is out of the question?,1.3507853403141359,0.04312707267919892,191.0,136.0,43.0,12.0,558
-326,I'm going to need you to push back my 10:00 with Timmy.,1.3507853403141359,0.046211496435810746,191.0,141.0,33.0,17.0,558
-326,Your crib or mine?,1.3507853403141359,0.043761352799804,191.0,137.0,41.0,13.0,558
-326,Don't you think I'm getting a little too old for a nightlight?,1.3507853403141359,0.04500310212477504,191.0,139.0,37.0,15.0,558
-326,You probably should have splurged on that hormone free formula.,1.3507853403141359,0.04438657003938154,191.0,138.0,39.0,14.0,558
-326,"Mom, can you bring me a rum and coke?",1.3507853403141359,0.042483323750442316,191.0,135.0,45.0,11.0,558
-326,And Tink — Cancel my 7:00 with Hook. And get some flowers for Wendy.,1.3507853403141359,0.046211496435810746,191.0,141.0,33.0,17.0,558
+326,Mom? Dad? Am I still on the waiting list for that perfect pre-school?,1.350785340314136,0.04312707267919892,191.0,136.0,43.0,12.0,558
+326,"Hey Mom, better check to see if Dad put the baby in my bed.",1.350785340314136,0.04500310212477504,191.0,139.0,37.0,15.0,558
+326,"Mom, would you bring me an Ambien and a shot of whiskey?",1.350785340314136,0.04738908740228037,191.0,143.0,29.0,19.0,558
+326,Several things need changing.,1.350785340314136,0.04910254991135382,191.0,146.0,23.0,22.0,558
+326,It got weird last night.,1.350785340314136,0.04500310212477504,191.0,139.0,37.0,15.0,558
+326,I suppose using the car tonight is out of the question?,1.350785340314136,0.04312707267919892,191.0,136.0,43.0,12.0,558
+326,I'm going to need you to push back my 10:00 with Timmy.,1.350785340314136,0.046211496435810746,191.0,141.0,33.0,17.0,558
+326,Your crib or mine?,1.350785340314136,0.043761352799804,191.0,137.0,41.0,13.0,558
+326,Don't you think I'm getting a little too old for a nightlight?,1.350785340314136,0.04500310212477504,191.0,139.0,37.0,15.0,558
+326,You probably should have splurged on that hormone free formula.,1.350785340314136,0.04438657003938154,191.0,138.0,39.0,14.0,558
+326,"Mom, can you bring me a rum and coke?",1.350785340314136,0.042483323750442316,191.0,135.0,45.0,11.0,558
+326,And Tink — Cancel my 7:00 with Hook. And get some flowers for Wendy.,1.350785340314136,0.046211496435810746,191.0,141.0,33.0,17.0,558
 338,Ground control to Major Mom.,1.3475935828877006,0.046869210945245966,187.0,139.0,31.0,17.0,558
 339,Who's Mommy's sweet millennial?,1.3473684210526315,0.04510999712930632,190.0,139.0,36.0,15.0,558
 339,I'll stop acting like one when you stop treating me like one.,1.3473684210526315,0.0438579782472041,190.0,137.0,40.0,13.0,558
@@ -343,7 +343,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 339,"If I start paying rent can I have the bed back, Mom?",1.3473684210526315,0.04510999712930632,190.0,139.0,36.0,15.0,558
 339,Oedipus to Mom! Do you read me?,1.3473684210526315,0.04572315205170048,190.0,140.0,34.0,16.0,558
 339,"Hey Siri, when does childhood end?",1.3473684210526315,0.04572315205170048,190.0,140.0,34.0,16.0,558
-339,"Hey Ma, could you bring me a beer?",1.3473684210526315,0.046328192562195,190.0,141.0,32.0,17.0,558
+339,"Hey Ma, could you bring me a beer?",1.3473684210526315,0.046328192562194996,190.0,141.0,32.0,17.0,558
 339,"Siri, how do I get out?",1.3473684210526315,0.04809766942057082,190.0,144.0,26.0,20.0,558
 347,"I should have known when he called me ""baby"" on our first date.",1.3457446808510638,0.0460421837776454,188.0,139.0,33.0,16.0,558
 347,Wait... I thought that when I graduated from college I'd be living in the basement.,1.3457446808510638,0.04414991287318183,188.0,136.0,39.0,13.0,558
@@ -405,7 +405,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 388,"Growth spurt, Mom.",1.3369565217391304,0.03971443251864981,184.0,128.0,50.0,6.0,558
 388,When does IKEA open tomorrow?,1.3369565217391304,0.04659615287450397,184.0,138.0,30.0,16.0,558
 406,"Look at me, I'm HUGE. Tremendous. And one day, I'm going to be the President.",1.335135135135135,0.04824219816054602,185.0,142.0,24.0,19.0,558
-406,Could we just go back to having curfew?,1.335135135135135,0.04240896160172927,185.0,133.0,42.0,10.0,558
+406,Could we just go back to having curfew?,1.335135135135135,0.042408961601729266,185.0,133.0,42.0,10.0,558
 408,"Mom, I still have to go to college next year..",1.3333333333333333,0.044739706591613235,183.0,135.0,35.0,13.0,558
 408,"But Mom, everyone else my age has a cell phone!",1.3333333333333333,0.044739706591613235,183.0,135.0,35.0,13.0,558
 408,"Mom, you really have to stop treating me like a child.",1.3333333333333333,0.04540584308523244,183.0,136.0,33.0,14.0,558
@@ -416,7 +416,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 408,"So is there a time ""in?""",1.3333333333333333,0.04406350083148787,183.0,134.0,37.0,12.0,558
 408,What are you wearing?,1.3333333333333333,0.044739706591613235,183.0,135.0,35.0,13.0,558
 417,"Just how long is this time-out going to last, mother?",1.3314917127071824,0.04704610842473456,181.0,137.0,28.0,16.0,558
-417,"Um, I was thinking more the basement?",1.3314917127071824,0.04366233556380959,181.0,132.0,38.0,11.0,558
+417,"Um, I was thinking more the basement?",1.3314917127071824,0.043662335563809586,181.0,132.0,38.0,11.0,558
 419,"Well, of course she had a c-section.",1.3295454545454546,0.047292391015192746,176.0,133.0,28.0,15.0,558
 420,"Mom, all of my friends were allowed to move into the basement after college!",1.3277777777777775,0.04649780272573386,180.0,136.0,29.0,15.0,558
 420,"I thought you said, ""You'd be right back""!",1.3277777777777775,0.04230373718404242,180.0,130.0,41.0,9.0,558
@@ -454,29 +454,29 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 446,How's about a bottle of beer and a warm blankie?,1.3220338983050848,0.04484324256041679,177.0,132.0,33.0,12.0,558
 446,"Siri, why am I in this crib?",1.3220338983050848,0.04694167028872858,177.0,135.0,27.0,15.0,558
 455,"Sorry I can't join the protest, I'm in time out.",1.32,0.043673666694720926,175.0,129.0,36.0,10.0,558
-455,"Mom, Dad, hold it down in there... I can hear everything.",1.32,0.045152542038573586,175.0,131.0,32.0,12.0,558
+455,"Mom, Dad, hold it down in there... I can hear everything.",1.32,0.04515254203857359,175.0,131.0,32.0,12.0,558
 455,You guys have to stop babying me.,1.32,0.043673666694720926,175.0,129.0,36.0,10.0,558
 455,"Um, Mom, if you ever take a break from Facebook, I think I'm ready for a big-kid bed.",1.32,0.044419259421487035,175.0,130.0,34.0,11.0,558
 455,It's been 10 years. Is anybody there?,1.32,0.0479737202279781,175.0,135.0,24.0,16.0,558
 455,Childhood isn't as good as I remember.,1.32,0.044419259421487035,175.0,130.0,34.0,11.0,558
 455,"Hello, Mom, could you bring me a beer?",1.32,0.0479737202279781,175.0,135.0,24.0,16.0,558
-455,"Testing, goo, goo, gaa, gaa.",1.32,0.04728420864855967,175.0,134.0,26.0,15.0,558
+455,"Testing, goo, goo, gaa, gaa.",1.32,0.047284208648559665,175.0,134.0,26.0,15.0,558
 455,"Mom, would you bring me my participation trophy?",1.32,0.049985219490242164,175.0,138.0,18.0,19.0,558
 455,"Hey Dad, can I borrow the car?",1.32,0.044419259421487035,175.0,130.0,34.0,11.0,558
 455,Yeah.... my therapist said I need to embrace my inner child....,1.32,0.04587410486905378,175.0,132.0,30.0,13.0,558
 455,"Okay, I'm ready! The safe word is 'Pampers.'",1.32,0.04658449251122883,175.0,133.0,28.0,14.0,558
-455,...but I get to stay covered by my parents' health insurance!,1.32,0.045152542038573586,175.0,131.0,32.0,12.0,558
+455,...but I get to stay covered by my parents' health insurance!,1.32,0.04515254203857359,175.0,131.0,32.0,12.0,558
 455,"If you're listing, Mom—I'm starting to reconsider moving back-in.",1.32,0.044419259421487035,175.0,130.0,34.0,11.0,558
-455,I just feel like I'm growing up too fast.,1.32,0.045152542038573586,175.0,131.0,32.0,12.0,558
+455,I just feel like I'm growing up too fast.,1.32,0.04515254203857359,175.0,131.0,32.0,12.0,558
 455,Ok. I'll look for a job tomorrow if you let me sleep in a big-boy bed.,1.32,0.04658449251122883,175.0,133.0,28.0,14.0,558
-455,"This demeans us both, over.",1.32,0.04728420864855967,175.0,134.0,26.0,15.0,558
+455,"This demeans us both, over.",1.32,0.047284208648559665,175.0,134.0,26.0,15.0,558
 455,Moving back in with Mom and Dad is really infantilizing.,1.32,0.044419259421487035,175.0,130.0,34.0,11.0,558
-455,"You know you can't actually ground me for my whole life, right?",1.32,0.045152542038573586,175.0,131.0,32.0,12.0,558
-455,"If anyone's listening, this is day 57, year 13. I am still trapped. I have found no escape.",1.32,0.045152542038573586,175.0,131.0,32.0,12.0,558
+455,"You know you can't actually ground me for my whole life, right?",1.32,0.04515254203857359,175.0,131.0,32.0,12.0,558
+455,"If anyone's listening, this is day 57, year 13. I am still trapped. I have found no escape.",1.32,0.04515254203857359,175.0,131.0,32.0,12.0,558
 455,If I pay rent can I have my big boy bed?,1.32,0.04587410486905378,175.0,132.0,30.0,13.0,558
-455,If I do this they'll let me stay on your insurance?,1.32,0.04728420864855967,175.0,134.0,26.0,15.0,558
+455,If I do this they'll let me stay on your insurance?,1.32,0.047284208648559665,175.0,134.0,26.0,15.0,558
 455,I'm calling to report a case of arrested adolescence.,1.32,0.04658449251122883,175.0,133.0,28.0,14.0,558
-455,"If you let me out, I promise to get my own health insurance.",1.32,0.045152542038573586,175.0,131.0,32.0,12.0,558
+455,"If you let me out, I promise to get my own health insurance.",1.32,0.04515254203857359,175.0,131.0,32.0,12.0,558
 455,The upside is kindergarten is going to be a breeze.,1.32,0.04291512224810487,175.0,128.0,38.0,9.0,558
 455,If I hadn't wasted time on that Masters in English I'd be in a bunk bed by now.,1.32,0.0479737202279781,175.0,135.0,24.0,16.0,558
 455,Goodnight moon Goodnight oil tycoon Goodnight DAPL And the EPA Goodnight Obamacare Good night voices everywhere,1.32,0.049323835237092974,175.0,137.0,20.0,18.0,558
@@ -484,40 +484,40 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 482,Warm milk sounds great...and a Xanax.,1.318181818181818,0.04704992450061506,176.0,135.0,26.0,15.0,558
 484,"Mommy, what's a helicopter parent?",1.3160919540229885,0.04877577157689994,174.0,136.0,21.0,17.0,558
 484,any chance you forgot about me up here,1.3160919540229885,0.0422031868515212,174.0,127.0,39.0,8.0,558
-484,Looking for binkie. Over.,1.3160919540229885,0.04140855240610487,174.0,126.0,41.0,7.0,558
+484,Looking for binkie. Over.,1.3160919540229885,0.041408552406104866,174.0,126.0,41.0,7.0,558
 484,I really had no idea that having a baby would change our relationship so drastically.,1.3160919540229885,0.04668783127064357,174.0,133.0,27.0,14.0,558
 484,"Mom, for my generation it's totally normal to live at home until I'm at least 35.",1.3160919540229885,0.042983133302258114,174.0,128.0,37.0,9.0,558
 484,What a nap! Who's president?,1.3160919540229885,0.048089865095117916,174.0,135.0,23.0,16.0,558
 484,Can I get a double expresso with extra milk?,1.3160919540229885,0.045970782250259835,174.0,132.0,29.0,13.0,558
 484,"Mom! Dad! I am pretty sure that now that I have graduated from college, I am supposed to be in your basement.",1.3160919540229885,0.04374917732409341,174.0,129.0,35.0,10.0,558
-484,"Honey, I just don't think role playing is my thing",1.3160919540229885,0.047394032924107266,174.0,134.0,25.0,15.0,558
+484,"Honey, I just don't think role playing is my thing",1.3160919540229885,0.04739403292410727,174.0,134.0,25.0,15.0,558
 493,"No, you're being childish!",1.314102564102564,0.04529517854359202,156.0,115.0,33.0,8.0,558
 494,Have we heard from Harvard yet?,1.313953488372093,0.04246842317314247,172.0,126.0,38.0,8.0,558
 494,"Mother, I'm sorry I called you controlling.",1.313953488372093,0.04480586272828769,172.0,129.0,32.0,11.0,558
 494,"Mom, can I borrow the car tomorrow night?",1.313953488372093,0.044040502708550096,172.0,128.0,34.0,10.0,558
 494,I'm STILL not sleepy.,1.313953488372093,0.049148367936812216,172.0,135.0,20.0,17.0,558
 494,How long am I grounded? Over.,1.313953488372093,0.04083586725911916,172.0,124.0,42.0,6.0,558
-494,"Hey, Mom, do you think I could stay in a dorm next semester?",1.313953488372093,0.04326160448732173,172.0,127.0,36.0,9.0,558
+494,"Hey, Mom, do you think I could stay in a dorm next semester?",1.313953488372093,0.043261604487321734,172.0,127.0,36.0,9.0,558
 494,"Mom, are my college essays finished? Over.",1.313953488372093,0.04774477101048416,172.0,133.0,24.0,15.0,558
 494,"Mocha frappuccino venti, Mommy, please.",1.313953488372093,0.045558366858684834,172.0,130.0,30.0,12.0,558
 494,"I'd like a turkey sandwich and student loan forgiveness, over.",1.313953488372093,0.04246842317314247,172.0,126.0,38.0,8.0,558
 494,How are my college applications coming along?,1.313953488372093,0.044040502708550096,172.0,128.0,34.0,10.0,558
-494,"I know the book says to leave the baby in his crib until he stops complaining, but isn't this getting ridiculous?",1.313953488372093,0.04629864195454186,172.0,131.0,28.0,13.0,558
+494,"I know the book says to leave the baby in his crib until he stops complaining, but isn't this getting ridiculous?",1.313953488372093,0.046298641954541864,172.0,131.0,28.0,13.0,558
 494,This has been like a really long Time-Out...,1.313953488372093,0.044040502708550096,172.0,128.0,34.0,10.0,558
 494,Can I crawl in with you guys? I had a bad dream about college.,1.313953488372093,0.044040502708550096,172.0,128.0,34.0,10.0,558
 494,'I woke up a long time ago.',1.313953488372093,0.044040502708550096,172.0,128.0,34.0,10.0,558
 494,Mom? I think I might literally be growing up too fast.,1.313953488372093,0.04480586272828769,172.0,129.0,32.0,11.0,558
-494,How long IS this time out?...feels like it's been years.,1.313953488372093,0.04326160448732173,172.0,127.0,36.0,9.0,558
+494,How long IS this time out?...feels like it's been years.,1.313953488372093,0.043261604487321734,172.0,127.0,36.0,9.0,558
 494,I think I'm overdue for an upgrade.,1.313953488372093,0.041660142952332176,172.0,125.0,40.0,7.0,558
 494,"You know grandpa and grandma used to play outside... by themselves... completely unsupervised, right?",1.313953488372093,0.045558366858684834,172.0,130.0,30.0,12.0,558
-494,"Mom said she’d come check on me, but that was 2009.",1.313953488372093,0.04629864195454186,172.0,131.0,28.0,13.0,558
+494,"Mom said she’d come check on me, but that was 2009.",1.313953488372093,0.046298641954541864,172.0,131.0,28.0,13.0,558
 494,This Airbnb is pretty childish.,1.313953488372093,0.045558366858684834,172.0,130.0,30.0,12.0,558
 494,I could use a change.,1.313953488372093,0.04480586272828769,172.0,129.0,32.0,11.0,558
-494,"I'm grounded, and won't be able to make Happy Hour.",1.313953488372093,0.04326160448732173,172.0,127.0,36.0,9.0,558
-494,911? Help! I'm being held prisoner by overprotective parents.,1.313953488372093,0.04629864195454186,172.0,131.0,28.0,13.0,558
-494,The only downside to living rent free with my parents is mandatory nap time.,1.313953488372093,0.04629864195454186,172.0,131.0,28.0,13.0,558
+494,"I'm grounded, and won't be able to make Happy Hour.",1.313953488372093,0.043261604487321734,172.0,127.0,36.0,9.0,558
+494,911? Help! I'm being held prisoner by overprotective parents.,1.313953488372093,0.046298641954541864,172.0,131.0,28.0,13.0,558
+494,The only downside to living rent free with my parents is mandatory nap time.,1.313953488372093,0.046298641954541864,172.0,131.0,28.0,13.0,558
 494,Stop calling me a big baby!,1.313953488372093,0.04845165234383572,172.0,134.0,22.0,16.0,558
-494,This call may be recorded for training purposes.,1.313953488372093,0.04326160448732173,172.0,127.0,36.0,9.0,558
+494,This call may be recorded for training purposes.,1.313953488372093,0.043261604487321734,172.0,127.0,36.0,9.0,558
 494,I'll look for a job in the morning.,1.313953488372093,0.04083586725911916,172.0,124.0,42.0,6.0,558
 494,Can you hear me now? My voice has changed.,1.313953488372093,0.044040502708550096,172.0,128.0,34.0,10.0,558
 494,"Hey dude, you've gotta come check out my new crib.",1.313953488372093,0.04246842317314247,172.0,126.0,38.0,8.0,558
@@ -526,7 +526,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 494,"Yo, bro. In my crib. Chillin.",1.313953488372093,0.045558366858684834,172.0,130.0,30.0,12.0,558
 494,"Mom, Dad, you wanna hold it down in there.",1.313953488372093,0.04702726552585443,172.0,132.0,26.0,14.0,558
 494,...and tomorrow can you tell my professor that I really feel like I deserve an A,1.313953488372093,0.049148367936812216,172.0,135.0,20.0,17.0,558
-494,How about just hanging out with me in my crib tonight?,1.313953488372093,0.04326160448732173,172.0,127.0,36.0,9.0,558
+494,How about just hanging out with me in my crib tonight?,1.313953488372093,0.043261604487321734,172.0,127.0,36.0,9.0,558
 494,Mother? Have you finished filling out my job applications yet?,1.313953488372093,0.04774477101048416,172.0,133.0,24.0,15.0,558
 494,You do know that 'sleep like a baby' is just an expression?,1.313953488372093,0.04480586272828769,172.0,129.0,32.0,11.0,558
 494,"I'm thirsty, can you bring me a beer?",1.313953488372093,0.045558366858684834,172.0,130.0,30.0,12.0,558
@@ -577,9 +577,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 573,Let's just say that I think I've hit a bit of a growth spurt.,1.3012048192771084,0.04638826846039554,166.0,128.0,26.0,12.0,558
 573,I know why the caged bird sings.,1.3012048192771084,0.04638826846039554,166.0,128.0,26.0,12.0,558
 573,Is time-out going to be over soon?,1.3012048192771084,0.04478652420648604,166.0,126.0,30.0,10.0,558
-573,"No, but you have given me a great topic for my college admission essay.",1.3012048192771084,0.045594430587802534,166.0,127.0,28.0,11.0,558
+573,"No, but you have given me a great topic for my college admission essay.",1.3012048192771084,0.04559443058780253,166.0,127.0,28.0,11.0,558
 573,Stop treating me like a child!,1.3012048192771084,0.04869219137743833,166.0,131.0,20.0,15.0,558
-573,I'm just waiting for my parents to come pick me up,1.3012048192771084,0.045594430587802534,166.0,127.0,28.0,11.0,558
+573,I'm just waiting for my parents to come pick me up,1.3012048192771084,0.04559443058780253,166.0,127.0,28.0,11.0,558
 573,Am I grounded for my life or yours?,1.3012048192771084,0.04638826846039554,166.0,128.0,26.0,12.0,558
 573,"Mom, Dad, I sure hope you are saving up for my therapy.",1.3012048192771084,0.040505999553883884,166.0,121.0,40.0,5.0,558
 573,I'm staying here until the Trump presidency is over.,1.3012048192771084,0.04478652420648604,166.0,126.0,30.0,10.0,558
@@ -695,20 +695,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 683,"Mom, who is The Donald and why is he tweeting me?",1.2830188679245282,0.04732479911287327,159.0,126.0,21.0,12.0,558
 683,"Mom, can you bring me a bottle? Vodkas's fine.",1.2830188679245282,0.04383138860991947,159.0,122.0,29.0,8.0,558
 683,"Mommy, 'nuther growth spurt!",1.2830188679245282,0.046476070349953234,159.0,125.0,23.0,11.0,558
-683,Is time out over? I'm 20 now.,1.2830188679245282,0.04561155137981818,159.0,124.0,25.0,10.0,558
+683,Is time out over? I'm 20 now.,1.2830188679245282,0.045611551379818184,159.0,124.0,25.0,10.0,558
 683,Just a reminder that you have 10 minutes before my next feeding.,1.2830188679245282,0.0447303266629452,159.0,123.0,27.0,9.0,558
 683,"But Mommy, I need my blankie--it's finals week!",1.2830188679245282,0.0447303266629452,159.0,123.0,27.0,9.0,558
 683,"I'll have the Gerber's Alfredo, please.",1.2830188679245282,0.0447303266629452,159.0,123.0,27.0,9.0,558
 683,When you bring my bottle this time make it a Bud.,1.2830188679245282,0.0447303266629452,159.0,123.0,27.0,9.0,558
-683,Is my time out over yet?,1.2830188679245282,0.04561155137981818,159.0,124.0,25.0,10.0,558
-683,I'm ready to move to the basement.,1.2830188679245282,0.04561155137981818,159.0,124.0,25.0,10.0,558
+683,Is my time out over yet?,1.2830188679245282,0.045611551379818184,159.0,124.0,25.0,10.0,558
+683,I'm ready to move to the basement.,1.2830188679245282,0.045611551379818184,159.0,124.0,25.0,10.0,558
 683,"Honey, your father and I owe you an apology, we may have let you over-sleep.",1.2830188679245282,0.0447303266629452,159.0,123.0,27.0,9.0,558
 683,Could we meet at your place? I'm a little penned in.,1.2830188679245282,0.0447303266629452,159.0,123.0,27.0,9.0,558
 683,It's a go. I'm breaking out of the pen tonight.,1.2830188679245282,0.042913624078767455,159.0,121.0,31.0,7.0,558
-683,"Mom, is quiet time over yet? It's been a while.",1.2830188679245282,0.04561155137981818,159.0,124.0,25.0,10.0,558
+683,"Mom, is quiet time over yet? It's been a while.",1.2830188679245282,0.045611551379818184,159.0,124.0,25.0,10.0,558
 683,Sleeping like a baby's not all it's cracked up to be.,1.2830188679245282,0.042913624078767455,159.0,121.0,31.0,7.0,558
-683,Wanna hang out at my crib or yours ?,1.2830188679245282,0.04561155137981818,159.0,124.0,25.0,10.0,558
-683,I'm not leaving as long as Donald Trump is president.,1.2830188679245282,0.04561155137981818,159.0,124.0,25.0,10.0,558
+683,Wanna hang out at my crib or yours ?,1.2830188679245282,0.045611551379818184,159.0,124.0,25.0,10.0,558
+683,I'm not leaving as long as Donald Trump is president.,1.2830188679245282,0.045611551379818184,159.0,124.0,25.0,10.0,558
 683,I pooped again. Over.,1.2830188679245282,0.046476070349953234,159.0,125.0,23.0,11.0,558
 683,"Mommy, I want a glass of merlot.",1.2830188679245282,0.0447303266629452,159.0,123.0,27.0,9.0,558
 683,"Sell the Amazon stock, move it into CXW and bring me my bottle.",1.2830188679245282,0.042913624078767455,159.0,121.0,31.0,7.0,558
@@ -725,8 +725,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 718,"All things being equal, I prefer the swear jar!",1.2802547770700636,0.043181490241751705,157.0,120.0,30.0,7.0,558
 718,I'm not coming out until the 2020 elections.,1.2802547770700636,0.045032873927329034,157.0,122.0,26.0,9.0,558
 718,"I'd like to make dinner reservatuons for two, for tomorrow, for when the big hand is on the 12, and the little hand on the 7.",1.2802547770700636,0.04222536894060715,157.0,119.0,32.0,6.0,558
-718,"Mommy, I'm at the ""safe space"" in my dorm.",1.2802547770700636,0.04852418987955533,157.0,126.0,18.0,13.0,558
-718,I figured that method-acting may help me understand the mindset of our president a little bit better.,1.2802547770700636,0.04852418987955533,157.0,126.0,18.0,13.0,558
+718,"Mommy, I'm at the ""safe space"" in my dorm.",1.2802547770700636,0.048524189879555334,157.0,126.0,18.0,13.0,558
+718,I figured that method-acting may help me understand the mindset of our president a little bit better.,1.2802547770700636,0.048524189879555334,157.0,126.0,18.0,13.0,558
 718,"I'll be down in a minute, honey; I am still checking in with my inner child.",1.2802547770700636,0.045032873927329034,157.0,122.0,26.0,9.0,558
 718,Is this your way of telling me I'm not welcomed back home?,1.2802547770700636,0.04593058949635656,157.0,123.0,24.0,10.0,558
 718,Not the role playing I had in mind.,1.2802547770700636,0.04681109236934048,157.0,124.0,22.0,11.0,558
@@ -807,7 +807,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 802,"At this rate, I'll be 30 before you let me drive.",1.2727272727272727,0.04444598773470116,154.0,120.0,26.0,8.0,558
 802,I promise I'll stop calling it my crib and you my old lady.,1.2727272727272727,0.04539083898251739,154.0,121.0,24.0,9.0,558
 802,"No, why don’t you quit acting like a baby?",1.2727272727272727,0.04444598773470116,154.0,120.0,26.0,8.0,558
-802,It's my turn to chant 'lock her up' and your turn to be Hillary.,1.2727272727272727,0.04722386196811999,154.0,123.0,20.0,11.0,558
+802,It's my turn to chant 'lock her up' and your turn to be Hillary.,1.2727272727272727,0.047223861968119986,154.0,123.0,20.0,11.0,558
 802,"I'm ready to say I'm sorry now, Mommy.",1.2727272727272727,0.04444598773470116,154.0,120.0,26.0,8.0,558
 802,"I get that you're not ready to have a teenager, but I need a ride to the school dance in an hour.",1.2727272727272727,0.043480609332087236,154.0,119.0,28.0,7.0,558
 802,Is this time out about over ?,1.2727272727272727,0.04444598773470116,154.0,120.0,26.0,8.0,558
@@ -833,7 +833,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 802,"Mom, I'm still waiting for you to fill out my college applications.",1.2727272727272727,0.04631641934951832,154.0,122.0,22.0,10.0,558
 802,"Hey Mom, could you text my friends that there's a party in my crib tonight.",1.2727272727272727,0.04811419309317848,154.0,124.0,18.0,12.0,558
 802,I'm a Baby Roomer.,1.2727272727272727,0.04631641934951832,154.0,122.0,22.0,10.0,558
-835,"No, not Pampers. I said I need change.",1.2709677419354841,0.04605026071463241,155.0,123.0,22.0,10.0,558
+835,"No, not Pampers. I said I need change.",1.270967741935484,0.04605026071463241,155.0,123.0,22.0,10.0,558
 836,"Hey, Mom, I was just kidding. I didn't vote for him."" ""Hey mom, I was just kidding. I didn't vote for him.",1.2679738562091505,0.04729211561296106,153.0,123.0,19.0,11.0,558
 836,College is great Mom and I'm in my safe place.,1.2679738562091505,0.04250350149249065,153.0,118.0,29.0,6.0,558
 836,Now you come in and pretend you're my Mommy,1.2679738562091505,0.041479492850282684,153.0,117.0,31.0,5.0,558
@@ -902,23 +902,23 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 892,All I ever get from you lately is static.,1.261744966442953,0.04300938393335905,149.0,116.0,27.0,6.0,558
 892,I think I grew up too fast.,1.261744966442953,0.040846268656912516,149.0,114.0,31.0,4.0,558
 903,Mom? I'm thirsty. Could you crack me open a cold one?,1.2567567567567568,0.04081539481055207,148.0,114.0,30.0,4.0,558
-903,and another thing – no more nursing!,1.2567567567567568,0.04509557746575799,148.0,118.0,22.0,8.0,558
+903,and another thing – no more nursing!,1.2567567567567568,0.045095577465757986,148.0,118.0,22.0,8.0,558
 903,Has it been 4 years yet?,1.2567567567567568,0.04709000354305199,148.0,120.0,18.0,10.0,558
 903,But you said I should rediscover my inner child.,1.2567567567567568,0.041926425043145234,148.0,115.0,28.0,5.0,558
 903,All by myself because Melania wants to stay in liberal New York. Bigly sad.,1.2567567567567568,0.04610357654594071,148.0,119.0,20.0,9.0,558
 903,"Well, at least the rent is free.",1.2567567567567568,0.041926425043145234,148.0,115.0,28.0,5.0,558
 903,Reliving childhood isn't what I thought it would be.,1.2567567567567568,0.04610357654594071,148.0,119.0,20.0,9.0,558
-903,Is it safe to come out? Is the Trump presidency over?,1.2567567567567568,0.04509557746575799,148.0,118.0,22.0,8.0,558
-903,"You win, Mom and Dad. After 30 years, I could start paying you rent.",1.2567567567567568,0.044064525909317864,148.0,117.0,24.0,7.0,558
-903,"Siri, did I remember to brush my teeth?",1.2567567567567568,0.044064525909317864,148.0,117.0,24.0,7.0,558
-903,"Because my therapist says I can't go back to the womb, that's why!",1.2567567567567568,0.044064525909317864,148.0,117.0,24.0,7.0,558
-903,"Inner Child, do you receive me? Over.",1.2567567567567568,0.044064525909317864,148.0,117.0,24.0,7.0,558
-903,Secretly reporting from inside the tweet room at the White House. Back to you Bob.,1.2567567567567568,0.04509557746575799,148.0,118.0,22.0,8.0,558
+903,Is it safe to come out? Is the Trump presidency over?,1.2567567567567568,0.045095577465757986,148.0,118.0,22.0,8.0,558
+903,"You win, Mom and Dad. After 30 years, I could start paying you rent.",1.2567567567567568,0.04406452590931786,148.0,117.0,24.0,7.0,558
+903,"Siri, did I remember to brush my teeth?",1.2567567567567568,0.04406452590931786,148.0,117.0,24.0,7.0,558
+903,"Because my therapist says I can't go back to the womb, that's why!",1.2567567567567568,0.04406452590931786,148.0,117.0,24.0,7.0,558
+903,"Inner Child, do you receive me? Over.",1.2567567567567568,0.04406452590931786,148.0,117.0,24.0,7.0,558
+903,Secretly reporting from inside the tweet room at the White House. Back to you Bob.,1.2567567567567568,0.045095577465757986,148.0,118.0,22.0,8.0,558
 903,"I don't know, I just feel like financially, I'm not ready to leave the crib yet.",1.2567567567567568,0.04300876399358287,148.0,116.0,26.0,6.0,558
 903,Enough with the baby talk.,1.2567567567567568,0.041926425043145234,148.0,115.0,28.0,5.0,558
 903,Why wasn't there a trigger warning for adulthood?,1.2567567567567568,0.04300876399358287,148.0,116.0,26.0,6.0,558
-903,Don't expect me to pick up the cost of your long-term care.,1.2567567567567568,0.04509557746575799,148.0,118.0,22.0,8.0,558
-903,I think it's his attempt to stay on our health insurance as long as possible.,1.2567567567567568,0.04509557746575799,148.0,118.0,22.0,8.0,558
+903,Don't expect me to pick up the cost of your long-term care.,1.2567567567567568,0.045095577465757986,148.0,118.0,22.0,8.0,558
+903,I think it's his attempt to stay on our health insurance as long as possible.,1.2567567567567568,0.045095577465757986,148.0,118.0,22.0,8.0,558
 903,Can we negotiate an upgrade?,1.2567567567567568,0.041926425043145234,148.0,115.0,28.0,5.0,558
 903,When are you guys coming home?,1.2567567567567568,0.041926425043145234,148.0,115.0,28.0,5.0,558
 903,"....and then I said to my folks, ""I'm not voting, since it doesn't matter who wins"".",1.2567567567567568,0.048056186875800745,148.0,121.0,16.0,11.0,558
@@ -931,7 +931,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 927,Hello Pizza Hut?,1.2534246575342465,0.04539403284374744,146.0,117.0,21.0,8.0,558
 927,"Dad, it's time you stopped worrying about SIDS.",1.2534246575342465,0.0464229633813782,146.0,118.0,19.0,9.0,558
 927,Hey mom. Don't forget that I have an early meeting at work.,1.2534246575342465,0.044341232577925264,146.0,116.0,23.0,7.0,558
-927,"Honey, I don't think this is what the therapist meant by 'try role play'",1.2534246575342465,0.04326282001025938,146.0,115.0,25.0,6.0,558
+927,"Honey, I don't think this is what the therapist meant by 'try role play'",1.2534246575342465,0.043262820010259384,146.0,115.0,25.0,6.0,558
 927,Did he win a second term or can I come out now?,1.2534246575342465,0.044341232577925264,146.0,116.0,23.0,7.0,558
 927,"This isn't exactly what I had in mind when I said you never ""baby"" me anymore.",1.2534246575342465,0.04539403284374744,146.0,117.0,21.0,8.0,558
 927,The sublet is working out fine.,1.2534246575342465,0.04539403284374744,146.0,117.0,21.0,8.0,558
@@ -950,20 +950,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 927,"Honey, I'm a little bit unsure about this fantasy.",1.2534246575342465,0.044341232577925264,146.0,116.0,23.0,7.0,558
 927,Kid me not.,1.2534246575342465,0.04841526775396272,146.0,120.0,15.0,11.0,558
 927,I was kidding when I said I wished I were a kid again.,1.2534246575342465,0.044341232577925264,146.0,116.0,23.0,7.0,558
-927,I'm not really sure maybe I'll apply to grad school,1.2534246575342465,0.04326282001025938,146.0,115.0,25.0,6.0,558
+927,I'm not really sure maybe I'll apply to grad school,1.2534246575342465,0.043262820010259384,146.0,115.0,25.0,6.0,558
 927,I can't. They've got me behind bars.,1.2534246575342465,0.04539403284374744,146.0,117.0,21.0,8.0,558
 927,"Okay, I promise not to ever talk about the Electoral College again.",1.2534246575342465,0.044341232577925264,146.0,116.0,23.0,7.0,558
 927,"OK, if you have your Wicked Stepmother outfit on, come on in. Bring the whip.",1.2534246575342465,0.0464229633813782,146.0,118.0,19.0,9.0,558
 927,Hello. Adele? I'm breaking out tonight. Can we get together?,1.2534246575342465,0.04539403284374744,146.0,117.0,21.0,8.0,558
 927,"I think we can all agree this ""Time Out"" has run its course.",1.2534246575342465,0.04539403284374744,146.0,117.0,21.0,8.0,558
-927,I do love you but I need to nurture my inner child right now.,1.2534246575342465,0.04326282001025938,146.0,115.0,25.0,6.0,558
+927,I do love you but I need to nurture my inner child right now.,1.2534246575342465,0.043262820010259384,146.0,115.0,25.0,6.0,558
 927,"Hey, babe, this isn't as much fun as I thought it would be.",1.2534246575342465,0.044341232577925264,146.0,116.0,23.0,7.0,558
 927,"OK, I get the hint. I'm going to find my own place. But I don't know why I can't at least get some warm milk.",1.2534246575342465,0.044341232577925264,146.0,116.0,23.0,7.0,558
 927,Mom? Could we talk?,1.2534246575342465,0.04539403284374744,146.0,117.0,21.0,8.0,558
 927,"Mom, stop talking to me as if I were a child.",1.2534246575342465,0.04539403284374744,146.0,117.0,21.0,8.0,558
 927,Hello? Jake from State Farm?,1.2534246575342465,0.044341232577925264,146.0,116.0,23.0,7.0,558
 927,"Yes, adulting IS hard, Justin, but we need the crib for the grandkids now.",1.2534246575342465,0.04539403284374744,146.0,117.0,21.0,8.0,558
-927,Honey this isn't what I meant by baby me!,1.2534246575342465,0.04326282001025938,146.0,115.0,25.0,6.0,558
+927,Honey this isn't what I meant by baby me!,1.2534246575342465,0.043262820010259384,146.0,115.0,25.0,6.0,558
 927,"Honey, did you say kinky or creepy?",1.2534246575342465,0.047429577695762185,146.0,119.0,17.0,10.0,558
 927,Mom? Want to see my overnight growth spurt?,1.2534246575342465,0.044341232577925264,146.0,116.0,23.0,7.0,558
 927,Just be thankful that I'm potty trained.,1.2534246575342465,0.044341232577925264,146.0,116.0,23.0,7.0,558
@@ -972,7 +972,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 927,"Diane, make a note to get me some pajamas that fit.",1.2534246575342465,0.044341232577925264,146.0,116.0,23.0,7.0,558
 927,You're right Mom and Dad. I AM a big baby.,1.2534246575342465,0.0421568296240424,146.0,114.0,27.0,5.0,558
 927,Please answer me. Is my timeout over?,1.2534246575342465,0.0464229633813782,146.0,118.0,19.0,9.0,558
-927,"Yes, I'd like the GMO-free lo mein, a full-ride scholarship and an apartment full of Swedish furniture.",1.2534246575342465,0.04326282001025938,146.0,115.0,25.0,6.0,558
+927,"Yes, I'd like the GMO-free lo mein, a full-ride scholarship and an apartment full of Swedish furniture.",1.2534246575342465,0.043262820010259384,146.0,115.0,25.0,6.0,558
 927,OK - you win. There is no going back.,1.2534246575342465,0.044341232577925264,146.0,116.0,23.0,7.0,558
 927,"Mom, I thought you said kids don't grow overnight.",1.2534246575342465,0.04841526775396272,146.0,120.0,15.0,11.0,558
 927,The eagle is in the nest... Repeat: the eagle is in the nest.,1.2534246575342465,0.044341232577925264,146.0,116.0,23.0,7.0,558
@@ -993,23 +993,23 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 981,"Mom, I think I am ready for a big boy bed!",1.2482758620689656,0.042130788064623566,145.0,114.0,26.0,5.0,558
 981,When I grow up I'm gonna be President.,1.2482758620689656,0.04434607292841477,145.0,116.0,22.0,7.0,558
 981,"""Jimmy to mom.....I am pretty sure I should be going to school by now. Over.",1.2482758620689656,0.04541320980491588,145.0,117.0,20.0,8.0,558
-981,Stop pressuring me.,1.2482758620689656,0.047475577995548,145.0,119.0,16.0,10.0,558
+981,Stop pressuring me.,1.2482758620689656,0.047475577995547996,145.0,119.0,16.0,10.0,558
 981,I didn't realize you meant you were counting to ten years.,1.2482758620689656,0.043252615453394885,145.0,115.0,24.0,6.0,558
-981,It just seems like a bit much -- can't we just use a condom?,1.2482758620689656,0.049452010952411384,145.0,121.0,12.0,12.0,558
+981,It just seems like a bit much -- can't we just use a condom?,1.2482758620689656,0.04945201095241138,145.0,121.0,12.0,12.0,558
 981,I'd like a large pepperoni pizza delivered to my crib.,1.2482758620689656,0.04645583994933613,145.0,118.0,18.0,9.0,558
 981,"Yo, come hang at my crib.",1.2482758620689656,0.043252615453394885,145.0,115.0,24.0,6.0,558
 981,When do I get to come out of time-out?,1.2482758620689656,0.04434607292841477,145.0,116.0,22.0,7.0,558
 981,"If you're listening, I'm sorry.",1.2482758620689656,0.043252615453394885,145.0,115.0,24.0,6.0,558
 981,"Remember, kids. even if you remain frozen at a five-year old intellectual and emotional level, you can still become president!",1.2482758620689656,0.04645583994933613,145.0,118.0,18.0,9.0,558
 981,We're gonna need a bigger crib,1.2482758620689656,0.04541320980491588,145.0,117.0,20.0,8.0,558
-981,"Better safe than sorry, son. Did you hear what happened in Sweden last night?",1.2482758620689656,0.047475577995548,145.0,119.0,16.0,10.0,558
+981,"Better safe than sorry, son. Did you hear what happened in Sweden last night?",1.2482758620689656,0.047475577995547996,145.0,119.0,16.0,10.0,558
 981,Do you remember that movie 'Big' with Tom Hanks?,1.2482758620689656,0.042130788064623566,145.0,114.0,26.0,5.0,558
 981,Tell Mr. Trump it's his National Security Advisor.,1.2482758620689656,0.04541320980491588,145.0,117.0,20.0,8.0,558
 981,Can I please come out of time-out?,1.2482758620689656,0.04541320980491588,145.0,117.0,20.0,8.0,558
-981,"Susan, we have a problem.",1.2482758620689656,0.047475577995548,145.0,119.0,16.0,10.0,558
+981,"Susan, we have a problem.",1.2482758620689656,0.047475577995547996,145.0,119.0,16.0,10.0,558
 981,10-4 . . . Just chillin in da crib.,1.2482758620689656,0.04434607292841477,145.0,116.0,22.0,7.0,558
 981,"Some Fritos and a beer, please.....",1.2482758620689656,0.04645583994933613,145.0,118.0,18.0,9.0,558
-981,"I appreciate your letting me move back in after college, although I have to say that I find the accommodations bit triggering.",1.2482758620689656,0.049452010952411384,145.0,121.0,12.0,12.0,558
+981,"I appreciate your letting me move back in after college, although I have to say that I find the accommodations bit triggering.",1.2482758620689656,0.04945201095241138,145.0,121.0,12.0,12.0,558
 981,"Mom, even though I can't afford my own place, this seems a bit excessive.",1.2482758620689656,0.043252615453394885,145.0,115.0,24.0,6.0,558
 981,"Mom, dad, anybody there?",1.2482758620689656,0.043252615453394885,145.0,115.0,24.0,6.0,558
 981,Mom? Remember what you said about eating my spinach?,1.2482758620689656,0.043252615453394885,145.0,115.0,24.0,6.0,558
@@ -1026,7 +1026,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1019,Just how long does this baby monitoring go on?,1.2447552447552448,0.04350539863182022,143.0,114.0,23.0,6.0,558
 1019,How long have I been out?,1.2447552447552448,0.04350539863182022,143.0,114.0,23.0,6.0,558
 1019,How's the economy now?,1.2447552447552448,0.04350539863182022,143.0,114.0,23.0,6.0,558
-1019,"If the IPO does well, I'll get an office.",1.2447552447552448,0.046778188067006066,143.0,117.0,17.0,9.0,558
+1019,"If the IPO does well, I'll get an office.",1.2447552447552448,0.04677818806700607,143.0,117.0,17.0,9.0,558
 1019,I know the rest of the Cabinet can hear me.,1.2447552447552448,0.04883835573922672,143.0,119.0,13.0,11.0,558
 1019,"I don't want to argue, I just want to know at what age you think he'll be able to sleep in his own bed...",1.2447552447552448,0.045713300281128834,143.0,116.0,19.0,8.0,558
 1019,"Mommy, there's a monster in my calculus book.",1.2447552447552448,0.04883835573922672,143.0,119.0,13.0,11.0,558
@@ -1053,7 +1053,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1047,Aren't I old enough for an iPhone?,1.2430555555555556,0.04323564362580423,144.0,115.0,23.0,6.0,558
 1047,"Goo goo to gah gah, come in gah gah",1.2430555555555556,0.04323564362580423,144.0,115.0,23.0,6.0,558
 1047,Is she asleep yet?,1.2430555555555556,0.04648328915979201,144.0,118.0,17.0,9.0,558
-1047,My therapist wants me to discover my inner child.,1.2430555555555556,0.040927627410923186,144.0,113.0,27.0,4.0,558
+1047,My therapist wants me to discover my inner child.,1.2430555555555556,0.04092762741092319,144.0,113.0,27.0,4.0,558
 1047,This is going to be awkward when I start dating.,1.2430555555555556,0.039723363255926035,144.0,112.0,29.0,3.0,558
 1047,"But if I'm here, where's the baby?",1.2430555555555556,0.04323564362580423,144.0,115.0,23.0,6.0,558
 1047,"Ok, I get it. I'll ask for my job back.",1.2430555555555556,0.04434462737314007,144.0,116.0,21.0,7.0,558
@@ -1160,7 +1160,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1148,I'll be in a fetal position until further notice.,1.2318840579710144,0.04517307487180757,138.0,113.0,18.0,7.0,558
 1148,My new nanny is so hot.,1.2318840579710144,0.04276720294548079,138.0,111.0,22.0,5.0,558
 1148,The time machine screwed up.,1.2318840579710144,0.04517307487180757,138.0,113.0,18.0,7.0,558
-1148,Call me later. I think my parents are listening on the other line.,1.2318840579710144,0.03888025307773799,138.0,108.0,28.0,2.0,558
+1148,Call me later. I think my parents are listening on the other line.,1.2318840579710144,0.038880253077737986,138.0,108.0,28.0,2.0,558
 1148,"Upon discovering a listening device in his crib, Simon rethinks his earlier position on the proper balance between national security and individual liberty.",1.2318840579710144,0.04517307487180757,138.0,113.0,18.0,7.0,558
 1148,A young Trump follower awaits his 4 a.m. tweet!,1.2318840579710144,0.0463291832020696,138.0,114.0,16.0,8.0,558
 1165,Mom? Dad? Are you there? It's been twenty years and you still haven't come to kiss me goodnight.,1.2262773722627738,0.04632559356723558,137.0,114.0,15.0,8.0,558
@@ -1228,7 +1228,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1200,MY TIMEOUT IS OVER. PLEASE RETURN MY I-PHONE.,1.2222222222222223,0.04542857358079981,135.0,112.0,16.0,7.0,558
 1200,"gee wiz, I knew I would get grounded for the weekend but this is a bit much..",1.2222222222222223,0.04542857358079981,135.0,112.0,16.0,7.0,558
 1200,Hey Mom? My phone bill is past due.,1.2222222222222223,0.0441949881555884,135.0,111.0,18.0,6.0,558
-1200,I need dental insurance? But I've been coming to this toothfairy for years!,1.2222222222222223,0.04780033406382458,135.0,114.0,12.0,9.0,558
+1200,I need dental insurance? But I've been coming to this toothfairy for years!,1.2222222222222223,0.047800334063824584,135.0,114.0,12.0,9.0,558
 1200,Some times they forget I am here.,1.2222222222222223,0.0441949881555884,135.0,111.0,18.0,6.0,558
 1200,You're a really bad babysitter.,1.2222222222222223,0.04292596718256975,135.0,110.0,20.0,5.0,558
 1200,"Mom, I swear that Trump is in my closet!",1.2222222222222223,0.04292596718256975,135.0,110.0,20.0,5.0,558
@@ -1263,8 +1263,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1238,Why can't Dad take my SATs today?,1.218045112781955,0.045706955198853184,133.0,111.0,15.0,7.0,558
 1238,Stop calling me 'Baby!',1.218045112781955,0.045706955198853184,133.0,111.0,15.0,7.0,558
 1238,"Still not recalling any trauma, doc. Can I get back on the couch now?",1.218045112781955,0.0444432738105242,133.0,110.0,17.0,6.0,558
-1238,I think there's a monster in my liqueur closet.,1.218045112781955,0.046936626637442934,133.0,112.0,13.0,8.0,558
-1238,"Mom, my therapist also wants to know why I won't leave home.",1.218045112781955,0.046936626637442934,133.0,112.0,13.0,8.0,558
+1238,I think there's a monster in my liqueur closet.,1.218045112781955,0.04693662663744293,133.0,112.0,13.0,8.0,558
+1238,"Mom, my therapist also wants to know why I won't leave home.",1.218045112781955,0.04693662663744293,133.0,112.0,13.0,8.0,558
 1238,I'm not changing his diaper!,1.218045112781955,0.045706955198853184,133.0,111.0,15.0,7.0,558
 1238,"Mom, my interview is tomorrow. Come read me the resume you wrote for me!",1.218045112781955,0.04041585193137698,133.0,107.0,23.0,3.0,558
 1238,"Breaker, breaker 19, this here is Big Boy. Looking for an ETA on breakfast. Copy?",1.218045112781955,0.0444432738105242,133.0,110.0,17.0,6.0,558
@@ -1279,7 +1279,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1238,But this is my safe space.,1.218045112781955,0.04180146234154655,133.0,108.0,21.0,4.0,558
 1238,"Ground control to Mom and Dad, I'm slipping into puberty.",1.218045112781955,0.0444432738105242,133.0,110.0,17.0,6.0,558
 1238,But wouldn't it be crazier NOT to run through a few emergency scenario dress rehearsals with prospective babysitters?,1.218045112781955,0.043142594039353735,133.0,109.0,19.0,5.0,558
-1238,Nobody has listened to me in years.,1.218045112781955,0.046936626637442934,133.0,112.0,13.0,8.0,558
+1238,Nobody has listened to me in years.,1.218045112781955,0.04693662663744293,133.0,112.0,13.0,8.0,558
 1238,I'm in my safe space.,1.218045112781955,0.045706955198853184,133.0,111.0,15.0,7.0,558
 1238,This baby fetish demeans us both.,1.218045112781955,0.04041585193137698,133.0,107.0,23.0,3.0,558
 1238,"Meanwhile, in the Van Winkle condo, young Rip suspects that something is not quite right.",1.218045112781955,0.045706955198853184,133.0,111.0,15.0,7.0,558
@@ -1308,8 +1308,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1238,"Yo, mom, you forgot my nightcap.",1.218045112781955,0.0444432738105242,133.0,110.0,17.0,6.0,558
 1238,I won't come down until I can vote.,1.218045112781955,0.0444432738105242,133.0,110.0,17.0,6.0,558
 1238,"We never should have let him read ""The Catcher in the Rye"".",1.218045112781955,0.043142594039353735,133.0,109.0,19.0,5.0,558
-1238,Aren’t we taking my arrested development disorder a bit too far?,1.218045112781955,0.046936626637442934,133.0,112.0,13.0,8.0,558
-1311,Can I get out of time-out now?,1.2164179104477613,0.042850330900962866,134.0,110.0,19.0,5.0,558
+1238,Aren’t we taking my arrested development disorder a bit too far?,1.218045112781955,0.04693662663744293,133.0,112.0,13.0,8.0,558
+1311,Can I get out of time-out now?,1.2164179104477613,0.04285033090096287,134.0,110.0,19.0,5.0,558
 1312,I'm good mom. Thanks.,1.2121212121212122,0.04305893167863623,132.0,109.0,18.0,5.0,558
 1312,"So, the new phone update came with a time travel option...",1.2121212121212122,0.044381663086340006,132.0,110.0,16.0,6.0,558
 1312,Ovf course I can hear you - you're in the next room...,1.2121212121212122,0.03730187546611742,132.0,105.0,26.0,1.0,558
@@ -1424,12 +1424,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1421,Nobody puts baby in the crib.,1.2076923076923076,0.04593967401838184,130.0,110.0,13.0,7.0,558
 1421,"Bobby, this is the Provost. Don't leave your safe zone. President Trump is still on the television in the dorm lounge.",1.2076923076923076,0.04721984999226545,130.0,111.0,11.0,8.0,558
 1421,"Beam me up, Dr Spock",1.2076923076923076,0.04326583502212178,130.0,108.0,17.0,5.0,558
-1421,"Honey? I fell for it, again.",1.2076923076923076,0.038912089728397666,130.0,105.0,23.0,2.0,558
-1421,Don't think I don't know what you're doing.,1.2076923076923076,0.038912089728397666,130.0,105.0,23.0,2.0,558
+1421,"Honey? I fell for it, again.",1.2076923076923076,0.03891208972839767,130.0,105.0,23.0,2.0,558
+1421,Don't think I don't know what you're doing.,1.2076923076923076,0.03891208972839767,130.0,105.0,23.0,2.0,558
 1421,But she won the popular vote!,1.2076923076923076,0.04326583502212178,130.0,108.0,17.0,5.0,558
-1421,"Just kickin' it at ""the crib.""",1.2076923076923076,0.041864924409158996,130.0,107.0,19.0,4.0,558
+1421,"Just kickin' it at ""the crib.""",1.2076923076923076,0.041864924409159,130.0,107.0,19.0,4.0,558
 1421,"Ok, I'm sorry for voting for Trump, can I have my big boy bed back now?",1.2076923076923076,0.04041548356023634,130.0,106.0,21.0,3.0,558
-1421,Would you rather I lived in the basement?,1.2076923076923076,0.041864924409158996,130.0,107.0,19.0,4.0,558
+1421,Would you rather I lived in the basement?,1.2076923076923076,0.041864924409159,130.0,107.0,19.0,4.0,558
 1421,"First, let's move him to a big-boy bed. Then we can talk about health insurance.",1.2076923076923076,0.04326583502212178,130.0,108.0,17.0,5.0,558
 1421,"Tinker Bell, I need help.",1.2076923076923076,0.04041548356023634,130.0,106.0,21.0,3.0,558
 1434,Mom? Dad? Can we talk parenting styles?,1.2015503875968991,0.04316096405294592,129.0,108.0,16.0,5.0,558
@@ -2138,16 +2138,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2084,Is this thing on?,1.1565217391304348,0.0382518538715596,115.0,99.0,14.0,2.0,558
 2084,My therapist told me that to cope with my depression I should try and bring out my inner child.,1.1565217391304348,0.043827733554238336,115.0,102.0,8.0,5.0,558
 2084,Sleep tight!,1.1565217391304348,0.04019651260878074,115.0,100.0,12.0,3.0,558
-2140,Tell Dad to text me that talk.,1.1551724137931034,0.04170908075791738,116.0,102.0,10.0,4.0,558
+2140,Tell Dad to text me that talk.,1.1551724137931034,0.041709080757917384,116.0,102.0,10.0,4.0,558
 2140,"I'm telling ya, this pen ain't big enough to hold me.",1.1551724137931034,0.039871322779526826,116.0,101.0,12.0,3.0,558
 2140,What happened to grounding?,1.1551724137931034,0.04346921272753549,116.0,103.0,8.0,5.0,558
 2140,Note to self: Get bigger pajamas and a larger crib.,1.1551724137931034,0.03794466158378482,116.0,100.0,14.0,2.0,558
 2140,Still 2017...,1.1551724137931034,0.039871322779526826,116.0,101.0,12.0,3.0,558
-2140,"Donnie, its' 3:00 a.m. Put the baby monitor down and go to sleep!",1.1551724137931034,0.04170908075791738,116.0,102.0,10.0,4.0,558
+2140,"Donnie, its' 3:00 a.m. Put the baby monitor down and go to sleep!",1.1551724137931034,0.041709080757917384,116.0,102.0,10.0,4.0,558
 2140,Don't make me come down there.,1.1551724137931034,0.039871322779526826,116.0,101.0,12.0,3.0,558
 2140,They never think to look for me here.,1.1551724137931034,0.0359147922899005,116.0,99.0,16.0,1.0,558
-2140,"Yo Yo Yo, just chillin in ma crib yo ...",1.1551724137931034,0.04170908075791738,116.0,102.0,10.0,4.0,558
-2140,Mom? Dad? My jammies have all of a sudden gotten too tight... I feel funny.,1.1551724137931034,0.04170908075791738,116.0,102.0,10.0,4.0,558
+2140,"Yo Yo Yo, just chillin in ma crib yo ...",1.1551724137931034,0.041709080757917384,116.0,102.0,10.0,4.0,558
+2140,Mom? Dad? My jammies have all of a sudden gotten too tight... I feel funny.,1.1551724137931034,0.041709080757917384,116.0,102.0,10.0,4.0,558
 2140,"No, I DON'T think I have a Mommy complex.",1.1551724137931034,0.039871322779526826,116.0,101.0,12.0,3.0,558
 2140,This isn't better than Obamacare!,1.1551724137931034,0.039871322779526826,116.0,101.0,12.0,3.0,558
 2140,"Room service? I'd like to order breakfast. half a pint of orange juice 3 eggs lightly scrambled with bacon, a double portion of cafe espresso with cream. Toast. Marmalade. Got it?",1.1551724137931034,0.039871322779526826,116.0,101.0,12.0,3.0,558
@@ -2156,7 +2156,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2140,"Mom, is the monster gone yet?",1.1551724137931034,0.03794466158378482,116.0,100.0,14.0,2.0,558
 2140,"Grandma, don't you think I'm too old for a time out?",1.1551724137931034,0.0359147922899005,116.0,99.0,16.0,1.0,558
 2140,"This wasn't exactly the ""loft space above the garage"" I was expecting when I moved back in with them after my startup went belly up.",1.1551724137931034,0.03794466158378482,116.0,100.0,14.0,2.0,558
-2140,"OK, you win...the crib does need a mattress.",1.1551724137931034,0.04170908075791738,116.0,102.0,10.0,4.0,558
+2140,"OK, you win...the crib does need a mattress.",1.1551724137931034,0.041709080757917384,116.0,102.0,10.0,4.0,558
 2140,Wwhhhaaaaaaa...I thought he'd be out of the house by now.,1.1551724137931034,0.03794466158378482,116.0,100.0,14.0,2.0,558
 2160,This new stress relief method still needs wine.,1.1504424778761062,0.040190048948196784,113.0,99.0,11.0,3.0,558
 2160,"I prefer ""pillow talk"" to ""baby talk.""",1.1504424778761062,0.040190048948196784,113.0,99.0,11.0,3.0,558
@@ -2211,10 +2211,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2160,"See, living at my parents isn't so bad.",1.1504424778761062,0.040190048948196784,113.0,99.0,11.0,3.0,558
 2160,I shouldn't've told them I identified as a girl.,1.1504424778761062,0.03817344917037735,113.0,98.0,13.0,2.0,558
 2160,"Yes, Mom, I like the dorm room.",1.1504424778761062,0.040190048948196784,113.0,99.0,11.0,3.0,558
-2213,Make me young again!,1.149122807017544,0.035750989229939474,114.0,98.0,15.0,1.0,558
-2213,"In other news, the world is still a mess",1.149122807017544,0.035750989229939474,114.0,98.0,15.0,1.0,558
-2213,The son you were waiting for to rise has risen.,1.149122807017544,0.03985779749521051,114.0,100.0,11.0,3.0,558
-2213,Hey Mick - get me out of your cartoon!,1.149122807017544,0.0378601192027208,114.0,99.0,13.0,2.0,558
+2213,Make me young again!,1.1491228070175439,0.035750989229939474,114.0,98.0,15.0,1.0,558
+2213,"In other news, the world is still a mess",1.1491228070175439,0.035750989229939474,114.0,98.0,15.0,1.0,558
+2213,The son you were waiting for to rise has risen.,1.1491228070175439,0.03985779749521051,114.0,100.0,11.0,3.0,558
+2213,Hey Mick - get me out of your cartoon!,1.1491228070175439,0.0378601192027208,114.0,99.0,13.0,2.0,558
 2217,And here's your millennial forecast: cloudy with 100% chance of special snowflakes.,1.1428571428571428,0.037747771881756674,112.0,98.0,12.0,2.0,558
 2217,"Mom, I've outgrown my jammies.",1.1428571428571428,0.037747771881756674,112.0,98.0,12.0,2.0,558
 2217,"I'll have a diaper change. Men's large, please.",1.1428571428571428,0.037747771881756674,112.0,98.0,12.0,2.0,558
@@ -2344,7 +2344,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2337,I really gotta go potty.,1.1363636363636365,0.03976006589840688,110.0,98.0,9.0,3.0,558
 2337,This is my punishment when I act childish.,1.1363636363636365,0.03531644797343022,110.0,96.0,13.0,1.0,558
 2337,"Testing, one, two, three. I have needs!",1.1363636363636365,0.03976006589840688,110.0,98.0,9.0,3.0,558
-2337,"Mom, I am 17!",1.1363636363636365,0.04375470469596741,110.0,100.0,5.0,5.0,558
+2337,"Mom, I am 17!",1.1363636363636365,0.043754704695967414,110.0,100.0,5.0,5.0,558
 2337,"I'm not rebelling, I'm seceding.",1.1363636363636365,0.03976006589840688,110.0,98.0,9.0,3.0,558
 2337,"Mommy, can I get a new bed so I can feel like a millennial?",1.1363636363636365,0.03760395150583022,110.0,97.0,11.0,2.0,558
 2337,Grow up already!,1.1363636363636365,0.04180512542306846,110.0,99.0,7.0,4.0,558
@@ -2354,7 +2354,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2337,"What do you mean, you can't turn back time!!",1.1363636363636365,0.03976006589840688,110.0,98.0,9.0,3.0,558
 2337,Honey... Let me know once you have him asleep.,1.1363636363636365,0.03760395150583022,110.0,97.0,11.0,2.0,558
 2337,"""Roger that"". ""When I grow up I want to be president of The United States"".",1.1363636363636365,0.03760395150583022,110.0,97.0,11.0,2.0,558
-2337,When do you think he'll grow out of his presidential phase?,1.1363636363636365,0.04375470469596741,110.0,100.0,5.0,5.0,558
+2337,When do you think he'll grow out of his presidential phase?,1.1363636363636365,0.043754704695967414,110.0,100.0,5.0,5.0,558
 2337,Trump North to Trump South- The Donald has escaped. Repeat- The Donald has escaped!,1.1363636363636365,0.03760395150583022,110.0,97.0,11.0,2.0,558
 2337,"Good morning, Donald.",1.1363636363636365,0.03976006589840688,110.0,98.0,9.0,3.0,558
 2337,"I googled ""playpen"" but I think they got it all wrong.",1.1363636363636365,0.03976006589840688,110.0,98.0,9.0,3.0,558
@@ -2399,11 +2399,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2337,Could you please just pick an interior designer?,1.1363636363636365,0.03976006589840688,110.0,98.0,9.0,3.0,558
 2337,"Oh, they repealed Obamacare?",1.1363636363636365,0.03760395150583022,110.0,97.0,11.0,2.0,558
 2337,You just think you're listening.,1.1363636363636365,0.04180512542306846,110.0,99.0,7.0,4.0,558
-2337,What time is the protest?,1.1363636363636365,0.04375470469596741,110.0,100.0,5.0,5.0,558
+2337,What time is the protest?,1.1363636363636365,0.043754704695967414,110.0,100.0,5.0,5.0,558
 2337,"10-4, Little Buddy.",1.1363636363636365,0.03976006589840688,110.0,98.0,9.0,3.0,558
 2337,I'm starting to feel infantilized.,1.1363636363636365,0.03531644797343022,110.0,96.0,13.0,1.0,558
 2337,pepperoni pizza and a coke please!,1.1363636363636365,0.03760395150583022,110.0,97.0,11.0,2.0,558
-2337,"But, Mommy, President Trump thinks that going backward and putting up walls is good for us!",1.1363636363636365,0.04375470469596741,110.0,100.0,5.0,5.0,558
+2337,"But, Mommy, President Trump thinks that going backward and putting up walls is good for us!",1.1363636363636365,0.043754704695967414,110.0,100.0,5.0,5.0,558
 2337,"Judy, you are so wrong. I am not a big baby!",1.1363636363636365,0.03531644797343022,110.0,96.0,13.0,1.0,558
 2337,Why do they have to make these things so childproof?,1.1363636363636365,0.03976006589840688,110.0,98.0,9.0,3.0,558
 2337,Just found out the 'replace' part of 'repeal and replace.',1.1363636363636365,0.03531644797343022,110.0,96.0,13.0,1.0,558
@@ -2466,10 +2466,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2337,Is the helicopter ready?,1.1363636363636365,0.03760395150583022,110.0,97.0,11.0,2.0,558
 2337,Hello! Hello! .....This has got to be a bad dream!,1.1363636363636365,0.03760395150583022,110.0,97.0,11.0,2.0,558
 2337,I *am* going to be President someday.,1.1363636363636365,0.03976006589840688,110.0,98.0,9.0,3.0,558
-2337,"Are you there God? It's me, Margaret's mom.",1.1363636363636365,0.04375470469596741,110.0,100.0,5.0,5.0,558
+2337,"Are you there God? It's me, Margaret's mom.",1.1363636363636365,0.043754704695967414,110.0,100.0,5.0,5.0,558
 2337,Can I get out of here already?,1.1363636363636365,0.03976006589840688,110.0,98.0,9.0,3.0,558
 2337,"Honey,...requesting to meet the president at his level may be working. Do you see any long, black limousines in the driveway?",1.1363636363636365,0.04180512542306846,110.0,99.0,7.0,4.0,558
-2337,A dingo ate yo' baby!,1.1363636363636365,0.04375470469596741,110.0,100.0,5.0,5.0,558
+2337,A dingo ate yo' baby!,1.1363636363636365,0.043754704695967414,110.0,100.0,5.0,5.0,558
 2337,I need to tinkle.,1.1363636363636365,0.04180512542306846,110.0,99.0,7.0,4.0,558
 2337,The sandwich isn't going to make itself.,1.1363636363636365,0.03760395150583022,110.0,97.0,11.0,2.0,558
 2337,"Look, I got nostalgic, alright?",1.1363636363636365,0.03287013577804593,110.0,95.0,15.0,0.0,558
@@ -2528,7 +2528,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2337,They said fatherhood could be confining.,1.1363636363636365,0.04180512542306846,110.0,99.0,7.0,4.0,558
 2337,Peter Pan as a teenager.,1.1363636363636365,0.03760395150583022,110.0,97.0,11.0,2.0,558
 2337,I find your tone to be inappropriate and infantilizing.,1.1363636363636365,0.04180512542306846,110.0,99.0,7.0,4.0,558
-2337,"Mommy, next year can I be president?",1.1363636363636365,0.04375470469596741,110.0,100.0,5.0,5.0,558
+2337,"Mommy, next year can I be president?",1.1363636363636365,0.043754704695967414,110.0,100.0,5.0,5.0,558
 2337,"Billy outgrew the baby food and rattle, but still enjoyed keeping up with the neighbors' sex life.",1.1363636363636365,0.03976006589840688,110.0,98.0,9.0,3.0,558
 2337,I wonder how long it's gonna take them to notice I'm too big for this playpen.,1.1363636363636365,0.03760395150583022,110.0,97.0,11.0,2.0,558
 2337,But why should I sleep for another four years ?,1.1363636363636365,0.04180512542306846,110.0,99.0,7.0,4.0,558
@@ -2821,59 +2821,59 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2819,One extra large pizza with sausage and pepperoni....I'm hungry.,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,The service here really stinks.,1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,558
 2819,I wish they'd get around to changing the batteries in this thing,1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
-2819,Call 911 the baby's missing.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,Call 911 the baby's missing.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Mom, I had another nightmare about the company merger.",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,"I can act just as childish as you, mom - I just soiled the crib out of spite!",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,"I can act just as childish as you, mom - I just soiled the crib out of spite!",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,Hello? Hello? Is anyone there? Hollo? Hello? Is anyone there?,1.1067961165048543,0.041190686282711504,103.0,96.0,3.0,4.0,558
 2819,"Well mom, I'm grown up and I still don't understand why I can't.",1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,558
 2819,"I think the dry run worked, let's go to the next step, OK?",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,"I-Phone? No way Dude, my parents haven't even bought me a big boy bed!",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,Empty Nester?,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Now you're just being a jerk.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Mom. It's Donald. I need a bath.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,I'm going to flip my pillow over... over.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Are you listening, Vladimir?",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Mom, I think it's time we upgraded to a Smart Monitoring Device.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,Empty Nester?,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Now you're just being a jerk.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Mom. It's Donald. I need a bath.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,I'm going to flip my pillow over... over.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Are you listening, Vladimir?",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Mom, I think it's time we upgraded to a Smart Monitoring Device.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"She gave me the slip. She's on the lam with dirty Binky and a loaded diaper.""",1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,558
-2819,"Oh, for Pete's sake!",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,"Oh, for Pete's sake!",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Just another week, please?",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,I know you can hear us. We're having separation anxiety.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,I know you can hear us. We're having separation anxiety.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Gimme a break Mom, I'm 16!",1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,558
-2819,"OK, Sam. You'll see after a few weeks of this Nursery School role reversal project, you'll appreciate how precious your infancy is.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Do you think someone could update the prison facilities here at Guantanamo?,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,"OK, Sam. You'll see after a few weeks of this Nursery School role reversal project, you'll appreciate how precious your infancy is.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Do you think someone could update the prison facilities here at Guantanamo?,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,Looks like both of us are not sleeping tonight.,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,"It was just a scary dream, sweetie. Mommy promises that her precious Donald John Trump will never have to live with nasty facts.",1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
-2819,I think you'd better go see who's in the shower.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Liquor cabinet. I said the liquor cabinet!,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,I'd like to order a glass of white wine. Just knock and I will unlock the door.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Millenials getting ready for the day,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,I really gotta use the bathroom! Hello? Is anybody there? Mom? Dad?,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Seeking comfort after recent events Jason reverts back to childhood.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Mom, please let me out...I promise not to hack the baby again.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,I think you'd better go see who's in the shower.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Liquor cabinet. I said the liquor cabinet!,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,I'd like to order a glass of white wine. Just knock and I will unlock the door.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Millenials getting ready for the day,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,I really gotta use the bathroom! Hello? Is anybody there? Mom? Dad?,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Seeking comfort after recent events Jason reverts back to childhood.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Mom, please let me out...I promise not to hack the baby again.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Admittedly, I'm a big baby, but I can walk the walk as well as talk the talk.",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,"Mom?....Yes, it has been a while...Say, can you help me out.",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,Stop calling me a big baby!,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Oops, wrong button",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"You could have just taken a picture, Mom.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,MOM! The meatloaf!,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"You forgot to read me my bedtime story, War and Peace.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,Stop calling me a big baby!,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Oops, wrong button",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"You could have just taken a picture, Mom.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,MOM! The meatloaf!,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"You forgot to read me my bedtime story, War and Peace.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Ollie, ollie, oxen, free!",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,This has to be the longest 'whose turn is it?' argument of all time,1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
-2819,"It's just that I'm a millennial, that's all.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Wake me up in 4 years, over and out.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,"It's just that I'm a millennial, that's all.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Wake me up in 4 years, over and out.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,Warning! You have been over-parentalized.!!,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,Let me know when it gets better.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,Let me know when it gets better.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Can I get the banana mush and, uh... Is the formula vegan?",1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,558
-2819,"Mom, do you have my brother?",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Mom, just tell the officer he can arrest me when I'm done with my nap.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,The lying press wants me to stop tweeting...get me a damn rattle!,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Honey, I am sick.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,"Mom, do you have my brother?",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Mom, just tell the officer he can arrest me when I'm done with my nap.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,The lying press wants me to stop tweeting...get me a damn rattle!,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Honey, I am sick.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Mom, Dad, Why isn't Prime Minister Trudeau in charge of the country?",1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
-2819,"Room service....Mom, Dad...I'd like a pastrami on rye...",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Mom, I'm hungry.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,"Room service....Mom, Dad...I'd like a pastrami on rye...",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Mom, I'm hungry.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"I'm a millennial, I'm entitled, and doggone it I really like me.",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,I wish Throwback Thursday would end after dinner.,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,Head National Security? Guaranteed confirmation?? Me??? Gee whiz!!,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,Head National Security? Guaranteed confirmation?? Me??? Gee whiz!!,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"I know you can't sleep Marci, you might just need a bigger bed",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,"Mom and Dad, I am now ready to face the real world.",1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
 2819,Bring me my tinfoil hat.,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
@@ -2881,15 +2881,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2819,Is this always going to happen when we fight about cosleeping?,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,Calling all spoiled liberals. It's time to grow up and go into the real world.,1.1067961165048543,0.041190686282711504,103.0,96.0,3.0,4.0,558
 2819,The Curious Case of a Mother Who's Had It.,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,I'm going over and out.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,I'm going over and out.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Among other things, I've outgrown my cell-phone plan!",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,Let me back into your room Bobbie. Why do I always have to be the fake news reporter when we play 'Press Conference'?,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,"The retro trend has officially crossed the line, 10-4 good buddy",1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
-2819,"Ok, I'm sitting. Now, where are my toys?",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,I think its time to change the batteries....,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,It's time to inject me with that terrible growth drug again.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,"Ok, I'm sitting. Now, where are my toys?",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,I think its time to change the batteries....,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,It's time to inject me with that terrible growth drug again.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,See any sign of Peter Pan yet?,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,IKEA you.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,IKEA you.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Okay guys, my shrink says I can't I infantalize you any more.",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,Don't tell me it's apple.,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,Let's see if nostalgia helps me sleep.,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
@@ -2902,23 +2902,23 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2819,"I'm trying to bring out my inner child, I need my diaper changed!",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,I wanna hear the story about The Internet of Things again!,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,Mom to Baby One. Over.,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,I thought co-sleeping meant I stayed in the bed.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Mom! Mom! We really need to talk about a bigger bed.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,I thought co-sleeping meant I stayed in the bed.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Mom! Mom! We really need to talk about a bigger bed.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Mom, did you look at the label on the bottle of child's aspirin before you gave me one?",1.1067961165048543,0.041190686282711504,103.0,96.0,3.0,4.0,558
 2819,"Goo,Goo to be or not to be! Goo,Goo!",1.1067961165048543,0.041190686282711504,103.0,96.0,3.0,4.0,558
 2819,"You clearly don't understand how to make it to the top in this country, Mom.",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,'No internet. What do I do now?',1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,'No internet. What do I do now?',1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"You wanted your own crib, yo?",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,This GMO Merlot will go perfect with it.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Honey, sleepies please. Scott Pruitt is not in your closet.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,That's the sound of a baby brother,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,New app to get you up and out.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Can I get a cheeseburger and fries at the 10:00 feeding?,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Can I get a double-cheeseburger?,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Eighty percent of life is showing up - right?,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Breaker 1-9. Anyone in the vicinity of 26 Maple... big-helicopter-baby Trevor needs an extract.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,This GMO Merlot will go perfect with it.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Honey, sleepies please. Scott Pruitt is not in your closet.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,That's the sound of a baby brother,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,New app to get you up and out.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Can I get a cheeseburger and fries at the 10:00 feeding?,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Can I get a double-cheeseburger?,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Eighty percent of life is showing up - right?,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Breaker 1-9. Anyone in the vicinity of 26 Maple... big-helicopter-baby Trevor needs an extract.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Needing an adult in the room, please.",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,So that's what the Secure The Borders button does.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,So that's what the Secure The Borders button does.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Mommy? Daddy? I know you're both dead, but I need a drink of water.",1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
 2819,Jimmy is deciding whether it's time for a big-boy bed.,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,Remember when you wished I was no longer in diapers?,1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
@@ -2927,53 +2927,53 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2819,"You can turn off the electric railing now, son. Son?",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,I'm part of a new government monitoring program.,1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,558
 2819,"Honey, do I have your attention, now?",1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,558
-2819,"""His marks are rather low in ""takes initiative"" and ""problem solving"".",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,"""His marks are rather low in ""takes initiative"" and ""problem solving"".",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,Next time hire a real babysitter. My butt hurts.,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,I know you are a robot! But you have to do something about this!,1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,558
 2819,I wish Mom and Dad would turn off the laptop already,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,Now I'M the baby!!!!!!!!!!!!!!!!,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,"Mum, I told you, this is not a cellphone.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Right but did you get my text.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,... and the batteries are about to die.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Hello Mom, here's all I really need: Isn't it time you got me a smart phone?",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Katherine, I'm sorry. I'll stop going to the bar with the guys.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,"Mum, I told you, this is not a cellphone.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Right but did you get my text.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,... and the batteries are about to die.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Hello Mom, here's all I really need: Isn't it time you got me a smart phone?",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Katherine, I'm sorry. I'll stop going to the bar with the guys.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Okay, you win. I've been Ferberized.",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,It's better to be an atheist than a bad Christian. Please allow a couple of minutes for Trump to tweet.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,It's better to be an atheist than a bad Christian. Please allow a couple of minutes for Trump to tweet.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,What did we do wrong?,1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,558
-2819,"Mom, I hate TBT.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Even the Children's Defense Fund thinks I'm way too old for this.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,I need to upgrade everything in my life.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,"Mom, I hate TBT.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Even the Children's Defense Fund thinks I'm way too old for this.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,I need to upgrade everything in my life.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"OK, it's been at least one hour, I promise not to make comments on how ridiculous the movie is.",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,Just wanted to make sure the baby monitor worked from this specific location.,1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,558
-2819,It still doesn't feel like Clinton is president.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,It still doesn't feel like Clinton is president.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,This is Rip calling. Nap's over.,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,I made a dookie.,1.1067961165048543,0.041190686282711504,103.0,96.0,3.0,4.0,558
-2819,You like want me to get a job-gig or go to d'U? Didn't you want me to like get my own crib?,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Mommmmm, my phone is dead.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,You like want me to get a job-gig or go to d'U? Didn't you want me to like get my own crib?,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Mommmmm, my phone is dead.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Alas, too big for the cot, too small for the phone.",1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
 2819,I still won't let you give my room to the baby.,1.1067961165048543,0.041190686282711504,103.0,96.0,3.0,4.0,558
-2819,Base camp to baby. Come in baby.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,Base camp to baby. Come in baby.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,Do you remember when we were happy?,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,Mom! Could I have a drink of water and another story?,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,I can't get in touch with my mother,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,Mom! Could I have a drink of water and another story?,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,I can't get in touch with my mother,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"No, Justin, you can't get up. It's the middle of the night. I've told you before, you stay in bed until you're twenty-seven.",1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
 2819,"No, Dad, I don’t dig your crib.",1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,558
-2819,"Mom, come home! I wet my pants and I don't know what to do.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Mama, my rattle is on the blink.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,"Mom, come home! I wet my pants and I don't know what to do.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Mama, my rattle is on the blink.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,Is it true that getting up and walking around is a thing?,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,"Donald J. Trump, how do you expect to be President someday if you won't even agree in principle to big-boy underpants?",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,"Donald J. Trump, how do you expect to be President someday if you won't even agree in principle to big-boy underpants?",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,Wake me when they're grown!,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,Millennial Puberty: Starting a social network while still in the crib.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,Millennial Puberty: Starting a social network while still in the crib.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,Is this really how it works?,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,"Jim, can you get me a bottle?",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,"Fine, drop me off wherever you like at school.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"I said ""OK Google"" five years ago and am still waiting for the beep.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Yeah, still playing Call of Doody, and you?",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,"Fine, drop me off wherever you like at school.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"I said ""OK Google"" five years ago and am still waiting for the beep.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Yeah, still playing Call of Doody, and you?",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Can someone bring me my binky, please?",1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
-2819,Your mother is requesting an update on the state of your jim-jams.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Come in Marge - It is clear to come back to bed-- I have turned off the news.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Hey, Mom and Dad, it's me Bad Teddy just hangin' in my crib.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"? I won't grow up, I don't want to wear a tie. ? ? And a serious expression In the middle of July. ?",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,Your mother is requesting an update on the state of your jim-jams.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Come in Marge - It is clear to come back to bed-- I have turned off the news.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Hey, Mom and Dad, it's me Bad Teddy just hangin' in my crib.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"? I won't grow up, I don't want to wear a tie. ? ? And a serious expression In the middle of July. ?",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"""Never""?! Never doesn't work for me!",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,How can I look for a stupid job if I don't have my stupid breakfast?,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,"Ready or not, here I come!",1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
@@ -2982,23 +2982,23 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2819,Have you begun my college fund yet?,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,I'm your husband. And I need to nurse. Now stop treating me like a child.,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,"Okay, okay, go to your mother's because these timeouts are just getting out of hand.",1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,558
-2819,Waaaa...?,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,Waaaa...?,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,I'm too young for my second childhood!,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,Still not enough of a safe space.,1.1067961165048543,0.03058108892833133,103.0,92.0,11.0,0.0,558
 2819,You're ick!,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
-2819,Hey! I hear him sleeping. Can we trade back ?,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Papa, can you hear me? Papa, are you listening?",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"It's safe to come out now honey, the election is over.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"It was just a bad dream, sweetie. Mommy promises that my precious Donald John Trump will never have to live with nasty facts.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,Note to self: this needs to be outside the room.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,Hey! I hear him sleeping. Can we trade back ?,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Papa, can you hear me? Papa, are you listening?",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"It's safe to come out now honey, the election is over.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"It was just a bad dream, sweetie. Mommy promises that my precious Donald John Trump will never have to live with nasty facts.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,Note to self: this needs to be outside the room.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,I wish I could go back to the time when I wasn't afraid to speak into a wireless device.,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,"Hillary, can I please come out? I just want to hang out with Bernie.",1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
 2819,Godfathers? A large pepperoni and a Mt. Dew.,1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
 2819,"Mom, Dad please stopping talking about him already and pay some attention to me. It's 2032 now and he's not still the President!",1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
-2819,"Okay mom, I'm sorry! I won't call dinner ""old lady food"".",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Ah, to be young again.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,I need upgrades.,1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
-2819,"Yo dad, I'm into downsizing.",1.1067961165048543,0.036275857236482134,103.0,94.0,7.0,2.0,558
+2819,"Okay mom, I'm sorry! I won't call dinner ""old lady food"".",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Ah, to be young again.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,I need upgrades.,1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
+2819,"Yo dad, I'm into downsizing.",1.1067961165048543,0.03627585723648213,103.0,94.0,7.0,2.0,558
 2819,"Mom,dad the baby is on the loose.??",1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,Still busy?,1.1067961165048543,0.03354952174237468,103.0,93.0,9.0,1.0,558
 2819,"Mommy, wake up! It's time for my breast feeding!",1.1067961165048543,0.038811148235284094,103.0,95.0,5.0,3.0,558
@@ -3736,82 +3736,82 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3643,But what if we have a Room & Board kid in a Crate & Barrel room?,1.0449438202247192,0.02208554475019367,89.0,85.0,4.0,0.0,558
 3643,"Mission Goo Goo Ga Ga a go. Wow, that's a tongue twister.",1.0449438202247192,0.02208554475019367,89.0,85.0,4.0,0.0,558
 3737,"No Johnny, just because your in a crib with a baby monitor in a onesie does not make you a baby, for the last time get your own milk and cookies.",1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
-3737,I just want to go back to the stress-free past.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,Sherry began to believe her behavior was juvenile when she overheard and understood the word.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"Thanks, honey, I slept like a log. Your turn.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,He's gonna kill us when he finds out.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"Don, this is Vincent. Do you read me? Over.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,I didn't win a trophy in my dream.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"yes, I remember it well",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,They took our toy poodle to Westminster and left me here to guard her dog bed.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"Mom, can I come out now? His four-year term is finally over. Over.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"No, I didn't get Nesting and Guesting confused.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,Okay let's crank it down a bit,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"Calling Dr. Jill Stein ... calling Dr. Jill Stein ... come in, Dr. Jill Stein.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
+3737,I just want to go back to the stress-free past.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,Sherry began to believe her behavior was juvenile when she overheard and understood the word.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"Thanks, honey, I slept like a log. Your turn.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,He's gonna kill us when he finds out.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"Don, this is Vincent. Do you read me? Over.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,I didn't win a trophy in my dream.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"yes, I remember it well",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,They took our toy poodle to Westminster and left me here to guard her dog bed.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"Mom, can I come out now? His four-year term is finally over. Over.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"No, I didn't get Nesting and Guesting confused.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,Okay let's crank it down a bit,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"Calling Dr. Jill Stein ... calling Dr. Jill Stein ... come in, Dr. Jill Stein.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
 3737,"It looks, for lack of a better word, sinful.",1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
 3737,Stop kidding around and come down for breakfast.,1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
-3737,"Yo Ric, I knew him well, Horatio.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
+3737,"Yo Ric, I knew him well, Horatio.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
 3737,"Hey Dad, can you tell Mom moving to DC is fne with me?",1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
-3737,What? I'm being banned from entering my own bedroom?,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"Mom, I'm confused....he is my Daddy too!",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
+3737,What? I'm being banned from entering my own bedroom?,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"Mom, I'm confused....he is my Daddy too!",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
 3737,So how much longer DO I have to wait for my class of water?,1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
-3737,Mom?! You haven't taken me out of my crib in ten years!,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,I may be considered the first helicopter parent of an infant.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,Don't believe the fake news media. The White House is running VERY WELL (@realDonaldTrump),1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
+3737,Mom?! You haven't taken me out of my crib in ten years!,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,I may be considered the first helicopter parent of an infant.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,Don't believe the fake news media. The White House is running VERY WELL (@realDonaldTrump),1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
 3737,"Eric's thinking, ""Get a load of this: the President's tweeting me that I should grow up!""",1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
-3737,If I lived in the hood I'd be Skyping from my crib.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,I knew this was just for show!,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,Make baby great again,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,I don't think those carrots are sitting well.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
+3737,If I lived in the hood I'd be Skyping from my crib.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,I knew this was just for show!,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,Make baby great again,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,I don't think those carrots are sitting well.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
 3737,"I dunno Eve, doesn't smell like strawberry rhubarb to me.",1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
 3737,My theory of relativity states that a big brother who watches you long enough becomes your little brother.,1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
 3737,You wet yourself again? Do we need to go back to potty trainers?,1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
-3737,8 years and still no working Obamaphone...,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,A modern Utica crib.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"Ok you can unlock the door, my mindfulness session is not working",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"...and then stupid CPAC disinvited me and then stinky Breitbart told me to go home, and then...Hello? Mom? Are you still listening?",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"Rip Van Winkle, 2.0.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,When is it my turn to play Yiannopoulos?,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,I can't find my coloring book.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"I just sh*t my jammies, again. That's 30 days and counting.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"Mom, I understand my last name isn't Jones.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"It's time for a change of scenery, and this gadget never did work.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"What if we gave the baby a disc ball, instead of a night light?",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,Parental Coneheads: Please stop buying milk from Texas. Over.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
+3737,8 years and still no working Obamaphone...,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,A modern Utica crib.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"Ok you can unlock the door, my mindfulness session is not working",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"...and then stupid CPAC disinvited me and then stinky Breitbart told me to go home, and then...Hello? Mom? Are you still listening?",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"Rip Van Winkle, 2.0.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,When is it my turn to play Yiannopoulos?,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,I can't find my coloring book.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"I just sh*t my jammies, again. That's 30 days and counting.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"Mom, I understand my last name isn't Jones.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"It's time for a change of scenery, and this gadget never did work.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"What if we gave the baby a disc ball, instead of a night light?",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,Parental Coneheads: Please stop buying milk from Texas. Over.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
 3737,Ma I'm hungry get in here and put those saggy tits in my face.,1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
-3737,Maybe you need to cut back on Dateline instead of taking my phone.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"""What do mean no negotiations for time outs?",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"Alas, poor Yorick! I knew him before my boomerang.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
+3737,Maybe you need to cut back on Dateline instead of taking my phone.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"""What do mean no negotiations for time outs?",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"Alas, poor Yorick! I knew him before my boomerang.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
 3737,My inner child is against any sudden moves right now.,1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
-3737,"But Mom, isn't grounding me for a day in my baby crib merely a counterproductive form of kinder-abuse?",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
+3737,"But Mom, isn't grounding me for a day in my baby crib merely a counterproductive form of kinder-abuse?",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
 3737,Turns out our Bubba-diddle was right after all. It is a lumpy mattress.,1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
-3737,I'm not sure I like this new teddy.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,My parents moved to Florida in 2004 and all I got was this baby monitor.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"My bed has bars like a PRISON CELL, so it's appropriate that I'm using my CELL PHONE. Maybe I should just SELL my phone.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"Wait, this isn't a clock?",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"*khhcht* ""Looks like it's time for some game theory"" *Ktchct*",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,Hello God. I'm beginning to think that I'm not 'THE BEST'.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,Hello? Hello? Ryan dear can you hear me? Ok I'll stop crying. But I thought we agreed we wouldn't let the kids run the House.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
+3737,I'm not sure I like this new teddy.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,My parents moved to Florida in 2004 and all I got was this baby monitor.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"My bed has bars like a PRISON CELL, so it's appropriate that I'm using my CELL PHONE. Maybe I should just SELL my phone.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"Wait, this isn't a clock?",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"*khhcht* ""Looks like it's time for some game theory"" *Ktchct*",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,Hello God. I'm beginning to think that I'm not 'THE BEST'.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,Hello? Hello? Ryan dear can you hear me? Ok I'll stop crying. But I thought we agreed we wouldn't let the kids run the House.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
 3737,Beam me up mommy- please!,1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
-3737,Will someone make these PJ's fit again?,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,Trump calls me a big baby. But I don't think this is what he means.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
+3737,Will someone make these PJ's fit again?,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,Trump calls me a big baby. But I don't think this is what he means.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
 3737,"Big Brother, what do the bells of St. Clement's say?",1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
-3737,"Mommy, why do we look so different?",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
+3737,"Mommy, why do we look so different?",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
 3737,You think maybe I'm too white the this crib?,1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
-3737,Cash me outside how bow dah.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
+3737,Cash me outside how bow dah.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
 3737,Can you here me?,1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
-3737,"Mom, I need some breast milk!",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
+3737,"Mom, I need some breast milk!",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
 3737,"I wish my parents had bought the ""everlasting"" batteries.",1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
 3737,Really Mom...how can this monitor not be on our Family & Friends plan?,1.0344827586206895,0.025582107602167475,87.0,85.0,1.0,1.0,558
-3737,Big 2: Rachel Baskin Grows Up!,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"And Goldilocks said, ""I'm going back to my own bed. It's just right.""",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"Sleep training is a cowboy skill. Hello, Phil Dunphy.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,Pink is the new black.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"The playpen might have worked for you once, but you haven't chosen a good stock since you were in diapers.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,Because they just don't know how to work hard like we do.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,I think I need some batteries to call my mom.,1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"New illustration for Freud's book, die Krippe Traum (The Crib Dream).",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
-3737,"No one could say Peter wasn't committed to ghost-catching, cradle to grave.",1.0344827586206895,0.019675772488188092,87.0,84.0,3.0,0.0,558
+3737,Big 2: Rachel Baskin Grows Up!,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"And Goldilocks said, ""I'm going back to my own bed. It's just right.""",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"Sleep training is a cowboy skill. Hello, Phil Dunphy.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,Pink is the new black.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"The playpen might have worked for you once, but you haven't chosen a good stock since you were in diapers.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,Because they just don't know how to work hard like we do.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,I think I need some batteries to call my mom.,1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"New illustration for Freud's book, die Krippe Traum (The Crib Dream).",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
+3737,"No one could say Peter wasn't committed to ghost-catching, cradle to grave.",1.0344827586206895,0.01967577248818809,87.0,84.0,3.0,0.0,558
 3814,"Wait, so the ""anchor baby"" out is a myth? And you need to be an actual infant? SHIT!",1.0340909090909092,0.025292766612950983,88.0,86.0,1.0,1.0,558
 3814,"Hon, we're picking up the drive-thru from the Burger Hut.",1.0340909090909092,0.025292766612950983,88.0,86.0,1.0,1.0,558
 3814,That's a big 10-4 good buddy.,1.0340909090909092,0.019454845748129147,88.0,85.0,3.0,0.0,558

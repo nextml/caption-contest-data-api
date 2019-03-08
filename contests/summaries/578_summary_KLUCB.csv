@@ -15,7 +15,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 14,Did you ask for extra paparazzi?,1.8794995610184373,0.011242173570903784,4556.0,1619.0,1867.0,1070.0,578
 15,"Don't ask me how I know, but I think we're about to be served Luigi's one millionth pizza.",1.854041204437401,0.009304621927023013,6310.0,2251.0,2729.0,1330.0,578
 16,"They said if it's not on the table before the next White House staff shakeup, it's free.",1.842466930080742,0.010636118796417586,5821.0,2447.0,1844.0,1530.0,578
-17,"Apparently, your Italian is as not as good as you think.",1.825087924970692,0.011798374779022056,4265.0,1704.0,1603.0,958.0,578
+17,"Apparently, your Italian is as not as good as you think.",1.8250879249706917,0.011798374779022056,4265.0,1704.0,1603.0,958.0,578
 18,There are things you don’t know about me.,1.82334693877551,0.009892666201763269,6125.0,2472.0,2263.0,1390.0,578
 19,It's his last shift before he becomes White House Chief of Staff.,1.8219034812490664,0.009868245893383329,6693.0,2883.0,2119.0,1691.0,578
 20,"When I ordered my pizza served ""Trump style"" I imagined it would just be very cheesy and come with extra baloney...",1.8087787918296392,0.011842917893159612,4602.0,2009.0,1464.0,1129.0,578
@@ -50,7 +50,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 49,I thought we decided against the paparazzi pizza.,1.5917312661498708,0.03542778657057734,387.0,205.0,135.0,47.0,578
 50,I can't wait to send it back.,1.5638418079096046,0.017283099821496825,1770.0,1022.0,498.0,250.0,578
 51,I'll be honest - I wasn't sure what a publicist did before I hired her.,1.5634118967452302,0.024167685234397003,891.0,511.0,258.0,122.0,578
-52,Did you order the extra paparazzi?,1.5634012928891101,0.015591897638945518,2011.0,1122.0,645.0,244.0,578
+52,Did you order the extra paparazzi?,1.56340129288911,0.015591897638945518,2011.0,1122.0,645.0,244.0,578
 53,"On second thought, let's get it to-go.",1.5556670010030091,0.021666585672320143,997.0,553.0,334.0,110.0,578
 54,And here I thought Papa Razzi's was the name of the restaurant.,1.5489667565139262,0.014747318166533753,2226.0,1267.0,696.0,263.0,578
 55,Tonight's dinner is served hot off the press.,1.548016701461378,0.0225764208676432,958.0,548.0,295.0,115.0,578
@@ -84,10 +84,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 83,"See, Reince wasn't out of a job for long!",1.4429629629629632,0.0258732134907132,675.0,445.0,161.0,69.0,578
 84,I told them it's your birthday;--maybe we'll get a free dessert or something.,1.4427645788336934,0.030595434644889518,463.0,301.0,119.0,43.0,578
 85,We don't want them to find out you're the food editor for the New Yorker!,1.4426229508196722,0.025639538024435055,671.0,439.0,167.0,65.0,578
-86,What exactly is the 'Running of the Pizza'?,1.4424242424242424,0.026123185916785,660.0,435.0,158.0,67.0,578
+86,What exactly is the 'Running of the Pizza'?,1.4424242424242424,0.026123185916785002,660.0,435.0,158.0,67.0,578
 87,"Smile, here comes our 15 minutes of fame!",1.4422788605697152,0.024859539691073008,667.0,427.0,185.0,55.0,578
 88,And I thought 'world famous pizza' was just a marketing gimmick.,1.44,0.0244488857557388,650.0,410.0,194.0,46.0,578
-89,"Wow! I guess it really is ""World Famous Pizza!""",1.4398073836276084,0.02587756577252113,623.0,402.0,168.0,53.0,578
+89,"Wow! I guess it really is ""World Famous Pizza!""",1.4398073836276084,0.025877565772521132,623.0,402.0,168.0,53.0,578
 90,"Enjoy, it's no longer a secret.",1.4393939393939394,0.039262101353528776,264.0,169.0,74.0,21.0,578
 91,"Funny story. Yes, my name is Angela Jolie but nobody ever mistakes us for one another.",1.4385113268608414,0.025817828535403167,618.0,398.0,169.0,51.0,578
 92,Your first time in the West Wing cafeteria?,1.4384748700173309,0.028187527200363605,577.0,385.0,131.0,61.0,578
@@ -116,8 +116,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 115,He's carrying the Olympic Pizza,1.4049217002237135,0.032893729388884414,447.0,320.0,73.0,54.0,578
 116,Why don't you just tell me how I can make this relationship more exciting.,1.4040632054176072,0.029523579709005317,443.0,296.0,115.0,32.0,578
 117,We're the first to try Amazon meal delivery.,1.404040404040404,0.03251326633661738,396.0,271.0,90.0,35.0,578
-118,"You know, you really do resemble that Michelin critic.",1.403628117913832,0.030300681302932137,441.0,299.0,106.0,36.0,578
-118,"Sure, it's a different job, but he's still chief of staff.",1.403628117913832,0.03227719203080425,441.0,311.0,82.0,48.0,578
+118,"You know, you really do resemble that Michelin critic.",1.4036281179138321,0.030300681302932137,441.0,299.0,106.0,36.0,578
+118,"Sure, it's a different job, but he's still chief of staff.",1.4036281179138321,0.03227719203080425,441.0,311.0,82.0,48.0,578
 120,I like coming here. It's always such an event.,1.4022988505747127,0.028984042027426125,435.0,287.0,121.0,27.0,578
 121,"As usual, Not One finalist for the ""Bee Hive"" cartoon, #577, is even Worth a Vote... These New judges are even worse than that Olde Dinosaur",1.3995271867612291,0.03678020024670983,423.0,324.0,29.0,70.0,578
 121,"Honey , yelling ""Hey fella President Trump's mistress has been waiting 40 God damn minutes for her pizza"" might help get us served quicker but the fallout isn't worth it.",1.3995271867612291,0.03240790474893908,423.0,297.0,83.0,43.0,578
@@ -163,10 +163,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 162,"Yeah, I think my Yelp review made a difference.",1.363934426229508,0.0342243143970838,305.0,213.0,73.0,19.0,578
 162,I orderd it with extra paparazzi,1.363934426229508,0.036065573770491806,305.0,219.0,61.0,25.0,578
 164,"Next time, let's go to Luigi's Not-So-Famous Pizzeria.",1.363036303630363,0.0330688047947387,303.0,208.0,80.0,15.0,578
-165,Did the waiter look familiar to you?,1.362126245847176,0.033859889670377244,301.0,209.0,75.0,17.0,578
-165,The dating site never mentioned you enjoy a media circus.,1.362126245847176,0.0354574970873186,301.0,214.0,65.0,22.0,578
+165,Did the waiter look familiar to you?,1.3621262458471761,0.033859889670377244,301.0,209.0,75.0,17.0,578
+165,The dating site never mentioned you enjoy a media circus.,1.3621262458471761,0.0354574970873186,301.0,214.0,65.0,22.0,578
 167,"So nice: a quiet dinner, just the two of us.",1.3586206896551725,0.0346636467789598,290.0,203.0,70.0,17.0,578
-167,Don't think this will stop me from sending it back.,1.3586206896551725,0.036994768730800785,290.0,210.0,56.0,24.0,578
+167,Don't think this will stop me from sending it back.,1.3586206896551725,0.03699476873080079,290.0,210.0,56.0,24.0,578
 169,Maybe we should have chosen the second best pizzaria in town.,1.3576388888888888,0.03583849773112758,288.0,205.0,63.0,20.0,578
 169,No torch this year but I hear the Olympic Pizza is coming through town soon.,1.3576388888888888,0.03812839641777471,288.0,212.0,49.0,27.0,578
 171,I hear the pizza here is world famous!,1.356643356643357,0.03830899585694443,286.0,211.0,48.0,27.0,578
@@ -193,7 +193,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 191,I hope you like surprises.,1.3449612403100777,0.03690317495782569,258.0,185.0,57.0,16.0,578
 191,But pizza's pizza. How special can it be?,1.3449612403100777,0.037309616786921636,258.0,186.0,55.0,17.0,578
 191,Didn't you hear?Our waiter has been named Attorney General,1.3449612403100777,0.03810949842788602,258.0,188.0,51.0,19.0,578
-191,"One paparazzi pizza, coming up!",1.3449612403100777,0.03607655688019287,258.0,183.0,61.0,14.0,578
+191,"One paparazzi pizza, coming up!",1.3449612403100777,0.036076556880192866,258.0,183.0,61.0,14.0,578
 196,"The Olympic torch has changed a little bit over the years, but it certainly smells better!",1.3448275862068966,0.04043776027012745,261.0,197.0,38.0,26.0,578
 196,These flash mobs are becoming a real problem...,1.3448275862068966,0.03857266181295459,261.0,192.0,48.0,21.0,578
 198,Slow news day...,1.34375,0.037078926814640825,256.0,184.0,56.0,16.0,578
@@ -201,7 +201,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 198,"A simple selfie would have been sufficient, Malcolm.",1.34375,0.03947999927985378,256.0,190.0,44.0,22.0,578
 198,Now's probably a good time to mention that the affair was with a high-ranking government official.,1.34375,0.037489786190740684,256.0,185.0,54.0,17.0,578
 198,I think our dinner order has been leaked to the press.,1.34375,0.04174318953492916,256.0,196.0,32.0,28.0,578
-203,I said LEEKS! LEEKS! It's a vegetable!,1.34251968503937,0.040460605363416606,254.0,191.0,39.0,24.0,578
+203,I said LEEKS! LEEKS! It's a vegetable!,1.3425196850393701,0.040460605363416606,254.0,191.0,39.0,24.0,578
 204,"Is it me, or does every waiter in Eric Trump's new eatery appear to be rushin'?",1.3412698412698412,0.03908999196560605,252.0,186.0,46.0,20.0,578
 204,And Spicer thought he could fade into anonymity.,1.3412698412698412,0.03827255367502065,252.0,184.0,50.0,18.0,578
 204,The pizza is famous here.,1.3412698412698412,0.038683432091003,252.0,185.0,48.0,19.0,578
@@ -220,9 +220,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 219,"Roger, our tape leaked.",1.3347280334728029,0.04091482208944768,239.0,180.0,38.0,21.0,578
 219,"Oh heavens, no, I don't actually eat it, Mark. I just need the public to believe I do.",1.3347280334728029,0.03684532666637076,239.0,171.0,56.0,12.0,578
 219,I think there's more to our waiter than meets the eye.,1.3347280334728029,0.03778755234977565,239.0,173.0,52.0,14.0,578
-222,"I've looked forward to this quiet, relaxing evening all week.",1.3333333333333333,0.039363696270072614,237.0,175.0,45.0,17.0,578
+222,"I've looked forward to this quiet, relaxing evening all week.",1.3333333333333333,0.03936369627007261,237.0,175.0,45.0,17.0,578
 222,I told you the pizza arrives in a flash here,1.3333333333333333,0.03684087789791268,234.0,167.0,56.0,11.0,578
-224,"""Is this the first time you've dined at Scaramucci's?",1.331896551724138,0.042201147021380385,232.0,177.0,33.0,22.0,578
+224,"""Is this the first time you've dined at Scaramucci's?",1.331896551724138,0.04220114702138039,232.0,177.0,33.0,22.0,578
 225,I may have mentioned it to someone that we were coming here.,1.3304347826086955,0.038207152861032816,230.0,167.0,50.0,13.0,578
 225,And that's the difference between Chicago pizza and New York pizza.,1.3304347826086955,0.03966993030561829,230.0,170.0,44.0,16.0,578
 225,Nothing ever happens when I'm with you.,1.3304347826086955,0.03918840504814127,230.0,169.0,46.0,15.0,578
@@ -234,9 +234,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 232,I told your mother that we would be celebrating here and she promised not to say a word.,1.327433628318584,0.0405880839240516,226.0,169.0,40.0,17.0,578
 232,There's something about me I've never told you.,1.327433628318584,0.04106974462290764,226.0,170.0,38.0,18.0,578
 235,He did say they're famous for their pizza.,1.3273542600896862,0.03946454598907072,223.0,164.0,45.0,14.0,578
-236,I've heard they're famous for their pizza.,1.3271889400921661,0.04073316429655542,217.0,161.0,41.0,15.0,578
+236,I've heard they're famous for their pizza.,1.327188940092166,0.04073316429655542,217.0,161.0,41.0,15.0,578
 237,"The pizza's nothing special, but I love the quiet intimacy of this place.",1.3243243243243243,0.040038058371372816,222.0,165.0,42.0,15.0,578
-237,"Sorry, Duane, but I'm convinced that a life with you would be way too predictable.",1.3243243243243243,0.03685726031960133,222.0,159.0,54.0,9.0,578
+237,"Sorry, Duane, but I'm convinced that a life with you would be way too predictable.",1.3243243243243243,0.036857260319601334,222.0,159.0,54.0,9.0,578
 239,"Stay calm, Jeremy. It's the other table.",1.3242009132420092,0.0398936983350924,219.0,162.0,43.0,14.0,578
 239,Apparently the waiter knows the truth about Russia.,1.3242009132420092,0.04243779380761766,219.0,167.0,33.0,19.0,578
 239,"And I'm telling you, no one will recognize you.",1.3242009132420092,0.0398936983350924,219.0,162.0,43.0,14.0,578
@@ -280,7 +280,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 278,I've heard this place is famous for its pizza.,1.3096446700507614,0.0449776568744328,197.0,154.0,25.0,18.0,578
 278,I like the quiet ambience of this place.,1.3096446700507614,0.04137880382215259,197.0,148.0,37.0,12.0,578
 278,He's hoping to make it an Olympic event by 2024.....,1.3096446700507614,0.0438108991065793,197.0,152.0,29.0,16.0,578
-278,I DIDNT THINK ADDING APRICOTS WAS THAT BIG A DEAL.,1.3096446700507614,0.042000033029104385,197.0,149.0,35.0,13.0,578
+278,I DIDNT THINK ADDING APRICOTS WAS THAT BIG A DEAL.,1.3096446700507614,0.04200003302910439,197.0,149.0,35.0,13.0,578
 278,Did you tell your mother you had a date?,1.3096446700507614,0.0438108991065793,197.0,152.0,29.0,16.0,578
 284,"I think you meant to say ""with pepperoni""",1.3092783505154642,0.04368187087200948,194.0,149.0,30.0,15.0,578
 284,I told you this place had famous pizza,1.3092783505154642,0.04428907080625626,194.0,150.0,28.0,16.0,578
@@ -364,7 +364,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 358,"I love this place, its so private.",1.2865853658536586,0.04390524456096365,164.0,126.0,29.0,9.0,578
 358,"Next time, tell them to hold the paparazzi.",1.2865853658536586,0.040353484404808015,164.0,122.0,37.0,5.0,578
 358,You need to learn to pronounce pepperoni.,1.2865853658536586,0.03941556804768703,164.0,121.0,39.0,4.0,578
-358,Talk about fast food.,1.2865853658536586,0.04216677722785506,164.0,124.0,33.0,7.0,578
+358,Talk about fast food.,1.2865853658536586,0.042166777227855064,164.0,124.0,33.0,7.0,578
 358,"Yes, I always book my reservations under the name Kim Kardashian. Why not?!",1.2865853658536586,0.04557744944742412,164.0,128.0,25.0,11.0,578
 358,"Oh, goodness. Did they put us at the paparazzi table again?",1.2865853658536586,0.04557744944742412,164.0,128.0,25.0,11.0,578
 358,I have a million Yelp followers.,1.2865853658536586,0.04639095382959632,164.0,129.0,23.0,12.0,578
@@ -375,7 +375,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 358,Did it say why this is Trump's fsvorite eatery?,1.2865853658536586,0.04390524456096365,164.0,126.0,29.0,9.0,578
 358,Here comes dinner hot off the press!,1.2865853658536586,0.04474915864064112,164.0,127.0,27.0,10.0,578
 358,Reince just can't escape the media since he lost his last job.,1.2865853658536586,0.04390524456096365,164.0,126.0,29.0,9.0,578
-358,I guess the Papparazzi Pizza isn't a typo...,1.2865853658536586,0.04216677722785506,164.0,124.0,33.0,7.0,578
+358,I guess the Papparazzi Pizza isn't a typo...,1.2865853658536586,0.042166777227855064,164.0,124.0,33.0,7.0,578
 378,"They say the Pizza here is ""World Famous.""",1.2839506172839503,0.0467231048205868,162.0,128.0,22.0,12.0,578
 379,Do you know who I am?,1.2822085889570551,0.047276185097204375,163.0,130.0,20.0,13.0,578
 380,"I guess the sign wasn't lying about the ""world famous pizza"".",1.28125,0.04268124044780707,160.0,122.0,31.0,7.0,578
@@ -472,16 +472,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 468,We live in an era where prompt service is newsworthy,1.2689655172413794,0.04512134810664487,145.0,113.0,25.0,7.0,578
 468,Here comes your sausage and paparazzi.,1.2689655172413794,0.04617056958251708,145.0,114.0,23.0,8.0,578
 468,"I thought you said pepperoni, not paparazzi.",1.2689655172413794,0.047196471649765065,145.0,115.0,21.0,9.0,578
-468,"Yes, pepperoni and paparazzi do sound very similar...",1.2689655172413794,0.04404714081921773,145.0,112.0,27.0,6.0,578
+468,"Yes, pepperoni and paparazzi do sound very similar...",1.2689655172413794,0.044047140819217734,145.0,112.0,27.0,6.0,578
 468,I've heard the pizza here is famous.,1.2689655172413794,0.047196471649765065,145.0,115.0,21.0,9.0,578
-468,We shouldn't have ordered the 'Kim Kardashian'.,1.2689655172413794,0.04404714081921773,145.0,112.0,27.0,6.0,578
+468,We shouldn't have ordered the 'Kim Kardashian'.,1.2689655172413794,0.044047140819217734,145.0,112.0,27.0,6.0,578
 468,I specifically asked for no paparazzi.,1.2689655172413794,0.041816022445014346,145.0,110.0,31.0,4.0,578
 468,"Since they started employing Hollywood stars on probation, the service has really picked up!",1.2689655172413794,0.04820054332473965,145.0,116.0,19.0,10.0,578
 468,"I guess the twenty-fifth anniversary of our first pizza is bigger news than I thought.""",1.2689655172413794,0.04820054332473965,145.0,116.0,19.0,10.0,578
 468,Did you tell them to hold the paparazzi?,1.2689655172413794,0.049184121598470486,145.0,117.0,17.0,11.0,578
-468,Did you order a pepperoni pizza with extras?,1.2689655172413794,0.04404714081921773,145.0,112.0,27.0,6.0,578
+468,Did you order a pepperoni pizza with extras?,1.2689655172413794,0.044047140819217734,145.0,112.0,27.0,6.0,578
 468,It was bound to happen...celebrity waiters.,1.2689655172413794,0.041816022445014346,145.0,110.0,31.0,4.0,578
-468,Looks like our paparazzi pizza has finally arrived!,1.2689655172413794,0.04404714081921773,145.0,112.0,27.0,6.0,578
+468,Looks like our paparazzi pizza has finally arrived!,1.2689655172413794,0.044047140819217734,145.0,112.0,27.0,6.0,578
 468,It's just the pizzarazzi.,1.2689655172413794,0.04617056958251708,145.0,114.0,23.0,8.0,578
 468,I made them swear there were no celebrity chefs here. I didn't think to ask about their waiters.,1.2689655172413794,0.04512134810664487,145.0,113.0,25.0,7.0,578
 468,I told you not to order the paparazzi pizza.,1.2689655172413794,0.04617056958251708,145.0,114.0,23.0,8.0,578
@@ -613,13 +613,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 612,"So tell me what's so special about ""paparazzi pizza.""",1.2439024390243902,0.04666894676742698,123.0,98.0,20.0,5.0,578
 612,"Sure it's pricey, but I refuse to eat anything before it's trending on Instagram",1.2439024390243902,0.04944239714081975,123.0,100.0,16.0,7.0,578
 612,I hear the paparazzi is especially good here.,1.2439024390243902,0.04807567590482465,123.0,99.0,18.0,6.0,578
-612,I ordered ours with extra paparazzi.,1.2439024390243902,0.04521847599218853,123.0,97.0,22.0,4.0,578
+612,I ordered ours with extra paparazzi.,1.2439024390243902,0.045218475992188534,123.0,97.0,22.0,4.0,578
 612,They're supporters of the No Pizza Left Behind Act.,1.2439024390243902,0.04944239714081975,123.0,100.0,16.0,7.0,578
 612,I love the intimacy of this place!,1.2439024390243902,0.04807567590482465,123.0,99.0,18.0,6.0,578
 612,I think you were just named the new Chief of Staff,1.2439024390243902,0.050772341450393485,123.0,101.0,14.0,8.0,578
-612,I ordered the one with paparazzi.,1.2439024390243902,0.04521847599218853,123.0,97.0,22.0,4.0,578
-612,He won Iron Waiter.,1.2439024390243902,0.04521847599218853,123.0,97.0,22.0,4.0,578
-612,What are the benefits of being a food critic?,1.2439024390243902,0.04521847599218853,123.0,97.0,22.0,4.0,578
+612,I ordered the one with paparazzi.,1.2439024390243902,0.045218475992188534,123.0,97.0,22.0,4.0,578
+612,He won Iron Waiter.,1.2439024390243902,0.045218475992188534,123.0,97.0,22.0,4.0,578
+612,What are the benefits of being a food critic?,1.2439024390243902,0.045218475992188534,123.0,97.0,22.0,4.0,578
 612,Maybe you shouldn’t have told the waiter that you’re fourth in line to be Attorney General.,1.2439024390243902,0.04371991022098887,123.0,96.0,24.0,3.0,578
 612,You know times are tough when photographers instagram other people's meals.,1.2439024390243902,0.04944239714081975,123.0,100.0,16.0,7.0,578
 612,"""Tell me you ordered pepperoni, not paparazzi.",1.2439024390243902,0.04944239714081975,123.0,100.0,16.0,7.0,578
@@ -632,7 +632,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 612,"Our server, ""Jeff"", used to be Attorney General.",1.2439024390243902,0.04944239714081975,123.0,100.0,16.0,7.0,578
 612,"Yes, this is my first time at Paparazzi Pizza.",1.2439024390243902,0.04666894676742698,123.0,98.0,20.0,5.0,578
 612,I told you the pizza here is famous...,1.2439024390243902,0.04807567590482465,123.0,99.0,18.0,6.0,578
-612,My Italian might be rusty but I think you ordered the paparazzi pie,1.2439024390243902,0.04521847599218853,123.0,97.0,22.0,4.0,578
+612,My Italian might be rusty but I think you ordered the paparazzi pie,1.2439024390243902,0.045218475992188534,123.0,97.0,22.0,4.0,578
 612,I hear their pizza is world-famous.,1.2439024390243902,0.04944239714081975,123.0,100.0,16.0,7.0,578
 612,I may have spotted this week's Undercover Boss.,1.2439024390243902,0.04666894676742698,123.0,98.0,20.0,5.0,578
 612,"One of us leaked this meeting, and it Wasn't me.",1.2439024390243902,0.04371991022098887,123.0,96.0,24.0,3.0,578
@@ -647,7 +647,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 612,Here comes the pizzerati,1.2439024390243902,0.050772341450393485,123.0,101.0,14.0,8.0,578
 612,Here comes our cheese pizza with extra paparazzi.,1.2439024390243902,0.04807567590482465,123.0,99.0,18.0,6.0,578
 612,"Let me guess, you ordered extra paparazzi.",1.2439024390243902,0.04807567590482465,123.0,99.0,18.0,6.0,578
-612,"Well, it seems the waiter knows some Russians.",1.2439024390243902,0.04521847599218853,123.0,97.0,22.0,4.0,578
+612,"Well, it seems the waiter knows some Russians.",1.2439024390243902,0.045218475992188534,123.0,97.0,22.0,4.0,578
 612,"Well, I hear he's a great waiter with a huge following - all the best ones do.",1.2439024390243902,0.04944239714081975,123.0,100.0,16.0,7.0,578
 651,Is it really THAT HARD to believe someone would order an ALL ANCHOVIES pizza!?,1.2396694214876034,0.052518910917077694,121.0,101.0,11.0,9.0,578
 651,Next time we go someplace without all the pizzarazzi.,1.2396694214876034,0.045492095684373166,121.0,96.0,21.0,4.0,578
@@ -666,29 +666,29 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 651,So glad we didn't get the pizza.,1.2396694214876034,0.04235621177693127,121.0,94.0,25.0,2.0,578
 651,"Oh look, the Pizzarazzi.",1.2396694214876034,0.04698161147287435,121.0,97.0,19.0,5.0,578
 651,Our waiter moonlights as the White House press secretary.,1.2396694214876034,0.052518910917077694,121.0,101.0,11.0,9.0,578
-668,Can't we just have a quiet dinner?,1.238095238095238,0.049768345272611834,105.0,84.0,17.0,4.0,578
-669,I think our Pizza de Paparazzi is here.,1.2372881355932204,0.049153291666575186,118.0,96.0,16.0,6.0,578
-669,The food here is world famous.,1.2372881355932204,0.049153291666575186,118.0,96.0,16.0,6.0,578
-669,Why did you have to become Trump's lawyer?,1.2372881355932204,0.049153291666575186,118.0,96.0,16.0,6.0,578
-669,"World famous pizza, I doubt it.",1.2372881355932204,0.04451350836236986,118.0,93.0,22.0,3.0,578
+668,Can't we just have a quiet dinner?,1.2380952380952381,0.049768345272611834,105.0,84.0,17.0,4.0,578
+669,I think our Pizza de Paparazzi is here.,1.2372881355932204,0.04915329166657519,118.0,96.0,16.0,6.0,578
+669,The food here is world famous.,1.2372881355932204,0.04915329166657519,118.0,96.0,16.0,6.0,578
+669,Why did you have to become Trump's lawyer?,1.2372881355932204,0.04915329166657519,118.0,96.0,16.0,6.0,578
+669,"World famous pizza, I doubt it.",1.2372881355932204,0.044513508362369864,118.0,93.0,22.0,3.0,578
 669,"I told you, you shouldn't have given our name as Mr. and Mrs. Spicer!",1.2372881355932204,0.04611200470995579,118.0,94.0,20.0,4.0,578
-669,Are they after the waiter or the pizza?,1.2372881355932204,0.04451350836236986,118.0,93.0,22.0,3.0,578
+669,Are they after the waiter or the pizza?,1.2372881355932204,0.044513508362369864,118.0,93.0,22.0,3.0,578
 669,The pizzarazzi found us,1.2372881355932204,0.04611200470995579,118.0,94.0,20.0,4.0,578
-669,How can they manage five seatings a night?,1.2372881355932204,0.04451350836236986,118.0,93.0,22.0,3.0,578
-669,I ordered hot off the grill not hot off the press.,1.2372881355932204,0.04451350836236986,118.0,93.0,22.0,3.0,578
+669,How can they manage five seatings a night?,1.2372881355932204,0.044513508362369864,118.0,93.0,22.0,3.0,578
+669,I ordered hot off the grill not hot off the press.,1.2372881355932204,0.044513508362369864,118.0,93.0,22.0,3.0,578
 669,This 24 hour news cycle is really getting desperate for material.,1.2372881355932204,0.04765691481847306,118.0,95.0,18.0,5.0,578
 669,Isn't it great finally to be able to spend a quiet night alone?,1.2372881355932204,0.04611200470995579,118.0,94.0,20.0,4.0,578
-669,Just what kind of pizza DID you order!,1.2372881355932204,0.049153291666575186,118.0,96.0,16.0,6.0,578
+669,Just what kind of pizza DID you order!,1.2372881355932204,0.04915329166657519,118.0,96.0,16.0,6.0,578
 669,Celebrity Chefs are so last week.,1.2372881355932204,0.04611200470995579,118.0,94.0,20.0,4.0,578
 669,I hear that they're famous for their pizza.,1.2372881355932204,0.04765691481847306,118.0,95.0,18.0,5.0,578
 669,"The waiter recommended “paparazzi pizza”, whatever that is. All he could say was that it is hot off the press.",1.2372881355932204,0.04611200470995579,118.0,94.0,20.0,4.0,578
 669,"""When will they learn that it's just ""Pappa Rizzo's""?",1.2372881355932204,0.04611200470995579,118.0,94.0,20.0,4.0,578
-669,This beats one of those murder mystery dinners.,1.2372881355932204,0.04451350836236986,118.0,93.0,22.0,3.0,578
+669,This beats one of those murder mystery dinners.,1.2372881355932204,0.044513508362369864,118.0,93.0,22.0,3.0,578
 669,"I hear so much about celebrity waiters, but really, have you ever seen one?",1.2372881355932204,0.04765691481847306,118.0,95.0,18.0,5.0,578
 669,John's marital delay tactics were not fooling Mildred anymore.,1.2372881355932204,0.04611200470995579,118.0,94.0,20.0,4.0,578
 669,I bet our waiter regrets entering the Waiter of the Year contest.,1.2372881355932204,0.053391382606110205,118.0,99.0,10.0,9.0,578
 669,Did you mean to say pepperoni when you ordered the pizza?,1.2372881355932204,0.05060544074804232,118.0,97.0,14.0,7.0,578
-669,"The news is fake, but the pepperoni is real.",1.2372881355932204,0.049153291666575186,118.0,96.0,16.0,6.0,578
+669,"The news is fake, but the pepperoni is real.",1.2372881355932204,0.04915329166657519,118.0,96.0,16.0,6.0,578
 669,I wonder who leaked that our waiter used to work in the press corps at the white house?,1.2372881355932204,0.05060544074804232,118.0,97.0,14.0,7.0,578
 669,Maybe we shouldn't have ordered the extra paparazzi.,1.2372881355932204,0.05201706628547822,118.0,98.0,12.0,8.0,578
 669,I hear their pizza is world-famous.,1.2372881355932204,0.04765691481847306,118.0,95.0,18.0,5.0,578
@@ -869,14 +869,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 866,"Next thing you know, it'll be celebrity busboys.",1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
 866,I expected a little more pizzazz.,1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
 866,The service here is overrated.,1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
-866,Oh Dear...he comes the pizzarazzis.,1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,578
+866,Oh Dear...he comes the pizzarazzis.,1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,578
 866,I think our waiter went viral.,1.2156862745098038,0.05328912027624392,102.0,86.0,10.0,6.0,578
 866,I always order the paparazzi to start.,1.2156862745098038,0.043232453504184684,102.0,81.0,20.0,1.0,578
-866,"So, what's on the Celebrity Pizza?",1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,578
+866,"So, what's on the Celebrity Pizza?",1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,578
 866,"I love this place. Quiet, reserved and no pretentious wannabe actors waiting tables.",1.2156862745098038,0.04542226432881116,102.0,82.0,18.0,2.0,578
 866,That's the celebrity chef.,1.2156862745098038,0.05328912027624392,102.0,86.0,10.0,6.0,578
 866,"I have heard, their presentation is very Hollywood.",1.2156862745098038,0.04542226432881116,102.0,82.0,18.0,2.0,578
-866,"I've been studying it, so I ordered our salad in Italian.",1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,578
+866,"I've been studying it, so I ordered our salad in Italian.",1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,578
 866,I love being a background actor,1.2156862745098038,0.05143533103860702,102.0,85.0,12.0,5.0,578
 866,He's researching a role.,1.2156862745098038,0.04542226432881116,102.0,82.0,18.0,2.0,578
 866,who did you say you were? when you made the reservation,1.2156862745098038,0.04542226432881116,102.0,82.0,18.0,2.0,578
@@ -884,21 +884,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 866,"Seriously, Milton. ""Extra paparazzi"" was not one of the options.",1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
 866,This is not the Fellini film I said I wanted my life to be like.,1.2156862745098038,0.05143533103860702,102.0,85.0,12.0,5.0,578
 866,This is the last time we dine at Papa Razzi's.,1.2156862745098038,0.04542226432881116,102.0,82.0,18.0,2.0,578
-866,"Try to look casual, but we're about to appear on ""Celebrity Waiter.""",1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,578
-866,You ordered a pizza with pararazzi?!,1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,578
+866,"Try to look casual, but we're about to appear on ""Celebrity Waiter.""",1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,578
+866,You ordered a pizza with pararazzi?!,1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,578
 866,""" It's 30 seconds, or it's free. ""  Submitted by Neil L. Sachs, Monmouth Junction, NJ",1.2156862745098038,0.05143533103860702,102.0,85.0,12.0,5.0,578
 866,He just won a TONY .,1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
 866,"Well, White House press secretaries need to do something after they're let go.",1.2156862745098038,0.05143533103860702,102.0,85.0,12.0,5.0,578
-866,Being a star is just his day job.,1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,578
-866,I'm excited to see what this new paparazzi pizza has with it!,1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,578
+866,Being a star is just his day job.,1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,578
+866,I'm excited to see what this new paparazzi pizza has with it!,1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,578
 866,That pizza is dating one of the Kardashians.,1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
 866,Some like it hot.,1.2156862745098038,0.05508055374250418,102.0,87.0,8.0,7.0,578
 866,Did I mention I work at the White House?,1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
 866,"I may have accidentally said, ""large pie with paparazzi...""",1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
-866,I think this celebrity chef business has gone too far.,1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,578
+866,I think this celebrity chef business has gone too far.,1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,578
 866,This is your idea of a secluded rendezvous?,1.2156862745098038,0.04542226432881116,102.0,82.0,18.0,2.0,578
 866,At last! An Attorney General candidate who really knows how to take orders.,1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
-866,He's big on YouTube.,1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,578
+866,He's big on YouTube.,1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,578
 866,The lasagna needs a better publicist.,1.2156862745098038,0.04542226432881116,102.0,82.0,18.0,2.0,578
 866,The food is ok but it's really the instagram this place is known for,1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
 866,I heard this place is famous for its service.,1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
@@ -906,8 +906,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 866,Never order the Kardashian at Papa Razzi's.,1.2156862745098038,0.04542226432881116,102.0,82.0,18.0,2.0,578
 866,There's no escaping the pizzarazzi anymore.,1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
 866,"I asked for pepperoni, not paparazzi.",1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
-866,"Here comes our order of their ""Famous Pizza"".",1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,578
-866,You'd think no one had ever ordered a plain cheese pizza before.,1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,578
+866,"Here comes our order of their ""Famous Pizza"".",1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,578
+866,You'd think no one had ever ordered a plain cheese pizza before.,1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,578
 866,You always pick the quietest atmosphere for a romantic dinner.,1.2156862745098038,0.04542226432881116,102.0,82.0,18.0,2.0,578
 866,This pizza has quite a following.,1.2156862745098038,0.05328912027624392,102.0,86.0,10.0,6.0,578
 866,"Thanks for picking this quiet, romantic Italian restaurant.",1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
@@ -916,12 +916,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 866,"Don't look now, but our ""World Famous Deep-Dish Pizza"" has arrived...",1.2156862745098038,0.04542226432881116,102.0,82.0,18.0,2.0,578
 866,"If it takes more than 25 minutes, it's free and we get to murder the waiter.",1.2156862745098038,0.05143533103860702,102.0,85.0,12.0,5.0,578
 866,How did you get a table at the pizza delivery finals!,1.2156862745098038,0.04542226432881116,102.0,82.0,18.0,2.0,578
-866,Are you sure you ordered a pizza and not a paparazzi?,1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,578
+866,Are you sure you ordered a pizza and not a paparazzi?,1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,578
 866,You shouldn't have ordered the extra paparazzi,1.2156862745098038,0.05143533103860702,102.0,85.0,12.0,5.0,578
 866,Fast Food Olympics,1.2156862745098038,0.04951218252396264,102.0,84.0,14.0,4.0,578
-866,The pizzarazzi have gotten out of control.,1.2156862745098038,0.047511252956760584,102.0,83.0,16.0,3.0,578
+866,The pizzarazzi have gotten out of control.,1.2156862745098038,0.04751125295676058,102.0,83.0,16.0,3.0,578
 866,Do you always order that far off-menu?,1.2156862745098038,0.040925639582376605,102.0,80.0,22.0,0.0,578
-923,"The world record pizza delivery time, from oven to table, is...",1.21,0.04560480215720687,100.0,81.0,17.0,2.0,578
+923,"The world record pizza delivery time, from oven to table, is...",1.21,0.045604802157206865,100.0,81.0,17.0,2.0,578
 923,The waiter said the pepperoni is hot.,1.21,0.04983812179284432,100.0,83.0,13.0,4.0,578
 923,They say our waiter is the next DeNiro.,1.21,0.04776838056516237,100.0,82.0,15.0,3.0,578
 923,"After Trump was impeached, Americans elected a pizza as president.",1.21,0.05373898759633259,100.0,85.0,9.0,6.0,578
@@ -934,8 +934,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 923,I am really trying to take my foodie Instagram page to the next level.,1.21,0.04776838056516237,100.0,82.0,15.0,3.0,578
 923,Wake me when the celebrity chef trend is over.,1.21,0.04776838056516237,100.0,82.0,15.0,3.0,578
 923,"I ordered pepperoni, not paparazzi.",1.21,0.04776838056516237,100.0,82.0,15.0,3.0,578
-923,Next time I'm ordering plain.,1.21,0.04560480215720687,100.0,81.0,17.0,2.0,578
-923,"I thought the Celebrity Chef thing was getting out of hand, but Celebrity Waitperson . . .!?",1.21,0.04560480215720687,100.0,81.0,17.0,2.0,578
+923,Next time I'm ordering plain.,1.21,0.045604802157206865,100.0,81.0,17.0,2.0,578
+923,"I thought the Celebrity Chef thing was getting out of hand, but Celebrity Waitperson . . .!?",1.21,0.045604802157206865,100.0,81.0,17.0,2.0,578
 923,I tried to tell you that you tipped him too much last time we were here !!,1.21,0.05182526976156116,100.0,84.0,11.0,5.0,578
 923,I feel sorry for the waiter. It must really suck having the last name Scaramucci.,1.21,0.04983812179284432,100.0,83.0,13.0,4.0,578
 923,"So I said to the tour director, ""I'd give a million dollars for a good piece of pizza.""",1.21,0.04776838056516237,100.0,82.0,15.0,3.0,578
@@ -979,75 +979,75 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 956,"Oh, did I mention I'm running for President?",1.2040816326530612,0.05221615820079095,98.0,83.0,10.0,5.0,578
 956,"You did order the Paparazzi pizza, right?",1.2040816326530612,0.0457749589849692,98.0,80.0,16.0,2.0,578
 956,"Oh, I hope you don't mind but I went ahead and ordered the Large Pizzarazzi.",1.2040816326530612,0.0457749589849692,98.0,80.0,16.0,2.0,578
-981,Don't be silly. Why would Dustin Hoffman work at a pizza restaurant?,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,It looks like the presidential pizza has been leaked to the press.,1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0,578
-981,Why must you always order the Pizza Papparazzi?,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,Donald tweeted that the paparazzi pizza here is really really good.,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,"Wow, I guess the #5 really is famous.",1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0,578
-981,"Damn, it's the pizza-razzi!",1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0,578
-981,…It's just harder to know what's famous anymore.,1.2021276595744679,0.055738602989301216,94.0,81.0,7.0,6.0,578
-981,I thought you ordered yours without paparazzi.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,It's all about the presentation here.,1.2021276595744679,0.044304501646820114,94.0,76.0,17.0,1.0,578
-981,I ordered us a large cheese and paparazzi.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,"The hallucinations are weird, but I'm getting used to them.",1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0,578
-981,The paparzzi pizza looks good tonight.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,I don't care if it's the millionth pizza!! I told you I had a lactose intolerance!,1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0,578
-981,I hope you ordered something special.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,I'm the last remaining vote on repealing Obama Care.,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,This new 'dine and dash' concept is really something,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,I think we'er their first customers.,1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0,578
-981,That pizza has 100k instagram followers!,1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0,578
-981,He really is a celebrity chef.,1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0,578
-981,Someone must have ordered extra paparazzi.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,I ordered the large paparazzi,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,I'm sure it'll turn out to be a Nothing Pizza.,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,"Next time, no celebrity chef, ok?",1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,You'll see.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,The Kardashians love their pizza.,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,"I wonder why they call it the ""15 minuets of Fame"" special.",1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,Is this what they mean by trending?,1.2021276595744679,0.044304501646820114,94.0,76.0,17.0,1.0,578
-981,Make way for the pizzarazzi!,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,"The food here is okay, but what a presentation!",1.2021276595744679,0.044304501646820114,94.0,76.0,17.0,1.0,578
-981,His YouTube video went viral.,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,"Well, you may have meant pepperoni, but you definitely said ""extra paparazzi.""",1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,Their pizza is famous.,1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0,578
-981,Did you order extra paparazzi?,1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0,578
-981,I've never had a pizza with celebrity style toppings before.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,I thought we ordered pepperoni not paparazzi.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,Don't look now but here come the pizzeratti.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,I knew you said extra paparazzi.,1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0,578
-981,"I see you're relying on the ""paparazzi pizza on the first date"" trick.",1.2021276595744679,0.044304501646820114,94.0,76.0,17.0,1.0,578
-981,Are you ready for your surprise?,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,"It's their new pizza, ""The Kardashian""",1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,What would you think if I told you Sean Spicer is our waiter?,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,I'm told that the pizza here is famous.,1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0,578
-981,Who ordered the paparazzi pizza?,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,"I ordered the ""Paparazzi Pepperoni"".",1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,"Breaking News, Breaking News. Everything is Breaking News.",1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0,578
-981,You know what this restaurant could use? Fewer Kardashians.,1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0,578
-981,"The first time you ordered off-menu in your broken Italian was charming and endearing, Stanley... but that was then.",1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0,578
-981,Did you order our pizza with paparazzi?,1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0,578
-981,Milestones in speed dating: Amazon's first ten-minute pizza delivery!,1.2021276595744679,0.055738602989301216,94.0,81.0,7.0,6.0,578
-981,"Remember the last time you ordered the Paparazzi Pizza here, it didn't agree with you, and I got hot flashes.",1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,I hope this lives up to they hype.,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,"Did you have to order the ""Pizza Diana""?",1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,I didn't know it came with paparazzi.,1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0,578
-981,The pepperozzi are after me!,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,He's Trump's waiter tonight. They're just hoping they can get a state secret or two out of him.,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,"I understand it's called ""Leaked Pizza.""",1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,"I heard you say ""large pie with pepperoni"".",1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,I told you I look like Julia Roberts.,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,Did you order pepperoni or paparazzi?,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,you said you just won WHAT,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,The quality is okay. It's the sex tape that made it famous.,1.2021276595744679,0.05364709930456415,94.0,80.0,9.0,5.0,578
-981,I told them you are Brad Pitt.,1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0,578
-981,Didn't he used to be the Speaker of the House?,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,I ordered pizza with paparazzi.,1.2021276595744679,0.049198069728226386,94.0,78.0,13.0,3.0,578
-981,"It's pronounced ""pap·par·del·le"".",1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,I'm told that the pizzas here are world famous,1.2021276595744679,0.05147067771448706,94.0,79.0,11.0,4.0,578
-981,"It's always been known for good food, but after the chef won ""Dancing with the Stars' it's been crazy",1.2021276595744679,0.044304501646820114,94.0,76.0,17.0,1.0,578
-981,"The name of the place is '""Pizzarazzi.'",1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0,578
-981,I hear the pizza here is world famous!,1.2021276595744679,0.04681526957711828,94.0,77.0,15.0,2.0,578
+981,Don't be silly. Why would Dustin Hoffman work at a pizza restaurant?,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,It looks like the presidential pizza has been leaked to the press.,1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0,578
+981,Why must you always order the Pizza Papparazzi?,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,Donald tweeted that the paparazzi pizza here is really really good.,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,"Wow, I guess the #5 really is famous.",1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0,578
+981,"Damn, it's the pizza-razzi!",1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0,578
+981,…It's just harder to know what's famous anymore.,1.202127659574468,0.055738602989301216,94.0,81.0,7.0,6.0,578
+981,I thought you ordered yours without paparazzi.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,It's all about the presentation here.,1.202127659574468,0.044304501646820114,94.0,76.0,17.0,1.0,578
+981,I ordered us a large cheese and paparazzi.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,"The hallucinations are weird, but I'm getting used to them.",1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0,578
+981,The paparzzi pizza looks good tonight.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,I don't care if it's the millionth pizza!! I told you I had a lactose intolerance!,1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0,578
+981,I hope you ordered something special.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,I'm the last remaining vote on repealing Obama Care.,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,This new 'dine and dash' concept is really something,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,I think we'er their first customers.,1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0,578
+981,That pizza has 100k instagram followers!,1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0,578
+981,He really is a celebrity chef.,1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0,578
+981,Someone must have ordered extra paparazzi.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,I ordered the large paparazzi,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,I'm sure it'll turn out to be a Nothing Pizza.,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,"Next time, no celebrity chef, ok?",1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,You'll see.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,The Kardashians love their pizza.,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,"I wonder why they call it the ""15 minuets of Fame"" special.",1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,Is this what they mean by trending?,1.202127659574468,0.044304501646820114,94.0,76.0,17.0,1.0,578
+981,Make way for the pizzarazzi!,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,"The food here is okay, but what a presentation!",1.202127659574468,0.044304501646820114,94.0,76.0,17.0,1.0,578
+981,His YouTube video went viral.,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,"Well, you may have meant pepperoni, but you definitely said ""extra paparazzi.""",1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,Their pizza is famous.,1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0,578
+981,Did you order extra paparazzi?,1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0,578
+981,I've never had a pizza with celebrity style toppings before.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,I thought we ordered pepperoni not paparazzi.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,Don't look now but here come the pizzeratti.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,I knew you said extra paparazzi.,1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0,578
+981,"I see you're relying on the ""paparazzi pizza on the first date"" trick.",1.202127659574468,0.044304501646820114,94.0,76.0,17.0,1.0,578
+981,Are you ready for your surprise?,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,"It's their new pizza, ""The Kardashian""",1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,What would you think if I told you Sean Spicer is our waiter?,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,I'm told that the pizza here is famous.,1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0,578
+981,Who ordered the paparazzi pizza?,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,"I ordered the ""Paparazzi Pepperoni"".",1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,"Breaking News, Breaking News. Everything is Breaking News.",1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0,578
+981,You know what this restaurant could use? Fewer Kardashians.,1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0,578
+981,"The first time you ordered off-menu in your broken Italian was charming and endearing, Stanley... but that was then.",1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0,578
+981,Did you order our pizza with paparazzi?,1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0,578
+981,Milestones in speed dating: Amazon's first ten-minute pizza delivery!,1.202127659574468,0.055738602989301216,94.0,81.0,7.0,6.0,578
+981,"Remember the last time you ordered the Paparazzi Pizza here, it didn't agree with you, and I got hot flashes.",1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,I hope this lives up to they hype.,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,"Did you have to order the ""Pizza Diana""?",1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,I didn't know it came with paparazzi.,1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0,578
+981,The pepperozzi are after me!,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,He's Trump's waiter tonight. They're just hoping they can get a state secret or two out of him.,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,"I understand it's called ""Leaked Pizza.""",1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,"I heard you say ""large pie with pepperoni"".",1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,I told you I look like Julia Roberts.,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,Did you order pepperoni or paparazzi?,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,you said you just won WHAT,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,The quality is okay. It's the sex tape that made it famous.,1.202127659574468,0.05364709930456415,94.0,80.0,9.0,5.0,578
+981,I told them you are Brad Pitt.,1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0,578
+981,Didn't he used to be the Speaker of the House?,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,I ordered pizza with paparazzi.,1.202127659574468,0.04919806972822639,94.0,78.0,13.0,3.0,578
+981,"It's pronounced ""pap·par·del·le"".",1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,I'm told that the pizzas here are world famous,1.202127659574468,0.05147067771448706,94.0,79.0,11.0,4.0,578
+981,"It's always been known for good food, but after the chef won ""Dancing with the Stars' it's been crazy",1.202127659574468,0.044304501646820114,94.0,76.0,17.0,1.0,578
+981,"The name of the place is '""Pizzarazzi.'",1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0,578
+981,I hear the pizza here is world famous!,1.202127659574468,0.04681526957711828,94.0,77.0,15.0,2.0,578
 1050,"So... I take it that this place is known for it's ""World's Famous Pizza"" ?",1.2,0.04872391770757887,95.0,79.0,13.0,3.0,578
 1051,"Yes, it's that good.",1.1979166666666667,0.04087795181322619,96.0,77.0,19.0,0.0,578
 1052,. . . so glad they don't know we're restaurant review writers.,1.1978021978021978,0.047449684731754656,91.0,75.0,14.0,2.0,578
@@ -2159,15 +2159,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2009,I hope the pizza is hot this time,1.1311475409836065,0.04357902084672543,61.0,53.0,8.0,0.0,578
 2009,"Okay, Mr. Know-It-All. There is such a thing as paparazzi pie.",1.1311475409836065,0.05469942625679649,61.0,55.0,4.0,2.0,578
 2009,It's a slice of pizza. Let's not make a big deal of it.,1.1311475409836065,0.049452797144256905,61.0,54.0,6.0,1.0,578
-2161,"I've ordered us a special tonight, dear, to commemorate our quiet love bond.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,578
-2161,He's a method actor.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,578
+2161,"I've ordered us a special tonight, dear, to commemorate our quiet love bond.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,578
+2161,He's a method actor.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,578
 2161,"Put on your sunglasses, it's the pizzarazzi",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,578
 2161,"I told you it's piZZA with pepperONI, dear.",1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,578
 2161,This celebrity chef's pizza may not be worth it...,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,578
-2161,"La Pizza-razzi,That,s a funny name for a restaurant.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,578
-2161,Paparazzo pizzas simply have no taste.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,578
+2161,"La Pizza-razzi,That,s a funny name for a restaurant.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,578
+2161,Paparazzo pizzas simply have no taste.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,578
 2161,Who knew a white house staffer would call Domino's from a restaurant?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,578
-2161,I used to be the White House Press Secretary but they won't stop following me!,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,578
+2161,I used to be the White House Press Secretary but they won't stop following me!,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,578
 2161,The sign wasn't lying when it said world famous pizza.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,578
 2161,Every dish at Le Mauvais is an event.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,578
 2161,have you tried the pizzrazzi?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,578
@@ -3051,26 +3051,26 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3047,I'm told all the waiters are Trump administration castoffs.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I miss the days before the pizzarazzi,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,You make everything so hot for me!,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,I am curious about what comes with paparazzi pizza.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,"No wonder, it is the hottest pizza in the town",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,I am curious about what comes with paparazzi pizza.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,"No wonder, it is the hottest pizza in the town",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,Aspiring paparazzi practice on aspiring actors.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,There's no one here tonight from the president's cabinet!,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,have you heard there's a pizza shortage.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,The food presentation here is extremely photogenic......supposedly.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,The food presentation here is extremely photogenic......supposedly.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"Paparazzi, in Pizza Pursuit. PPP",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Is the topping Pepperoni or Paparazzi?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,Don't look! It's the Pizzaratsi again.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,Don't look! It's the Pizzaratsi again.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"The hotter it is out of the oven, the more ""likes"" it will get.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,This is what happens when the special is ordered. Milton Jefferson,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Let me guess. You ordered the paparazzi special.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,Don't look at me!,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,Don't look at me!,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,I am getting a bit tired of these celebrity chefs,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,They used to look for a scoop. Now they look for a slice.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,I heard they have a real pizzarazzi problem here.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,They used to look for a scoop. Now they look for a slice.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,I heard they have a real pizzarazzi problem here.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,Gourmet Pizza Paparazzi,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"I admit, I told my staff that I was out to enjoy a special Russian pizza with 'A' mooch.",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,Ugh...the Pizzarazzi's here!!!,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,Wait till you try the pizzaratsi,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"I admit, I told my staff that I was out to enjoy a special Russian pizza with 'A' mooch.",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,Ugh...the Pizzarazzi's here!!!,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,Wait till you try the pizzaratsi,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,Kim Kardashian ordered the same pizza earlier this evening.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I ordered the chef's signature dish!,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"Whoa, food comes out here in a flash!",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
@@ -3079,32 +3079,32 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3047,"Let""s go someplace a little livelier next time.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"It's pepperoni, not paparatzi!",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I didn't know you were the restaurant owner's auditor for the IRS?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"Oh dear, I did not realize that foie gras ban would become such popular fake news...",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,"Well, here come the pizzarazi...",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"Oh dear, I did not realize that foie gras ban would become such popular fake news...",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,"Well, here come the pizzarazi...",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"You ordered the paparazzi pizza special, didn't you?",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,It's their most famous dish.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"Ordering their 10,000,000th pizza does detract from the ambiance.",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"Ordering their 10,000,000th pizza does detract from the ambiance.",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"Honey, did you order paparazzi instead of pepperoni again?",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Frank? You smell that....it ain't me.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,Our pizza-razzi is here.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,Our pizza-razzi is here.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"I'm tired of pepperoni, so I thought we'd try paparazzi.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"Honestly, nobody does paparazzi pizza better than Luigi.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Paparazzi? We ordered pepperoni.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"Oh, God, the pizzarazzi are so annoying!",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,Why is a pizza with everything a cause for celebration?,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,Why is a pizza with everything a cause for celebration?,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"Harry, are we in the right place?",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,I'm curious about the paparazzi pizza.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,I'm curious about the paparazzi pizza.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,In this restaurant the paparazzi are called pizzarazzi.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Your friends simply insist on sharing your special moment!,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Now you can't say I've nevwer Now you can't say I've never done anything for you.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"He keeps opening new pizzerias, but the pepperonzi always manage to find him.",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"He keeps opening new pizzerias, but the pepperonzi always manage to find him.",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,The restaurant week deals is getting crazy!,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"Junior, It's a Moscow Duck for you!",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I hope you don't mind....the Pizzarazzi do tend to follow me.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"Damn, pizza stalkers!",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"Damn, pizza stalkers!",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,You ordered the paparazzi and mushroom pizza?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"Obviously, we're so cool.",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,Did you know the works comes with paparazzi?,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"Obviously, we're so cool.",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,Did you know the works comes with paparazzi?,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,I prefer viral pizza.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,What? Your editor knows that your sister is no longer Cultural Attaché in Moscow and we'll be sharing pizza before I leave for my new FBI translator post in Washington?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I didn't have Celebrity Pizza in mind for my birthday.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
@@ -3112,34 +3112,34 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3047,"Now, they can see the photo shots without more ado!",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,It all goes by in a flash.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"Here's your paparazzi, I mean pepperoni pizza!",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"Well,to me it sounded like you ordered paparazzi. So let's hope he heard pizza!",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"Well,to me it sounded like you ordered paparazzi. So let's hope he heard pizza!",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"Yes, I DID think Dominos was an unusual last name, but...",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,The pizza-razzi have found us again!,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,The pizza-razzi have found us again!,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,Any wine goes with Paparitzi pizza.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,It's hard to find authentic famous pizza.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"Actually, now I'm thinking about it, it's pepperoni in Italian, not paparazzi",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,High drama is not my idea of a first date.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,I said hold the paparazzi.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,I said hold the paparazzi.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,They don't call it the They don't call it the paparazzi pizza for nothin',1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,I've ordered the paparazzi pizza. It's evidently very popular.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,I've ordered the paparazzi pizza. It's evidently very popular.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,I thought once you became a star you could ditch table waiting.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"From what I've heard, this is only a one-star restaurant.",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"From what I've heard, this is only a one-star restaurant.",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"No, I did not think our waiter looked like Leonardo DiCaprio.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"I wonder why they call this place ""Mario's Famous Pizza.""",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"Now, what were you telling me about the president's son being in town?",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I told you: No castle in Bordeaux. No yacht in the Bahamas. Yes to the world on a plate.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"sigh, here come the pizza-razzi",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"sigh, here come the pizza-razzi",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,The paparazzi are on to Paolo's pepperoni.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,It's their new promotion. They guarantee to serve your pizza befor the paparazzi puts you on the front page.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Their specialty is the Paparazzi Pizza,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,It's just fake news.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,What? You ordered Paparazzi Pizza again?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,I don't trust the fake pizza news.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,I don't trust the fake pizza news.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,I've heard the food here is rarely boring.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,If he sets a new record our dinner's on the house.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"I heard that the chef's father's name was ""Razzi"".",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I want a divorce.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,didn't know the pizza here came with a topping of paparazzi,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,didn't know the pizza here came with a topping of paparazzi,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,I hadn't even heard of a paparriza before today.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I hope the pizza-razzi don't show up and ruin our evening.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,You just had to eat at a restaurant where the waiter is an Instagram star.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
@@ -3159,17 +3159,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3047,I hear that in his new job he agreed to be on camera.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,That poor waiter. The pizzarazzi are just relentless tonight.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I thought restaurant critics were supposed to be discreet.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,Maybe I should have ordered the pizza after all.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,Maybe I should have ordered the pizza after all.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"There's no better place for a quiet, intimate moment together.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"I call it the ""pizza paparazzi""",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Perhaps a quiet evening at home for our next anniversary...,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"Not pepperoni, but a paparazzi special.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Ray's was always a nice quiet place before he became famous.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,I love pizza served hot and bothered!,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,Trying to deliver a message of love...,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,"Snile for the cameras, dear, we can't have you looking indifferent to privilege.",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,I love pizza served hot and bothered!,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,Trying to deliver a message of love...,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,"Snile for the cameras, dear, we can't have you looking indifferent to privilege.",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"Um, we asked for a pepperoni pizza. Not a paparazzi pizza.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"I told you it's pronounced ""Mozzarella"" not ""Mooch-erella""!",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"I told you it's pronounced ""Mozzarella"" not ""Mooch-erella""!",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"""Comes with a side of Paparazzi? --is that some kind of salad?",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Have you seen Celebrity Chef on Hulu?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I hope they let it cool a bit.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
@@ -3180,28 +3180,28 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3047,We ordered pepperoni.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"Guaranteed to be here in 30 seconds, or it's free.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"I thought I said pepperoni. [""thought"" in italics]",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"It's the delivery challenge in 'Singing Sensations', where contestants prepare for life after the show.",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"It's the delivery challenge in 'Singing Sensations', where contestants prepare for life after the show.",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,Pizza's boring. I'm having paparazzi.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I'm so fed up with the pizzarazzi!,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"We ordered pepperoni pizza, not paparazzi pizza.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Did you order the pizza with the celebrity topping again?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,It's the paparizza again.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"I agree dear, but the paparazzi won't stop until we can rid society of its insatiable appetite for pizza.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"The Princess couldn't decide which was more dangerous, the paparazzi or the Pizza in Paris?",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,Did you order pepperoni or paparazzi?,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,"You ordered the Deep Dish Paparazzi, didn't you?",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"The Princess couldn't decide which was more dangerous, the paparazzi or the Pizza in Paris?",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,Did you order pepperoni or paparazzi?,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,"You ordered the Deep Dish Paparazzi, didn't you?",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,Did you order a shot?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"I think, Dear, you meant ""pepperoni.""",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"""The Last Supper"" was up for sale, so I....",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"""The Last Supper"" was up for sale, so I....",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"'We've won their 'Million to One' meal!""",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Oh I'm so tired of the pizzarazzi.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I ordered the pizza with pepperoni and paparazzi.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"Well, I ordered the Kar-dash-ian.",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,The pizzaratti are here!,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"Well, I ordered the Kar-dash-ian.",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,The pizzaratti are here!,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"He crowd-funded a paparazzi experience, since his acting career didn't work out as planned.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,They are famous for the pizza here.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"Don't look now, but the parapizze have just landed.",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,"Apparently, this pizza joint guarantees we dine like minor celebrities.",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"Don't look now, but the parapizze have just landed.",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,"Apparently, this pizza joint guarantees we dine like minor celebrities.",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,It's the pizzarattsi! Run for your lives!,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,It's the pizza paparazzi.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"After Usain Bolt retired, it's just not the same.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
@@ -3210,10 +3210,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3047,Apparently it's the most cutting-edge restaurant in town -- nothing is served in a taco!,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Did you read that they just named a PIZZA as Press Secretary?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Doesn't our waiter resemble George Clooney ?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,If the Pizzarazzi does not arrive before the Paparazzi its free.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,If the Pizzarazzi does not arrive before the Paparazzi its free.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,Apparently the Internet cares if you like pepperoni instead of mushrooms.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I say pepperoni; you say paparazzi.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"The food here is great, but I could do without the pizzarazzi!",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"The food here is great, but I could do without the pizzarazzi!",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,Ordering a plain pizza was a mistake.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I told you not to order something called Pizzarazzi.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"Oh, it's not a big deal, Rodney. I just thought for once I'd order the daily special.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
@@ -3228,37 +3228,37 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3047,"""I told you not to order the ""Celebrity Pizza"".",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,They have the best paparazzi pizza.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Did you order the pizzarazzi?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,The paparazzioni certainly comes with a lot of fanfare.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,More fake news.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,The paparazzioni certainly comes with a lot of fanfare.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,More fake news.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,Nice dinner. But don't you think the waiter is a bit overbearing?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I actually prefer paparazzi to pepperoni.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Paparazzi or pepperoni... which did we order?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I ordered paparizza.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,The big problem with Fabio's Famous Pies is all the pizzarazzi!,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,Who's serving who in this relationship?,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,The big problem with Fabio's Famous Pies is all the pizzarazzi!,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,Who's serving who in this relationship?,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"I told you, never order, ""...and hold the paparazzi.""",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Great. Now they'll know I eat gluten-free pizza.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"Great pizza, but only one star for service.",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"Great pizza, but only one star for service.",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,"When you said you were taking me to Paparazzi Pizza, I didn't think there would literally be paparazzi.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Did you order Paparazzi on Pizza?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,The 'Spicer' is really the way to go.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,The 'Spicer' is really the way to go.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,Tell me you didn't order the #1 Kardashian pie again. Lot's of dough with nothing on it,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"It may well be the biggest pizza with the most toppings, but Tweeting it was a mistake.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Faster faster the lights are turning red...,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"Can you say ""paparazzi pizza pursuit"" fast three times?",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"Luigi was about to make pizza delivery history: the fastest, one hand, over the head delivery in the Bronx.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,Must make it in thirty minutes or your next pizza is free.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,Must make it in thirty minutes or your next pizza is free.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,Did you order paparazzi pizza again?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,"I done why they call it ""paparazza""",1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,"I done why they call it ""paparazza""",1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,They serve the best paparazzi pie in town.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Darn pizzarazzi won't leave my pie alone after it was featured on the Food Network.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,They say this place is famous for their paparazzi entree.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,They say this place is famous for their paparazzi entree.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,I think this wine will go nicely with our pizza ai paparazzi.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Why are the pepperonzis always trying to take your picture?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"They misspelled ""pepperoni"".",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,The Pizzarazzi have arrived!,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"I say, darling, did you call the pizzarazzi?",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,This is different. It's Deep Dish pizza-gate.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,This is different. It's Deep Dish pizza-gate.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,Your apartment always smells like condiments,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"...Darling, the Pizza Paparazzi comes highly recommended !",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,I preferred chefs being the new rock stars.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
@@ -3271,12 +3271,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3047,Did you order the pizza al paparazzi?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"What ever you do don't order the pizza with anchovies, they put a crazy rush on it !",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"After the paparazzi pizza, we're having tweeter's tiramisu.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,So what's Sean Spicer doing now?,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,So what's Sean Spicer doing now?,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,Oh yes! Today is the grand introduction of their new pizza?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,You know the deal -- no substitutions,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"Of course, >you< had to order the pizza pomodoro ala paparazzi.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,Get ready to smile!,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,You said no sex without a condiment.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,You said no sex without a condiment.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,Did you have to order the TMZ pie?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,This pizza is going to be eaten using knife and fork with ketchup on it!,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"Cooking to be a hot story, this couples first pizza.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
@@ -3289,8 +3289,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3047,"Harold, you need to clean your ears. I said 'pepperoni.'",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,How difficult can it be for a queen to order an ordinary pizza?,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3047,"To be honest, I'm glad it's the last one.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
-3047,You'd better hope your mother finished making that only five minutes ago.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
-3047,The Apprentice 2018: Bachelors vs. Chefs,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,578
+3047,You'd better hope your mother finished making that only five minutes ago.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
+3047,The Apprentice 2018: Bachelors vs. Chefs,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,578
 3047,I hear their pizza is to die for!,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,578
 3294,I ordered us the Lady Gaga Deluxe.,1.068181818181818,0.050344765623805764,44.0,42.0,1.0,1.0,578
 3294,The pizzarazzi are really rough today.,1.068181818181818,0.03843843094202265,44.0,41.0,3.0,0.0,578
@@ -3784,51 +3784,51 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3621,Foodies say the pizza here is epic.,1.05,0.03489912202260563,40.0,38.0,2.0,0.0,578
 3621,"Sorry, I didn't think the pizza-razzi knew about this place.",1.05,0.03489912202260563,40.0,38.0,2.0,0.0,578
 3621,Don't get your hopes up about their paparazzi pizza - it's probably just a typo.,1.05,0.03489912202260563,40.0,38.0,2.0,0.0,578
-3786,I ordered a Famous Ray's pepperoni. It's terrific except for the pizzarazzi.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,"I think Congress just said that ""tip"" means, to insure promptness?",1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,"Like them? Why, I must have eaten a million of them!",1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,"I thought you said pepperoni, not paparazzi.",1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,It's the Pizzarotti.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,Uh oh! Here come the pepperoni paparazzi!,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,Pepperoni? I thought you said Paparazzi.,1.0487804878048779,0.048780487804878016,41.0,40.0,0.0,1.0,578
-3786,We should've ordered the pizza.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,After thoughtful consideration i have decided it is time to explore a low carb diet.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,"It’s my anniversary too, couldn’t we have gone someplace famous for something I like to eat?",1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,I hope it doesn't have anchovies,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,The Papapizzas come with Paparazzis,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,"Tell me, what on my PizzaMiAmore.com account attracted you the most?",1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,You know Donald Trump eats here.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,"It's pepperoni, not paparatzi!",1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,I say let's change it up. Romantic dinners are overrated.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,I told the owner I was a Michelin award reviewer.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,Paparazzi Pizza!,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,Fake news is ruining my appetite but I have lost 5 pounds at least.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,They're not known for their speedy delivery.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,Why do they call this place “Paparazzi Pizza”?,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,I thought you said this place had incredible pepperoni.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,I'm pretty sure 'paparazzo' is not Italian for pepperoni.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,I told you we shouldn't have ordered the pizzarazzi.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,"That's Buckingham Palace, from the backside - I told him I own it.",1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,Have you ever heard about people who become those they serve?,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,"Admit it, you've been waiting all night for this so you could make your ""pizzaratzi"" joke.",1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,Pissarazzi again,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,Do celebrity chefs REALLY need celebrity servers?,1.0487804878048779,0.048780487804878016,41.0,40.0,0.0,1.0,578
-3786,Pepperoni must sound like paparazzi here!,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,It's a big event. He just finished his fast.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,So you don't think I'm spicy enough,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,Did you know the neighborhood before it gentrified?,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,There pizza here sure gets a lot of good press.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,"Hold on to your drink Harold, the Pizzarazzi has arrived.",1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,Pizzaria? Papparazzi? I never could get my Italian straight.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,I told you they had award-winning pizza here!,1.0487804878048779,0.048780487804878016,41.0,40.0,0.0,1.0,578
-3786,What do I do? I'm a speed eating competitor.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,Don't look now but I don't think you should have ordered the Justin Bieber pizza.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,But the pizzas are so overrated.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,Anchovies? Not tonight—just double paparazzi.,1.0487804878048779,0.048780487804878016,41.0,40.0,0.0,1.0,578
-3786,"Darling, I knew we would have been happier with the Japanese place tonight, to avoid the pizzarazzi.",1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,I hope you didn't order Russian caviar.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,"Yes, I really do think you look like Prince Harry.",1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
-3786,You can't avoid the paparazzi pizza.,1.0487804878048779,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,I ordered a Famous Ray's pepperoni. It's terrific except for the pizzarazzi.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,"I think Congress just said that ""tip"" means, to insure promptness?",1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,"Like them? Why, I must have eaten a million of them!",1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,"I thought you said pepperoni, not paparazzi.",1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,It's the Pizzarotti.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,Uh oh! Here come the pepperoni paparazzi!,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,Pepperoni? I thought you said Paparazzi.,1.048780487804878,0.048780487804878016,41.0,40.0,0.0,1.0,578
+3786,We should've ordered the pizza.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,After thoughtful consideration i have decided it is time to explore a low carb diet.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,"It’s my anniversary too, couldn’t we have gone someplace famous for something I like to eat?",1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,I hope it doesn't have anchovies,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,The Papapizzas come with Paparazzis,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,"Tell me, what on my PizzaMiAmore.com account attracted you the most?",1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,You know Donald Trump eats here.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,"It's pepperoni, not paparatzi!",1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,I say let's change it up. Romantic dinners are overrated.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,I told the owner I was a Michelin award reviewer.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,Paparazzi Pizza!,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,Fake news is ruining my appetite but I have lost 5 pounds at least.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,They're not known for their speedy delivery.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,Why do they call this place “Paparazzi Pizza”?,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,I thought you said this place had incredible pepperoni.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,I'm pretty sure 'paparazzo' is not Italian for pepperoni.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,I told you we shouldn't have ordered the pizzarazzi.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,"That's Buckingham Palace, from the backside - I told him I own it.",1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,Have you ever heard about people who become those they serve?,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,"Admit it, you've been waiting all night for this so you could make your ""pizzaratzi"" joke.",1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,Pissarazzi again,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,Do celebrity chefs REALLY need celebrity servers?,1.048780487804878,0.048780487804878016,41.0,40.0,0.0,1.0,578
+3786,Pepperoni must sound like paparazzi here!,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,It's a big event. He just finished his fast.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,So you don't think I'm spicy enough,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,Did you know the neighborhood before it gentrified?,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,There pizza here sure gets a lot of good press.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,"Hold on to your drink Harold, the Pizzarazzi has arrived.",1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,Pizzaria? Papparazzi? I never could get my Italian straight.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,I told you they had award-winning pizza here!,1.048780487804878,0.048780487804878016,41.0,40.0,0.0,1.0,578
+3786,What do I do? I'm a speed eating competitor.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,Don't look now but I don't think you should have ordered the Justin Bieber pizza.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,But the pizzas are so overrated.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,Anchovies? Not tonight—just double paparazzi.,1.048780487804878,0.048780487804878016,41.0,40.0,0.0,1.0,578
+3786,"Darling, I knew we would have been happier with the Japanese place tonight, to avoid the pizzarazzi.",1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,I hope you didn't order Russian caviar.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,"Yes, I really do think you look like Prince Harry.",1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
+3786,You can't avoid the paparazzi pizza.,1.048780487804878,0.03405912205797298,41.0,39.0,2.0,0.0,578
 3831,Why do you suppose it's called a Pizza Kardashian?,1.0476190476190477,0.033258585512837065,42.0,40.0,2.0,0.0,578
 3832,They only serve dishes connected to the latest and most shocking celebrity weight gain scandals.,1.0465116279069768,0.032494796790966084,43.0,41.0,2.0,0.0,578
 3833,Shall we ask for a take-home box?,1.0444444444444445,0.03106779090753475,45.0,43.0,2.0,0.0,578

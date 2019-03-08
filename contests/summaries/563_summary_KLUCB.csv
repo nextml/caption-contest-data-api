@@ -24,7 +24,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 23,I thought '401K' meant something else.,1.5139664804469273,0.053358453814973485,179.0,110.0,46.0,23.0,563
 24,I'm not trapped if it's what I choose. I'm not trapped if it's what I choose. I'm not trapped if it's what I choose.,1.5093167701863357,0.05785906819092732,161.0,102.0,36.0,23.0,563
 25,"Oh, I'm going great! I'm living the metaphor!",1.5076923076923077,0.06483422633709097,130.0,83.0,28.0,19.0,563
-26,Sorry. Can't talk. Gotta run.,1.505681818181818,0.05222153054685811,176.0,107.0,49.0,20.0,563
+26,Sorry. Can't talk. Gotta run.,1.5056818181818181,0.05222153054685811,176.0,107.0,49.0,20.0,563
 27,Is the wifi back up yet?,1.5039370078740155,0.06409944130963165,127.0,80.0,30.0,17.0,563
 28,"There's a BIG difference between a hamster and gerbil, Bob.",1.503067484662577,0.05529881584828104,163.0,101.0,42.0,20.0,563
 29,I'll talk to you later...I gotta run.,1.5,0.055008870122859835,172.0,109.0,40.0,23.0,563
@@ -56,7 +56,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 54,"No, I'm sorry, you have the wrong extension. This is ""What Goes Around"". You want ""What Comes Around"" at extension 2253.",1.4416666666666669,0.06350614047962695,120.0,81.0,25.0,14.0,563
 54,No robot's gonna take MY job.,1.4416666666666669,0.06010708619947588,120.0,78.0,31.0,11.0,563
 57,I'm great; they put more sugar in the water.,1.4367816091954022,0.0626876214601604,87.0,53.0,30.0,4.0,563
-58,Good morning you've reached the White House fact check line!!,1.4358974358974361,0.06580411878457867,117.0,81.0,21.0,15.0,563
+58,Good morning you've reached the White House fact check line!!,1.435897435897436,0.06580411878457867,117.0,81.0,21.0,15.0,563
 59,"Janet, tell the valet to bring my ball out front.",1.4298245614035088,0.0658967711689369,114.0,79.0,21.0,14.0,563
 59,"Honey, I'm running late at the lab.",1.4298245614035088,0.05568070841405836,114.0,71.0,37.0,6.0,563
 59,What goes around comes around. So what?,1.4298245614035088,0.05568070841405836,114.0,71.0,37.0,6.0,563
@@ -69,7 +69,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 65,The new corporate ladder.,1.423423423423423,0.0634130920034377,111.0,75.0,25.0,11.0,563
 69,I just feel that my career isn't going anywhere.,1.4181818181818182,0.08484848484848484,55.0,36.0,15.0,4.0,563
 70,I finally quit my desk job.,1.4174757281553398,0.0609654414043193,103.0,67.0,29.0,7.0,563
-71,Ha! Ha! I'm not going to waste MY life sitting behind a desk!,1.4150943396226414,0.05505518676738239,106.0,66.0,36.0,4.0,563
+71,Ha! Ha! I'm not going to waste MY life sitting behind a desk!,1.4150943396226414,0.055055186767382386,106.0,66.0,36.0,4.0,563
 71,I wish scientists would go back to using real hamsters.,1.4150943396226414,0.05339830587831599,106.0,65.0,38.0,3.0,563
 73,I just can't believe they make us wear a tie.,1.4134615384615383,0.0663946392306863,104.0,72.0,21.0,11.0,563
 73,United States Department of Energy. How may I direct your call?,1.4134615384615383,0.0663946392306863,104.0,72.0,21.0,11.0,563
@@ -78,9 +78,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 77,Hipster! I told the recruiter I was a hipster!,1.4117647058823528,0.10165867762208408,51.0,37.0,7.0,7.0,563
 78,"The moment Jim realized that when he ran faster, the wheel went faster too.",1.41,0.06046119049072352,100.0,65.0,29.0,6.0,563
 79,The last corporation I worked for had a ladder.,1.4077669902912622,0.06820548398527787,103.0,73.0,18.0,12.0,563
-80,"Well, I did ask to be kept in the loop.",1.405940594059406,0.06321144435450443,101.0,68.0,25.0,8.0,563
-80,"I know, I know but I was so sure the solar panels would be enough",1.405940594059406,0.0733609249617533,101.0,75.0,11.0,15.0,563
-80,"Good, now we're getting somewhere",1.405940594059406,0.06627010111160997,101.0,70.0,21.0,10.0,563
+80,"Well, I did ask to be kept in the loop.",1.4059405940594059,0.06321144435450443,101.0,68.0,25.0,8.0,563
+80,"I know, I know but I was so sure the solar panels would be enough",1.4059405940594059,0.0733609249617533,101.0,75.0,11.0,15.0,563
+80,"Good, now we're getting somewhere",1.4059405940594059,0.06627010111160997,101.0,70.0,21.0,10.0,563
 83,"He has some different ideas, but he's the best cardiologist I've ever found!",1.4042553191489362,0.08417623064627068,47.0,30.0,15.0,2.0,563
 84,Things that go around come around,1.404040404040404,0.05356626607004497,99.0,61.0,36.0,2.0,563
 84,Going green: 2 more hours and my Tesla will be charged,1.404040404040404,0.05728552161985341,99.0,63.0,32.0,4.0,563
@@ -2381,657 +2381,657 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2372,"The cedar shavings are a nice touch, if not a little primitive.",1.08,0.055377492419453785,25.0,23.0,2.0,0.0,563
 2372,"...press 8; for all other departments, press 9; to repeat this menu, press 0...",1.08,0.07999999999999996,25.0,24.0,0.0,1.0,563
 2372,I guess you could say it's a dead-end job.,1.08,0.055377492419453785,25.0,23.0,2.0,0.0,563
-2383,I've been trying to convince them to go Solar.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Why I said the job is a rat race I shouldn't have said it to the office decorators.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,When my hamster took over !,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Traffic's light. I can tal Traffic's light, I can talk.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It is really a lot easier than Charlie Chaplin's conveyor belt.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Rise of the Planet of the Hamsters,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Hamster Man to the rescue.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The rat race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Employee of the month,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Success is the reward for your effort.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,They’re testing a new wellness initiative. I’m the guinea pig.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Rat rice, my ass. It's more like a hampster race!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'd like to buy an A please Pat.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I quit the rat race for this?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Feels like I'm getting the run around, Steve.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Wheel of Fortune MY ASS!!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,That rat will will just have to wait.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Well at least I like doing nothing.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Whoa - you said to fit in here I'd have to adopt a HIPster lifestyle?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Job Trade Day was a great idea. Zach is probably climbing the cubicle walls about now.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm late for my next meeting. I'm late for my next meeting, I'm late...",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Standing desks are so yesterday!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I think I am going to pass on spin class tonight.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Was this in my contract?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Sisyphus was right; this day to day stuff seems repetitive.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Japanese business offers new ""open door policy"" for salarymen.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I am NOT spinning my wheels...,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,They had the nerve to call me a dirty rat?!?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Maybe we shouldn't have cancelled the order for the white mice after all.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Although the coffee is great, I'm getting tired of the rat race.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,That treadmill at the fitness club is just for hamsters!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Run-away-from-the-job training.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm all in on the PetSmart - Office Depot merger.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,My boss is an animal!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Standing Desk 2.0,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yes, sir, I'm slightly out of breath.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Man, I'm wheely crushing it!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Revenues are up at least 30 per cent since we've been powering the building through these rat races.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Henry celebrates his personal Pi Day tradition.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Cliche Factory, Rat Race Division, your call is very important to us, all representatives are currently assisting other customers, please stay on the line....",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Now, I hear the company is trying to ditch our health insurance.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Jonathan's office-design prototypes would continue to fail until he could answer the basic question: How do you refill the water?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Hami, I'm telling you, it's impossible to get off!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Hard work will surely take me places...,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I just decided I was done with the rat race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Now who is running circles around who.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I am training to be an Olympic hamster.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Wow. They make it look so easy.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I don't mind the excercise, but it was a right pain chewing through all those toilet rolls.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I love my job : I have my own office!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I have an open door policy,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yes, damn it! I'm sick of running the old treadmill. Get me a new one, ASAP!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Hamsters have it easy. They don't work out in suits.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,My goal for today is one million steps.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Mom always said ""never trust a Hamster"". Back in an hour he said. Won't be long he said.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Stevens! Get out of the wheel. We've got a giant hamster to find.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Beats the rat race,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Everything seems to be working fine now...I'd suggest replacing the shag carpeting.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This little boy and his dad provided me with feng shui and cardio.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"So you say the job pays peanuts, not pellets? I'll take it!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Where are my nuts and berries?!?!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Not rat race, Mom. Rodent competition.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Why yes, my job is fulfilling.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Jim loved breaking away from the rat race to log some 'me' time on his brand new treadmill.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Josh volunteered to be the guinea pig for his company’s new fitness program.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"When I said I wanted to be a big wheel, I didn't mean this.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Let's have a travel !,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Must....keep....running. There....must be....some way...to escape.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Ah, it's such a relief to get away from the rat race for a few minutes.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,". . . Chapter Three, section two . . 'Wilson put the ship in overdrive and watched fascinated as the room dissolved around him.'",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I told you I'll be there as fast as I can!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It was either the rat race or the merry-go-round.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Phone call from DT: ""You're always running and never getting anyway. No more free drinks for you. Please leave by the door. You're fired.""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I pity the desk jockeys.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It's worth it for the single malt scotch.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"As the son-in-law, I have my own office.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I've done a whole lot more than most people.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"To be honest, yes, I did expect something different when I got into the shaving business.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This is Jingles speaking. How may I help you?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm sorry, it's either me or the cat.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm trying hon, I can't seem to get ahead at work.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Ryan began to suspect that Atlas, the hamster, might not be returning.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It's the first clinical trial of modern capitalism.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The new company gym design needs work,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Shakin' it here, boss.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Green energy...got me workin like an animal,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Retro treadmill,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,...and it completely eliminates all that time I used to waste in the bathroom.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Can't wait till I get home sweet home to my habitrail.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This year I'm taking home the Gold in our Annual Rat Race!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I feel like I'm finally starting to get ahead at work.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I don't feel like I'm getting anywhere working at home.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm making this office great!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Roger! Coming asap.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Let's see...I've got 20 more minutes on the wheel, my 11 o'clock carrot and then some rolling around in the wood shavings...sorry, I am just fully booked until after lunch.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Note to self,"" Bag shavings, Get new bag, Run in circles.""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Hey Phil, I think I know what the rats are thinking",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"But sir, I thought you were speaking metaphorically.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I can't believe that a tie is required.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm running late again. Meet you at 9 for pellets and a few drops of water?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I could do this all night.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This is the Sprint help-line. . .,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm getting nowhere on the Henderson account.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,We left the door open,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Please hold. All of our operators are running their asses off.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Let me circle back to you on that.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"But the producers said this was for ""Wheel of Fortune""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Damn, I forgot to put on my Fitbit.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The Endless Uni-Human Cycle,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,And I thought this would be better than the rat race,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Look, I gotta run.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I don't know if I am a man dreaming that I am a mouse, or a mouse dreaming that I a man!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Honey, time to replace the bedding!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Now, back to our White House correspondent....",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Honey, it's a twofer: Chief Net Partiality Officer sucks, but my frickin' heart is in beast mode and our insurance discount is 'uge.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I keep going around in circles.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Hello, payroll?! Where's my commission check?!..I don't close deals in my hamster wheel for my health!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Productivity is up but it may be time to clean the cage.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,There are better ways to play with myself.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Hamster, Carrot, & Stick-- This is Hamster Speaking. Stick just took Carrot to lunch.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I've integrated my work and exercise schedules, but it's just not going anywhere!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Ma, it's the Circle of Life, not the rat race.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Thanks for calling Fitbit. How can I challenge you today?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"-Oh, you didn't get the memo. Got the printout right here on my exercise desk. I'll read it to you. 'All per-...sonnel...are re-...quired to...report...to the... 12th floor...at 2...",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Buy, sell, buy, sell...",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This is so much better than the rat race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Instead of covering Russia, Trump wants more stories on the health benefits of hamster wheels.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I have to get off now. I'm craving cheese.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Escher Maps says I'm almost there.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I told her I work out like an animal.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Peterson here, West Wing. Requesting a refill of Stolichnaya.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,White House Press Secretary Sean Spicer's daily press briefing,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yeah, a private office, turns out that big deal negotiated was right in my wheelhouse!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The terrible squeaking noise is back. Can you send someone up to fix it right away?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"With a little seed money, I can schedule the deal for rapid turnaround.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Seems Ryan's put the ""O"" back in Obama care.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Is this wheely necessary?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Got to stay in some kind of loop.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I wanted a PELOTON, not a 'PelletOn' !",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Sacked, you say? I heard he got flushed.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This is my karmic payback for being an exterminator in my past life.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm warming up until Pat and Vanna show up.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Honey, CrossFit costs too much time and money.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,More pellets!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I think I'm finally starting to get somewhere!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Ernie, do you know if the local Korean BBQ delivers? Extra kimchi, please!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""Alvin and The Gerbils"", I like it !",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'll be there in a minute. I'm almost out the door.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"No, no, the only thing I resent is they don't put vodka in the water bottle.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Aww, he thinks he's gerbil",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Can you hear me now?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""smooth, gentle, yet ironically peculiar"" assessed Larry the Hamsterwheelingtestermotrist",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Things went way down hill since the standing desk.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Darla, Cancel my 4pm, someone put piss in my giant Gatorade.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yes, but at least I'm keeping fit.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The Board Room,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm beginning to think this job is getting me nowhere!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Introducing the perfect accessories for your Soylent Beverage lifestyle.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,There's really no need for a rest room in the employee fitness center.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,When is this fucking acid going to wear off?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Hi, honey, it's me. Start dinner, I'm almost home.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Ah, you know. Same old, same old...",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Our robot designed it,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Trump's Congressional Wood Shed,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I've got enough water..what else do you have handy?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"The mouse owner started to grow weary of his human pet; making the wheel squeak incessantly for at least eight hours a day. And his getting lost in his tunnel, thinking he was going to escape his with? Don't get me started!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I wish I never made the hamster upset...,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Senator, hold off funding wind; the Government Energy Resource Back-up Initiative  Lab shows great potential!"" [Ed. note: Hold drawing close, giggle magazine, wheel TURNS!] shows good potentiual!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm not just a member of this gym, I'm the president!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Treadmill desks are for wimps and pussies.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It's time we started thinking outside the wheel.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Yes-congress will SOON pass the new health care act!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This IPA is delicious!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,We should have drawn the line at stand-up desks.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Promoted from the mailroom!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Your turn. Now you enterrain me.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Hon, sorry I will be late for dinner. I have to run the office by myself again.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Sometimes I get way ahead of myself before I go out.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"And with this new technology, I can connect with other hampster wheels around the world!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm late for work!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm working from home now. I've had enough of the rat race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Nirvana!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yes, sir we have reduced overhead costs...I am in better shape!  I think we're ready for social media!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Can't talk now. I'm playing 'Wheel of Fortune'.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Once more into the breach.....,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I thought the job title of Energy Production Technician was pretty general.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"If you order right now, I'll throw in an extra bag of shavings.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The natural progression from the standing desk.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Something Something Rat Race,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I junked my standing desk.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Now let's not try to reinvent the wheel here.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I work for celery, not salary.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It's more honest than a standing desk.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Suckers, all of them: soon I'll run on the upper floor while they stay here...",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Wheel of Fortune,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"The generator works fine, so bring home 30 hamsters.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The new freedom!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I will make the government more efficient, I will make the government more efficient...",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Suddenly, Stanley regretted his dying remarks that life had been an unending rat race.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,On Mondays I cover the floor in snakes and run like hell.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"To answer your question, I'm a man acting like a mouse.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,He takes the rat race too seriously.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Well, first, they got rid of the unpaid interns...",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Bob prepares to join the rat race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Trump's America - circa 2020,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Hard? Heck, even a gerbil could do it!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Keeping busy.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Just give me the dam water already,I've been running for 4 eons straight!!!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Tell the cleaning crew I'm sorry about the newspaper in the corner.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Okay, I can already see I'm not going to get anywhere working here.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'll come home as soon as I reach the water station. Almost there.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""No, we're going to try again!"" -Paul Ryan and his healthcare bill",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm telling you, Ken, I lucked out with the Rat Race Office. Poor Jeff was assigned to the Dog Eat Dog Dept.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,All I requested was a standing desk.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yes, Debbie, it's going to be OK; I think they put me in the control group.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It's worth every penny.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Tell Dad I’m putting a positive spin on his healthcare plan!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,How the Millennial prepare for the rat race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Can't stop yet...they keep moving my carrot.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Damn Fitbit.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Wait up! I'll be right there.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"In retrospect, my comment about this place being a rat race was probably a mistake...",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"'Escape the rat race,' they said.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It's a representation of my most authentic self.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Gee, if I stopped running on this thing and walked out that door, I could be free....What a bizarre thought.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Sure, free health club membership, but the boss is a conniving rat.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""This is one wheel I never fall asleep at"".",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yeah, well, it's almost happy hour.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The boss's idea of a time out didn't please Carl at all.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Yet this bastard still won't get me an assistant!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,There's a new health fad every week. Maybe I should have read the test results on the Hamster Health Model more closely.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,So much for working harder......,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I hate being in the control group.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I was tired of the rat race, so I got the wheel.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,How many gerbils lost their jobs because of him?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm afraid you'll have to speak faster, I'm wheelie busy.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm thinking of returning my new treadmill desk, if I can ever get off it.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The standing desk was just not enough.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Jim has an epiphany.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Well no, I did not think they meant it literally.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,How did they not notice this side effect in testing?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Let's roll!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"...""Aside from the irritating red cedar aroma, it's not bad...""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Rats!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm not stopping until I find who moved my cheese?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I've already generated 30% of my energy for the week!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,If I ever catch the rat who sold me this . . . .,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Same old, same old. How's it going next door?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm so happy I got my own office! Just hoped I had someone who could close the door!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This rat race is easier on steroids.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Running toward my corporate dreams.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The essence of corporate life.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm not sure why I thought a treadmill desk was such a good idea,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Must improve shareholders profits. Must improve shareholders profits. Must improve shareholders profits.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Man, I hate it when they use me for a metaphor.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The rat race becomes more literal every year.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,If only there were a way out.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Bad news, they aren't buying the movie rights to this life.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I don't feel I'm getting anywhere in this job.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This office fitness challenge sucks.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This is the last time I suggest to the boss we do more training for the rat race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Working from home – much less stressful!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm creating paper wealth and some of it is bound to be soiled.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,How to win the rat race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Work from home.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""lemme guess, the rats are still winning"".",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yeah, we made it clear to Chad the Hamstablaster was legit; I guess we should have remembered it was April fools day.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"You say rat race, I say 10,000 steps on my Fitbit.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I left the rat race long ago.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Make that a triple shot of espresso in my soy latte.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yeah, yeah I DID say this deal is, ""my wheel house"" but come on guys... explain this to Peta!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This job is such a Rat-Race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Whaddaya mean the reincarnated chair and desk set is on backorder?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It's definitely helped wth the hair loss.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Please hold my calls, I'm finally starting to get somewhere.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I just had to get away from the rat race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Can you hold the pellets, honey? I'm running late again.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm beginning to think a working stiff would make a better spokesperson.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"No idea when I'll get there, I'm still on my first lap.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It certainly keeps my Fitbit happy...,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It's a dead end job.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,manst-r wh--l Can I buy an 'e' please?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm telling you: my vision is revolutionary.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Only 64 more years to Full Retirement!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Oh - just staying fit so I can continue to inflict misery. And your, Mr. President?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I feel like I'm just spinning my wheels.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Hold my calls. I think I'm really getting somewhere.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yep, do what you love and the cedar shavings will follow.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yes, productivity is down, I just feel like I'm running in place.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"We like to call this IPO ""a round-floor opportunity in Green Energy.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Enlightenment begins with recognition of our life reality.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I hope this is what my boss meant by spinning things forward.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Training for the maze.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,What do you mean you stopped running? What do you do all day?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Hi Boss, it's me - Billy Hamster. I think I just invented something!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'll be there in five.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Can your lines of code ever be this dignified?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Standing is the new smoking.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yes, it's even more of a rat race around here than usual.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Vanna!!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I've got strong craving for a piece of cheese!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'd like to cancel my order for the standing desk,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The treadmill desk was too low energy.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Lets see if the Russians can listen in to this conversation!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,No rat race; there's a big rodent at my desk.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I just feel like it is all right in front of me but I just can't get there. So thirsty.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I quit the rat race and joined the gerbil race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yeah, I'm subbing for Grant today. He out with the Bubonic plague.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I don't know how it happened. One minute, I'm getting a DNA splice from a hamster, and the next minute, I'm a model employee.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Boss says I need to hit the ground running.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,My boss asked me to keep the wheels turning even when I'm at home.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Your news feeds.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"It's a small world after all. It's a small world after all. It's a small world after all. It's a small, small world.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,No vest for the weary.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,When reality and the rat race meet.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Phil's company had an unusual method for preparing him to compete in the rat race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Work smart not hard,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"No, I'm not putting in for the opening in Marketing - I wouldn't last five minutes in that snake pit.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Jeff was just relieved that the ""Hamster Diet"" didn't mean he had to eat hamsters.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm an eco-disrupter catalyst, not an animal!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I wish I could have afforded a Nordic Track"" ""I wonder where that door leads",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'll circle back with you by close of play.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm late, I'm late, I'm late, for a very important date. No time to say hello, goodbye, I'm late, I'm late, I'm late.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm just getting up to speed, let's sell those bonds.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Only 37 years to go...,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm just a little cog in a big machine!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""Well Senator, I don't seem to be getting anywhere."" Life inside the Beltway.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm sorry your cable has been out so long. Sounds like you've been getting the runaround.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,when multi tasking goes wrong,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm just filling in for the Gerbil,who is on a coffee break",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Mr. President, how much longer 'til you need that liberal perspective on healthcare. I'd like to get out of the rat race, in a manner of speaking.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,My own fault for saying I knew what an in-turn position entailed...,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I know, but it turns out this is the best way to keep my cell battery charged.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Rat race? What are you getting at?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,My therapist told me not to run away from my problems.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"One hamster, and supersize it!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Three more kilowatt hours generated and I get Friday off!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,They didn't tell me the corporate ladder went in circles.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Can't talk now - gotta run.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Help I'm being held captive by a giant hamster,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I feel great! Let them repeal Obamacare!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"nothing much, just the usual rat race.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I get paid in wood chips,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This office really gives you a run for your money.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""This was not my idea of a seven to five."" Explanation: wheel is a clock; his legs are its arms. Corporate drudgery and whatnot.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Just another day in Paradise!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Larry began to realize he'd misconstrued his CEO's conception of ""generating revenue.""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The finish line must be coming up soon.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"This must be like Crossfit, because I can't stop talking about it.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I shouldn't have moved to D.C.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yeah, HR told me to Guinea Pig this new cyclical workplace prototype all week.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I just don't feel like I am getting anywhere with this new client.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"For food, press squeek; for water press squeek squeek.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Let's circle back.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"well for one thing, it keeps me from gnawing on the door",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Hello? Tell the boss I've just about finished the project.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Only 10 more minutes to a promotion.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Stop looking at me.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'll just tell my parents you're an alternative bird.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,O.K. It's your turn honey---HONEY/,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Now I know why the snake poops Fitbits.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Training for the rat race,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Can you hear me now?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I think I can.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"The scientists said that when they spliced hamster DNA into my DNA, that I would have more energy. THIS IS RIDICULOUS!!!!!!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yes, I have been busy, but lately it feels more like hamster busy.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yes, we will continue to buck the 'corporate casual' trend; business is, after all, serious.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Captions galore beats four on the floor.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'll get around to it later.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This isn't worth cheaper electric bill.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I could do without on-site corporate fitness facility.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm almost there...or away from there.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"They're treating me well, Honey. I'm running this place.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Kinesiology and textile experts agree: yoga pants are out!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"No, they gave the promotion to the gerbil down the hall.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"My workout? Ten minutes running around, followed by tiny bites from a carrot.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Well, at least it's the fast lane.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I got sick of the rat race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Water, water, but never a drop to reach",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I can handle the pointlessness, it the mortality salience that gets me.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I don't do rat races. I'm in wheel estate.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"New franchise name, the Rat Race.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Sorry; can't talk now. Gotta run . . .,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yes, I'll come over to your office once I have my glutes really fired up.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"With fossils and renewables off the grid, accounting was all that was left.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Being the office rat has its perks.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"At my old startup, we only had standing desks!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I know it's your pet project but you need to keep me in the loop.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I still need a mate, and make sure she's not a shrew.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I want to hit the ground running when we close this deal.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,No time for lunch today. I'll just gnaw on the front door for a while.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Don't worry, boss. I'm finally getting somewhere!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,it's great to finally get away from the rat race!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Corporate's new flatulence free zone for senior executives.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I was feeling confined by my desk.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Hey, Honey, you were right. Taking this temp job for Gerbil, Inc. was a bad idea.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm working late again, honey, but I really feel like I'm getting somewhere.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Sorry, off to the gym in a few minutes, I'll talk to you tomorrow.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm not stopping until my wheel is bigger than his!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This is the last time I'll be a guinea pig for your research experiments.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I missed the rat race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""It's not quite 'Hamilton,' but there's something artisanal about it.'",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'll gladly suffer a monotonous job for an office with a window.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"When the Marketing guys said they needed a guinea pig, he assumed they meant something like a focus group for beer.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This corner office came with a bigger wheel!!!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,A rat I am. A rat I remain.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I can assure you we're moving very quickly on this thing.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,All these years I thought it was just a joke.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Gotta go, the Big Cheese is on the other line.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I just got promoted from the rat-race to the treadmill!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This sales cycle is getting out of hand.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm neither fish nor fowl.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Everything is possible with stretchy pants.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,(Spoiler alert!),1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Have we reached the pinnacle of history yet?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I hope this is the way to the treats.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I think Google has finally jumped the shark.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I need to save some of this water for retirement.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Can I call you back? I'm caught up in the rat race again!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"This beats working at my desk - I can do it all: get my work done through voice connections, hydrate and exercise. Mmmm - it's time to order pizza!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Planet of the Hamsters,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Consumer Reports. How may I direct your call?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The Rat Race for Dummies.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Well, I figured a Hamster Wheel would be better than getting into the Rat Race.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"These days, it's more of a hamster race.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yeah dude, a real wheel. It's my lunch break workout. Helps me relate to clients.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Ladder my #%*€¥,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yeah, I'll split a worm with you.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'll have my after-work whiskey straight up, so the ice doesn't jam my sipping tube",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I can't talk now. I'm running to the office. I'll grab something along the way.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I didn't realize spin doctor meant a whirly gig.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,...and they say they work me like a caged animal psh,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Well, telecommuting isn't as easy as I thought it would be.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm coming, Boss!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm running around in circles.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It was this or get replaced by a rat.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Honey! I fixed the squeak!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I sure do hope that's not Richard Gere at the door.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,A night with my crew? My girl keeps me round and round and round...like...,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Trust me. Its coming around again.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I always pictured the rat race outside.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Thanks for cleaning my office, can you close the door now.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Sure, but it could be worse. The woman one office over is pulling in 20% less.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Danny and Sandy, I've been told you have the word to help my situation.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'll do anything to get rid of this rug!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"People at work call me Hammy, I don't know why",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Perhaps my Crossfit habit has gone too far,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Minnie, can you order in a cheese plate for my lunch date with Mickey.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Our kids spend too much time in front of screens. I heard that on a podcast a few minutes ago.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I bet the hamster got out with the door open...... I'll run and see,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Pat, hold my calls.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,How close I am to Friday.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I do not feel like I am making any progress these days,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Millennium Man,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Push the lunch meeting back! I think I'm getting somewhere here.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Internship Day #1,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Wish that hamster would be back from his morning break!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"The Y membership expired so I thought ""what the Hell"". This thing will be paid off in 2044 , it powers microwave and I can depreciate it.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,That new juice seems to be working but it's given me the runs.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Are you sure that this is what Corporate meant by 'an order of ratatouille'?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Rodney's Rodent Wheels, this is Rodney!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I never expected this when they said 'powered by the Cloud.',1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'll be on my way home once I get around this next curve.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"It's the only way I can reach the new goal of 15,000 steps daily.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"No, everything is perfectly normal on my end.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Not now, I'm falling behind We'll talk later.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Give all you can to: Save the Gerbils.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Sorry, I can't attend. I'm in a mid-level management training class called Going Nowhere Fast.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Benevolent hampster Overlords, my ass!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I love my habitherapy. Be right down!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm running a little late.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Most boring job I've ever had-but the pay is great!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I said, "" Extra Cheese, Dammit!""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'd be willing to bet they won't work nearly as hard for you as I do.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The perfect open door policy is ready to be implemented!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"To train for the ""rat race"", you have to think like a rat.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""Get up to speed on it"" yourself!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Hey boss. I still don't see any hamsters.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"How can I do quality work, when the Drink Me is low and my straw needs changing?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The human race is going to rats!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Where's the toilet? I'm not comfortable going with the door open.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"This isn't the kind of ""lab work"" I was expecting.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Training to win the rat race,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,You'll know him when you see him.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I don't think this conversation is getting us anywhere.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,May I help run you in circles?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Hi dear. I know it sounds bad, but I'm at work. Believe me...",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"In this room, we test each applicant's Emotional Intelligence to confirm whether they would be a good fit in our corporate culture.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Don't fuss. A plain cheese omelet will be fine.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Lately I've been having trouble getting around.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm part of a beta program here combining energy independence and wellness.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The four year open door policy at the EPA....,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I knew we shouldn't have gotten rid of the waterfalls.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Man, am I thirsty!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Hamster World! This is Puffball speaking.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Barring traffic, I should be there...never!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I love it. It even has a window!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"We call this ""the open door policy""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,So this is what they mean when they say it's a rat race ...,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"No, I haven't decided to jump off the old treadmill and retire.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This new project I'm working on has me running in circles.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Door? What door?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The new roulette endurance training program,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"After 17 years of therapy, Davis still thinks he is a hamster.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm not all that happy about my part in this research project?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I can't believe this Rat Race that I've got myself in.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,at the Gerbil Research Institute for Humans,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Do you suffer from back pain? Or feel that you never are winning ""the race""?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"A popular house pet, that was brought to the United States in 1954.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This makes me so thirsty,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Let's schedule for after 30,000 steps.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""The mail room at the Hampster Building, NYC...",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Tuesday's bad. I have a call on renewable energy with Beckett that never ends.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yes, Johnson, something salty for lunch today as well.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The Ratkins Diet,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'll call you back in five. Time for my pellet.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Either you shouldn't look down, or I shouldn't look up.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I thought we were supposed to be getting standing desks.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Hello, Acme Small Rodent Control. How may I direct your call?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Honestly, it's all I ever hoped for...",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Honey, I'll be late tonight. They're throwing more bananas at me.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'll get it!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Hello? Yes...Please cancel my 2 o'clock. Bring me the Morgessen file and more shredded newspaper while you're at it.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm sorry - I just haven't been able to catch up.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm closer than ever.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Sir, I can confirm that no matter how fast I go, I'm getting no closer to the coffee machine.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Hold on - I think I smell cheese!!!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,They told me it was a promotion!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm almost out of energy vodka.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Got tired of the grindstone.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It finally feels like progress.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,An endorphin high is essential for this meeting!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I’m in hamster wheel sales; how else you gonna sell ‘em?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm running, but I can't keep up!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""Join our company. You'll be a big wheel,"" they said.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It all started with the standing desk.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Hello - I calling to talk to you about the latest innovation in treadmills,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,All trends show a positive trajectory.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,John thought thinking outside the box would get him ahead with his new boss.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I just hope Richard Gere doesn't find me.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This conversation is going circular.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"According to the management consultant, ""it's the journey that counts""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""It's kind of like a hedge fund; if we don't make a lot of money, we'll at least have a lot of scrapings.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I don't seem to be getting anywhere on the McIntosh deal.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,White House Chief of Staff Reince Priebus getting some exercise inside the Oval Orifice of President Trump.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Gotta train for the rat race,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,But you said I was auditioning to be one of Pavlov's dogs!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Hello, my name is Brad. We appreciate your business. Your call is important to us. Sorry for the inconvenience. Good-bye.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Hamsters will never stand for this.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"For some reason, no matter what you say, I can't shake the feeling that we are spinning our wheels on this issue.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The new job is fine. Still feel as if I'm stuck on an endless treadmill though.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Standing desks are for underachievers.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Nike's new office-letic line is made for the rat race,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"No, sorry. I'm too busy right now to go for a walk.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I said I'm running in the office, not running for office. I know better than to just spin my wheels.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yes, I did say, ""Employees are our greatest asset.""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'll be home soon-- I'm running late.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I wonder if the boss will get the point!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Just grabbing a quick drink. I'm on my way.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,American patriot seeking the alternative truth that will set him free.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Never ask me again whether I am a man or a mouse,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Jim the manager stars in ""Planet of the Hamsters.""",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,One Night at the Trump'sterb Surrogate Farm,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm really enjoying the perks working at Kia,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I'm in hot water if I do, and I'm in hot water if I don't.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Lately I feel like I have just been spinning my wheels.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I feel I'm just going in circles at work.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Is there anyway I could be considered for the rat race?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Silicon Valley companies have stranger and stranger ideas on modern workspaces.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,He works at an amazing company and he's a bright kid. If you ask me? I'd say that he's on the fast track to success.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I absolutely hate this Obamacare physical therapy.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,What's the rodent's time next door?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I see where the lab animals messed up,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Shhh! They don't know I put booze in the water bottle.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Whad'ya mean Rumplestiltskin won't be here for another hour?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This is ridiculous. Right?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Employee Wellness Room at ForYourPets Company,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Would someone please shut the door!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I should never have fired that hamster.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,A standing desk? Pfft! No one's tying me to a desk.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""Who am I kidding""?",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,We're pitching it as a zero-emissions workstation.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Leaving the rat race was the best thing I've ever done.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Great news, Mom. I got promoted out of the cubicle.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,... and I save time by pooping in the corner.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'll get back to you as soon as I get out of this rat race.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,cursorial editorial,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Goodbye Norma Jean..,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Whattayamean I don't sound relaxed?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"While your out, I need some more grasshoppers and mealworms.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Another mile, another dollar!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,How many times do I have to tell HR I use the men's room!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"While selecting an alternative energy choice, Stan makes a poor choice.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,What - no Bosco?!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The desk turned out to be redundant.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It's a great addition to the home office.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Joe's job was strange, but it kept him out of the pool halls.....",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I still can't believe they won't let me work remotely.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""I'm on to their racket. I'm doing exactly what they think I should be doing.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Help......the Giant Hamster is getting his own back!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I still feel like I'm spinning my wheel.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Finally, a task I can finish.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I tell you Bill, I'm so close to closing this deal I can taste it.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,These productivity sessions have gone way too far.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,There's just one thing I don't like about this new job.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Not what I had in mind when I asked for the treadmill desk.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,It's a Rat Race!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"One more bottle of beer on the wall, one more bottle of beer, if that bottle happens to fall, no more bottles of beer on the wall.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"People laugh at me sculpting this ass to stay ahead of the trend now, but people also laughed at my housing bubble predictions too.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"7:25 o'clock, gotta go till 8:00.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This wasn't the ergonomic set up I expected,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""Even if you win the rat race, you are still a rat"" - Gavin ""The Hamster"" Jones",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"...actually, I kinda miss the rat race.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This isn't what I meant when I said I wanted to on Wheel of Fortune.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,With no particular place to go.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,you mean I get beer in the bottle if I continue,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"What rat race? Down right Sisyphean, if you ask me.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The Great Gerbil Revolt of 2017,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Because standing desks are for amateurs that's why!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Power section, here. Yes?.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Believe me, I'm making great progress every day.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Destination infinity!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,No wonder my hamster is still so fat,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,This one-the-nose metaphor gives great cardio.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Not the wheel of fortune he envisioned.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Gotta run! I'll call you back after another 1,000 laps on the hamster wheel.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,How is that progress report coming?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I just don't feel like I'm getting anywhere in the company.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Thanks, but no thanks, I have everything I need.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"I asked for sparkling, not still!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Hamster, this is Squirrel! Buy four shares of Clean Coal now!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I'm really spinning my wheels over this.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"He was told assertive women are viewed as bossy. He was warned that mansplaining isn't appreciated. Still, Steve persisted in tweeting ""Not all men.."" at every female journalist he could find.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Whenever I need to feel rejuvenated, I run the opposite direction.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"It's not the wheel that bothers me. It's the fact that everyone else got mazes, too.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"If I am going to do the rat race, I thought I would first try the real thing.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Ten more rotations and I'll be at my goal weight!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Am I the only one around here breaking a sweat?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,My headset is totally green-powered.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yeah, it's good for my back and all that. But I gotta say, I'm a little jealous of my neighbor. He's got one of those Fucking Desks, the desks you can fuck.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"""He spent years trying to climb the corporate ladder in vain, and finally went mad"".",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Another tremendous success doctor! Ship this one off to the Homeland Security, and send in the next gerbil.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Why would Bob encourage me to climb the ladder to success?,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,The definition of insane is doing the same thing over and over and expecting a different outcome.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I ordered Sauvignon Blanc not Chardonnay!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Tell PETA we're ready to settle.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Mildred, hold all my calls - in your cheeks.",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"This is, (Pant, pant) better, (Pant) then my old Elliptical!",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,Tell him I have other fish to fry.,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,"Yeah, it's a great place to work! I definitely feel like I'm making progress",1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
-2383,I THOUGHT THE MAZE WAS A LOT MORE FUN!,1.0476190476190477,0.04879500364742666,21.0,20.0,1.0,0.0,563
+2383,I've been trying to convince them to go Solar.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Why I said the job is a rat race I shouldn't have said it to the office decorators.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,When my hamster took over !,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Traffic's light. I can tal Traffic's light, I can talk.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It is really a lot easier than Charlie Chaplin's conveyor belt.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Rise of the Planet of the Hamsters,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Hamster Man to the rescue.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The rat race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Employee of the month,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Success is the reward for your effort.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,They’re testing a new wellness initiative. I’m the guinea pig.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Rat rice, my ass. It's more like a hampster race!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'd like to buy an A please Pat.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I quit the rat race for this?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Feels like I'm getting the run around, Steve.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Wheel of Fortune MY ASS!!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,That rat will will just have to wait.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Well at least I like doing nothing.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Whoa - you said to fit in here I'd have to adopt a HIPster lifestyle?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Job Trade Day was a great idea. Zach is probably climbing the cubicle walls about now.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm late for my next meeting. I'm late for my next meeting, I'm late...",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Standing desks are so yesterday!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I think I am going to pass on spin class tonight.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Was this in my contract?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Sisyphus was right; this day to day stuff seems repetitive.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Japanese business offers new ""open door policy"" for salarymen.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I am NOT spinning my wheels...,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,They had the nerve to call me a dirty rat?!?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Maybe we shouldn't have cancelled the order for the white mice after all.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Although the coffee is great, I'm getting tired of the rat race.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,That treadmill at the fitness club is just for hamsters!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Run-away-from-the-job training.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm all in on the PetSmart - Office Depot merger.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,My boss is an animal!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Standing Desk 2.0,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yes, sir, I'm slightly out of breath.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Man, I'm wheely crushing it!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Revenues are up at least 30 per cent since we've been powering the building through these rat races.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Henry celebrates his personal Pi Day tradition.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Cliche Factory, Rat Race Division, your call is very important to us, all representatives are currently assisting other customers, please stay on the line....",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Now, I hear the company is trying to ditch our health insurance.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Jonathan's office-design prototypes would continue to fail until he could answer the basic question: How do you refill the water?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Hami, I'm telling you, it's impossible to get off!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Hard work will surely take me places...,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I just decided I was done with the rat race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Now who is running circles around who.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I am training to be an Olympic hamster.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Wow. They make it look so easy.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I don't mind the excercise, but it was a right pain chewing through all those toilet rolls.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I love my job : I have my own office!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I have an open door policy,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yes, damn it! I'm sick of running the old treadmill. Get me a new one, ASAP!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Hamsters have it easy. They don't work out in suits.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,My goal for today is one million steps.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Mom always said ""never trust a Hamster"". Back in an hour he said. Won't be long he said.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Stevens! Get out of the wheel. We've got a giant hamster to find.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Beats the rat race,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Everything seems to be working fine now...I'd suggest replacing the shag carpeting.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This little boy and his dad provided me with feng shui and cardio.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"So you say the job pays peanuts, not pellets? I'll take it!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Where are my nuts and berries?!?!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Not rat race, Mom. Rodent competition.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Why yes, my job is fulfilling.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Jim loved breaking away from the rat race to log some 'me' time on his brand new treadmill.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Josh volunteered to be the guinea pig for his company’s new fitness program.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"When I said I wanted to be a big wheel, I didn't mean this.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Let's have a travel !,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Must....keep....running. There....must be....some way...to escape.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Ah, it's such a relief to get away from the rat race for a few minutes.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,". . . Chapter Three, section two . . 'Wilson put the ship in overdrive and watched fascinated as the room dissolved around him.'",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I told you I'll be there as fast as I can!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It was either the rat race or the merry-go-round.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Phone call from DT: ""You're always running and never getting anyway. No more free drinks for you. Please leave by the door. You're fired.""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I pity the desk jockeys.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It's worth it for the single malt scotch.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"As the son-in-law, I have my own office.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I've done a whole lot more than most people.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"To be honest, yes, I did expect something different when I got into the shaving business.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This is Jingles speaking. How may I help you?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm sorry, it's either me or the cat.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm trying hon, I can't seem to get ahead at work.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Ryan began to suspect that Atlas, the hamster, might not be returning.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It's the first clinical trial of modern capitalism.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The new company gym design needs work,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Shakin' it here, boss.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Green energy...got me workin like an animal,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Retro treadmill,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,...and it completely eliminates all that time I used to waste in the bathroom.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Can't wait till I get home sweet home to my habitrail.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This year I'm taking home the Gold in our Annual Rat Race!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I feel like I'm finally starting to get ahead at work.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I don't feel like I'm getting anywhere working at home.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm making this office great!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Roger! Coming asap.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Let's see...I've got 20 more minutes on the wheel, my 11 o'clock carrot and then some rolling around in the wood shavings...sorry, I am just fully booked until after lunch.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Note to self,"" Bag shavings, Get new bag, Run in circles.""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Hey Phil, I think I know what the rats are thinking",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"But sir, I thought you were speaking metaphorically.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I can't believe that a tie is required.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm running late again. Meet you at 9 for pellets and a few drops of water?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I could do this all night.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This is the Sprint help-line. . .,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm getting nowhere on the Henderson account.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,We left the door open,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Please hold. All of our operators are running their asses off.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Let me circle back to you on that.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"But the producers said this was for ""Wheel of Fortune""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Damn, I forgot to put on my Fitbit.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The Endless Uni-Human Cycle,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,And I thought this would be better than the rat race,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Look, I gotta run.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I don't know if I am a man dreaming that I am a mouse, or a mouse dreaming that I a man!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Honey, time to replace the bedding!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Now, back to our White House correspondent....",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Honey, it's a twofer: Chief Net Partiality Officer sucks, but my frickin' heart is in beast mode and our insurance discount is 'uge.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I keep going around in circles.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Hello, payroll?! Where's my commission check?!..I don't close deals in my hamster wheel for my health!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Productivity is up but it may be time to clean the cage.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,There are better ways to play with myself.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Hamster, Carrot, & Stick-- This is Hamster Speaking. Stick just took Carrot to lunch.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I've integrated my work and exercise schedules, but it's just not going anywhere!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Ma, it's the Circle of Life, not the rat race.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Thanks for calling Fitbit. How can I challenge you today?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"-Oh, you didn't get the memo. Got the printout right here on my exercise desk. I'll read it to you. 'All per-...sonnel...are re-...quired to...report...to the... 12th floor...at 2...",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Buy, sell, buy, sell...",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This is so much better than the rat race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Instead of covering Russia, Trump wants more stories on the health benefits of hamster wheels.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I have to get off now. I'm craving cheese.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Escher Maps says I'm almost there.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I told her I work out like an animal.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Peterson here, West Wing. Requesting a refill of Stolichnaya.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,White House Press Secretary Sean Spicer's daily press briefing,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yeah, a private office, turns out that big deal negotiated was right in my wheelhouse!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The terrible squeaking noise is back. Can you send someone up to fix it right away?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"With a little seed money, I can schedule the deal for rapid turnaround.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Seems Ryan's put the ""O"" back in Obama care.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Is this wheely necessary?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Got to stay in some kind of loop.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I wanted a PELOTON, not a 'PelletOn' !",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Sacked, you say? I heard he got flushed.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This is my karmic payback for being an exterminator in my past life.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm warming up until Pat and Vanna show up.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Honey, CrossFit costs too much time and money.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,More pellets!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I think I'm finally starting to get somewhere!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Ernie, do you know if the local Korean BBQ delivers? Extra kimchi, please!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""Alvin and The Gerbils"", I like it !",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'll be there in a minute. I'm almost out the door.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"No, no, the only thing I resent is they don't put vodka in the water bottle.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Aww, he thinks he's gerbil",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Can you hear me now?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""smooth, gentle, yet ironically peculiar"" assessed Larry the Hamsterwheelingtestermotrist",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Things went way down hill since the standing desk.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Darla, Cancel my 4pm, someone put piss in my giant Gatorade.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yes, but at least I'm keeping fit.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The Board Room,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm beginning to think this job is getting me nowhere!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Introducing the perfect accessories for your Soylent Beverage lifestyle.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,There's really no need for a rest room in the employee fitness center.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,When is this fucking acid going to wear off?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Hi, honey, it's me. Start dinner, I'm almost home.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Ah, you know. Same old, same old...",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Our robot designed it,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Trump's Congressional Wood Shed,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I've got enough water..what else do you have handy?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"The mouse owner started to grow weary of his human pet; making the wheel squeak incessantly for at least eight hours a day. And his getting lost in his tunnel, thinking he was going to escape his with? Don't get me started!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I wish I never made the hamster upset...,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Senator, hold off funding wind; the Government Energy Resource Back-up Initiative  Lab shows great potential!"" [Ed. note: Hold drawing close, giggle magazine, wheel TURNS!] shows good potentiual!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm not just a member of this gym, I'm the president!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Treadmill desks are for wimps and pussies.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It's time we started thinking outside the wheel.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Yes-congress will SOON pass the new health care act!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This IPA is delicious!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,We should have drawn the line at stand-up desks.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Promoted from the mailroom!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Your turn. Now you enterrain me.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Hon, sorry I will be late for dinner. I have to run the office by myself again.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Sometimes I get way ahead of myself before I go out.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"And with this new technology, I can connect with other hampster wheels around the world!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm late for work!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm working from home now. I've had enough of the rat race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Nirvana!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yes, sir we have reduced overhead costs...I am in better shape!  I think we're ready for social media!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Can't talk now. I'm playing 'Wheel of Fortune'.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Once more into the breach.....,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I thought the job title of Energy Production Technician was pretty general.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"If you order right now, I'll throw in an extra bag of shavings.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The natural progression from the standing desk.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Something Something Rat Race,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I junked my standing desk.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Now let's not try to reinvent the wheel here.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I work for celery, not salary.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It's more honest than a standing desk.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Suckers, all of them: soon I'll run on the upper floor while they stay here...",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Wheel of Fortune,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"The generator works fine, so bring home 30 hamsters.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The new freedom!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I will make the government more efficient, I will make the government more efficient...",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Suddenly, Stanley regretted his dying remarks that life had been an unending rat race.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,On Mondays I cover the floor in snakes and run like hell.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"To answer your question, I'm a man acting like a mouse.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,He takes the rat race too seriously.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Well, first, they got rid of the unpaid interns...",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Bob prepares to join the rat race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Trump's America - circa 2020,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Hard? Heck, even a gerbil could do it!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Keeping busy.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Just give me the dam water already,I've been running for 4 eons straight!!!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Tell the cleaning crew I'm sorry about the newspaper in the corner.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Okay, I can already see I'm not going to get anywhere working here.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'll come home as soon as I reach the water station. Almost there.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""No, we're going to try again!"" -Paul Ryan and his healthcare bill",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm telling you, Ken, I lucked out with the Rat Race Office. Poor Jeff was assigned to the Dog Eat Dog Dept.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,All I requested was a standing desk.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yes, Debbie, it's going to be OK; I think they put me in the control group.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It's worth every penny.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Tell Dad I’m putting a positive spin on his healthcare plan!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,How the Millennial prepare for the rat race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Can't stop yet...they keep moving my carrot.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Damn Fitbit.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Wait up! I'll be right there.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"In retrospect, my comment about this place being a rat race was probably a mistake...",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"'Escape the rat race,' they said.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It's a representation of my most authentic self.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Gee, if I stopped running on this thing and walked out that door, I could be free....What a bizarre thought.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Sure, free health club membership, but the boss is a conniving rat.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""This is one wheel I never fall asleep at"".",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yeah, well, it's almost happy hour.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The boss's idea of a time out didn't please Carl at all.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Yet this bastard still won't get me an assistant!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,There's a new health fad every week. Maybe I should have read the test results on the Hamster Health Model more closely.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,So much for working harder......,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I hate being in the control group.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I was tired of the rat race, so I got the wheel.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,How many gerbils lost their jobs because of him?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm afraid you'll have to speak faster, I'm wheelie busy.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm thinking of returning my new treadmill desk, if I can ever get off it.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The standing desk was just not enough.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Jim has an epiphany.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Well no, I did not think they meant it literally.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,How did they not notice this side effect in testing?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Let's roll!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"...""Aside from the irritating red cedar aroma, it's not bad...""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Rats!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm not stopping until I find who moved my cheese?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I've already generated 30% of my energy for the week!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,If I ever catch the rat who sold me this . . . .,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Same old, same old. How's it going next door?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm so happy I got my own office! Just hoped I had someone who could close the door!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This rat race is easier on steroids.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Running toward my corporate dreams.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The essence of corporate life.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm not sure why I thought a treadmill desk was such a good idea,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Must improve shareholders profits. Must improve shareholders profits. Must improve shareholders profits.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Man, I hate it when they use me for a metaphor.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The rat race becomes more literal every year.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,If only there were a way out.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Bad news, they aren't buying the movie rights to this life.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I don't feel I'm getting anywhere in this job.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This office fitness challenge sucks.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This is the last time I suggest to the boss we do more training for the rat race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Working from home – much less stressful!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm creating paper wealth and some of it is bound to be soiled.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,How to win the rat race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Work from home.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""lemme guess, the rats are still winning"".",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yeah, we made it clear to Chad the Hamstablaster was legit; I guess we should have remembered it was April fools day.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"You say rat race, I say 10,000 steps on my Fitbit.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I left the rat race long ago.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Make that a triple shot of espresso in my soy latte.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yeah, yeah I DID say this deal is, ""my wheel house"" but come on guys... explain this to Peta!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This job is such a Rat-Race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Whaddaya mean the reincarnated chair and desk set is on backorder?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It's definitely helped wth the hair loss.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Please hold my calls, I'm finally starting to get somewhere.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I just had to get away from the rat race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Can you hold the pellets, honey? I'm running late again.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm beginning to think a working stiff would make a better spokesperson.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"No idea when I'll get there, I'm still on my first lap.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It certainly keeps my Fitbit happy...,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It's a dead end job.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,manst-r wh--l Can I buy an 'e' please?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm telling you: my vision is revolutionary.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Only 64 more years to Full Retirement!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Oh - just staying fit so I can continue to inflict misery. And your, Mr. President?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I feel like I'm just spinning my wheels.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Hold my calls. I think I'm really getting somewhere.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yep, do what you love and the cedar shavings will follow.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yes, productivity is down, I just feel like I'm running in place.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"We like to call this IPO ""a round-floor opportunity in Green Energy.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Enlightenment begins with recognition of our life reality.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I hope this is what my boss meant by spinning things forward.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Training for the maze.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,What do you mean you stopped running? What do you do all day?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Hi Boss, it's me - Billy Hamster. I think I just invented something!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'll be there in five.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Can your lines of code ever be this dignified?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Standing is the new smoking.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yes, it's even more of a rat race around here than usual.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Vanna!!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I've got strong craving for a piece of cheese!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'd like to cancel my order for the standing desk,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The treadmill desk was too low energy.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Lets see if the Russians can listen in to this conversation!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,No rat race; there's a big rodent at my desk.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I just feel like it is all right in front of me but I just can't get there. So thirsty.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I quit the rat race and joined the gerbil race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yeah, I'm subbing for Grant today. He out with the Bubonic plague.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I don't know how it happened. One minute, I'm getting a DNA splice from a hamster, and the next minute, I'm a model employee.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Boss says I need to hit the ground running.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,My boss asked me to keep the wheels turning even when I'm at home.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Your news feeds.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"It's a small world after all. It's a small world after all. It's a small world after all. It's a small, small world.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,No vest for the weary.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,When reality and the rat race meet.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Phil's company had an unusual method for preparing him to compete in the rat race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Work smart not hard,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"No, I'm not putting in for the opening in Marketing - I wouldn't last five minutes in that snake pit.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Jeff was just relieved that the ""Hamster Diet"" didn't mean he had to eat hamsters.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm an eco-disrupter catalyst, not an animal!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I wish I could have afforded a Nordic Track"" ""I wonder where that door leads",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'll circle back with you by close of play.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm late, I'm late, I'm late, for a very important date. No time to say hello, goodbye, I'm late, I'm late, I'm late.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm just getting up to speed, let's sell those bonds.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Only 37 years to go...,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm just a little cog in a big machine!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""Well Senator, I don't seem to be getting anywhere."" Life inside the Beltway.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm sorry your cable has been out so long. Sounds like you've been getting the runaround.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,when multi tasking goes wrong,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm just filling in for the Gerbil,who is on a coffee break",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Mr. President, how much longer 'til you need that liberal perspective on healthcare. I'd like to get out of the rat race, in a manner of speaking.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,My own fault for saying I knew what an in-turn position entailed...,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I know, but it turns out this is the best way to keep my cell battery charged.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Rat race? What are you getting at?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,My therapist told me not to run away from my problems.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"One hamster, and supersize it!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Three more kilowatt hours generated and I get Friday off!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,They didn't tell me the corporate ladder went in circles.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Can't talk now - gotta run.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Help I'm being held captive by a giant hamster,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I feel great! Let them repeal Obamacare!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"nothing much, just the usual rat race.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I get paid in wood chips,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This office really gives you a run for your money.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""This was not my idea of a seven to five."" Explanation: wheel is a clock; his legs are its arms. Corporate drudgery and whatnot.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Just another day in Paradise!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Larry began to realize he'd misconstrued his CEO's conception of ""generating revenue.""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The finish line must be coming up soon.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"This must be like Crossfit, because I can't stop talking about it.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I shouldn't have moved to D.C.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yeah, HR told me to Guinea Pig this new cyclical workplace prototype all week.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I just don't feel like I am getting anywhere with this new client.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"For food, press squeek; for water press squeek squeek.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Let's circle back.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"well for one thing, it keeps me from gnawing on the door",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Hello? Tell the boss I've just about finished the project.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Only 10 more minutes to a promotion.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Stop looking at me.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'll just tell my parents you're an alternative bird.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,O.K. It's your turn honey---HONEY/,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Now I know why the snake poops Fitbits.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Training for the rat race,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Can you hear me now?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I think I can.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"The scientists said that when they spliced hamster DNA into my DNA, that I would have more energy. THIS IS RIDICULOUS!!!!!!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yes, I have been busy, but lately it feels more like hamster busy.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yes, we will continue to buck the 'corporate casual' trend; business is, after all, serious.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Captions galore beats four on the floor.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'll get around to it later.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This isn't worth cheaper electric bill.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I could do without on-site corporate fitness facility.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm almost there...or away from there.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"They're treating me well, Honey. I'm running this place.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Kinesiology and textile experts agree: yoga pants are out!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"No, they gave the promotion to the gerbil down the hall.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"My workout? Ten minutes running around, followed by tiny bites from a carrot.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Well, at least it's the fast lane.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I got sick of the rat race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Water, water, but never a drop to reach",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I can handle the pointlessness, it the mortality salience that gets me.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I don't do rat races. I'm in wheel estate.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"New franchise name, the Rat Race.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Sorry; can't talk now. Gotta run . . .,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yes, I'll come over to your office once I have my glutes really fired up.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"With fossils and renewables off the grid, accounting was all that was left.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Being the office rat has its perks.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"At my old startup, we only had standing desks!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I know it's your pet project but you need to keep me in the loop.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I still need a mate, and make sure she's not a shrew.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I want to hit the ground running when we close this deal.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,No time for lunch today. I'll just gnaw on the front door for a while.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Don't worry, boss. I'm finally getting somewhere!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,it's great to finally get away from the rat race!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Corporate's new flatulence free zone for senior executives.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I was feeling confined by my desk.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Hey, Honey, you were right. Taking this temp job for Gerbil, Inc. was a bad idea.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm working late again, honey, but I really feel like I'm getting somewhere.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Sorry, off to the gym in a few minutes, I'll talk to you tomorrow.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm not stopping until my wheel is bigger than his!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This is the last time I'll be a guinea pig for your research experiments.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I missed the rat race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""It's not quite 'Hamilton,' but there's something artisanal about it.'",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'll gladly suffer a monotonous job for an office with a window.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"When the Marketing guys said they needed a guinea pig, he assumed they meant something like a focus group for beer.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This corner office came with a bigger wheel!!!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,A rat I am. A rat I remain.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I can assure you we're moving very quickly on this thing.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,All these years I thought it was just a joke.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Gotta go, the Big Cheese is on the other line.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I just got promoted from the rat-race to the treadmill!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This sales cycle is getting out of hand.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm neither fish nor fowl.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Everything is possible with stretchy pants.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,(Spoiler alert!),1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Have we reached the pinnacle of history yet?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I hope this is the way to the treats.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I think Google has finally jumped the shark.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I need to save some of this water for retirement.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Can I call you back? I'm caught up in the rat race again!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"This beats working at my desk - I can do it all: get my work done through voice connections, hydrate and exercise. Mmmm - it's time to order pizza!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Planet of the Hamsters,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Consumer Reports. How may I direct your call?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The Rat Race for Dummies.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Well, I figured a Hamster Wheel would be better than getting into the Rat Race.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"These days, it's more of a hamster race.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yeah dude, a real wheel. It's my lunch break workout. Helps me relate to clients.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Ladder my #%*€¥,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yeah, I'll split a worm with you.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'll have my after-work whiskey straight up, so the ice doesn't jam my sipping tube",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I can't talk now. I'm running to the office. I'll grab something along the way.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I didn't realize spin doctor meant a whirly gig.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,...and they say they work me like a caged animal psh,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Well, telecommuting isn't as easy as I thought it would be.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm coming, Boss!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm running around in circles.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It was this or get replaced by a rat.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Honey! I fixed the squeak!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I sure do hope that's not Richard Gere at the door.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,A night with my crew? My girl keeps me round and round and round...like...,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Trust me. Its coming around again.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I always pictured the rat race outside.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Thanks for cleaning my office, can you close the door now.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Sure, but it could be worse. The woman one office over is pulling in 20% less.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Danny and Sandy, I've been told you have the word to help my situation.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'll do anything to get rid of this rug!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"People at work call me Hammy, I don't know why",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Perhaps my Crossfit habit has gone too far,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Minnie, can you order in a cheese plate for my lunch date with Mickey.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Our kids spend too much time in front of screens. I heard that on a podcast a few minutes ago.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I bet the hamster got out with the door open...... I'll run and see,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Pat, hold my calls.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,How close I am to Friday.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I do not feel like I am making any progress these days,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Millennium Man,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Push the lunch meeting back! I think I'm getting somewhere here.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Internship Day #1,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Wish that hamster would be back from his morning break!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"The Y membership expired so I thought ""what the Hell"". This thing will be paid off in 2044 , it powers microwave and I can depreciate it.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,That new juice seems to be working but it's given me the runs.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Are you sure that this is what Corporate meant by 'an order of ratatouille'?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Rodney's Rodent Wheels, this is Rodney!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I never expected this when they said 'powered by the Cloud.',1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'll be on my way home once I get around this next curve.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"It's the only way I can reach the new goal of 15,000 steps daily.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"No, everything is perfectly normal on my end.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Not now, I'm falling behind We'll talk later.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Give all you can to: Save the Gerbils.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Sorry, I can't attend. I'm in a mid-level management training class called Going Nowhere Fast.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Benevolent hampster Overlords, my ass!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I love my habitherapy. Be right down!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm running a little late.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Most boring job I've ever had-but the pay is great!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I said, "" Extra Cheese, Dammit!""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'd be willing to bet they won't work nearly as hard for you as I do.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The perfect open door policy is ready to be implemented!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"To train for the ""rat race"", you have to think like a rat.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""Get up to speed on it"" yourself!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Hey boss. I still don't see any hamsters.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"How can I do quality work, when the Drink Me is low and my straw needs changing?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The human race is going to rats!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Where's the toilet? I'm not comfortable going with the door open.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"This isn't the kind of ""lab work"" I was expecting.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Training to win the rat race,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,You'll know him when you see him.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I don't think this conversation is getting us anywhere.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,May I help run you in circles?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Hi dear. I know it sounds bad, but I'm at work. Believe me...",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"In this room, we test each applicant's Emotional Intelligence to confirm whether they would be a good fit in our corporate culture.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Don't fuss. A plain cheese omelet will be fine.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Lately I've been having trouble getting around.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm part of a beta program here combining energy independence and wellness.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The four year open door policy at the EPA....,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I knew we shouldn't have gotten rid of the waterfalls.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Man, am I thirsty!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Hamster World! This is Puffball speaking.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Barring traffic, I should be there...never!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I love it. It even has a window!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"We call this ""the open door policy""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,So this is what they mean when they say it's a rat race ...,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"No, I haven't decided to jump off the old treadmill and retire.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This new project I'm working on has me running in circles.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Door? What door?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The new roulette endurance training program,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"After 17 years of therapy, Davis still thinks he is a hamster.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm not all that happy about my part in this research project?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I can't believe this Rat Race that I've got myself in.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,at the Gerbil Research Institute for Humans,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Do you suffer from back pain? Or feel that you never are winning ""the race""?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"A popular house pet, that was brought to the United States in 1954.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This makes me so thirsty,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Let's schedule for after 30,000 steps.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""The mail room at the Hampster Building, NYC...",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Tuesday's bad. I have a call on renewable energy with Beckett that never ends.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yes, Johnson, something salty for lunch today as well.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The Ratkins Diet,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'll call you back in five. Time for my pellet.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Either you shouldn't look down, or I shouldn't look up.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I thought we were supposed to be getting standing desks.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Hello, Acme Small Rodent Control. How may I direct your call?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Honestly, it's all I ever hoped for...",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Honey, I'll be late tonight. They're throwing more bananas at me.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'll get it!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Hello? Yes...Please cancel my 2 o'clock. Bring me the Morgessen file and more shredded newspaper while you're at it.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm sorry - I just haven't been able to catch up.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm closer than ever.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Sir, I can confirm that no matter how fast I go, I'm getting no closer to the coffee machine.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Hold on - I think I smell cheese!!!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,They told me it was a promotion!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm almost out of energy vodka.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Got tired of the grindstone.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It finally feels like progress.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,An endorphin high is essential for this meeting!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I’m in hamster wheel sales; how else you gonna sell ‘em?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm running, but I can't keep up!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""Join our company. You'll be a big wheel,"" they said.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It all started with the standing desk.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Hello - I calling to talk to you about the latest innovation in treadmills,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,All trends show a positive trajectory.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,John thought thinking outside the box would get him ahead with his new boss.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I just hope Richard Gere doesn't find me.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This conversation is going circular.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"According to the management consultant, ""it's the journey that counts""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""It's kind of like a hedge fund; if we don't make a lot of money, we'll at least have a lot of scrapings.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I don't seem to be getting anywhere on the McIntosh deal.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,White House Chief of Staff Reince Priebus getting some exercise inside the Oval Orifice of President Trump.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Gotta train for the rat race,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,But you said I was auditioning to be one of Pavlov's dogs!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Hello, my name is Brad. We appreciate your business. Your call is important to us. Sorry for the inconvenience. Good-bye.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Hamsters will never stand for this.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"For some reason, no matter what you say, I can't shake the feeling that we are spinning our wheels on this issue.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The new job is fine. Still feel as if I'm stuck on an endless treadmill though.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Standing desks are for underachievers.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Nike's new office-letic line is made for the rat race,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"No, sorry. I'm too busy right now to go for a walk.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I said I'm running in the office, not running for office. I know better than to just spin my wheels.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yes, I did say, ""Employees are our greatest asset.""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'll be home soon-- I'm running late.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I wonder if the boss will get the point!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Just grabbing a quick drink. I'm on my way.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,American patriot seeking the alternative truth that will set him free.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Never ask me again whether I am a man or a mouse,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Jim the manager stars in ""Planet of the Hamsters.""",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,One Night at the Trump'sterb Surrogate Farm,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm really enjoying the perks working at Kia,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I'm in hot water if I do, and I'm in hot water if I don't.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Lately I feel like I have just been spinning my wheels.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I feel I'm just going in circles at work.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Is there anyway I could be considered for the rat race?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Silicon Valley companies have stranger and stranger ideas on modern workspaces.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,He works at an amazing company and he's a bright kid. If you ask me? I'd say that he's on the fast track to success.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I absolutely hate this Obamacare physical therapy.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,What's the rodent's time next door?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I see where the lab animals messed up,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Shhh! They don't know I put booze in the water bottle.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Whad'ya mean Rumplestiltskin won't be here for another hour?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This is ridiculous. Right?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Employee Wellness Room at ForYourPets Company,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Would someone please shut the door!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I should never have fired that hamster.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,A standing desk? Pfft! No one's tying me to a desk.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""Who am I kidding""?",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,We're pitching it as a zero-emissions workstation.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Leaving the rat race was the best thing I've ever done.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Great news, Mom. I got promoted out of the cubicle.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,... and I save time by pooping in the corner.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'll get back to you as soon as I get out of this rat race.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,cursorial editorial,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Goodbye Norma Jean..,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Whattayamean I don't sound relaxed?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"While your out, I need some more grasshoppers and mealworms.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Another mile, another dollar!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,How many times do I have to tell HR I use the men's room!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"While selecting an alternative energy choice, Stan makes a poor choice.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,What - no Bosco?!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The desk turned out to be redundant.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It's a great addition to the home office.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Joe's job was strange, but it kept him out of the pool halls.....",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I still can't believe they won't let me work remotely.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""I'm on to their racket. I'm doing exactly what they think I should be doing.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Help......the Giant Hamster is getting his own back!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I still feel like I'm spinning my wheel.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Finally, a task I can finish.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I tell you Bill, I'm so close to closing this deal I can taste it.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,These productivity sessions have gone way too far.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,There's just one thing I don't like about this new job.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Not what I had in mind when I asked for the treadmill desk.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,It's a Rat Race!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"One more bottle of beer on the wall, one more bottle of beer, if that bottle happens to fall, no more bottles of beer on the wall.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"People laugh at me sculpting this ass to stay ahead of the trend now, but people also laughed at my housing bubble predictions too.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"7:25 o'clock, gotta go till 8:00.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This wasn't the ergonomic set up I expected,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""Even if you win the rat race, you are still a rat"" - Gavin ""The Hamster"" Jones",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"...actually, I kinda miss the rat race.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This isn't what I meant when I said I wanted to on Wheel of Fortune.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,With no particular place to go.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,you mean I get beer in the bottle if I continue,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"What rat race? Down right Sisyphean, if you ask me.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The Great Gerbil Revolt of 2017,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Because standing desks are for amateurs that's why!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Power section, here. Yes?.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Believe me, I'm making great progress every day.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Destination infinity!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,No wonder my hamster is still so fat,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,This one-the-nose metaphor gives great cardio.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Not the wheel of fortune he envisioned.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Gotta run! I'll call you back after another 1,000 laps on the hamster wheel.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,How is that progress report coming?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I just don't feel like I'm getting anywhere in the company.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Thanks, but no thanks, I have everything I need.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"I asked for sparkling, not still!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Hamster, this is Squirrel! Buy four shares of Clean Coal now!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I'm really spinning my wheels over this.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"He was told assertive women are viewed as bossy. He was warned that mansplaining isn't appreciated. Still, Steve persisted in tweeting ""Not all men.."" at every female journalist he could find.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Whenever I need to feel rejuvenated, I run the opposite direction.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"It's not the wheel that bothers me. It's the fact that everyone else got mazes, too.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"If I am going to do the rat race, I thought I would first try the real thing.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Ten more rotations and I'll be at my goal weight!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Am I the only one around here breaking a sweat?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,My headset is totally green-powered.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yeah, it's good for my back and all that. But I gotta say, I'm a little jealous of my neighbor. He's got one of those Fucking Desks, the desks you can fuck.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"""He spent years trying to climb the corporate ladder in vain, and finally went mad"".",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Another tremendous success doctor! Ship this one off to the Homeland Security, and send in the next gerbil.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Why would Bob encourage me to climb the ladder to success?,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,The definition of insane is doing the same thing over and over and expecting a different outcome.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I ordered Sauvignon Blanc not Chardonnay!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Tell PETA we're ready to settle.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Mildred, hold all my calls - in your cheeks.",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"This is, (Pant, pant) better, (Pant) then my old Elliptical!",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,Tell him I have other fish to fry.,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,"Yeah, it's a great place to work! I definitely feel like I'm making progress",1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
+2383,I THOUGHT THE MAZE WAS A LOT MORE FUN!,1.0476190476190477,0.048795003647426664,21.0,20.0,1.0,0.0,563
 3034,Next Gen Energy Independence,1.0454545454545454,0.046524210519923545,22.0,21.0,1.0,0.0,563
 3034,My doubts about the corporate treadmill began with they put wood shavings on the floor.,1.0454545454545454,0.046524210519923545,22.0,21.0,1.0,0.0,563
 3034,At least I get healthcare.,1.0454545454545454,0.046524210519923545,22.0,21.0,1.0,0.0,563

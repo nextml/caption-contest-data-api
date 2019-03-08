@@ -13,11 +13,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 12,I'm not leaving. It's rent-controlled.,1.6666666666666667,0.05542623855746424,219.0,122.0,48.0,49.0,553
 12,I want to see other people.,1.6666666666666667,0.05442644813283246,222.0,122.0,52.0,48.0,553
 14,You just had to tear off that mattress tag.,1.663594470046083,0.05355640041226359,217.0,116.0,58.0,43.0,553
-15,... and it's only January 21st.,1.6572769953051645,0.05607350721178533,213.0,120.0,46.0,47.0,553
+15,... and it's only January 21st.,1.6572769953051645,0.056073507211785334,213.0,120.0,46.0,47.0,553
 15,"On the plus side, Manhattan is affordable now.",1.6572769953051645,0.049798340045640085,213.0,105.0,76.0,32.0,553
-15,I'd like to start seeing other people.,1.6572769953051645,0.05607350721178533,213.0,120.0,46.0,47.0,553
+15,I'd like to start seeing other people.,1.6572769953051645,0.056073507211785334,213.0,120.0,46.0,47.0,553
 18,I'm gay.,1.6507177033492824,0.056648187282463576,209.0,119.0,44.0,46.0,553
-19,I won't fight the divorce...... you can have everything,1.6386138613861383,0.054050917628634385,202.0,109.0,57.0,36.0,553
+19,I won't fight the divorce...... you can have everything,1.6386138613861383,0.05405091762863439,202.0,109.0,57.0,36.0,553
 20,The good news is they cancelled my colonoscopy.,1.6294416243654823,0.054799021252255234,197.0,108.0,54.0,35.0,553
 21,"Don't worry, he's going to replace it with something terrific.",1.6275510204081634,0.05456915220924826,196.0,107.0,55.0,34.0,553
 21,He did promise to create more construction jobs.,1.6275510204081634,0.05504653482820966,196.0,108.0,53.0,35.0,553
@@ -44,7 +44,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 43,"Well Joan, now I am the last man on earth.",1.583815028901734,0.0602551711137827,173.0,105.0,35.0,33.0,553
 44,Explain to me again how this is all my fault.,1.5789473684210529,0.058558598081152775,171.0,101.0,41.0,29.0,553
 45,So I guess this is my fault?,1.5764705882352938,0.05825693009748807,170.0,100.0,42.0,28.0,553
-45,It's not like it's the end of the world.,1.5764705882352938,0.05455445021937207,170.0,94.0,54.0,22.0,553
+45,It's not like it's the end of the world.,1.5764705882352938,0.054554450219372067,170.0,94.0,54.0,22.0,553
 45,"Okay, maybe I should have read the instructions.",1.5764705882352938,0.057049475158278684,170.0,98.0,46.0,26.0,553
 48,I want to see other people.,1.5739644970414202,0.060326155116072276,169.0,103.0,35.0,31.0,553
 49,It said microwave safe,1.5696969696969696,0.059079063379538964,165.0,98.0,40.0,27.0,553
@@ -542,40 +542,40 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 541,Remind me of the things you would do if I was the last man on earth.,1.4,0.06610830954193336,110.0,79.0,18.0,13.0,553
 541,So how long have you been on the post-apocalyptic dating site?,1.4,0.06085298599839426,110.0,75.0,26.0,9.0,553
 541,Selfie?,1.4,0.0622084526114707,110.0,76.0,24.0,10.0,553
-544,I'm still convinced this is just more fake news.,1.3981481481481481,0.06569886146018218,108.0,77.0,19.0,12.0,553
-544,Yeah but we won.,1.3981481481481481,0.06300952201142132,108.0,75.0,23.0,10.0,553
-544,"Next time, don't ask them to warm up the croissant.",1.3981481481481481,0.06436823852363835,108.0,76.0,21.0,11.0,553
-544,"Yes, I voted for change, why do you ask?",1.3981481481481481,0.06700306458433393,108.0,78.0,17.0,13.0,553
-544,What makes you so sure we missed the last bus?,1.3981481481481481,0.061620853593402775,108.0,74.0,25.0,9.0,553
-544,Don't worry. The House republicans will rein him in any day now.,1.3981481481481481,0.06828236177974976,108.0,79.0,15.0,14.0,553
-544,Who knew Meryl Streep had nukes?,1.3981481481481481,0.06569886146018218,108.0,77.0,19.0,12.0,553
-544,Yes I'm sure I turned the stove off!,1.3981481481481481,0.05725311168831741,108.0,71.0,31.0,6.0,553
-544,All I'm saying is you may have overreacted.,1.3981481481481481,0.061620853593402775,108.0,74.0,25.0,9.0,553
-544,"Still, no.",1.3981481481481481,0.06020016055669095,108.0,73.0,27.0,8.0,553
-544,Don't worry. He'll Make Armageddon Great Again.,1.3981481481481481,0.06828236177974976,108.0,79.0,15.0,14.0,553
-544,I assumed it was microwave safe.,1.3981481481481481,0.06569886146018218,108.0,77.0,19.0,12.0,553
-544,No regrets whatsoever! Have you forgotten all the emails she deleted?,1.3981481481481481,0.06953812764770735,108.0,80.0,13.0,15.0,553
-544,I don't know. What do you want to do tonight?,1.3981481481481481,0.058745119495351765,108.0,72.0,29.0,7.0,553
-544,"According to eHarmony, we have a lot in common.",1.3981481481481481,0.06828236177974976,108.0,79.0,15.0,14.0,553
-544,"Well, you were the one who said you wanted to start over.",1.3981481481481481,0.05725311168831741,108.0,71.0,31.0,6.0,553
-544,"OK, fine. I guess in hindsight her emails weren't that bad.",1.3981481481481481,0.06300952201142132,108.0,75.0,23.0,10.0,553
-544,The human race is in trouble; I've had a vasectomy.,1.3981481481481481,0.06569886146018218,108.0,77.0,19.0,12.0,553
-544,Melania thought it was an eyesore.,1.3981481481481481,0.06300952201142132,108.0,75.0,23.0,10.0,553
-544,I don't know. What do you wanna do?,1.3981481481481481,0.06300952201142132,108.0,75.0,23.0,10.0,553
-544,I'm still not sleeping with you.,1.3981481481481481,0.06436823852363835,108.0,76.0,21.0,11.0,553
-544,Those four years really flew by.,1.3981481481481481,0.06700306458433393,108.0,78.0,17.0,13.0,553
-544,"I know, but what about her emails.",1.3981481481481481,0.06569886146018218,108.0,77.0,19.0,12.0,553
-544,You just had to touch the red button.,1.3981481481481481,0.061620853593402775,108.0,74.0,25.0,9.0,553
-544,I think I hear the smoke alarm.,1.3981481481481481,0.061620853593402775,108.0,74.0,25.0,9.0,553
-544,I think it's best I leave the cooking to you from now on.,1.3981481481481481,0.06300952201142132,108.0,75.0,23.0,10.0,553
-544,"Tweeting ""you don't have the guts to push the button"" may have been a little impulsive.",1.3981481481481481,0.06569886146018218,108.0,77.0,19.0,12.0,553
-544,Oh and I suppose Hillary would have done better.,1.3981481481481481,0.06300952201142132,108.0,75.0,23.0,10.0,553
-544,"All in all, I think the Inauguration went well.",1.3981481481481481,0.061620853593402775,108.0,74.0,25.0,9.0,553
-544,"Fine, but Obama is the second-worst.",1.3981481481481481,0.06569886146018218,108.0,77.0,19.0,12.0,553
-544,How about Hillary's emails though?,1.3981481481481481,0.06700306458433393,108.0,78.0,17.0,13.0,553
-544,Did you unplug the iron?,1.3981481481481481,0.06020016055669095,108.0,73.0,27.0,8.0,553
-544,"I'm telling you, this ""nuclear war"" is fake news fabricated by the liberal media.",1.3981481481481481,0.06828236177974976,108.0,79.0,15.0,14.0,553
-544,I asked you not to hit control-alt-delete.,1.3981481481481481,0.06300952201142132,108.0,75.0,23.0,10.0,553
+544,I'm still convinced this is just more fake news.,1.398148148148148,0.06569886146018218,108.0,77.0,19.0,12.0,553
+544,Yeah but we won.,1.398148148148148,0.06300952201142132,108.0,75.0,23.0,10.0,553
+544,"Next time, don't ask them to warm up the croissant.",1.398148148148148,0.06436823852363835,108.0,76.0,21.0,11.0,553
+544,"Yes, I voted for change, why do you ask?",1.398148148148148,0.06700306458433393,108.0,78.0,17.0,13.0,553
+544,What makes you so sure we missed the last bus?,1.398148148148148,0.061620853593402775,108.0,74.0,25.0,9.0,553
+544,Don't worry. The House republicans will rein him in any day now.,1.398148148148148,0.06828236177974976,108.0,79.0,15.0,14.0,553
+544,Who knew Meryl Streep had nukes?,1.398148148148148,0.06569886146018218,108.0,77.0,19.0,12.0,553
+544,Yes I'm sure I turned the stove off!,1.398148148148148,0.05725311168831741,108.0,71.0,31.0,6.0,553
+544,All I'm saying is you may have overreacted.,1.398148148148148,0.061620853593402775,108.0,74.0,25.0,9.0,553
+544,"Still, no.",1.398148148148148,0.06020016055669095,108.0,73.0,27.0,8.0,553
+544,Don't worry. He'll Make Armageddon Great Again.,1.398148148148148,0.06828236177974976,108.0,79.0,15.0,14.0,553
+544,I assumed it was microwave safe.,1.398148148148148,0.06569886146018218,108.0,77.0,19.0,12.0,553
+544,No regrets whatsoever! Have you forgotten all the emails she deleted?,1.398148148148148,0.06953812764770735,108.0,80.0,13.0,15.0,553
+544,I don't know. What do you want to do tonight?,1.398148148148148,0.058745119495351765,108.0,72.0,29.0,7.0,553
+544,"According to eHarmony, we have a lot in common.",1.398148148148148,0.06828236177974976,108.0,79.0,15.0,14.0,553
+544,"Well, you were the one who said you wanted to start over.",1.398148148148148,0.05725311168831741,108.0,71.0,31.0,6.0,553
+544,"OK, fine. I guess in hindsight her emails weren't that bad.",1.398148148148148,0.06300952201142132,108.0,75.0,23.0,10.0,553
+544,The human race is in trouble; I've had a vasectomy.,1.398148148148148,0.06569886146018218,108.0,77.0,19.0,12.0,553
+544,Melania thought it was an eyesore.,1.398148148148148,0.06300952201142132,108.0,75.0,23.0,10.0,553
+544,I don't know. What do you wanna do?,1.398148148148148,0.06300952201142132,108.0,75.0,23.0,10.0,553
+544,I'm still not sleeping with you.,1.398148148148148,0.06436823852363835,108.0,76.0,21.0,11.0,553
+544,Those four years really flew by.,1.398148148148148,0.06700306458433393,108.0,78.0,17.0,13.0,553
+544,"I know, but what about her emails.",1.398148148148148,0.06569886146018218,108.0,77.0,19.0,12.0,553
+544,You just had to touch the red button.,1.398148148148148,0.061620853593402775,108.0,74.0,25.0,9.0,553
+544,I think I hear the smoke alarm.,1.398148148148148,0.061620853593402775,108.0,74.0,25.0,9.0,553
+544,I think it's best I leave the cooking to you from now on.,1.398148148148148,0.06300952201142132,108.0,75.0,23.0,10.0,553
+544,"Tweeting ""you don't have the guts to push the button"" may have been a little impulsive.",1.398148148148148,0.06569886146018218,108.0,77.0,19.0,12.0,553
+544,Oh and I suppose Hillary would have done better.,1.398148148148148,0.06300952201142132,108.0,75.0,23.0,10.0,553
+544,"All in all, I think the Inauguration went well.",1.398148148148148,0.061620853593402775,108.0,74.0,25.0,9.0,553
+544,"Fine, but Obama is the second-worst.",1.398148148148148,0.06569886146018218,108.0,77.0,19.0,12.0,553
+544,How about Hillary's emails though?,1.398148148148148,0.06700306458433393,108.0,78.0,17.0,13.0,553
+544,Did you unplug the iron?,1.398148148148148,0.06020016055669095,108.0,73.0,27.0,8.0,553
+544,"I'm telling you, this ""nuclear war"" is fake news fabricated by the liberal media.",1.398148148148148,0.06828236177974976,108.0,79.0,15.0,14.0,553
+544,I asked you not to hit control-alt-delete.,1.398148148148148,0.06300952201142132,108.0,75.0,23.0,10.0,553
 578,Do you still want to argue about who gets the house?,1.3944954128440368,0.06253554697434978,109.0,76.0,23.0,10.0,553
 578,At least we got rid of Obamacare.,1.3944954128440368,0.0651957357961096,109.0,78.0,19.0,12.0,553
 578,"So, is America Great Again yet?",1.3944954128440368,0.06387949045420302,109.0,77.0,21.0,11.0,553
@@ -1405,7 +1405,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1394,I guess that dinner and a movie are out.,1.3186813186813189,0.0582175635694764,91.0,66.0,21.0,4.0,553
 1394,"I know we don't agree on much politically...but I for one preferred the ""nuclear option"" as a metaphor.",1.3186813186813189,0.06967414278746091,91.0,72.0,9.0,10.0,553
 1394,"Well, last man on Earth should count for something...",1.3186813186813189,0.062271062271062265,91.0,68.0,17.0,6.0,553
-1394,So...do you know why you're in a time-out?,1.3186813186813189,0.05608105262711981,91.0,65.0,23.0,3.0,553
+1394,So...do you know why you're in a time-out?,1.3186813186813189,0.056081052627119814,91.0,65.0,23.0,3.0,553
 1394,There's no one else but you.,1.3186813186813189,0.0582175635694764,91.0,66.0,21.0,4.0,553
 1394,This does qualify for my most unusual first date.,1.3186813186813189,0.06420191150243705,91.0,69.0,15.0,7.0,553
 1394,You were right about Trump comrade. I should never have double dog dared him!,1.3186813186813189,0.06420191150243705,91.0,69.0,15.0,7.0,553
@@ -1435,7 +1435,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1394,It all started with a tweet.,1.3186813186813189,0.06607636252675386,91.0,70.0,13.0,8.0,553
 1394,"This set, AND an X-rated script? Seriously?",1.3186813186813189,0.07140508677515724,91.0,73.0,7.0,11.0,553
 1394,Hillary would've been worse.,1.3186813186813189,0.06789908636327331,91.0,71.0,11.0,9.0,553
-1394,"OK, I'll admit it. I am kind of sorry I voted for him.",1.3186813186813189,0.05608105262711981,91.0,65.0,23.0,3.0,553
+1394,"OK, I'll admit it. I am kind of sorry I voted for him.",1.3186813186813189,0.056081052627119814,91.0,65.0,23.0,3.0,553
 1394,And over there used to be the Trump Tower.,1.3186813186813189,0.06420191150243705,91.0,69.0,15.0,7.0,553
 1394,I thought Putin liked him.,1.3186813186813189,0.062271062271062265,91.0,68.0,17.0,6.0,553
 1394,"Stop saying, ""I told you so.""",1.3186813186813189,0.062271062271062265,91.0,68.0,17.0,6.0,553
@@ -3281,7 +3281,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3271,I wasn't kidding when I said if You were the last guy on earth.,1.2236842105263157,0.05492797264720448,76.0,61.0,13.0,2.0,553
 3271,"There was this video, 'Re-light your gas heater's pilot."" That's all I remember.",1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0,553
 3271,Look on the bright side. It'll only take four or eight years to rebuild.,1.2236842105263157,0.0580341224807828,76.0,62.0,11.0,3.0,553
-3271,"Sure, there have been a few bumps in the road, but you don't see any immigrants around, do you?",1.2236842105263157,0.05163530755354893,76.0,60.0,15.0,1.0,553
+3271,"Sure, there have been a few bumps in the road, but you don't see any immigrants around, do you?",1.2236842105263157,0.051635307553548934,76.0,60.0,15.0,1.0,553
 3271,"Ok, fine. You were right. A Trump presidency was one of the signs of the Apocalypse.",1.2236842105263157,0.063794308195006,76.0,64.0,7.0,5.0,553
 3271,Don't say no to a fresh start.,1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0,553
 3271,"For the last time, no, I didn't vote for him either!",1.2236842105263157,0.06098226434871828,76.0,63.0,9.0,4.0,553
@@ -3796,14 +3796,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3784,"So, I said to myself, ""I'll take a chance and vote for the anti-establishment guy""",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
 3784,"Yeah, but at least we won the war on Christmas.",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
 3784,Do you think they will still give us a free breakfast?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
-3784,"Well, you told me you wanted to de-clutter.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,"Well, you told me you wanted to de-clutter.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,"Don't be ridiculous, this was not on my bucket list!",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,Company policy states we need someone to blame.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,"Why make them, if we weren't going to us them?",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,"Do you have any plans for supper, Honey?",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,Is it too late to take back my yoga pants?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,Let's party like it's 1949.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
-3784,"Well, that wasn't so bad was it.",1.1971830985915493,0.047554769059532785,71.0,57.0,14.0,0.0,553
+3784,"Well, that wasn't so bad was it.",1.1971830985915493,0.04755476905953279,71.0,57.0,14.0,0.0,553
 3784,So...what do you like to do for fun?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,I TOLD you 2016 wasn't so bad....,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,I told you no one would notice if you wore the same outfit again this year.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
@@ -3812,16 +3812,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3784,"So, you're saying I have anger management problems?",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,I'd rather stay in tonight.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,"They just couldn't leave the ""little fingers"" bit, alone, could they?",1.1971830985915493,0.06537223030395355,71.0,62.0,4.0,5.0,553
-3784,Frankly. I think Armageddon is over rated.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,Frankly. I think Armageddon is over rated.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,"Do you think I should run for a second term, Hillary?",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,I can't find my wallet.,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
 3784,"What the hell did you do that for, Hillary?",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
-3784,"Okay, next time you plan the vacation.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,"Okay, next time you plan the vacation.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,"I know, I know, you told me this would happen.",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,I'm starting to have second thoughts about love and war.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,You think it's rent controlled?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,We finally have smaller government and low taxes. You should be happy.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
-3784,He did say that Putin respected him.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,He did say that Putin respected him.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,I knew I should have voted for Hillary,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,This does not excuse you from date night.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,I don't think he meant it.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
@@ -3845,7 +3845,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3784,I looks like you and I have something in common with roaches.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,You're raze or mine?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,I'm really sorry I voted for Trump.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
-3784,"(singing) If you were the only girl in the world, and I was the only boy...",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,"(singing) If you were the only girl in the world, and I was the only boy...",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,"But gee, didn't we dance a lot at the inaugural ball ?",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
 3784,"Do you really think I would have called him 'Trumpelstiltskin, the gold-spinning imp' if I had known that he could already order a drone strike?",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
 3784,"In my defense, I did say you wouldn't like me when I'm angry.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
@@ -3862,43 +3862,43 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3784,I was using someone else's mantra.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,Shall we move to one of the Red States?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,I do love the smell of the air after a storm.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
-3784,How should we nurture Generation Gamma Ray?,1.1971830985915493,0.047554769059532785,71.0,57.0,14.0,0.0,553
+3784,How should we nurture Generation Gamma Ray?,1.1971830985915493,0.04755476905953279,71.0,57.0,14.0,0.0,553
 3784,Circumstances require us to be Adam and Eve!,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
 3784,Online dating seems a little pointless now.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,"I think it's almost over. Or maybe it's just begun? Too existential? Should I quote ""Waiting for Godot?"" It's my fault, isn't it? I'll just be quiet.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
-3784,That's the third time this week.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
-3784,"The more things change, the more they stay the same.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,That's the third time this week.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
+3784,"The more things change, the more they stay the same.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,"Yes dear, this is what's left of DC after the Trump invasion.",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,"Made you blink."" ""No you didn't.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
-3784,"Relax. They missed us, didn't they.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,"Relax. They missed us, didn't they.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,I'm glad we finally got to visit Aleppo.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
-3784,Want to get brunch?,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,Want to get brunch?,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,"Whatever you salvage, I get half.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,Do you always feel the need to grill me on the hot seat?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,Next time I'll remember to turn off the gas.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,At least we know the nuclear arsenal is still operational...,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
-3784,"TripAdvisor said ""open vistas.""",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,"TripAdvisor said ""open vistas.""",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,This time we're not going to miss out on the next hot neighborhood,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,I wonder why the airline is late?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
-3784,This is bound to effect property prices.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,This is bound to effect property prices.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,Now it's great again.,1.1971830985915493,0.06537223030395355,71.0,62.0,4.0,5.0,553
-3784,"So, about that last man in the world thing...""",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,"So, about that last man in the world thing...""",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,"This is Trump's idea of ""draining the swamp.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
-3784,Do you want the good news or the bad news first?,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
-3784,So can we agree to divorce now?,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,Do you want the good news or the bad news first?,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
+3784,So can we agree to divorce now?,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,At least we don't live next to any refugees.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,"This doesn't surprise me, you know what happens when you eat too many beans.",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,"For pity's sake Marjorie, never mention that phoenix again.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,"Yes dear, I did say ""let's move here, it's a safe neighborhood.""",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
 3784,"Don't worry dear, Trump is a builder too",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,I guess you were right about him being a cause for worry.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
-3784,I told you to go outside to smoke that cigarette.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,I told you to go outside to smoke that cigarette.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,"He says if we re-elect him he'll build a huge,really huge tower that will make us great again.",1.1971830985915493,0.06537223030395355,71.0,62.0,4.0,5.0,553
 3784,"So, let's talk more about your background!",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
 3784,I think we are looking at another bubble.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
-3784,Shall we tackle spousal support next?,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,Shall we tackle spousal support next?,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,Less is more.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
-3784,You're over-reacting dear.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,You're over-reacting dear.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,It isn't so bad after all ... it's only one day after Trump's inauguration and we still have a place to sit!,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,The election's over. Now what?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,I still like his hair.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
@@ -3906,28 +3906,28 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3784,How's your Mandarin?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,'Smoulder' sure is a great matchmaking app isn't it.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,January 20th was kinda bad.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
-3784,I guess i just wanted to start over,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,I guess i just wanted to start over,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,"No, to maintain a reverse mortgage you have to live in the rubble.",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,"Linda, I think this relationship is getting toxic",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,Divorce is hard on everyone.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,What?,1.1971830985915493,0.06537223030395355,71.0,62.0,4.0,5.0,553
-3784,"Actually, this is one of the nicer neighborhoods now.",1.1971830985915493,0.047554769059532785,71.0,57.0,14.0,0.0,553
+3784,"Actually, this is one of the nicer neighborhoods now.",1.1971830985915493,0.04755476905953279,71.0,57.0,14.0,0.0,553
 3784,He clearly did NOT mock that disabled reporter.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
-3784,"Ok, imagine ~ we're the new Adam and Eve and there's no apples.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,"Ok, imagine ~ we're the new Adam and Eve and there's no apples.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,I hear the housing market is really blowing up.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,"So, what kind of house are you looking for?",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,For once you weren't catastrophizing.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,And that was a good idea because...?,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
 3784,Call for a pizza,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,"OK, I was wrong—we should have went back and checked the stove.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
-3784,I still think those emails showed a real lack of judgment.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,I still think those emails showed a real lack of judgment.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,I thought it was kind of a big sparkler.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,I thought divorce was the nuclear option,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,It's boring without zombies.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,You said you wanted to live in a quiet neighborhood.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,And you thought it would be fun to miss the tour bus.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,I'm giving them 10 more minutes. Then we're leaving!,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
-3784,I'm glad you were sitting down.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,I'm glad you were sitting down.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,"I'm wondering, did you remember to turn off the lights?",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,I think I'll put on my shorts,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,there's one good thing about this: my therapist told me to simplify my life.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
@@ -3935,22 +3935,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3784,"Apparently he said he wanted more nukes, and Alexa delivered.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,Have you seen the TV guide?,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,My therapist says it's you.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
-3784,We should revisit our investment portfolio.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,We should revisit our investment portfolio.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,The alt-right has it alt-wrong.,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
 3784,We've still got time to catch a movie.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,"Yes Betty I voted to make America Great again, we are still here aren't we!",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
-3784,"It’ll be OK. Remember, we have Neanderthal DNA.",1.1971830985915493,0.047554769059532785,71.0,57.0,14.0,0.0,553
+3784,"It’ll be OK. Remember, we have Neanderthal DNA.",1.1971830985915493,0.04755476905953279,71.0,57.0,14.0,0.0,553
 3784,He said he'll pay for the next wall himself.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
-3784,Our marriage is in ruins.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,Our marriage is in ruins.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,I told you we should have voted for the other one.,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
 3784,Is there a good place to eat around here?,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,"better buy something now, it's becoming gentrified.",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
-3784,"Would you rather walk, or wait for the shuttle?",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,"Would you rather walk, or wait for the shuttle?",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,"O.K., O.K., you can have the remote control.",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,"Well, we can wait as long as you want ... but he never comes.",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,I thought that was the agreement - I pick the vacation and you book the hotel.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,"Meryl Streep, Elizabeth Warren and Donald Trump were here last night.",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
-3784,I guess now we wait.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,I guess now we wait.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,The Hyatt Aleppo is supposed to be nice.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,"Yes Judith, I know, but I don't think anyone expected it to happen so soon after the inauguration.",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
 3784,"Oh, NOT, that button.",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
@@ -3961,31 +3961,31 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3784,Can't think of anyone I'd rather be here with than you.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,"In the future, let's stay away from politics until we've had our morning coffee.",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,I really just wanted the hat.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
-3784,After all... tomorrow is another day.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,After all... tomorrow is another day.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,So I bid No Trump -- and this was his response!,1.1971830985915493,0.06537223030395355,71.0,62.0,4.0,5.0,553
 3784,What a way to start 2017!,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,I guess you did leave the iron on.,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
-3784,He's YOUR son....,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,He's YOUR son....,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,Sorry for the mess- I'm in the middle of redecorating.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,"Regrets? I've had a few. But then again, too few to mention.",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
 3784,Yes. I still want to talk about emails.,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
 3784,I told you he shouldn't have made fun of his hair!,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
-3784,"..and we are only a short cab ride away from some of the older, more traditional ruins.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,"..and we are only a short cab ride away from some of the older, more traditional ruins.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,"Miami would've been nice, but time travel seemed like fun too.",1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
-3784,You're the one who wanted to stay in the city.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,You're the one who wanted to stay in the city.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,"So, anything good on TV tonight...?",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,The bus is late again.,1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
 3784,My bad. We should have kept him on a leash.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
-3784,"Next year, no more fried turkey.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
-3784,"On the plus side, property values have never been lower.",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,"Next year, no more fried turkey.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
+3784,"On the plus side, property values have never been lower.",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,It's good to be great again.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,It looked so much more picturesque in the brochure!,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,You're always blaming everything on me!,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,"I heard that line before, Adam",1.1971830985915493,0.05889566640314111,71.0,60.0,8.0,3.0,553
-3784,"Now that I'm the last man on earth, dinner?",1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
-3784,But at least now we can afford it,1.1971830985915493,0.047554769059532785,71.0,57.0,14.0,0.0,553
+3784,"Now that I'm the last man on earth, dinner?",1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
+3784,But at least now we can afford it,1.1971830985915493,0.04755476905953279,71.0,57.0,14.0,0.0,553
 3784,"But Hillary mishandled those e-mails, so... agree to disagree?",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
-3784,Tell me again about your plan to shake up the system.,1.1971830985915493,0.051612697538755185,71.0,58.0,12.0,1.0,553
+3784,Tell me again about your plan to shake up the system.,1.1971830985915493,0.05161269753875519,71.0,58.0,12.0,1.0,553
 3784,"The furnace guy just called it ""a remote"" for the thermostat.",1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,I told you Trump would make America great again.,1.1971830985915493,0.055374046575526296,71.0,59.0,10.0,2.0,553
 3784,I know my place needs some sprucing up.,1.1971830985915493,0.0622182771216916,71.0,61.0,6.0,4.0,553
@@ -5293,17 +5293,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5290,"Well, you're the one who always wanted to see Chicago.",1.1384615384615384,0.04842183966159297,65.0,57.0,7.0,1.0,553
 5290,"That is the last time we eat your ""20 alarm "" chili",1.1384615384615384,0.04842183966159297,65.0,57.0,7.0,1.0,553
 5290,Aleppo isn't what it used to be.,1.1384615384615384,0.053154903696481744,65.0,58.0,5.0,2.0,553
-5295,This is all part of 'Making America Great Again.',1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,This is all part of 'Making America Great Again.',1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,'cause that's what lawyers do.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,I think this is what they call 'dystopian',1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,Look around you. It's not like you can be picky.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,Go figure. Designated Survivor? That's what they told me!,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Give him another chance.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,You must do something about your flatulence.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,You must do something about your flatulence.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,I told you this would happen.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,I warned you I'd use the nuclear option.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,Did you turn down the thermostat?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,"Yes, he had small hands, but all it took was one teeny finger to push the button.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"Yes, he had small hands, but all it took was one teeny finger to push the button.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,I'd call our budget cuts a ponderous success.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Road trip?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Too much chili powder and too many beans.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
@@ -5311,10 +5311,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5295,You were saying something about equitable distribution.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,No. I still refuse to apologize for my vote!,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Let's get married.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,I'm still glad that I voted for Trump.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,I'm still glad that I voted for Trump.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,I don't think they took his Red Line seriously.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,And you're still dressed like it's 1949.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,"Well, I still think you're being a bit melodramatic.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"Well, I still think you're being a bit melodramatic.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"Well, anyway.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,"I guess we arent in Kansas anymore, Dorothy!",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,And your garden could go here...!?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
@@ -5324,14 +5324,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5295,At least he was good for trade.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Your turn to do the dishes tonight,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,"Well, I guess it's up to us.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,I love the smell of napalm in the morning ...,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
-5295,Stop saying you told me so! Can we just not fight right now.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,I love the smell of napalm in the morning ...,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
+5295,Stop saying you told me so! Can we just not fight right now.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"Well, it made America great again, so I'm all for it.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,You've been wanting a new kitchen.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,Hot pockets!,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,Hot pockets!,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"So now, will you go out with me?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,"Is this what they call ""meeting cute""?",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
-5295,"Now look what you've done, Ollie.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"Is this what they call ""meeting cute""?",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
+5295,"Now look what you've done, Ollie.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,I told you no one was going to show up to another one of your parent's anniversary dinners.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,"We still have Carrier, Martha!",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,"Let's not argue, it's chilly enough with the nuclear winter.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
@@ -5342,15 +5342,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5295,do you suppose we will still have rent control,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,Two words: Donald Trump.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,You're making mountains out of molehills!,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,"Of course, maybe I DIDN'T turn the stove off before we left...",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"Of course, maybe I DIDN'T turn the stove off before we left...",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"Myron, women do not fart.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,"On the bright side, no one used a private email server.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"On the bright side, no one used a private email server.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"On the bright side, we should be able to get that land for our new house for pennies.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,You said a STEM chemistry kit was the the perfect gift for our kids. Now we're left with nothing but plant stems.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,I guess the five star general wasn't referring to the hotel.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,You got your scorched-earth divorce settlement. Happy now?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,We saved you a corner office.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
-5295,After you set the self-cleaning oven you left to avoid the fumes?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,We saved you a corner office.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
+5295,After you set the self-cleaning oven you left to avoid the fumes?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,What cruel irony--my glasses are fine.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,Now that I am the last man on Earth ... I think I will test your reluctance to date nonetheless ...,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Maybe we should get some counseling?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
@@ -5358,8 +5358,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5295,I heard the neighborhood was degentrifying.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,I told you that comedian was gonna bomb.,1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,553
 5295,What should we do about the lawn ?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,OK! When I said get rid of all the mice?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
-5295,It was your idea to move to Aleppo.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,OK! When I said get rid of all the mice?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
+5295,It was your idea to move to Aleppo.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"Yes dear, i do hear your opinion, but has life factually changed since November 8th?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Have you ever raised kids?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Do you recall who recommended our travel agent?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
@@ -5368,7 +5368,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5295,And that is why you do not feed your gremlin after midnight,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,I didn't think he meant that kind of grate,1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,553
 5295,Half of Nothing is better than Nothing.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,It's never to late,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,It's never to late,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,It was just one tweet.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,"I told you to wait for the next Real Estate Bubble, not Explosion!",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,I never should have voted for Trump.,1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,553
@@ -5379,31 +5379,31 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5295,"Him: ""So where do you want to meet for coffee next week?"" Her: ""Depends what's still around.""",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,I think you used too much drain cleaner dear!,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,"No Netflix, but we can still ""chill"".",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,"Well it worked....""burn it all down"" voter!",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"Well it worked....""burn it all down"" voter!",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,Trump l'oeil,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,I told you a french bulldog was a mistake,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,The most intense staring contest of all time.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,The most intense staring contest of all time.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,Some day this will be a fond memory.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Your black bean soup always gives me explosive gas.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,I guess this is what economy-class seating gets you.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,"They're implementing a new ""work from home"" policy.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,So what should we do next?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,So what should we do next?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"Vegetable gardening in, ballroom dancing and golf out -- agreed?",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,"They're your family, not mine.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,And to think the self-help seminar was in 30 minutes.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,You'd have your walking shoes with you if you hadn't insisted on checking our luggage.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,You'd have your walking shoes with you if you hadn't insisted on checking our luggage.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,I'm sorry Honey! I didn't know my words could unleash the U.S.'s latest weapon--the Twitter Bomb!,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,What the Hell do you have to loose?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,(sigh)...I suppose there's time now.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,At least we don't have to write the neighbors again about their tree blocking our view.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,"I told you your temper would blow up som,eday.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"I told you your temper would blow up som,eday.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,Okay! I finally see your point. Our marriage is on the rocks.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,This is not Trump's fault. It's the lingering effects of ObamaCare...,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,"Trump asked, ""If we have nuclear capability, why don't we use it?""",1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,553
 5295,"Just don't yell ""Blast it!"" next time you get angry at me.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,"Well, at least he doesn't have pneumonia !",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"Well, at least he doesn't have pneumonia !",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,Now we can get on with our lives.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,His second term will be even better!,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,His second term will be even better!,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,Probably two financial advisors was a bad idea.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,You think the shrink will show?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,I thought our first date went fairly well.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
@@ -5411,19 +5411,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5295,"Yeah, but she had that email server.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,I told you to wear sensible shoes.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,"Alright, alright! I'll admit my taco bowl tweet was a little on the harsh side, Gladys.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,"Now I know what the senator meant by the ""nuclear option.""",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"Now I know what the senator meant by the ""nuclear option.""",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,Is nuclear winter a bad season to procreate?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,I never thought I'd see the day when the best answer to one plus one is three.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,"Well, yes, I may not look too fit in these clothes, but I did survive, didn't I?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Remind me again how this is an 'opportunity'?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,"Don't worry, I have spent our left over dollars to buy insurance",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"Don't worry, I have spent our left over dollars to buy insurance",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"We are sitting on what is left of The Wall, señora.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,The emails trumped my good judgment.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,"No, I never said, 'primitive camping!'",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,So much for surgical precision.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,You're just saying that because you're bitter that Hillary lost.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,What happens in Vegas stays in Vegas.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,I guess this rules out dinner at Nobu.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,I guess this rules out dinner at Nobu.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,Wanna get married?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,We'd better get started.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,I call half the wreckage.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
@@ -5433,17 +5433,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5295,The stores go here - the condos go in the back of the lot.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,I feel great again - don't you?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,"Oh well, I thought your parents would be happy when we told them.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,"Please, Chris, explain to me just once more why you didn't ask Trump which bench he was putting you on!",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"Please, Chris, explain to me just once more why you didn't ask Trump which bench he was putting you on!",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"On second thought, time traveling to Dresden for our honeymoon was a bad idea.",1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,553
-5295,Is it my fault that the directions in the YouTube video were wrong?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
-5295,It all started on Twitter.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,Is it my fault that the directions in the YouTube video were wrong?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
+5295,It all started on Twitter.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,Did you remember to take out the garbage?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,In the Midwest we call that a fixer-upper.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,"At first I thought I was in my own nightmare. Then I thought, ""how bad can he be?"". Then, ""let's give him a chance."" Then, ""it's just four years"".",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,You blinked first!,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,You blinked first!,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"So, you want to start procreating the world?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,"Hera, Darling, I'm sorry about the affair.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,We're ruined!,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,We're ruined!,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,You're the one who cancelled our Tweeter account.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,what've we got for dinner,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,"You have to admit, her emails were pretty troubling.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
@@ -5453,8 +5453,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5295,It depends on your definition of 'unique destination experience'.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,"'I double dog dared him to put those two wires together.""",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,"All things aside, the future looks brighter.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,How about a nice merlot and a movie?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
-5295,"Honey, I think the sink is broken",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,How about a nice merlot and a movie?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
+5295,"Honey, I think the sink is broken",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,Welcome to Trumptopia.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,"Gosh, Honey. was it something I said?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,At least we still have eachother,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
@@ -5463,20 +5463,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5295,oh shit are we both cartoon people drawn by someone for the new yorker?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,At least Twitter is still free...,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Do they give refunds on turkey fryers?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,Call your mother.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,Call your mother.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"yes, dear.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,sooooo were all thats left.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,"Sorry, but in light of your email server issues, we have to let you go.",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,"Gee, I voted for Trump, too.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
-5295,I told you it wouldn't work,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"Gee, I voted for Trump, too.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
+5295,I told you it wouldn't work,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"So, how about now?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,"On second thought, maybe the A1 bus doesn't stop here.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"On second thought, maybe the A1 bus doesn't stop here.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"Not even then, eh?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Didn't you mention earlier that we'd be ordering out for dinner?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,I think we need a divorce.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,This might not be the best time but I couldn't help but notice you from tower one.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,This might not be the best time but I couldn't help but notice you from tower one.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,Talk about mutual assured destruction.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,This isn't so GREAT. I want my vote back.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,This isn't so GREAT. I want my vote back.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"See, we didn't need to drain the swamp.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Wanna see a movie?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,I guess greatness is in the eye of the beholder.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
@@ -5484,25 +5484,25 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5295,"So I'm not covered under the ""Act of Clod"" exemption?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,"Your'e on. I spy with my little eye, something... desolate",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,The tour guide says the food here is wonderful,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,That was really rocky,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
-5295,That didn't spark as much joy as I thought,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,That was really rocky,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
+5295,That didn't spark as much joy as I thought,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,Now will you sign the divorce papers?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,"Sure, we can make it great again!",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,"Start from scratch? That's what he meant by ""Make America Great Again""?",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,I promise. No more twitter wars.,1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,553
-5295,Love your furniture pieces.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,Love your furniture pieces.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,and your Plan B is?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Do you understand now why I said that your outbursts were acquiring an explosive nature?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,Do you get the sense our relationship is encountering a rough patch?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,Do you get the sense our relationship is encountering a rough patch?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,So I might have been a bit heavy handed with the lighter fluid on the charcoal.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,"No, I just took that to mean ""we're all going to 'dye' Easter eggs,"" or something.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"No, I just took that to mean ""we're all going to 'dye' Easter eggs,"" or something.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"January 21, 9.01 am: 'So I guess he did read your tweet.'",1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,"OK,""you heard a noise.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,Isn't the devastation beautiful this time of year?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,Isn't the devastation beautiful this time of year?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,I've never seen anything so beautiful- at least around here.,1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,553
-5295,Don't be such a snowflake.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
-5295,"Beans, beans......!",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
-5295,But he said he would make our country great again!,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,Don't be such a snowflake.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
+5295,"Beans, beans......!",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
+5295,But he said he would make our country great again!,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,I feel fine. You?,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,"Sweetheart, I swear it meant nothing. You're the one I love.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Do you want to build a snowman?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
@@ -5513,27 +5513,27 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5295,We can be the cheapest on the block...,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,"I've been coming here for years, it's such an oasis of peacefulness.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,"What the hell did you expect - when your divorce law firm's name is Scorched, Earth & Associates?!",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,"Gee, I voted for Trump, too.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"Gee, I voted for Trump, too.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,I wonder when our bus is due?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,This is not my fault.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
-5295,"Nobody listened to me when I said there is no ""Self"" in a ""Self Driving Car.""",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,This is not my fault.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
+5295,"Nobody listened to me when I said there is no ""Self"" in a ""Self Driving Car.""",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,lets try the next block!,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,I had feeling this might happen,1.1290322580645162,0.058556002057113726,62.0,57.0,2.0,3.0,553
 5295,I told you not to fiddle.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,So who knew ?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,So who knew ?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,He did say he was going to drain the swamp.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,"On most magazine subscriptions, we can get you 60 percent off! On People Magazine, 74 percent! On Vogue, 89 percent!",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"On most magazine subscriptions, we can get you 60 percent off! On People Magazine, 74 percent! On Vogue, 89 percent!",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,I thought YOU had the remote,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,I told you two years ago we should have gotten termite treatment.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,You still happy with that third party vote?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,You still happy with that third party vote?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,You can't blame this on your parents never giving you a pony.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,How can you still defend Trump?,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,How can you still defend Trump?,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"Yes, I did vote for Trump!",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Okay already. Now I believe you when you said you smelled a gas leak!,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Glad we could work this out,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,The passage of the Tycoon will be worse than this typhoon.,1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,The passage of the Tycoon will be worse than this typhoon.,1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,I told you that price was too good to be true.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
-5295,"You're right honey, I should have voted for Hillary..",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"You're right honey, I should have voted for Hillary..",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,"Try to think positive, you have a chance to start this job with a clean slate.",1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,We haven't received your usual generous donation.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,It wasn't the first explosive argument,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
@@ -5541,7 +5541,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5295,Don't tell me Atomic Theory is only a theory.,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,I'd prefer not to stand between your rock and a hard place.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,Your profile said you were the bomb but this just blows me away.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
-5295,"Look, Airbnb isn't for everyone. But 'quaint' does feel apt here.",1.1290322580645162,0.053851505523430813,62.0,56.0,4.0,2.0,553
+5295,"Look, Airbnb isn't for everyone. But 'quaint' does feel apt here.",1.1290322580645162,0.05385150552343081,62.0,56.0,4.0,2.0,553
 5295,Enough already!,1.1290322580645162,0.042922525410265484,62.0,54.0,8.0,0.0,553
 5295,How do you like our new tiny house?,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
 5295,I guess it's just the two of us now.,1.1290322580645162,0.04869459844138252,62.0,55.0,6.0,1.0,553
@@ -6072,7 +6072,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 6063,That was hot!,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,That's the last time I let you make the dinner.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,I'm sorry. What did you say?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
-6063,I would like to tell you something.,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,553
+6063,I would like to tell you something.,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,553
 6063,I never promised you a rose garden post honeymoon.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,"It's on our itinerary, all right: 'In the afternoon, casually wander the rubble-strewn streets of historic No Man's Land.'",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,There are more important things to worry about than where the D.A.R. can meet.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
@@ -6106,13 +6106,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 6063,Who agreed to this type of freedom?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,"I don't think his oath to ""...bigly, preserve, protect, and defend the Constitution of the United States"" went over well.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,This should make property settlement easier.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
-6063,Mother Nature did not strike our building with a meteor because I voted for Trump.,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,553
+6063,Mother Nature did not strike our building with a meteor because I voted for Trump.,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,553
 6063,Let's just check out the casino before we make any decisions about going somewhere else.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,that congressional hearing wasn't so bad now was it?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,Who invited him?,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
-6063,No wonder that travel agent is out of business,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,553
+6063,No wonder that travel agent is out of business,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,553
 6063,"Well, now you're just quibbling.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
-6063,"I thought ""Aleppo"" is Italian for the Alps...",1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,553
+6063,"I thought ""Aleppo"" is Italian for the Alps...",1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,553
 6063,Did we shake on it?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,Oh goody! Can we start re-creating the human race now?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,I told you not to hire 1-SMI-THE-REEN as your divorce attorney.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
@@ -6145,7 +6145,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 6063,Don't blame me; I voted for Harambe.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,If you had been with her this wouldn't have happened.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,It's not helpful if you don't save and build on the good memories.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
-6063,"We have the best seats to view the new nuclear war, but your nose is in my way.",1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,553
+6063,"We have the best seats to view the new nuclear war, but your nose is in my way.",1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,553
 6063,I thought you said you'd eat less beans.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,"Yeah, Twitter.",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,"I told you those ""explosive"" vacation specials were too good to be true.",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
@@ -6153,12 +6153,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 6063,"That was a pretty bad blow up, I'll sign the papers Monday",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,Canada! This is our chance.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,This Occupy isn't going very well,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
-6063,Did you say Poo-tee-weet or Putin's fleet?,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,553
+6063,Did you say Poo-tee-weet or Putin's fleet?,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,553
 6063,"Look, the meth was on simmer, I only went outside for a second.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,I need a beer,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,But wasn't that a party?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,"Next time I get to pick our virtual reality experience. (italicize the ""I"")",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
-6063,The Self-Driving Cab will be here in 94 Seconds,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,553
+6063,The Self-Driving Cab will be here in 94 Seconds,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,553
 6063,About the dinner party--let's wait.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,The landowner refused to sell to some golf course developer.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,I guess this what it was like at tara for Scarlet.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
@@ -6234,18 +6234,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 6063,I told you not to vote for a third-party candidate.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,C'est la vie,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,"All you do is nag, nag, nag.",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
-6063,When the silent treat goes nuclear....,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,553
+6063,When the silent treat goes nuclear....,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,553
 6063,I wouldn't go out with you if the world was ending.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,At least we don't need to build a wall anymore.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,The good part is that all the county land records were destroyed.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
-6063,what'd I say?,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,553
+6063,what'd I say?,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,553
 6063,We must have a doorman.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,Who would have thought setting the toaster on extra dark would result in such excessive damage.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,"We used to live in such a materialistic society, this could actually end up being a positive?",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,We were thinking of building the Private Ryan Museum here.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,Those whirl-wind romances always end up being train-wrecks.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
-6063,We've been Trumped!,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,553
-6063,You should have saved more money as a child.,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,553
+6063,We've been Trumped!,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,553
+6063,You should have saved more money as a child.,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,553
 6063,Don't worry. By tomorrow there will be a Presidential fly-over and everything will be great.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,But those emails...,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,It's your mother's fault.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
@@ -6270,7 +6270,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 6063,Please help. I don't like it when I go nuclear.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,Do you like the 'smell of napalm' now?,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,Are you finished with your tantrum yet? I'd like to discuss this like adults!,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
-6063,"Since we disguised ourselves as roaches to survive that blast, now what?",1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,553
+6063,"Since we disguised ourselves as roaches to survive that blast, now what?",1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,553
 6063,you call this a vacation!,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,Should have bought pedal cars.,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,"Fine, have it your way. Fire!",1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
@@ -6282,7 +6282,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 6063,Funny how life inmates our marriage.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,How many times have I told you that the chili and onion pie at the diner is not a good choiced?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,You're really that angry with me?,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
-6063,Don't tell me you voted for Trump.,1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,553
+6063,Don't tell me you voted for Trump.,1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,553
 6063,Now you have the open concept home you've always wanted.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,We'll always have Newburgh.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,"Well, it looks like I am on the last man on Earth.",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
@@ -6330,7 +6330,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 6063,Dating is hell.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,"Now will you answer my question, ""did you vote for him or not?""",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,You look nothing like Jake Gyllenhaal.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
-6063,"I know I promised you the Moon, but you know I wanted Mars.",1.087719298245614,0.051789419347799064,57.0,54.0,1.0,2.0,553
+6063,"I know I promised you the Moon, but you know I wanted Mars.",1.087719298245614,0.05178941934779906,57.0,54.0,1.0,2.0,553
 6063,He didn't say making America great would be without a few stumbling blocks.,1.087719298245614,0.037802263481198896,57.0,52.0,5.0,0.0,553
 6063,donald will make us great again,1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553
 6063,"This? Replacement? Frankly, I was hoping for single payer.",1.087719298245614,0.04533847748151766,57.0,53.0,3.0,1.0,553

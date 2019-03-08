@@ -6,7 +6,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 5,How was your flight in on United?,1.7630757220921156,0.015921214158597874,2562.0,1207.0,755.0,600.0,568
 6,Bob tells me you're reconsidering our offer.,1.7382602001539649,0.020736221239251885,1299.0,577.0,485.0,237.0,568
 7,So when are you two taking the plunge?,1.736332849540397,0.016938933712524952,2067.0,957.0,698.0,412.0,568
-8,"Well, we did tell you it was your going away party!",1.732824427480916,0.020288532455649527,1441.0,671.0,484.0,286.0,568
+8,"Well, we did tell you it was your going away party!",1.7328244274809161,0.020288532455649527,1441.0,671.0,484.0,286.0,568
 9,I'm taking the bridge home--I'd be happy to drop you off on my way.,1.7298636926889714,0.027700905862559737,807.0,388.0,249.0,170.0,568
 10,"when you said you were tied up, I assumed you wouldn't be coming.",1.7113752122241086,0.01822779578647936,1767.0,847.0,583.0,337.0,568
 11,Your first time in New Jersey?,1.69921875,0.01950544576618353,1536.0,749.0,500.0,287.0,568
@@ -20,7 +20,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 19,"Yes, we're drunk and will probably regret this in the morning.",1.6546938775510205,0.02290924719217444,1225.0,678.0,292.0,255.0,568
 20,"So, how do you two know the Corleones?",1.6498455200823894,0.024053697277806242,971.0,502.0,307.0,162.0,568
 21,The condo board was unanimous,1.6462063086104006,0.021847272849756096,1173.0,609.0,370.0,194.0,568
-22,"I was on that diet once, too.",1.645408163265306,0.02331505607303028,1176.0,658.0,277.0,241.0,568
+22,"I was on that diet once, too.",1.6454081632653061,0.02331505607303028,1176.0,658.0,277.0,241.0,568
 23,"Unfortunately, ' Let me go' does not qualify as a final request.",1.6421612046058458,0.02380107206871668,1129.0,635.0,263.0,231.0,568
 24,"Here, this should help loosen you up a bit.",1.64079822616408,0.023098740500089164,902.0,437.0,352.0,113.0,568
 25,Typical. His bucket is 78% larger than yours.,1.6355455568053994,0.02561371774293746,889.0,480.0,253.0,156.0,568
@@ -37,7 +37,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 36,"No, I wouldn't want to be in your shoes.",1.5958132045088569,0.028262826697733917,621.0,330.0,212.0,79.0,568
 37,I'm getting notes of despair; a hint of foreboding.,1.5952380952380951,0.031833425874104,546.0,306.0,155.0,85.0,568
 38,We have ways of making you small-talk.,1.5948275862068966,0.0359615330117133,464.0,271.0,110.0,83.0,568
-39,"Well, this sounds like a very specific dating site.",1.585858585858586,0.02995754705060923,594.0,332.0,176.0,86.0,568
+39,"Well, this sounds like a very specific dating site.",1.5858585858585859,0.02995754705060923,594.0,332.0,176.0,86.0,568
 40,"I'd love to help you, but, ironically, my hands are tied.",1.5808695652173914,0.03064669660465932,575.0,326.0,164.0,85.0,568
 41,Looks like you've reached the last thing on your bucket list.,1.5797979797979798,0.03363244401810436,495.0,286.0,131.0,78.0,568
 42,How nice of you to stay for my poetry reading.,1.5783365570599612,0.0325172642340892,517.0,296.0,143.0,78.0,568
@@ -45,7 +45,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 44,So what's your safe word?,1.575984990619137,0.031208355167148264,533.0,299.0,161.0,73.0,568
 45,But enough about me.,1.5739348370927315,0.03735308178913262,399.0,232.0,105.0,62.0,568
 46,My husband and I never do anything together any more.,1.5731462925851702,0.03146830539951126,499.0,275.0,162.0,62.0,568
-47,Mine are Gucci. I take it yours are Gambino?,1.571134020618557,0.033331649772868316,485.0,279.0,135.0,71.0,568
+47,Mine are Gucci. I take it yours are Gambino?,1.5711340206185567,0.033331649772868316,485.0,279.0,135.0,71.0,568
 48,Salvatore tells me you sing.,1.5697445972495088,0.03353413342637699,509.0,302.0,124.0,83.0,568
 49,I gave specific instructions to pot the plants - not plant the Potts.,1.566600397614314,0.032912267860863265,503.0,293.0,135.0,75.0,568
 50,But enough about me! How did you two meet?,1.562240663900415,0.032879323891173116,482.0,277.0,139.0,66.0,568
@@ -63,7 +63,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 62,It isn't often I have a captive audience.,1.5476190476190477,0.033034885582665784,420.0,234.0,142.0,44.0,568
 63,I'm glad to see that you both decided to stay.,1.5432098765432098,0.03447741662927721,405.0,232.0,126.0,47.0,568
 64,You wouldn't believe the day I've had.,1.5425,0.03638397806245385,400.0,239.0,105.0,56.0,568
-65,"...and then I adopted my fourth cat, and his story is even better than the first three.",1.542079207920792,0.036109052604336216,404.0,241.0,107.0,56.0,568
+65,"...and then I adopted my fourth cat, and his story is even better than the first three.",1.5420792079207921,0.036109052604336216,404.0,241.0,107.0,56.0,568
 66,"I know, believe me, I've had my own run-ins with the homeowners' association!",1.5408163265306123,0.034774532211875486,392.0,224.0,124.0,44.0,568
 67,"Sounds like a rough day, but I'm sensing the worst part isn't over.",1.5386597938144333,0.03388617933429525,388.0,217.0,133.0,38.0,568
 67,"Once more after me, You're doing the best job ever, Mr. President.",1.5386597938144333,0.0374345200351674,388.0,236.0,95.0,57.0,568
@@ -74,8 +74,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 72,I see you flew in on United.,1.5311653116531163,0.03912743487981876,369.0,231.0,80.0,58.0,568
 74,"Well, it's performance, but is it art?",1.5292479108635098,0.03757346506567557,359.0,215.0,98.0,46.0,568
 75,So you're the parents who donated the Make America Great Again hats to the school auction.,1.5280898876404494,0.03925229937469031,356.0,221.0,82.0,53.0,568
-76,I see you have read and agreed to our new Terms of Service.,1.526912181303116,0.03676957694709456,353.0,207.0,106.0,40.0,568
-77,We're putting you in the high-risk pool.,1.525568181818182,0.03814464540102129,352.0,213.0,93.0,46.0,568
+76,I see you have read and agreed to our new Terms of Service.,1.5269121813031161,0.03676957694709456,353.0,207.0,106.0,40.0,568
+77,We're putting you in the high-risk pool.,1.5255681818181819,0.03814464540102129,352.0,213.0,93.0,46.0,568
 78,"""Which one of you ordered the cabernet to die for""?",1.5248447204968945,0.03913467300859391,322.0,192.0,91.0,39.0,568
 79,"We had such high hopes for you as new club members, but then you asked for Merlot.",1.5236686390532543,0.03934286419818585,338.0,207.0,85.0,46.0,568
 80,The Catalano Family Vineyards would like you reconsider portions of your Chianti review.,1.5209580838323349,0.040822989323347984,334.0,211.0,72.0,51.0,568
@@ -99,7 +99,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 97,"So, how long have you two Democrats been in Washington?",1.4945054945054943,0.04220059088142245,273.0,170.0,71.0,32.0,568
 99,"This is just so much more effective than asking for a ""Suggested Donation.""",1.4943820224719102,0.04088885506534665,267.0,161.0,80.0,26.0,568
 100,Maybe this will help you loosen up a little.,1.494339622641509,0.03933435377620978,265.0,155.0,89.0,21.0,568
-101,Would you mind taking a few minutes to complete an exit survey?,1.4928909952606635,0.046725147085748785,211.0,129.0,60.0,22.0,568
+101,Would you mind taking a few minutes to complete an exit survey?,1.4928909952606635,0.04672514708574879,211.0,129.0,60.0,22.0,568
 102,"Of course, many customers with free accounts eventually decide to upgrade",1.492537313432836,0.04212629954759264,268.0,166.0,72.0,30.0,568
 102,"I hate these going-away parties, don't you?",1.492537313432836,0.04145750643324031,268.0,164.0,76.0,28.0,568
 104,"We probably won't see each other again, but it was lovely to meet you.",1.490566037735849,0.03822580721147475,265.0,153.0,94.0,18.0,568
@@ -117,7 +117,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 116,You two are fantastic listeners.,1.4767932489451476,0.0441699295115236,237.0,149.0,63.0,25.0,568
 116,Last call!,1.4767932489451476,0.04497219234842968,237.0,151.0,59.0,27.0,568
 116,They're all out of straws.,1.4767932489451476,0.04576039222073332,237.0,153.0,55.0,29.0,568
-119,One more round before we drop you off?,1.4763948497854078,0.04346441264275493,233.0,144.0,67.0,22.0,568
+119,One more round before we drop you off?,1.4763948497854078,0.043464412642754933,233.0,144.0,67.0,22.0,568
 120,"You know, when you tell a host that you'll be tied up, you're not supposed to show up.",1.4761904761904765,0.045006440265046715,231.0,146.0,60.0,25.0,568
 120,You two together?,1.4761904761904765,0.045006440265046715,231.0,146.0,60.0,25.0,568
 122,Finally! A captive audience!,1.4745762711864407,0.04629190095740556,236.0,154.0,52.0,30.0,568
@@ -135,7 +135,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 134,Welcome to the Houdini Club initiation.,1.4690265486725664,0.04484940075515522,226.0,143.0,60.0,23.0,568
 135,Would you care for a canapé while the cement dries?,1.46875,0.041920305575445856,224.0,135.0,73.0,16.0,568
 136,"I take it, you're the Magicians?",1.4663677130044843,0.0452792584307849,223.0,142.0,58.0,23.0,568
-137,Thanks for agreeing to see my baby’s photos.,1.4657534246575343,0.04448871488200439,219.0,137.0,62.0,20.0,568
+137,Thanks for agreeing to see my baby’s photos.,1.4657534246575343,0.044488714882004385,219.0,137.0,62.0,20.0,568
 138,I hear that you two are finally taking the plunge.,1.4651162790697674,0.04788242956823235,215.0,141.0,48.0,26.0,568
 138,Can I get your apartment?,1.4651162790697674,0.043606281212740336,215.0,132.0,66.0,17.0,568
 138,Let this be a lesson to you and others like you that listen to NPR but never donate.,1.4651162790697674,0.048781806891634964,215.0,143.0,44.0,28.0,568
@@ -155,18 +155,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 154,You're such good listeners.,1.4489795918367347,0.04589074115170548,196.0,124.0,56.0,16.0,568
 154,"Now be honest, how surprised were you guys?",1.4489795918367347,0.04972183111826435,196.0,131.0,42.0,23.0,568
 154,Thanks for coming. Can I offer a drink to loosen you up?,1.4489795918367347,0.04294551204336559,196.0,119.0,66.0,11.0,568
-157,"He used to just say ""You're Fired!"" but now he's getting serious",1.446153846153846,0.048825652750351375,195.0,129.0,45.0,21.0,568
-157,Just tell us why you voted for Trump.,1.446153846153846,0.049896698835777804,195.0,131.0,41.0,23.0,568
+157,"He used to just say ""You're Fired!"" but now he's getting serious",1.4461538461538461,0.048825652750351375,195.0,129.0,45.0,21.0,568
+157,Just tell us why you voted for Trump.,1.4461538461538461,0.049896698835777804,195.0,131.0,41.0,23.0,568
 159,A toast to cement your relationship,1.4450261780104712,0.04611461360584361,191.0,121.0,55.0,15.0,568
-159,I understand you'll be joining us for the midnight cruise.,1.4450261780104712,0.045513140816958,191.0,120.0,57.0,14.0,568
+159,I understand you'll be joining us for the midnight cruise.,1.4450261780104712,0.045513140816957995,191.0,120.0,57.0,14.0,568
 159,You have to get here by 6:00 to avoid the mob.,1.4450261780104712,0.050123236078293255,191.0,128.0,41.0,22.0,568
 162,eHarmony huh?,1.4444444444444444,0.050514260312835485,189.0,127.0,40.0,22.0,568
 162,Is this performance art or did you touch a painting?,1.4444444444444444,0.04881422563109422,189.0,124.0,46.0,19.0,568
 162,"Well, I told you not to say who you voted for.",1.4444444444444444,0.04705280813058712,189.0,121.0,52.0,16.0,568
 165,This should loosen you up.,1.4414893617021276,0.046603973419173016,188.0,120.0,53.0,15.0,568
 165,I haven't even begun my bucket list yet!,1.4414893617021276,0.04956184828706313,188.0,125.0,43.0,20.0,568
-167,"... oh, let me know if you've heard this one before ...",1.4402173913043481,0.050344026514695835,184.0,123.0,41.0,20.0,568
-167,"Since you are my husband's fourth and final mistress, I'd like to propose a toast.",1.4402173913043481,0.04854205817623178,184.0,120.0,47.0,17.0,568
+167,"... oh, let me know if you've heard this one before ...",1.440217391304348,0.050344026514695835,184.0,123.0,41.0,20.0,568
+167,"Since you are my husband's fourth and final mistress, I'd like to propose a toast.",1.440217391304348,0.04854205817623178,184.0,120.0,47.0,17.0,568
 169,This reminds me of the last time I saw Jimmy Hoffa,1.4385026737967914,0.049737040900678056,187.0,125.0,42.0,20.0,568
 170,So how do you know Vito?,1.4371584699453552,0.04617973991049832,183.0,116.0,54.0,13.0,568
 170,"Suddenly, Bob Mankoff looks like a genius!",1.4371584699453552,0.05452758699484877,183.0,130.0,26.0,27.0,568
@@ -187,14 +187,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 186,"So, can I count on your support?",1.4277456647398843,0.049985486806580035,173.0,115.0,42.0,16.0,568
 186,Let me guess...media?,1.4277456647398843,0.05196334185430969,173.0,118.0,36.0,19.0,568
 186,Did you send your kid to our school with a peanut butter sandwich?,1.4277456647398843,0.0526061045107271,173.0,119.0,34.0,20.0,568
-189,This is how we deal with gate crashers at Mar-a Lago.,1.4260355029585798,0.05285770003956079,169.0,116.0,34.0,19.0,568
-189,This is the 'Wine Appreciation' class. 'Bondage for Beginners' is next door.,1.4260355029585798,0.05285770003956079,169.0,116.0,34.0,19.0,568
-191,I had to be dragged here too.,1.4235294117647062,0.049186165580818786,170.0,112.0,44.0,14.0,568
+189,This is how we deal with gate crashers at Mar-a Lago.,1.4260355029585798,0.052857700039560786,169.0,116.0,34.0,19.0,568
+189,This is the 'Wine Appreciation' class. 'Bondage for Beginners' is next door.,1.4260355029585798,0.052857700039560786,169.0,116.0,34.0,19.0,568
+191,I had to be dragged here too.,1.4235294117647062,0.04918616558081879,170.0,112.0,44.0,14.0,568
 191,Can I get you a straw?,1.4235294117647062,0.05260558055867374,170.0,117.0,34.0,19.0,568
 193,But don't let me keep you.,1.4226190476190477,0.048130892582135335,168.0,109.0,47.0,12.0,568
 193,I bet you two won't make that mistake again.,1.4226190476190477,0.04662628895691385,168.0,107.0,51.0,10.0,568
 195,So you two finally decided to tie the knot.,1.4216867469879515,0.04926696234135045,166.0,109.0,44.0,13.0,568
-196,"Yours, I am afraid, is a pre-existing condition.",1.4207317073170733,0.05260301671735232,164.0,112.0,35.0,17.0,568
+196,"Yours, I am afraid, is a pre-existing condition.",1.420731707317073,0.05260301671735232,164.0,112.0,35.0,17.0,568
 197,I'm enjoying being single. I don't want to be tied down at this point.,1.4161490683229814,0.05104422498769798,161.0,108.0,39.0,14.0,568
 197,So you're not going to the after-party?,1.4161490683229814,0.05104422498769798,161.0,108.0,39.0,14.0,568
 197,"I know they say red wine doesn't go with fish, but would you like a sip?",1.4161490683229814,0.052543243216424326,161.0,110.0,35.0,16.0,568
@@ -204,7 +204,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 201,"At this point, does it really matter, red or white?",1.414012738853503,0.05034957495802192,157.0,104.0,41.0,12.0,568
 201,"No, I can't say I have ever slept with a fish.",1.414012738853503,0.04870072960230939,157.0,102.0,45.0,10.0,568
 201,Of course you'll stay for dinner?,1.414012738853503,0.0542528919514343,157.0,109.0,31.0,17.0,568
-201,I see I have a captive audience,1.414012738853503,0.05194610989390527,157.0,106.0,37.0,14.0,568
+201,I see I have a captive audience,1.414012738853503,0.051946109893905267,157.0,106.0,37.0,14.0,568
 201,So where do you two see yourselves in the next five minutes?,1.414012738853503,0.046994068020773,157.0,100.0,49.0,8.0,568
 208,"Darlings, I absolutely didn't expect you. The Gambinos said you wouldn't be coming.",1.4129032258064516,0.049112011517113655,155.0,101.0,44.0,10.0,568
 209,Our host thought you might be interested in hearing why I voted for Donald Trump.,1.4117647058823528,0.0544931707255089,153.0,106.0,31.0,16.0,568
@@ -245,10 +245,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 244,"So, how do you two know David?",1.3779527559055118,0.055818923881158417,127.0,89.0,28.0,10.0,568
 244,I'm so glad you decided to stay.,1.3779527559055118,0.05468791353030098,127.0,88.0,30.0,9.0,568
 244,"Oh yes, we are VERY serious about RSVPs.",1.3779527559055118,0.05801483445771712,127.0,91.0,24.0,12.0,568
-244,"You must be the couple that offended ""you know who"" by talking during his toast at tonight's State Dinner.",1.3779527559055118,0.05353301326606599,127.0,87.0,32.0,8.0,568
+244,"You must be the couple that offended ""you know who"" by talking during his toast at tonight's State Dinner.",1.3779527559055118,0.053533013266065986,127.0,87.0,32.0,8.0,568
 244,"So, when did you tie the knot?",1.3779527559055118,0.05468791353030098,127.0,88.0,30.0,9.0,568
 244,"Ah, you must be the holdovers from the last Administration.",1.3779527559055118,0.05801483445771712,127.0,91.0,24.0,12.0,568
-244,But is it art?,1.3779527559055118,0.05353301326606599,127.0,87.0,32.0,8.0,568
+244,But is it art?,1.3779527559055118,0.053533013266065986,127.0,87.0,32.0,8.0,568
 244,Going so soon?,1.3779527559055118,0.05468791353030098,127.0,88.0,30.0,9.0,568
 244,You're merely an outward expression of what we all feel.,1.3779527559055118,0.05692746823988784,127.0,90.0,26.0,11.0,568
 244,Would you care for some Chardonnay while the concrete sets up?,1.3779527559055118,0.05114503646923165,127.0,85.0,36.0,6.0,568
@@ -283,7 +283,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 268,"I was told if this won't loosen you up, nothing will.",1.371900826446281,0.051335110615934494,121.0,81.0,35.0,5.0,568
 268,Don't move. I'll be right back!,1.371900826446281,0.05521337448885096,121.0,84.0,29.0,8.0,568
 268,Would you like this to go?,1.371900826446281,0.0576541309544252,121.0,86.0,25.0,10.0,568
-285,Keep stomping. We need about twenty more glasses.,1.3693693693693694,0.05568121492022501,111.0,76.0,29.0,6.0,568
+285,Keep stomping. We need about twenty more glasses.,1.3693693693693694,0.055681214920225014,111.0,76.0,29.0,6.0,568
 286,Let me guess: You both spoke truth to power.,1.3688524590163935,0.05843186265310087,122.0,88.0,23.0,11.0,568
 287,"Of course, all donations are voluntary.",1.3644067796610169,0.05855131462769261,118.0,85.0,23.0,10.0,568
 287,"Sorry, your children will not pay the ransom.",1.3644067796610169,0.060975286370130936,118.0,87.0,19.0,12.0,568
@@ -330,7 +330,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 316,"Yes, I would like to hear what's next on your bucket list.",1.3545454545454545,0.05568043520945997,110.0,77.0,27.0,6.0,568
 316,Looks like you had the same bucket list.,1.3545454545454545,0.05859967754092615,110.0,79.0,23.0,8.0,568
 316,"Well, my life plan is not as concrete as yours.",1.3545454545454545,0.0571586960707441,110.0,78.0,25.0,7.0,568
-332,Now don't feel like you have to stay.,1.351851851851852,0.056300531804014224,108.0,76.0,26.0,6.0,568
+332,Now don't feel like you have to stay.,1.3518518518518519,0.056300531804014224,108.0,76.0,26.0,6.0,568
 333,"I would have chosen Canada, but I do respect your choice.",1.3486238532110089,0.06435353370408121,109.0,83.0,14.0,12.0,568
 333,Finally! A captive audience!,1.3486238532110089,0.057375116328115365,109.0,78.0,24.0,7.0,568
 333,I almost wore that same dress tonight.,1.3486238532110089,0.06165701881851975,109.0,81.0,18.0,10.0,568
@@ -392,7 +392,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 384,I honestly didn't know there was a thirteenth step.,1.3333333333333333,0.06261405880451333,87.0,63.0,19.0,5.0,568
 384,Do your best to mingle.,1.3333333333333333,0.05176736252424848,99.0,68.0,29.0,2.0,568
 384,Let me tell you why Hillary should have won...,1.3333333333333333,0.059198243857910574,99.0,72.0,21.0,6.0,568
-384,So how do you know Fat Tony?,1.3333333333333333,0.05560706744010879,99.0,70.0,25.0,4.0,568
+384,So how do you know Fat Tony?,1.3333333333333333,0.055607067440108786,99.0,70.0,25.0,4.0,568
 384,I see you lost the caption contest.,1.3333333333333333,0.06091449038731728,99.0,73.0,19.0,7.0,568
 384,Do you have a designated diver?,1.3333333333333333,0.06091449038731728,99.0,73.0,19.0,7.0,568
 397,"...and the water there is so clear, you can see all the way to the bottom. You'll absolutely love it!",1.3298969072164948,0.06169437733807126,97.0,72.0,18.0,7.0,568
@@ -400,29 +400,29 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 397,So you guys must be the designated drivers...,1.3298969072164948,0.05810888856730535,97.0,70.0,22.0,5.0,568
 397,"No, this is the 'Drinking like Fishes' seminar. 'Sleeping with the Fishes' is down the hall.",1.3298969072164948,0.063411141193285,97.0,73.0,16.0,8.0,568
 401,"Well yes, the invitation did say, 'Come as you are.' I am intrigued, however.",1.3294117647058823,0.0677535393849843,85.0,64.0,14.0,7.0,568
-402,"So, how do you know Mr. and Mrs. Corleone?",1.326315789473684,0.06250125241864157,95.0,71.0,17.0,7.0,568
-402,Welcome to the witness protection program.,1.326315789473684,0.05687278836753393,95.0,68.0,23.0,4.0,568
-402,I'm guessing you're designated?,1.326315789473684,0.06426796028840677,95.0,72.0,15.0,8.0,568
-402,I guess the Family thinks you two shouldn't get married.,1.326315789473684,0.06426796028840677,95.0,72.0,15.0,8.0,568
-402,You appear to have a pre-existing condition.,1.326315789473684,0.05687278836753393,95.0,68.0,23.0,4.0,568
-402,"Still won't talk, eh? Let's see if you can withstand the tedious banter of my party guests.",1.326315789473684,0.06426796028840677,95.0,72.0,15.0,8.0,568
-402,You guys really should walk around and mingle instead of planting yourselves right there.,1.326315789473684,0.06250125241864157,95.0,71.0,17.0,7.0,568
-402,Consider what would happen if we ALL neglected our condo fees!,1.326315789473684,0.05687278836753393,95.0,68.0,23.0,4.0,568
-402,I've been noticing that other people seem to be avoiding you.,1.326315789473684,0.06068313100166525,95.0,70.0,19.0,6.0,568
-402,"When Vinny invited me, he never mentioned it was a going away party.",1.326315789473684,0.06068313100166525,95.0,70.0,19.0,6.0,568
-402,"How nice,you're both recovering alcoholics.",1.326315789473684,0.06598738428946638,95.0,73.0,13.0,9.0,568
-402,On behalf of that Mar-a-Lago Initiation Committee - Congratulations for making it this far.,1.326315789473684,0.06250125241864157,95.0,71.0,17.0,7.0,568
-402,"""I agree! These cocktail parties are pure torture!",1.326315789473684,0.06068313100166525,95.0,70.0,19.0,6.0,568
-402,Where in Sheepshead Bay--as if I really have to ask.,1.326315789473684,0.06250125241864157,95.0,71.0,17.0,7.0,568
-402,"So, you both worked on the Hillary campaign?",1.326315789473684,0.06426796028840677,95.0,72.0,15.0,8.0,568
-402,"Now, isn't this better than sitting on a Grand Jury?",1.326315789473684,0.06250125241864157,95.0,71.0,17.0,7.0,568
-402,"It may seem harsh, but we can't have people putting ice cubes in red wine.",1.326315789473684,0.06068313100166525,95.0,70.0,19.0,6.0,568
-402,Would a straw help?,1.326315789473684,0.058808827759374564,95.0,69.0,21.0,5.0,568
-402,I love a captive audience.,1.326315789473684,0.058808827759374564,95.0,69.0,21.0,5.0,568
-402,Will you be around next week?,1.326315789473684,0.058808827759374564,95.0,69.0,21.0,5.0,568
-402,You really need to loosen up a bit.,1.326315789473684,0.05687278836753393,95.0,68.0,23.0,4.0,568
-402,I like when I have a captive audience.,1.326315789473684,0.06598738428946638,95.0,73.0,13.0,9.0,568
-402,"Listen, no one is forcing you to be here.",1.326315789473684,0.06068313100166525,95.0,70.0,19.0,6.0,568
+402,"So, how do you know Mr. and Mrs. Corleone?",1.3263157894736841,0.06250125241864157,95.0,71.0,17.0,7.0,568
+402,Welcome to the witness protection program.,1.3263157894736841,0.05687278836753393,95.0,68.0,23.0,4.0,568
+402,I'm guessing you're designated?,1.3263157894736841,0.06426796028840677,95.0,72.0,15.0,8.0,568
+402,I guess the Family thinks you two shouldn't get married.,1.3263157894736841,0.06426796028840677,95.0,72.0,15.0,8.0,568
+402,You appear to have a pre-existing condition.,1.3263157894736841,0.05687278836753393,95.0,68.0,23.0,4.0,568
+402,"Still won't talk, eh? Let's see if you can withstand the tedious banter of my party guests.",1.3263157894736841,0.06426796028840677,95.0,72.0,15.0,8.0,568
+402,You guys really should walk around and mingle instead of planting yourselves right there.,1.3263157894736841,0.06250125241864157,95.0,71.0,17.0,7.0,568
+402,Consider what would happen if we ALL neglected our condo fees!,1.3263157894736841,0.05687278836753393,95.0,68.0,23.0,4.0,568
+402,I've been noticing that other people seem to be avoiding you.,1.3263157894736841,0.06068313100166525,95.0,70.0,19.0,6.0,568
+402,"When Vinny invited me, he never mentioned it was a going away party.",1.3263157894736841,0.06068313100166525,95.0,70.0,19.0,6.0,568
+402,"How nice,you're both recovering alcoholics.",1.3263157894736841,0.06598738428946638,95.0,73.0,13.0,9.0,568
+402,On behalf of that Mar-a-Lago Initiation Committee - Congratulations for making it this far.,1.3263157894736841,0.06250125241864157,95.0,71.0,17.0,7.0,568
+402,"""I agree! These cocktail parties are pure torture!",1.3263157894736841,0.06068313100166525,95.0,70.0,19.0,6.0,568
+402,Where in Sheepshead Bay--as if I really have to ask.,1.3263157894736841,0.06250125241864157,95.0,71.0,17.0,7.0,568
+402,"So, you both worked on the Hillary campaign?",1.3263157894736841,0.06426796028840677,95.0,72.0,15.0,8.0,568
+402,"Now, isn't this better than sitting on a Grand Jury?",1.3263157894736841,0.06250125241864157,95.0,71.0,17.0,7.0,568
+402,"It may seem harsh, but we can't have people putting ice cubes in red wine.",1.3263157894736841,0.06068313100166525,95.0,70.0,19.0,6.0,568
+402,Would a straw help?,1.3263157894736841,0.058808827759374564,95.0,69.0,21.0,5.0,568
+402,I love a captive audience.,1.3263157894736841,0.058808827759374564,95.0,69.0,21.0,5.0,568
+402,Will you be around next week?,1.3263157894736841,0.058808827759374564,95.0,69.0,21.0,5.0,568
+402,You really need to loosen up a bit.,1.3263157894736841,0.05687278836753393,95.0,68.0,23.0,4.0,568
+402,I like when I have a captive audience.,1.3263157894736841,0.06598738428946638,95.0,73.0,13.0,9.0,568
+402,"Listen, no one is forcing you to be here.",1.3263157894736841,0.06068313100166525,95.0,70.0,19.0,6.0,568
 425,Well it's very brave of you to show up tonight....,1.3225806451612905,0.05753485502237075,93.0,67.0,22.0,4.0,568
 425,Can I drop you off somewhere after the party?,1.3225806451612905,0.053317458313877325,93.0,65.0,26.0,2.0,568
 425,"""Enjoying the 'going-away-party'?",1.3225806451612905,0.061463547927518764,93.0,69.0,18.0,6.0,568
@@ -442,14 +442,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 440,Bottoms up,1.3186813186813189,0.0582175635694764,91.0,66.0,21.0,4.0,568
 440,I knew you were bound to show up.,1.3186813186813189,0.0582175635694764,91.0,66.0,21.0,4.0,568
 440,"Oh my. Did I misuse ""literally"" again?",1.3186813186813189,0.06027839540138963,91.0,67.0,19.0,5.0,568
-440,I'm impressed. The chairman doesn't usually go in for such elaborate send offs.,1.3186813186813189,0.056081052627119814,91.0,65.0,23.0,3.0,568
+440,I'm impressed. The chairman doesn't usually go in for such elaborate send offs.,1.3186813186813189,0.05608105262711981,91.0,65.0,23.0,3.0,568
 440,I think you two are somewhat confused about the ice water challenge.,1.3186813186813189,0.06420191150243705,91.0,69.0,15.0,7.0,568
 440,The East River IS lovely this time of year.,1.3186813186813189,0.06027839540138963,91.0,67.0,19.0,5.0,568
-440,So what's your safe word?,1.3186813186813189,0.056081052627119814,91.0,65.0,23.0,3.0,568
+440,So what's your safe word?,1.3186813186813189,0.05608105262711981,91.0,65.0,23.0,3.0,568
 440,Lately this place is a mob scene.,1.3186813186813189,0.06607636252675386,91.0,70.0,13.0,8.0,568
 440,I hope I'm not boring you?,1.3186813186813189,0.06420191150243705,91.0,69.0,15.0,7.0,568
 440,Now THIS is my kind of parent-teacher conference.,1.3186813186813189,0.06420191150243705,91.0,69.0,15.0,7.0,568
-440,Have a drink before you head toward the pier.,1.3186813186813189,0.056081052627119814,91.0,65.0,23.0,3.0,568
+440,Have a drink before you head toward the pier.,1.3186813186813189,0.05608105262711981,91.0,65.0,23.0,3.0,568
 440,"Sorry, the cruise is overbooked.",1.3186813186813189,0.06420191150243705,91.0,69.0,15.0,7.0,568
 440,"Well, they specifically said ""no social media"" during the ceremony.",1.3186813186813189,0.06027839540138963,91.0,67.0,19.0,5.0,568
 440,"Chapter One ""I am born""",1.3186813186813189,0.06420191150243705,91.0,69.0,15.0,7.0,568
@@ -4309,13 +4309,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,Divorce? Death? Taxes? Don't get me started.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,So this is what happens if you touch the paintings?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Since you refuse to talk I have no choice. You’ll have to drink the Merlot.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,"The new ""This is Pot...this is people on Pot"" campaign.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,"The new ""This is Pot...this is people on Pot"" campaign.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,"Seriously, MyFitnessPal is much easier.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Did you lose a bet-or betray the mob?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,So what are your olans?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"""Please, make yourselves comfortable""!",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,I thought this RowSay might help.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,You must be friends of Bill.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,You must be friends of Bill.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,What kind of wine would you like to be served with?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"We don't take kindly to discussing ""Sea Level Rise"" at the yacht club happy hour.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Your initiation pales in comparison to mine.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4359,7 +4359,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,They assured me I'd have a captive audience but I wasn't expecting this!,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,This chianti is captivating and goes well with fava beans.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Welcome to the White House Intern Program Pre-Enrollment Dinner.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,Is this a joke?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,Is this a joke?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,At last Ted felt he earned the recognition from the other members of parliament.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,You should have known not to discuss politics or religion.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,"Glad you could make it, so soon after your plane landed.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4382,7 +4382,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,I've never heard of the hostage in a bucket diet,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,"Well, fancy seeing you here, Roger. I thought you said your hands were tied tonight?",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,There's a lovely couple of swamp-drainers I'd like you to meet!,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,So how did you two meet?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,So how did you two meet?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,"I told you not to complain about the wine. I can't help it, she really Pinot Grigio.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,I'd suggest skipping the wine and going for a very dry Martini.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,I'm so happy you weren't too tied up to attend.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4428,7 +4428,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,I'd offer a drink but it looks like you're all set!,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"The invite said black tie, not black site.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"Okay, this will cool your feet while the cement cures.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,"My, how you have both grown since I last saw you",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,"My, how you have both grown since I last saw you",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,So your boss made you come?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Care for another splash?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,"Well, it was nice meeting you, and thanks for sharing those lessons learned.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4455,7 +4455,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,You must be the party crashers.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"Try it, you'll like it. Guaranteed.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,I regret to inform you that we are overbooked.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,I guess you figured the ritual!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,I guess you figured the ritual!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,"I recommend the ginger marguerites, but then, that's just me. Now my friend Cathy, oh you gotta meet her. She's a riot. So, where'd you say you're from?",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Taking the plunge?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,I take it the two of you put this party on your bucket list.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4546,7 +4546,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,Stomping grapes is the welcome ritual in our club. This way we do not run out of wine.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Your performance art was very impressive until I noticed the bucket water was warm and full of epsom salts.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Is this what you call a safe space?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
-4271,"You don't get out much, do you?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,"You don't get out much, do you?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,"The committee chair took your rhetorical question seriously, decided you did look like potted plants, and so ordered....",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,"Wine torture is still legal, tell me the truth...",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Good luck on 'No Survivor'.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4666,7 +4666,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,It's worth the weight.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Didn't you agree to host a victory party?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Liars Club said the implants sunk you.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,"Next time, you'll remember to RSVP.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,"Next time, you'll remember to RSVP.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,Fu*draiser Or No strings attached you say...,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Imagine what would have happened if you brought goat cheese along with last year's Beaujolais Nouveau...,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,I'm so happy for you. Your marriage therapy is a real Win/Win!,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4692,7 +4692,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,"So, any regrets about moving to the city?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,Really? Free shipping with Zappos?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Okay. It's not that bad being Republican.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,A call this piece My Wrath.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,A call this piece My Wrath.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,"In Phase 2 of it's PR campaign, Langley is now calling enhanced interrogation techniques ""small talk.""",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,You both violated your corporate NDAs in your wedding vows? Nice.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Mr. Kuper hopes you can free yourself and thinks some wine might help.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4715,10 +4715,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,Why don't you both just hop over to the bar and get a drink?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,We can't join you we're two tied up for the moment.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"Do you think I'm a bore? [""you"" in italics]",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,"""Stomp faster, the guests have started to arrive"".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,"""Stomp faster, the guests have started to arrive"".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,"I DON'T KNOW ABOUT YOU, BUT I FIND THESE PARTIES DULL.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,I like it. Very 1789.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,You're fortunate. No worries about the next Sandy.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,You're fortunate. No worries about the next Sandy.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,"I'm so sorry, I told Winston to ice two buckets of champagne, not ice two Champagnes in buckets.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,Congratulations on your wedding.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Have we landed yet?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4754,7 +4754,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,Did you buy trip insurance?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,And what charity are you raising money for tonight?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Feel like cuttin' loose?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,We just want to be sure our new hires have grit.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,We just want to be sure our new hires have grit.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,Do you prefer the New Zealand Sauvignon Blanc or the Napa Valley Chardonnay?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Working so closely with your dad is really having an impact.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Goody! You're here! Hortense told me you've been in a bit of a rut. Wait right there while I get your drinks.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4771,7 +4771,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,New to the witness protection program?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"Oh, please Stop overthinking. Quality, quantity--this is about the fast track to non-existent inhibitions.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,We prefer our wine freshly pressed,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,"The magazine is calling it, ""Happiness.""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,"The magazine is calling it, ""Happiness.""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,beautiful nose it goes down rather easily,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,This is an excellent chablis. It will go well with your fish dinner.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"Yes, it's a chianti. So what's your point?",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4780,7 +4780,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,You seem a bit tied up... Let me get you a drink.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,"I'll need to see both of your IDs, please.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"We've been a little tied up lately, you might even say ""in the bucket.""",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,Uncanny. Ms. Abramovic said the same thing.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,Uncanny. Ms. Abramovic said the same thing.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,Not until you've seen my doll collection.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Trust me. Singing 'Down by the Riverside' will be good for both you and the goons.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Bozo's bucket bonanza.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4810,7 +4810,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,Drink to me only with thine eyes,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"The next time you chug-a-lug one of the vintage wines I serve at my annual wine-tasting parties and ask for pretzels and a refill, it's going to be a lot worse!",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"Well, Dear Liza, there doesn't seem to be a hole in your bucket. Did you fix it, Dear Henry?",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,"Personally I still feel like a transplant, but you two are bound to establish roots here",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,"Personally I still feel like a transplant, but you two are bound to establish roots here",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,"No, no, I live in the neighborhood of Sheepshead Bay, adjacent to the body of water where you two are dead.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,hey bro,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,The family that abstains together stays together?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
@@ -4820,7 +4820,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,So many lightweights here! It's nice to meet folks who want to get deep.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,'Any last words?',1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,This Eddie the Enforcer's other works are displayed underwater? How out there.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
-4271,Would you like me to get you a Houdini?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,Would you like me to get you a Houdini?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,You'll find the co-op board is less restrictive once you move in.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Hi! Nice party! I see you are tied up. Will come back later. tied up right now. Will come back later.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,I just love performance art.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4851,7 +4851,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,I'm on the Whole 30 diet. What's your called?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,What will remain when Drump and his boy band the Strongmen are done with us.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"So, come here often?",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,568
-4271,I now pronounce you husband and strife.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,I now pronounce you husband and strife.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,Galliano?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"So, I understand you studied with Damien Hirst.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,That's one way to stick to the Paleo diet.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4874,7 +4874,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,"For tie that binds us, may it soon be loosened.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Liberal water boarding?,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,"Oh my God, is Elizabeth still angry with you for getting a spot at Collegiate?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
-4271,So how was the cruise?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,So how was the cruise?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,Your house blend is the best,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,I see it took you both a little longer than usual to get the corporate message.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,We're a smoke-free environment!,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4942,7 +4942,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,Would you like a couple of straws,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,So your mortgage refinancing went well?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,You must have ordered the Rose',1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,Potted already?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,Potted already?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,So glad you could drop by before your trip.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,Drye The driest available if you please,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"Look, you'll be tied up here awhile - I'll just finish the Malbec myself.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -4974,13 +4974,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,"Yada, yada yada yada. Yada yada yada, yada.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Chia pets have come so far.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,His work is so... liberating.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,"So, you went to Brookline college, I did too.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,"So, you went to Brookline college, I did too.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,Welcome to the White House Press Reception. You must be from The Huffington Post.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,You agreeded to 95% purity with a hint of ruby red.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"So, what has you two tied up in knots?",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,You could've just tried Alcoholics Anonymous,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,The last time I was at one of these things someone kept tapping me on the wrong shoulder.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
-4271,"Given that President Trump could have averted the Civil War, he can certainly intercede with Don Giovanni on your behalf.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,"Given that President Trump could have averted the Civil War, he can certainly intercede with Don Giovanni on your behalf.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,"It's a shame that things turned out this way, these seeds had so much potential.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Glad to see you! We thought that you'd gone into some witness protection thing.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,The New Colloquy Internees,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -5051,7 +5051,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,"If you'd like any hors d'oeuvres placed on your tongues, or drinks poured down your throats, just say so. Big Tony won't be free for your boat ride until 1AM.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Is there something in particular that you want me to feel guilty about?,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"I see with both enjoy a deep, velvety start and a salty, lighter finish!",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
-4271,So what do you do for a living?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,So what do you do for a living?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,"Sorry, we're out of wine glasses and house plants.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,"You don't have to go overboard, it's just Merlot.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,So Tracey Emin and Damien Hirst. We finally get to see your joint entry for the Turner Prize this year.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -5070,10 +5070,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,"Sorry, but when the Syndicate owns the cruise line, you don't complain about the shampoo.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,You might inadvertently mention that I served merlot.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"As the Don humorously put it, you'll be stomping grapes for our small-batch wines.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,"Yeah, I got nothin'.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,"Yeah, I got nothin'.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,You're harshing my vibe.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,I'll Take the Pair.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,Is this the new 'party trick' in Washington?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,Is this the new 'party trick' in Washington?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,There is a shop downtown that has matching Chicago overcoats.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Apparently it escaped you about the new executive order relative to dissidence.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"Oh, I see you are here to sample the new mixologist's latest concept, ""Unhappy Hour"".",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
@@ -5085,7 +5085,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,Relax. This is the Presidents\ Relax. This is the President's brand.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,The problem is we're serving fish and you brought a Merlot.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,I really think this will make you grow as people,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,"I know, but when you mentioned that Sydney was into Stocks and Bonds, Wall Street came to mind.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,"I know, but when you mentioned that Sydney was into Stocks and Bonds, Wall Street came to mind.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,Now that’s what I’d call a honeymoon cruise.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,It just seems easier than buttonholing you.,1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,"It's a crisp, clean chardonnay, perfect with deep sea fish.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
@@ -5099,7 +5099,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,You should try the Zinfandel.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"Remember, you two: swirl, smell, stomp.",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
 4271,"you're bound to enjoy this ""cement mixer""",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,Big Al always calls in his loans with a toast to free enterprise.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,Big Al always calls in his loans with a toast to free enterprise.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,Maybe next time you'll try and make America great again.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"We knew we might be tied up, but it was on both our bucket lists.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"....so come to find out, the guy who owns this gallery is something like a 'loan shark' or some such nonsense. I love those catchy nicknames. So how do you two know Guido?",1.0,0.051298917604257706,20.0,20.0,0.0,0.0,568
@@ -5121,7 +5121,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4271,"Are those outfits from Ivanka's ""Hot as ICE"" collection?",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"Your bucket list is certainly original, I'll give you that.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,"Just sip, swirl and spit.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
-4271,I'm afraid we found the merlot you brought to be offensive.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,568
+4271,I'm afraid we found the merlot you brought to be offensive.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,568
 4271,"We'll, bottoms down you two.",1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Play it safe. Go with the white wine with fish.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568
 4271,Apparently Bob Mankoff's last laugh - no cartoon in need of a caption.,1.0,0.05407380704358751,19.0,19.0,0.0,0.0,568

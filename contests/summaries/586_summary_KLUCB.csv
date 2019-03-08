@@ -4,7 +4,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3,"Left on Pennsylvania Avenue, big white house on the right. Can't miss it. Please hurry.",2.06203007518797,0.011864849582718913,4788.0,1474.0,1543.0,1771.0,586
 4,And they say life can't exist in a vacuum.,2.054799426934097,0.01056416405261582,5584.0,1595.0,2088.0,1901.0,586
 5,Wow. Aliens really do perform the jobs most Americans won't do.,2.047691373025516,0.013800972573121798,3292.0,957.0,1221.0,1114.0,586
-6,As a matter of fact we'd be delighted to take you to our leader.,2.029310739638196,0.012489790218291115,4367.0,1425.0,1389.0,1553.0,586
+6,As a matter of fact we'd be delighted to take you to our leader.,2.0293107396381957,0.012489790218291115,4367.0,1425.0,1389.0,1553.0,586
 7,If they were highly evolved don't you think we'd see some attachments?,1.9928294573643408,0.010701685934232692,5160.0,1543.0,2111.0,1506.0,586
 8,We can only hope that they're coming for our leader.,1.981950166764764,0.0112413822957331,5097.0,1688.0,1813.0,1596.0,586
 9,Eureka !,1.9714343190504928,0.01167221681486216,4971.0,1756.0,1601.0,1614.0,586
@@ -12,10 +12,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 11,Something tells me this is gonna suck.,1.9407982855612107,0.01265157167773872,3733.0,1232.0,1490.0,1011.0,586
 12,There IS a vacuum in space.,1.91468253968254,0.017410194761917734,2016.0,709.0,770.0,537.0,586
 13,"First, Trump...now, the return of the Hoover Administration?",1.9121175764847032,0.013790341799341951,3334.0,1216.0,1195.0,923.0,586
-14,"Well, at least the boarding procedure will be fast.",1.906648135279129,0.011319544741824441,4317.0,1414.0,1892.0,1011.0,586
+14,"Well, at least the boarding procedure will be fast.",1.9066481352791291,0.011319544741824441,4317.0,1414.0,1892.0,1011.0,586
 15,Well this is going to suck.,1.8648388648388647,0.012108056265187574,4158.0,1586.0,1548.0,1024.0,586
 16,I've always pictured the vacuum of outer space a bit differently.,1.8482671174978864,0.016111623257778974,2366.0,933.0,859.0,574.0,586
-17,It's a great service. I don't have to carry a plastic bag.,1.8328869844670599,0.018511808821901333,1867.0,779.0,621.0,467.0,586
+17,It's a great service. I don't have to carry a plastic bag.,1.83288698446706,0.018511808821901333,1867.0,779.0,621.0,467.0,586
 18,It appears to be hoovering.,1.8139810426540284,0.018996175892233482,1688.0,700.0,602.0,386.0,586
 19,I always thought they beamed you up.,1.8069241011984016,0.02772651918768406,751.0,303.0,290.0,158.0,586
 20,"If we take you to him, will you KEEP him?",1.7810509554140128,0.015954475591476138,2512.0,1138.0,786.0,588.0,586
@@ -31,14 +31,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 30,I guess space doesn't abhor a vacuum,1.6852409638554218,0.0205531146670916,1328.0,647.0,452.0,229.0,586
 31,Looks like draining the swamp has been outsourced.,1.6841138659320478,0.022264585594498308,1089.0,520.0,393.0,176.0,586
 32,Remember the good old days when the police would just conduct a sweep of the area?,1.6824701195219125,0.014586585799530491,2510.0,1195.0,917.0,398.0,586
-33,I thought my science teacher was kidding when she told me there was a vacuum in space.,1.6720741599073,0.0173707459953005,1726.0,825.0,642.0,259.0,586
+33,I thought my science teacher was kidding when she told me there was a vacuum in space.,1.6720741599073001,0.0173707459953005,1726.0,825.0,642.0,259.0,586
 34,"Collector to Base: Shall we take just the leader, or the two followers, as well?",1.6655629139072847,0.02129004794511336,1208.0,600.0,412.0,196.0,586
 35,"Clean me up, Scotty!",1.6640759930915372,0.02179308563833688,1158.0,578.0,391.0,189.0,586
 36,Huh. Canister. I figured they'd be more advanced.,1.6618464961067854,0.017005842519621926,1798.0,874.0,658.0,266.0,586
 37,Well this is going to suck.,1.6597938144329898,0.07876652984503156,97.0,51.0,28.0,18.0,586
 38,"'They really are advanced. It's cordless.""",1.651475919212843,0.016169943190790056,1931.0,941.0,722.0,268.0,586
 39,Retract hose!—no alien can survive the moral vacuum of their leader.,1.6454248366013071,0.017093252826739954,2448.0,1463.0,390.0,595.0,586
-40,Not the Rapture I had hoped for....,1.629757785467128,0.03149270948427672,578.0,312.0,168.0,98.0,586
+40,Not the Rapture I had hoped for....,1.6297577854671281,0.03149270948427672,578.0,312.0,168.0,98.0,586
 41,This is NOT how I envisioned the Rapture.,1.6286231884057971,0.018505970437549167,1656.0,891.0,489.0,276.0,586
 42,"I swear, if you say ""That really sucks!"" one more time, I'm leaving you.",1.6281842818428185,0.016980142972856885,1845.0,961.0,609.0,275.0,586
 43,I didn't think anyone could live in a vacuum.,1.6281705342687534,0.016732484947718833,1853.0,953.0,636.0,264.0,586
@@ -55,7 +55,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 54,"Wow, no cord!",1.5892691951896392,0.021854983907618288,1081.0,592.0,341.0,148.0,586
 55,They must be from a highly domesticated planet.,1.5873015873015872,0.02184339110134271,1008.0,536.0,352.0,120.0,586
 56,"Dammit, Cassie, do you have to go berserk EVERY time someone turns on a vacuum cleaner?",1.5860023724792407,0.024684859943443747,843.0,463.0,266.0,114.0,586
-57,"You know, I kind of see where the dog is coming from on this one.",1.585792349726776,0.024304492391901727,915.0,515.0,264.0,136.0,586
+57,"You know, I kind of see where the dog is coming from on this one.",1.5857923497267759,0.024304492391901727,915.0,515.0,264.0,136.0,586
 58,"Ok, ok! We'll scoop it!",1.5843373493975903,0.04009218373177642,332.0,186.0,98.0,48.0,586
 59,Watch out! It's the new GOP tax plan.,1.5819838056680162,0.02379982651066154,988.0,569.0,263.0,156.0,586
 60,Take me to your litter!,1.5781083953241233,0.023379948893159905,941.0,524.0,290.0,127.0,586
@@ -75,7 +75,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 74,Did you ever feel like a tiny speck of dust in the universe?,1.5457364341085271,0.027225922262955792,645.0,367.0,204.0,74.0,586
 74,It's the new tax plan.,1.5457364341085271,0.02910632140896969,645.0,389.0,160.0,96.0,586
 76,So much for space abhorring a vacuum.,1.5454545454545454,0.02968736915190788,638.0,390.0,148.0,100.0,586
-76,Let's ask if they'll bring us back after 2020.,1.5454545454545454,0.027447932896568532,638.0,364.0,200.0,74.0,586
+76,Let's ask if they'll bring us back after 2020.,1.5454545454545454,0.02744793289656853,638.0,364.0,200.0,74.0,586
 78,I just wish they were more friendly. They treat us like dirt.,1.5398671096345515,0.02971866532105692,602.0,362.0,155.0,85.0,586
 79,Did I mention they're very serious about cleaning up after dogs here?,1.5385906040268456,0.027700816253362275,596.0,337.0,197.0,62.0,586
 80,"Look, it's the new Clean Air Act!",1.5380710659898478,0.0299556298596635,591.0,356.0,152.0,83.0,586
@@ -131,8 +131,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 128,Are we in that damn cartoon contest again?,1.4829545454545454,0.037082490547760416,352.0,223.0,88.0,41.0,586
 131,"Don't worry Marge, our President will threaten to destroy their planet.",1.481159420289855,0.038741529427631184,345.0,225.0,74.0,46.0,586
 132,That's weird. I thought life couldn't exist in a vacuum.,1.4796511627906976,0.040323959979392913,344.0,232.0,59.0,53.0,586
-133,That's the military's new carpet bomber.,1.47953216374269,0.037196604151642346,342.0,216.0,88.0,38.0,586
-133,I dunno - I think a truly advanced civilization would have sent an upright.,1.47953216374269,0.03696536131964704,342.0,215.0,90.0,37.0,586
+133,That's the military's new carpet bomber.,1.4795321637426901,0.037196604151642346,342.0,216.0,88.0,38.0,586
+133,I dunno - I think a truly advanced civilization would have sent an upright.,1.4795321637426901,0.03696536131964704,342.0,215.0,90.0,37.0,586
 135,"EUREKA! No, I think it's a Kirby.",1.4794117647058824,0.03569491613091082,340.0,208.0,101.0,31.0,586
 135,Dyson and Musk seemed to have joined forces,1.4794117647058824,0.036654267580786895,340.0,212.0,93.0,35.0,586
 137,I'm sure it beats getting probed.,1.4778761061946903,0.03858433662015564,339.0,220.0,76.0,43.0,586
@@ -170,7 +170,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 169,Try not to look like upholstery.,1.4607508532423208,0.03819264018649357,293.0,184.0,83.0,26.0,586
 170,Why do dogs always bark at vacuums?,1.4604810996563573,0.0395937918995642,291.0,187.0,74.0,30.0,586
 170,Is it April 15th already?,1.4604810996563573,0.04048168509794104,291.0,190.0,68.0,33.0,586
-172,Eureka !,1.4583333333333333,0.04224339536764746,288.0,194.0,56.0,38.0,586
+172,Eureka !,1.4583333333333333,0.042243395367647464,288.0,194.0,56.0,38.0,586
 173,It's a dirty job no one else wanted. They must be illegal aliens.,1.458041958041958,0.04069638315285226,286.0,187.0,67.0,32.0,586
 174,"Walter froze, not knowing whether to sacrifice his wife or the dog.",1.4555160142348755,0.04122149153951673,281.0,185.0,64.0,32.0,586
 174,Do you think their Mother Ship looks like our hall closet?,1.4555160142348755,0.04060015423453489,281.0,183.0,68.0,30.0,586
@@ -178,7 +178,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 177,"Relax, a truly advanced civilization would use bagless technology.",1.4551971326164874,0.03853743648655402,279.0,175.0,81.0,23.0,586
 178,"Change the setting to ""Sidewalk.""",1.4532374100719423,0.03962202373637072,278.0,178.0,74.0,26.0,586
 178,I guess it's dust to dust.,1.4532374100719423,0.040593358711868976,278.0,181.0,68.0,29.0,586
-180,"...and I thought that great, sucking sound was the death of democracy!",1.4525547445255471,0.03901874065609413,274.0,173.0,78.0,23.0,586
+180,"...and I thought that great, sucking sound was the death of democracy!",1.4525547445255471,0.039018740656094134,274.0,173.0,78.0,23.0,586
 180,Mid-century modern is everywhere these days.,1.4525547445255471,0.03762330541471645,274.0,169.0,86.0,19.0,586
 182,It's cheaper than the wall.,1.4501845018450183,0.03861011026484151,271.0,170.0,80.0,21.0,586
 182,"Quick, show your green card.",1.4501845018450183,0.040000938005762064,271.0,174.0,72.0,25.0,586
@@ -189,7 +189,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 188,That must be the mother ship.,1.4469696969696968,0.044784690539351635,264.0,183.0,44.0,37.0,586
 188,We can't switch to Tuesdays. That's the day they do Venus.,1.4469696969696968,0.04179021476063989,264.0,174.0,62.0,28.0,586
 190,I thought the vacuum of space would be more impressive.,1.4465648854961832,0.043391627354991434,262.0,177.0,53.0,32.0,586
-191,"Advanced life forms, my ass. They forgot to plug it in.",1.446153846153846,0.040093104046361606,260.0,166.0,72.0,22.0,586
+191,"Advanced life forms, my ass. They forgot to plug it in.",1.4461538461538461,0.040093104046361606,260.0,166.0,72.0,22.0,586
 192,The White House? Next right.,1.4440154440154442,0.04019091548473959,259.0,166.0,71.0,22.0,586
 192,I guess that's what a deus ex machina looks like.,1.4440154440154442,0.04056155753900339,259.0,167.0,69.0,23.0,586
 194,"They may clean well dear, but they're undocumented.",1.4435797665369652,0.042248034753363764,257.0,170.0,60.0,27.0,586
@@ -207,7 +207,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 206,Sure. NOW he's not scared of a vacuum.,1.439516129032258,0.04022042040843755,248.0,158.0,71.0,19.0,586
 207,I guess we are headed back to the Hoover Era.,1.4390243902439024,0.042834946992113015,246.0,163.0,58.0,25.0,586
 208,It's Trump's version of the Clean Air Act.,1.4369747899159664,0.0434633797631251,238.0,158.0,56.0,24.0,586
-209,They must be advanced. There's no cord.,1.4362139917695471,0.042807574895044664,243.0,161.0,58.0,24.0,586
+209,They must be advanced. There's no cord.,1.4362139917695471,0.04280757489504466,243.0,161.0,58.0,24.0,586
 210,Maybe that’s the giant sucking sound from south of here ??,1.4351464435146444,0.0468299553913848,239.0,168.0,38.0,33.0,586
 210,So much for aliens have advanced technology. That's not even a bag-less model.,1.4351464435146444,0.040812217609352205,239.0,153.0,68.0,18.0,586
 210,"Hoover craft, I suppose.",1.4351464435146444,0.0429119988439338,239.0,158.0,58.0,23.0,586
@@ -239,7 +239,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 238,"Son of a gun, the fortune cookie was right.",1.4212962962962965,0.04466885456793862,216.0,145.0,51.0,20.0,586
 239,Looks like the President outsourced the FEMA clean-up.,1.4198113207547167,0.04526117054673096,212.0,143.0,49.0,20.0,586
 240,We'll take you to our leader!,1.4186046511627908,0.04761779600892318,215.0,151.0,38.0,26.0,586
-241,Elon Musk is up to something again.,1.4178403755868545,0.04359300452696373,213.0,141.0,55.0,17.0,586
+241,Elon Musk is up to something again.,1.4178403755868545,0.043593004526963734,213.0,141.0,55.0,17.0,586
 241,That explains the straight lines in the corn field.,1.4178403755868545,0.0460630498005816,213.0,146.0,45.0,22.0,586
 241,Amazing. There’s no cord!,1.4178403755868545,0.04654133065974217,213.0,147.0,43.0,23.0,586
 244,They come every Tuesday and Friday.,1.4170616113744077,0.045886680108699854,211.0,144.0,46.0,21.0,586
@@ -252,8 +252,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 251,"Call them 'illegal aliens' if you want, but who else is going to do the housekeeping?",1.4154589371980677,0.046010210120376434,207.0,141.0,46.0,20.0,586
 251,Consumer Reports rated it the best for any space.,1.4154589371980677,0.04651711029940046,207.0,142.0,44.0,21.0,586
 251,Make America clean again!,1.4154589371980677,0.04392415023856002,207.0,137.0,54.0,16.0,586
-254,I see E.T. phoned Home Depot again,1.4117647058823528,0.04541462629282093,204.0,138.0,48.0,18.0,586
-254,"If the aliens don't do the dirty work, who will?",1.4117647058823528,0.043790441204599864,204.0,135.0,54.0,15.0,586
+254,I see E.T. phoned Home Depot again,1.4117647058823528,0.045414626292820934,204.0,138.0,48.0,18.0,586
+254,"If the aliens don't do the dirty work, who will?",1.4117647058823528,0.04379044120459986,204.0,135.0,54.0,15.0,586
 254,Calling them dirtbags was just plain offensive.,1.4117647058823528,0.04487976271300418,204.0,137.0,50.0,17.0,586
 254,One time I didn't pick up his poop.,1.4117647058823528,0.04594326350464891,204.0,139.0,46.0,19.0,586
 254,Latest Trump tweet: Space aliens attack. They suck! Sad.,1.4117647058823528,0.04799962689460922,204.0,143.0,38.0,23.0,586
@@ -291,7 +291,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 287,Look! A Hoovercraft!,1.4010695187165776,0.04941140127827244,187.0,132.0,35.0,20.0,586
 291,I can't pick them up; are you sure you changed the bag?,1.3967391304347827,0.04875439544313481,184.0,129.0,37.0,18.0,586
 291,"I wouldn't worry, nature abhors a vacuum",1.3967391304347827,0.05054879492879421,184.0,132.0,31.0,21.0,586
-291,Now I see why he barks at the vacuum,1.3967391304347827,0.04625370201459839,184.0,125.0,45.0,14.0,586
+291,Now I see why he barks at the vacuum,1.3967391304347827,0.046253702014598386,184.0,125.0,45.0,14.0,586
 291,The Hooverians are benign. It’s the Roombians you need to worry about.,1.3967391304347827,0.04935977721047918,184.0,130.0,35.0,19.0,586
 291,"In space, no one can hear you clean.",1.3967391304347827,0.04689137960540123,184.0,126.0,43.0,15.0,586
 291,Apparently nature doesn't abhor a vacuum.,1.3967391304347827,0.04560710930121188,184.0,124.0,47.0,13.0,586
@@ -329,7 +329,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 328,It's not much use without a magic carpet.,1.3846153846153846,0.04597033112824591,169.0,114.0,45.0,10.0,586
 328,Stop barking - it's just a vacuum cleaner.,1.3846153846153846,0.05173790070265764,169.0,122.0,29.0,18.0,586
 328,"I don't believe it, those are the two cats next door.",1.3846153846153846,0.04597033112824591,169.0,114.0,45.0,10.0,586
-328,E.T. Clean home!,1.3846153846153846,0.04747795383448981,169.0,116.0,41.0,12.0,586
+328,E.T. Clean home!,1.3846153846153846,0.047477953834489814,169.0,116.0,41.0,12.0,586
 328,The White House is that way.,1.3846153846153846,0.04893915463695014,169.0,118.0,37.0,14.0,586
 328,Somehow I thought they'd be flying in a Roomba,1.3846153846153846,0.04821409004061605,169.0,117.0,39.0,13.0,586
 328,I guess we're about to find out what can exist in a vacuum.,1.3846153846153846,0.04673022279184277,169.0,115.0,43.0,11.0,586
@@ -412,16 +412,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 409,They'll never be able to clean up this mess.,1.3666666666666667,0.053022022073452114,150.0,109.0,27.0,14.0,586
 409,Hold still and pretend you're a penny.,1.3666666666666667,0.05130656787909022,150.0,107.0,31.0,12.0,586
 409,"Don't move, don't make a sound and whatever you do, don't litter.",1.3666666666666667,0.049531737202582964,150.0,105.0,35.0,10.0,586
-409,This is really gonna suck.,1.3666666666666667,0.05042696152772559,150.0,106.0,33.0,11.0,586
+409,This is really gonna suck.,1.3666666666666667,0.050426961527725585,150.0,106.0,33.0,11.0,586
 415,Let’s take them to our leader.,1.3660130718954249,0.048853059575674256,153.0,107.0,36.0,10.0,586
 416,Are you sure you called Uber? Looks like Hoover to me!,1.364864864864865,0.0517648172887719,148.0,106.0,30.0,12.0,586
-416,"Boy, is THIS gonna suck.",1.364864864864865,0.05602891776329533,148.0,111.0,20.0,17.0,586
+416,"Boy, is THIS gonna suck.",1.364864864864865,0.056028917763295334,148.0,111.0,20.0,17.0,586
 416,I thought they'd have Dysons by now.,1.364864864864865,0.04995737165049287,148.0,104.0,34.0,10.0,586
 416,I knew Pluto would fight back after its demotion.,1.364864864864865,0.053511247748995794,148.0,108.0,26.0,14.0,586
-420,"Okay, this sucks.",1.3630136986301369,0.047497743263698385,146.0,100.0,39.0,7.0,586
+420,"Okay, this sucks.",1.3630136986301369,0.04749774326369839,146.0,100.0,39.0,7.0,586
 420,What did you expect? Outer space is a vacuum.,1.3630136986301369,0.0531307395288412,146.0,106.0,27.0,13.0,586
 420,I guess that's more proof space is a vacuum.,1.3630136986301369,0.05223410927346238,146.0,105.0,29.0,12.0,586
-420,It's the new Hoovercraft.,1.3630136986301369,0.047497743263698385,146.0,100.0,39.0,7.0,586
+420,It's the new Hoovercraft.,1.3630136986301369,0.04749774326369839,146.0,100.0,39.0,7.0,586
 420,"Well, I guess my biology teacher was wrong. Apparently life CAN exist in a vacuum...",1.3630136986301369,0.05223410927346238,146.0,105.0,29.0,12.0,586
 420,So this was the giant sucking sound that Perot was talking about.,1.3630136986301369,0.04848204746536357,146.0,101.0,37.0,8.0,586
 420,Damn. This is going to suck.,1.3630136986301369,0.05039301091434096,146.0,103.0,33.0,10.0,586
@@ -518,7 +518,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 502,Take us to your carpet!,1.3410852713178294,0.05219982015951795,129.0,93.0,28.0,8.0,586
 502,It's some sort of Hoovercraft.,1.3410852713178294,0.05219982015951795,129.0,93.0,28.0,8.0,586
 502,"Well, this will give you some perspective on our place in the universe.",1.3410852713178294,0.05334740158333645,129.0,94.0,26.0,9.0,586
-520,"We’ve got enough human samples, get the dog.",1.3385826771653544,0.050271693324617533,127.0,90.0,31.0,6.0,586
+520,"We’ve got enough human samples, get the dog.",1.3385826771653544,0.05027169332461753,127.0,90.0,31.0,6.0,586
 520,"Be careful, it's Hoovering!",1.3385826771653544,0.05269925904251554,127.0,92.0,27.0,8.0,586
 520,It was either this or we build a wall and make them pay for it.,1.3385826771653544,0.05269925904251554,127.0,92.0,27.0,8.0,586
 520,"no sense in barking Fido, sound doesn't travel in a vacuum",1.3385826771653544,0.05149978181193853,127.0,91.0,29.0,7.0,586
@@ -528,19 +528,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 520,You hang onto the dog.........we'll take care of the poop.,1.3385826771653544,0.053872036165185336,127.0,93.0,25.0,9.0,586
 520,Try the human attachment,1.3385826771653544,0.0550198205880019,127.0,94.0,23.0,10.0,586
 520,I think it's a hoover craft,1.3385826771653544,0.053872036165185336,127.0,93.0,25.0,9.0,586
-520,"I'm all for cleaning up the environment, but this just sucks.",1.3385826771653544,0.050271693324617533,127.0,90.0,31.0,6.0,586
+520,"I'm all for cleaning up the environment, but this just sucks.",1.3385826771653544,0.05027169332461753,127.0,90.0,31.0,6.0,586
 520,They take air pollution seriously here.,1.3385826771653544,0.05149978181193853,127.0,91.0,29.0,7.0,586
 520,Whoa! I never expected the Rapture to look like this!,1.3385826771653544,0.053872036165185336,127.0,93.0,25.0,9.0,586
 520,Just don't pick up that furry thing! I'm still picking hairs off the sofa from the last one.,1.3385826771653544,0.05149978181193853,127.0,91.0,29.0,7.0,586
 520,"Oh no, a Hoover-craft.",1.3385826771653544,0.05149978181193853,127.0,91.0,29.0,7.0,586
 520,That's what clean energy looks like!,1.3385826771653544,0.05269925904251554,127.0,92.0,27.0,8.0,586
-536,Look its a hoovercraft!,1.3359999999999999,0.056732536036751324,125.0,94.0,20.0,11.0,586
-536,Hoover? Damn!,1.3359999999999999,0.05785855946379762,125.0,95.0,18.0,12.0,586
-536,I didn't know Amazon had moved past drones.,1.3359999999999999,0.05441062514833162,125.0,92.0,24.0,9.0,586
+536,Look its a hoovercraft!,1.336,0.056732536036751324,125.0,94.0,20.0,11.0,586
+536,Hoover? Damn!,1.336,0.05785855946379762,125.0,95.0,18.0,12.0,586
+536,I didn't know Amazon had moved past drones.,1.336,0.05441062514833162,125.0,92.0,24.0,9.0,586
 539,"Next time, we pay the upcharge for the tractor beam.",1.3333333333333333,0.052482890298133716,123.0,89.0,27.0,7.0,586
 539,I finally understand why he barks at these things.,1.3333333333333333,0.05496375002395256,123.0,91.0,23.0,9.0,586
 539,I'LL GO ON THE PAPER! I'LL GO ON THE PAPER!,1.3333333333333333,0.053737638535487776,123.0,90.0,25.0,8.0,586
-539,What's that hoovering above us?,1.3333333333333333,0.052854997811472786,126.0,92.0,26.0,8.0,586
+539,What's that hoovering above us?,1.3333333333333333,0.05285499781147279,126.0,92.0,26.0,8.0,586
 539,Who would you rather have with sweeping powers ? Aliens or ICE ?,1.3333333333333333,0.053737638535487776,123.0,90.0,25.0,8.0,586
 539,"Well, at least we won't have to go to your mom's place for Thanksgiving.",1.3333333333333333,0.053737638535487776,123.0,90.0,25.0,8.0,586
 539,It's about time somebody got around to cleaning up the neighborhood.,1.3333333333333333,0.04987879039628298,123.0,87.0,31.0,5.0,586
@@ -551,7 +551,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 539,"Easy, boy. It just wants to sniff your butt.",1.3333333333333333,0.05616310032414831,123.0,92.0,21.0,10.0,586
 539,"All this time, Buddy was trying to warn us.",1.3333333333333333,0.052482890298133716,123.0,89.0,27.0,7.0,586
 539,There's only one astrophysicist who can explain this. Call Neil deGrasse Dyson.,1.3333333333333333,0.052482890298133716,123.0,89.0,27.0,7.0,586
-539,Don't worry. It's just Amazon's new package return initiative.,1.3333333333333333,0.052854997811472786,126.0,92.0,26.0,8.0,586
+539,Don't worry. It's just Amazon's new package return initiative.,1.3333333333333333,0.05285499781147279,126.0,92.0,26.0,8.0,586
 539,Looks like your mother's loose again.,1.3333333333333333,0.0584880661389138,123.0,94.0,17.0,12.0,586
 539,I'd always heard there is a vacuum in space...,1.3333333333333333,0.05496375002395256,123.0,91.0,23.0,9.0,586
 556,"Well, President Hoover is dead, but if you wanna just go ahead and take the current guy...",1.3305785123966942,0.057959363735613986,121.0,92.0,18.0,11.0,586
@@ -579,7 +579,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 578,I think Dyson has gone too far.,1.3289473684210529,0.07105263157894735,76.0,57.0,13.0,6.0,586
 579,This is not the rapture I envisioned.,1.3277310924369747,0.05611609694503983,119.0,89.0,21.0,9.0,586
 579,We already have a vacuum in our leadership.,1.3277310924369747,0.05217017132857965,119.0,86.0,27.0,6.0,586
-579,Remember that time ages ago when we were stoned and you asked me if dust devils had an afterlife?,1.3277310924369747,0.054832348874071186,119.0,88.0,23.0,8.0,586
+579,Remember that time ages ago when we were stoned and you asked me if dust devils had an afterlife?,1.3277310924369747,0.05483234887407119,119.0,88.0,23.0,8.0,586
 579,Apparently the only thing from our civilization that has impressed them is the Electrolux.,1.3277310924369747,0.05217017132857965,119.0,86.0,27.0,6.0,586
 579,"That reminds me, the cleaning lady comes tomorrow.",1.3277310924369747,0.05351781600318351,119.0,87.0,25.0,7.0,586
 579,Just when I thought 2017 couldn't suck any more.,1.3277310924369747,0.05611609694503983,119.0,89.0,21.0,9.0,586
@@ -593,23 +593,23 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 579,"Did he just say, ""Take me to your cleaners""?",1.3277310924369747,0.04936463379646255,119.0,84.0,31.0,4.0,586
 579,It's cordless- we're doomed!,1.3277310924369747,0.05351781600318351,119.0,87.0,25.0,7.0,586
 579,Well this just sucks.,1.3277310924369747,0.05859928363845082,119.0,91.0,17.0,11.0,586
-579,Look! It's the vacuum of space!,1.3277310924369747,0.054832348874071186,119.0,88.0,23.0,8.0,586
-579,So much for advanced civilizations.,1.3277310924369747,0.054832348874071186,119.0,88.0,23.0,8.0,586
-579,We can't hire them for housework unless they have green cards.,1.3277310924369747,0.054832348874071186,119.0,88.0,23.0,8.0,586
+579,Look! It's the vacuum of space!,1.3277310924369747,0.05483234887407119,119.0,88.0,23.0,8.0,586
+579,So much for advanced civilizations.,1.3277310924369747,0.05483234887407119,119.0,88.0,23.0,8.0,586
+579,We can't hire them for housework unless they have green cards.,1.3277310924369747,0.05483234887407119,119.0,88.0,23.0,8.0,586
 579,I'm beginning to understand why he hates the vacuum cleaner.,1.3277310924369747,0.05351781600318351,119.0,87.0,25.0,7.0,586
 579,"So, am I supposed to feel safer because, ""Nature abhors them?""",1.3277310924369747,0.05078677901930879,119.0,85.0,29.0,5.0,586
-579,Did you remember to change the bag?,1.3277310924369747,0.054832348874071186,119.0,88.0,23.0,8.0,586
+579,Did you remember to change the bag?,1.3277310924369747,0.05483234887407119,119.0,88.0,23.0,8.0,586
 579,"Another group of aliens, trying to take our jobs away.",1.3277310924369747,0.05351781600318351,119.0,87.0,25.0,7.0,586
 579,Look Marge! There really is a vacuum in outer space.,1.3277310924369747,0.05611609694503983,119.0,89.0,21.0,9.0,586
 579,I'm taking Rex's side on this one.,1.3277310924369747,0.05351781600318351,119.0,87.0,25.0,7.0,586
 579,"Ah, space really is just one big vacuum.",1.3277310924369747,0.05351781600318351,119.0,87.0,25.0,7.0,586
 579,We truly are just Dust in the universe!,1.3277310924369747,0.05351781600318351,119.0,87.0,25.0,7.0,586
-579,Please don't let that be their anal probe . . .,1.3277310924369747,0.054832348874071186,119.0,88.0,23.0,8.0,586
-579,I knew first contact was going to suck.,1.3277310924369747,0.054832348874071186,119.0,88.0,23.0,8.0,586
+579,Please don't let that be their anal probe . . .,1.3277310924369747,0.05483234887407119,119.0,88.0,23.0,8.0,586
+579,I knew first contact was going to suck.,1.3277310924369747,0.05483234887407119,119.0,88.0,23.0,8.0,586
 579,Somebody needs to tell George Lucas he got it all wrong.,1.3277310924369747,0.04638973338212185,119.0,82.0,35.0,2.0,586
-579,This is not how I thought the Rapture would go down.,1.3277310924369747,0.054832348874071186,119.0,88.0,23.0,8.0,586
+579,This is not how I thought the Rapture would go down.,1.3277310924369747,0.05483234887407119,119.0,88.0,23.0,8.0,586
 579,""" I said hover, not hoover, you dotard!",1.3277310924369747,0.05611609694503983,119.0,89.0,21.0,9.0,586
-579,"When they said space was a vacuum, I didn't think they meant it so literally!",1.3277310924369747,0.054832348874071186,119.0,88.0,23.0,8.0,586
+579,"When they said space was a vacuum, I didn't think they meant it so literally!",1.3277310924369747,0.05483234887407119,119.0,88.0,23.0,8.0,586
 612,Relax Fifi. It's just a Hoover craft.,1.3247863247863247,0.05540231421550204,117.0,87.0,22.0,8.0,586
 612,Finally! No more poop bags.,1.3247863247863247,0.05540231421550204,117.0,87.0,22.0,8.0,586
 612,"I know space is a vacuum, but this is ridiculous.",1.3247863247863247,0.05540231421550204,117.0,87.0,22.0,8.0,586
@@ -658,11 +658,11 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 648,Did we forget the pooper scooper again?,1.3153153153153154,0.05274136356125121,111.0,81.0,25.0,5.0,586
 648,Do you think you could visit my house first?,1.3153153153153154,0.055760664970034256,111.0,83.0,21.0,7.0,586
 648,"Man, the vacuum of space is nowhere near as dramatic as it's portrayed in the movies.",1.3153153153153154,0.05721059274033585,111.0,84.0,19.0,8.0,586
-648,Twenty bucks says the crew look like dust bunnies,1.3153153153153154,0.054272014833616065,111.0,82.0,23.0,6.0,586
+648,Twenty bucks says the crew look like dust bunnies,1.3153153153153154,0.05427201483361607,111.0,82.0,23.0,6.0,586
 648,"I knew space was a vacuum, but I didn't realize there were vacuums in space.",1.3153153153153154,0.05274136356125121,111.0,81.0,25.0,5.0,586
-648,So this is the new Environmental Protection Agency?,1.3153153153153154,0.054272014833616065,111.0,82.0,23.0,6.0,586
+648,So this is the new Environmental Protection Agency?,1.3153153153153154,0.05427201483361607,111.0,82.0,23.0,6.0,586
 648,This is going to suck.,1.3153153153153154,0.05721059274033585,111.0,84.0,19.0,8.0,586
-648,There's that giant sucking sound again...,1.3153153153153154,0.054272014833616065,111.0,82.0,23.0,6.0,586
+648,There's that giant sucking sound again...,1.3153153153153154,0.05427201483361607,111.0,82.0,23.0,6.0,586
 665,Advanced culture? Its not even a Dyson?,1.3119266055045868,0.04996983069837368,109.0,78.0,28.0,3.0,586
 665,I guess what they fly is called a Hoovercraft.,1.3119266055045868,0.053261367900563225,109.0,80.0,24.0,5.0,586
 665,I'm bored. Let's go for it.,1.3119266055045868,0.056361002841097185,109.0,82.0,20.0,7.0,586
@@ -884,7 +884,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 861,E.T. Clean home!,1.2872340425531914,0.05582586504349467,94.0,71.0,19.0,4.0,586
 861,This is what happens when you bring in outside help.,1.2872340425531914,0.05373775775420212,94.0,70.0,21.0,3.0,586
 861,We should never have left so much space junk.,1.2872340425531914,0.06166740635108624,94.0,74.0,13.0,7.0,586
-861,What's this? I'm still not comfortable with drones.,1.2872340425531914,0.049296910751475784,94.0,68.0,25.0,1.0,586
+861,What's this? I'm still not comfortable with drones.,1.2872340425531914,0.04929691075147578,94.0,68.0,25.0,1.0,586
 861,This is why nature abhors a vacuum.,1.2872340425531914,0.0597836801030584,94.0,73.0,15.0,6.0,586
 861,"Don't they know that none of us lives in a vacuum, Martha?",1.2872340425531914,0.0597836801030584,94.0,73.0,15.0,6.0,586
 861,And we can be your masters for only twelve easy payments!,1.2872340425531914,0.05582586504349467,94.0,71.0,19.0,4.0,586
@@ -4496,471 +4496,471 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4493,The sky's VACUUMalated too much CO2!!,1.03125,0.031750031750047626,32.0,31.0,1.0,0.0,586
 4496,"It's ok Fido. E.T Cleaners is removing dog hair, not dogs.",1.0294117647058822,0.029854071701326607,34.0,33.0,1.0,0.0,586
 4496,"Wait, is that what they meant by 'the vacuum of space?'",1.0294117647058822,0.029854071701326607,34.0,33.0,1.0,0.0,586
-4498,"Back off, Gork! I forgot to change the bag.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"If we just ignore it, will it go away?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"""We come in *vacuum noise*"" ""what did they say""?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Rex warned us this day would come.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"It's the invaders from Nambia! Let them take us, I hear their healthcare's good",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"That really sucks, really ....",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,So that's where the big sucking noise is coming from!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Our man in Havana was right after all!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"If I don't get outta here, I'm toast.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Don't take me to your leader.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Must be from the planet Electrolux.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Suck for signs of intelligent life.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Back off, Gork! I forgot to change the bag.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"If we just ignore it, will it go away?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"""We come in *vacuum noise*"" ""what did they say""?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Rex warned us this day would come.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"It's the invaders from Nambia! Let them take us, I hear their healthcare's good",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"That really sucks, really ....",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,So that's where the big sucking noise is coming from!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Our man in Havana was right after all!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"If I don't get outta here, I'm toast.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Don't take me to your leader.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Must be from the planet Electrolux.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Suck for signs of intelligent life.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Electrolux must have come out with a new model!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,Just when we thought things couldn't suck any worse...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I’m surprised it has been up there this long as nature abhors a vacuum!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Just when we thought things couldn't suck any worse...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I’m surprised it has been up there this long as nature abhors a vacuum!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Pollution comes in different forms,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
 4498,It was on the space ship.,1.0,0.0363696483726654,28.0,28.0,0.0,0.0,586
-4498,"Oh my god guys, it’s not a big deal. Aliens exist, so what?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Oh my god guys, it’s not a big deal. Aliens exist, so what?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"For a limited time only, get this new and approved product to clean up after dogs that shed to much.",1.0,0.04256282653793743,24.0,24.0,0.0,0.0,586
-4498,We seem to have wandered into the no-barking zone.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,We seem to have wandered into the no-barking zone.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,You SUCK!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
 4498,"Look, it's the new i-Electrolux Leviathan model! It runs on solar energy, and sucks up carbon dioxide.",1.0,0.0363696483726654,28.0,28.0,0.0,0.0,586
-4498,"It's just a prototype but after Tesla's success, the Hoover Institute research showed they could clean up with a solar powered airship.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Sucks to be skeptic, huh?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Their vacuum bag is full.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Oh no, not again!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Just ignore them. They suck at everything.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Why are all the cleaning people aliens?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Nature abhors a vacuum but apparently Martians do not.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I guess they finally passed the scoop ordinance.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Oh no, I think it says here that the term ""Martian's Suck"" does not mean ""Welcome Earthlings we come in peace!""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,They had to take it out; it was just gathering dust.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,They always said outer space had a huge vacuum.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I told you 'major suckage' wasn't a figure of speech.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"It's just a prototype but after Tesla's success, the Hoover Institute research showed they could clean up with a solar powered airship.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Sucks to be skeptic, huh?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Their vacuum bag is full.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Oh no, not again!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Just ignore them. They suck at everything.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Why are all the cleaning people aliens?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Nature abhors a vacuum but apparently Martians do not.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I guess they finally passed the scoop ordinance.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Oh no, I think it says here that the term ""Martian's Suck"" does not mean ""Welcome Earthlings we come in peace!""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,They had to take it out; it was just gathering dust.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,They always said outer space had a huge vacuum.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I told you 'major suckage' wasn't a figure of speech.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Looks like Princeton is doing another capital campaign.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
 4498,I thought that Nature abhorred a vacuum!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,Is that Marie Kondo?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,We come in one ergonomically designed piece.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I guess alien carpet cleaners weren't included in the travel ban,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,You said it would blow if aliens came. I’m the one that said it would suck.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Sic'em Hoover!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"I figured that hiring foreigners for environmental clean-up was eventually going to mean they would take our jobs, and us.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,He always barks at the vacuum cleaner.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"We curbed ""man's best friend!""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I love the pop-up feature.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Ethnic cleansing.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Is that Marie Kondo?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,We come in one ergonomically designed piece.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I guess alien carpet cleaners weren't included in the travel ban,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,You said it would blow if aliens came. I’m the one that said it would suck.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Sic'em Hoover!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"I figured that hiring foreigners for environmental clean-up was eventually going to mean they would take our jobs, and us.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,He always barks at the vacuum cleaner.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"We curbed ""man's best friend!""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I love the pop-up feature.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Ethnic cleansing.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Yep – that UFO isn't just clunky, it sucks too",1.0,0.04256282653793743,24.0,24.0,0.0,0.0,586
-4498,I'm surprised it's not a Roomba.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Amazing how they survive in the vacuum of outer space.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Sucks to be us.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,I'm surprised it's not a Roomba.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Amazing how they survive in the vacuum of outer space.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Sucks to be us.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,This is why I didn't want the two of us to go on a diet and lose some weight?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
 4498,There is,1.0,0.039223227027636816,26.0,26.0,0.0,0.0,586
-4498,"Don't be afraid. If aliens can survive in the vacuum of outer space, so can we.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Don't be afraid. If aliens can survive in the vacuum of outer space, so can we.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,And I thought the Romulans sucked.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,586
-4498,Who's idea was it to put a Hoover in a time capsule anyways?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I thought you said the forecast was supposed to be sunny...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,That doesn't mean there isn't an inner vacuum.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Looks like the engineers are sucking up all Dyson's budget!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Who's idea was it to put a Hoover in a time capsule anyways?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I thought you said the forecast was supposed to be sunny...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,That doesn't mean there isn't an inner vacuum.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Looks like the engineers are sucking up all Dyson's budget!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,I'll do this but I won't do Windows.,1.0,0.039223227027636816,26.0,26.0,0.0,0.0,586
 4498,Would you like tea with your toast?,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,wow! I'm not going there!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Amazon's latest effort to get workers.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,The cordless spaceships don't have any suction at all.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,This is nothing like my alien abduction fantasy.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Omg - This Sucks!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Careful - they hover, then hoover!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"So now we know, alien civilizations really suck.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,The extra long nozzle is quite impressive!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,But we said absolutely no to that time-share presentation!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Oh no, another alien in-suction.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"The ""vacuum of space"" just took on a new meaning.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,And the full-grown offspring of Electrolux and Orson Welles approached the city.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Elon.?! Is that you? Stop it now, you're scaring your Mom.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Hey, doggie, God call you home.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,This is one way to get Trump out of our lives.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,i cant see the picture for some reason :(,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,wow! I'm not going there!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Amazon's latest effort to get workers.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,The cordless spaceships don't have any suction at all.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,This is nothing like my alien abduction fantasy.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Omg - This Sucks!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Careful - they hover, then hoover!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"So now we know, alien civilizations really suck.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,The extra long nozzle is quite impressive!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,But we said absolutely no to that time-share presentation!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Oh no, another alien in-suction.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"The ""vacuum of space"" just took on a new meaning.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,And the full-grown offspring of Electrolux and Orson Welles approached the city.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Elon.?! Is that you? Stop it now, you're scaring your Mom.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Hey, doggie, God call you home.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,This is one way to get Trump out of our lives.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,i cant see the picture for some reason :(,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"A little to the left. No, donw, down. Ahhhh, right there.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,My science professor was right: nature abhors a vacuum.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,This tanning bed is crummy.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I haven't had a bagel in eight hundred years.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Okay , kid, hand over the lamp or you're toast.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,My science professor was right: nature abhors a vacuum.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,This tanning bed is crummy.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I haven't had a bagel in eight hundred years.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Okay , kid, hand over the lamp or you're toast.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Two rubs for toast, three for coffee.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,"Go home, aliens! You suck!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I'm the Endless Bagel genie. You want boundless energy?- talk to Mr. Coffee.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Go home, aliens! You suck!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I'm the Endless Bagel genie. You want boundless energy?- talk to Mr. Coffee.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,The cleanliness of the cats is way overrated.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,586
-4498,How would you know what it looks like?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,My summer home is in the desert.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Sorry I switched, but the Carbon tax was getting to high!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Just a plastic bag? We think not!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,What the ruff-ruff-ruff!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,OK! Now rub the coffee container.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Please, could you pull the plug on my neighbour?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Oy! You vant a bagel perhaps?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Rover will protect us,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,How would you know what it looks like?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,My summer home is in the desert.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Sorry I switched, but the Carbon tax was getting to high!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Just a plastic bag? We think not!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,What the ruff-ruff-ruff!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,OK! Now rub the coffee container.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Please, could you pull the plug on my neighbour?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Oy! You vant a bagel perhaps?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Rover will protect us,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"IF you don't make a wish, I'm toast.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,"Received my NewYorker this afternoon, 7/25/17; and I had such a great caption.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Take us to the great Dyson.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Put your pant on, the cartoon might start loading.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"I'm adapting, kiddo!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Do you speak English?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"It is a bit crumby, but I do prefer the second room!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I'd rather toasty than steamy.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,What the blank!?!?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Received my NewYorker this afternoon, 7/25/17; and I had such a great caption.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Take us to the great Dyson.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Put your pant on, the cartoon might start loading.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"I'm adapting, kiddo!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Do you speak English?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"It is a bit crumby, but I do prefer the second room!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I'd rather toasty than steamy.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,What the blank!?!?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Hey wait, that's not a swamp.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,Looks like there finally trying to clean things up.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"I told you the dog looked like an over sized ""Dust Bunny""!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Looks like there finally trying to clean things up.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"I told you the dog looked like an over sized ""Dust Bunny""!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Their testing the new Dyson Municipal Puppy Cleaner,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,What do they want?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I told you Mars sucks,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"ITS NOT FOR THE DOGGY CRAP , ITS FOR US IF WE DONT REMOVE THE DOGGY CRAP !!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,This alien takeover really sucks!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Boy- that sucks!!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Oh God, it’s the tax collectors.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,What do they want?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I told you Mars sucks,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"ITS NOT FOR THE DOGGY CRAP , ITS FOR US IF WE DONT REMOVE THE DOGGY CRAP !!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,This alien takeover really sucks!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Boy- that sucks!!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Oh God, it’s the tax collectors.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,The Chipotle is two blocks south!,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,586
-4498,"I still think this better than his ""Great Wall"" idea.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"I still think this better than his ""Great Wall"" idea.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Whoa, I guess I get it now.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
 4498,"I never thought I'd say it, but Toto - knock yourself out.",1.0,0.0363696483726654,28.0,28.0,0.0,0.0,586
-4498,"The fault, dear Earthlings, is not in the hair, but in your dogs.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,He scrapped the wall and went with this. Better show'em your green card.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Scottie's not so keen about this new stoop-and-scoop thing.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I read that it has the largest Heppa filter ever made!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"The fault, dear Earthlings, is not in the hair, but in your dogs.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,He scrapped the wall and went with this. Better show'em your green card.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Scottie's not so keen about this new stoop-and-scoop thing.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I read that it has the largest Heppa filter ever made!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,See? I told you Chicago sucks!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,Looks like they're remaking Dumbo for the space age,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Can you be more specific?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Looks like they're remaking Dumbo for the space age,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Can you be more specific?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Ugh, aliens suck.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,"Suck you, too, Earthlings.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Hoover honey, the aliens are coming!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Suck you, too, Earthlings.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Hoover honey, the aliens are coming!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,I guess Elon Musk does have the Midas touch.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,586
-4498,It lacks a human element.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"See, honey? We're not the only ones without a Dyson.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Gotta love vintage design with a modern functionality...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I told you we should have upgraded to Amazon Prime.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,The dog was right the whole time.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,It lacks a human element.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"See, honey? We're not the only ones without a Dyson.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Gotta love vintage design with a modern functionality...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I told you we should have upgraded to Amazon Prime.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,The dog was right the whole time.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Oh, good, we don't have to clean up after the dog anymore. The eath-vac will take care of it now.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
 4498,"On the bright side, Fluffy's lost his fear of vacuums.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,"Dammit, Dyson!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"What's that?!"" ""It's an AVACS, the new Airborne Vacuum and Cleanup System, looking for uncollected poop.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Dammit, Dyson!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"What's that?!"" ""It's an AVACS, the new Airborne Vacuum and Cleanup System, looking for uncollected poop.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Never mind. Turns out it's only a false vacuum.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,Are you feeling the horror vacui just as I am?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I don't know why he always barks at vacuum cleaners!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"If they do what I'm thinking, that will really suck.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Are you feeling the horror vacui just as I am?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I don't know why he always barks at vacuum cleaners!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"If they do what I'm thinking, that will really suck.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"They may be great engineers to have come this far, but their spaceship designers suck!",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,"Man, just could really suck!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Man, just could really suck!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,That's the biggest pooper scooper I've ever seen!,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,586
-4498,Oh no! Looks like we are going to dyson.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Oh no! Looks like we are going to dyson.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,This weather sucks.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,The future sucks.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Do you think that this is something like draining the swamp.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,We're here to clean up the mess you humans made!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,It's a NASA pooper-scooper.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Smogians are back. Must have heard about the push for more coal.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"No! I don't want a vacuum cleaner for my birthday,"" you said. ""They just aren't exciting.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,It's ove. Our Dust Devil can't even compete with that.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Look it's the government's new dog poo vac.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,The dust bunnies take their revenge,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Space really is a vacuum!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Don't worry. They are just trying to intimidate us.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I hope our next dog doesn't have fleas.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Rover senses that it runs on dog meat.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,The future sucks.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Do you think that this is something like draining the swamp.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,We're here to clean up the mess you humans made!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,It's a NASA pooper-scooper.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Smogians are back. Must have heard about the push for more coal.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"No! I don't want a vacuum cleaner for my birthday,"" you said. ""They just aren't exciting.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,It's ove. Our Dust Devil can't even compete with that.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Look it's the government's new dog poo vac.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,The dust bunnies take their revenge,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Space really is a vacuum!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Don't worry. They are just trying to intimidate us.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I hope our next dog doesn't have fleas.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Rover senses that it runs on dog meat.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"When the neighbors finally get their ""no dog poop"" legislation passed.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,It's a Dyson--resistance is futile.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Bad Hombre Icecuum,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,RELAX. THE FIRST BAG IS FREE.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,It's a Dyson--resistance is futile.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Bad Hombre Icecuum,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,RELAX. THE FIRST BAG IS FREE.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,This 'outdoor cleaning' thing is getting out of hand.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,586
-4498,So much for folks who don't pick up Fido's poop!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,The city is getting serious about cleaning up after your dog.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,So much for folks who don't pick up Fido's poop!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,The city is getting serious about cleaning up after your dog.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,I wish I brought a plastic poop bag for myself too,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,"Do you think for $20, they'll do our upstairs?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,So they were warning us the whole time.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Who's a good boy? Who's a good boy? That's right, you are! Haha, okay, now get in the tube.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Watch out for S.U.C. (Stupid Un-american Creeps.) They're on the warpath these days.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Are they coming to pick up the poop or to influence our elections? Either way it's a bunch of crap.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Honey, that's a great commercial. I want this vacuum home. Check the price, please.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Scoot off, you're scaring the dog.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Every month a tenant wins the drawing to pitch their startup in the lobby.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Clean them up, x2P0!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Do you think for $20, they'll do our upstairs?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,So they were warning us the whole time.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Who's a good boy? Who's a good boy? That's right, you are! Haha, okay, now get in the tube.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Watch out for S.U.C. (Stupid Un-american Creeps.) They're on the warpath these days.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Are they coming to pick up the poop or to influence our elections? Either way it's a bunch of crap.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Honey, that's a great commercial. I want this vacuum home. Check the price, please.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Scoot off, you're scaring the dog.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Every month a tenant wins the drawing to pitch their startup in the lobby.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Clean them up, x2P0!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"I wasn't worried about the visitors from the planet Hoover until I saw the name of their flagship, ""L'il Sucker"".",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,You there! Take us to your leader!!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,This EPA environmental clean-up is getting out of control.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,How do you like our new Roomba?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"But, you know that I have been considering moving to another planet.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I hear Hoover's part of the family portfolio now.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Dyson is way greener, his runs on dog hair. Elon's still burns fuel.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Damn, where's our TSA PreCheck?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,The mayor is really working on our pigeon problem.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,It's the sucking Hooverites.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Honey look we must be a finalist in the Publishers Clearing House Sweepstakes!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,The outsourcing of the public services has gone too far.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Honey, did you forget to pay the water bill?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,You there! Take us to your leader!!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,This EPA environmental clean-up is getting out of control.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,How do you like our new Roomba?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"But, you know that I have been considering moving to another planet.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I hear Hoover's part of the family portfolio now.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Dyson is way greener, his runs on dog hair. Elon's still burns fuel.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Damn, where's our TSA PreCheck?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,The mayor is really working on our pigeon problem.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,It's the sucking Hooverites.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Honey look we must be a finalist in the Publishers Clearing House Sweepstakes!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,The outsourcing of the public services has gone too far.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Honey, did you forget to pay the water bill?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,We'll have this planet cleaned up in no time.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,This high pressure system is out of this world.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,This high pressure system is out of this world.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Could you just Hoover over them?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,I told you today was garbage removal day.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,I told you today was garbage removal day.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,I told you to bring a poop pouch,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,586
 4498,I always wondered what the inside looked like.......,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,"No doubt, it's Hoovering above us.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"""They come from planet Electrolux"".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,The grass really must be greener.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I'd rather see them out here cleaning the sidewalks than sitting in a storage shed collecting dust.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Molly, it's time to earn that 'emotional support animal' vest I knitted for you.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,NAFTA (Intergalactic style),1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"No doubt, it's Hoovering above us.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"""They come from planet Electrolux"".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,The grass really must be greener.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I'd rather see them out here cleaning the sidewalks than sitting in a storage shed collecting dust.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Molly, it's time to earn that 'emotional support animal' vest I knitted for you.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,NAFTA (Intergalactic style),1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,The POOP SCOOPER commeth!!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,It's part of that new Madison Avenue ad campaign for vacuum cleaners.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Cat dreams...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"No, no, no... He wants us to SAVE him. Listen again. He didn't say 'master' and 'protect'. He said 'bastard' and 'defect'.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"On the other hand, we won’t need the doggy poop bags.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I'd heard Facebook was starting a hardware division. But who's at the controls?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Why are they using that attachment?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I heard their cleaning service eliminates doggie bags.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Well, science does tell us that space is a vacuum...",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Their health care and tax plans just suck; they should give up now and go back to where they came from.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Global warming? No, climate change.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Enough, stop teasing and show them the Pepper's doggie bag before the get any closer.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,You said he was shedding too much.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,That's weird. He never barks at our Dyson.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Doris, look, it's our old Electrolux, coming to scoop us up.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Can we get close enough to the White House to suck up Trump?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Honey, is that the hoover I ordered on Prime Air?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,It's part of that new Madison Avenue ad campaign for vacuum cleaners.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Cat dreams...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"No, no, no... He wants us to SAVE him. Listen again. He didn't say 'master' and 'protect'. He said 'bastard' and 'defect'.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"On the other hand, we won’t need the doggy poop bags.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I'd heard Facebook was starting a hardware division. But who's at the controls?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Why are they using that attachment?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I heard their cleaning service eliminates doggie bags.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Well, science does tell us that space is a vacuum...",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Their health care and tax plans just suck; they should give up now and go back to where they came from.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Global warming? No, climate change.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Enough, stop teasing and show them the Pepper's doggie bag before the get any closer.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,You said he was shedding too much.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,That's weird. He never barks at our Dyson.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Doris, look, it's our old Electrolux, coming to scoop us up.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Can we get close enough to the White House to suck up Trump?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Honey, is that the hoover I ordered on Prime Air?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Oh no. We're sticking in a ""giant sucking sound"" gag from 1992.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
 4498,Sputnik?,1.0,0.039223227027636816,26.0,26.0,0.0,0.0,586
-4498,Forget it. I just ordered new carpeting for the mothership.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Wow, and you thought the movie sucked.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Not again. They cleaned me out last time.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Forget it. I just ordered new carpeting for the mothership.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Wow, and you thought the movie sucked.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Not again. They cleaned me out last time.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Damn!,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,586
 4498,How about for travel points and extra leg room?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,"""Don't be frightened Honey, nothing exists in a vacuum"".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,They claim the Hoover building has made them the laughing stock of the universe.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"""Don't be frightened Honey, nothing exists in a vacuum"".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,They claim the Hoover building has made them the laughing stock of the universe.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"So, Fido's fears didn't form in a vacuum... No,wait!",1.0,0.03774256780481986,27.0,27.0,0.0,0.0,586
 4498,"When they're through picking up specimens, the dog hairs on my carpet could use a nice vacumning.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,"What's that?"" ""I drone know",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,SHNERZIT! The plug came out again.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"What's that?"" ""I drone know",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,SHNERZIT! The plug came out again.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Well that's just the compact pooper-scooper. You should see what they use when you're walking a Great Dane.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,I told you we should have stayed in Los Angeles.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,I told you we should have stayed in Los Angeles.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"'Don't worry, their planet sucks'",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,"In the big picture, we're actually just a speck of dust",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Either the need fuel or it's the new Poop'NVac.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,The martians are neat freaks too?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Do you think they'd be willing to pick up the leafs off our lawn?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,It's a miracle! We're saved!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,They're here.....and they're germaphobes!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"In the big picture, we're actually just a speck of dust",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Either the need fuel or it's the new Poop'NVac.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,The martians are neat freaks too?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Do you think they'd be willing to pick up the leafs off our lawn?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,It's a miracle! We're saved!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,They're here.....and they're germaphobes!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"OK, so today is clean up day for Justin's room.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,These UFO conspiracy theories really suck.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Uh oh, they've finally realized that we're the ones making the mess.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Hi, I’m here from outer space... it’s me, the giant vacuum!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,These UFO conspiracy theories really suck.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Uh oh, they've finally realized that we're the ones making the mess.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Hi, I’m here from outer space... it’s me, the giant vacuum!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Man, this is going to really suck.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,Look out! His pet hair is no match for their intergalactic suction!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Hoover up, Earthlings!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Look! It's that new mobile dog grooming service.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Geoengineering terrifies me.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,That’s the new way to clean up doggy pu.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Man, this job really sucks.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,The rumors are true: James Dyson is taking over the world!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Look out! His pet hair is no match for their intergalactic suction!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Hoover up, Earthlings!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Look! It's that new mobile dog grooming service.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Geoengineering terrifies me.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,That’s the new way to clean up doggy pu.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Man, this job really sucks.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,The rumors are true: James Dyson is taking over the world!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Have you seen my baby?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,The dog is right! These vacuums suck.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Hover!!! Not Hoover!!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Everything sucks.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Another sucky day.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,The dog is right! These vacuums suck.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Hover!!! Not Hoover!!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Everything sucks.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Another sucky day.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Hoover meets Rover.,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,586
-4498,We're from planet Shag take us to your filter store.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Hoover meets Rover.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,We're from planet Shag take us to your filter store.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Hoover meets Rover.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,I always knew that E.T. sucked.,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,586
-4498,"Yeah, it's amazing, but I'm still waiting for him to deliver my Tesla.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Yeah, it's amazing, but I'm still waiting for him to deliver my Tesla.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,They insisted on an evacuation plan and under the circumstances I'm pretty pleased with what I came up with.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,So that’s what he’s been trying to tell us.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"During the Pleistocene, they arrive in a snow plow.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Uh-oh. Now you've done it, dear. Lipreading the words 'FU' is the same as ""VACUUM'",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,That's optimistic.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,May Dyson protect us!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"I'm telling you, that vacuum's suction power is out of this world",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I told you this new immigration enforcement stuff would really suck.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"If they'll come to our house, they must be friendly.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I thought he was crying wolf,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,So that’s what he’s been trying to tell us.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"During the Pleistocene, they arrive in a snow plow.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Uh-oh. Now you've done it, dear. Lipreading the words 'FU' is the same as ""VACUUM'",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,That's optimistic.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,May Dyson protect us!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"I'm telling you, that vacuum's suction power is out of this world",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I told you this new immigration enforcement stuff would really suck.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"If they'll come to our house, they must be friendly.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I thought he was crying wolf,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,It's a sign that our lives are about to suck.,1.0,0.039223227027636816,26.0,26.0,0.0,0.0,586
-4498,I think we are about to get sucked into something.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Gee, I thought it was going to be NAFTA.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"It's the new ""Hovering Hoover"" pooper scooper.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,I think we are about to get sucked into something.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Gee, I thought it was going to be NAFTA.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"It's the new ""Hovering Hoover"" pooper scooper.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"""I'd rate the threat higher when they hoover over us like that"".",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,I'm not a fan of Facebook's new Roomba competitor.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Visitors from the vacuum of space,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"...alien abduction, again? That sucks!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,I'm not a fan of Facebook's new Roomba competitor.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Visitors from the vacuum of space,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"...alien abduction, again? That sucks!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,I don't see what you're complaining about. That's sucking the life out of you Marge.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,Close encounters of the sucky kind.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Close encounters of the sucky kind.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,No problem. It's just big data sucking up your every movement.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,"I always thought being abducted by aliens might be kind of interesting; but then too, I guess I was assuming it would be a more high-tech experience.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Must be the North Koreans.....,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Looks like we're heading into a low pressure zone ahead...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,It looks like they are cleaning up the neighborhood again.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Step away from the humans.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Sorry, works only on house current.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,It's all in the baking soda.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Just when I thought things couldn't get more sucky.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,The crevice tool never looked some air worthy.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"I always thought being abducted by aliens might be kind of interesting; but then too, I guess I was assuming it would be a more high-tech experience.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Must be the North Koreans.....,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Looks like we're heading into a low pressure zone ahead...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,It looks like they are cleaning up the neighborhood again.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Step away from the humans.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Sorry, works only on house current.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,It's all in the baking soda.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Just when I thought things couldn't get more sucky.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,The crevice tool never looked some air worthy.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Inception-ing the dog was one of our lesser ideas.,1.0,0.039223227027636816,26.0,26.0,0.0,0.0,586
-4498,"Wow! Even aliens think our air needs cleaning from those polluting gas, oil and coal industries screwing up our atmosphere !",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Uh-oh, this sucks.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,This town does suck!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"*Eartlings, beware of The Great Hoovercraft. It sucks.*",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"It appears to be upsetting ""Dusty""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,The recent decision making amongst your kind has prompted us to acquire further testing...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I was hoping that a black hole would be a little more exotic,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Wow! Even aliens think our air needs cleaning from those polluting gas, oil and coal industries screwing up our atmosphere !",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Uh-oh, this sucks.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,This town does suck!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"*Eartlings, beware of The Great Hoovercraft. It sucks.*",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"It appears to be upsetting ""Dusty""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,The recent decision making amongst your kind has prompted us to acquire further testing...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I was hoping that a black hole would be a little more exotic,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Wall or no wall, first let's suck out the trench diggers!",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,Hold the dog and don't move.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Great, I forgot the dog poop bag.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,It's inspiring.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,It's a Hovering Hoover!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Timothy was right; aliens DO suck after all!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Hold the dog and don't move.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Great, I forgot the dog poop bag.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,It's inspiring.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,It's a Hovering Hoover!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Timothy was right; aliens DO suck after all!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Is this the vacuum energy that causes dark energy?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,I know that these work picking up dust but will it work with humans???,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Not without our therapy dog!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Abhor this!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,We seek your leader; Jonathan Fishman,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,That's no Hoover. That's a Hover.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"""Look, it's Tom Price and Scott Pruitt"".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Way too elaborate for sucking up leaves.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,A new way of thinking.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,The dust mite's just spite: must mites just bite?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,I know that these work picking up dust but will it work with humans???,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Not without our therapy dog!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Abhor this!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,We seek your leader; Jonathan Fishman,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,That's no Hoover. That's a Hover.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"""Look, it's Tom Price and Scott Pruitt"".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Way too elaborate for sucking up leaves.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,A new way of thinking.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,The dust mite's just spite: must mites just bite?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Now we know, this is huge—the really biggest suckup in the universe.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,those aliens fucken suck lol. they suck dick lmao,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Be quiet hair-ball! Let's just pray they didn't see us!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,those aliens fucken suck lol. they suck dick lmao,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Be quiet hair-ball! Let's just pray they didn't see us!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Their civilization is so far advanced that we're just dust bunnies to them.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
 4498,"I've always wondered whether aliens would see us as ""dust.""",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,"That UFO is an older model, must have come through a Time Warp!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"That UFO is an older model, must have come through a Time Warp!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,' maybe they're just draining the swamp?',1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,I told you city life would suck the life out of us.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,We have spotted the last true Liberals in America...collection in progress vanishing species zoo.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"""I think they come from the planet Dyson"".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,We are hoovering on the brink of invading you,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"That's not exactly what the Mayor meant when he said we need to ""clean up the city"".",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,I told you city life would suck the life out of us.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,We have spotted the last true Liberals in America...collection in progress vanishing species zoo.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"""I think they come from the planet Dyson"".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,We are hoovering on the brink of invading you,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"That's not exactly what the Mayor meant when he said we need to ""clean up the city"".",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Do you think they're available for weekends?,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,I had no idea they still made canister vacuums.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Now, how is Buffy suppose to concentrate?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Wow, can you believe that? This is like winning lotto without buying a ticket, the odds of such an event are astronomical!!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,They call themselves the Electrolux.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,We shouldn't have given up on the Roomba.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Do you ever just stop and think about the great vacuum of space?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Invoking the Pottery Barn Rule.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Let's hire them for our summer villa in the Hamptons.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,I had no idea they still made canister vacuums.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Now, how is Buffy suppose to concentrate?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Wow, can you believe that? This is like winning lotto without buying a ticket, the odds of such an event are astronomical!!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,They call themselves the Electrolux.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,We shouldn't have given up on the Roomba.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Do you ever just stop and think about the great vacuum of space?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Invoking the Pottery Barn Rule.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Let's hire them for our summer villa in the Hamptons.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,See I told you space vacuum's exist,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,Vacuumed by Their wobbly appendage,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I hate it when Mom makes us clean our room.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Well, they did tell us in school that just beyond the earth's atmosphere lies the vacuum of space.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Fleas in the carpet again...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Vacuumed by Their wobbly appendage,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I hate it when Mom makes us clean our room.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Well, they did tell us in school that just beyond the earth's atmosphere lies the vacuum of space.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Fleas in the carpet again...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Is it Hoover or hover?,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,586
-4498,"Here we go - dust to dust"" ""Excuse me Sir, which way to Hoover's grave ?",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Here we go - dust to dust"" ""Excuse me Sir, which way to Hoover's grave ?",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,It's the new Uber. Getting on and off is really a pain,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,586
-4498,I told you to bring a poop bag.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Don't worry, hon. It's probably Google's answer to air pollution.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Here comes that 'Face Book' again.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Good luck, Trump already sucked the life out of us.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,I told you to bring a poop bag.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Don't worry, hon. It's probably Google's answer to air pollution.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Here comes that 'Face Book' again.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Good luck, Trump already sucked the life out of us.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Proving once again, winter sucks.",1.0,0.0408248290463863,25.0,25.0,0.0,0.0,586
 4498,See? I told you the Wall wouldn't protect us from aliens!,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,My wife has upgraded from her flying broom......,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Wow they really meant it when they said out of this world service!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,We're about to be sucked into another carry on bag fee.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Ha-ha. The dog thinks it's a tail.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"""It's so cute how he always barks at the vacuum cleaner.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Well, the mayor did promise to clean up the town.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"I'm trying to get closer, but we keep hoovering.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,My wife has upgraded from her flying broom......,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Wow they really meant it when they said out of this world service!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,We're about to be sucked into another carry on bag fee.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Ha-ha. The dog thinks it's a tail.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"""It's so cute how he always barks at the vacuum cleaner.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Well, the mayor did promise to clean up the town.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"I'm trying to get closer, but we keep hoovering.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Could this day possibly suck anymore than this?,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,So much for not living in a vacuum.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,So much for not living in a vacuum.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Oh no, another alien in-suction.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,"Earthlings look so alike, it's hard to choose just one for our souvenir.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,SHALL WE GO FOR A CLEAN SWEEP??,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Is that the alien equivalent of Steampunk?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Earthlings look so alike, it's hard to choose just one for our souvenir.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,SHALL WE GO FOR A CLEAN SWEEP??,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Is that the alien equivalent of Steampunk?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Quick honey, let's build a wall the job sucking aliens are coming",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,Dyson has a much better design.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I thought Hoover was dead!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I didn't realize that Dyson had gone interplanetary.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,What kind of dust bunnies does this clean-up?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I really hope it finds my car,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Dyson has a much better design.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I thought Hoover was dead!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I didn't realize that Dyson had gone interplanetary.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,What kind of dust bunnies does this clean-up?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I really hope it finds my car,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,I knew we should have purchased that Alien vacuum cleaner for the excess dog hair!,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
 4498,I told you they named a planet after Herbert Hoover.,1.0,0.039223227027636816,26.0,26.0,0.0,0.0,586
 4498,"By gosh, Fifi was right about vacuums!",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,Who orders a vacuum from Amazon?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Time for the 21st century hooverboard.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"If dust mites and pocket lint don't work, maybe a shaggy dog will.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Who orders a vacuum from Amazon?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Time for the 21st century hooverboard.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"If dust mites and pocket lint don't work, maybe a shaggy dog will.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Do you think they work on commission?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,"Is that the rapture?"" ""No, the Hoover",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Relax, she’s just peeing! This city’s “curb your dog” enforcement is strict.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Is that the rapture?"" ""No, the Hoover",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Relax, she’s just peeing! This city’s “curb your dog” enforcement is strict.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"No, you idiot! I said he was hypoallergenic!",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
 4498,Don't get swept off your feet by alien facts.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,Looks like it's just a rental.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Looks like it's just a rental.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Your eyelids are growing heavy.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,I get the feeling we've seen them before.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,No hassle. It’s a Dyson.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I'll just explain I left the burner on under the stew.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,I get the feeling we've seen them before.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,No hassle. It’s a Dyson.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I'll just explain I left the burner on under the stew.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"The city's new trash removal service has been working out great so far, and apparently none of its employees are technically illegal.",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,"Quick, move the car. Its alternate side parking.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Looks like they are here to eliminate all disgrace from the world"" ""But they are aiming right at us"" ""Yeah, that's the point...",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Quick, move the car. Its alternate side parking.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Looks like they are here to eliminate all disgrace from the world"" ""But they are aiming right at us"" ""Yeah, that's the point...",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,That mural sucks.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,This job REALLY sucks,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,This job REALLY sucks,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Now I get what they meant by the vacuum of space,1.0,0.03774256780481986,27.0,27.0,0.0,0.0,586
-4498,"I don't personally mind the new ship models, but they scare the hell out of dogs.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"I don't personally mind the new ship models, but they scare the hell out of dogs.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Looks like we are going back to the future in a Hoover,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
 4498,What? Our Dyson's in the shop.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,586
 4498,The space exploration budget on Klargonn IV had suffered greatly under the new government.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,Hark! Hear the hovering hoover! Fear it!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Instead of frightening us, I wish they would vacuum our guest room.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Hark! Hear the hovering hoover! Fear it!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Instead of frightening us, I wish they would vacuum our guest room.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,What a suck up!,1.0,0.0363696483726654,28.0,28.0,0.0,0.0,586
 4498,Visitors from the Intergalactic Vacuum!!!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,"Uh, Michelin says the food here is ok, but the atmosphere's not that great.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I miss the time of mermaids and dragons.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Must be a Dyson.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Uh, Michelin says the food here is ok, but the atmosphere's not that great.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I miss the time of mermaids and dragons.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Must be a Dyson.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Yup, I TOLD you BooBoo has been trying to warn us.",1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,Hold on to the leash--pet hair is dogged!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,They must be looking for dark matter.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Make believe you don)see them,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Hey man, I don't suck up to anybody!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Hold on to the leash--pet hair is dogged!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,They must be looking for dark matter.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Make believe you don)see them,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Hey man, I don't suck up to anybody!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"Spot agrees, we deserve more respect.",1.0,0.0408248290463863,25.0,25.0,0.0,0.0,586
-4498,Well that explains the vacuum of Space.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Skip them. We already have a yappy dog.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Well that explains the vacuum of Space.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Skip them. We already have a yappy dog.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,"So, Hoover is no longer President!",1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,I thought the 'vacuum of space' would leave me breathless.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,He hates the vacuum cleaner of our alien overlords.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,So I think that the machine is sucking the guy because he is fed up of everything and doesn't want to live anymore.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,It's Amazon Intergalactic with the Poop Scoop 2500!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,So that's what she was trying to tell us.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Your nature abhors us.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,They better scoop its poop or we scoop the pooch!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Just suck them up Saturny,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,I thought the 'vacuum of space' would leave me breathless.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,He hates the vacuum cleaner of our alien overlords.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,So I think that the machine is sucking the guy because he is fed up of everything and doesn't want to live anymore.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,It's Amazon Intergalactic with the Poop Scoop 2500!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,So that's what she was trying to tell us.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Your nature abhors us.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,They better scoop its poop or we scoop the pooch!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Just suck them up Saturny,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,I guess Macy's is still cleaning up.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,Just intake the little one. I'm sick of hearing the same stupid joke about a vacuum in space.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I think they meant tree bark.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"'Those darned vacuous aliens!""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Abort !,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Area 1951.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Maybe they just want poop sacks.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Amazingly quiet. Must be a Dyson.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Now if they only weren't aliens Trump could use this rather than building his wall!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Think this is what Aristotle had in mind?,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Just intake the little one. I'm sick of hearing the same stupid joke about a vacuum in space.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I think they meant tree bark.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"'Those darned vacuous aliens!""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Abort !,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Area 1951.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Maybe they just want poop sacks.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Amazingly quiet. Must be a Dyson.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Now if they only weren't aliens Trump could use this rather than building his wall!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Think this is what Aristotle had in mind?,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Great! Like ours wasn't bad enough!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
 4498,It's those cutbacks on the national security obtaining classified data,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,586
-4498,"Oh, no! Vacuum Man is on a suicide mission for himself and his regime!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Oh, no! Vacuum Man is on a suicide mission for himself and his regime!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Apparently this is the new snow removal system.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,Another ordinary walk in another ordinary day.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Another ordinary walk in another ordinary day.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Take us to your leader's son - we have dirt on Hillary.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,Gore is going for another Nobel.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Gore is going for another Nobel.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,What? Haven't they ever seen a hoovercraft?,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,"As far as alien invasions go, this sucks",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"As far as alien invasions go, this sucks",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,So THAT’S how the pet hair attachment works!,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
-4498,I ordered a Pooper black they cleanup faster.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Just what we suspected, dear, we're far superior."" ""Not what we expected, sir, they're far inferior.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,WeettwiiI I'm,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,That's one way to clean up this mess.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Vacuum failing.Mall in sight.Advise.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,I ordered a Pooper black they cleanup faster.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Just what we suspected, dear, we're far superior."" ""Not what we expected, sir, they're far inferior.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,WeettwiiI I'm,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,That's one way to clean up this mess.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Vacuum failing.Mall in sight.Advise.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Their maid service is out of this world.,1.0,0.0408248290463863,25.0,25.0,0.0,0.0,586
-4498,Never imagined globalization of dog pile cleanup service would spread to Mars,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Is this the famous ""vacuum of space?""",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,and don't forget those hard to clean areas where dust species lurk,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Of course, Overlord Hoover, we disposed of our Dyson, just as you asked...",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,They tricked us! The ship's controls are outside!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,"Not to worry, I hear the Brits view Hoovering with equanimity.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Never imagined globalization of dog pile cleanup service would spread to Mars,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Is this the famous ""vacuum of space?""",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,and don't forget those hard to clean areas where dust species lurk,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Of course, Overlord Hoover, we disposed of our Dyson, just as you asked...",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,They tricked us! The ship's controls are outside!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,"Not to worry, I hear the Brits view Hoovering with equanimity.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Who said life can't live in a vacuum?,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
 4498,We first need to vacuum the greenhouse gases before landing,1.0,0.035093120317179816,29.0,29.0,0.0,0.0,586
-4498,Feels like it's either clogged or the bag needs changed.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Getting captured by aliens really sucks.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,Feels like it's either clogged or the bag needs changed.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Getting captured by aliens really sucks.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,Buster abhors vacuums.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,And that goes for your little dog too...,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,This weekend is going to literally suck.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,I told you to pick up a new bag.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,And that goes for your little dog too...,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,This weekend is going to literally suck.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,I told you to pick up a new bag.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,I thought you said we were going to clean the living room.,1.0,0.04256282653793743,24.0,24.0,0.0,0.0,586
-4498,"Harold, confirming with his wife that she also sees aliens from the vacuum of space, is momentarily relieved just prior to the inevitable swooshing high pitched sound of Fe-Fe getting stuck.",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,It must remind her of the elephant she tangled with last week.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,Take us to your flood relief leader.,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
-4498,We need to teach them what 'living in a vacuum' really means!,1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Harold, confirming with his wife that she also sees aliens from the vacuum of space, is momentarily relieved just prior to the inevitable swooshing high pitched sound of Fe-Fe getting stuck.",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,It must remind her of the elephant she tangled with last week.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,Take us to your flood relief leader.,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
+4498,We need to teach them what 'living in a vacuum' really means!,1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586
 4498,I told you food chains were a thing.,1.0,0.046524210519923545,22.0,22.0,0.0,0.0,586
 4498,Hoovering might turn up something exotic.,1.0,0.04445542244743871,23.0,23.0,0.0,0.0,586
-4498,"Hi, my name is Genie, and I have a secret!",1.0,0.04879500364742666,21.0,21.0,0.0,0.0,586
+4498,"Hi, my name is Genie, and I have a secret!",1.0,0.048795003647426664,21.0,21.0,0.0,0.0,586

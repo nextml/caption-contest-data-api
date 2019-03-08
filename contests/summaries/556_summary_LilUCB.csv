@@ -1,5 +1,5 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
-1,I think I like the French maid outfit better.,1.8968526020567158,0.01385752663908385,3209.0,1171.0,1198.0,840.0,556
+1,I think I like the French maid outfit better.,1.896852602056716,0.01385752663908385,3209.0,1171.0,1198.0,840.0,556
 2,Making fission chips?,1.8907980145093548,0.016962328221803852,2619.0,1145.0,615.0,859.0,556
 3,So...how did your first husband die?,1.7652622527944968,0.022446779374687455,1163.0,509.0,418.0,236.0,556
 4,"So, not tonight?",1.744888023369036,0.024201384744355244,1027.0,473.0,343.0,211.0,556
@@ -35,7 +35,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 33,What's for launch?,1.5987780040733195,0.034596068112601415,491.0,282.0,124.0,85.0,556
 35,"None for me, thanks.",1.5975359342915811,0.03434081220708115,487.0,277.0,129.0,81.0,556
 36,"A simple ""not tonight, dear"" would have sufficed...",1.5967078189300412,0.033017128993409,486.0,266.0,150.0,70.0,556
-37,Are you sure it calls for mustard gas?,1.595876288659794,0.034708817636369384,485.0,279.0,123.0,83.0,556
+37,Are you sure it calls for mustard gas?,1.5958762886597941,0.034708817636369384,485.0,279.0,123.0,83.0,556
 38,"Martha, Congress isnt repealing the Clean Air Act until next week.",1.5945945945945943,0.03444603845013158,481.0,274.0,128.0,79.0,556
 39,Eggs quarantine? My favorite.,1.5929018789144052,0.03482093566007076,479.0,276.0,122.0,81.0,556
 40,Shall I set the periodic table?,1.5925155925155925,0.035449119255862416,481.0,283.0,111.0,87.0,556
@@ -63,7 +63,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 62,You seem distant.,1.5456852791878173,0.037494066814237635,394.0,239.0,95.0,60.0,556
 63,So the cat can stay?,1.5376623376623375,0.03907271153141341,385.0,243.0,77.0,65.0,556
 64,You look hot in that outfit.,1.5309973045822105,0.03743754966009895,371.0,224.0,97.0,50.0,556
-65,I am just saying that cooking together was more romantic before you started reading the labels.,1.5308310991957104,0.038050393836265864,373.0,229.0,90.0,54.0,556
+65,I am just saying that cooking together was more romantic before you started reading the labels.,1.5308310991957104,0.03805039383626586,373.0,229.0,90.0,54.0,556
 66,"So, hey, I've been meaning to ask you a little more about your late husband. . .",1.5297297297297296,0.036327104001236135,370.0,218.0,108.0,44.0,556
 67,Did you remember to wash your hands?,1.5284552845528456,0.0402463124700137,369.0,238.0,67.0,64.0,556
 68,You made your point. You can leave out the garlic.,1.5273224043715847,0.037834445780184287,366.0,223.0,93.0,50.0,556
@@ -94,7 +94,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 93,I love what you've done with your air.,1.4807692307692308,0.040081515714563816,312.0,201.0,72.0,39.0,556
 94,You need space. I get it.,1.4805194805194806,0.04073273376140641,308.0,200.0,68.0,40.0,556
 94,Then quit serving beans.,1.4805194805194806,0.041504337851918746,308.0,203.0,62.0,43.0,556
-96,"I'm sorry, Barbara. I like it! It just took me by surprise. I was thinking cheerleader, or a French maid.",1.478827361563518,0.03868849851705312,307.0,192.0,83.0,32.0,556
+96,"I'm sorry, Barbara. I like it! It just took me by surprise. I was thinking cheerleader, or a French maid.",1.4788273615635181,0.03868849851705312,307.0,192.0,83.0,32.0,556
 97,I get it. You need space.,1.4736842105263157,0.03950985546727792,304.0,194.0,76.0,34.0,556
 98,How's that media deprivation suit working out?,1.4735099337748343,0.040795817058492216,302.0,197.0,67.0,38.0,556
 98,A simple 'I have a headache' would suffice.,1.4735099337748343,0.035920321757946023,302.0,180.0,101.0,21.0,556
@@ -103,14 +103,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 100,"It's a cold sore, Karen!",1.4733333333333334,0.03905041572650962,300.0,189.0,80.0,31.0,556
 100,"Really, Dear...just because I caught it in the East River...",1.4733333333333334,0.03933486382903725,300.0,190.0,78.0,32.0,556
 104,Launch time?,1.4695945945945943,0.03913376512636555,296.0,187.0,79.0,30.0,556
-104,My mother used to wear an apron.,1.4695945945945943,0.040287325720816065,296.0,191.0,71.0,34.0,556
+104,My mother used to wear an apron.,1.4695945945945943,0.04028732572081607,296.0,191.0,71.0,34.0,556
 106,Should I be worried?,1.4677966101694917,0.04066835660353298,295.0,192.0,68.0,35.0,556
 106,Were they out of the Sexy French Maid costumes?,1.4677966101694917,0.03863281931762906,295.0,185.0,82.0,28.0,556
 106,I love what you've done with your air.,1.4677966101694917,0.04178702567516634,295.0,196.0,60.0,39.0,556
-109,I call it HazMac n' Cheese.,1.465986394557823,0.0401929166395926,294.0,190.0,71.0,33.0,556
+109,I call it HazMac n' Cheese.,1.4659863945578233,0.0401929166395926,294.0,190.0,71.0,33.0,556
 110,Is it just me or has our relationship turned toxic?,1.4657534246575343,0.041544570096549036,292.0,193.0,62.0,37.0,556
 111,It's not rocket science.,1.4620689655172414,0.0411739724858986,290.0,191.0,64.0,35.0,556
-111,I thought toxic relationship was a metaphor,1.4620689655172414,0.039396890811536786,290.0,185.0,76.0,29.0,556
+111,I thought toxic relationship was a metaphor,1.4620689655172414,0.03939689081153679,290.0,185.0,76.0,29.0,556
 111,"Well actually, one CAN be too careful.",1.4620689655172414,0.04059025755915336,290.0,189.0,68.0,33.0,556
 114,Is it launch time?,1.4618055555555556,0.04167825929196532,288.0,191.0,61.0,36.0,556
 115,"Honey, you put the ""astronomy"" in ""gastronomy.""",1.4599303135888502,0.042071955573192495,287.0,192.0,58.0,37.0,556
@@ -130,7 +130,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 128,What do you know that I don't know?,1.4472727272727273,0.04089013790848081,275.0,181.0,65.0,29.0,556
 128,I feel like you need space.,1.4472727272727273,0.03820550976038869,275.0,173.0,81.0,21.0,556
 128,That's one small crepe for a man.,1.4472727272727273,0.04185250027143974,275.0,184.0,59.0,32.0,556
-128,Is that a new outfit?,1.4472727272727273,0.039570597381298984,275.0,177.0,73.0,25.0,556
+128,Is that a new outfit?,1.4472727272727273,0.03957059738129898,275.0,177.0,73.0,25.0,556
 128,"I can't help but feel you're shutting me out, Susan.",1.4472727272727273,0.03889404294467228,275.0,175.0,77.0,23.0,556
 128,"""You look hot"".",1.4472727272727273,0.040235777333658206,275.0,179.0,69.0,27.0,556
 135,"Lately it seems like we're not even on the same planet, Marge.",1.4452554744525548,0.040332107066397366,274.0,179.0,68.0,27.0,556
@@ -154,7 +154,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 147,I'm guessing it's too soon for make-up sex.,1.4407407407407409,0.04074074074074075,270.0,178.0,65.0,27.0,556
 154,What do you mean you need space?,1.4402985074626866,0.04163573273747485,268.0,179.0,60.0,29.0,556
 154,"I don't know what you're cooking, but it smells out of this world!",1.4402985074626866,0.03957061307147526,268.0,173.0,72.0,23.0,556
-156,"I need space too, you know.",1.4365671641791045,0.038474175719755414,268.0,171.0,77.0,20.0,556
+156,"I need space too, you know.",1.4365671641791045,0.03847417571975541,268.0,171.0,77.0,20.0,556
 157,Message received...I'll fix the exhaust fan.,1.43609022556391,0.0390360393508664,266.0,171.0,74.0,21.0,556
 157,"Ok honey, I'll fix the damn kitchen fan!",1.43609022556391,0.042180181812770265,266.0,180.0,56.0,30.0,556
 159,Guess I better fix the exhaust fan.,1.4356060606060606,0.03812212998275311,264.0,167.0,79.0,18.0,556
@@ -249,7 +249,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 244,I guess you still need your space?,1.40084388185654,0.0437218930716648,237.0,167.0,45.0,25.0,556
 249,"So let me get this straight, you've already eaten, but you're whipping up something special for me?",1.4,0.04272922309892342,235.0,163.0,50.0,22.0,556
 249,"So I guess you still need space, huh?",1.4,0.04272922309892342,235.0,163.0,50.0,22.0,556
-251,"So, I guess this means I'm no longer the air you breathe?",1.3990610328638498,0.046366758090173266,213.0,151.0,39.0,23.0,556
+251,"So, I guess this means I'm no longer the air you breathe?",1.3990610328638498,0.04636675809017327,213.0,151.0,39.0,23.0,556
 252,"The recipe said, ""Cook, fully wrapped, for five minutes...""",1.3981042654028435,0.04668163388946407,211.0,150.0,38.0,23.0,556
 253,Where'd you find fresh Uranium?,1.3974358974358974,0.04410073420799552,234.0,166.0,43.0,25.0,556
 253,It's okay now. I've turned the news off.,1.3974358974358974,0.04368286068435021,234.0,165.0,45.0,24.0,556
@@ -321,7 +321,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 318,Would you rather go out?,1.3761467889908257,0.042427693160121835,218.0,153.0,48.0,17.0,556
 318,There's the doorbell. Might be my pizza.,1.3761467889908257,0.0443759043566668,218.0,157.0,40.0,21.0,556
 318,I thought we were taking the nuclear option off the table,1.3761467889908257,0.04669700807546751,218.0,162.0,30.0,26.0,556
-318,You haven't touched your wine.,1.3761467889908257,0.044849736037324534,218.0,158.0,38.0,22.0,556
+318,You haven't touched your wine.,1.3761467889908257,0.04484973603732453,218.0,158.0,38.0,22.0,556
 318,"None for me, thanks.",1.3761467889908257,0.042427693160121835,218.0,153.0,48.0,17.0,556
 318,Why do I feel like there's something you're not telling me?,1.3761467889908257,0.04292303672895357,218.0,154.0,46.0,18.0,556
 318,"Okay, I get it. You have a headache.",1.3761467889908257,0.0443759043566668,218.0,157.0,40.0,21.0,556
@@ -340,7 +340,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 331,"The word is 'poisson', not 'poison'.",1.3732718894009217,0.04400503881180829,217.0,156.0,41.0,20.0,556
 340,I'm sensing you need some space.,1.372093023255814,0.0442848847089226,215.0,155.0,40.0,20.0,556
 340,Julia Child only needed an apron.,1.372093023255814,0.04278720112718897,215.0,152.0,46.0,17.0,556
-340,Fine. I'll give you some space.,1.372093023255814,0.03962236380543727,215.0,146.0,58.0,11.0,556
+340,Fine. I'll give you some space.,1.372093023255814,0.039622363805437266,215.0,146.0,58.0,11.0,556
 340,I'm going to go ahead and guess that whatever you read was fake news.,1.372093023255814,0.0466743513005017,215.0,160.0,30.0,25.0,556
 340,"Yes, I smoked a cigarette in the house. Why?",1.372093023255814,0.04278720112718897,215.0,152.0,46.0,17.0,556
 340,I never should have told you how I voted.,1.372093023255814,0.04525581328336281,215.0,157.0,36.0,22.0,556
@@ -393,7 +393,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 383,I feel like we're in a toxic relationship.,1.3605769230769231,0.040880751586414486,208.0,145.0,51.0,12.0,556
 383,Weren't you wearing that same outfit yesterday?,1.3605769230769231,0.04309339141795122,208.0,149.0,43.0,16.0,556
 394,Wouldn't a divorce be easier?,1.3588516746411483,0.04072124316462945,209.0,146.0,51.0,12.0,556
-394,I get it. You want your own space.,1.3588516746411483,0.04183578485914741,209.0,148.0,47.0,14.0,556
+394,I get it. You want your own space.,1.3588516746411483,0.041835784859147414,209.0,148.0,47.0,14.0,556
 396,"Wow, dinner! One small step for mankind.",1.3574879227053138,0.04531052637086496,207.0,153.0,34.0,20.0,556
 396,This dinner better be out of this world.,1.3574879227053138,0.0426442636655606,207.0,148.0,44.0,15.0,556
 396,"You know I said, ""Mild"", right?",1.3574879227053138,0.0437302807462821,207.0,150.0,40.0,17.0,556
@@ -407,7 +407,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 396,Mother loves it when you use her recipe.,1.3574879227053138,0.041529856645635715,207.0,146.0,48.0,13.0,556
 396,Wouldn’t it just be easier to get rid of that Teflon frying pan?,1.3574879227053138,0.04426329822137129,207.0,151.0,38.0,18.0,556
 408,My therapist suggests that we should talk about our intimacy issues,1.35609756097561,0.042349934248652,205.0,146.0,45.0,14.0,556
-408,Another recipe from the Chernobyl Cookbook?,1.35609756097561,0.04346452514601799,205.0,148.0,41.0,16.0,556
+408,Another recipe from the Chernobyl Cookbook?,1.35609756097561,0.043464525146017986,205.0,148.0,41.0,16.0,556
 408,Maybe not THAT spicy.,1.35609756097561,0.04178149019857127,205.0,145.0,47.0,13.0,556
 408,"Over medium, it's not rocket science",1.35609756097561,0.042349934248652,205.0,146.0,45.0,14.0,556
 408,I'm getting the feeling that you want more space.,1.35609756097561,0.04508477535847722,205.0,151.0,35.0,19.0,556
@@ -495,7 +495,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 493,Earth to Brenda.,1.3384615384615384,0.04472181422711625,195.0,145.0,34.0,16.0,556
 493,What new life insurance policy?,1.3384615384615384,0.04412677841922623,195.0,144.0,36.0,15.0,556
 493,I don't think you have to take the little drawing on the salsa bottle literally.,1.3384615384615384,0.04472181422711625,195.0,145.0,34.0,16.0,556
-493,And you don't see this as a manifestation of your emotional unavailability?,1.3384615384615384,0.043523608301176984,195.0,143.0,38.0,14.0,556
+493,And you don't see this as a manifestation of your emotional unavailability?,1.3384615384615384,0.04352360830117698,195.0,143.0,38.0,14.0,556
 493,This gives a whole new meaning to nuclear family.,1.3384615384615384,0.04412677841922623,195.0,144.0,36.0,15.0,556
 493,"If you don't like cilantro, just say so.",1.3384615384615384,0.04412677841922623,195.0,144.0,36.0,15.0,556
 493,So you decided to go with my mom's recipe after all?,1.3384615384615384,0.04229146830442125,195.0,141.0,42.0,12.0,556
@@ -510,7 +510,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 493,How many drinks have you had? You're wearing the vacuum cleaner and burning the eggs!,1.3384615384615384,0.04758551395425645,195.0,150.0,24.0,21.0,556
 510,If I say I'm sorry I voted for him will you end this charade?,1.3383838383838385,0.04594188605767397,198.0,150.0,29.0,19.0,556
 510,"If you need more space, just tell me.",1.3383838383838385,0.04306142217565332,198.0,145.0,39.0,14.0,556
-510,I hope you noticed that I don't bring MY work home.,1.3383838383838385,0.04365272319957986,198.0,146.0,37.0,15.0,556
+510,I hope you noticed that I don't bring MY work home.,1.3383838383838385,0.043652723199579864,198.0,146.0,37.0,15.0,556
 510,Should I be worried?,1.3383838383838385,0.041236677738901065,198.0,142.0,45.0,11.0,556
 514,I need some space.,1.3350515463917525,0.040436447469745763,194.0,138.0,47.0,9.0,556
 514,I thought it was only my laugh that was infectious.,1.3350515463917525,0.04422218881952286,194.0,144.0,35.0,15.0,556
@@ -524,19 +524,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 514,You could've just told me you had a headache.,1.3350515463917525,0.03840388566233235,194.0,135.0,53.0,6.0,556
 514,Is MY mother coming to dinner tonight?,1.3350515463917525,0.04482206972008548,194.0,145.0,33.0,16.0,556
 525,"This is just a wild guess, but is that an ""I need some space"" suit?",1.3333333333333333,0.045122804446240485,192.0,144.0,32.0,16.0,556
-525,"You didnt mind cooking burgers for me when we were dating, Miss Vegan",1.3333333333333333,0.04133814642921967,192.0,138.0,44.0,10.0,556
+525,"You didnt mind cooking burgers for me when we were dating, Miss Vegan",1.3333333333333333,0.041338146429219666,192.0,138.0,44.0,10.0,556
 525,We could get an air purifier instead of a divorce.,1.3333333333333333,0.043897521996846725,192.0,142.0,36.0,14.0,556
-525,You've got to stop bringing your work home with you,1.3333333333333333,0.04451437924175346,192.0,143.0,34.0,15.0,556
+525,You've got to stop bringing your work home with you,1.3333333333333333,0.044514379241753464,192.0,143.0,34.0,15.0,556
 525,"Trying another one of your mother's recipes, I see.",1.3333333333333333,0.04690074675885967,192.0,147.0,26.0,19.0,556
 525,Is this your way of avoiding sex after dinner?,1.3333333333333333,0.04199261687509622,192.0,139.0,42.0,11.0,556
 525,what exactly is this 'secret ingredient' you've been bragging about??,1.3333333333333333,0.04572313422009332,192.0,145.0,30.0,17.0,556
 525,Should I ask?,1.3333333333333333,0.04327187210704701,192.0,141.0,38.0,13.0,556
 525,I think we need to talk about you taking your work home.,1.3333333333333333,0.045122804446240485,192.0,144.0,32.0,16.0,556
-525,O.K. This is the last time I'll ask for liver and onions.,1.3333333333333333,0.04133814642921967,192.0,138.0,44.0,10.0,556
+525,O.K. This is the last time I'll ask for liver and onions.,1.3333333333333333,0.041338146429219666,192.0,138.0,44.0,10.0,556
 535,"Mmmm, that smells out of this world!",1.3316062176165804,0.0449216124478064,193.0,145.0,32.0,16.0,556
 536,"Thanks, hon. Oh, and could you also iron a few shirts before your mission?",1.3298429319371727,0.045223761756285966,191.0,144.0,31.0,16.0,556
 536,I guess pretending you're on the moon is cheaper than actually moving to Canada.,1.3298429319371727,0.044610279380399576,191.0,143.0,33.0,15.0,556
-536,Have you been reading the package ingredients again?,1.3298429319371727,0.047016203912750534,191.0,147.0,25.0,19.0,556
+536,Have you been reading the package ingredients again?,1.3298429319371727,0.04701620391275053,191.0,147.0,25.0,19.0,556
 536,Point made; I promise to buy some BEANO today.,1.3298429319371727,0.044610279380399576,191.0,143.0,33.0,15.0,556
 536,So what? It's just a day past the expiration date.,1.3298429319371727,0.04005366174837504,191.0,136.0,47.0,8.0,556
 536,Not quite what I meant by role-playing...,1.3298429319371727,0.0427170015733932,191.0,140.0,39.0,12.0,556
@@ -546,7 +546,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 536,So that's a no on my new cologne?,1.3298429319371727,0.04335728110033291,191.0,141.0,37.0,13.0,556
 536,I feel like you're taking this Mars and Venus thing a little too far.,1.3298429319371727,0.04005366174837504,191.0,136.0,47.0,8.0,556
 536,I want out of this toxic relationship.,1.3298429319371727,0.0427170015733932,191.0,140.0,39.0,12.0,556
-536,Mom wants to know if we've thought about having kids,1.3298429319371727,0.046426413057367784,191.0,146.0,27.0,18.0,556
+536,Mom wants to know if we've thought about having kids,1.3298429319371727,0.04642641305736778,191.0,146.0,27.0,18.0,556
 536,"Okay, okay, we'll go out.",1.3298429319371727,0.04582903259268431,191.0,145.0,29.0,17.0,556
 536,Eggs and meth?,1.3298429319371727,0.04335728110033291,191.0,141.0,37.0,13.0,556
 536,This is exactly what I meant when I said you were being too defensive.,1.3298429319371727,0.044610279380399576,191.0,143.0,33.0,15.0,556
@@ -568,22 +568,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 553,The atmosphere around here is toxic.,1.328042328042328,0.04490893372864596,189.0,142.0,32.0,15.0,556
 553,Nice boots.,1.328042328042328,0.04490893372864596,189.0,142.0,32.0,15.0,556
 553,Easy on the plutonium .,1.328042328042328,0.04553130372582976,189.0,143.0,30.0,16.0,556
-570,Did you spend all day on the CDC's website again?,1.324468085106383,0.043067421420575666,188.0,139.0,37.0,12.0,556
+570,Did you spend all day on the CDC's website again?,1.324468085106383,0.04306742142057567,188.0,139.0,37.0,12.0,556
 570,That makes you look fat.,1.324468085106383,0.04625201892882448,188.0,144.0,27.0,17.0,556
 572,I can only imagine the protection we're going to use for after dinner.,1.3225806451612905,0.04719543952002775,186.0,144.0,24.0,18.0,556
-572,Ok! I get the message. I'll call the guy to fix the vent.,1.3225806451612905,0.042667915816383586,186.0,137.0,38.0,11.0,556
+572,Ok! I get the message. I'll call the guy to fix the vent.,1.3225806451612905,0.04266791581638359,186.0,137.0,38.0,11.0,556
 572,Can I offer you some TANG?,1.3225806451612905,0.040573182322940805,186.0,134.0,44.0,8.0,556
-572,"You wouldn't be trying to poison me again, would you?",1.3225806451612905,0.045310502040754264,186.0,141.0,30.0,15.0,556
+572,"You wouldn't be trying to poison me again, would you?",1.3225806451612905,0.04531050204075426,186.0,141.0,30.0,15.0,556
 572,Think I will pass on dinner tonight.,1.3225806451612905,0.04400904813387352,186.0,139.0,34.0,13.0,556
 572,Are you sure the recipe called for pepper spray?,1.3225806451612905,0.04466451562949493,186.0,140.0,32.0,14.0,556
-572,Let me guess... Limburger Helper!,1.3225806451612905,0.045310502040754264,186.0,141.0,30.0,15.0,556
+572,Let me guess... Limburger Helper!,1.3225806451612905,0.04531050204075426,186.0,141.0,30.0,15.0,556
 572,Where should I pour your drink?,1.3225806451612905,0.049007932294598974,186.0,147.0,18.0,21.0,556
 572,"If you don’t want to have sex, you could just say so.",1.3225806451612905,0.03985047659743602,186.0,133.0,46.0,7.0,556
 572,Can you change the twins' diapers while you're at it?,1.3225806451612905,0.04466451562949493,186.0,140.0,32.0,14.0,556
 572,What do you mean you need space?,1.3225806451612905,0.04400904813387352,186.0,139.0,34.0,13.0,556
 572,Why don't you just make it without the onions?,1.3225806451612905,0.04198128632314875,186.0,136.0,40.0,10.0,556
 572,"Doesn't ""Hot"" food normally refer to either temperature or spices?",1.3225806451612905,0.04400904813387352,186.0,139.0,34.0,13.0,556
-572,I see last night's argument is still on the table too.,1.3225806451612905,0.042667915816383586,186.0,137.0,38.0,11.0,556
+572,I see last night's argument is still on the table too.,1.3225806451612905,0.04266791581638359,186.0,137.0,38.0,11.0,556
 572,You're really taking this bird flu thing too far.,1.3225806451612905,0.03602009565789347,186.0,128.0,56.0,2.0,556
 572,"There's something different about you, honey. New haircut?",1.3225806451612905,0.04594740726039933,186.0,142.0,28.0,16.0,556
 572,Then don't make fish.,1.3225806451612905,0.04466451562949493,186.0,140.0,32.0,14.0,556
@@ -628,8 +628,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 627,Someone feeling astro-naughty tonight?,1.3131868131868132,0.04378305161009105,182.0,137.0,33.0,12.0,556
 627,I see you caught that Monsanto documentary.,1.3131868131868132,0.04378305161009105,182.0,137.0,33.0,12.0,556
 627,Fish again?,1.3131868131868132,0.04378305161009105,182.0,137.0,33.0,12.0,556
-627,If you didn't want to make liver and onions why didn't you just say so.,1.3131868131868132,0.044470983530690934,182.0,138.0,31.0,13.0,556
-627,I vote we keep the nuclear threat off the table.,1.3131868131868132,0.044470983530690934,182.0,138.0,31.0,13.0,556
+627,If you didn't want to make liver and onions why didn't you just say so.,1.3131868131868132,0.04447098353069093,182.0,138.0,31.0,13.0,556
+627,I vote we keep the nuclear threat off the table.,1.3131868131868132,0.04447098353069093,182.0,138.0,31.0,13.0,556
 627,"Between changing diapers and fish night, I think the investment in that suit has really paid off.",1.3131868131868132,0.04647372031452023,182.0,141.0,25.0,16.0,556
 627,"Just double the recipe, it's not rocket science.",1.3131868131868132,0.04647372031452023,182.0,141.0,25.0,16.0,556
 634,"""Is this in response to my saying, 'Surprise me'""?",1.3114754098360657,0.04145824952976993,183.0,135.0,39.0,9.0,556
@@ -656,7 +656,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 635,"If you don't want to use my mother's recipe, why don't you just say so?",1.3111111111111111,0.043360461991482135,180.0,135.0,34.0,11.0,556
 635,Reading the EPA website again?,1.3111111111111111,0.04613483119984205,180.0,139.0,26.0,15.0,556
 635,I don't think you understand the gravity of the situation.,1.3111111111111111,0.04476914291089727,180.0,137.0,30.0,13.0,556
-658,I guess you really are from Venus.,1.3093922651933705,0.043859965072866866,181.0,137.0,32.0,12.0,556
+658,I guess you really are from Venus.,1.3093922651933705,0.04385996507286687,181.0,137.0,32.0,12.0,556
 658,Then why make it so easy to push your buttons?,1.3093922651933705,0.04591142122400702,181.0,140.0,26.0,15.0,556
 658,"Esther, darling, we're Reform Jews. You don't need to wear that outfit every time you cook bacon for me.",1.3093922651933705,0.0445542802702292,181.0,138.0,30.0,13.0,556
 658,This is not what I meant when I asked for more space,1.3093922651933705,0.04096519399896656,181.0,133.0,40.0,8.0,556
@@ -692,9 +692,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 675,I guess you heard who he chose to head the FDA.,1.305084745762712,0.04724206307302215,177.0,139.0,22.0,16.0,556
 675,Why are you asking about my life insurance?,1.305084745762712,0.042218516976333616,177.0,132.0,36.0,9.0,556
 675,"Once again, I'm sorry I didn't buy organic onions.",1.305084745762712,0.045157596451007816,177.0,136.0,28.0,13.0,556
-694,"Honey, if you can't stand the heat...",1.303370786516854,0.043500273265131464,178.0,135.0,32.0,11.0,556
+694,"Honey, if you can't stand the heat...",1.303370786516854,0.04350027326513146,178.0,135.0,32.0,11.0,556
 694,Something you'd like to tell me?,1.303370786516854,0.03887665034089534,178.0,129.0,44.0,5.0,556
-694,I thought you were using the microwave when you said you were Nuking it.,1.303370786516854,0.043500273265131464,178.0,135.0,32.0,11.0,556
+694,I thought you were using the microwave when you said you were Nuking it.,1.303370786516854,0.04350027326513146,178.0,135.0,32.0,11.0,556
 694,"That's one small step for man, one giant leap for meatloaf.",1.303370786516854,0.042764398768979535,178.0,134.0,34.0,10.0,556
 698,"OK, can we vent about this after dinner?",1.3011363636363635,0.04303418028687665,176.0,133.0,33.0,10.0,556
 698,Dinner smells out of this world.,1.3011363636363635,0.04378213948516527,176.0,134.0,31.0,11.0,556
@@ -708,17 +708,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 698,I'm telling you: somehow today's news from the White House is going to get in there.,1.3011363636363635,0.04595302963574505,176.0,137.0,25.0,14.0,556
 698,"Don't you think you're taking this ""own space"" thing a little too far?",1.3011363636363635,0.040707928934769065,176.0,130.0,39.0,7.0,556
 698,I think I prefer the ten-foot pole.,1.3011363636363635,0.04378213948516527,176.0,134.0,31.0,11.0,556
-698,Not true. The last time I requested liver and onions was TWO YEARS ago!,1.3011363636363635,0.04149783781226767,176.0,131.0,37.0,8.0,556
+698,Not true. The last time I requested liver and onions was TWO YEARS ago!,1.3011363636363635,0.041497837812267666,176.0,131.0,37.0,8.0,556
 698,How about slipping into something more comfortable after dinner?,1.3011363636363635,0.040707928934769065,176.0,130.0,39.0,7.0,556
 698,"You need to stop alienating me, Alice.",1.3011363636363635,0.04303418028687665,176.0,133.0,33.0,10.0,556
-698,"OK, I'll never ask for the liver and onions again...",1.3011363636363635,0.04149783781226767,176.0,131.0,37.0,8.0,556
+698,"OK, I'll never ask for the liver and onions again...",1.3011363636363635,0.041497837812267666,176.0,131.0,37.0,8.0,556
 698,Maybe a little breathing room wasn’t all we needed.,1.3011363636363635,0.04303418028687665,176.0,133.0,33.0,10.0,556
 698,Don't we have a spatter screen?,1.3011363636363635,0.04378213948516527,176.0,134.0,31.0,11.0,556
 698,Lemme guess - a bad air day.,1.3011363636363635,0.04524097553953271,176.0,136.0,27.0,13.0,556
 698,So you found a little mold under the sink.,1.3011363636363635,0.04378213948516527,176.0,134.0,31.0,11.0,556
 698,"Frankly, I preferred your Barefoot Contessa phase.",1.3011363636363635,0.04595302963574505,176.0,137.0,25.0,14.0,556
 698,Dress for the job you have not the job you want,1.3011363636363635,0.04524097553953271,176.0,136.0,27.0,13.0,556
-698,Dressing for the job you want?,1.3011363636363635,0.04149783781226767,176.0,131.0,37.0,8.0,556
+698,Dressing for the job you want?,1.3011363636363635,0.041497837812267666,176.0,131.0,37.0,8.0,556
 698,Wouldn't it be easier to clean the stove.,1.3011363636363635,0.04665421736176407,176.0,138.0,23.0,15.0,556
 698,And you think it'll be safe to eat?,1.3011363636363635,0.04451753365622957,176.0,135.0,29.0,12.0,556
 698,"Okay, so I shouldn't have bought us a Trump steak for dinner.",1.3011363636363635,0.04378213948516527,176.0,134.0,31.0,11.0,556
@@ -761,17 +761,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 724,"Fine, I'll buy organic next time.",1.2988505747126438,0.04555148240723305,174.0,135.0,26.0,13.0,556
 724,"Let me guess, Chernobyl Chicken?",1.2988505747126438,0.043308373847682456,174.0,132.0,32.0,10.0,556
 724,Let's clear the air.,1.2988505747126438,0.04481625577222157,174.0,134.0,28.0,12.0,556
-763,I don't think the duck calls for agent orange,1.2947976878612717,0.041789725580624264,173.0,130.0,35.0,8.0,556
+763,I don't think the duck calls for agent orange,1.2947976878612717,0.04178972558062426,173.0,130.0,35.0,8.0,556
 763,"Oh, so there is gluten in the air now too?",1.2947976878612717,0.04489136336319758,173.0,134.0,27.0,12.0,556
-763,Have you ever thought about a splatter screen.,1.2947976878612717,0.041789725580624264,173.0,130.0,35.0,8.0,556
-763,Are you making that to go?,1.2947976878612717,0.04563384533142399,173.0,135.0,25.0,13.0,556
-763,Be honest - is the commute starting to wear on you?,1.2947976878612717,0.041789725580624264,173.0,130.0,35.0,8.0,556
+763,Have you ever thought about a splatter screen.,1.2947976878612717,0.04178972558062426,173.0,130.0,35.0,8.0,556
+763,Are you making that to go?,1.2947976878612717,0.045633845331423985,173.0,135.0,25.0,13.0,556
+763,Be honest - is the commute starting to wear on you?,1.2947976878612717,0.04178972558062426,173.0,130.0,35.0,8.0,556
 763,So you're saying you just need a little breathing room.,1.2947976878612717,0.04258631821641278,173.0,131.0,33.0,9.0,556
 763,Should I be concerned?,1.2947976878612717,0.04336828143188591,173.0,132.0,31.0,10.0,556
 763,I said your cooking was bad; I didn't say it was hazardous.,1.2947976878612717,0.04413639280096357,173.0,133.0,29.0,11.0,556
 763,Sometimes it feels like I'm living with someone from a completely different planet.,1.2947976878612717,0.04489136336319758,173.0,134.0,27.0,12.0,556
 763,"Lydia, if you need your space, you can just tell me.",1.2947976878612717,0.04336828143188591,173.0,132.0,31.0,10.0,556
-763,Are you planning on wearing that for the next four years?,1.2947976878612717,0.04563384533142399,173.0,135.0,25.0,13.0,556
+763,Are you planning on wearing that for the next four years?,1.2947976878612717,0.045633845331423985,173.0,135.0,25.0,13.0,556
 763,I can't help but think our evenings were a little more romantic before Trump gutted the F.D.A.,1.2947976878612717,0.046364438688050735,173.0,136.0,23.0,14.0,556
 763,"No, I will not pretend to be George Jetson tonight.",1.2947976878612717,0.046364438688050735,173.0,136.0,23.0,14.0,556
 763,Are the germophobe anonymous meetings working?,1.2947976878612717,0.047083696859780505,173.0,137.0,21.0,15.0,556
@@ -779,14 +779,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 763,You're sucking all the air out of this conversation.,1.2947976878612717,0.04336828143188591,173.0,132.0,31.0,10.0,556
 763,Honey is the meth ready? Th guys are gonna be here any minute.,1.2947976878612717,0.046364438688050735,173.0,136.0,23.0,14.0,556
 763,I coughed one time.,1.2947976878612717,0.04413639280096357,173.0,133.0,29.0,11.0,556
-763,I ate at the office.,1.2947976878612717,0.04563384533142399,173.0,135.0,25.0,13.0,556
+763,I ate at the office.,1.2947976878612717,0.045633845331423985,173.0,135.0,25.0,13.0,556
 763,Is that a new recipe from the Breaking Bad cookbook?,1.2947976878612717,0.04489136336319758,173.0,134.0,27.0,12.0,556
 763,Still with the subtle hints that I should quit smoking.,1.2947976878612717,0.04489136336319758,173.0,134.0,27.0,12.0,556
 763,"...OK, that was me!",1.2947976878612717,0.04413639280096357,173.0,133.0,29.0,11.0,556
-763,"Yes, honey, next time I'll buy organic.",1.2947976878612717,0.041789725580624264,173.0,130.0,35.0,8.0,556
+763,"Yes, honey, next time I'll buy organic.",1.2947976878612717,0.04178972558062426,173.0,130.0,35.0,8.0,556
 763,When will the nuclear option be on the table?,1.2947976878612717,0.04489136336319758,173.0,134.0,27.0,12.0,556
 763,Maybe we should just go back to real butter.,1.2947976878612717,0.04258631821641278,173.0,131.0,33.0,9.0,556
-763,"When I said I needed ""space"".... I didn't think you'd take it this far!",1.2947976878612717,0.041789725580624264,173.0,130.0,35.0,8.0,556
+763,"When I said I needed ""space"".... I didn't think you'd take it this far!",1.2947976878612717,0.04178972558062426,173.0,130.0,35.0,8.0,556
 789,It's only the first month of Trump's presidency. Try to pace yourself.,1.2923976608187135,0.0459506162278457,171.0,134.0,24.0,13.0,556
 789,Do you smell gas?,1.2923976608187135,0.045195792747935656,171.0,133.0,26.0,12.0,556
 789,Is this about my farts?,1.2923976608187135,0.043647001992182084,171.0,131.0,30.0,10.0,556
@@ -895,7 +895,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 863,I love that you'll cook liver for me.,1.283132530120482,0.04509240485599403,166.0,130.0,25.0,11.0,556
 863,Perhaps we could pair it with Tang.,1.283132530120482,0.04172825871260073,166.0,126.0,33.0,7.0,556
 863,Why don't you just leave out the habaneros?,1.283132530120482,0.04259421234526496,166.0,127.0,31.0,8.0,556
-897,I'm pretty sure that 'she sucks the oxygen out of the room' is just an expression.,1.2814371257485029,0.04485363055949498,167.0,131.0,25.0,11.0,556
+897,I'm pretty sure that 'she sucks the oxygen out of the room' is just an expression.,1.2814371257485029,0.044853630559494984,167.0,131.0,25.0,11.0,556
 898,Have you considered that moving to Canada might be more practical than moving to Mars?,1.2787878787878788,0.04432951163129635,165.0,129.0,26.0,10.0,556
 898,You're saying it's to die for?,1.2787878787878788,0.0434878807423614,165.0,128.0,28.0,9.0,556
 898,"Let me guess- ""Best By"" date was yesterday...",1.2787878787878788,0.04596656677938892,165.0,131.0,22.0,12.0,556
@@ -920,7 +920,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 898,Let me guess liver and onions tonight.,1.2787878787878788,0.0417537556567917,165.0,126.0,32.0,7.0,556
 898,You take the comfort out of comfort food.,1.2787878787878788,0.04596656677938892,165.0,131.0,22.0,12.0,556
 921,I'm missing the point of your elaborate sarcasm.,1.2771084337349397,0.04325772550568579,166.0,129.0,28.0,9.0,556
-921,"Look, I know it's my mother's recipe, but really....",1.2771084337349397,0.04240532355492026,166.0,128.0,30.0,8.0,556
+921,"Look, I know it's my mother's recipe, but really....",1.2771084337349397,0.042405323554920264,166.0,128.0,30.0,8.0,556
 921,"Honey, here's to my last day on the ""7-Day Bean Diet.""",1.2771084337349397,0.049551847765219904,166.0,137.0,12.0,17.0,556
 924,I love it when you make a moon pie from scratch.,1.2760736196319018,0.044621616493669095,163.0,128.0,25.0,10.0,556
 924,I've heard your cooking is out of this world,1.2760736196319018,0.04376469234976012,163.0,127.0,27.0,9.0,556
@@ -937,14 +937,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 924,"So, um, how old are those leftovers?",1.2760736196319018,0.04108682526494789,163.0,124.0,33.0,6.0,556
 924,You knew I was from Mars when you married me.,1.2760736196319018,0.04376469234976012,163.0,127.0,27.0,9.0,556
 924,"It's probably just me, but I sense a distance between us.",1.2760736196319018,0.044621616493669095,163.0,128.0,25.0,10.0,556
-924,"My commute was no fun either, but you don't see me complaining.",1.2760736196319018,0.04546239127616378,163.0,129.0,23.0,11.0,556
+924,"My commute was no fun either, but you don't see me complaining.",1.2760736196319018,0.045462391276163784,163.0,129.0,23.0,11.0,556
 924,"So, how's the neurosis?",1.2760736196319018,0.04289065089772154,163.0,126.0,29.0,8.0,556
 924,Cooking meth on the stove top again honey?,1.2760736196319018,0.04709893570586148,163.0,131.0,19.0,13.0,556
 924,Again with the brussels sprouts?,1.2760736196319018,0.03920008273300578,163.0,122.0,37.0,4.0,556
 924,Does this mean no SEX after dinner?,1.2760736196319018,0.03920008273300578,163.0,122.0,37.0,4.0,556
 924,OK...OK...I'll see about a new vent fan!,1.2760736196319018,0.04289065089772154,163.0,126.0,29.0,8.0,556
 924,How about a glass of wine to decompress?,1.2760736196319018,0.04108682526494789,163.0,124.0,33.0,6.0,556
-924,I thought you were going to take that off after the election.,1.2760736196319018,0.04546239127616378,163.0,129.0,23.0,11.0,556
+924,I thought you were going to take that off after the election.,1.2760736196319018,0.045462391276163784,163.0,129.0,23.0,11.0,556
 924,The doctor said it was just a rash.,1.2760736196319018,0.04289065089772154,163.0,126.0,29.0,8.0,556
 924,"OK, you need a little space.",1.2760736196319018,0.041998423451259335,163.0,125.0,31.0,7.0,556
 924,Marie Curie didn't bring her work home with her.,1.2760736196319018,0.04376469234976012,163.0,127.0,27.0,9.0,556
@@ -953,10 +953,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 924,"I think I need more space, too",1.2760736196319018,0.04108682526494789,163.0,124.0,33.0,6.0,556
 924,"I said I wanted it well done, not welded.",1.2760736196319018,0.044621616493669095,163.0,128.0,25.0,10.0,556
 924,I can't help it if you're allergic to everything I like,1.2760736196319018,0.041998423451259335,163.0,125.0,31.0,7.0,556
-924,I'll still eat it. Wine is the duct tape of the kitchen.,1.2760736196319018,0.04546239127616378,163.0,129.0,23.0,11.0,556
+924,I'll still eat it. Wine is the duct tape of the kitchen.,1.2760736196319018,0.045462391276163784,163.0,129.0,23.0,11.0,556
 924,Are you mad at me?,1.2760736196319018,0.044621616493669095,163.0,128.0,25.0,10.0,556
 924,Your cooking is out of this world.,1.2760736196319018,0.04709893570586148,163.0,131.0,19.0,13.0,556
-924,I still think a little pollution is a small price to pay for being great again.,1.2760736196319018,0.04546239127616378,163.0,129.0,23.0,11.0,556
+924,I still think a little pollution is a small price to pay for being great again.,1.2760736196319018,0.045462391276163784,163.0,129.0,23.0,11.0,556
 924,"Honey, I didn't mean that ""You look Radiant"" literally.",1.2760736196319018,0.04108682526494789,163.0,124.0,33.0,6.0,556
 960,Do I have time to change before dinner?,1.274390243902439,0.03994442824615529,164.0,124.0,35.0,5.0,556
 960,So you're saying you don't like liver and onions,1.274390243902439,0.04087020977435135,164.0,125.0,33.0,6.0,556
@@ -967,7 +967,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 960,Your preparation for a post-inauguration apocalypse is to be commended.,1.274390243902439,0.041775480201748975,164.0,126.0,31.0,7.0,556
 960,You seem a little spacey lately.,1.274390243902439,0.043529577809360766,164.0,128.0,27.0,9.0,556
 960,"Honey, they're not planning to abolish the Clean Air Act until next month.",1.274390243902439,0.04521567806011169,164.0,130.0,23.0,11.0,556
-969,"Claiming there's no atmosphere isn't going to get you that new kitchen, Lucille.",1.271604938271605,0.046356962526648386,162.0,130.0,20.0,12.0,556
+969,"Claiming there's no atmosphere isn't going to get you that new kitchen, Lucille.",1.271604938271605,0.04635696252664839,162.0,130.0,20.0,12.0,556
 969,Please tell me this is the last of the Trump Steaks.,1.271604938271605,0.04380552780634545,162.0,127.0,26.0,9.0,556
 969,You've hardly touched your wine.,1.271604938271605,0.04109599199542368,162.0,124.0,32.0,6.0,556
 969,Habanero curry again?,1.271604938271605,0.04467220055575985,162.0,128.0,24.0,10.0,556
@@ -975,7 +975,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 969,Were you on Ebay again?,1.271604938271605,0.04552237624065287,162.0,129.0,22.0,11.0,556
 969,It still won’t stop the smoke alarm from going off.,1.271604938271605,0.04109599199542368,162.0,124.0,32.0,6.0,556
 969,Is there something I should know about my mother's recipe?,1.271604938271605,0.04467220055575985,162.0,128.0,24.0,10.0,556
-969,I saw the doctor today for my gas problems,1.271604938271605,0.046356962526648386,162.0,130.0,20.0,12.0,556
+969,I saw the doctor today for my gas problems,1.271604938271605,0.04635696252664839,162.0,130.0,20.0,12.0,556
 969,"Word of Trump's ""nuclear option"" seems to have affected you and me differently.",1.271604938271605,0.04717678677907821,162.0,131.0,18.0,13.0,556
 969,Your meter here says back off on the garlic.,1.271604938271605,0.03717735350561984,162.0,120.0,40.0,2.0,556
 969,I don't know... It's just that I'm feeling really vulnerable right now.,1.271604938271605,0.04467220055575985,162.0,128.0,24.0,10.0,556
@@ -995,9 +995,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 987,"I said I need space, Jeff! What is so difficult to understand about that?",1.26875,0.04583422669226553,160.0,128.0,21.0,11.0,556
 987,"No, that was the expiration date, not the half-life.",1.26875,0.04318480380729097,160.0,125.0,27.0,8.0,556
 987,I don't think that's what our therapist meant when he said our relationship is toxic,1.26875,0.04751851261224936,160.0,130.0,17.0,13.0,556
-987,I think i'm okay with just wine,1.26875,0.042264771709698785,160.0,124.0,29.0,7.0,556
+987,I think i'm okay with just wine,1.26875,0.04226477170969879,160.0,124.0,29.0,7.0,556
 987,"I don't think that's what they meant by ""heat, covered"".",1.26875,0.04583422669226553,160.0,128.0,21.0,11.0,556
-987,"I know, I miss our liberal bubble too.",1.26875,0.042264771709698785,160.0,124.0,29.0,7.0,556
+987,"I know, I miss our liberal bubble too.",1.26875,0.04226477170969879,160.0,124.0,29.0,7.0,556
 987,Tell me that's the last of our frozen Trump steaks.,1.26875,0.04583422669226553,160.0,128.0,21.0,11.0,556
 987,"Honey, did I notice an increase in our life insurance?",1.26875,0.04132426134211835,160.0,123.0,31.0,6.0,556
 987,Methane from kale?,1.26875,0.04914510906777009,160.0,132.0,13.0,15.0,556
@@ -1014,8 +1014,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 987,So...... Am I too late to chop the onions ?,1.26875,0.04036184117790514,160.0,122.0,33.0,5.0,556
 1014,Excellent - we haven't had 'The Right Stuffing' in quite some time.,1.2670807453416149,0.04557922933902443,161.0,129.0,21.0,11.0,556
 1014,You said you needed some space.,1.2670807453416149,0.0429481884656501,161.0,126.0,27.0,8.0,556
-1016,So I see you've decided to go for the nuclear option.,1.2641509433962264,0.045014862947804664,159.0,127.0,22.0,10.0,556
-1016,But your mother got me this aftershave.,1.2641509433962264,0.045014862947804664,159.0,127.0,22.0,10.0,556
+1016,So I see you've decided to go for the nuclear option.,1.2641509433962264,0.04501486294780466,159.0,127.0,22.0,10.0,556
+1016,But your mother got me this aftershave.,1.2641509433962264,0.04501486294780466,159.0,127.0,22.0,10.0,556
 1016,"I can do that, if you have more important things to do.",1.2641509433962264,0.04132664881900788,159.0,123.0,30.0,6.0,556
 1016,"I'm just assuming...no breakfast, and no sex.",1.2641509433962264,0.0393531308895441,159.0,121.0,34.0,4.0,556
 1016,"You know the oven has a vent, right..?",1.2641509433962264,0.0393531308895441,159.0,121.0,34.0,4.0,556
@@ -1035,7 +1035,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1016,Trump l'Orange?,1.2641509433962264,0.04759382705676926,159.0,130.0,16.0,13.0,556
 1016,Have you thought about cooking without peanuts?,1.2641509433962264,0.04227887650481756,159.0,124.0,28.0,7.0,556
 1016,I think it's time to get rid of the no-stick cookware.,1.2641509433962264,0.0432101249062025,159.0,125.0,26.0,8.0,556
-1016,"Let's just say, I hope you are wearing that to bed tonight.",1.2641509433962264,0.045014862947804664,159.0,127.0,22.0,10.0,556
+1016,"Let's just say, I hope you are wearing that to bed tonight.",1.2641509433962264,0.04501486294780466,159.0,127.0,22.0,10.0,556
 1016,So how was your day?,1.2641509433962264,0.045890624119853125,159.0,128.0,20.0,11.0,556
 1016,I see your trying your mother's recipe.,1.2641509433962264,0.0432101249062025,159.0,125.0,26.0,8.0,556
 1016,"You and Trump are going to have to breathe the same air at some point, honey.",1.2641509433962264,0.0432101249062025,159.0,125.0,26.0,8.0,556
@@ -1043,14 +1043,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1016,"I know you don't like to cook liver and onions for me, but that suit is overkill.",1.2641509433962264,0.04227887650481756,159.0,124.0,28.0,7.0,556
 1016,"I get it, Barb, you're a vegan. Just make sure my burger is medium rare.",1.2641509433962264,0.04227887650481756,159.0,124.0,28.0,7.0,556
 1016,To think we used to cook without the Gluten-suit.,1.2641509433962264,0.04412172243135608,159.0,126.0,24.0,9.0,556
-1016,"Earth to Betty Crocker, do you read me?",1.2641509433962264,0.045014862947804664,159.0,127.0,22.0,10.0,556
+1016,"Earth to Betty Crocker, do you read me?",1.2641509433962264,0.04501486294780466,159.0,127.0,22.0,10.0,556
 1016,It's okay to go light on the garlic.,1.2641509433962264,0.0432101249062025,159.0,125.0,26.0,8.0,556
 1016,Are you even listening to me? Earth to Karen!,1.2641509433962264,0.0403519566651928,159.0,122.0,32.0,5.0,556
 1016,Is our relationship that toxic ?,1.2641509433962264,0.04132664881900788,159.0,123.0,30.0,6.0,556
 1016,"Nice try, but you still turn me on when you cook.",1.2641509433962264,0.04132664881900788,159.0,123.0,30.0,6.0,556
 1016,It's been a long time since we played the Astronaut and the Sex Monster...,1.2641509433962264,0.0432101249062025,159.0,125.0,26.0,8.0,556
 1016,Yellowcake again?,1.2641509433962264,0.0403519566651928,159.0,122.0,32.0,5.0,556
-1016,Especially for me? Should I worry?,1.2641509433962264,0.045014862947804664,159.0,127.0,22.0,10.0,556
+1016,Especially for me? Should I worry?,1.2641509433962264,0.04501486294780466,159.0,127.0,22.0,10.0,556
 1053,And you expect me to eat that?,1.2611464968152866,0.04531496180214351,157.0,126.0,21.0,10.0,556
 1053,"Houston, Do we have a problem?",1.2611464968152866,0.04347559233033533,157.0,124.0,25.0,8.0,556
 1053,"Are you preparing for dinner, or the end of the EPA?",1.2611464968152866,0.04531496180214351,157.0,126.0,21.0,10.0,556
@@ -1185,17 +1185,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1184,I've always loved your Hazmat Helper.,1.25,0.04596852849190843,152.0,124.0,18.0,10.0,556
 1184,"C'mon, you found a hair one time!",1.25,0.043031273331024834,152.0,121.0,24.0,7.0,556
 1184,I really do appreciate you fixing me liver and onions.,1.25,0.04596852849190843,152.0,124.0,18.0,10.0,556
-1184,Ok I get it I'll never ask for liver again.,1.25,0.04200657220898527,152.0,120.0,26.0,6.0,556
+1184,Ok I get it I'll never ask for liver again.,1.25,0.042006572208985266,152.0,120.0,26.0,6.0,556
 1184,I guess we could do without some regulations.,1.25,0.04403213440466003,152.0,122.0,22.0,8.0,556
 1184,I didn't know mother was joining us for dinner.,1.25,0.039878256697946826,152.0,118.0,30.0,4.0,556
 1184,"Let me guess: The lutefisk, onion and limburger stew?",1.25,0.04095624168558458,152.0,119.0,28.0,5.0,556
 1184,Yeah? Well if we're in space then why do you need a non-stick pan?,1.25,0.04403213440466003,152.0,122.0,22.0,8.0,556
 1184,O.K. I'll start using mouthwash again!,1.25,0.04403213440466003,152.0,122.0,22.0,8.0,556
 1184,Why didn't you just get rid of the Teflon pan?,1.25,0.0450107457833207,152.0,123.0,20.0,9.0,556
-1184,I feel like you've been really closed off lately.,1.25,0.04200657220898527,152.0,120.0,26.0,6.0,556
+1184,I feel like you've been really closed off lately.,1.25,0.042006572208985266,152.0,120.0,26.0,6.0,556
 1184,"If you really are that sensitive to gluten, I can cook my own breakfast.",1.25,0.04690675844110392,152.0,125.0,16.0,11.0,556
 1184,..then he drops the smallpox vial and it bounces off the table straight into my lab coat pocket.,1.25,0.04403213440466003,152.0,122.0,22.0,8.0,556
-1184,How much alcohol will I need to drink to enjoy this?,1.25,0.04200657220898527,152.0,120.0,26.0,6.0,556
+1184,How much alcohol will I need to drink to enjoy this?,1.25,0.042006572208985266,152.0,120.0,26.0,6.0,556
 1184,"Hazmat hash again, huh?",1.25,0.04403213440466003,152.0,122.0,22.0,8.0,556
 1184,All right. Next time remind me to buy organic.,1.25,0.04690675844110392,152.0,125.0,16.0,11.0,556
 1184,Got time for a quickie?,1.25,0.043031273331024834,152.0,121.0,24.0,7.0,556
@@ -1221,10 +1221,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1184,"Sweetheart, it's just gluten.",1.25,0.043031273331024834,152.0,121.0,24.0,7.0,556
 1184,"Ok, I'll give you more space.",1.25,0.043031273331024834,152.0,121.0,24.0,7.0,556
 1184,"Uh, hon. Can we talk about these new chili pepper recipes?""",1.25,0.043031273331024834,152.0,121.0,24.0,7.0,556
-1184,"Ok, I get it...my turn to clean the bathroom.",1.25,0.04200657220898527,152.0,120.0,26.0,6.0,556
+1184,"Ok, I get it...my turn to clean the bathroom.",1.25,0.042006572208985266,152.0,120.0,26.0,6.0,556
 1184,Szechuan again tonight?,1.25,0.043031273331024834,152.0,121.0,24.0,7.0,556
 1184,"If you can't stand the smell, get out of the kitchen.",1.25,0.04690675844110392,152.0,125.0,16.0,11.0,556
-1184,Liver and onions?,1.25,0.04200657220898527,152.0,120.0,26.0,6.0,556
+1184,Liver and onions?,1.25,0.042006572208985266,152.0,120.0,26.0,6.0,556
 1184,Exactly what did you mean by 'you need your space?',1.25,0.043031273331024834,152.0,121.0,24.0,7.0,556
 1184,Something new from Hazel's Hazmat Cookbook?,1.25,0.04596852849190843,152.0,124.0,18.0,10.0,556
 1184,Your cooking is out of this world.,1.25,0.04596852849190843,152.0,124.0,18.0,10.0,556
@@ -1282,73 +1282,73 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1276,"""No onions"" would've been easier...",1.2416107382550337,0.04728336060436664,149.0,124.0,14.0,11.0,556
 1276,If I suck all the oxygen out of the room how did this wine manage to breath?,1.2416107382550337,0.04431288780186817,149.0,121.0,20.0,8.0,556
 1276,Lutefisk,1.2416107382550337,0.046314376477238316,149.0,123.0,16.0,10.0,556
-1284,You'll be a chef to the stars one way or the other.,1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,"Oh, come on! It's only liver and onions. Could be worse!",1.2380952380952381,0.04244565814741666,147.0,118.0,23.0,6.0,556
-1284,Are you cooking again for your nuclear family?,1.2380952380952381,0.04562014660118946,147.0,121.0,17.0,9.0,556
-1284,"I appreciate that you still cook meat for me even after becoming vegan, but do you have to wear the suit every time?",1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,"One of these days I'll get the stove vent fixed, I promise.",1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,Haven't you heard? Air pollution is a hoax.,1.2380952380952381,0.04562014660118946,147.0,121.0,17.0,9.0,556
-1284,Maybe you want to slip into something more comfortable?,1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,"New outfit, hon?",1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,"When you said UFO, I didn't think you meant unidentified frying object.",1.2380952380952381,0.046630309199377724,147.0,122.0,15.0,10.0,556
-1284,Finally putting those stovetop meth classes to use.,1.2380952380952381,0.047619047619047616,147.0,123.0,13.0,11.0,556
-1284,So how was your trip to Fukushima?,1.2380952380952381,0.047619047619047616,147.0,123.0,13.0,11.0,556
-1284,"Yes, my life insurance is paid up. Why do you ask?",1.2380952380952381,0.04244565814741666,147.0,118.0,23.0,6.0,556
-1284,"So, this mean we're out of Beano again?",1.2380952380952381,0.04458710369376402,147.0,120.0,19.0,8.0,556
-1284,"I'm just saying, let's wait and see if the EPA is abolished.",1.2380952380952381,0.04244565814741666,147.0,118.0,23.0,6.0,556
-1284,"Okay, you win. Next time, we'll buy organic.",1.2380952380952381,0.04133335136970877,147.0,117.0,25.0,5.0,556
-1284,Are you sure we want to eat that?,1.2380952380952381,0.04458710369376402,147.0,120.0,19.0,8.0,556
-1284,How did the EPA confirmation hearing go?,1.2380952380952381,0.046630309199377724,147.0,122.0,15.0,10.0,556
-1284,"Open the oven door, Hal!",1.2380952380952381,0.04458710369376402,147.0,120.0,19.0,8.0,556
-1284,I'm sorry I called you a space cadet.,1.2380952380952381,0.04458710369376402,147.0,120.0,19.0,8.0,556
-1284,Your soufflé seems to be dissolving the bottom of the frying pan.,1.2380952380952381,0.04562014660118946,147.0,121.0,17.0,9.0,556
-1284,I like slipping into something more comfortable after work.,1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,I told you we'd make it to 2017.,1.2380952380952381,0.04133335136970877,147.0,117.0,25.0,5.0,556
-1284,I poured you some wine.,1.2380952380952381,0.047619047619047616,147.0,123.0,13.0,11.0,556
-1284,I don't think this is what your therapist meant by being more self-contained.,1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,"Seriously, we can get Chinese.",1.2380952380952381,0.04244565814741666,147.0,118.0,23.0,6.0,556
-1284,"""Kicking things up a notch"" was just a suggestion.",1.2380952380952381,0.04458710369376402,147.0,120.0,19.0,8.0,556
-1284,So...is this chili going to be spicy...?,1.2380952380952381,0.04244565814741666,147.0,118.0,23.0,6.0,556
-1284,Pufferfish again?,1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,So you think our relationship is becoming toxic ?,1.2380952380952381,0.04458710369376402,147.0,120.0,19.0,8.0,556
-1284,Why do I think we're having beans again?,1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,Have a drink. We still have at least a few weeks before the changes in the EPA kick in.,1.2380952380952381,0.04244565814741666,147.0,118.0,23.0,6.0,556
-1284,Your text message said you wanted to talk about an incident at work today. So how was your first day at the CDC infectious diseases lab?,1.2380952380952381,0.04458710369376402,147.0,120.0,19.0,8.0,556
-1284,Y'know what would really be out of this world? Bacon.,1.2380952380952381,0.04133335136970877,147.0,117.0,25.0,5.0,556
-1284,"So if we get the microwave fixed, you only need the lead vest, right?",1.2380952380952381,0.04562014660118946,147.0,121.0,17.0,9.0,556
-1284,It might be simpler to switch from Teflon to ceramic.,1.2380952380952381,0.04458710369376402,147.0,120.0,19.0,8.0,556
-1284,My atomic chili recipe is way simpler.,1.2380952380952381,0.04458710369376402,147.0,120.0,19.0,8.0,556
-1284,"Honey, what a strange question! Of course my life insurance premiums are fully paid.",1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,Was it something I said?,1.2380952380952381,0.04244565814741666,147.0,118.0,23.0,6.0,556
-1284,That hazmat suit would look great on my bedroom floor.,1.2380952380952381,0.04244565814741666,147.0,118.0,23.0,6.0,556
-1284,"This so-called therapist of yours, how long does he think I'm going to be toxic?",1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,Well...I thought you wanted more space.,1.2380952380952381,0.04244565814741666,147.0,118.0,23.0,6.0,556
-1284,"It was just a tiny, little fart and it’s come to this.",1.2380952380952381,0.04133335136970877,147.0,117.0,25.0,5.0,556
-1284,Seems like going gluten free shouldn't be quite that difficult.,1.2380952380952381,0.04562014660118946,147.0,121.0,17.0,9.0,556
-1284,I'm clearly not suited for this kind of food.,1.2380952380952381,0.04562014660118946,147.0,121.0,17.0,9.0,556
-1284,Are you really sure you don't mind making me fried beef liver with onions?,1.2380952380952381,0.04244565814741666,147.0,118.0,23.0,6.0,556
-1284,You could've just said no to liver and onions.,1.2380952380952381,0.04244565814741666,147.0,118.0,23.0,6.0,556
-1284,"Okay, I'll stop asking for onions in everything.",1.2380952380952381,0.04133335136970877,147.0,117.0,25.0,5.0,556
-1284,It smells like it's to die for!,1.2380952380952381,0.04244565814741666,147.0,118.0,23.0,6.0,556
-1284,Your gluten intolerance can't be THAT bad.,1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,"Beth, honey, you can't wear that for four years.",1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,"...or without onions would be fine, too.",1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,Maybe next time just buy the non-GMO beef.,1.2380952380952381,0.04458710369376402,147.0,120.0,19.0,8.0,556
-1284,'Toxic environment?' I said I was sorry.,1.2380952380952381,0.04458710369376402,147.0,120.0,19.0,8.0,556
-1284,You feel our marriage is that toxic?,1.2380952380952381,0.04244565814741666,147.0,118.0,23.0,6.0,556
-1284,Earth to Joan...,1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,Not sure what’s going into that; just remember I’m gluten-free.,1.2380952380952381,0.04458710369376402,147.0,120.0,19.0,8.0,556
-1284,Well if you keep serving beans what do you expect?,1.2380952380952381,0.046630309199377724,147.0,122.0,15.0,10.0,556
-1284,"So, as I was saying on my drive over here, the Ebola thing was just a false alarm, no one on the flight was at risk,",1.2380952380952381,0.04133335136970877,147.0,117.0,25.0,5.0,556
-1284,Applying for the kitchen staff at the Trump White House?,1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,Put in a little more Polonium 210...my mom is bringing a date.,1.2380952380952381,0.04458710369376402,147.0,120.0,19.0,8.0,556
-1284,"We'll, I think you're avoiding intimacy not depressurization.",1.2380952380952381,0.04562014660118946,147.0,121.0,17.0,9.0,556
-1284,I'm preparing for launch.,1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,Plutonium Paella tonight?,1.2380952380952381,0.04458710369376402,147.0,120.0,19.0,8.0,556
-1284,Is this because of the microwave?,1.2380952380952381,0.0435295515217296,147.0,119.0,21.0,7.0,556
-1284,Why do you put that thing on everytime I start talking about Trump?,1.2380952380952381,0.04562014660118946,147.0,121.0,17.0,9.0,556
-1284,I thought you said you wanted more space-- not to go to space.,1.2380952380952381,0.04244565814741666,147.0,118.0,23.0,6.0,556
-1284,So you're telling me you need space.,1.2380952380952381,0.03901371573204352,147.0,115.0,29.0,3.0,556
+1284,You'll be a chef to the stars one way or the other.,1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,"Oh, come on! It's only liver and onions. Could be worse!",1.238095238095238,0.04244565814741666,147.0,118.0,23.0,6.0,556
+1284,Are you cooking again for your nuclear family?,1.238095238095238,0.04562014660118946,147.0,121.0,17.0,9.0,556
+1284,"I appreciate that you still cook meat for me even after becoming vegan, but do you have to wear the suit every time?",1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,"One of these days I'll get the stove vent fixed, I promise.",1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,Haven't you heard? Air pollution is a hoax.,1.238095238095238,0.04562014660118946,147.0,121.0,17.0,9.0,556
+1284,Maybe you want to slip into something more comfortable?,1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,"New outfit, hon?",1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,"When you said UFO, I didn't think you meant unidentified frying object.",1.238095238095238,0.046630309199377724,147.0,122.0,15.0,10.0,556
+1284,Finally putting those stovetop meth classes to use.,1.238095238095238,0.047619047619047616,147.0,123.0,13.0,11.0,556
+1284,So how was your trip to Fukushima?,1.238095238095238,0.047619047619047616,147.0,123.0,13.0,11.0,556
+1284,"Yes, my life insurance is paid up. Why do you ask?",1.238095238095238,0.04244565814741666,147.0,118.0,23.0,6.0,556
+1284,"So, this mean we're out of Beano again?",1.238095238095238,0.04458710369376402,147.0,120.0,19.0,8.0,556
+1284,"I'm just saying, let's wait and see if the EPA is abolished.",1.238095238095238,0.04244565814741666,147.0,118.0,23.0,6.0,556
+1284,"Okay, you win. Next time, we'll buy organic.",1.238095238095238,0.04133335136970877,147.0,117.0,25.0,5.0,556
+1284,Are you sure we want to eat that?,1.238095238095238,0.04458710369376402,147.0,120.0,19.0,8.0,556
+1284,How did the EPA confirmation hearing go?,1.238095238095238,0.046630309199377724,147.0,122.0,15.0,10.0,556
+1284,"Open the oven door, Hal!",1.238095238095238,0.04458710369376402,147.0,120.0,19.0,8.0,556
+1284,I'm sorry I called you a space cadet.,1.238095238095238,0.04458710369376402,147.0,120.0,19.0,8.0,556
+1284,Your soufflé seems to be dissolving the bottom of the frying pan.,1.238095238095238,0.04562014660118946,147.0,121.0,17.0,9.0,556
+1284,I like slipping into something more comfortable after work.,1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,I told you we'd make it to 2017.,1.238095238095238,0.04133335136970877,147.0,117.0,25.0,5.0,556
+1284,I poured you some wine.,1.238095238095238,0.047619047619047616,147.0,123.0,13.0,11.0,556
+1284,I don't think this is what your therapist meant by being more self-contained.,1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,"Seriously, we can get Chinese.",1.238095238095238,0.04244565814741666,147.0,118.0,23.0,6.0,556
+1284,"""Kicking things up a notch"" was just a suggestion.",1.238095238095238,0.04458710369376402,147.0,120.0,19.0,8.0,556
+1284,So...is this chili going to be spicy...?,1.238095238095238,0.04244565814741666,147.0,118.0,23.0,6.0,556
+1284,Pufferfish again?,1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,So you think our relationship is becoming toxic ?,1.238095238095238,0.04458710369376402,147.0,120.0,19.0,8.0,556
+1284,Why do I think we're having beans again?,1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,Have a drink. We still have at least a few weeks before the changes in the EPA kick in.,1.238095238095238,0.04244565814741666,147.0,118.0,23.0,6.0,556
+1284,Your text message said you wanted to talk about an incident at work today. So how was your first day at the CDC infectious diseases lab?,1.238095238095238,0.04458710369376402,147.0,120.0,19.0,8.0,556
+1284,Y'know what would really be out of this world? Bacon.,1.238095238095238,0.04133335136970877,147.0,117.0,25.0,5.0,556
+1284,"So if we get the microwave fixed, you only need the lead vest, right?",1.238095238095238,0.04562014660118946,147.0,121.0,17.0,9.0,556
+1284,It might be simpler to switch from Teflon to ceramic.,1.238095238095238,0.04458710369376402,147.0,120.0,19.0,8.0,556
+1284,My atomic chili recipe is way simpler.,1.238095238095238,0.04458710369376402,147.0,120.0,19.0,8.0,556
+1284,"Honey, what a strange question! Of course my life insurance premiums are fully paid.",1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,Was it something I said?,1.238095238095238,0.04244565814741666,147.0,118.0,23.0,6.0,556
+1284,That hazmat suit would look great on my bedroom floor.,1.238095238095238,0.04244565814741666,147.0,118.0,23.0,6.0,556
+1284,"This so-called therapist of yours, how long does he think I'm going to be toxic?",1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,Well...I thought you wanted more space.,1.238095238095238,0.04244565814741666,147.0,118.0,23.0,6.0,556
+1284,"It was just a tiny, little fart and it’s come to this.",1.238095238095238,0.04133335136970877,147.0,117.0,25.0,5.0,556
+1284,Seems like going gluten free shouldn't be quite that difficult.,1.238095238095238,0.04562014660118946,147.0,121.0,17.0,9.0,556
+1284,I'm clearly not suited for this kind of food.,1.238095238095238,0.04562014660118946,147.0,121.0,17.0,9.0,556
+1284,Are you really sure you don't mind making me fried beef liver with onions?,1.238095238095238,0.04244565814741666,147.0,118.0,23.0,6.0,556
+1284,You could've just said no to liver and onions.,1.238095238095238,0.04244565814741666,147.0,118.0,23.0,6.0,556
+1284,"Okay, I'll stop asking for onions in everything.",1.238095238095238,0.04133335136970877,147.0,117.0,25.0,5.0,556
+1284,It smells like it's to die for!,1.238095238095238,0.04244565814741666,147.0,118.0,23.0,6.0,556
+1284,Your gluten intolerance can't be THAT bad.,1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,"Beth, honey, you can't wear that for four years.",1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,"...or without onions would be fine, too.",1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,Maybe next time just buy the non-GMO beef.,1.238095238095238,0.04458710369376402,147.0,120.0,19.0,8.0,556
+1284,'Toxic environment?' I said I was sorry.,1.238095238095238,0.04458710369376402,147.0,120.0,19.0,8.0,556
+1284,You feel our marriage is that toxic?,1.238095238095238,0.04244565814741666,147.0,118.0,23.0,6.0,556
+1284,Earth to Joan...,1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,Not sure what’s going into that; just remember I’m gluten-free.,1.238095238095238,0.04458710369376402,147.0,120.0,19.0,8.0,556
+1284,Well if you keep serving beans what do you expect?,1.238095238095238,0.046630309199377724,147.0,122.0,15.0,10.0,556
+1284,"So, as I was saying on my drive over here, the Ebola thing was just a false alarm, no one on the flight was at risk,",1.238095238095238,0.04133335136970877,147.0,117.0,25.0,5.0,556
+1284,Applying for the kitchen staff at the Trump White House?,1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,Put in a little more Polonium 210...my mom is bringing a date.,1.238095238095238,0.04458710369376402,147.0,120.0,19.0,8.0,556
+1284,"We'll, I think you're avoiding intimacy not depressurization.",1.238095238095238,0.04562014660118946,147.0,121.0,17.0,9.0,556
+1284,I'm preparing for launch.,1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,Plutonium Paella tonight?,1.238095238095238,0.04458710369376402,147.0,120.0,19.0,8.0,556
+1284,Is this because of the microwave?,1.238095238095238,0.0435295515217296,147.0,119.0,21.0,7.0,556
+1284,Why do you put that thing on everytime I start talking about Trump?,1.238095238095238,0.04562014660118946,147.0,121.0,17.0,9.0,556
+1284,I thought you said you wanted more space-- not to go to space.,1.238095238095238,0.04244565814741666,147.0,118.0,23.0,6.0,556
+1284,So you're telling me you need space.,1.238095238095238,0.03901371573204352,147.0,115.0,29.0,3.0,556
 1351,I think you'll find that once you get past the smell it tastes really good.,1.2328767123287672,0.04458499749835465,146.0,120.0,18.0,8.0,556
 1351,Fine. Your gluten intolerance is a real thing. Now will you take that off before dinner?,1.2328767123287672,0.04563217410137119,146.0,121.0,16.0,9.0,556
 1351,"Actually, I would prefer it if you would change out of your work clothes before preparing dinner.",1.2328767123287672,0.0466558530573326,146.0,122.0,14.0,10.0,556
@@ -1368,32 +1368,32 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1351,You sure it was a soupçon of plutonium?,1.2328767123287672,0.04241315101886642,146.0,118.0,22.0,6.0,556
 1351,"""I think I'll pass on whatever it is you're cooking.",1.2328767123287672,0.04563217410137119,146.0,121.0,16.0,9.0,556
 1351,Is our marriage really that toxic?,1.2328767123287672,0.0401239175152433,146.0,116.0,26.0,4.0,556
-1351,"Hey, you're the one who asked for some space.",1.2328767123287672,0.04128440465913986,146.0,117.0,24.0,5.0,556
+1351,"Hey, you're the one who asked for some space.",1.2328767123287672,0.041284404659139864,146.0,117.0,24.0,5.0,556
 1351,That in no way proves you're allergic to cooking.,1.2328767123287672,0.04458499749835465,146.0,120.0,18.0,8.0,556
-1351,I think you are taking fusion cooking too literally.,1.2328767123287672,0.04128440465913986,146.0,117.0,24.0,5.0,556
+1351,I think you are taking fusion cooking too literally.,1.2328767123287672,0.041284404659139864,146.0,117.0,24.0,5.0,556
 1351,OK Honey. We can take Liver and onions off the menu.,1.2328767123287672,0.0376959166779497,146.0,114.0,30.0,2.0,556
 1351,Not too spicy.,1.2328767123287672,0.0401239175152433,146.0,116.0,26.0,4.0,556
 1351,What do you mean you got the recipe from The Alternative Facts Cookbook?,1.2328767123287672,0.04458499749835465,146.0,120.0,18.0,8.0,556
 1351,Something tells me this is going to be out of this world.,1.2328767123287672,0.043512626795434106,146.0,119.0,20.0,7.0,556
 1351,Role-play tonight? I'll get the probes.,1.2328767123287672,0.04458499749835465,146.0,120.0,18.0,8.0,556
 1351,All right...I admit it...your cooking is out if this world!,1.2328767123287672,0.04241315101886642,146.0,118.0,22.0,6.0,556
-1351,And you want me to eat it?,1.2328767123287672,0.04128440465913986,146.0,117.0,24.0,5.0,556
+1351,And you want me to eat it?,1.2328767123287672,0.041284404659139864,146.0,117.0,24.0,5.0,556
 1351,"Okay, I'm sorry. Next time I will buy organic produce.",1.2328767123287672,0.04241315101886642,146.0,118.0,22.0,6.0,556
 1351,You seem preoccupied.,1.2328767123287672,0.0401239175152433,146.0,116.0,26.0,4.0,556
-1351,"You may be taking the ""tuna may contain traces of argon"" warning a bit too seriously.",1.2328767123287672,0.04128440465913986,146.0,117.0,24.0,5.0,556
+1351,"You may be taking the ""tuna may contain traces of argon"" warning a bit too seriously.",1.2328767123287672,0.041284404659139864,146.0,117.0,24.0,5.0,556
 1351,You can’t keep living off the griddle like this.,1.2328767123287672,0.04241315101886642,146.0,118.0,22.0,6.0,556
 1351,He hasn't dismantled the EPA yet.,1.2328767123287672,0.04241315101886642,146.0,118.0,22.0,6.0,556
 1351,"Your farts don't smell that good, either",1.2328767123287672,0.043512626795434106,146.0,119.0,20.0,7.0,556
 1351,I'm guessing this has something to do with my joke at the party about your cooking.,1.2328767123287672,0.043512626795434106,146.0,119.0,20.0,7.0,556
-1351,"Next time, I'd be happy to slice the onions.",1.2328767123287672,0.04128440465913986,146.0,117.0,24.0,5.0,556
+1351,"Next time, I'd be happy to slice the onions.",1.2328767123287672,0.041284404659139864,146.0,117.0,24.0,5.0,556
 1351,Your cooking it's already out of this world.,1.2328767123287672,0.043512626795434106,146.0,119.0,20.0,7.0,556
 1351,Am I invading your personal space?,1.2328767123287672,0.0376959166779497,146.0,114.0,30.0,2.0,556
 1351,Remember when one glass was enough to decompress?,1.2328767123287672,0.04563217410137119,146.0,121.0,16.0,9.0,556
-1351,I'll go set the lead plates out.,1.2328767123287672,0.04128440465913986,146.0,117.0,24.0,5.0,556
+1351,I'll go set the lead plates out.,1.2328767123287672,0.041284404659139864,146.0,117.0,24.0,5.0,556
 1351,Our relationship does not exist in a vacuum.,1.2328767123287672,0.04563217410137119,146.0,121.0,16.0,9.0,556
 1351,"Gosh, I miss the EPA.",1.2328767123287672,0.04241315101886642,146.0,118.0,22.0,6.0,556
 1351,I only suggested we have onions,1.2328767123287672,0.04458499749835465,146.0,120.0,18.0,8.0,556
-1351,I'm getting a vibe here you'd rather eat out tonight.,1.2328767123287672,0.04128440465913986,146.0,117.0,24.0,5.0,556
+1351,I'm getting a vibe here you'd rather eat out tonight.,1.2328767123287672,0.041284404659139864,146.0,117.0,24.0,5.0,556
 1351,Will you be joining me for dinner?,1.2328767123287672,0.04458499749835465,146.0,120.0,18.0,8.0,556
 1351,Trump roast?,1.2328767123287672,0.04563217410137119,146.0,121.0,16.0,9.0,556
 1351,"If you can't stand the heat, just get out of the kitchen.",1.2328767123287672,0.04563217410137119,146.0,121.0,16.0,9.0,556
@@ -1507,21 +1507,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1505,Well I am not gassy now!,1.2222222222222223,0.04232515160144289,144.0,118.0,20.0,6.0,556
 1507,Most people with peanut allergies would simply avoid them.,1.2206896551724138,0.039717592053266665,145.0,117.0,24.0,4.0,556
 1507,Mother always made liver without all this.,1.2206896551724138,0.0384928782750353,145.0,116.0,26.0,3.0,556
-1509,"Honey, I don't feel much like dinner tonight.",1.2198581560283688,0.045118552136180934,141.0,118.0,15.0,8.0,556
-1509,"Come back to earth, Alice.",1.2198581560283688,0.045118552136180934,141.0,118.0,15.0,8.0,556
+1509,"Honey, I don't feel much like dinner tonight.",1.2198581560283688,0.04511855213618093,141.0,118.0,15.0,8.0,556
+1509,"Come back to earth, Alice.",1.2198581560283688,0.04511855213618093,141.0,118.0,15.0,8.0,556
 1509,Ok fine I'll get the mild onions next time.,1.2198581560283688,0.04398143499559284,141.0,117.0,17.0,7.0,556
 1509,"He's bad, yes, but wouldn't Canada be closer?",1.2198581560283688,0.0428141273609289,141.0,116.0,19.0,6.0,556
-1509,"Honey, I'm seriously rethinking my decision not to join you in therapy.",1.2198581560283688,0.045118552136180934,141.0,118.0,15.0,8.0,556
+1509,"Honey, I'm seriously rethinking my decision not to join you in therapy.",1.2198581560283688,0.04511855213618093,141.0,118.0,15.0,8.0,556
 1509,Honey-you seem to be a little on edge lately with his EPA pick,1.2198581560283688,0.04398143499559284,141.0,117.0,17.0,7.0,556
 1509,I am dreading the dishes.,1.2198581560283688,0.04398143499559284,141.0,117.0,17.0,7.0,556
-1509,"No, I don't think gluten is airborne.",1.2198581560283688,0.045118552136180934,141.0,118.0,15.0,8.0,556
+1509,"No, I don't think gluten is airborne.",1.2198581560283688,0.04511855213618093,141.0,118.0,15.0,8.0,556
 1509,Heavy on the garlic tonight?,1.2198581560283688,0.0428141273609289,141.0,116.0,19.0,6.0,556
 1509,I see my 'toxic personality' crack is still on the table.,1.2198581560283688,0.04037840086593826,141.0,114.0,23.0,4.0,556
 1509,Might I suggest a vintage 1963 Tang pairing?,1.2198581560283688,0.04398143499559284,141.0,117.0,17.0,7.0,556
 1509,We could ask them not to talk politics,1.2198581560283688,0.04037840086593826,141.0,114.0,23.0,4.0,556
 1509,Looks spicy.,1.2198581560283688,0.04161408870904326,141.0,115.0,21.0,5.0,556
 1509,Worst Cooks in America called...you're in.,1.2198581560283688,0.03910368440309283,141.0,113.0,25.0,3.0,556
-1509,I thought we only had to move to Canada.,1.2198581560283688,0.045118552136180934,141.0,118.0,15.0,8.0,556
+1509,I thought we only had to move to Canada.,1.2198581560283688,0.04511855213618093,141.0,118.0,15.0,8.0,556
 1509,"You know, you could just leave the onions out.",1.2198581560283688,0.04037840086593826,141.0,114.0,23.0,4.0,556
 1509,OK! I promise never to eat baked beans in the house again.,1.2198581560283688,0.04037840086593826,141.0,114.0,23.0,4.0,556
 1509,OK ABSOLUTELY the last time I ask for liver and onions on my birthday.,1.2198581560283688,0.03910368440309283,141.0,113.0,25.0,3.0,556
@@ -1530,7 +1530,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1509,Oh boy! Habanera chili.,1.2198581560283688,0.0428141273609289,141.0,116.0,19.0,6.0,556
 1509,It's been two weeks . . . I don't think I'm still contagious.,1.2198581560283688,0.04398143499559284,141.0,117.0,17.0,7.0,556
 1509,We could just move to Canada; we don't have to leave the planet.,1.2198581560283688,0.04398143499559284,141.0,117.0,17.0,7.0,556
-1509,You've never looked more beautiful.,1.2198581560283688,0.045118552136180934,141.0,118.0,15.0,8.0,556
+1509,You've never looked more beautiful.,1.2198581560283688,0.04511855213618093,141.0,118.0,15.0,8.0,556
 1509,I had beans for lunch.,1.2198581560283688,0.0428141273609289,141.0,116.0,19.0,6.0,556
 1509,There's nothing like liver and onions to set the mood.,1.2198581560283688,0.03910368440309283,141.0,113.0,25.0,3.0,556
 1509,"When I said our relationship was becoming toxic, I wasn't being literal.",1.2198581560283688,0.04037840086593826,141.0,114.0,23.0,4.0,556
@@ -1551,7 +1551,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1509,"I'm good, thanks--had a late lunch.",1.2198581560283688,0.04398143499559284,141.0,117.0,17.0,7.0,556
 1509,I saw it on America's Nuclear Test Kitchen.,1.2198581560283688,0.04037840086593826,141.0,114.0,23.0,4.0,556
 1509,I think I'll eat out tonight.,1.2198581560283688,0.0428141273609289,141.0,116.0,19.0,6.0,556
-1509,Monsanto veggies again?,1.2198581560283688,0.045118552136180934,141.0,118.0,15.0,8.0,556
+1509,Monsanto veggies again?,1.2198581560283688,0.04511855213618093,141.0,118.0,15.0,8.0,556
 1509,So you won't be having the wine?,1.2198581560283688,0.0428141273609289,141.0,116.0,19.0,6.0,556
 1509,What false news story pushed your buttons today?,1.2198581560283688,0.04398143499559284,141.0,117.0,17.0,7.0,556
 1509,Wouldn't it be easier to just stop using Teflon?,1.2198581560283688,0.04037840086593826,141.0,114.0,23.0,4.0,556
@@ -1567,7 +1567,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1509,Come on. Liver and onions doesn't smell that bad.,1.2198581560283688,0.04037840086593826,141.0,114.0,23.0,4.0,556
 1509,I guess you really do need more space.,1.2198581560283688,0.04398143499559284,141.0,117.0,17.0,7.0,556
 1509,Don't you think you're taking that vegan thing a little too seriously? It's just bacon!,1.2198581560283688,0.04037840086593826,141.0,114.0,23.0,4.0,556
-1509,"Chilli's hot, huh?",1.2198581560283688,0.045118552136180934,141.0,118.0,15.0,8.0,556
+1509,"Chilli's hot, huh?",1.2198581560283688,0.04511855213618093,141.0,118.0,15.0,8.0,556
 1509,I think we better start eating organic.,1.2198581560283688,0.04622770672939547,141.0,119.0,13.0,9.0,556
 1509,"Honey, I get the sense you have something simmering.",1.2198581560283688,0.04037840086593826,141.0,114.0,23.0,4.0,556
 1509,"All right, I get it. I like my wings spicier than you do.",1.2198581560283688,0.04037840086593826,141.0,114.0,23.0,4.0,556
@@ -1586,7 +1586,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1509,Somethings different. Did you change your hair style ?,1.2198581560283688,0.04622770672939547,141.0,119.0,13.0,9.0,556
 1509,"Yep, just like Mama used to make.",1.2198581560283688,0.04398143499559284,141.0,117.0,17.0,7.0,556
 1509,How about some extra mustard gas and pepper spray on mine?,1.2198581560283688,0.04622770672939547,141.0,119.0,13.0,9.0,556
-1509,"So, I guess this isn't going to be heart healthy?",1.2198581560283688,0.045118552136180934,141.0,118.0,15.0,8.0,556
+1509,"So, I guess this isn't going to be heart healthy?",1.2198581560283688,0.04511855213618093,141.0,118.0,15.0,8.0,556
 1509,Another one of your mother's recipes?,1.2198581560283688,0.0428141273609289,141.0,116.0,19.0,6.0,556
 1509,Dating sites should really have a question asking whether you're okay with Monsanto or not.,1.2198581560283688,0.04161408870904326,141.0,115.0,21.0,5.0,556
 1509,Can I help with anything?,1.2198581560283688,0.04398143499559284,141.0,117.0,17.0,7.0,556
@@ -1602,10 +1602,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1593,You were joking when you said you'd kill me if I voted for him and he won the election. Right?,1.2158273381294964,0.041805999871785085,139.0,114.0,20.0,5.0,556
 1593,Habaneros?,1.2158273381294964,0.0392328025530814,139.0,112.0,24.0,3.0,556
 1593,"Dear, cooking ""sous vide,"" is for the food.",1.2158273381294964,0.04539311477466193,139.0,117.0,14.0,8.0,556
-1593,Are you still mad about the HPV?,1.2158273381294964,0.036478541185996534,139.0,110.0,28.0,1.0,556
+1593,Are you still mad about the HPV?,1.2158273381294964,0.03647854118599653,139.0,110.0,28.0,1.0,556
 1593,Allow me to point out that liver-and-Brussels sprouts night was your idea.,1.2158273381294964,0.0392328025530814,139.0,112.0,24.0,3.0,556
 1593,I did not mean 'out of this world' cooking literally.,1.2158273381294964,0.041805999871785085,139.0,114.0,20.0,5.0,556
-1593,Kidneys or liver and onions?,1.2158273381294964,0.036478541185996534,139.0,110.0,28.0,1.0,556
+1593,Kidneys or liver and onions?,1.2158273381294964,0.03647854118599653,139.0,110.0,28.0,1.0,556
 1593,"Would you be terribly offended, Dear, if the kids and I ordered take-out tonight?",1.2158273381294964,0.04303493975637712,139.0,115.0,18.0,6.0,556
 1593,I take it you're from Venus.,1.2158273381294964,0.041805999871785085,139.0,114.0,20.0,5.0,556
 1593,"When you said you needed some space, you really meant it.",1.2158273381294964,0.037880712527799135,139.0,111.0,26.0,2.0,556
@@ -1632,7 +1632,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1593,"I still think the recipe meant to read stir in 'spice,' not in space.",1.2158273381294964,0.04053982252951266,139.0,113.0,22.0,4.0,556
 1593,I actually think we have some Tang in the cupboard left over from the 60's.,1.2158273381294964,0.04652740357575247,139.0,118.0,12.0,9.0,556
 1593,I didn't know this is what you meant when you said you need your space.,1.2158273381294964,0.04539311477466193,139.0,117.0,14.0,8.0,556
-1593,I'm making this just for you.,1.2158273381294964,0.04871681550154493,139.0,120.0,8.0,11.0,556
+1593,I'm making this just for you.,1.2158273381294964,0.048716815501544934,139.0,120.0,8.0,11.0,556
 1593,It's only bacon.,1.2158273381294964,0.04303493975637712,139.0,115.0,18.0,6.0,556
 1593,"I take it, it's not organic.",1.2158273381294964,0.041805999871785085,139.0,114.0,20.0,5.0,556
 1593,"Eggs make me gassy, not toxic...but point taken.",1.2158273381294964,0.041805999871785085,139.0,114.0,20.0,5.0,556
@@ -1667,7 +1667,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1593,"Honey, I don't think gluten is volatile.",1.2158273381294964,0.0392328025530814,139.0,112.0,24.0,3.0,556
 1593,One of us is in trouble.,1.2158273381294964,0.041805999871785085,139.0,114.0,20.0,5.0,556
 1593,"It's the body wash, right?",1.2158273381294964,0.0392328025530814,139.0,112.0,24.0,3.0,556
-1593,"i get it, am from Venus and you are from Mars !",1.2158273381294964,0.036478541185996534,139.0,110.0,28.0,1.0,556
+1593,"i get it, am from Venus and you are from Mars !",1.2158273381294964,0.03647854118599653,139.0,110.0,28.0,1.0,556
 1593,So you don't like my new cologne?,1.2158273381294964,0.04303493975637712,139.0,115.0,18.0,6.0,556
 1593,Let me guess - not cage free?,1.2158273381294964,0.04053982252951266,139.0,113.0,22.0,4.0,556
 1593,But I kind of like it when you smell like bacon...,1.2158273381294964,0.04303493975637712,139.0,115.0,18.0,6.0,556
@@ -1956,12 +1956,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1954,"Is this another entrée from the ""Chernobyl Cookbook?""",1.2,0.03906027149530451,135.0,111.0,21.0,3.0,556
 1954,"Oh, The Martians called to say they might be a little late.",1.2,0.04179499310101612,135.0,113.0,17.0,5.0,556
 1957,"Honey, if you can hear me, I poured you a glass of wine the old fashioned way.",1.1954887218045114,0.03767364538009038,133.0,109.0,22.0,2.0,556
-1957,"Honey, I know you don't like liver and onions like I do, but this is over the top.",1.1954887218045114,0.04058504514387407,133.0,111.0,18.0,4.0,556
-1957,"Okay, I get it, I wanted fresh fish.",1.1954887218045114,0.04058504514387407,133.0,111.0,18.0,4.0,556
+1957,"Honey, I know you don't like liver and onions like I do, but this is over the top.",1.1954887218045114,0.040585045143874066,133.0,111.0,18.0,4.0,556
+1957,"Okay, I get it, I wanted fresh fish.",1.1954887218045114,0.040585045143874066,133.0,111.0,18.0,4.0,556
 1957,Not liver and onions again!,1.1954887218045114,0.036130075971025306,133.0,108.0,24.0,1.0,556
 1957,Is it hot in here or is it just me?,1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
 1957,"I think we should have tossed the ""leftovers.""",1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
-1957,"Yet, another try at Habanera Pepper hash?",1.1954887218045114,0.04058504514387407,133.0,111.0,18.0,4.0,556
+1957,"Yet, another try at Habanera Pepper hash?",1.1954887218045114,0.040585045143874066,133.0,111.0,18.0,4.0,556
 1957,What have you learned from your Breaking Bad binge?,1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
 1957,"Ectoplasm, again?",1.1954887218045114,0.043301134193411,133.0,113.0,14.0,6.0,556
 1957,Alright! I'll never ask you to make my mother's recipe if you take that damn thing off.,1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
@@ -1969,13 +1969,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1957,"A bottle of Stoli, Chernobyl Stroganoff, and thou.",1.1954887218045114,0.043301134193411,133.0,113.0,14.0,6.0,556
 1957,"Well, add a little Bean-o then.",1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
 1957,"Same roles, new packaging.",1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
-1957,Maybe you should cut back on the garlic some.,1.1954887218045114,0.04058504514387407,133.0,111.0,18.0,4.0,556
+1957,Maybe you should cut back on the garlic some.,1.1954887218045114,0.040585045143874066,133.0,111.0,18.0,4.0,556
 1957,There's being cautious and then there's being a crackpot.,1.1954887218045114,0.043301134193411,133.0,113.0,14.0,6.0,556
 1957,"I don't want to know, just give me the alternate facts.",1.1954887218045114,0.044597190371014776,133.0,114.0,12.0,7.0,556
 1957,"Zelda, you say you're allergic to dairy, nuts, sulfites, and gluten, but I'm beginning to think you're allergic to me.",1.1954887218045114,0.03915641355866943,133.0,110.0,20.0,3.0,556
 1957,Back to non-organic GMO food?,1.1954887218045114,0.03915641355866943,133.0,110.0,20.0,3.0,556
 1957,"OK, OK, I promise not to fart in the kitchen anymore!",1.1954887218045114,0.044597190371014776,133.0,114.0,12.0,7.0,556
-1957,Will you be joining me for dinner?,1.1954887218045114,0.04058504514387407,133.0,111.0,18.0,4.0,556
+1957,Will you be joining me for dinner?,1.1954887218045114,0.040585045143874066,133.0,111.0,18.0,4.0,556
 1957,"I know you said you weren't going to cook bacon in the nude anymore, but...",1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
 1957,This'll be a nice break from all those freeze-dried meals.,1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
 1957,"Honey, all I said was to wash your hands.",1.1954887218045114,0.043301134193411,133.0,113.0,14.0,6.0,556
@@ -1984,15 +1984,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1957,"One of these days, Alice!",1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
 1957,"I take it you didn't like my use of the phrase ""barefoot and pregnant.""",1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
 1957,"Oh, my What toxic mess are you serving up tonight?",1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
-1957,What do you say we forget the toxic stew and go out?,1.1954887218045114,0.04058504514387407,133.0,111.0,18.0,4.0,556
+1957,What do you say we forget the toxic stew and go out?,1.1954887218045114,0.040585045143874066,133.0,111.0,18.0,4.0,556
 1957,Why the cold shoulder?,1.1954887218045114,0.043301134193411,133.0,113.0,14.0,6.0,556
-1957,"If you didn't want to cook Mexican, all you had to do was say so.",1.1954887218045114,0.04058504514387407,133.0,111.0,18.0,4.0,556
+1957,"If you didn't want to cook Mexican, all you had to do was say so.",1.1954887218045114,0.040585045143874066,133.0,111.0,18.0,4.0,556
 1957,A little gluten isn't going to kill you.,1.1954887218045114,0.044597190371014776,133.0,114.0,12.0,7.0,556
 1957,"Ok ok, you can skip the onions next time.",1.1954887218045114,0.03915641355866943,133.0,110.0,20.0,3.0,556
 1957,I might be drunk ... but I'm not radioactive pork chops two nights in a row drunk.,1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
-1957,You shouldn't believe everything you read about Teflon coating.,1.1954887218045114,0.04058504514387407,133.0,111.0,18.0,4.0,556
+1957,You shouldn't believe everything you read about Teflon coating.,1.1954887218045114,0.040585045143874066,133.0,111.0,18.0,4.0,556
 1957,How's the chili?,1.1954887218045114,0.03915641355866943,133.0,110.0,20.0,3.0,556
-1957,You really need to stop watching those Chernobyl Cooking Shows.,1.1954887218045114,0.04058504514387407,133.0,111.0,18.0,4.0,556
+1957,You really need to stop watching those Chernobyl Cooking Shows.,1.1954887218045114,0.040585045143874066,133.0,111.0,18.0,4.0,556
 1957,Your taking this 'Men are from Mars' thing a little serious aren't you?,1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
 1957,The division of labor in this household has become toxic,1.1954887218045114,0.03915641355866943,133.0,110.0,20.0,3.0,556
 1957,Five-alarm chili again?,1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
@@ -2002,15 +2002,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1957,Can I have the Tang before breakfast?,1.1954887218045114,0.04585663044251375,133.0,115.0,10.0,8.0,556
 1957,You do know that you can always find another study with a different conclusion.,1.1954887218045114,0.043301134193411,133.0,113.0,14.0,6.0,556
 1957,"it's JUST liver & onions, ya'know",1.1954887218045114,0.044597190371014776,133.0,114.0,12.0,7.0,556
-1957,I don't think you'd be having such a problem if it was your mother's recipe.,1.1954887218045114,0.04058504514387407,133.0,111.0,18.0,4.0,556
+1957,I don't think you'd be having such a problem if it was your mother's recipe.,1.1954887218045114,0.040585045143874066,133.0,111.0,18.0,4.0,556
 1957,You're dressing like a woman? I don't get it.,1.1954887218045114,0.043301134193411,133.0,113.0,14.0,6.0,556
 1957,"Honey, you are not still mad at me, are you??? What exactly is this special surprise dinner you are cooking for me???",1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
-1957,Making the Chernobyl recipe ?,1.1954887218045114,0.04058504514387407,133.0,111.0,18.0,4.0,556
+1957,Making the Chernobyl recipe ?,1.1954887218045114,0.040585045143874066,133.0,111.0,18.0,4.0,556
 1957,"Helen, the fresh tuna was twice as much.",1.1954887218045114,0.04196506947311111,133.0,112.0,16.0,5.0,556
 1957,I think this Barolo will do nicely with the liver and onions.,1.1954887218045114,0.03915641355866943,133.0,110.0,20.0,3.0,556
 1957,Life was better before your appointment as under secretary of the EPA!,1.1954887218045114,0.043301134193411,133.0,113.0,14.0,6.0,556
 1957,Maybe I should have mentioned this earlier but I don't even like onions.,1.1954887218045114,0.043301134193411,133.0,113.0,14.0,6.0,556
-1957,"Don't you dare turn your pack on me!""",1.1954887218045114,0.04058504514387407,133.0,111.0,18.0,4.0,556
+1957,"Don't you dare turn your pack on me!""",1.1954887218045114,0.040585045143874066,133.0,111.0,18.0,4.0,556
 2013,So...you're not going to drink a glass of wine.,1.1940298507462686,0.04553650546129048,134.0,116.0,10.0,8.0,556
 2013,Did you remember to remove the poison gland?,1.1940298507462686,0.040307442576898216,134.0,112.0,18.0,4.0,556
 2013,I didn't realize that making your own Sriracha was so involved.,1.1940298507462686,0.04167626156127724,134.0,113.0,16.0,5.0,556
@@ -2019,7 +2019,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2017,We could do take-out.,1.1908396946564883,0.03924493424609722,131.0,109.0,19.0,3.0,556
 2017,Could I have my plutonium sunny side up?,1.1908396946564883,0.04483217719858914,131.0,113.0,11.0,7.0,556
 2017,Ovulating again?,1.1908396946564883,0.04350269302318415,131.0,112.0,13.0,6.0,556
-2017,Guess you won't hear OR smell my bullshit!,1.1908396946564883,0.047379359815834333,131.0,115.0,7.0,9.0,556
+2017,Guess you won't hear OR smell my bullshit!,1.1908396946564883,0.04737935981583433,131.0,115.0,7.0,9.0,556
 2017,I love it when you innovate.,1.1908396946564883,0.04213127684005191,131.0,111.0,15.0,5.0,556
 2017,"With no FDA, I am not taking any chances.",1.1908396946564883,0.04213127684005191,131.0,111.0,15.0,5.0,556
 2017,And I say that it's your fault for serving me baked beans and asparagus.,1.1908396946564883,0.04071369150638141,131.0,110.0,17.0,4.0,556
@@ -2292,25 +2292,25 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2289,"Are we having '20,000 Legumes Under the Peas'?",1.1746031746031746,0.03916487749407272,126.0,107.0,16.0,3.0,556
 2289,I hate the smell of cabbage.,1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
 2289,"After Flint, you just can't be too safe.",1.1746031746031746,0.03916487749407272,126.0,107.0,16.0,3.0,556
-2289,"So, I spent all morning getting estimates on new A/C unit and I think I finally figured out why toilet won't flush...how was your day?",1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
+2289,"So, I spent all morning getting estimates on new A/C unit and I think I finally figured out why toilet won't flush...how was your day?",1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
 2289,I did not know that Williams-Sonoma sold habanero cooking suits.,1.1746031746031746,0.03916487749407272,126.0,107.0,16.0,3.0,556
 2289,"Wow, Doris, do they really eat 'Hamburger Helper' on the International Space Station?",1.1746031746031746,0.03916487749407272,126.0,107.0,16.0,3.0,556
 2289,I was being sarcastic.,1.1746031746031746,0.03577596085582426,126.0,105.0,20.0,1.0,556
-2289,Blue Apron?,1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
+2289,Blue Apron?,1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
 2289,"All right, I won't buy GMO foods anymore.",1.1746031746031746,0.03916487749407272,126.0,107.0,16.0,3.0,556
-2289,"So how's that ""let's try GMOs"" working out?",1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
-2289,You know I get gassy when I drink...,1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
-2289,This new diet really suits you.,1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
+2289,"So how's that ""let's try GMOs"" working out?",1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
+2289,You know I get gassy when I drink...,1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
+2289,This new diet really suits you.,1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
 2289,Shall I bring you the Geiger counter?,1.1746031746031746,0.03916487749407272,126.0,107.0,16.0,3.0,556
 2289,Is this from your Jacques Cousteau Cookbook again?,1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
 2289,"Despite how you feel, you are still the very air I breathe.",1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
-2289,"No, I have always supported your dream of becoming an astronaut.",1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
-2289,Seriously... who has been giving you cooking lessons?,1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
+2289,"No, I have always supported your dream of becoming an astronaut.",1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
+2289,Seriously... who has been giving you cooking lessons?,1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
 2289,Well I know one company that hopes climate change is real.,1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
 2289,Aren't you taking this gluten obsession a bit far?,1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
 2289,Since when does a flambe require a hazmat suit?,1.1746031746031746,0.03750871234982077,126.0,106.0,18.0,2.0,556
-2289,You made your point--I'll settle for the tofurkey....!,1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
-2289,Not sure how to turn you on . . . ?!,1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
+2289,You made your point--I'll settle for the tofurkey....!,1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
+2289,Not sure how to turn you on . . . ?!,1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
 2289,Maybe you should try using less onions and spice next time.,1.1746031746031746,0.03750871234982077,126.0,106.0,18.0,2.0,556
 2289,"It may by gluten free, but are you sure Plutonium is wholesome?",1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
 2289,What's the ETA?,1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
@@ -2329,21 +2329,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2289,"The sarcasm notwithstanding, I’m looking forward to the fish and scrapple.",1.1746031746031746,0.03916487749407272,126.0,107.0,16.0,3.0,556
 2289,No wiggle room on cilantro?,1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
 2289,You knew what you were in for when you married a cardiologist.,1.1746031746031746,0.03750871234982077,126.0,106.0,18.0,2.0,556
-2289,"You know, most accidents happen at home and they're called dinner.",1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
+2289,"You know, most accidents happen at home and they're called dinner.",1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
 2289,"""I take it you're from Planet of the Crepes, Suzette.",1.1746031746031746,0.03916487749407272,126.0,107.0,16.0,3.0,556
 2289,Well then maybe you should stop cooking beans.,1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
 2289,"So, what do you think of my new after shave?",1.1746031746031746,0.03916487749407272,126.0,107.0,16.0,3.0,556
-2289,More garlic.,1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
+2289,More garlic.,1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
 2289,She's so vegan she can't even smell the bacon.,1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
-2289,Can I help it if I like my food spicy?,1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
+2289,Can I help it if I like my food spicy?,1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
 2289,I poured you a glass of pinot.,1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
 2289,"When I said salmon, it was just a suggestion.",1.1746031746031746,0.03916487749407272,126.0,107.0,16.0,3.0,556
-2289,When I said explore the kitchen for a change this isn't what I meant,1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
-2289,What's your next wish?,1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
+2289,When I said explore the kitchen for a change this isn't what I meant,1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
+2289,What's your next wish?,1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
 2289,"No, I don't think lamb chops smell like feet, but thank you for making them all the same.",1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
 2289,I see you are already dressed for your meeting with the President.,1.1746031746031746,0.03916487749407272,126.0,107.0,16.0,3.0,556
 2289,"I know you're upset that Trump has halted climate change research, but...",1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
-2289,"So how was Venus, Dear?",1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
+2289,"So how was Venus, Dear?",1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
 2289,I take it they were out of the non-GMO onions.,1.1746031746031746,0.03916487749407272,126.0,107.0,16.0,3.0,556
 2289,When is this fucking acid going to wear off?,1.1746031746031746,0.043758884927270536,126.0,110.0,10.0,6.0,556
 2289,The wine needs to breathe a bit.,1.1746031746031746,0.03750871234982077,126.0,106.0,18.0,2.0,556
@@ -2351,9 +2351,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2289,I think you should stop reading those survivalist blogs.,1.1746031746031746,0.03750871234982077,126.0,106.0,18.0,2.0,556
 2289,"After 30 years of marriage, she finally indulged his ""nuclear winter"" fantasy",1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
 2289,Not what I meant when I said we really needed to spice things up.,1.1746031746031746,0.03916487749407272,126.0,107.0,16.0,3.0,556
-2289,I'd like mine solar-flare side up.,1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
+2289,I'd like mine solar-flare side up.,1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
 2289,"You know, out of the frying pan and into the fire is just an expression.",1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
-2289,Enjoying your new freedom from food regulations?,1.1746031746031746,0.042283044865453784,126.0,109.0,12.0,5.0,556
+2289,Enjoying your new freedom from food regulations?,1.1746031746031746,0.04228304486545378,126.0,109.0,12.0,5.0,556
 2289,"Honey, should I just cook if the bacon is that scary?",1.1746031746031746,0.03750871234982077,126.0,106.0,18.0,2.0,556
 2289,I just want a nuclear family.,1.1746031746031746,0.03750871234982077,126.0,106.0,18.0,2.0,556
 2289,I love a good homemade organic meal.,1.1746031746031746,0.040753794376841165,126.0,108.0,14.0,4.0,556
@@ -2542,13 +2542,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2528,I'm telling you the package said 'Gluten Free.',1.168,0.038914297894799055,125.0,107.0,15.0,3.0,556
 2528,I'm willing to eat out on fish night.,1.168,0.03721948847822396,125.0,106.0,17.0,2.0,556
 2528,"Honey, is that another kitchen gadget from Amazon?",1.168,0.04053831321983782,125.0,108.0,13.0,4.0,556
-2528,Cooking onions again?,1.168,0.04209972798931359,125.0,109.0,11.0,5.0,556
+2528,Cooking onions again?,1.168,0.042099727989313586,125.0,109.0,11.0,5.0,556
 2528,"Honey, I think we need to talk about our toxic relationship.",1.168,0.038914297894799055,125.0,107.0,15.0,3.0,556
 2528,"Look, I'm sorry I didn't get the cage-free, antibiotic free, organic eggs!!",1.168,0.038914297894799055,125.0,107.0,15.0,3.0,556
 2528,I get the point. You hate to cook fish.,1.168,0.038914297894799055,125.0,107.0,15.0,3.0,556
 2528,"Something smells good, but you wouldn't know it.",1.168,0.038914297894799055,125.0,107.0,15.0,3.0,556
 2528,Just because it's my mother's recipe doesn't mean it requires a haz-mat suit.,1.168,0.038914297894799055,125.0,107.0,15.0,3.0,556
-2528,So after John eats that we can finally be together?,1.168,0.04209972798931359,125.0,109.0,11.0,5.0,556
+2528,So after John eats that we can finally be together?,1.168,0.042099727989313586,125.0,109.0,11.0,5.0,556
 2551,"Hon, the exhaust fan repairman promised that he would be here tomorrow.",1.1652173913043478,0.04266205659437598,115.0,100.0,11.0,4.0,556
 2552,Sorry about the fart joke.,1.1639344262295082,0.0425457598319529,122.0,107.0,10.0,5.0,556
 2552,"So, how is this more advanced than the Paleo Diet?",1.1639344262295082,0.0425457598319529,122.0,107.0,10.0,5.0,556
@@ -2862,33 +2862,33 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2861,I should get the pre-cut onions next time.,1.15,0.036763305295450514,120.0,104.0,14.0,2.0,556
 2861,"You're not supposed to use metal on non-stick, you know",1.15,0.04039372056476633,120.0,106.0,10.0,4.0,556
 2861,When are you supposed to add the garlic?,1.15,0.03273268353539887,120.0,102.0,18.0,0.0,556
-2861,"Look, I know you don't like my mother, but is this really necessary?",1.15,0.038621194164026866,120.0,105.0,12.0,3.0,556
-2861,Is it a food allergy or just a sensitivity?,1.15,0.038621194164026866,120.0,105.0,12.0,3.0,556
+2861,"Look, I know you don't like my mother, but is this really necessary?",1.15,0.03862119416402687,120.0,105.0,12.0,3.0,556
+2861,Is it a food allergy or just a sensitivity?,1.15,0.03862119416402687,120.0,105.0,12.0,3.0,556
 2861,Is it the onions or were you thinking about John Glenn again?,1.15,0.04039372056476633,120.0,106.0,10.0,4.0,556
-2861,Why didn't you just tell me you were gluten free?,1.15,0.038621194164026866,120.0,105.0,12.0,3.0,556
+2861,Why didn't you just tell me you were gluten free?,1.15,0.03862119416402687,120.0,105.0,12.0,3.0,556
 2861,The recipe includes gluten?,1.15,0.04039372056476633,120.0,106.0,10.0,4.0,556
-2861,That's NOT how Rachel Ray does it.,1.15,0.038621194164026866,120.0,105.0,12.0,3.0,556
-2861,I keep telling you that my mother's recipe was better.,1.15,0.038621194164026866,120.0,105.0,12.0,3.0,556
+2861,That's NOT how Rachel Ray does it.,1.15,0.03862119416402687,120.0,105.0,12.0,3.0,556
+2861,I keep telling you that my mother's recipe was better.,1.15,0.03862119416402687,120.0,105.0,12.0,3.0,556
 2861,You've been reading too much Rachel Carson.,1.15,0.04039372056476633,120.0,106.0,10.0,4.0,556
-2861,I'm guessing you missed the deadline to sign up for Obamacare,1.15,0.038621194164026866,120.0,105.0,12.0,3.0,556
-2861,"I know it's your body, but isn't this overdoing it a bit?",1.15,0.038621194164026866,120.0,105.0,12.0,3.0,556
-2861,Is there something you want to say to me?,1.15,0.038621194164026866,120.0,105.0,12.0,3.0,556
+2861,I'm guessing you missed the deadline to sign up for Obamacare,1.15,0.03862119416402687,120.0,105.0,12.0,3.0,556
+2861,"I know it's your body, but isn't this overdoing it a bit?",1.15,0.03862119416402687,120.0,105.0,12.0,3.0,556
+2861,Is there something you want to say to me?,1.15,0.03862119416402687,120.0,105.0,12.0,3.0,556
 2861,I've got your hazardous material right here.,1.15,0.04039372056476633,120.0,106.0,10.0,4.0,556
 2861,"Honey, I'm sure survivalist don't wear the gear all day long.",1.15,0.036763305295450514,120.0,104.0,14.0,2.0,556
-2861,A lid on the skillet would've prevented oil splash just as well.,1.15,0.038621194164026866,120.0,105.0,12.0,3.0,556
+2861,A lid on the skillet would've prevented oil splash just as well.,1.15,0.03862119416402687,120.0,105.0,12.0,3.0,556
 2861,"What's for dinner?"" ""What's left of Trumps heart over some Monsanto grown veggies.",1.15,0.04039372056476633,120.0,106.0,10.0,4.0,556
 2861,"Well, the smell of frying liver never bothered me.",1.15,0.036763305295450514,120.0,104.0,14.0,2.0,556
 2861,new recipe from Pinterest?,1.15,0.04209167000100365,120.0,107.0,8.0,5.0,556
-2861,"Honey, I said I decided to start wearing deodorant!",1.15,0.038621194164026866,120.0,105.0,12.0,3.0,556
+2861,"Honey, I said I decided to start wearing deodorant!",1.15,0.03862119416402687,120.0,105.0,12.0,3.0,556
 2861,Does this mean we'll be dining at El Charro again tonight?,1.15,0.03480638725632892,120.0,103.0,16.0,1.0,556
-2861,Experimenting with molecular gastroradiology again?,1.15,0.038621194164026866,120.0,105.0,12.0,3.0,556
+2861,Experimenting with molecular gastroradiology again?,1.15,0.03862119416402687,120.0,105.0,12.0,3.0,556
 2861,Whatever happened to barefoot and pregnant in the kitchen?,1.15,0.036763305295450514,120.0,104.0,14.0,2.0,556
 2861,I thought we agreed to stop taking work home.,1.15,0.036763305295450514,120.0,104.0,14.0,2.0,556
 2861,Let me guess...you want to get out of the city and get some fresh country air this weekend.,1.15,0.04039372056476633,120.0,106.0,10.0,4.0,556
-2861,"Sure we can expect major problems, but are going to wear that in bed too?",1.15,0.038621194164026866,120.0,105.0,12.0,3.0,556
+2861,"Sure we can expect major problems, but are going to wear that in bed too?",1.15,0.03862119416402687,120.0,105.0,12.0,3.0,556
 2861,You’re the one who insisted on spicy nine-bean casserole.,1.15,0.03480638725632892,120.0,103.0,16.0,1.0,556
-2861,"With no more FDA or EPA, Martha Stewart has come out with a new line of safe yet fashionable kitchen wear. What do you think, Harold?",1.15,0.038621194164026866,120.0,105.0,12.0,3.0,556
-2861,Fried fish from the Flint River for dinner?,1.15,0.038621194164026866,120.0,105.0,12.0,3.0,556
+2861,"With no more FDA or EPA, Martha Stewart has come out with a new line of safe yet fashionable kitchen wear. What do you think, Harold?",1.15,0.03862119416402687,120.0,105.0,12.0,3.0,556
+2861,Fried fish from the Flint River for dinner?,1.15,0.03862119416402687,120.0,105.0,12.0,3.0,556
 2861,"""My comment on your mother was not toxic""!",1.15,0.04209167000100365,120.0,107.0,8.0,5.0,556
 2861,"Gourmet cooking is only one of the seven tests. The next one, sexual creativity, is a little harder in this outfit.",1.15,0.04209167000100365,120.0,107.0,8.0,5.0,556
 2861,Blue Apron featuring Anthrax and snap peas again?,1.15,0.04039372056476633,120.0,106.0,10.0,4.0,556
@@ -3085,38 +3085,38 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3079,Does this mean you don't trust your own cooking??,1.1403508771929824,0.037124548537213656,114.0,100.0,12.0,2.0,556
 3079,It must be the wine... this looks hotter than Victoria's Secret.,1.1403508771929824,0.037124548537213656,114.0,100.0,12.0,2.0,556
 3086,Have you ever considered that some of the benefits of the space program may be a little over-hyped?,1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
-3086,Another extraterrestrial recipe?,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,Another extraterrestrial recipe?,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,"So, you don't mind putting in more garlic?",1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
 3086,I think this kitchen needs more space.,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,"""Spock calling Lt. Uhuru, come in please""!",1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
-3086,"I knew we were going to eat in, but in what, exactly?",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,"I knew we were going to eat in, but in what, exactly?",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,"Honest, I don't think your cooking smells that bad.",1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
 3086,"With your cooking, you're going to need a cast iron stomach too.",1.1391304347826088,0.04258424865692624,115.0,104.0,6.0,5.0,556
 3086,Gluten isn't THAT bad.,1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
 3086,Couldn't you just make the gluten-free version?,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
-3086,"Since I got the Hazmat outfit for you, you seem more confident.",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
-3086,I am pretty sure veganism doesn't require this.,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,"Since I got the Hazmat outfit for you, you seem more confident.",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
+3086,I am pretty sure veganism doesn't require this.,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,"You know, I may have to rethink this wine pairing.",1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,And I always thought all you needed was an apron.,1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
 3086,I told you earthlings and aliens are one and the same.,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,I stand corrected. Proper usage. You are literally allergic to cooking.,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
-3086,"I really like you, but I have a feeling that your germaphobia will make our sex life a bit complicated",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,"I really like you, but I have a feeling that your germaphobia will make our sex life a bit complicated",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,Cooking up a solar storm?,1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
 3086,I just love the smell of foreplay.,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,Five-alarm chili again?,1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
-3086,I see that sous vide has become somewhat pedestrian.,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,I see that sous vide has become somewhat pedestrian.,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,I don't want to inhale any calories.,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,"Come on, Joan. I was just joking about you giving me girl cooties.",1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
-3086,Please save the drama for your mama... Liver isn't that bad...,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
-3086,Cologne too much?,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,Please save the drama for your mama... Liver isn't that bad...,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
+3086,Cologne too much?,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,"I know the current political climate is toxic, but isn't this a little extreme?",1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
 3086,So we're having Beef Smellington?,1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
-3086,I didn't have time to change.,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,I didn't have time to change.,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,"I don't know why, but I still struggle with abandonment issues.",1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,Maybe if you didn't use the Trump wine......,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,"Honey, are you sure this is paleo?",1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,"Oh, there's more than one kind of simmering going on here.",1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
-3086,I'm just not ready to go full vegan.,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,I'm just not ready to go full vegan.,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,Shall we toast to our new life insurance policies?,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,"I guess you would know a thing or two about sunny side up, eh?",1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
 3086,Darling... Maybe you should lay off Facebook for a while.,1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
@@ -3127,16 +3127,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3086,"Honey, these Trump Steaks can't be that bad.",1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,I'm not so crazy about the smell of kidneys cooking either.,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,I think you're taking the whole vegan thing a little too far.,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
-3086,And you wonder why I don't eat your food.,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,And you wonder why I don't eat your food.,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,You say this recipe came out of the presidential cookbook?,1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
-3086,"Hunny, I thought we went over this. My elitism is hereditary, not contagious.",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,"Hunny, I thought we went over this. My elitism is hereditary, not contagious.",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,"Your cooking isn't THAT bad, Carol.",1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
 3086,Radiation ravioli my favorite.,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,It doesn't have to be Mexican again,1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
-3086,So you call this place Planet Earth?,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,So you call this place Planet Earth?,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,"No offense, but your Limburger, onion, and Spam scramble has never been a favorite of mine.",1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
 3086,"So, how are the cooking classes going with Walter White?",1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
-3086,Your dating profile didn't mention that it was an airborne gluten allergy.,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,Your dating profile didn't mention that it was an airborne gluten allergy.,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,Did you watch another Global Warming documentary?,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,"You are over reacting to my parents, they promised to be fumigated before coming over to see us.",1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
 3086,"You could have just skipped the onions, you know.",1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
@@ -3145,34 +3145,34 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3086,#dresslikeawoman,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,"I think I'm finally over that mysterious virus you gave me.........and remember, the faster you cook the omelet, the lighter it will be.",1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
 3086,I told you I was allergic to housework. That includes cooking.,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
-3086,"So, uh, whatcha cookin'?",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,"So, uh, whatcha cookin'?",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,Don't you think removing the smoke alarm battery would be an easier solution?,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,I read that gluten contamination isn't really a thing...but I totally support you.,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,"Honey, shouldn't we just buy organic?",1.1391304347826088,0.032413604045081486,115.0,99.0,16.0,0.0,556
-3086,"OK, I'll turn the heat up!",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,"OK, I'll turn the heat up!",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,Careful - that's got gluten.,1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
 3086,"Laura, dearest, are you quite sure you have entirely understood the concept of cooking 'sous vide'?",1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
-3086,"You know some people will think this was a hoax, right?",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
-3086,"You know, we could have just ordered take-out.",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
-3086,I thought you'd come to terms with genetic engineering.,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,"You know some people will think this was a hoax, right?",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
+3086,"You know, we could have just ordered take-out.",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
+3086,I thought you'd come to terms with genetic engineering.,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,Did you march in those boots?,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,"Um, that's not quite what I meant when I advised you to protect your assets.",1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
 3086,Moving on from molecular to atomic cooking?,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,"Marge, you do know that’s just a Hoover.",1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
-3086,"Honey, our new Waring Oven wasn't intended for wearing.",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,"Honey, our new Waring Oven wasn't intended for wearing.",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,"So...you gonna ""science"" the $#!t out of those latkes?",1.1391304347826088,0.04258424865692624,115.0,104.0,6.0,5.0,556
 3086,""" suits you "".",1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,"Your cooking is not that bad, Sylvia !",1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
-3086,"If you don't want to cook with cilantro, just say so.",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,"If you don't want to cook with cilantro, just say so.",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,"Well, maybe one person's toxic environment is another person's breath of fresh air.",1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
-3086,"""Kidneys and cabbage again, huh?",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
-3086,I see you've opted for the nuclear entree.,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
-3086,"Dear, aren't you taking this EPA gag rule a bit too far?",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,"""Kidneys and cabbage again, huh?",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
+3086,I see you've opted for the nuclear entree.,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
+3086,"Dear, aren't you taking this EPA gag rule a bit too far?",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,Now that broccoli smell won't make you pinch your nose.,1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
 3086,That still doesn't make it organic.,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,At least wait till after I forget Valentine's day to go out of your way to ignore me.,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
-3086,I'm sorry you don't like the atmosphere of the new place.,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
-3086,"If my dinner is that toxic, how about we go out to your favorite restaurant instead?",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,I'm sorry you don't like the atmosphere of the new place.,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
+3086,"If my dinner is that toxic, how about we go out to your favorite restaurant instead?",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,I'm sure lactose isn't airborne,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,I presume Virgin Galactic hasn't called.,1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
 3086,I think Dr. Goldberg will see this as progress. Your aggression is finally becoming less passive.,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
@@ -3183,7 +3183,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3086,I'm surprised writing for The Onion hasn't inured you to this by now.,1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
 3086,"Carl thought to himself, ""So this is what she meant when she said she was a gastronomist.""",1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
 3086,"Okay, is it my after shave or you want to see Rogue One again?",1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
-3086,Very funny! So I made you cook one night instead of ordering in.!,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,Very funny! So I made you cook one night instead of ordering in.!,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,Now I know why your moonshine is so good.,1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
 3086,"Hun, let me decide if it's out of this world",1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
 3086,So this is your solution to our marriage being a toxic environment?,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
@@ -3191,19 +3191,19 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3086,Your position on fried foods is duly noted. Now when's supper?,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,"I'm pretty sure you can't just tell Venus immigration that you're from there, but what do I know, I'm from Mars.",1.1391304347826088,0.032413604045081486,115.0,99.0,16.0,0.0,556
 3086,Shouldn't this tang be slightly chilled?,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
-3086,Something tells me you wanted me to cut the onions.,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,Something tells me you wanted me to cut the onions.,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,Why don't you just start by quitting Facebook?,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,Did I thank you for cooking me fish this evening?,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,I guess you figured out that our guests are antivaxxers.,1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
-3086,"Darling, don't you think you're taking your role in Arrival a little too seriously?",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,"Darling, don't you think you're taking your role in Arrival a little too seriously?",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,Go easy on the cyanide.,1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
 3086,Not a fan of bacon?,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
-3086,"Really, Lois? Just because you're not Vegan....",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,"Really, Lois? Just because you're not Vegan....",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,WTF?,1.1391304347826088,0.04075368612013156,115.0,103.0,8.0,4.0,556
-3086,It's nice they let you disembark early.,1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
-3086,"One small step for pan, one giant leap for pan fried.",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
-3086,"Hon, I don't think there are any peanuts in an omelet.",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
-3086,"Honey, the aliens aren't coming until after dinner.",1.1391304347826088,0.03682054222556701,115.0,101.0,12.0,2.0,556
+3086,It's nice they let you disembark early.,1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
+3086,"One small step for pan, one giant leap for pan fried.",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
+3086,"Hon, I don't think there are any peanuts in an omelet.",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
+3086,"Honey, the aliens aren't coming until after dinner.",1.1391304347826088,0.036820542225567014,115.0,101.0,12.0,2.0,556
 3086,"I said kinky, not clinky.",1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
 3086,So I am guessing hanky pinky is off the table.,1.1391304347826088,0.03468713058885158,115.0,100.0,14.0,1.0,556
 3086,Post-molecular gastronomy? Don't you think it is a bit over the top?,1.1391304347826088,0.038836936427600506,115.0,102.0,10.0,3.0,556
@@ -3253,7 +3253,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3237,I thought 'Molecular Cooking' is passé?,1.1327433628318584,0.03665972787294317,113.0,100.0,11.0,2.0,556
 3237,"Air today, gone tomorrow.",1.1327433628318584,0.03665972787294317,113.0,100.0,11.0,2.0,556
 3237,"Seriously, Honey. Nobody's grabbing.",1.1327433628318584,0.03665972787294317,113.0,100.0,11.0,2.0,556
-3237,I thought Trump had eliminated that regulation.,1.1327433628318584,0.04263823502917839,113.0,103.0,5.0,5.0,556
+3237,I thought Trump had eliminated that regulation.,1.1327433628318584,0.042638235029178385,113.0,103.0,5.0,5.0,556
 3237,Does that go with red or white wine?,1.1327433628318584,0.03665972787294317,113.0,100.0,11.0,2.0,556
 3237,Don't stand so close--the pesticides are burning off.,1.1327433628318584,0.03665972787294317,113.0,100.0,11.0,2.0,556
 3237,Want a refill on the Chateau Tang?,1.1327433628318584,0.03875517333999831,113.0,101.0,9.0,3.0,556
@@ -3587,32 +3587,32 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3583,"I thought you were nuts until he took office, but I'm starting to see your point about nuclear apocalypse...",1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,I didn't think scrambled eggs would be such a big deal.,1.1111111111111112,0.030381596756651686,108.0,96.0,12.0,0.0,556
 3583,How long until dinner's ready?,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
-3583,The odor of despair isn't so bad if you have enough vodka.,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,The odor of despair isn't so bad if you have enough vodka.,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,I am not too happy with your attitude when it comes to cooking liver and onions for me.,1.1111111111111112,0.030381596756651686,108.0,96.0,12.0,0.0,556
 3583,Onions again?,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,"Honey, did you actually SEE the salmon patties at the store that WEREN'T on sale? I'm not saying, I'm just saying.",1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,"No, Jane, this doesn't make you a real protestor.",1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
-3583,Stir cray?,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,Stir cray?,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,"Is this ""space"" diet making you feel lighter?",1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
-3583,Ice cream for dessert?,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
-3583,Is that another one of your Raid omelets?,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,Ice cream for dessert?,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
+3583,Is that another one of your Raid omelets?,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,Is that for the Presidential Banquet?,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,Make mine sunnyside weightless.,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,"When I told you your cooking was out of this world, I didn't think you'd take it so literally.",1.1111111111111112,0.030381596756651686,108.0,96.0,12.0,0.0,556
-3583,So ? We both have day jobs... I'll wash up.,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
-3583,... and so I told Linda that she could take her stapler and stick it you know where.,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,So ? We both have day jobs... I'll wash up.,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
+3583,... and so I told Linda that she could take her stapler and stick it you know where.,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,Did you remember to mail the check for my life insurance premium?,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,You are taking this non-GMO thing too far,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,What ARE you making?,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,"Honey, Trump isn't going to invade the kitchen if you put too much oil in the pan...",1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
-3583,Planned Parenthood is closed; so am I.,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
-3583,You act like sex is a dirty.,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,Planned Parenthood is closed; so am I.,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
+3583,You act like sex is a dirty.,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,I don't think this new diet is all that healthy.,1.1111111111111112,0.030381596756651686,108.0,96.0,12.0,0.0,556
-3583,Isn't she out of this world...,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,Isn't she out of this world...,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,So you're sure there's nothing dangerous about these GMO's.,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,i like a strong cheese in my omelets,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,I hope it's the wine... this is getting me hotter than Victoria's Secret.,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
-3583,Now you're just being a jerk.,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,Now you're just being a jerk.,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,"Brussel Sprout and bean stew, dear? You better keep that suit on.",1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,"How much did the FATVAC 5000 set us back, Linda? Linda?",1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,Cooking ghost chilis again?,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
@@ -3620,8 +3620,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3583,MMmmm!! Homemade salsa!!,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,The new FDA board has high praise for the 'Chernobyl Diet'.,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,Beans again ?,1.1111111111111112,0.04019107472557346,108.0,100.0,4.0,4.0,556
-3583,I see you are making another dish form the Apollo 13 cookbook? Will you be serving a little duct tape with that?,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
-3583,"Oh dear, your cooking isn't that bad.",1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,I see you are making another dish form the Apollo 13 cookbook? Will you be serving a little duct tape with that?,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
+3583,"Oh dear, your cooking isn't that bad.",1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,Dior?,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,Aren't you taking this non-organic food thing a little too far?,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,So just how many ectoplasm meals do we have to have till that suit pays for itself?,1.1111111111111112,0.030381596756651686,108.0,96.0,12.0,0.0,556
@@ -3637,10 +3637,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3583,She's TANKED! I'm getting Tanked!!!,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,Were the vegetables not organic?,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,Making a roux requires a very controlled environment...,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
-3583,"Honey, I'm not sure that's what they ment by ""dress for the job you want"".",1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,"Honey, I'm not sure that's what they ment by ""dress for the job you want"".",1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,Did you say Alfredo Parsnip or Arsenic?,1.1111111111111112,0.030381596756651686,108.0,96.0,12.0,0.0,556
 3583,My mom's kugel recipe isn't that bad.,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
-3583,Make mine spicy.,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,Make mine spicy.,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,"It's just all the same shit on Mars, huh?",1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,"The fish is GMO, honey. Not OMG.",1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,Mars ain't the kind of place to raise your kids.,1.1111111111111112,0.030381596756651686,108.0,96.0,12.0,0.0,556
@@ -3648,9 +3648,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3583,Let me guess what it is now! lifestyle environmentalism?,1.1111111111111112,0.030381596756651686,108.0,96.0,12.0,0.0,556
 3583,it's a new world with many new threats.,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,Radar range or radium range - what's the difference?,1.1111111111111112,0.030381596756651686,108.0,96.0,12.0,0.0,556
-3583,Are you whipping up some Mars-mellows again?,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
-3583,"You know, since you became an ethical vegan, maybe I should start cooking for myself.",1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
-3583,Stand back. I'm cooking off the carcinogens.,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,Are you whipping up some Mars-mellows again?,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
+3583,"You know, since you became an ethical vegan, maybe I should start cooking for myself.",1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
+3583,Stand back. I'm cooking off the carcinogens.,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,"Honey! That's not what ""take your protein and put your helmet on"" means.",1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,Something is fishy.,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,How about we treat ourselves to something no one has ever voted on.,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
@@ -3659,13 +3659,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3583,You don't smell that?,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,Sorry. I think in some cultures that was considered a compliment.,1.1111111111111112,0.030381596756651686,108.0,96.0,12.0,0.0,556
 3583,"If it smells bad, maybe we should just order takeout.",1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
-3583,Fish for dinner? Sure wish we hadn't moved to Flint...,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,Fish for dinner? Sure wish we hadn't moved to Flint...,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,Onions or garlic this time?,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,"Can you still hear me, Helen ?......Miriam!",1.1111111111111112,0.04019107472557346,108.0,100.0,4.0,4.0,556
 3583,You Hillary lovers are gonna have to move on!,1.1111111111111112,0.030381596756651686,108.0,96.0,12.0,0.0,556
 3583,"Just because I wouldn't remodel the kitchen, doesn't mean you can declare it an EPA hazard site!",1.1111111111111112,0.030381596756651686,108.0,96.0,12.0,0.0,556
 3583,"Sure, metaphorically one could say I'm from Mars, where are you from?",1.1111111111111112,0.030381596756651686,108.0,96.0,12.0,0.0,556
-3583,"Uh, you do know the invite read ""Soups R' Fun!"" and not ""Superfund!""?",1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,"Uh, you do know the invite read ""Soups R' Fun!"" and not ""Superfund!""?",1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,Well she does always tell me I'm on a different planet...,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,"GMOs won't hurt you, dear-- but we need to talk about your dependence on essential oils.",1.1111111111111112,0.04019107472557346,108.0,100.0,4.0,4.0,556
 3583,It's far more important to capture the flavor.,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
@@ -3677,22 +3677,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3583,"My thing's sauterne, yours is saute. Where did we go amok?",1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,"No spontaneous sex in that pan of yours, I take it?",1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,It's sea floor-to-table.,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
-3583,"..and then he said, ""Todd, you're sucking the air out of the room"", and I said ""What makes you say that?"" and then I noticed that I hadn't shown him my vacation pics, so I said...",1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,"..and then he said, ""Todd, you're sucking the air out of the room"", and I said ""What makes you say that?"" and then I noticed that I hadn't shown him my vacation pics, so I said...",1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,Just because he blocked the EPA tweets doesn't mean we'll end up like China,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,Boy that fish tank and vacuum cleaner really looks good on you.,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
-3583,"What's this, the new 'no molecules' diet?",1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,"What's this, the new 'no molecules' diet?",1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,Next time I'll cook your favorite toxic food.,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,I hope you're not adding onions just for me.,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,You serving me beans again?,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
-3583,I don't think its normal to have that much anxiety about going paleo.,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
-3583,Sautéed onions always make me gassy.,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
-3583,Whipping up some flatulence cakes?,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,I don't think its normal to have that much anxiety about going paleo.,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
+3583,Sautéed onions always make me gassy.,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
+3583,Whipping up some flatulence cakes?,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,Cabbage & sauerkraut surprise again?,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,I don't think you got that recipe from Hell's Kitchen.,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
-3583,its good you're the one cooking; i always space out,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,its good you're the one cooking; i always space out,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,Maybe you should just upgrade to full robot.,1.1111111111111112,0.04019107472557346,108.0,100.0,4.0,4.0,556
 3583,Do you have to wear that every time you make me liver and onions?,1.1111111111111112,0.030381596756651686,108.0,96.0,12.0,0.0,556
-3583,"I'm sorry, but you know chateauneuf du pape makes me gassy.",1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,"I'm sorry, but you know chateauneuf du pape makes me gassy.",1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3583,Who ya gonna call? Toastbusters?,1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,"For the last time, I'm sorry about I bought the GMO",1.1111111111111112,0.03562558005899987,108.0,98.0,8.0,2.0,556
 3583,Aren't you taking this fear of GMOs a bit too far?,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
@@ -3703,7 +3703,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 3583,"Honey, should I serve red or white with dinner?",1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,"Still don't trust the product's stated ""Expiration Date"".",1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
 3583,The aroma is so heavenly!,1.1111111111111112,0.03310757750141195,108.0,97.0,10.0,1.0,556
-3583,GMO's in the turkey bacon?,1.1111111111111112,0.037976995945814614,108.0,99.0,6.0,3.0,556
+3583,GMO's in the turkey bacon?,1.1111111111111112,0.03797699594581461,108.0,99.0,6.0,3.0,556
 3706,"Look: If that's how you're going to be, don't add fish sauce.",1.1100917431192658,0.032818267139664126,109.0,98.0,10.0,1.0,556
 3706,It's not a war crime if you don't make me eat it.,1.1100917431192658,0.035311943069701895,109.0,99.0,8.0,2.0,556
 3706,"I agree, breakfast for dinner is the final frontier.",1.1100917431192658,0.035311943069701895,109.0,99.0,8.0,2.0,556
@@ -4078,7 +4078,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4063,How many megascovilles?,1.088235294117647,0.03147491066319622,102.0,94.0,7.0,1.0,556
 4063,Did you forget to buy free-range?,1.088235294117647,0.028222915166426082,102.0,93.0,9.0,0.0,556
 4063,"Honestly, Sweetie, Walter White was NOT cooking Liver & Onions!",1.088235294117647,0.03147491066319622,102.0,94.0,7.0,1.0,556
-4063,May the prep for the culinary dystopia be with you.,1.088235294117647,0.03713413689297199,102.0,96.0,3.0,3.0,556
+4063,May the prep for the culinary dystopia be with you.,1.088235294117647,0.037134136892971986,102.0,96.0,3.0,3.0,556
 4063,I don't care what SafetySuit says; I think you should just put that in the microwave!,1.088235294117647,0.028222915166426082,102.0,93.0,9.0,0.0,556
 4063,"You know, we are still in America...",1.088235294117647,0.03147491066319622,102.0,94.0,7.0,1.0,556
 4063,Breaking Bad egg soufflé?,1.088235294117647,0.03147491066319622,102.0,94.0,7.0,1.0,556
@@ -4086,7 +4086,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4063,Will onions on my burger help mollify your vegan sensibilities?,1.088235294117647,0.034421026452171405,102.0,95.0,5.0,2.0,556
 4063,"Ditch that stupid Survivalist Cooking Suit, I've ordered a pizza.",1.088235294117647,0.03147491066319622,102.0,94.0,7.0,1.0,556
 4063,"Take that, onions!",1.088235294117647,0.034421026452171405,102.0,95.0,5.0,2.0,556
-4063,"It might seem alien, but it's still America.",1.088235294117647,0.03713413689297199,102.0,96.0,3.0,3.0,556
+4063,"It might seem alien, but it's still America.",1.088235294117647,0.037134136892971986,102.0,96.0,3.0,3.0,556
 4063,I simply don't know why you are so mad at me. All I did was belittle every dream of yours.,1.088235294117647,0.028222915166426082,102.0,93.0,9.0,0.0,556
 4063,"It's just that, Teflon is poisonous",1.088235294117647,0.034421026452171405,102.0,95.0,5.0,2.0,556
 4063,Just looking on. I see you already have kitchen aid.,1.088235294117647,0.03147491066319622,102.0,94.0,7.0,1.0,556
@@ -4097,7 +4097,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4063,"Honey, do you think you're maybe vacuuming too much?",1.088235294117647,0.028222915166426082,102.0,93.0,9.0,0.0,556
 4063,"You're taking this gluten thing a little too seriously, dear.",1.088235294117647,0.03147491066319622,102.0,94.0,7.0,1.0,556
 4063,Do I have something stuck in my teeth?,1.088235294117647,0.034421026452171405,102.0,95.0,5.0,2.0,556
-4063,I'm already imagining your upgrade path,1.088235294117647,0.03713413689297199,102.0,96.0,3.0,3.0,556
+4063,I'm already imagining your upgrade path,1.088235294117647,0.037134136892971986,102.0,96.0,3.0,3.0,556
 4063,GMO skillet dinner again?,1.088235294117647,0.028222915166426082,102.0,93.0,9.0,0.0,556
 4063,...So it helps the wine-in-a-box get into your system faster?,1.088235294117647,0.034421026452171405,102.0,95.0,5.0,2.0,556
 4063,Your a la plancha toxico just kills me,1.088235294117647,0.03147491066319622,102.0,94.0,7.0,1.0,556
@@ -4131,7 +4131,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4063,To boldly sloppy joe where no pan has gone before.,1.088235294117647,0.03147491066319622,102.0,94.0,7.0,1.0,556
 4063,Rocket burgers require enough jalapenos so you are gassy for the return trip home.,1.088235294117647,0.034421026452171405,102.0,95.0,5.0,2.0,556
 4063,"Admit it, the sauerkraut avoidance comes second to the passive aggression.",1.088235294117647,0.028222915166426082,102.0,93.0,9.0,0.0,556
-4063,"You never listen even without that thing on, your hair is from the sixties, your faddish gluten thing is just that, you need a check up from the neck up, and another thing...",1.088235294117647,0.03713413689297199,102.0,96.0,3.0,3.0,556
+4063,"You never listen even without that thing on, your hair is from the sixties, your faddish gluten thing is just that, you need a check up from the neck up, and another thing...",1.088235294117647,0.037134136892971986,102.0,96.0,3.0,3.0,556
 4134,The nuclear winter after Obama's inauguration was apparently much worse.,1.087378640776699,0.03678182110360849,103.0,97.0,3.0,3.0,556
 4134,"Fine, I'll use the gum and patches.",1.087378640776699,0.031179601432647187,103.0,95.0,7.0,1.0,556
 4134,...and then the boss said 'Yes.' What's for dinner?,1.087378640776699,0.02796068912597064,103.0,94.0,9.0,0.0,556
@@ -4195,12 +4195,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4188,"Sure, I'll have a taste. You over your stupid tantrum?",1.0865384615384617,0.03088977042533617,104.0,96.0,7.0,1.0,556
 4188,Was it something I tooted?,1.0865384615384617,0.03088977042533617,104.0,96.0,7.0,1.0,556
 4188,"So hon, whats for dinner tonight?",1.0865384615384617,0.033776980538764594,104.0,97.0,5.0,2.0,556
-4197,Maybe I don't want to evolve.,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,Maybe I don't want to evolve.,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,"Can't be too careful, eh?",1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
-4197,What's this? Overkill again?,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,What's this? Overkill again?,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,"Hey honey, I see you are getting ready to leave for space...care to make some food for me while you are gone?",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"If you think I'm gonna eat that, you're freakin' crazy!!!!",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
-4197,Did that make the Martian 100 best cook book recipes?,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,Did that make the Martian 100 best cook book recipes?,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,"The nonstick coating is such a ripoff. They guarantee it for life, but it offgasses cyanide.",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"Honey, I know your cooking isn't great, but come on",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,Post-apocalyptic is really in right now.,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
@@ -4215,21 +4215,21 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4197,"What did you have in mind for dinner, honey, radioactive possum?",1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,"Yeah, Patricia, I'd say this qualifies as a Carpe diem Hail Mary meme!",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"Dear, 'Press of a button. Executive orders. Maniac.'--these are all scary terms. What I want to know is--why didn't you order me a pack?",1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
-4197,Do we need a hazmat certificate?,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,Do we need a hazmat certificate?,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,"Yes, Dear, I know Space Station Party Catering is expanding rapidly. THAT'S why I think you should also insist on mileage reimbursement.",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,Can I yell 'opa' when you light the saganaki?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"If I were you, I'd add a soupçon of iron filings to counteract the anti-gravity effect of outer space.",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"Really, dear, you ought to just try Spam.",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,I already apologized! I love your cooking...,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
-4197,We can repeal and replace it with this.,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,We can repeal and replace it with this.,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,I thought we discussed that recipe?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,I am sorry but I really like kidney stew.,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
-4197,This recipe has been handed down for generations.,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,This recipe has been handed down for generations.,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,it's the give me more space suit...,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,Dinner to go?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,Do you really need to accessorize with the Teflon pan?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
-4197,Who said the next four years would be tough?,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
-4197,I don't know. I can't smell a damn thing.,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,Who said the next four years would be tough?,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
+4197,I don't know. I can't smell a damn thing.,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,"Shouldn't it be ground beef brown, Hazmat suit yellow?",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"No, that doesn't turn me on, either.",1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,Aah! Retro hazmat suit for retro meat smoke pollution. Neato.,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
@@ -4242,7 +4242,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4197,point taken! that dish is history.,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,Isn't 'air of disappointment' largely metaphoric and therefore not subject to physical protections?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"My mom prefers her ""Aromatic Cod"" a dash less passive-aggressive.",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
-4197,Really? I was just kidding when I said...,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,Really? I was just kidding when I said...,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,Don't ever ask me how much I paid for my GMO suit! Whatever it was is worth it.,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,I bought the Poo-Pourri today.,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"""Cooking with Irish Whiskey can be risky.",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
@@ -4252,13 +4252,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4197,Can you make X-1-2-Z?,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,I got the idea after drinking some Tang,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,"Hey, remember that funny scene from ""2001: A Space Odyssey"" where that guy's oxygen hose was cut off?",1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
-4197,Celebrating Halloween a little early?,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,Celebrating Halloween a little early?,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,You're taking this veganism too far.,1.0792079207920793,0.03637856053638384,101.0,96.0,2.0,3.0,556
 4197,Happy Valentines Day .,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
-4197,I suspect the dish will be out of this world even without the space suit,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,I suspect the dish will be out of this world even without the space suit,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,"Thank God the President set us straight on the uses for toxic waste, huh?",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"I hope you are as good a cook as my wife, Siri.",1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
-4197,"OK I get it,you can skip the hot sauce",1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,"OK I get it,you can skip the hot sauce",1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,First I gave up fast food. Now you want me to eat organic?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,Wouldn’t prescription glasses do the same?,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,"Dear, fried durian is your favorite dessert, but I also need a gas mask.",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
@@ -4266,15 +4266,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4197,I think you took my comment about getting a household robot the wrong way. I meant a Roomba.,1.0792079207920793,0.03637856053638384,101.0,96.0,2.0,3.0,556
 4197,Bio hazard eggs again?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,Ughhh Honey are u making lasagna again?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
-4197,Let's talk before dinner.,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,Let's talk before dinner.,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,"I did not insist they should be Trump steaks, you know",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"What am I, some kind of an asshole?",1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,"You're home now, take off the suit sweetie",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,I hear your omelettes are out of this world.,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,I see you're on the Peter Atkins diet.,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,You know you'll have to touch the food to eat it?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
-4197,"I don't care if the space shuttle is delayed, I want my dinner at 8!",1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
-4197,This is the your answer to Trump's anti Climate stance,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,"I don't care if the space shuttle is delayed, I want my dinner at 8!",1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
+4197,This is the your answer to Trump's anti Climate stance,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,You really want me to go vegan.,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,I see we're having the Pluto Special for our 243rd anniversary.,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,I suppose it's astronaut ice cream for dessert again.,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
@@ -4285,59 +4285,59 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4197,Are you sure Mars can't wait for dessert?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,I'm prepping for the next four years.,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,My exterminator makes eating local so easy.,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
-4197,Would you like more wine?,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,Would you like more wine?,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,Honey I know the movie Hidden Figures had an impact on you but......,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,Persons from Mars are no longer able to stay here onEarth. You must return immediately!,1.0792079207920793,0.03637856053638384,101.0,96.0,2.0,3.0,556
 4197,Was it something I expressed per ano?,1.0792079207920793,0.03637856053638384,101.0,96.0,2.0,3.0,556
 4197,"I realize that we live in Pittsburgh, and that there is a boil water advisory in effect, but you just might be taking things a bit too far!",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,So you're only allergic to the egg smell?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
-4197,Let me know when it's ready.,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,Let me know when it's ready.,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,And where do I suppose to pour the drink my dear ?,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,The newspaper says the patriarchy's getting toxic.,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
-4197,"Alternative gourmet, again?",1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,"Alternative gourmet, again?",1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,Whole Foods only had conventional kale again? Good thing your bio suit came back from the dry cleaners today.,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,I get your aversion to GMO foods.,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,I thought you don't believe in climate change.,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"I don't like the smell of fried onions either, but...",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"I think I have made great strides at reducing my male toxicity, don't you?",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,These GMOS are still moving around!,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
-4197,I'm not so sure about this suit-vide.,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
-4197,This kinda stuff is why we need space,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,I'm not so sure about this suit-vide.,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
+4197,This kinda stuff is why we need space,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,"I know it's organic and all natural, but cream of botulism soup again?",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
-4197,We could've gone out for my birthday dinner.,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,We could've gone out for my birthday dinner.,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,You've never been more fetching. Or dressed to the nines.,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
-4197,Flatulence a problem in there?,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
-4197,Who's your designer?,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,Flatulence a problem in there?,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
+4197,Who's your designer?,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,"I don't know about you, honey, but I could use a drink.",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"Honestly, Deborah, they really don't LOOK that over-easy to me.",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,here's my thing: why isn't there a WHITE history month?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"Whatever you do, it won't be out of this world.",1.0792079207920793,0.03637856053638384,101.0,96.0,2.0,3.0,556
 4197,"So the EPA has declared that your cooking is ""toxic""?",1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,That's why you don't cook with Riesling.,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
-4197,"Honey, I think you're spending too much time on Facebook.",1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,"Honey, I think you're spending too much time on Facebook.",1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,So he convinced you to go nuclear,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,I wish you'd stop reading about those space ships that what's-his-name is supposedly building. You're missing a very nice Syrah.,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
-4197,Salmon?,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
-4197,You don't need any practice Joan. In space they are already expecting tasteless food.,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,Salmon?,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
+4197,You don't need any practice Joan. In space they are already expecting tasteless food.,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,"Remember, honey, it’s not real ""ris de veau"" until you’ve seared it in butter. Now THAT’s good pancreas!",1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,Does this have anything to do with a possible news story?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,Is that your Titanic special you're whipping up?,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,"I understand why you're wearing yours, but why didn't you get me one?",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,"Wow, you're really stepping up your Mars training this month....",1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
-4197,The missiles haven't even started flying yet.,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,The missiles haven't even started flying yet.,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,It must be toxic!,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,It's all-natural deodorant.,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
-4197,"$999.95. But, the second one was shipping costs only.",1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,"$999.95. But, the second one was shipping costs only.",1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,I heard this recipe for omelette was the bomb.,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,"You may get immortality by eating the first egg from Venus, Honey, but really, first a lab should tell us what kind...",1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,You've been reading the Sunday (New York times) fashion section again?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
-4197,'Who am I to talk about loneliness' said Matt Damon ...,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,'Who am I to talk about loneliness' said Matt Damon ...,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4197,That won't protect you from getting the spreading White House virus.,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,Did your mother teach you to cook like that?,1.0792079207920793,0.030452587127187517,101.0,94.0,6.0,1.0,556
 4197,That suit is overkill. The wine protects you against Teflon fumes.,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
 4197,You really are out of this world for me!,1.0792079207920793,0.03354668187346023,101.0,95.0,4.0,2.0,556
-4197,Is this your way of telling me of your dashed hopes and dreams?,1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
-4197,"Come on, kale isn't that disgusting.",1.0792079207920793,0.027006300390071,101.0,93.0,8.0,0.0,556
+4197,Is this your way of telling me of your dashed hopes and dreams?,1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
+4197,"Come on, kale isn't that disgusting.",1.0792079207920793,0.027006300390070997,101.0,93.0,8.0,0.0,556
 4340,Aren't you taking this sous-vide thing a bit far?,1.0784313725490196,0.026751495257385263,102.0,94.0,8.0,0.0,556
 4340,"My fantasy is zero-G, your reality is zero-G-spot",1.0784313725490196,0.030162552267187306,102.0,95.0,6.0,1.0,556
 4340,Getting ready to add the bacon?,1.0784313725490196,0.030162552267187306,102.0,95.0,6.0,1.0,556
@@ -5023,17 +5023,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4999,"What do you mean, you're downsizing?",1.0224719101123596,0.015799497751029595,89.0,87.0,2.0,0.0,556
 4999,"If you're wearing a suit, how do you expect me to eat that?",1.0224719101123596,0.015799497751029595,89.0,87.0,2.0,0.0,556
 4999,Don't you really need that about an hour after I eat those eggs and hash?,1.0224719101123596,0.022471910112359515,89.0,88.0,0.0,1.0,556
-5025,I get it- you don't like Tang screwdrivers.,1.0222222222222221,0.01562495665134786,90.0,88.0,2.0,0.0,556
-5025,"I believe the quote was ""One small step for MANKIND"".",1.0222222222222221,0.01562495665134786,90.0,88.0,2.0,0.0,556
-5025,"Thank you for the bacon... I will post"" LOL"", to your account .",1.0222222222222221,0.01562495665134786,90.0,88.0,2.0,0.0,556
-5025,The cabinets are filled with toxic little skittles. Maybe I should dress like a woman as well.,1.0222222222222221,0.022222222222222244,90.0,89.0,0.0,1.0,556
-5025,May I peace set the table.,1.0222222222222221,0.01562495665134786,90.0,88.0,2.0,0.0,556
-5025,Once again you've busted your clothing allowance.,1.0222222222222221,0.01562495665134786,90.0,88.0,2.0,0.0,556
-5025,The wine is killing my appetite.,1.0222222222222221,0.01562495665134786,90.0,88.0,2.0,0.0,556
-5025,It's about presidential immunity...MINE.,1.0222222222222221,0.01562495665134786,90.0,88.0,2.0,0.0,556
-5025,"You have an environmental safeguard, but I need protection, I don't drink.",1.0222222222222221,0.01562495665134786,90.0,88.0,2.0,0.0,556
-5025,How did you mange to feed yourself while I was at work all year?,1.0222222222222221,0.01562495665134786,90.0,88.0,2.0,0.0,556
-5025,Does this make me look like a killer?,1.0222222222222221,0.01562495665134786,90.0,88.0,2.0,0.0,556
+5025,I get it- you don't like Tang screwdrivers.,1.022222222222222,0.01562495665134786,90.0,88.0,2.0,0.0,556
+5025,"I believe the quote was ""One small step for MANKIND"".",1.022222222222222,0.01562495665134786,90.0,88.0,2.0,0.0,556
+5025,"Thank you for the bacon... I will post"" LOL"", to your account .",1.022222222222222,0.01562495665134786,90.0,88.0,2.0,0.0,556
+5025,The cabinets are filled with toxic little skittles. Maybe I should dress like a woman as well.,1.022222222222222,0.022222222222222244,90.0,89.0,0.0,1.0,556
+5025,May I peace set the table.,1.022222222222222,0.01562495665134786,90.0,88.0,2.0,0.0,556
+5025,Once again you've busted your clothing allowance.,1.022222222222222,0.01562495665134786,90.0,88.0,2.0,0.0,556
+5025,The wine is killing my appetite.,1.022222222222222,0.01562495665134786,90.0,88.0,2.0,0.0,556
+5025,It's about presidential immunity...MINE.,1.022222222222222,0.01562495665134786,90.0,88.0,2.0,0.0,556
+5025,"You have an environmental safeguard, but I need protection, I don't drink.",1.022222222222222,0.01562495665134786,90.0,88.0,2.0,0.0,556
+5025,How did you mange to feed yourself while I was at work all year?,1.022222222222222,0.01562495665134786,90.0,88.0,2.0,0.0,556
+5025,Does this make me look like a killer?,1.022222222222222,0.01562495665134786,90.0,88.0,2.0,0.0,556
 5036,"For the last time, I didn't write non-stick on the registry gift list.",1.011494252873563,0.011560886781772741,87.0,86.0,1.0,0.0,556
 5036,Fox d'jour?,1.011494252873563,0.011560886781772741,87.0,86.0,1.0,0.0,556
 5036,I'm sorry dear -- I have to get back to the lab. Our report is due tomorrow.,1.011494252873563,0.011560886781772741,87.0,86.0,1.0,0.0,556

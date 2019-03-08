@@ -5,7 +5,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4,"Technically, I'm guarding two posts.",1.8689320388349515,0.010906922077191385,5150.0,1959.0,1907.0,1284.0,580
 5,"No, I will not push you again.",1.8644382544103992,0.01653811419330704,2154.0,800.0,846.0,508.0,580
 6,Wake me when things are great again.,1.863953226894536,0.011777963453781362,4447.0,1715.0,1622.0,1110.0,580
-7,"How he ever produced heirs in this thing, I don't know.",1.839388145315488,0.01950039400966468,1569.0,614.0,593.0,362.0,580
+7,"How he ever produced heirs in this thing, I don't know.",1.8393881453154879,0.01950039400966468,1569.0,614.0,593.0,362.0,580
 8,It's a gift from King Hammacher of Schlemmer.,1.8375026277065376,0.011540912249085643,4757.0,1956.0,1618.0,1183.0,580
 9,I'm just swinging in the reign.,1.8222730739893207,0.015378032716693885,2622.0,1087.0,914.0,621.0,580
 10,Don't worry. He's never here. He thinks the palace is a dump.,1.791,0.014592981057452206,3000.0,1337.0,953.0,710.0,580
@@ -20,8 +20,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 19,Just tell me if you hear the drawbridge.,1.7346938775510203,0.018604109424071542,1519.0,654.0,614.0,251.0,580
 20,I was sentenced to hang.,1.728143342601174,0.013133345381220006,3237.0,1463.0,1191.0,583.0,580
 21,I shall not be swayed!,1.7200861273454322,0.013020611363112106,3251.0,1478.0,1205.0,568.0,580
-22,Me? I'm the Court Rester.,1.71843853820598,0.02143603727400095,1204.0,550.0,443.0,211.0,580
-23,"It's fine, he'll be watching Fox for at least the next hour.",1.711645101663586,0.013731529908798666,3246.0,1596.0,990.0,660.0,580
+22,Me? I'm the Court Rester.,1.7184385382059801,0.02143603727400095,1204.0,550.0,443.0,211.0,580
+23,"It's fine, he'll be watching Fox for at least the next hour.",1.7116451016635859,0.013731529908798666,3246.0,1596.0,990.0,660.0,580
 24,Just swing in' in the reign!,1.6974760042659085,0.01446701391937221,2813.0,1382.0,900.0,531.0,580
 25,Stop worrying. He doesn't care about hard work. He just expects loyalty.,1.6944045911047343,0.020142137269281518,1394.0,672.0,476.0,246.0,580
 26,This time rock me with the blunt end.,1.6888888888888889,0.014019659901579672,3060.0,1544.0,924.0,592.0,580
@@ -41,7 +41,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 40,And now is the summer of my content.,1.605027932960894,0.01714893773852979,1790.0,964.0,569.0,257.0,580
 41,Another spat with the queen my liege?,1.6002719238613188,0.01888212588132444,1471.0,797.0,465.0,209.0,580
 42,"He said, and I'm quoting here, ""Hang around until I get back.",1.5974770642201834,0.016597857748282863,1744.0,911.0,624.0,209.0,580
-43,Our kingdom isn't even relevant until Season 5.,1.5934426229508196,0.04351703786586698,305.0,175.0,79.0,51.0,580
+43,Our kingdom isn't even relevant until Season 5.,1.5934426229508196,0.043517037865866984,305.0,175.0,79.0,51.0,580
 44,"Sir, the queen would like to know when will you be returning to your big boy seat?",1.5853221957040573,0.018031968804952114,1676.0,948.0,475.0,253.0,580
 45,"I suppose this will do, but what I ordered was ham hocks.",1.5836385836385836,0.018280277206103045,1638.0,931.0,458.0,249.0,580
 46,Wake me at IV XLV!,1.5782747603833869,0.018366458854478112,1565.0,882.0,461.0,222.0,580
@@ -63,26 +63,26 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 62,I'm glamping.,1.5302904564315352,0.02336659390015855,1205.0,812.0,147.0,246.0,580
 63,Why not? He's golfing in Florida 'til Tuesday.,1.5296540362438218,0.02065806116672244,1214.0,734.0,317.0,163.0,580
 64,Wish I had a book... And knew how to read.,1.5296089385474858,0.02384563490633455,895.0,537.0,242.0,116.0,580
-65,"Does her majesty have another migraine, Sire?",1.5283582089552241,0.022579703432962724,1005.0,606.0,267.0,132.0,580
+65,"Does her majesty have another migraine, Sire?",1.528358208955224,0.022579703432962724,1005.0,606.0,267.0,132.0,580
 66,Gotta love casual Fridays.,1.5277777777777777,0.028209209979075733,576.0,332.0,184.0,60.0,580
-67,"Well, he DID say that if I didn't shape up, my ass would be in a sling...",1.5176613885505479,0.02416097218589177,821.0,490.0,237.0,94.0,580
+67,"Well, he DID say that if I didn't shape up, my ass would be in a sling...",1.517661388550548,0.02416097218589177,821.0,490.0,237.0,94.0,580
 68,The King said I'd be hanged. This was a happy surprise.,1.4992657856093985,0.025293032270037458,681.0,404.0,214.0,63.0,580
 69,I'm just a throne's stow away,1.4968314321926492,0.02495684380508859,789.0,492.0,202.0,95.0,580
 70,The rein of the Hammocks was brief but comfortable.,1.4948586118251928,0.024554788987801262,778.0,478.0,215.0,85.0,580
 71,Be a dear and fetch me a Bloody Mary.,1.4932249322493223,0.026378590245029088,738.0,471.0,170.0,97.0,580
 72,Could you hand me that small pillow on the chair?,1.492537313432836,0.050430683912222114,201.0,128.0,47.0,26.0,580
-73,Wake me up for the impeachment.,1.4920863309352521,0.026616715743759702,695.0,437.0,174.0,84.0,580
+73,Wake me up for the impeachment.,1.492086330935252,0.026616715743759702,695.0,437.0,174.0,84.0,580
 74,"It's hemorrhoids, ok! You happy now?",1.4916666666666667,0.025850918237636057,720.0,449.0,188.0,83.0,580
 75,I take it you're not in the union.,1.4904891304347827,0.025650852859646727,736.0,461.0,189.0,86.0,580
 76,I'm also his son-in-law.,1.4899713467048707,0.026374862118140486,698.0,438.0,178.0,82.0,580
 77,They'll call me Atilla the Hung.,1.4851063829787234,0.02578918841925774,705.0,440.0,188.0,77.0,580
 78,Relax. The last crusade lasted eight years.,1.4850640113798008,0.02576446935214016,703.0,438.0,189.0,76.0,580
 79,What's the worst she could do?,1.4837278106508875,0.02635006858087611,676.0,423.0,179.0,74.0,580
-80,It's a bi-poler thing.,1.483679525222552,0.028184282947568518,674.0,444.0,134.0,96.0,580
+80,It's a bi-poler thing.,1.4836795252225519,0.028184282947568518,674.0,444.0,134.0,96.0,580
 81,"I call it a ""sling bunk."" Can't wait to show King Hammock my invention!",1.4828614008941878,0.02690990266056964,671.0,426.0,166.0,79.0,580
 82,Got any good knight stories?,1.4816446402349486,0.026533496328329888,681.0,431.0,172.0,78.0,580
 83,"You're the new guy, right?",1.4801829268292683,0.02649998234968395,656.0,410.0,177.0,69.0,580
-83,I'm swinging in the reign.,1.4801829268292683,0.02710777474131973,656.0,417.0,163.0,76.0,580
+83,I'm swinging in the reign.,1.4801829268292683,0.027107774741319732,656.0,417.0,163.0,76.0,580
 85,I've checked and nowhere in the job description did it say STANDING guard.,1.48,0.026890089681459284,625.0,388.0,174.0,63.0,580
 86,I'm holding sway.,1.4766355140186915,0.026461376434358502,642.0,400.0,178.0,64.0,580
 87,"I thought about a crusade, but I'm going with a staycation this year.",1.4764890282131662,0.027311579805254428,638.0,406.0,160.0,72.0,580
@@ -106,7 +106,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 103,Stand there if you like but he's not going to be back before September.,1.4527162977867203,0.03008628367972348,497.0,322.0,125.0,50.0,580
 106,Let's face it Lance...We have very different guard styles...that's all.,1.4505263157894737,0.02947368421052632,475.0,300.0,136.0,39.0,580
 107,I told you we should have upgraded to the queen.,1.4494382022471908,0.04847871164513678,178.0,113.0,50.0,15.0,580
-108,That was the best knight's sleep I've had in ages.,1.448936170212766,0.03103226893438824,470.0,307.0,115.0,48.0,580
+108,That was the best knight's sleep I've had in ages.,1.4489361702127659,0.03103226893438824,470.0,307.0,115.0,48.0,580
 109,So he put my ass in a sling.,1.4473684210526316,0.030949317240266075,456.0,295.0,118.0,43.0,580
 110,"And so it is, my Kingdom is in recline.",1.4458874458874458,0.02987951205689793,462.0,294.0,130.0,38.0,580
 111,Throne don't mean a thing if it ain't got that swing,1.445701357466063,0.03276024363557258,442.0,295.0,97.0,50.0,580
@@ -213,13 +213,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 210,"He did say ""at ease!""",1.376,0.03816177780372088,250.0,172.0,62.0,16.0,580
 210,You should have joined the Union.,1.376,0.041002693613153486,250.0,179.0,48.0,23.0,580
 210,Golfing again in Jersey. Wake me up Monday.,1.376,0.04060901832694202,250.0,178.0,50.0,22.0,580
-215,"The queen is my sister, that's why!",1.375,0.038780591904661585,248.0,172.0,59.0,17.0,580
+215,"The queen is my sister, that's why!",1.375,0.03878059190466159,248.0,172.0,59.0,17.0,580
 215,Someone's been putting peas under all the mattresses.,1.375,0.037929336703068674,248.0,170.0,63.0,15.0,580
 215,"It's called ""glamping.""",1.375,0.03835732584012249,248.0,171.0,61.0,16.0,580
 218,It's called a staycation.,1.3739837398373984,0.039406897023457836,246.0,172.0,56.0,18.0,580
 218,It's a working vacation. I invented it.,1.3739837398373984,0.038555615964454885,246.0,170.0,60.0,16.0,580
 218,Casual Fridays.,1.3739837398373984,0.039406897023457836,246.0,172.0,56.0,18.0,580
-221,"I'm guarding the hammock, you guard the rest.",1.3729508196721312,0.04004093639297839,244.0,172.0,53.0,19.0,580
+221,"I'm guarding the hammock, you guard the rest.",1.3729508196721312,0.040040936392978385,244.0,172.0,53.0,19.0,580
 221,A bed. A bed. My kingdom for a bed.,1.3729508196721312,0.04209433933838479,244.0,177.0,43.0,24.0,580
 223,Has it been 4 years yet?,1.3728813559322033,0.0431341638226118,236.0,172.0,40.0,24.0,580
 224,I think I'll call it la-z-roi,1.371900826446281,0.03896066782965221,242.0,168.0,58.0,16.0,580
@@ -297,14 +297,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 296,"""You go ahead and start the pillaging and carnage without me, I think I'm coming down with a plague or something""!",1.3333333333333333,0.0467096249935168,183.0,138.0,29.0,16.0,580
 296,They said I could either bow the knee or hang.,1.3333333333333333,0.044739706591613235,183.0,135.0,35.0,13.0,580
 298,They allow it at Google.,1.3314917127071824,0.04295360511856575,181.0,131.0,40.0,10.0,580
-298,Why stand when you can sit and why sit when you can lie down?,1.3314917127071824,0.04366233556380959,181.0,132.0,38.0,11.0,580
+298,Why stand when you can sit and why sit when you can lie down?,1.3314917127071824,0.043662335563809586,181.0,132.0,38.0,11.0,580
 298,I wîsh I had two pillars....,1.3314917127071824,0.03762048262910035,181.0,124.0,54.0,3.0,580
-298,I see you've been on Amazon again.,1.3314917127071824,0.04366233556380959,181.0,132.0,38.0,11.0,580
+298,I see you've been on Amazon again.,1.3314917127071824,0.043662335563809586,181.0,132.0,38.0,11.0,580
 302,The King said hang around and guard the castle and by god that is what I intend to do!,1.3314606741573034,0.040408243410090035,178.0,125.0,47.0,6.0,580
 302,I invented it for a good knight's sleep.,1.3314606741573034,0.04416136315641928,178.0,130.0,37.0,11.0,580
 302,I swear we're safe. He can't play 18 holes on a public course in under six hours.,1.3314606741573034,0.04487433529203478,178.0,131.0,35.0,12.0,580
 302,Too bad you didn't join the union.,1.3314606741573034,0.04626733093706166,178.0,133.0,31.0,14.0,580
-302,Let me know if the cameras get switched back on.,1.3314606741573034,0.041186236870560264,178.0,126.0,45.0,7.0,580
+302,Let me know if the cameras get switched back on.,1.3314606741573034,0.04118623687056026,178.0,126.0,45.0,7.0,580
 302,"Last I heard he's in Palm Beach, he thinks this castle is a dump",1.3314606741573034,0.04828152678039521,178.0,136.0,25.0,17.0,580
 308,I just couldn't handle the commute anymore.,1.331360946745562,0.04575675753569775,169.0,124.0,34.0,11.0,580
 309,Why else would they place two pillars this close together,1.3275862068965518,0.04088889508139377,174.0,123.0,45.0,6.0,580
@@ -317,14 +317,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 315,It wasn't until after we bought the throne that we realized there was no room left in the budget for a bed.,1.3235294117647058,0.045395689404735255,170.0,126.0,33.0,11.0,580
 315,"Did you hear ""off to his bed"" or ""off with his head?""",1.3235294117647058,0.04462235955501362,170.0,125.0,35.0,10.0,580
 315,"""My Kingdom for some hemmoroidal cream""!",1.3235294117647058,0.04615606418235279,170.0,127.0,31.0,12.0,580
-315,Budget cuts affect everybody.,1.3235294117647058,0.041384784585156466,170.0,121.0,43.0,6.0,580
+315,Budget cuts affect everybody.,1.3235294117647058,0.04138478458515647,170.0,121.0,43.0,6.0,580
 315,Relax. He's at the royal golf course again.,1.3235294117647058,0.04383538899088996,170.0,124.0,37.0,9.0,580
 315,"""Are you sure this is a King size""?",1.3235294117647058,0.04615606418235279,170.0,127.0,31.0,12.0,580
 315,"When the king gets home, your butt's in a sling.",1.3235294117647058,0.04690411394621743,170.0,128.0,29.0,13.0,580
 315,I serve at the king's leisure.,1.3235294117647058,0.04462235955501362,170.0,125.0,35.0,10.0,580
 315,"Serf's up, dude!",1.3235294117647058,0.04836551657563789,170.0,130.0,25.0,15.0,580
 315,Relax. He's out in Bedminster for the whole weekend.,1.3235294117647058,0.045395689404735255,170.0,126.0,33.0,11.0,580
-326,Wake me when he is impeached.,1.3192771084337351,0.04836815476643439,166.0,127.0,25.0,14.0,580
+326,Wake me when he is impeached.,1.3192771084337351,0.048368154766434385,166.0,127.0,25.0,14.0,580
 326,"I'm the King, I can't go camping.",1.3192771084337351,0.04360461322776578,166.0,121.0,37.0,8.0,580
 328,Summon the royal psychoanalyst,1.3190184049079754,0.045808582457836235,163.0,121.0,32.0,10.0,580
 328,Don't worry. I superglued that sword into the stone.,1.3190184049079754,0.04497428003601004,163.0,120.0,34.0,9.0,580
@@ -378,29 +378,29 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 377,"So, I see that you've been on Amazon again.",1.3006993006993006,0.04658638267160267,143.0,107.0,29.0,7.0,580
 378,I'm not to leave my post!,1.2986111111111112,0.0463088399220421,144.0,108.0,29.0,7.0,580
 378,This is not a vacation - meetings and calls!.....Working Hard.,1.2986111111111112,0.0463088399220421,144.0,108.0,29.0,7.0,580
-380,I don't think that what the king meant when he said you'll hang for it.,1.2978723404255321,0.046937282575246236,141.0,106.0,28.0,7.0,580
-380,I'm practicing for our siege at Mar-e-Lago,1.2978723404255321,0.048004433317582584,141.0,107.0,26.0,8.0,580
-380,We also set up a slackline in the dungeon.,1.2978723404255321,0.051072272182891836,141.0,110.0,20.0,11.0,580
-380,Cry hammock! And let sleep the dogs of war.,1.2978723404255321,0.0458452982644327,141.0,105.0,30.0,6.0,580
-380,It's really difficult to find pillars close enough together around here.,1.2978723404255321,0.043579319955310905,141.0,103.0,34.0,4.0,580
-385,You're knight and I'm knight knight.,1.2949640287769784,0.05151569563830546,139.0,109.0,19.0,11.0,580
+380,I don't think that what the king meant when he said you'll hang for it.,1.297872340425532,0.046937282575246236,141.0,106.0,28.0,7.0,580
+380,I'm practicing for our siege at Mar-e-Lago,1.297872340425532,0.04800443331758258,141.0,107.0,26.0,8.0,580
+380,We also set up a slackline in the dungeon.,1.297872340425532,0.051072272182891836,141.0,110.0,20.0,11.0,580
+380,Cry hammock! And let sleep the dogs of war.,1.297872340425532,0.0458452982644327,141.0,105.0,30.0,6.0,580
+380,It's really difficult to find pillars close enough together around here.,1.297872340425532,0.043579319955310905,141.0,103.0,34.0,4.0,580
+385,You're knight and I'm knight knight.,1.2949640287769784,0.051515695638305464,139.0,109.0,19.0,11.0,580
 385,"If those are the Saxons knocking, I'm not here.",1.2949640287769784,0.04503643424791367,139.0,103.0,31.0,5.0,580
 385,"Relax, it's casual Friday.",1.2949640287769784,0.04729491768549,139.0,105.0,27.0,7.0,580
-385,This is my idea of going from pillar to post.,1.2949640287769784,0.049450359634565864,139.0,107.0,23.0,9.0,580
+385,This is my idea of going from pillar to post.,1.2949640287769784,0.04945035963456586,139.0,107.0,23.0,9.0,580
 385,I get up to use the throne at night.,1.2949640287769784,0.050493588529071806,139.0,108.0,21.0,10.0,580
 385,"If anyone calls, tell them I'm working remotely.",1.2949640287769784,0.0483846427436701,139.0,106.0,25.0,8.0,580
-385,"Three weeks later, Gary still wouldn't shut up about his vacation to the Bahamas.",1.2949640287769784,0.049450359634565864,139.0,107.0,23.0,9.0,580
-385,"Yes, I'm well-hung.",1.2949640287769784,0.05151569563830546,139.0,109.0,19.0,11.0,580
-385,This way I don't have to wear pants.,1.2949640287769784,0.049450359634565864,139.0,107.0,23.0,9.0,580
-385,It still doesn't feel like a tropical getaway.,1.2949640287769784,0.049450359634565864,139.0,107.0,23.0,9.0,580
-395,It's why I chose the side with two pillars.,1.291970802919708,0.04034068094405762,137.0,98.0,38.0,1.0,580
-395,I'm exploring new master-servant paradigms.,1.291970802919708,0.04535128848063032,137.0,102.0,30.0,5.0,580
-395,"I'm out of sick days, OK?",1.291970802919708,0.04535128848063032,137.0,102.0,30.0,5.0,580
-395,"C'mon, just a little push to get me going!",1.291970802919708,0.047659456362456575,137.0,104.0,26.0,7.0,580
-395,That throne just kills my back.,1.291970802919708,0.04651969017318503,137.0,103.0,28.0,6.0,580
+385,"Three weeks later, Gary still wouldn't shut up about his vacation to the Bahamas.",1.2949640287769784,0.04945035963456586,139.0,107.0,23.0,9.0,580
+385,"Yes, I'm well-hung.",1.2949640287769784,0.051515695638305464,139.0,109.0,19.0,11.0,580
+385,This way I don't have to wear pants.,1.2949640287769784,0.04945035963456586,139.0,107.0,23.0,9.0,580
+385,It still doesn't feel like a tropical getaway.,1.2949640287769784,0.04945035963456586,139.0,107.0,23.0,9.0,580
+395,It's why I chose the side with two pillars.,1.2919708029197081,0.04034068094405762,137.0,98.0,38.0,1.0,580
+395,I'm exploring new master-servant paradigms.,1.2919708029197081,0.04535128848063032,137.0,102.0,30.0,5.0,580
+395,"I'm out of sick days, OK?",1.2919708029197081,0.04535128848063032,137.0,102.0,30.0,5.0,580
+395,"C'mon, just a little push to get me going!",1.2919708029197081,0.047659456362456575,137.0,104.0,26.0,7.0,580
+395,That throne just kills my back.,1.2919708029197081,0.04651969017318503,137.0,103.0,28.0,6.0,580
 400,Wake up call for Sir Lounge-A-Lot!,1.2888888888888892,0.048031069116936574,135.0,103.0,25.0,7.0,580
 400,I needed a vacation.,1.2888888888888892,0.05935591895645215,135.0,114.0,3.0,18.0,580
-400,"Remember, the signal is, ""The royal hammock tester is almost through, Your Majesty.""",1.2888888888888892,0.043182754919779784,135.0,99.0,33.0,3.0,580
+400,"Remember, the signal is, ""The royal hammock tester is almost through, Your Majesty.""",1.2888888888888892,0.04318275491977978,135.0,99.0,33.0,3.0,580
 400,"Sometimes, it is easy being king.",1.2888888888888892,0.04916850536704855,135.0,104.0,23.0,8.0,580
 400,He went to see Cersei. It's going to be awhile.,1.2888888888888892,0.0468660354734897,135.0,102.0,27.0,6.0,580
 400,You mind tossing me that pillow?,1.2888888888888892,0.052432975106988834,135.0,107.0,17.0,11.0,580
@@ -430,16 +430,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 420,'Don't let my subjects know that I swing both ways',1.2846153846153847,0.04663336666654655,130.0,98.0,27.0,5.0,580
 430,Has it been four years yet?,1.28125,0.04826913047376049,128.0,98.0,24.0,6.0,580
 430,Do you ever feel like you're not living up to your full potential?,1.28125,0.050754033818199096,128.0,100.0,20.0,8.0,580
-430,Wake me up when this monarchy ends.,1.28125,0.046977414367224614,128.0,97.0,26.0,5.0,580
+430,Wake me up when this monarchy ends.,1.28125,0.04697741436722461,128.0,97.0,26.0,5.0,580
 430,"Yeah, well right now this hammock is the greater part of valor.",1.28125,0.050754033818199096,128.0,100.0,20.0,8.0,580
-430,Wake me up after the Dark Ages.,1.28125,0.046977414367224614,128.0,97.0,26.0,5.0,580
+430,Wake me up after the Dark Ages.,1.28125,0.04697741436722461,128.0,97.0,26.0,5.0,580
 430,Wake me when he's back from Mar-a-Lago.,1.28125,0.05195193398596331,128.0,101.0,18.0,9.0,580
 430,I'm working the knight shift.,1.28125,0.050754033818199096,128.0,100.0,20.0,8.0,580
 430,"I'm not worried, these crusades go on forever - the King won't be back for months.",1.28125,0.050754033818199096,128.0,100.0,20.0,8.0,580
 430,Uneasy lies the throne.,1.28125,0.04952716883444788,128.0,99.0,22.0,7.0,580
 430,"I said, ""Cry HAVOC,"" you idiot.",1.28125,0.05312282881158421,128.0,102.0,16.0,10.0,580
 430,All you need now is a copy of The Old Yorker.,1.28125,0.05195193398596331,128.0,101.0,18.0,9.0,580
-430,I probably should put some pants on,1.28125,0.046977414367224614,128.0,97.0,26.0,5.0,580
+430,I probably should put some pants on,1.28125,0.04697741436722461,128.0,97.0,26.0,5.0,580
 430,He's not coming back. I saw it on Twitter.,1.28125,0.050754033818199096,128.0,100.0,20.0,8.0,580
 443,Hold my calls.,1.28099173553719,0.05277837191625511,121.0,95.0,18.0,8.0,580
 444,"Give us a push, love.",1.2777777777777777,0.04993823345387608,126.0,98.0,21.0,7.0,580
@@ -515,22 +515,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 506,"Frank, be honest. Do I make this hammock sag too much?",1.2589285714285714,0.05190318633741543,112.0,89.0,17.0,6.0,580
 506,Nighty knight.,1.2589285714285714,0.0503295697488197,112.0,88.0,19.0,5.0,580
 506,We need to replace that runner.,1.2589285714285714,0.05491530819113,112.0,91.0,13.0,8.0,580
-517,"Since you're up, mind handing me that pillow?",1.256880733944954,0.051156635076960666,109.0,86.0,18.0,5.0,580
-517,"While this is quite amusing, tell my attendants I said ham hock.",1.256880733944954,0.049468238770849854,109.0,85.0,20.0,4.0,580
-517,I prefer to approach concerns with an attitude of relaxed awareness.,1.256880733944954,0.051156635076960666,109.0,86.0,18.0,5.0,580
-517,"To heir is human, to fuck off supine.",1.256880733944954,0.05887677503850621,109.0,91.0,8.0,10.0,580
-517,May I recommend a standing desk as a compromise?,1.256880733944954,0.049468238770849854,109.0,85.0,20.0,4.0,580
-517,Have you ever had one of those days where you just say 'what the heck.',1.256880733944954,0.051156635076960666,109.0,86.0,18.0,5.0,580
-517,Why do you think I request guard duty on the side with two pillars?,1.256880733944954,0.049468238770849854,109.0,85.0,20.0,4.0,580
-517,"We are pleasantly surprised, but this is not what we were envisioning when the crowd told you to 'string him up.'",1.256880733944954,0.051156635076960666,109.0,86.0,18.0,5.0,580
-517,I won't tell anyone the king has died if you won't.,1.256880733944954,0.051156635076960666,109.0,86.0,18.0,5.0,580
-517,It's a Hammocker Schlemmer original.,1.256880733944954,0.05279105963801855,109.0,87.0,16.0,6.0,580
-517,I slept my way to the top.,1.256880733944954,0.05279105963801855,109.0,87.0,16.0,6.0,580
-517,You are SO not getting ‘Employee of the Month’!,1.256880733944954,0.05279105963801855,109.0,87.0,16.0,6.0,580
-517,Stand-up workstations are overrated.,1.256880733944954,0.051156635076960666,109.0,86.0,18.0,5.0,580
-517,The throne is hard on my hemorrhoids,1.256880733944954,0.051156635076960666,109.0,86.0,18.0,5.0,580
-517,"This castle, what a dump.",1.256880733944954,0.05279105963801855,109.0,87.0,16.0,6.0,580
-517,He really is the king of swing.,1.256880733944954,0.05279105963801855,109.0,87.0,16.0,6.0,580
+517,"Since you're up, mind handing me that pillow?",1.2568807339449541,0.051156635076960666,109.0,86.0,18.0,5.0,580
+517,"While this is quite amusing, tell my attendants I said ham hock.",1.2568807339449541,0.049468238770849854,109.0,85.0,20.0,4.0,580
+517,I prefer to approach concerns with an attitude of relaxed awareness.,1.2568807339449541,0.051156635076960666,109.0,86.0,18.0,5.0,580
+517,"To heir is human, to fuck off supine.",1.2568807339449541,0.05887677503850621,109.0,91.0,8.0,10.0,580
+517,May I recommend a standing desk as a compromise?,1.2568807339449541,0.049468238770849854,109.0,85.0,20.0,4.0,580
+517,Have you ever had one of those days where you just say 'what the heck.',1.2568807339449541,0.051156635076960666,109.0,86.0,18.0,5.0,580
+517,Why do you think I request guard duty on the side with two pillars?,1.2568807339449541,0.049468238770849854,109.0,85.0,20.0,4.0,580
+517,"We are pleasantly surprised, but this is not what we were envisioning when the crowd told you to 'string him up.'",1.2568807339449541,0.051156635076960666,109.0,86.0,18.0,5.0,580
+517,I won't tell anyone the king has died if you won't.,1.2568807339449541,0.051156635076960666,109.0,86.0,18.0,5.0,580
+517,It's a Hammocker Schlemmer original.,1.2568807339449541,0.05279105963801855,109.0,87.0,16.0,6.0,580
+517,I slept my way to the top.,1.2568807339449541,0.05279105963801855,109.0,87.0,16.0,6.0,580
+517,You are SO not getting ‘Employee of the Month’!,1.2568807339449541,0.05279105963801855,109.0,87.0,16.0,6.0,580
+517,Stand-up workstations are overrated.,1.2568807339449541,0.051156635076960666,109.0,86.0,18.0,5.0,580
+517,The throne is hard on my hemorrhoids,1.2568807339449541,0.051156635076960666,109.0,86.0,18.0,5.0,580
+517,"This castle, what a dump.",1.2568807339449541,0.05279105963801855,109.0,87.0,16.0,6.0,580
+517,He really is the king of swing.,1.2568807339449541,0.05279105963801855,109.0,87.0,16.0,6.0,580
 533,It was easier getting in.,1.2527472527472527,0.05761521682353631,91.0,73.0,13.0,5.0,580
 534,I'm giving this Air Bed and Castle only one star.,1.2523364485981308,0.0498515835413216,107.0,84.0,19.0,4.0,580
 534,The reason two of us guard the throne is in case one of us falls asleep.,1.2523364485981308,0.0498515835413216,107.0,84.0,19.0,4.0,580
@@ -843,26 +843,26 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 841,"If you see anything, cut me down.",1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
 841,Wake me when we have a king we can respect.,1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
 841,"You were supposed to give the king hemlock, not a hammock!",1.2025316455696202,0.04894123029908691,79.0,64.0,14.0,1.0,580
-841,"That's not what he meant when he said ""You're sacked.""",1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,580
-841,The key to kingship is not to rock things too much.,1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,580
+841,"That's not what he meant when he said ""You're sacked.""",1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,580
+841,The key to kingship is not to rock things too much.,1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,580
 841,I am preparing for war in the tropics.,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,"I wasn't sleeping, I was just resting my eyes your majesty... hey where is she?",1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,"Sorry, I'm used to the knight shift.",1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
-841,"While the king's away, the knights will sway.",1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,580
+841,"While the king's away, the knights will sway.",1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,580
 841,"Is this what the peasants mean by a""staycation""?",1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
-841,"Fill in for me, will ya?",1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,580
+841,"Fill in for me, will ya?",1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,580
 841,Bring me a beach! With an ocean!,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,Don't wake me up unless the king decides to go rogue.,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
-841,It takes it all out of you to plunder and pillage.,1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,580
+841,It takes it all out of you to plunder and pillage.,1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,580
 841,Get someone in here to build shutters and then close them!,1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
 841,You saw him at the banquet. Royal chamberpot's in for a workout.,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,Fetch the Royal Chiropractor !,1.2025316455696202,0.06077436797269635,79.0,68.0,6.0,5.0,580
-841,"Yes Sire, you do look less kingly.",1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,580
+841,"Yes Sire, you do look less kingly.",1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,580
 841,Welcome to Nap-a-Lot.,1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
 841,"Beats Mar-a-Lago, anyway.",1.2025316455696202,0.04894123029908691,79.0,64.0,14.0,1.0,580
 841,Those all night poker games with Prince Harry and Falstaff are killers!,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,What happened to my old Playboys?,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
-841,Because I'm management,1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,580
+841,Because I'm management,1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,580
 841,Sure glad this came with a spear holder.,1.2025316455696202,0.04894123029908691,79.0,64.0,14.0,1.0,580
 841,Road-testing for His Majesty,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,"Since the revolution, this job's a lot more relaxing.",1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
@@ -873,24 +873,24 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 841,Can you get a shot of this for my Instagram?,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,Flipping out is the leading cause of hammock fear.,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,This job isn't as easy as it looks. I'm trying to decide what to tweet about.,1.2025316455696202,0.06077436797269635,79.0,68.0,6.0,5.0,580
-841,Fine. Can I PLEASE get a push?,1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,580
+841,Fine. Can I PLEASE get a push?,1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,580
 841,He's OOO until Wednesday. There's room for two if we squeeze.,1.2025316455696202,0.04894123029908691,79.0,64.0,14.0,1.0,580
 841,. . . but I am looking forward to the make-up sex.,1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
 841,I got it from some African sparrows who used it to haul coconuts.,1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
 841,Keeping watch on an empty throne is not going help my self-actualization process.,1.2025316455696202,0.04894123029908691,79.0,64.0,14.0,1.0,580
 841,I'm taking a staycation.,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
-841,I've been impeached--and pardoned,1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,580
+841,I've been impeached--and pardoned,1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,580
 841,"If the Queen sends for me, tell her I'm planning my next invasion and can't be interrupted.",1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,Relax! The King will never know! He hasn't the foggiest what airbnb is.,1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
 841,Wake me if its about to reign.,1.2025316455696202,0.06077436797269635,79.0,68.0,6.0,5.0,580
 841,I'm working on a sequel to 'Game of Thrones'.,1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
 841,"The directions said, ""First, find two columns""",1.2025316455696202,0.04894123029908691,79.0,64.0,14.0,1.0,580
 841,I'm having trouble getting used to Casual Fiefdays.,1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
-841,Check out my new invention...it's called the LaZLord!,1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,580
+841,Check out my new invention...it's called the LaZLord!,1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,580
 841,Do you think His Highness will notice his carpet cut off at the end?,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,Give me a little push?,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,This is your first time guarding in the Trump Tower penthouse?,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
-841,Wake me when you hear him coming.,1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,580
+841,Wake me when you hear him coming.,1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,580
 841,I suddenly feel like Piña Colada ... whatever the hell that is.,1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
 841,I think that you're supposed to be testing the hassock.,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,I demand peas for my dinner.,1.2025316455696202,0.04894123029908691,79.0,64.0,14.0,1.0,580
@@ -898,14 +898,14 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 841,It's the violence inherent in the system that keeps me up at night.,1.2025316455696202,0.04894123029908691,79.0,64.0,14.0,1.0,580
 841,Who knew his Magesty was a swinger?,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,I'm gonna audition for this new series The Game of Hammocks.,1.2025316455696202,0.04894123029908691,79.0,64.0,14.0,1.0,580
-841,"Larry, does ""game of hammocks"" sounds good for a show?",1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,580
+841,"Larry, does ""game of hammocks"" sounds good for a show?",1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,580
 841,There's no way he'll make it back from the Crusades.,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,It wasn't easy finding 2 columns just the right distance apart.,1.2025316455696202,0.04894123029908691,79.0,64.0,14.0,1.0,580
 841,No one said we had to stand guard.,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,Wake me when the Crusade is over and everyone's returned to the castle.,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,"I ordered a death by hemlock, not a death by hammock.",1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
 841,"No, I'm not going to fan you. You millennials are so entitled.",1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
-841,Can you put on a little Beethoven?,1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,580
+841,Can you put on a little Beethoven?,1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,580
 841,Wake me when the sixth seal is broken.,1.2025316455696202,0.055175935994185736,79.0,66.0,10.0,3.0,580
 841,Look I can't be at my collaborative best stuck in a workspace that's just a metaphor for absolute authority.,1.2025316455696202,0.05804268995883625,79.0,67.0,8.0,4.0,580
 910,This'll help relax me 'til they invent golf.,1.2,0.05454065955141906,80.0,67.0,10.0,3.0,580
@@ -1306,7 +1306,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1281,It will be awhile. He went to the weavers for a new suit of clothes.,1.1666666666666667,0.06325783747136791,66.0,59.0,3.0,4.0,580
 1306,I 'fat fingered' my hassock order on Amazon...,1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,580
 1306,It's not laying down on the job if you don't touch the floor.,1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,580
-1306,A couple of these and we can list it as a summer rental.,1.1587301587301588,0.046408928409558264,63.0,53.0,10.0,0.0,580
+1306,A couple of these and we can list it as a summer rental.,1.1587301587301588,0.04640892840955826,63.0,53.0,10.0,0.0,580
 1306,I need to tweet.,1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,580
 1306,I negotiated it in my offer,1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,580
 1306,I was dreamimg that I was on a deserted island.,1.1587301587301588,0.06074443963372584,63.0,56.0,4.0,3.0,580
@@ -1328,10 +1328,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1306,That chair hurts my tuches.,1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,580
 1306,Don't worry. I'll take it down before he gets back from Bedminster.,1.1587301587301588,0.06482221622648092,63.0,57.0,2.0,4.0,580
 1306,Bring me my SPF 45.,1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,580
-1306,Didn't you hear? We conquered The Bahamas.,1.1587301587301588,0.046408928409558264,63.0,53.0,10.0,0.0,580
+1306,Didn't you hear? We conquered The Bahamas.,1.1587301587301588,0.04640892840955826,63.0,53.0,10.0,0.0,580
 1306,Wake me if there's a war.,1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,580
 1306,"I'm sorry. I'm not as dedicated, now that I've seen the emperor without clothes.",1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,580
-1306,Relax he's at Mar-a-lago.,1.1587301587301588,0.046408928409558264,63.0,53.0,10.0,0.0,580
+1306,Relax he's at Mar-a-lago.,1.1587301587301588,0.04640892840955826,63.0,53.0,10.0,0.0,580
 1306,"Why not name it for the inventor, Sir Henry of Hammock?",1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,580
 1306,Can't you see I'm knapping?,1.1587301587301588,0.06074443963372584,63.0,56.0,4.0,3.0,580
 1306,You can take the chair today. I'll just be comfortable over here.,1.1587301587301588,0.06074443963372584,63.0,56.0,4.0,3.0,580
@@ -1353,7 +1353,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1306,The total eclipse is coming through my window - quickly bring a pair of glasses filled with dark rum!,1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,580
 1306,The Airbnb description said it would have two hammocks.,1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,580
 1306,I'm really stuck. Do you know any sure fire jokes about a Jester in a bloody hammock?,1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,580
-1306,He's off for the 100 Year War. When do you think he'll return?,1.1587301587301588,0.046408928409558264,63.0,53.0,10.0,0.0,580
+1306,He's off for the 100 Year War. When do you think he'll return?,1.1587301587301588,0.04640892840955826,63.0,53.0,10.0,0.0,580
 1306,"I'm getting some shut eye, he'll be back from Mara Largo in the morning.",1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,580
 1306,My last review said I stood around too much.,1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,580
 1306,Just wake me up when his reign is over.,1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,580
@@ -1362,15 +1362,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1306,"It's like we're working in the dark ages here. I mean sure, we finally got a nap pod... but when are they finally going to put an organic poké bar in the cafeteria?",1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,580
 1306,"Tell me again, how this is earthquake safe.",1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,580
 1306,I can't stand guard duty!,1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,580
-1306,My alchemist feels a 20 minute power nap will invigorate my ability to pillage!,1.1587301587301588,0.046408928409558264,63.0,53.0,10.0,0.0,580
+1306,My alchemist feels a 20 minute power nap will invigorate my ability to pillage!,1.1587301587301588,0.04640892840955826,63.0,53.0,10.0,0.0,580
 1306,"I know you're tired, my lord. But it's all about visuals.",1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,580
 1306,"Look, I'm just like the 99%",1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,580
-1306,He's the Boy King. Of course he likes sleepovers.,1.1587301587301588,0.046408928409558264,63.0,53.0,10.0,0.0,580
+1306,He's the Boy King. Of course he likes sleepovers.,1.1587301587301588,0.04640892840955826,63.0,53.0,10.0,0.0,580
 1306,Have you not seen the size of the rats?,1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,580
 1306,"The economy is great, so, yeah, the hammock - I say - go for it.",1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,580
 1306,"Read your job description again, buddy.",1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,580
 1306,"Ruling is fine, but I miss the sea.",1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,580
-1306,"He's out all day. I think it's fine to ""let your guard down"" for a nap.",1.1587301587301588,0.046408928409558264,63.0,53.0,10.0,0.0,580
+1306,"He's out all day. I think it's fine to ""let your guard down"" for a nap.",1.1587301587301588,0.04640892840955826,63.0,53.0,10.0,0.0,580
 1306,I've got time for a nap... he's on the other throne.,1.1587301587301588,0.06074443963372584,63.0,56.0,4.0,3.0,580
 1306,I'm glad we unionized,1.1587301587301588,0.05637245937794515,63.0,55.0,6.0,2.0,580
 1306,"Look, H.R. would've said something if this is frowned upon here.",1.1587301587301588,0.051631593101712336,63.0,54.0,8.0,1.0,580
@@ -2140,23 +2140,23 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1958,"Yes Sir, It's The Game of Hammocks.",1.1063829787234043,0.05469656058869374,47.0,43.0,3.0,1.0,580
 1958,I intend to go out swinging!,1.1063829787234043,0.05469656058869374,47.0,43.0,3.0,1.0,580
 2141,"Tell the guards that no one enters the royal chambers, unless its a food delivery",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,580
-2141,Do you think he would mind?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,580
+2141,Do you think he would mind?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,580
 2141,...and I won't wear the crown either.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,580
 2141,¨My job description is totally flexible regarding my duties¨,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,580
-2141,"Remember he's at his Trump National Golf Club and estate in Bedminster, N.J. until at least Monday.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,580
+2141,"Remember he's at his Trump National Golf Club and estate in Bedminster, N.J. until at least Monday.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,580
 2141,Who negotiated our vacation policy?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,580
 2141,I pee out of my ass!,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,580
 2141,Could you get me a Bud Knight?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,580
 2141,The king wanted me to find alternative ways to hang people.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,580
-2141,Tell the Media I'm meeting with my advisers; not napping.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,580
-2141,This industry has been ripe for disruption since the Visigoths.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,580
+2141,Tell the Media I'm meeting with my advisers; not napping.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,580
+2141,This industry has been ripe for disruption since the Visigoths.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,580
 2141,I'm so glad that I am finally learning to relax.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,580
-2141,I find that after a short nap I'm much more alert and effective.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,580
+2141,I find that after a short nap I'm much more alert and effective.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,580
 2141,He's really a benevolent dictator.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,580
 2141,"""It's for the knights"".",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,580
-2141,"Sire, we're out of ravens. You can't send any more messages.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,580
-2141,"Hey, it beats an iron throne.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,580
-2141,If we're going to live like kings...make that two slices of avocado toast.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,580
+2141,"Sire, we're out of ravens. You can't send any more messages.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,580
+2141,"Hey, it beats an iron throne.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,580
+2141,If we're going to live like kings...make that two slices of avocado toast.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,580
 2159,Last night the wizard made the moon disappear. I fear tonight it's me?,1.1020408163265305,0.052528725209117416,49.0,45.0,3.0,1.0,580
 2159,Tell me a story about the times of olde.,1.1020408163265305,0.052528725209117416,49.0,45.0,3.0,1.0,580
 2161,Now I know why uneasy lies the head that wears a crown.,1.1,0.051507875363771216,50.0,46.0,3.0,1.0,580
@@ -2766,7 +2766,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2761,Wake me up if the king or the Huns come back.,1.0714285714285714,0.05271774316741632,42.0,40.0,1.0,1.0,580
 2761,I thought a ham hock was part of the pig!,1.0714285714285714,0.05271774316741632,42.0,40.0,1.0,1.0,580
 2767,I'll go back when you've stopped the leaks and not before!,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,580
-2767,Wake me should his royal highness return to this dumpy royal White Castle.,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,580
+2767,Wake me should his royal highness return to this dumpy royal White Castle.,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,580
 2767,I think it's time we offer His Royal Highness some Kaopectate.,1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,580
 2767,"Fit for a king? Hell, no!",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,580
 2771,So much for these memory foam hammocks. I just had a dream and can't remember it.,1.068181818181818,0.050344765623805764,44.0,42.0,1.0,1.0,580

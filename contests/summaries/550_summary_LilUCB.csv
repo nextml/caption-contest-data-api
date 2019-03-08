@@ -1,7 +1,7 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1,"When I asked you to line up a meeting with the Department Chairs, this is not what I meant.",1.9525032092426189,0.03015871729638605,779.0,295.0,226.0,258.0,550
-2,Are you willing to relocate?,1.8097560975609759,0.038079685792981134,410.0,168.0,152.0,90.0,550
-3,Where do you see yourself five chairs from now?,1.7979274611398963,0.04103485563132087,386.0,172.0,120.0,94.0,550
+2,Are you willing to relocate?,1.809756097560976,0.038079685792981134,410.0,168.0,152.0,90.0,550
+3,Where do you see yourself five chairs from now?,1.7979274611398963,0.041034855631320866,386.0,172.0,120.0,94.0,550
 4,"Actually, we were looking for someone a bit more aggressive.",1.7460815047021945,0.04193997841916307,319.0,140.0,120.0,59.0,550
 5,"At one point I had them in a semicircle, but it gave people a sense of equality.",1.7452830188679245,0.0436840744493621,318.0,147.0,105.0,66.0,550
 6,Martin realized he was facing some fierce competition for the ghost writer position.,1.7290969899665551,0.04726556396260157,299.0,151.0,78.0,70.0,550
@@ -17,7 +17,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 16,"The good news is, there's room for advancement.",1.6625,0.04643168449415906,240.0,116.0,89.0,35.0,550
 17,Thank you for lining up a meeting with the department chairs.,1.6582278481012658,0.052355728983919686,237.0,131.0,56.0,50.0,550
 18,"As you can see, we have plenty of advancement opportunities.",1.6567796610169492,0.045178484147901016,236.0,111.0,95.0,30.0,550
-18,"So, how's the assertiveness training course going?",1.6567796610169492,0.04863798587601301,236.0,120.0,77.0,39.0,550
+18,"So, how's the assertiveness training course going?",1.6567796610169492,0.048637985876013014,236.0,120.0,77.0,39.0,550
 20,In which chair do you see yourself sitting in five years?,1.655,0.04992330801756915,200.0,96.0,77.0,27.0,550
 21,"I have good news and bad news, Agent 008.",1.651063829787234,0.05212125727520616,235.0,130.0,57.0,48.0,550
 22,Correct. Advance one chair.,1.6415929203539823,0.04650393594081753,226.0,110.0,87.0,29.0,550
@@ -25,7 +25,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 24,"For an additional $75, you can upgrade your interview from economy to first class.",1.6261682242990654,0.05046696470399458,214.0,113.0,68.0,33.0,550
 24,"Well, you're remotely qualified.",1.6261682242990654,0.049145535092186,214.0,110.0,74.0,30.0,550
 24,"Norm, this isn't what I meant about lining up a meeting.",1.6261682242990654,0.05046696470399458,214.0,113.0,68.0,33.0,550
-27,Where do you see yourself in seven chairs?,1.625,0.05054078780249487,216.0,115.0,67.0,34.0,550
+27,Where do you see yourself in seven chairs?,1.625,0.050540787802494866,216.0,115.0,67.0,34.0,550
 28,"I won't lie, you are not my first choice.",1.6208530805687205,0.0497495978682245,211.0,110.0,71.0,30.0,550
 28,"I have a risky assignment for you, 008.",1.6208530805687205,0.05367728877558784,211.0,119.0,53.0,39.0,550
 30,We got rid of middle management.,1.619047619047619,0.05040817885890854,210.0,111.0,68.0,31.0,550
@@ -46,7 +46,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 44,"So, why do you want to work for Amtrak?",1.5863874345549738,0.05463489057725996,191.0,110.0,50.0,31.0,550
 44,"As you know, you weren't my first choice for this job.",1.5863874345549738,0.05463489057725996,191.0,110.0,50.0,31.0,550
 47,Where do you see yourself five chairs from now?,1.5842105263157895,0.05281088920769008,190.0,106.0,57.0,27.0,550
-48,"It's true, you're not our first choice...",1.582010582010582,0.0519730151437319,189.0,104.0,60.0,25.0,550
+48,"It's true, you're not our first choice...",1.5820105820105819,0.0519730151437319,189.0,104.0,60.0,25.0,550
 49,For fifty dollars you can upgrade to a First Class interview.,1.581151832460733,0.05209635248312741,191.0,106.0,59.0,26.0,550
 50,Thank you for applying for one of our remote positions.,1.5797872340425532,0.04997530152568189,188.0,100.0,67.0,21.0,550
 50,"It's not the typical workplace, but there's room to advance.",1.5797872340425532,0.04764423982857656,188.0,96.0,75.0,17.0,550
@@ -68,20 +68,20 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 65,…and when did you last see your cloak of invisibility?,1.5617977528089888,0.058499678860749325,178.0,110.0,36.0,32.0,550
 65,Give an example of a time when you showed initiative.,1.5617977528089888,0.05339375130285839,178.0,101.0,54.0,23.0,550
 65,"I am sorry, I think we are looking for someone a little more assertive.",1.5617977528089888,0.055148278254157024,178.0,104.0,48.0,26.0,550
-65,There is plenty of room for advancement here.,1.5617977528089888,0.05398492984398799,178.0,102.0,52.0,24.0,550
+65,There is plenty of room for advancement here.,1.5617977528089888,0.053984929843987985,178.0,102.0,52.0,24.0,550
 65,"As you can see, there's plenty of advancement potential.",1.5617977528089888,0.05279595350140652,178.0,100.0,56.0,22.0,550
 72,I can see there's a lot of room for advancement.,1.5575757575757576,0.053930175184044735,165.0,92.0,54.0,19.0,550
-73,"As you probably know, Peterson, you were not my first choice for this assignment.",1.5568181818181819,0.052666501028438485,176.0,99.0,56.0,21.0,550
-73,And you're sure you don't want to pay for an upgrade before your interview?,1.5568181818181819,0.05681818181818181,176.0,106.0,42.0,28.0,550
+73,"As you probably know, Peterson, you were not my first choice for this assignment.",1.556818181818182,0.052666501028438485,176.0,99.0,56.0,21.0,550
+73,And you're sure you don't want to pay for an upgrade before your interview?,1.556818181818182,0.05681818181818181,176.0,106.0,42.0,28.0,550
 75,You weren't our first choice.,1.5549132947976878,0.05582374000572075,173.0,102.0,46.0,25.0,550
 75,You are far and away the best candidate for this position.,1.5549132947976878,0.05336137749087397,173.0,98.0,54.0,21.0,550
-75,"The secret to my success, my boy? Linear thinking.",1.5549132947976878,0.05077975253209487,173.0,94.0,62.0,17.0,550
+75,"The secret to my success, my boy? Linear thinking.",1.5549132947976878,0.050779752532094866,173.0,94.0,62.0,17.0,550
 75,"Jenkins, it's plain to me there is a lot of room for you to move up in this organization.",1.5549132947976878,0.05398749802360951,173.0,99.0,52.0,22.0,550
 79,You're the last person I expected to see here.,1.554878048780488,0.056224848920455726,164.0,95.0,47.0,22.0,550
 80,I was a coxswain at Yale.,1.5497076023391814,0.05574262856334377,171.0,101.0,46.0,24.0,550
 80,We're looking for someone who is farsighted.,1.5497076023391814,0.04704091617192067,171.0,88.0,72.0,11.0,550
 82,So how shall we move forward?,1.5470588235294118,0.05346455911638464,170.0,97.0,53.0,20.0,550
-82,I'm here about the interior design job.,1.5470588235294118,0.054111669035279863,170.0,98.0,51.0,21.0,550
+82,I'm here about the interior design job.,1.5470588235294118,0.05411166903527986,170.0,98.0,51.0,21.0,550
 84,Is there anybody here I haven't fired yet?,1.5443786982248515,0.05436600178436971,169.0,98.0,50.0,21.0,550
 84,"In the line to audition for the role of the ""Invisible Man,"" Ted wasn't sure whether his chances were exceedingly high or exceedingly low.""",1.5443786982248515,0.06049864404567221,169.0,108.0,30.0,31.0,550
 86,"Not the best start to your assertiveness training, Wilson.",1.5438596491228067,0.05577149206226871,171.0,102.0,45.0,24.0,550
@@ -90,7 +90,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 88,Where do you see yourself in five chairs.,1.5416666666666667,0.05779313193001076,168.0,103.0,39.0,26.0,550
 88,You would be replacing our director of Feng Shui.,1.5416666666666667,0.05779313193001076,168.0,103.0,39.0,26.0,550
 88,You will have one more try when the music starts.,1.5416666666666667,0.05779313193001076,168.0,103.0,39.0,26.0,550
-88,"Yes, it's an entry level position: but, there are many opportunities to move up.",1.5416666666666667,0.05462248713790933,168.0,98.0,49.0,21.0,550
+88,"Yes, it's an entry level position: but, there are many opportunities to move up.",1.5416666666666667,0.054622487137909334,168.0,98.0,49.0,21.0,550
 88,My decorator was a flight attendant.,1.5416666666666667,0.05330144559270083,168.0,96.0,53.0,19.0,550
 88,There's a lot of room for advancement here.,1.5416666666666667,0.052628491360117234,168.0,95.0,55.0,18.0,550
 95,"So, Jenkins, where do you see yourself sitting in five years or so?",1.5389221556886228,0.05745014933874605,167.0,102.0,40.0,25.0,550
@@ -286,22 +286,22 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 285,"Welcome, Hadley. You're the first one here for my lecture on assertiveness.",1.4477611940298507,0.05662006238411967,134.0,86.0,36.0,12.0,550
 285,Congratulations! It looks like you're a finalist for Secretary of State.,1.4477611940298507,0.06137536735166515,134.0,91.0,26.0,17.0,550
 285,Please put your bag under the seat in front of you.,1.4477611940298507,0.054602104017276734,134.0,84.0,40.0,10.0,550
-288,"As you can see, there's a lot of room for advancement in our company.",1.4461538461538461,0.058871861358494273,130.0,85.0,32.0,13.0,550
-288,I'm looking for someone that takes a back seat to no one.,1.4461538461538461,0.05680998935979521,130.0,83.0,36.0,11.0,550
-288,"Now, to get one chair closer to the job...what is the capital of Montana?",1.4461538461538461,0.054670409933585816,130.0,81.0,40.0,9.0,550
-288,Correct answer! You may move forward one space.,1.4461538461538461,0.055750464631993714,130.0,82.0,38.0,10.0,550
-288,"Sir, this is not what I had in mind when you said I was in line for a promotion.",1.4461538461538461,0.055750464631993714,130.0,82.0,38.0,10.0,550
-288,Any questions about your position in the organizational hierarchy?,1.4461538461538461,0.060863923867653325,130.0,87.0,28.0,15.0,550
-288,"There's always room for advancement here at Lionel, Mr. Jones.",1.4461538461538461,0.055750464631993714,130.0,82.0,38.0,10.0,550
-288,"Having observed what happened to opinions 1-7, I no longer have an opinion.",1.4461538461538461,0.05987617760170263,130.0,86.0,30.0,14.0,550
-288,Your resume says you take a back seat to no one.,1.4461538461538461,0.05785011214714201,130.0,84.0,34.0,12.0,550
-288,I'm not meeting you halfway.,1.4461538461538461,0.05785011214714201,130.0,84.0,34.0,12.0,550
-288,"There's plenty of room for advancement, even during this interview.",1.4461538461538461,0.058871861358494273,130.0,85.0,32.0,13.0,550
-288,That makes it unanimous.,1.4461538461538461,0.06279282122441407,130.0,89.0,24.0,17.0,550
-288,Our promotional track is fairly straight forward.,1.4461538461538461,0.053568583497507705,130.0,80.0,42.0,8.0,550
-288,Salary will be commensurate with position.,1.4461538461538461,0.05680998935979521,130.0,83.0,36.0,11.0,550
-288,If you get the next question wrong you're out the door.,1.4461538461538461,0.05785011214714201,130.0,84.0,34.0,12.0,550
-288,You're in line for a big promotion!,1.4461538461538461,0.05680998935979521,130.0,83.0,36.0,11.0,550
+288,"As you can see, there's a lot of room for advancement in our company.",1.446153846153846,0.058871861358494273,130.0,85.0,32.0,13.0,550
+288,I'm looking for someone that takes a back seat to no one.,1.446153846153846,0.05680998935979521,130.0,83.0,36.0,11.0,550
+288,"Now, to get one chair closer to the job...what is the capital of Montana?",1.446153846153846,0.054670409933585816,130.0,81.0,40.0,9.0,550
+288,Correct answer! You may move forward one space.,1.446153846153846,0.055750464631993714,130.0,82.0,38.0,10.0,550
+288,"Sir, this is not what I had in mind when you said I was in line for a promotion.",1.446153846153846,0.055750464631993714,130.0,82.0,38.0,10.0,550
+288,Any questions about your position in the organizational hierarchy?,1.446153846153846,0.060863923867653325,130.0,87.0,28.0,15.0,550
+288,"There's always room for advancement here at Lionel, Mr. Jones.",1.446153846153846,0.055750464631993714,130.0,82.0,38.0,10.0,550
+288,"Having observed what happened to opinions 1-7, I no longer have an opinion.",1.446153846153846,0.05987617760170263,130.0,86.0,30.0,14.0,550
+288,Your resume says you take a back seat to no one.,1.446153846153846,0.05785011214714201,130.0,84.0,34.0,12.0,550
+288,I'm not meeting you halfway.,1.446153846153846,0.05785011214714201,130.0,84.0,34.0,12.0,550
+288,"There's plenty of room for advancement, even during this interview.",1.446153846153846,0.058871861358494273,130.0,85.0,32.0,13.0,550
+288,That makes it unanimous.,1.446153846153846,0.06279282122441407,130.0,89.0,24.0,17.0,550
+288,Our promotional track is fairly straight forward.,1.446153846153846,0.053568583497507705,130.0,80.0,42.0,8.0,550
+288,Salary will be commensurate with position.,1.446153846153846,0.05680998935979521,130.0,83.0,36.0,11.0,550
+288,If you get the next question wrong you're out the door.,1.446153846153846,0.05785011214714201,130.0,84.0,34.0,12.0,550
+288,You're in line for a big promotion!,1.446153846153846,0.05680998935979521,130.0,83.0,36.0,11.0,550
 304,You can upgrade your seat for only $35.,1.4427480916030535,0.0521530623035209,131.0,80.0,44.0,7.0,550
 305,"YES, Miller, I AM trying to tell you something!",1.4418604651162792,0.05708836558781179,129.0,83.0,35.0,11.0,550
 305,"Jones, we need to talk about your lack of initiative.",1.4418604651162792,0.05917203349136446,129.0,85.0,31.0,13.0,550
@@ -322,7 +322,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 318,Don't make the same mistake as your predecessors.,1.4375,0.058430505865926165,128.0,84.0,32.0,12.0,550
 318,Turns out the magnificent 7 weren't so magnificent.,1.4375,0.0625,128.0,88.0,24.0,16.0,550
 318,Welcome to Southwest Airlines.,1.4375,0.06150787351174651,128.0,87.0,26.0,15.0,550
-318,"...as you can see, there is room for rapid advancement within our organization.",1.4375,0.05405550879879,128.0,80.0,40.0,8.0,550
+318,"...as you can see, there is room for rapid advancement within our organization.",1.4375,0.054055508798789995,128.0,80.0,40.0,8.0,550
 318,We can't start this interview until you place your bag under the seat in front of you.,1.4375,0.05628553121026795,128.0,82.0,36.0,10.0,550
 318,Number 3. Number 3? Number 4....,1.4375,0.0573680444122426,128.0,83.0,34.0,11.0,550
 318,"Listen, I want to be upfront with you, you are not my first choice for the job.",1.4375,0.0573680444122426,128.0,83.0,34.0,11.0,550
@@ -395,7 +395,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 390,Imagine these are deck chairs on the Titanic. Show me what you can do.,1.4227642276422765,0.059997034536540525,123.0,83.0,28.0,12.0,550
 390,I take it that you bring bad news.,1.4227642276422765,0.05656681084526885,123.0,80.0,34.0,9.0,550
 390,I see you are a church goer...,1.4227642276422765,0.0621788082535235,123.0,85.0,24.0,14.0,550
-390,Our firm offers plenty of opportunity for advancement.,1.4227642276422765,0.05537620488873919,123.0,79.0,36.0,8.0,550
+390,Our firm offers plenty of opportunity for advancement.,1.4227642276422765,0.055376204888739185,123.0,79.0,36.0,8.0,550
 390,Looks like they were right when they said you'd take a back seat to no one.,1.4227642276422765,0.061097660957712935,123.0,84.0,26.0,13.0,550
 390,"So, where do you see yourself in ten years?",1.4227642276422765,0.05656681084526885,123.0,80.0,34.0,9.0,550
 390,The job of eighth vice president is more important than it looks.,1.4227642276422765,0.05415943174143188,123.0,78.0,38.0,7.0,550
@@ -427,7 +427,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 418,"Give a man a chair, he relaxes for a day. Teach a man to make a chair, he relaxes for a lifetime. Present a man with eight chairs, the metaphor breaks down.",1.4180327868852458,0.06250881410216305,122.0,85.0,23.0,14.0,550
 418,If I like your answer you get to move up one seat.,1.4180327868852458,0.05801223882012496,122.0,81.0,31.0,10.0,550
 418,"Tell me, Mr. Farnsworth, why is it you want to work for the B&O Railroad?",1.4180327868852458,0.06250881410216305,122.0,85.0,23.0,14.0,550
-418,Tell me more about this Feng Shui.,1.4180327868852458,0.05562781551665887,122.0,79.0,35.0,8.0,550
+418,Tell me more about this Feng Shui.,1.4180327868852458,0.055627815516658866,122.0,79.0,35.0,8.0,550
 418,Let's try again. Simon says: move up one chair.,1.4180327868852458,0.0591684278125345,122.0,82.0,29.0,11.0,550
 418,Welcome to the Economy class interview.,1.4180327868852458,0.06141554236164399,122.0,84.0,25.0,13.0,550
 418,"It seems I've eliminated everyone but you again, mother.",1.4180327868852458,0.06141554236164399,122.0,84.0,25.0,13.0,550
@@ -435,7 +435,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 418,Nope. Nope. That cologne is still making me nauseous.,1.4180327868852458,0.06141554236164399,122.0,84.0,25.0,13.0,550
 418,"One more wrong answer and you out, Mr. Kramer.",1.4180327868852458,0.0591684278125345,122.0,82.0,29.0,11.0,550
 418,"I wonder, Smith, why you haven't made an effort to move up ?",1.4180327868852458,0.05683253342971192,122.0,80.0,33.0,9.0,550
-418,"Tell me, where do you see yourself in 5 chairs?",1.4180327868852458,0.05562781551665887,122.0,79.0,35.0,8.0,550
+418,"Tell me, where do you see yourself in 5 chairs?",1.4180327868852458,0.055627815516658866,122.0,79.0,35.0,8.0,550
 418,Your predecessors wanted more transparency and they got it.,1.4180327868852458,0.06141554236164399,122.0,84.0,25.0,13.0,550
 418,Interesting choice.,1.4180327868852458,0.05683253342971192,122.0,80.0,33.0,9.0,550
 418,"I just didn't want to seem presumptuous, sir.",1.4180327868852458,0.060302453073577324,122.0,83.0,27.0,12.0,550
@@ -985,81 +985,81 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 967,"Before we start, have you considered the advantages of being a Business-Class applicant?",1.33,0.05695115752497348,100.0,72.0,23.0,5.0,550
 967,Can those of you in the back of the room hear me all right?,1.33,0.06039432711335351,100.0,74.0,19.0,7.0,550
 967,This is not a job for someone who puts himself first.,1.33,0.06039432711335351,100.0,74.0,19.0,7.0,550
-987,"Okay, who's next?",1.3265306122448979,0.06285096736982558,98.0,74.0,16.0,8.0,550
-987,We're coming out with a new line of chairs in the spring.,1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,I'll be frank: You have a 1 in 8 chance of becoming Secretary of State.,1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,"I'm sorry, only coach was available.",1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,"Bill, congrats, you're next in line for the job.",1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,"Here at Apex Industries, we believe in room for advancement.",1.3265306122448979,0.05383564730454025,98.0,69.0,26.0,3.0,550
-987,You are only this many promotions away from having a seat at the table.,1.3265306122448979,0.05383564730454025,98.0,69.0,26.0,3.0,550
-987,Does anyone else have any questions?,1.3265306122448979,0.057611316528512535,98.0,71.0,22.0,5.0,550
-987,We'll call if any positions open up.,1.3265306122448979,0.057611316528512535,98.0,71.0,22.0,5.0,550
-987,"I'm from the old ""sled dog"" school of management.",1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,Those are for our sapphire and platinum employees.,1.3265306122448979,0.057611316528512535,98.0,71.0,22.0,5.0,550
-987,Would you like to upgrade to Premium Seating?,1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,Those seats are for closers.,1.3265306122448979,0.055755451360594836,98.0,70.0,24.0,4.0,550
-987,Peterson! I've decided to promote you to third chair.,1.3265306122448979,0.05383564730454025,98.0,69.0,26.0,3.0,550
-987,I sense you're feeling apprehensive about our meeting.,1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,I'm here to fill your vacancies,1.3265306122448979,0.057611316528512535,98.0,71.0,22.0,5.0,550
-987,How is your consulting work at our garlic plant going?,1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,And this chair is just right,1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,"Answer seven questions correctly, and you get the job.",1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,"We KNOW it was written for 12 chairs, but this is a really small theater.",1.3265306122448979,0.06450300407769924,98.0,75.0,14.0,9.0,550
-987,"Sorry, my secretary is out sick today and I've never had to arrange seats myself before.",1.3265306122448979,0.06450300407769924,98.0,75.0,14.0,9.0,550
-987,OK. . .Here's how it works. . . .when the music stops. . . . . . .,1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,"Hey, you in the back, pipe down.",1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,"I just can't seem to reach you anymore, son.",1.3265306122448979,0.06285096736982558,98.0,74.0,16.0,8.0,550
-987,"Wilson, before the others arrive, we need to talk about your personal hygiene.",1.3265306122448979,0.06285096736982558,98.0,74.0,16.0,8.0,550
-987,"Take a seat. Seriously, I have too many.",1.3265306122448979,0.05383564730454025,98.0,69.0,26.0,3.0,550
-987,"When they said the middle class was disappearing, they weren't kidding.",1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,Overcoming fear of one-on-one meetings in eight easy steps.,1.3265306122448979,0.057611316528512535,98.0,71.0,22.0,5.0,550
-987,"""You've had a nice run Jenkins, but I'm afraid you're in the exit row"".",1.3265306122448979,0.06285096736982558,98.0,74.0,16.0,8.0,550
-987,"Mr. White, I'll settle the estate with the dwarves first.",1.3265306122448979,0.06285096736982558,98.0,74.0,16.0,8.0,550
-987,To start out you’d mostly be rowing. Do you have much experience working in chains?,1.3265306122448979,0.06450300407769924,98.0,75.0,14.0,9.0,550
-987,"This isn't church, Sullivan!",1.3265306122448979,0.0661137729279799,98.0,76.0,12.0,10.0,550
-987,The university is pleased to offer you a chair in our English department. Please select one.,1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,"This isn't church, you know.",1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,You'll be starting at an entry level with a good chance for rapid advancement.,1.3265306122448979,0.051844801908909305,98.0,68.0,28.0,2.0,550
-987,"What's this I hear about you thinking you are always ""last in line"" for a promotion?",1.3265306122448979,0.057611316528512535,98.0,71.0,22.0,5.0,550
-987,"Okay, tell me why I should hire you for this job, Mr. Caboose.",1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,Who will represent Snow White in this labor dispute?,1.3265306122448979,0.0661137729279799,98.0,76.0,12.0,10.0,550
-987,"I'm here to talk about my promotion, Sir.",1.3265306122448979,0.06285096736982558,98.0,74.0,16.0,8.0,550
-987,The arrangement is a metaphor - now get over it,1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,"I meant it literally. Please, take a seat.",1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,All of the remaining Apprentice applicants left for government jobs in D.C.,1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,"So, you're here for the vice-vice-vice-vice-vice-vice-vice-vice-chair position...?",1.3265306122448979,0.06285096736982558,98.0,74.0,16.0,8.0,550
-987,Welcome to AT&T. Can you hear me now?,1.3265306122448979,0.06285096736982558,98.0,74.0,16.0,8.0,550
-987,So where do you see yourself in 7 chairs?,1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,"Your references are excellent Mr. Jones, but you failed to put your carry-on items under the seat in front of you.",1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,It appears you come from a long line of upholsterers.,1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,"Mr. Jones, welcome to our new Distance Learning Program.",1.3265306122448979,0.057611316528512535,98.0,71.0,22.0,5.0,550
-987,And that's the way it is at The Acme Caboose Company,1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,I don't know what position you applied for but you're hired.,1.3265306122448979,0.0661137729279799,98.0,76.0,12.0,10.0,550
-987,"It may not be practical, but the Feng Shui is off the charts.",1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,"Your résumé is excellent, but we already have 7 dream candidates lined up for the position.",1.3265306122448979,0.057611316528512535,98.0,71.0,22.0,5.0,550
-987,"Now that we’ve eliminated most of middle management, we should think about downsizing the furniture.",1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,"Right, now that Snow White's agent is here, we can start the contract negotiations.",1.3265306122448979,0.0661137729279799,98.0,76.0,12.0,10.0,550
-987,We call it the 'millennial-sense-of-entitlement-adjuster'.,1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,We are waiting on a few more rsvp's to sing at the inauguration!!,1.3265306122448979,0.06285096736982558,98.0,74.0,16.0,8.0,550
-987,Of course there is room for advancement.,1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,With every correct answer you move up a seat.....,1.3265306122448979,0.055755451360594836,98.0,70.0,24.0,4.0,550
-987,"Playing ""musical chairs"" to determine who gets the job usually works better when we have more applicants.",1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,"No, Dave, I wouldn't say you're next in line for our management position.",1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,"This time, when the music starts try to take a seat closer to me.",1.3265306122448979,0.055755451360594836,98.0,70.0,24.0,4.0,550
-987,I won't lie to you: this job involves a great deal of travelling.,1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,There are seats available in the front.,1.3265306122448979,0.05383564730454025,98.0,69.0,26.0,3.0,550
-987,"You won Musical Chairs, so congratulations, you are the new Secretary of State!",1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,"You forgot to say 'Mother, may I?' That's why.",1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,"And would you rate it ""Too Big,"" ""Too Small,"" or ""Just Right?""",1.3265306122448979,0.057611316528512535,98.0,71.0,22.0,5.0,550
-987,"Ma'am? Excuse me, but that seat is reserved for Snow White.",1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,We also offer free Wi-Fi and peanuts,1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,Please hold your chugga-chuggas and woo-woos until the end.,1.3265306122448979,0.06115431843785093,98.0,73.0,18.0,7.0,550
-987,"When I invited you to 'pull up a chair', I had forgotten about your OCD.",1.3265306122448979,0.0661137729279799,98.0,76.0,12.0,10.0,550
-987,"I'm sorry, but I was a Rear Admiral in the Navy.",1.3265306122448979,0.06285096736982558,98.0,74.0,16.0,8.0,550
-987,I feel like I can be a real asset to this interior design firm.,1.3265306122448979,0.0676862202113347,98.0,77.0,10.0,11.0,550
-987,"We all can’t be the engineer, Mr. Caboose.",1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,This week I'm interviewing far-sighted candidates only.,1.3265306122448979,0.059409235206937874,98.0,72.0,20.0,6.0,550
-987,Don't think you can avoid questions by sitting in the back.,1.3265306122448979,0.06285096736982558,98.0,74.0,16.0,8.0,550
+987,"Okay, who's next?",1.326530612244898,0.06285096736982558,98.0,74.0,16.0,8.0,550
+987,We're coming out with a new line of chairs in the spring.,1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,I'll be frank: You have a 1 in 8 chance of becoming Secretary of State.,1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,"I'm sorry, only coach was available.",1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,"Bill, congrats, you're next in line for the job.",1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,"Here at Apex Industries, we believe in room for advancement.",1.326530612244898,0.05383564730454025,98.0,69.0,26.0,3.0,550
+987,You are only this many promotions away from having a seat at the table.,1.326530612244898,0.05383564730454025,98.0,69.0,26.0,3.0,550
+987,Does anyone else have any questions?,1.326530612244898,0.057611316528512535,98.0,71.0,22.0,5.0,550
+987,We'll call if any positions open up.,1.326530612244898,0.057611316528512535,98.0,71.0,22.0,5.0,550
+987,"I'm from the old ""sled dog"" school of management.",1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,Those are for our sapphire and platinum employees.,1.326530612244898,0.057611316528512535,98.0,71.0,22.0,5.0,550
+987,Would you like to upgrade to Premium Seating?,1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,Those seats are for closers.,1.326530612244898,0.055755451360594836,98.0,70.0,24.0,4.0,550
+987,Peterson! I've decided to promote you to third chair.,1.326530612244898,0.05383564730454025,98.0,69.0,26.0,3.0,550
+987,I sense you're feeling apprehensive about our meeting.,1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,I'm here to fill your vacancies,1.326530612244898,0.057611316528512535,98.0,71.0,22.0,5.0,550
+987,How is your consulting work at our garlic plant going?,1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,And this chair is just right,1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,"Answer seven questions correctly, and you get the job.",1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,"We KNOW it was written for 12 chairs, but this is a really small theater.",1.326530612244898,0.06450300407769924,98.0,75.0,14.0,9.0,550
+987,"Sorry, my secretary is out sick today and I've never had to arrange seats myself before.",1.326530612244898,0.06450300407769924,98.0,75.0,14.0,9.0,550
+987,OK. . .Here's how it works. . . .when the music stops. . . . . . .,1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,"Hey, you in the back, pipe down.",1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,"I just can't seem to reach you anymore, son.",1.326530612244898,0.06285096736982558,98.0,74.0,16.0,8.0,550
+987,"Wilson, before the others arrive, we need to talk about your personal hygiene.",1.326530612244898,0.06285096736982558,98.0,74.0,16.0,8.0,550
+987,"Take a seat. Seriously, I have too many.",1.326530612244898,0.05383564730454025,98.0,69.0,26.0,3.0,550
+987,"When they said the middle class was disappearing, they weren't kidding.",1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,Overcoming fear of one-on-one meetings in eight easy steps.,1.326530612244898,0.057611316528512535,98.0,71.0,22.0,5.0,550
+987,"""You've had a nice run Jenkins, but I'm afraid you're in the exit row"".",1.326530612244898,0.06285096736982558,98.0,74.0,16.0,8.0,550
+987,"Mr. White, I'll settle the estate with the dwarves first.",1.326530612244898,0.06285096736982558,98.0,74.0,16.0,8.0,550
+987,To start out you’d mostly be rowing. Do you have much experience working in chains?,1.326530612244898,0.06450300407769924,98.0,75.0,14.0,9.0,550
+987,"This isn't church, Sullivan!",1.326530612244898,0.0661137729279799,98.0,76.0,12.0,10.0,550
+987,The university is pleased to offer you a chair in our English department. Please select one.,1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,"This isn't church, you know.",1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,You'll be starting at an entry level with a good chance for rapid advancement.,1.326530612244898,0.051844801908909305,98.0,68.0,28.0,2.0,550
+987,"What's this I hear about you thinking you are always ""last in line"" for a promotion?",1.326530612244898,0.057611316528512535,98.0,71.0,22.0,5.0,550
+987,"Okay, tell me why I should hire you for this job, Mr. Caboose.",1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,Who will represent Snow White in this labor dispute?,1.326530612244898,0.0661137729279799,98.0,76.0,12.0,10.0,550
+987,"I'm here to talk about my promotion, Sir.",1.326530612244898,0.06285096736982558,98.0,74.0,16.0,8.0,550
+987,The arrangement is a metaphor - now get over it,1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,"I meant it literally. Please, take a seat.",1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,All of the remaining Apprentice applicants left for government jobs in D.C.,1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,"So, you're here for the vice-vice-vice-vice-vice-vice-vice-vice-chair position...?",1.326530612244898,0.06285096736982558,98.0,74.0,16.0,8.0,550
+987,Welcome to AT&T. Can you hear me now?,1.326530612244898,0.06285096736982558,98.0,74.0,16.0,8.0,550
+987,So where do you see yourself in 7 chairs?,1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,"Your references are excellent Mr. Jones, but you failed to put your carry-on items under the seat in front of you.",1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,It appears you come from a long line of upholsterers.,1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,"Mr. Jones, welcome to our new Distance Learning Program.",1.326530612244898,0.057611316528512535,98.0,71.0,22.0,5.0,550
+987,And that's the way it is at The Acme Caboose Company,1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,I don't know what position you applied for but you're hired.,1.326530612244898,0.0661137729279799,98.0,76.0,12.0,10.0,550
+987,"It may not be practical, but the Feng Shui is off the charts.",1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,"Your résumé is excellent, but we already have 7 dream candidates lined up for the position.",1.326530612244898,0.057611316528512535,98.0,71.0,22.0,5.0,550
+987,"Now that we’ve eliminated most of middle management, we should think about downsizing the furniture.",1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,"Right, now that Snow White's agent is here, we can start the contract negotiations.",1.326530612244898,0.0661137729279799,98.0,76.0,12.0,10.0,550
+987,We call it the 'millennial-sense-of-entitlement-adjuster'.,1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,We are waiting on a few more rsvp's to sing at the inauguration!!,1.326530612244898,0.06285096736982558,98.0,74.0,16.0,8.0,550
+987,Of course there is room for advancement.,1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,With every correct answer you move up a seat.....,1.326530612244898,0.055755451360594836,98.0,70.0,24.0,4.0,550
+987,"Playing ""musical chairs"" to determine who gets the job usually works better when we have more applicants.",1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,"No, Dave, I wouldn't say you're next in line for our management position.",1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,"This time, when the music starts try to take a seat closer to me.",1.326530612244898,0.055755451360594836,98.0,70.0,24.0,4.0,550
+987,I won't lie to you: this job involves a great deal of travelling.,1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,There are seats available in the front.,1.326530612244898,0.05383564730454025,98.0,69.0,26.0,3.0,550
+987,"You won Musical Chairs, so congratulations, you are the new Secretary of State!",1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,"You forgot to say 'Mother, may I?' That's why.",1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,"And would you rate it ""Too Big,"" ""Too Small,"" or ""Just Right?""",1.326530612244898,0.057611316528512535,98.0,71.0,22.0,5.0,550
+987,"Ma'am? Excuse me, but that seat is reserved for Snow White.",1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,We also offer free Wi-Fi and peanuts,1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,Please hold your chugga-chuggas and woo-woos until the end.,1.326530612244898,0.06115431843785093,98.0,73.0,18.0,7.0,550
+987,"When I invited you to 'pull up a chair', I had forgotten about your OCD.",1.326530612244898,0.0661137729279799,98.0,76.0,12.0,10.0,550
+987,"I'm sorry, but I was a Rear Admiral in the Navy.",1.326530612244898,0.06285096736982558,98.0,74.0,16.0,8.0,550
+987,I feel like I can be a real asset to this interior design firm.,1.326530612244898,0.0676862202113347,98.0,77.0,10.0,11.0,550
+987,"We all can’t be the engineer, Mr. Caboose.",1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,This week I'm interviewing far-sighted candidates only.,1.326530612244898,0.059409235206937874,98.0,72.0,20.0,6.0,550
+987,Don't think you can avoid questions by sitting in the back.,1.326530612244898,0.06285096736982558,98.0,74.0,16.0,8.0,550
 1062,"I see you're comfortable in coach, that is a promising start.",1.3232323232323229,0.05889850398833636,99.0,73.0,20.0,6.0,550
 1062,"Why, Yes. Working here CAN be like a roller-coaster ride. Why do you ask?",1.3232323232323229,0.05142432808428704,99.0,69.0,28.0,2.0,550
 1062,Thank you all for coming today.,1.3232323232323229,0.05712171836331741,99.0,72.0,22.0,5.0,550
@@ -1382,7 +1382,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1298,Bob I assure you in this job you'll take a backseat to no one.,1.3010752688172045,0.06074368900734789,93.0,71.0,16.0,6.0,550
 1298,"I guess you're next, Mother.",1.3010752688172045,0.06626505886446611,93.0,74.0,10.0,9.0,550
 1298,Seems like the other applicants are lacking presence.,1.3010752688172045,0.052485992335432205,93.0,67.0,24.0,2.0,550
-1384,"No, I'm sure the restraining order said 8 FEET.",1.297872340425532,0.05824746872144231,94.0,71.0,18.0,5.0,550
+1384,"No, I'm sure the restraining order said 8 FEET.",1.2978723404255321,0.05824746872144231,94.0,71.0,18.0,5.0,550
 1385,"Remember, Perkins. Filling empty seats is the business of our airline!",1.2934782608695652,0.05686935993101575,92.0,69.0,19.0,4.0,550
 1385,"You're not in grade school anymore, Mr. Zzeltman.",1.2934782608695652,0.06092542314536813,92.0,71.0,15.0,6.0,550
 1385,You're probably wondering why I called this meeting.,1.2934782608695652,0.05686935993101575,92.0,69.0,19.0,4.0,550
@@ -1526,7 +1526,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1492,"I'm sorry, sir, but you'll have to wait your turn.",1.2857142857142858,0.05906415932819448,91.0,70.0,16.0,5.0,550
 1492,"So, what brings you to Caboose Industries?",1.2857142857142858,0.06109644147858849,91.0,71.0,14.0,6.0,550
 1492,Have you been waiting long?,1.2857142857142858,0.05477384803668495,91.0,68.0,20.0,3.0,550
-1492,When I was your age they were rungs on a ladder,1.2857142857142858,0.052497373120429666,91.0,67.0,22.0,2.0,550
+1492,When I was your age they were rungs on a ladder,1.2857142857142858,0.05249737312042967,91.0,67.0,22.0,2.0,550
 1529,"When you are as controversial as I am, you don't let anyone get close enough to deck you.",1.2826086956521738,0.05850111983222954,92.0,71.0,16.0,5.0,550
 1529,"...and finally, #8 - You are fired!",1.2826086956521738,0.05642241999759945,92.0,70.0,18.0,4.0,550
 1529,You're hired. I did not say 'Simon says everybody get out'.,1.2826086956521738,0.06050845035913785,92.0,72.0,14.0,6.0,550
@@ -1562,7 +1562,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1534,Your willingness to take a back seat indicates a subservient attitude. You're hired.,1.2808988764044944,0.05297281870148832,89.0,66.0,21.0,2.0,550
 1534,I see somebody had the boundaries talk with HR.,1.2808988764044944,0.05533066180784329,89.0,67.0,19.0,3.0,550
 1534,I see you haven't forgotten your place in the chain of command.,1.2808988764044944,0.057592054582269465,89.0,68.0,17.0,4.0,550
-1534,There were a number of candidates in line for your position.,1.2808988764044944,0.05050501862456418,89.0,65.0,23.0,1.0,550
+1534,There were a number of candidates in line for your position.,1.2808988764044944,0.050505018624564184,89.0,65.0,23.0,1.0,550
 1534,"That's why you will never run this company, Booker. While I take a back seat to no one, you take a back seat to everyone!",1.2808988764044944,0.06186735795905185,89.0,70.0,13.0,6.0,550
 1534,I know what it's like to sit in your chair.,1.2808988764044944,0.05297281870148832,89.0,66.0,21.0,2.0,550
 1534,"Sorry, Smithers, but this is how we do things at United Airlines.",1.2808988764044944,0.06389782935082093,89.0,71.0,11.0,7.0,550
@@ -1582,7 +1582,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1534,Now we're just waiting on the ducks.,1.2808988764044944,0.06186735795905185,89.0,70.0,13.0,6.0,550
 1534,"Even more proof you don't listen, I said to get your ducks in a row.""",1.2808988764044944,0.06186735795905185,89.0,70.0,13.0,6.0,550
 1534,Bob scans the other applicants and feels overqualified,1.2808988764044944,0.059767945973743165,89.0,69.0,15.0,5.0,550
-1534,"With a little extra hard work, Johnson, I see you sitting in that sixth seat--maybe even the fifth.",1.2808988764044944,0.05050501862456418,89.0,65.0,23.0,1.0,550
+1534,"With a little extra hard work, Johnson, I see you sitting in that sixth seat--maybe even the fifth.",1.2808988764044944,0.050505018624564184,89.0,65.0,23.0,1.0,550
 1534,Apply Now! We have plenty of open spaces.,1.2808988764044944,0.06186735795905185,89.0,70.0,13.0,6.0,550
 1534,Congratulations in making it this far. You have been chosen in order of preference.,1.2808988764044944,0.06389782935082093,89.0,71.0,11.0,7.0,550
 1534,What are we supposed to do when the music stops?,1.2808988764044944,0.06186735795905185,89.0,70.0,13.0,6.0,550
@@ -1698,7 +1698,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1651,Joe's first day on the job at Pacific Economy Airlines went just as expected.,1.2727272727272727,0.0661038271846801,88.0,72.0,8.0,8.0,550
 1651,"Father, may I move three giant seats forward?",1.2727272727272727,0.059883360868449274,88.0,69.0,14.0,5.0,550
 1651,Trump keeps his campaign promise to cut out the middleman.,1.2727272727272727,0.06202620356554665,88.0,70.0,12.0,6.0,550
-1651,We offer a full benefits package and a clear career path.,1.2727272727272727,0.04774779376717186,88.0,64.0,24.0,0.0,550
+1651,We offer a full benefits package and a clear career path.,1.2727272727272727,0.047747793767171864,88.0,64.0,24.0,0.0,550
 1651,"Thompson? Williamson? Decker? Merkle? Dumbrosky? Kane? Bryant? Miller? ""Here""",1.2727272727272727,0.06202620356554665,88.0,70.0,12.0,6.0,550
 1651,I used to lecture on a train.,1.2727272727272727,0.059883360868449274,88.0,69.0,14.0,5.0,550
 1651,Why do you want to work for Lionel?,1.2727272727272727,0.059883360868449274,88.0,69.0,14.0,5.0,550
@@ -2003,8 +2003,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1950,The past few candidates I’ve spoken to were out of line.,1.258823529411765,0.060698412238798224,85.0,68.0,12.0,5.0,550
 2003,Welcome to your airline orientation.,1.255813953488372,0.05774145523777671,86.0,68.0,14.0,4.0,550
 2003,What we have here is a failure to communicate.,1.255813953488372,0.05532158567646685,86.0,67.0,16.0,3.0,550
-2003,"If I am not mistaken, there are available seats up front.",1.255813953488372,0.052790908597419986,86.0,66.0,18.0,2.0,550
-2003,Sometimes I feel like I'm talking to an empty chair.,1.255813953488372,0.052790908597419986,86.0,66.0,18.0,2.0,550
+2003,"If I am not mistaken, there are available seats up front.",1.255813953488372,0.05279090859741999,86.0,66.0,18.0,2.0,550
+2003,Sometimes I feel like I'm talking to an empty chair.,1.255813953488372,0.05279090859741999,86.0,66.0,18.0,2.0,550
 2007,Don't be deceived by appearances. You take a back seat no one!,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,550
 2007,I like keeping my ducks in a row.,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,550
 2007,Does this mean that I'm next in line for your job?,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,550
@@ -2016,7 +2016,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2007,We have to stop meeting this way.,1.25,0.06532280056069527,84.0,70.0,7.0,7.0,550
 2007,He takes the title of Chairman quite seriously.,1.25,0.06308887810420713,84.0,69.0,9.0,6.0,550
 2007,"You forgot to ask, 'Captain, may I?'",1.25,0.05045689127585228,84.0,64.0,19.0,1.0,550
-2007,I see here you were last employed by the Acme Caboose Co.,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,550
+2007,I see here you were last employed by the Acme Caboose Co.,1.25,0.060772895338322,84.0,68.0,11.0,5.0,550
 2007,Paul was already off to a bad start at his interview with TicketMaster...,1.25,0.06308887810420713,84.0,69.0,9.0,6.0,550
 2007,Last call for jobs with the new administration.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,550
 2007,Clint Eastwood's waiting room.,1.25,0.06532280056069527,84.0,70.0,7.0,7.0,550
@@ -2024,18 +2024,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2007,Really?,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,550
 2007,You have to pay extra for premium seating.,1.25,0.06308887810420713,84.0,69.0,9.0,6.0,550
 2007,You'll just have to wait until your turn.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,550
-2007,"OK then, what do YOU have to say about how I run things?",1.25,0.060772895338321996,84.0,68.0,11.0,5.0,550
+2007,"OK then, what do YOU have to say about how I run things?",1.25,0.060772895338322,84.0,68.0,11.0,5.0,550
 2007,Simon Says chair four...,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,550
 2007,"It's just going to be the two of us, Johnson, so you can move up a chair or two.",1.25,0.05045689127585228,84.0,64.0,19.0,1.0,550
 2007,Please stow your carry-on luggage underneath the seat in front of you.,1.25,0.058365084384054265,84.0,67.0,13.0,4.0,550
 2007,"Thanks for waiting, Henry.",1.25,0.06308887810420713,84.0,69.0,9.0,6.0,550
 2007,It's lonely at the front.,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,550
-2007,This isn't church; get up here!,1.25,0.060772895338321996,84.0,68.0,11.0,5.0,550
-2007,"Hendrick, get your caboose up here.",1.25,0.060772895338321996,84.0,68.0,11.0,5.0,550
+2007,This isn't church; get up here!,1.25,0.060772895338322,84.0,68.0,11.0,5.0,550
+2007,"Hendrick, get your caboose up here.",1.25,0.060772895338322,84.0,68.0,11.0,5.0,550
 2007,"Well, I guess you're hired. You seem to be showing more initiative than most of our other candidates.",1.25,0.05585357054399395,84.0,66.0,15.0,3.0,550
 2007,"""The last shall be first"" only works above, not down here Cromwell!",1.25,0.06308887810420713,84.0,69.0,9.0,6.0,550
 2007,You chose poorly.,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,550
-2007,"Now, do you all know why Ms.Snow White has brought you here?",1.25,0.060772895338321996,84.0,68.0,11.0,5.0,550
+2007,"Now, do you all know why Ms.Snow White has brought you here?",1.25,0.060772895338322,84.0,68.0,11.0,5.0,550
 2007,Results from the employee survey showed that our people want more access to senior management.,1.25,0.05322367527583983,84.0,65.0,17.0,2.0,550
 2007,"Well, Jones, it looks like you have passed the musical chairs part of the interview.",1.25,0.05585357054399395,84.0,66.0,15.0,3.0,550
 2007,You aren't even in the top seven!,1.25,0.05585357054399395,84.0,66.0,15.0,3.0,550
@@ -2165,7 +2165,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2162,"Well Mr. Secretary of the Interior, congratulations. I suppose you're the next President of the United States.",1.2409638554216869,0.06319526350874095,83.0,69.0,8.0,6.0,550
 2162,I asked to gather ALL Department Chairs…,1.2409638554216869,0.06082584129848807,83.0,68.0,10.0,5.0,550
 2162,The other seven candidates will be here soon. You've been prescreened as our last resort candidate.,1.2409638554216869,0.058360299942670835,83.0,67.0,12.0,4.0,550
-2167,Mr. Ionesco will see you now.,1.2380952380952381,0.0577326608747873,84.0,68.0,12.0,4.0,550
+2167,Mr. Ionesco will see you now.,1.238095238095238,0.0577326608747873,84.0,68.0,12.0,4.0,550
 2168,Seats A through G were unprepared. Are you prepared H?,1.2345679012345678,0.061542931262293925,81.0,67.0,9.0,5.0,550
 2168,"Henry, is that you?",1.2345679012345678,0.05630495926415498,81.0,65.0,13.0,3.0,550
 2168,"In keeping with our revenue enhancement initiative, preferred seating will cost you $25.",1.2345679012345678,0.05630495926415498,81.0,65.0,13.0,3.0,550
@@ -2819,7 +2819,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2788,What's your opinion on vertical integration?,1.205128205128205,0.0460167423779546,78.0,62.0,16.0,0.0,550
 2788,Being the least likely candidate is not necessarily a disqualification.,1.205128205128205,0.052759276388894,78.0,64.0,12.0,2.0,550
 2788,I see you don't like to get ahead of yourself. That's something we look for at SeatStir.,1.205128205128205,0.052759276388894,78.0,64.0,12.0,2.0,550
-2821,"""Getrude Hilsinger- COME ON DOWN!!",1.2025316455696202,0.05215183571084887,79.0,65.0,12.0,2.0,550
+2821,"""Getrude Hilsinger- COME ON DOWN!!",1.2025316455696202,0.052151835710848866,79.0,65.0,12.0,2.0,550
 2822,Well yes. Then you need to pay for a business class seat.,1.2,0.05694947974514994,75.0,63.0,9.0,3.0,550
 2822,"Speak up, son... I can barely hear you.",1.2,0.05694947974514994,75.0,63.0,9.0,3.0,550
 2822,"My instructions here say, 'The first shall be last; and the last shall be first.'",1.2,0.06296001877353567,75.0,65.0,5.0,5.0,550
@@ -4200,202 +4200,202 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 4194,One so rarely gets to interview a person with a PhD in caboose.,1.1304347826086956,0.05020437123388052,69.0,62.0,5.0,2.0,550
 4194,Congratulations. We will be moving you from coach to business class in the corporation.,1.1304347826086956,0.045762664165056526,69.0,61.0,7.0,1.0,550
 4201,What do you see yourself doing in ten years?,1.1285714285714286,0.04514264748228169,70.0,62.0,7.0,1.0,550
-4202,"What? You prefer Southwest's seating plan? Hard apples, son.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,I had a feeling that wasn't aspirin...,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,Can you hear me? You're the last man sitting and that may not be for long.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,Expanding my office was entirely necessary. Why do you ask?,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,We don't sit on ceremony in this company.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"What? You prefer Southwest's seating plan? Hard apples, son.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,I had a feeling that wasn't aspirin...,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,Can you hear me? You're the last man sitting and that may not be for long.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,Expanding my office was entirely necessary. Why do you ask?,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,We don't sit on ceremony in this company.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"You'll need to wait your turn, Mr. Blanchard. You were the 8th best candidate for the position.",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,Is Sleepy listening to me?,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"We expect more turbulence and your seat cushions are flotation devices, for what it's worth.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,Is Sleepy listening to me?,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"We expect more turbulence and your seat cushions are flotation devices, for what it's worth.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"So, insignificant person, they tell me you intend to break the chair ceiling.",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,"On your way up, could you please get me a coffee at the club card chair?",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,"Number 43, next!",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"Number 43, next!",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"All right, I'll see the heckler now.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,As chairman you'll take a back seat in this company,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,Maybe a good sales pitch will convince him I am Snow White.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,Maybe a good sales pitch will convince him I am Snow White.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"Store policy says that all customers must be served, regardless of whether they're here or not.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,Tell me which cushion conceals a dime and the CFO job is yours.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,Tell me which cushion conceals a dime and the CFO job is yours.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,You'll be flying coach until we figure out the feng shui.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,I can't see why I'm not being chosen for the job.,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,Mrs Berkowitz could not shake the feeling that her husband was distancing himself from her.,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,"Before we start the interview, you should know I consider this to be a first class organization.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"Mother, may I move seven seats forward?",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"Before we start the interview, you should know I consider this to be a first class organization.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"Mother, may I move seven seats forward?",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,I have fond memories of my first job as a flight attendant.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,"Since there are no chairs out in the parking lot, I will assume you are an Episcopalian.",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,I run Madison Square Garden. How *else* would you expect me to configure my office seats?,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,"I'm sorry Mrs. McGillicutty, Mr. Trump is only seeing the first seven candidates for Secretary of State. You're dismissed.",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,Can you hear me?,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,Can you hear me?,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"Josh, have you ever seen ""The Apprentice""?",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,Can I get you anything?,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"Last not not least, anyone who feels ""ignored"" in any way please raise your hand so I can see it.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,I feel there are too many chairs between us.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,Can I get you anything?,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"Last not not least, anyone who feels ""ignored"" in any way please raise your hand so I can see it.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,I feel there are too many chairs between us.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"Sorry son, this was the test: if you want to sit at the desk; you walk to the desk.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,"To be honest, I can't tell the difference, sir.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"To be honest, I can't tell the difference, sir.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,You heard me; I value my imaginary suppliers more than I value you.,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,You have to earn closer contact,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,You have to earn closer contact,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"You may well ask about the empty chairs. Have you ever heard of Mickey Rooney, Artie Shaw, or Tommy Manville?",1.1230769230769229,0.05593476758557304,65.0,60.0,2.0,3.0,550
-4202,"If you move fast, you can move up one chair when you hear ""Pop goes the weasel.""",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"I understand your complaint, but that needs to be taken up with the chairman of the board.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,Should've splurged for business class.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,The rest of the executive team should be here shortly,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,""" Don't try to hide from being called on.""  submitted by Neil L. Sachs  Monmouth Junction, NJ",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"If you move fast, you can move up one chair when you hear ""Pop goes the weasel.""",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"I understand your complaint, but that needs to be taken up with the chairman of the board.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,Should've splurged for business class.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,The rest of the executive team should be here shortly,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,""" Don't try to hide from being called on.""  submitted by Neil L. Sachs  Monmouth Junction, NJ",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,We still have to play by the rules.,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,In accordance with the terms of the will you get the whole enchilada since nobody else bothered to attend the reading.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,The ship metaphor is starting to make sense now.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,Have a seat. I'll be with you in a metaphor,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"Well, All the OTHERS purchased upgrades.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,The ship metaphor is starting to make sense now.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,Have a seat. I'll be with you in a metaphor,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"Well, All the OTHERS purchased upgrades.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"Hey, you back there. I don't think you're qualified to be on our invisible employee team.",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,I don't like your casual habit of sitting back,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,"I don't want this to sound threatening, but in this organization if you're not moving up you're moving out.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"I don't want this to sound threatening, but in this organization if you're not moving up you're moving out.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"I didn't get to be Chairman, by standing around all day.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,The bus was late.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,"No thank you Sir, an upgrade's not in the budget so soon after Christmas.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"Next airhead, please.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"No thank you Sir, an upgrade's not in the budget so soon after Christmas.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"Next airhead, please.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,You're a brilliant negotiator. The job is yours.,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,This is the latest cutting edge format. The walking and standing meetings were flops.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,This is the latest cutting edge format. The walking and standing meetings were flops.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"First one here, but not very motivated for this job interview.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,Your predecessor always wanted a career with the airlines.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,I'll give it 5 more minutes.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,I'll give it 5 more minutes.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"Baxter, promotions are like first class upgrades. Without the points to get the status, you stay in coach. Any questions?",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,I'll be with you shortly. Would you like coffee?,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,I didn't know you liked musical chairs.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,"... and your resume is impressive, Miller. To conclude, how about a rousing rendition of 'Wheels On The Bus' ... ?",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"... and your resume is impressive, Miller. To conclude, how about a rousing rendition of 'Wheels On The Bus' ... ?",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,who wants to look at their grades first?,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,I'm beginning to question my strategy of always sitting in the back of the room at meetings.,1.1230769230769229,0.05593476758557304,65.0,60.0,2.0,3.0,550
 4202,"Seven people ahead of you, Dear.",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,"As a high school thespian, I was lauded for my ability to play to the back of the row.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,This isn't a newly created position. We're trying to fill an empty seat in the office.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,This isn't a newly created position. We're trying to fill an empty seat in the office.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"It's a tremendous, tremendous wait.",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,Take a number and wait until called.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,Take a number and wait until called.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,I appreciate your understanding that the FIFO concept is what we practice here.,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,"Yes, they actually have all left for nirvana. What's your plan?",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,How do you feel about dating your boss?,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,"Why the object lesson? To emphasize that at this company, there's no music, no risk-taking, and more than enough chairs.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,"I'm sorry, but our newspaper is looking for more than just an armchair critic.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,elected to the best seat in the house again I see,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,We brand it as an alternative to the glass ceiling,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,Do you think I got to where I am by just sitting around all day?,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,That moment when you are eighth in line for the corner office and you wonder what happened to the other seven.......,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"I'm sorry, but our newspaper is looking for more than just an armchair critic.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,elected to the best seat in the house again I see,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,We brand it as an alternative to the glass ceiling,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,Do you think I got to where I am by just sitting around all day?,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,That moment when you are eighth in line for the corner office and you wonder what happened to the other seven.......,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,Our next order of business is to entertain a motion that I commence the liberal use of deodorant.,1.1230769230769229,0.05593476758557304,65.0,60.0,2.0,3.0,550
 4202,"We need someone with 25 years of experience, but who is 30 years old",1.1230769230769229,0.05593476758557304,65.0,60.0,2.0,3.0,550
-4202,"And in this Broadway version of 'Snow White', we'll be offering union scale.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"And in this Broadway version of 'Snow White', we'll be offering union scale.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,The plan to flatten reporting lines has a few kinks to iron out.,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,My pen is missing. Don't anyone move.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,Eighth on the workforce reduction agenda...,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,My pen is missing. Don't anyone move.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,Eighth on the workforce reduction agenda...,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,You don't get to jump ahead of the jailbirds.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,"Oh sorry, I'm not having any meetings today. This is just for a sick game of musical chairs.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,"Doolittle, you're the best Chairman this firm has ever had.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"Candidate #8, you are dismissed. I'm only interested in ghost writers for my biography.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,It's my own little version of musical chairs. Anyone who sits wins a pink slip.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"I repeat, we do not validate!",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"Doolittle, you're the best Chairman this firm has ever had.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"Candidate #8, you are dismissed. I'm only interested in ghost writers for my biography.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,It's my own little version of musical chairs. Anyone who sits wins a pink slip.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"I repeat, we do not validate!",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"your fired! no, your fired! no, your fired! no, your fired! no, your fired! no, your fired! no, your fired! oh, there you are, your fired!!!",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,Garlic and onions for lunch…Bad choice!,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,"The first seven candidates failed to meet our standards. Do you wish to apply, Mr. Smith?",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,NEXT! Jeez.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,Mother may I?,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,Please don't squeeze the chairmen.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"Good Lord, what did you have for lunch!",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,Mother may I?,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,Please don't squeeze the chairmen.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"Good Lord, what did you have for lunch!",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,Just a small effort to train our people,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,Your turn. Is your hat red or black?,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,I think the boss is gonna see right through the candidates in front of me.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,". . . and you should also come to work for us because we've done away with the usual corporate ladder. As you can see, even as a junior executive you'd been on the same level as me, the CEO!",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,". . . and you should also come to work for us because we've done away with the usual corporate ladder. As you can see, even as a junior executive you'd been on the same level as me, the CEO!",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"Here at FlyHigh Airlines, we start all our employees out on the eighth row.",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,We got a great price on club chairs.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,How about now? Can you still see me in your office?,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"You're eighth in line of succession, so this may take awhile.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,We got a great price on club chairs.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,How about now? Can you still see me in your office?,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"You're eighth in line of succession, so this may take awhile.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"Yes, little Johnny, I am pleased to tell you that a place has now opened up for you in our preschool class here in New York City.",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,"You have been downsized, pass it on.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,Maybe he won't notice me back here,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,Maybe he won't notice me back here,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,Last man seated may approach.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,so how long have you suffered from this condition MR.Higgins?,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,The great and powerful Claus knows why you have come. Move forward!,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,so how long have you suffered from this condition MR.Higgins?,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,The great and powerful Claus knows why you have come. Move forward!,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"Good, and now the Indians are coming! Put the wagons in a circle!",1.1230769230769229,0.05593476758557304,65.0,60.0,2.0,3.0,550
 4202,The board of directors accused me of theatrics. To that I say: Cut!,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,We have strict hierarchical standards.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,"I'm going to drain the swamp, but not that far back.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,Have you always been the backseat driver?,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,I can't see you,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,I can't see you,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,The solo musical chair hurdle event will commence on the count of three.,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,"Good, now as long as you don't make a pentagram with them, you got the job.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"Good, now as long as you don't make a pentagram with them, you got the job.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,Mexican lunch before the meeting made the choice of where to sit a no-brainer!,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,"Now don't forget, next time say Mother may I.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,'Seventy-eight? Serving number seventy-eight.',1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,'Seventy-eight? Serving number seventy-eight.',1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"As you can readily appreciate, we're a transportation company.",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,The interviewer must be a far-sighted judge of character.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,Do we have a seconded? Do we have a Seconder?,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,How did all these babies get the seats in front of me?,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,The interviewer must be a far-sighted judge of character.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,Do we have a seconded? Do we have a Seconder?,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,How did all these babies get the seats in front of me?,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,This way only one smart aleck can be seated in the back of the room.,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,Serves me right for decreasing the bonuses of the cleaning crew this year.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"As you can see, this is a piramid corporation.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,I'm starting to think that I don't stand a ghost of a chance here.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,Serves me right for decreasing the bonuses of the cleaning crew this year.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"As you can see, this is a piramid corporation.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,I'm starting to think that I don't stand a ghost of a chance here.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"Unless we sell-out, the house seats are released fifteen minutes before your appointment.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,"And as a reminder, this is a nonsmoking interview.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,"Now that the Russian-speaking electors have been excused, please state your name, comrade.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"Around here, we don't have a "" first come,first served"" policy.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,""" Mr. Smith , congratulations! You have been selected for the upholstery job over all other applicants"".",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,Welcome to the Tunnel Vision class. Peripheral Vision students please sit on any chair not in sight.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"Now that the Russian-speaking electors have been excused, please state your name, comrade.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"Around here, we don't have a "" first come,first served"" policy.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,""" Mr. Smith , congratulations! You have been selected for the upholstery job over all other applicants"".",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,Welcome to the Tunnel Vision class. Peripheral Vision students please sit on any chair not in sight.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"Ms. Conyers, did you tell him we operate on a ""first come-first serve"" basis, and he'll have to wait his turn in line until I can get to him?",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,I prefer the visual representation of how many seats it'll take before you get to sit in my chair.,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,"So, you're here to pitch ""Snow White II: Electric Boogaloo""?",1.1230769230769229,0.05593476758557304,65.0,60.0,2.0,3.0,550
-4202,"Now, since you got your name right, you can advance one chair.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"At 5'8"", Murray never felt his tall before.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"Now, since you got your name right, you can advance one chair.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"At 5'8"", Murray never felt his tall before.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"Sorry, Ms Maddox, it was a test to see if you were frightened of me.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,"Mr. Smith, why are you sitting in the caboose of my chair train?",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,Somehow I feel optimistic!,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,But I see them and I run the place.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,I can still see from here.. It's okay,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"Okay, ready? First question...",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"You may take three chairs forward."" ""Mother, may I?"" ""No, you may not.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,But I see them and I run the place.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,I can still see from here.. It's okay,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"Okay, ready? First question...",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"You may take three chairs forward."" ""Mother, may I?"" ""No, you may not.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"Please, restrain yourself.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,Mr. Jenkins you are interrupting the meeting!,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,The remedial class on business-travel etiquette will begin when the other students arrive.,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,"Please, take a seat!",1.1230769230769229,0.05593476758557304,65.0,60.0,2.0,3.0,550
 4202,Where you are sitting is and indication of your standing Mr. Brown.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,So when do we make the blanket fort?,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,maybe he feels better if he thinks he a lot of appplicants,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,That's not how musical chairs is supposed to work. Sad!,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,So when do we make the blanket fort?,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,maybe he feels better if he thinks he a lot of appplicants,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,That's not how musical chairs is supposed to work. Sad!,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"Ok, you’ve convinced me. I need six more arm chairs.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,Qualified in an Unqualified World: a Presidential Story,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"Yes we are an equal opportunity employer my dear,why do you ask ?",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,Qualified in an Unqualified World: a Presidential Story,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"Yes we are an equal opportunity employer my dear,why do you ask ?",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"You'll be next, after I interview the chairs.",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,You must be the chairman committee,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,"Then again, sometimes the shortest distance isn't a straight line.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,Hey you back there....these front seats too smelly for you?,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,Now serving #143 ...,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,Now serving #143 ...,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,It would be a fairly uninfluencial Cabinet appointment. But great! Really Great!,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,"Your train of thought derailed between the ""Little Engine That Could"" and the station.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"Your train of thought derailed between the ""Little Engine That Could"" and the station.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"If the septuplets are buckled up, we can takeoff just a soon as you stow that bag in the overhead bins for a $25 dollar fee.",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,"Hi, Ho, Seven Dwarfs! Snow White sent a lawyer to finalize your adoption!",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"Hi, Ho, Seven Dwarfs! Snow White sent a lawyer to finalize your adoption!",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"ok Earl, cue the music!",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,LSD microdosing allowed me to see the full potential of my office space.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,LSD microdosing allowed me to see the full potential of my office space.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,Congratulations Smith...You're my new chairman.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,I wonder if my odds improve if I take a number.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,At the back...I don't like the look of you,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,"This your first independent study, Zimmerman?",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,Looking out for number eight.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,You would be a dotted line report.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,Looking out for number eight.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,You would be a dotted line report.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,Am I supposed to move up or stay here....?,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,"It's your breath, Gary. But what's up?",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,"It's your breath, Gary. But what's up?",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,United States entering into new era of Russian efficiency.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,"I wouldn't say it's my greatest strength, but I could get them out of here.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
-4202,Richard III? Are you ready for your interview?,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,This is the last time I fly coach.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,I should have signed up for TSA pre-check.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
-4202,"I believe the others don't want America great again, Mr. President.",1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,Richard III? Are you ready for your interview?,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,This is the last time I fly coach.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,I should have signed up for TSA pre-check.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
+4202,"I believe the others don't want America great again, Mr. President.",1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"I'm sorry, I haven't called your number yet",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,It didn't matter that she was seated in the 8th row; she could still smell his farts.,1.1230769230769229,0.05593476758557304,65.0,60.0,2.0,3.0,550
-4202,I forgot my hearing aid today so you're going to have to speak VERY LOUDLY.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,I forgot my hearing aid today so you're going to have to speak VERY LOUDLY.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,I excel at listening to the little man in a disciplined yet relaxed atmosphere,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,"Seats in the mezzanine were already taken, sir.",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,"OK, so who did you vote for?",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,Just don't ask.,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,So you've demonstrated that you can work in Excel. Now let's see your live-action PowerPoint presentation.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,So you've demonstrated that you can work in Excel. Now let's see your live-action PowerPoint presentation.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,What is it Bowman?,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,You may be taking the 'get the right people on the bus' metaphor too literally.,1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4202,"This week, at the Waiting-in-Lines Enthusiasts meeting...",1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
 4202,There's nothing for the eighth Day.,1.1230769230769229,0.051458031385614056,65.0,59.0,4.0,2.0,550
-4202,I paid to get on early with my luggage.,1.1230769230769229,0.046552763218885414,65.0,58.0,6.0,1.0,550
+4202,I paid to get on early with my luggage.,1.1230769230769229,0.04655276321888541,65.0,58.0,6.0,1.0,550
 4202,"In this company, you can move up several chairs, man.",1.1230769230769229,0.04106568558473582,65.0,57.0,8.0,0.0,550
 4399,You mean this ISN'T the DMV line?,1.1212121212121209,0.04587990563775582,66.0,59.0,6.0,1.0,550
 4399,I wanted transparency in my business not in my employees!,1.1212121212121209,0.04048166591345904,66.0,58.0,8.0,0.0,550

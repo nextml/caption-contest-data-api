@@ -1,6 +1,6 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1,Let's pick up the pace. They're billing by the hour.,2.164465786314526,0.00840616528478751,8330.0,1879.0,3202.0,3249.0,575
-2,Apparently they're experts in hostile takeovers.,2.129756097560976,0.011614271540527498,4100.0,902.0,1764.0,1434.0,575
+2,Apparently they're experts in hostile takeovers.,2.1297560975609757,0.011614271540527498,4100.0,902.0,1764.0,1434.0,575
 3,We sue at dawn.,2.1245114461194863,0.008484538147810555,8955.0,2398.0,3044.0,3513.0,575
 4,This time they'll know we mean business.,2.1146928287783227,0.011729104639930885,4281.0,1043.0,1704.0,1534.0,575
 5,"Well, on the other hand, there is no fee unless we win.",2.0704835217705075,0.011609036980069308,4157.0,1028.0,1808.0,1321.0,575
@@ -17,7 +17,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 16,I liked it better when we settled disputes out of court.,1.922832980972516,0.012168011699138856,3784.0,1217.0,1642.0,925.0,575
 17,"Don't worry, these guys know how to charge.",1.9191308609704296,0.009979848871107623,6121.0,2133.0,2350.0,1638.0,575
 18,"You think it's overkill, because you've never been through a divorce.",1.914048796045288,0.010036499903711795,6271.0,2273.0,2264.0,1734.0,575
-19,Explain to me again this idea of pillageable hours.,1.901603948180136,0.01369823675484542,3242.0,1161.0,1239.0,842.0,575
+19,Explain to me again this idea of pillageable hours.,1.9016039481801361,0.01369823675484542,3242.0,1161.0,1239.0,842.0,575
 20,"Trust me, nothing crushes the enemy's spirit like long-term financial planning.",1.89401888772298,0.012721764573640187,3812.0,1399.0,1418.0,995.0,575
 21,That's the last time I let you occupy Wall Street,1.8855623950755456,0.013203462041142559,3574.0,1341.0,1301.0,932.0,575
 22,I hate legal battles.,1.8763273974840715,0.010205216367316234,6121.0,2376.0,2126.0,1619.0,575
@@ -42,7 +42,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 41,"Trust me, nobody plunders like these guys.",1.7426693629929222,0.017029175876896185,1978.0,887.0,713.0,378.0,575
 42,remember when we used to conquer without having to run it through legal?,1.7341529004994238,0.01489186613666219,2603.0,1189.0,917.0,497.0,575
 43,I should have read the Magna Carta before I signed it.,1.7332535885167464,0.018661949045984217,1672.0,769.0,580.0,323.0,575
-44,"Obviously we have two very different interpretations of ""hostile takeover""",1.720164609053498,0.023379413249018648,972.0,432.0,380.0,160.0,575
+44,"Obviously we have two very different interpretations of ""hostile takeover""",1.7201646090534979,0.023379413249018648,972.0,432.0,380.0,160.0,575
 45,They shall learn to fear the name of Zorrak the Litigious !,1.7171561051004636,0.030280760008665437,647.0,309.0,212.0,126.0,575
 46,"'So sue me,' he says.",1.7163009404388714,0.015182286370872704,2552.0,1215.0,846.0,491.0,575
 47,I'm already regretting this merger,1.7068917796844727,0.012331856609432448,3613.0,1677.0,1318.0,618.0,575
@@ -78,9 +78,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 77,I'm expecting a legal battle,1.5883014623172105,0.016883606461301912,1778.0,967.0,576.0,235.0,575
 78,"If any dare to resist us, their streets will run red with tape.",1.5849056603773586,0.03836798430591876,371.0,210.0,105.0,56.0,575
 79,Wars kill. Litigation destroys!!!,1.5824345146379044,0.028090169169567983,649.0,358.0,204.0,87.0,575
-80,I take it this is a civil war.,1.5787234042553193,0.02093310761590211,1175.0,654.0,362.0,159.0,575
-81,I have my doubts about these new Homeland Security hires.,1.57686294945284,0.0190549805889929,1919.0,1246.0,239.0,434.0,575
-82,"Well, at least we'll now see if the pen is mightier than the sword.",1.575083426028921,0.023124049471084998,899.0,488.0,305.0,106.0,575
+80,I take it this is a civil war.,1.578723404255319,0.02093310761590211,1175.0,654.0,362.0,159.0,575
+81,I have my doubts about these new Homeland Security hires.,1.5768629494528401,0.0190549805889929,1919.0,1246.0,239.0,434.0,575
+82,"Well, at least we'll now see if the pen is mightier than the sword.",1.575083426028921,0.023124049471085,899.0,488.0,305.0,106.0,575
 83,"I remember when the legal department was just Hrothgar, the rack, and a thumbscrew.",1.5727788279773156,0.02239550478198072,1058.0,603.0,304.0,151.0,575
 84,So you're sure he said game of torts?,1.5705521472392638,0.040974134109307565,326.0,189.0,88.0,49.0,575
 85,Attacking our enemies with an army of lawyers seems needlessly cruel.,1.5671750181554105,0.019193881985993918,1377.0,776.0,421.0,180.0,575
@@ -91,18 +91,18 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 90,"I miss the old days, when we could pillage without worrying about the legal consequences.",1.5547619047619048,0.01978905594919276,1260.0,716.0,389.0,155.0,575
 91,We'll either defeat them in battle or a legion of lawyers will be killed. It's win-win.,1.5524193548387095,0.023421362491728555,992.0,591.0,254.0,147.0,575
 92,"Yes, but if we win, they have to pay our fees.",1.5507246376811594,0.01915857136054704,1311.0,742.0,416.0,153.0,575
-93,So your idea is to bore them to death?,1.548183254344392,0.028492759950985668,633.0,370.0,179.0,84.0,575
+93,So your idea is to bore them to death?,1.5481832543443919,0.028492759950985668,633.0,370.0,179.0,84.0,575
 94,Not the 'hostile takeover' I'm used to leading.,1.541632983023444,0.019828114158643342,1237.0,714.0,376.0,147.0,575
 95,Because you're younger with only one hat-point.,1.539012738853503,0.021872299318457498,1256.0,800.0,235.0,221.0,575
 96,You think the paper trail will give us away?,1.53886925795053,0.028658405737407806,566.0,322.0,183.0,61.0,575
 97,"As it turns out, castrations, scalps and gold teeth all qualify as gross income.",1.5366300366300367,0.023277489251912274,1092.0,693.0,212.0,187.0,575
-98,ambulant chasers !,1.5366255144032919,0.021848715448342368,1215.0,764.0,250.0,201.0,575
+98,ambulant chasers !,1.536625514403292,0.021848715448342368,1215.0,764.0,250.0,201.0,575
 99,". . . and then we turn the lawyers loose, so the real pillaging can begin.",1.535031847133758,0.03217520856603349,471.0,275.0,140.0,56.0,575
-100,"So, how did you get into mergers and acquisitions?",1.533658536585366,0.021140517385161463,1025.0,585.0,333.0,107.0,575
+100,"So, how did you get into mergers and acquisitions?",1.5336585365853659,0.021140517385161463,1025.0,585.0,333.0,107.0,575
 101,I don't really mind the battles; It's the regulatory compliance that's a drag.,1.5330097087378638,0.02181481959346001,1030.0,605.0,301.0,124.0,575
 102,They are conditioned to following horse's asses.,1.5270270270270268,0.0263332287269567,814.0,513.0,173.0,128.0,575
 103,We need to stop soon. The horses need water and the lawyers may need to adjust their briefs.,1.5215982721382288,0.02340138487668111,926.0,562.0,245.0,119.0,575
-104,"I know winter is coming, but so is April 15th.",1.5205278592375366,0.024997259355622005,682.0,387.0,235.0,60.0,575
+104,"I know winter is coming, but so is April 15th.",1.5205278592375366,0.024997259355622,682.0,387.0,235.0,60.0,575
 105,Onward to the (com)promised land !!!,1.518444666001994,0.024278755058596047,1003.0,654.0,178.0,171.0,575
 106,Do you think we're leaving an audit trail?,1.5181695827725437,0.02525045540442648,743.0,441.0,219.0,83.0,575
 107,"This time, there will be no doubt that we mean business!",1.5146771037181996,0.03107379044283125,511.0,310.0,139.0,62.0,575
@@ -122,7 +122,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 121,Are they still back there?,1.494071146245059,0.030677540124348125,506.0,313.0,136.0,57.0,575
 122,"Next time, click the ""I AGREE"" button.",1.4889867841409692,0.02662071441639486,681.0,427.0,175.0,79.0,575
 123,I liked it better when we won with shock and awe instead of fear and loathing.,1.4889196675900278,0.0265306708847396,722.0,462.0,167.0,93.0,575
-124,"I could swear he said we'd lead the battle for 'gold and sex', not 'Goldman Sachs'.",1.4838709677419355,0.02786594761813633,651.0,419.0,149.0,83.0,575
+124,"I could swear he said we'd lead the battle for 'gold and sex', not 'Goldman Sachs'.",1.4838709677419355,0.027865947618136332,651.0,419.0,149.0,83.0,575
 125,We should have brought our boxers instead of briefs!,1.4816112084063051,0.029672214961171294,571.0,368.0,131.0,72.0,575
 126,They're from the firm of Genghis and Khan.,1.4815436241610738,0.02843843376273128,596.0,378.0,149.0,69.0,575
 127,I keep telling them. I don't need life insurance.,1.4813153961136023,0.027051011230046672,669.0,427.0,162.0,80.0,575
@@ -182,16 +182,16 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 180,This is going to be an audit they'll never forget,1.4117647058823528,0.035389425367919045,340.0,231.0,78.0,31.0,575
 182,Something tells me writing the peace treaty will take longer than the war.,1.4107142857142858,0.03363246579734685,336.0,221.0,92.0,23.0,575
 183,There may be only two of us left but we will bury them in paperwork!,1.4084084084084083,0.034351177638038695,333.0,222.0,86.0,25.0,575
-184,I kind of miss the old horde.,1.40785498489426,0.03655237282783689,331.0,229.0,69.0,33.0,575
-184,It's less a crusade than a hostile takeover.,1.40785498489426,0.033955501444686564,331.0,219.0,89.0,23.0,575
+184,I kind of miss the old horde.,1.4078549848942599,0.03655237282783689,331.0,229.0,69.0,33.0,575
+184,It's less a crusade than a hostile takeover.,1.4078549848942599,0.033955501444686564,331.0,219.0,89.0,23.0,575
 186,"Next time be more specific when you order a thousand mercenaries.""",1.4076923076923078,0.04128623551517843,260.0,180.0,54.0,26.0,575
 187,I really thought 'army of lawyers' was just a figure of speech.,1.4069767441860466,0.04151306865977567,258.0,179.0,53.0,26.0,575
 188,This time we mean business.,1.406832298136646,0.03487351878567626,322.0,215.0,83.0,24.0,575
 189,The strategy is to wear them down with discovery and subpoenas.,1.4067278287461773,0.03196256539952918,327.0,209.0,103.0,15.0,575
 190,The princess wants an airtight prenup.,1.4043887147335423,0.03645780985203531,319.0,219.0,71.0,29.0,575
-190,"Because it turns out, there were some things a barbarian wouldn't do",1.4043887147335423,0.03672720515937421,319.0,220.0,69.0,30.0,575
+190,"Because it turns out, there were some things a barbarian wouldn't do",1.4043887147335423,0.036727205159374214,319.0,220.0,69.0,30.0,575
 192,Because there were no ambulances for them to chase.,1.4037854889589905,0.03688921216422282,317.0,219.0,68.0,30.0,575
-193,Thank god we were able to find some mercenaries.,1.403174603174603,0.036779244469497985,315.0,217.0,69.0,29.0,575
+193,Thank god we were able to find some mercenaries.,1.403174603174603,0.03677924446949799,315.0,217.0,69.0,29.0,575
 193,"""Where is this Mar-a-Lago?",1.403174603174603,0.04044500534245487,315.0,231.0,41.0,43.0,575
 195,I heard it with my own ears. They fear a tax from the north.,1.402555910543131,0.0363841950705734,313.0,214.0,72.0,27.0,575
 195,After the pillaging comes the paperwork.,1.402555910543131,0.03494866791150797,313.0,209.0,82.0,22.0,575
@@ -200,17 +200,17 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 199,I like your idea about putting the associates over the wall with catapults.,1.3993506493506491,0.03846210633567965,308.0,218.0,57.0,33.0,575
 200,Looting and pillaging just isn't the same since Dodd-Frank.,1.3986928104575165,0.037800827674152736,306.0,214.0,62.0,30.0,575
 201,And you're sure he didn't mean Sioux?,1.3980263157894737,0.037688616581721776,304.0,212.0,63.0,29.0,575
-202,International law has soooo ruined the crusades.,1.3973509933774837,0.036077669179180184,302.0,205.0,74.0,23.0,575
+202,International law has soooo ruined the crusades.,1.3973509933774837,0.03607766917918018,302.0,205.0,74.0,23.0,575
 203,This will show Atilla that we mean business!,1.3966666666666667,0.03530353595162213,300.0,201.0,79.0,20.0,575
 204,Please tell me these guys are on contingency,1.3966101694915254,0.0379025509527351,295.0,205.0,63.0,27.0,575
 204,It’s 9 now. At least you know the fighting will stop at 5.,1.3966101694915254,0.03666555717263539,295.0,201.0,71.0,23.0,575
-206,"We may get slaughtered, but the hourly rate we negotiated will make us legends.",1.3959731543624159,0.036089554813827814,298.0,202.0,74.0,22.0,575
+206,"We may get slaughtered, but the hourly rate we negotiated will make us legends.",1.395973154362416,0.03608955481382781,298.0,202.0,74.0,22.0,575
 207,OK so how 'bout pillaging. Can we still pillage?,1.3952702702702702,0.035934194828533675,296.0,200.0,75.0,21.0,575
 207,I think tomorrow is causal Friday,1.3952702702702702,0.036251491254394114,296.0,201.0,73.0,22.0,575
 209,I thought you were speaking metaphorically when you said we'd need an army of lawyers.,1.393835616438356,0.03658131530507852,292.0,199.0,71.0,22.0,575
 210,I don't know about Brooks Brothers sponsoring the crusade.,1.3908450704225352,0.03792773889362471,284.0,197.0,63.0,24.0,575
 210,New strategy. Follow the money.,1.3908450704225352,0.03485046319689746,284.0,188.0,81.0,15.0,575
-212,"We've drained the swamp, now what do we do with them?",1.3900709219858156,0.037777969308361185,282.0,195.0,64.0,23.0,575
+212,"We've drained the swamp, now what do we do with them?",1.3900709219858156,0.03777796930836119,282.0,195.0,64.0,23.0,575
 213,"First, sow confusion.",1.3884892086330936,0.03780238969695336,278.0,192.0,64.0,22.0,575
 214,"Now we get the same results, but without all the property damage.",1.3868613138686132,0.05883528103429134,137.0,100.0,21.0,16.0,575
 214,"When they answer the door, tell them it's just a routine audit.",1.3868613138686132,0.03525882419997429,274.0,182.0,78.0,14.0,575
@@ -232,7 +232,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 231,I warned him about that 'See you in court!' tweet.,1.3734939759036144,0.039482880509968975,249.0,175.0,55.0,19.0,575
 232,I hate income tax invasions!,1.3732394366197185,0.055295137087755165,142.0,103.0,25.0,14.0,575
 233,I preferred the old days when we sacked instead of sued.,1.3724696356275303,0.03969303762386637,247.0,174.0,54.0,19.0,575
-234,I can't believe they think we can get their money back from Trump University .,1.371859296482412,0.04684947878862568,199.0,145.0,34.0,20.0,575
+234,I can't believe they think we can get their money back from Trump University .,1.3718592964824121,0.04684947878862568,199.0,145.0,34.0,20.0,575
 235,We're going to attack their capital.,1.3714285714285714,0.07385125381489835,70.0,49.0,16.0,5.0,575
 235,"It's Tennyson redux: ""Into the valley of death March the Forbes 500.""",1.3714285714285714,0.039906213235546883,245.0,173.0,53.0,19.0,575
 237,"We enjoyed this much more when we could go out to invade, subjugate, and pillage without getting an OK from legal.",1.3709677419354838,0.04196410552180587,248.0,181.0,42.0,25.0,575
@@ -260,7 +260,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 259,This morning's Tweet said this is the last of the Justice Department group,1.3628318584070795,0.04070368922869698,226.0,160.0,50.0,16.0,575
 260,I miss the days when all we did was rape and pillage.,1.3624454148471616,0.04032851540945598,229.0,162.0,51.0,16.0,575
 261,I miss the old horde!,1.3616071428571428,0.039442234861461145,224.0,156.0,55.0,13.0,575
-262,I told you my Ted Talk would be inspiring.,1.3603603603603605,0.039660201974099585,222.0,155.0,54.0,13.0,575
+262,I told you my Ted Talk would be inspiring.,1.3603603603603605,0.03966020197409959,222.0,155.0,54.0,13.0,575
 263,Let's hope the pen really is mightier than the sword.,1.3590909090909091,0.0424038526581441,220.0,159.0,43.0,18.0,575
 264,No one knows the Magna Carta like Weinstein MacDougall & Strauss.,1.3577981651376148,0.04165734864096299,218.0,156.0,46.0,16.0,575
 264,Will we ever get back to raping and pillage?,1.3577981651376148,0.04165734864096299,218.0,156.0,46.0,16.0,575
@@ -296,7 +296,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 293,"Why would I ask you to get the men ""suits of Armani"" for the battle?",1.3419689119170986,0.0468773536580864,193.0,146.0,28.0,19.0,575
 296,Let's gallop and see what happens,1.3418367346938775,0.04403061906641558,196.0,144.0,37.0,15.0,575
 296,"An team of male, white billionaires led by medieval, Machiavellian swagger--how could we possibly lose this battle?",1.3418367346938775,0.045203458527928925,196.0,146.0,33.0,17.0,575
-298,The pen better be mightier than the sword.,1.3417085427135678,0.041163420211165334,199.0,142.0,46.0,11.0,575
+298,The pen better be mightier than the sword.,1.3417085427135678,0.04116342021116533,199.0,142.0,46.0,11.0,575
 299,Next year I'm doing estimated taxes to avoid all this.,1.3403141361256543,0.04027994527687688,191.0,134.0,49.0,8.0,575
 299,"Remember, the lawyers go into battle first. That way we'll be popular whether we win or lose.",1.3403141361256543,0.04836243174618405,191.0,147.0,23.0,21.0,575
 299,I almost hope we lose.,1.3403141361256543,0.04419438422990244,191.0,140.0,37.0,14.0,575
@@ -310,7 +310,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 309,It's going to be a hostile takeover.,1.3370786516853932,0.042822734719588265,178.0,127.0,42.0,9.0,575
 310,I can't go any slower! Why don't they just pass us ??,1.335135135135135,0.046379375412136686,185.0,139.0,30.0,16.0,575
 310,I miss being above the law.,1.335135135135135,0.04377246665768258,185.0,135.0,38.0,12.0,575
-310,The hardest thing to get right in battle is the liability waiver.,1.335135135135135,0.04240896160172927,185.0,133.0,42.0,10.0,575
+310,The hardest thing to get right in battle is the liability waiver.,1.335135135135135,0.042408961601729266,185.0,133.0,42.0,10.0,575
 310,"They say all of those purses are filled with fearsome weapons called ""subpoenas.""",1.335135135135135,0.041710497690107394,185.0,132.0,44.0,9.0,575
 310,Pillaging was much more fun before legal got involved.,1.335135135135135,0.03954114816004934,185.0,129.0,50.0,6.0,575
 315,And I thought our uniforms were bad.,1.3333333333333333,0.04196956497743578,183.0,131.0,43.0,9.0,575
@@ -318,24 +318,24 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 315,An early example of ambulance chasing.,1.3333333333333333,0.04423568135772979,186.0,137.0,36.0,13.0,575
 318,Let's see them break through my legal defense.,1.3315217391304348,0.04248501682453197,184.0,133.0,41.0,10.0,575
 319,They heard that there will be an ambulance on site.,1.3314917127071824,0.04223298282712984,181.0,130.0,42.0,9.0,575
-319,"You heard the orders, ""No more working from home! Round 'em up and bring 'em in!""",1.3314917127071824,0.04366233556380959,181.0,132.0,38.0,11.0,575
+319,"You heard the orders, ""No more working from home! Round 'em up and bring 'em in!""",1.3314917127071824,0.043662335563809586,181.0,132.0,38.0,11.0,575
 321,Why do personal injury lawyers always follow us?,1.3296703296703296,0.04483517673962757,182.0,135.0,34.0,13.0,575
 321,This will be a brief battle.,1.3296703296703296,0.04616945536893215,182.0,137.0,30.0,15.0,575
-323,I always get uncomfortable when the ambulance chasers follow us into battle.,1.3296089385474859,0.044661341052966284,179.0,132.0,35.0,12.0,575
-323,"Are you sure you told that consultant that we wanted to ""liquidate"" our enemies, and not ""litigate"" them?",1.3296089385474859,0.044661341052966284,179.0,132.0,35.0,12.0,575
-323,Who knew? An army of lawyers gets me so much more than weapons ever did.,1.3296089385474859,0.04323301964209325,179.0,130.0,39.0,10.0,575
-323,"If you can't beat 'em, sue 'em.",1.3296089385474859,0.04323301964209325,179.0,130.0,39.0,10.0,575
-323,Couldn't we have just signed a waiver?,1.3296089385474859,0.04323301964209325,179.0,130.0,39.0,10.0,575
-323,There'd damn well better be a fortune in beans to count.,1.3296089385474859,0.04395298267480258,179.0,131.0,37.0,11.0,575
+323,I always get uncomfortable when the ambulance chasers follow us into battle.,1.329608938547486,0.044661341052966284,179.0,132.0,35.0,12.0,575
+323,"Are you sure you told that consultant that we wanted to ""liquidate"" our enemies, and not ""litigate"" them?",1.329608938547486,0.044661341052966284,179.0,132.0,35.0,12.0,575
+323,Who knew? An army of lawyers gets me so much more than weapons ever did.,1.329608938547486,0.04323301964209325,179.0,130.0,39.0,10.0,575
+323,"If you can't beat 'em, sue 'em.",1.329608938547486,0.04323301964209325,179.0,130.0,39.0,10.0,575
+323,Couldn't we have just signed a waiver?,1.329608938547486,0.04323301964209325,179.0,130.0,39.0,10.0,575
+323,There'd damn well better be a fortune in beans to count.,1.329608938547486,0.04395298267480258,179.0,131.0,37.0,11.0,575
 329,They'll do things slaves won't do and the King isn't all that attached to them.,1.3282442748091603,0.05572639740004439,131.0,100.0,19.0,12.0,575
 330,You destroy ONE tiny village and all of a sudden you've got 1000 insurance claims on your hands...,1.3277777777777775,0.04303114483914322,180.0,131.0,39.0,10.0,575
 330,I sure hope both sides got the same memo.,1.3277777777777775,0.04445026343036562,180.0,133.0,35.0,12.0,575
 332,Remember when they were ambulance chasers?,1.3276836158192091,0.045676712232802334,177.0,132.0,32.0,13.0,575
-332,Why do we always get stuck with the corporate raiders?,1.3276836158192091,0.043517330274672264,177.0,129.0,38.0,10.0,575
+332,Why do we always get stuck with the corporate raiders?,1.3276836158192091,0.04351733027467226,177.0,129.0,38.0,10.0,575
 332,"First we pillage, then we sue.",1.3276836158192091,0.04637416711689829,177.0,133.0,30.0,14.0,575
 332,It's the sequel: Game of Drones,1.3276836158192091,0.045676712232802334,177.0,132.0,32.0,13.0,575
 332,"Veni, vidi, sued the bastards.",1.3276836158192091,0.04424883466965749,177.0,130.0,36.0,11.0,575
-332,I understand that in the future they will be referred to as Ambulance Chasers.,1.3276836158192091,0.042773317603935414,177.0,128.0,40.0,9.0,575
+332,I understand that in the future they will be referred to as Ambulance Chasers.,1.3276836158192091,0.04277331760393541,177.0,128.0,40.0,9.0,575
 338,I was okay with the flaming arrows. I even understood the plague-infected rats. All I'm saying is that sending in lawyers seems a bit over the top.,1.3275862068965518,0.04325764724465565,174.0,126.0,39.0,9.0,575
 338,"A gig's a gig, but I do think this is going to be the worst 'Hobbit' movie yet.",1.3275862068965518,0.04901785582402901,174.0,134.0,23.0,17.0,575
 338,"...then, at the first signs of their surrender, we send in our closers.",1.3275862068965518,0.04248274093191005,174.0,125.0,41.0,8.0,575
@@ -349,9 +349,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 345,You would be surprised how much damage and destruction economists can cause.,1.3255813953488371,0.046562599569293664,172.0,129.0,30.0,13.0,575
 345,Game of drones. Season one.,1.3255813953488371,0.04354397610040887,172.0,125.0,38.0,9.0,575
 345,I thought we'd try boring the enemy to death!,1.3255813953488371,0.04507856216253667,172.0,127.0,34.0,11.0,575
-351,Do they really still think this is a corporate retreat?,1.3238636363636365,0.04717326887486199,176.0,134.0,27.0,15.0,575
+351,Do they really still think this is a corporate retreat?,1.3238636363636365,0.047173268874861986,176.0,134.0,27.0,15.0,575
 352,I got to wondering why use force to expand the empire when we can just do it via mergers and acquisitions?,1.3235294117647058,0.04615606418235279,170.0,127.0,31.0,12.0,575
-353,Of course they don't fear hell. They're FROM hell!,1.3214285714285714,0.044932408582130184,168.0,124.0,34.0,10.0,575
+353,Of course they don't fear hell. They're FROM hell!,1.3214285714285714,0.04493240858213018,168.0,124.0,34.0,10.0,575
 353,"They’re here to help us monetize the barbaric,",1.3214285714285714,0.047252294539848784,168.0,127.0,28.0,13.0,575
 353,I bet when we said we'd bring an army of lawyers they thought we were being figurative.,1.3214285714285714,0.04946349499954243,168.0,130.0,22.0,16.0,575
 356,It will be the greatest bureaucratic empire the world has ever known.,1.319526627218935,0.04227669615894292,169.0,122.0,40.0,7.0,575
@@ -433,7 +433,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 432,We evolved into this?,1.2949640287769784,0.04729491768549,139.0,105.0,27.0,7.0,575
 432,There will be blood. And if I happen to slip and fall...,1.2949640287769784,0.050493588529071806,139.0,108.0,21.0,10.0,575
 432,Now do you believe your war cry sounds like an ambulance?,1.2949640287769784,0.0483846427436701,139.0,106.0,25.0,8.0,575
-432,I got them cheap after they were dumped by the Oscars.,1.2949640287769784,0.05151569563830546,139.0,109.0,19.0,11.0,575
+432,I got them cheap after they were dumped by the Oscars.,1.2949640287769784,0.051515695638305464,139.0,109.0,19.0,11.0,575
 432,If this battle doesn't kill us the legal fees will.,1.2949640287769784,0.046179484885844745,139.0,104.0,29.0,6.0,575
 432,It's Game of Drones - the final season.,1.2949640287769784,0.04729491768549,139.0,105.0,27.0,7.0,575
 438,Only the long arc of history will tell how the Great Anti-Trust War of 1457 will be remembered,1.2937062937062938,0.05044094724608982,143.0,112.0,20.0,11.0,575
@@ -444,7 +444,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 443,The command was to lawyer up.,1.2928571428571431,0.048083975629902284,140.0,107.0,25.0,8.0,575
 443,I think they are verifying our mileage.,1.2928571428571431,0.049141058548792416,140.0,108.0,23.0,9.0,575
 443,Boss says we only have to get the first guy off the cliff.,1.2928571428571431,0.048083975629902284,140.0,107.0,25.0,8.0,575
-443,Do you ever feel like they're running out of ideas for the corporate retreat?,1.2928571428571431,0.05411763344687093,140.0,113.0,13.0,14.0,575
+443,Do you ever feel like they're running out of ideas for the corporate retreat?,1.2928571428571431,0.054117633446870934,140.0,113.0,13.0,14.0,575
 447,You better hope they're not billing by the hour.,1.2907801418439715,0.04561746485189125,141.0,106.0,29.0,6.0,575
 447,You go to war with the army you got.,1.2907801418439715,0.04561746485189125,141.0,106.0,29.0,6.0,575
 447,"I said 'suits of mail', Kensworth: not 'male suits'.",1.2907801418439715,0.048835483690598265,141.0,109.0,23.0,9.0,575
@@ -464,7 +464,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 460,"Let the enemy come with their spears and arrows, for they shall feel the might of our sternly worded letters!",1.286764705882353,0.04885183708332248,136.0,105.0,23.0,8.0,575
 460,This time I thought we'd sue them back to the stone age.,1.286764705882353,0.04772388840551284,136.0,104.0,25.0,7.0,575
 460,"I think thay're taking this ""pen is mightier than the sword"" thing too literally!",1.286764705882353,0.04538396854390949,136.0,102.0,29.0,5.0,575
-460,Thy Rod and my Staff--they comfort me.,1.286764705882353,0.04656862745098039,136.0,103.0,27.0,6.0,575
+460,Thy Rod and my Staff--they comfort me.,1.286764705882353,0.046568627450980386,136.0,103.0,27.0,6.0,575
 460,"I came, I saw, I settled.",1.286764705882353,0.051032998247827435,136.0,107.0,19.0,10.0,575
 468,I got them cheap from Enron.,1.2857142857142858,0.04599650864368002,133.0,100.0,28.0,5.0,575
 469,"It's all in the numbers, Vlad. All in the numbers.",1.2835820895522387,0.049247439772548224,134.0,104.0,22.0,8.0,575
@@ -486,9 +486,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 469,The ambulance chasers are getting worse.,1.2835820895522387,0.04691341623547223,134.0,102.0,26.0,6.0,575
 469,I just love a good hostile takeover!,1.2835820895522387,0.04809458881742017,134.0,103.0,24.0,7.0,575
 469,"As soon as marketing commits itself, release the accountants!",1.2835820895522387,0.04570172614079933,134.0,101.0,28.0,5.0,575
-488,"Tell your men to get ready. At first light, we subpoena.",1.282442748091603,0.047577620432072004,131.0,100.0,25.0,6.0,575
-488,I miss the days when we could pillage and plunder without legal representation.,1.282442748091603,0.047577620432072004,131.0,100.0,25.0,6.0,575
-490,"Well, let's hope the pen really is mightier...",1.28125,0.045649161707165334,128.0,96.0,28.0,4.0,575
+488,"Tell your men to get ready. At first light, we subpoena.",1.282442748091603,0.047577620432072,131.0,100.0,25.0,6.0,575
+488,I miss the days when we could pillage and plunder without legal representation.,1.282442748091603,0.047577620432072,131.0,100.0,25.0,6.0,575
+490,"Well, let's hope the pen really is mightier...",1.28125,0.04564916170716533,128.0,96.0,28.0,4.0,575
 490,They'll rue the day they crossed the Liti-goths!,1.28125,0.04826913047376049,128.0,98.0,24.0,6.0,575
 490,"I never read the damned agreements before I maraud, do you?",1.28125,0.04952716883444788,128.0,99.0,22.0,7.0,575
 490,The enemy will soon learn that the pen is mightier than the sword.,1.28125,0.04952716883444788,128.0,99.0,22.0,7.0,575
@@ -514,7 +514,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 498,I say we march them right into the sea and be done with it.,1.2790697674418603,0.04919007808719788,129.0,100.0,22.0,7.0,575
 514,I have seen the future and it is finance.,1.2777777777777777,0.04732714766944628,126.0,96.0,25.0,5.0,575
 514,I fought the law and the law won,1.2777777777777777,0.051193859861100095,126.0,99.0,19.0,8.0,575
-516,Our lawyers are behind us.,1.2764227642276422,0.05328201208624941,123.0,98.0,16.0,9.0,575
+516,Our lawyers are behind us.,1.2764227642276422,0.053282012086249414,123.0,98.0,16.0,9.0,575
 516,We're bound to win; hardly any of the enemy has passed the bar exam.,1.2764227642276422,0.05071895867729957,123.0,96.0,20.0,7.0,575
 516,"Ah, for the good ol' days when one could rape and pillage without liability concerns.",1.2764227642276422,0.05071895867729957,123.0,96.0,20.0,7.0,575
 516,"Maybe we should move that big, round table into the conference room",1.2764227642276422,0.0545183715208372,123.0,99.0,14.0,10.0,575
@@ -527,7 +527,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 516,Mediation? Back in my day we plundered and pillaged at will.,1.2764227642276422,0.05071895867729957,123.0,96.0,20.0,7.0,575
 516,"Dammit, it says Recalculating!",1.2764227642276422,0.048019295357803984,123.0,94.0,24.0,5.0,575
 516,It's the only way to take land from someone these days,1.2764227642276422,0.04210383167077316,123.0,90.0,32.0,1.0,575
-516,They don't seem to mind being led by barbarians.,1.2764227642276422,0.05328201208624941,123.0,98.0,16.0,9.0,575
+516,They don't seem to mind being led by barbarians.,1.2764227642276422,0.053282012086249414,123.0,98.0,16.0,9.0,575
 516,I hate these corporate takeovers,1.2764227642276422,0.04661086467053805,123.0,93.0,26.0,4.0,575
 516,"I don't know about you, but hostile takeovers just aren't the fun they used to be.",1.2764227642276422,0.052016274286365655,123.0,97.0,18.0,8.0,575
 516,These audit trails get longer every year.,1.2764227642276422,0.049387576858809526,123.0,95.0,22.0,6.0,575
@@ -536,13 +536,13 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 534,"Don't look now, but we're being followed by a bunch of lance chasers...",1.2755905511811023,0.04831515160958265,127.0,98.0,23.0,6.0,575
 534,These corporate retreats have really gotten out of hand.,1.2755905511811023,0.04831515160958265,127.0,98.0,23.0,6.0,575
 534,"Send out a memo, we will stop soon and camp for the night.",1.2755905511811023,0.04565506676318847,127.0,96.0,27.0,4.0,575
-534,"Stop complaining. You go to war with the army you have, not the army you want.",1.2755905511811023,0.04959171555824458,127.0,99.0,21.0,7.0,575
-534,"So then I says,""But Ghengis, how can we possibly invade Wall Street?"" And he says...",1.2755905511811023,0.04959171555824458,127.0,99.0,21.0,7.0,575
+534,"Stop complaining. You go to war with the army you have, not the army you want.",1.2755905511811023,0.049591715558244584,127.0,99.0,21.0,7.0,575
+534,"So then I says,""But Ghengis, how can we possibly invade Wall Street?"" And he says...",1.2755905511811023,0.049591715558244584,127.0,99.0,21.0,7.0,575
 534,"In this day and age, you can't move aggressively without your legal team behind you.",1.2755905511811023,0.04831515160958265,127.0,98.0,23.0,6.0,575
 534,Damn Amulet Chasers!,1.2755905511811023,0.044265118820560216,127.0,95.0,29.0,3.0,575
 534,I'm lawyering up in case someone accuses us of colluding with the Russians.,1.2755905511811023,0.050836233426196316,127.0,100.0,19.0,8.0,575
 534,"No, I did NOT ask for corporate raiders.",1.2755905511811023,0.050836233426196316,127.0,100.0,19.0,8.0,575
-534,"Well, we DO commit a lot of HR violations ...",1.2755905511811023,0.04959171555824458,127.0,99.0,21.0,7.0,575
+534,"Well, we DO commit a lot of HR violations ...",1.2755905511811023,0.049591715558244584,127.0,99.0,21.0,7.0,575
 534,"By Herodotus, they've become much easier to lead.",1.2755905511811023,0.05553611560754175,127.0,104.0,11.0,12.0,575
 534,When the Ex-Lax I mixed with the oats kicks in...it's going to be classic.,1.2755905511811023,0.052051003889604285,127.0,101.0,17.0,9.0,575
 534,I love the smell of tort claims in the morning.,1.2755905511811023,0.050836233426196316,127.0,100.0,19.0,8.0,575
@@ -566,7 +566,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 560,What catapults? We just wear them down with endless litigation.,1.272,0.045967730616863364,125.0,95.0,26.0,4.0,575
 560,"Frankly, I liked the way we used to collect taxes better.",1.272,0.04735044367404632,125.0,96.0,24.0,5.0,575
 560,The looting hardly seems worth it these days.,1.272,0.045967730616863364,125.0,95.0,26.0,4.0,575
-560,"This isn't exactly what I had in mind when I ran the ad for '10,000 men who enjoy plundering'...",1.272,0.05251850672274581,125.0,100.0,16.0,9.0,575
+560,"This isn't exactly what I had in mind when I ran the ad for '10,000 men who enjoy plundering'...",1.272,0.052518506722745814,125.0,100.0,16.0,9.0,575
 560,These crusades are becoming so litigious...,1.272,0.05127534778353611,125.0,99.0,18.0,8.0,575
 560,We may steal and pillage but at least we don't bill by the hour,1.272,0.04735044367404632,125.0,96.0,24.0,5.0,575
 560,I guess the plan is to talk them to death.,1.272,0.04454211490264018,125.0,94.0,28.0,3.0,575
@@ -598,10 +598,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 592,What's not to like? Our army is bigger and pro bono!,1.2627118644067796,0.04571762067802669,118.0,90.0,25.0,3.0,575
 598,Do you think they know we're literally headhunters?,1.2608695652173914,0.05105590857499128,115.0,91.0,18.0,6.0,575
 598,The good news is I just saved a bunch of money on my car insurance.,1.2608695652173914,0.05396124908683368,115.0,93.0,14.0,8.0,575
-598,And my mother STILL thinks I should have gone to law school.,1.2608695652173914,0.047974943437428134,115.0,89.0,22.0,4.0,575
-598,The job isn't complete until the paperwork's done.,1.2608695652173914,0.047974943437428134,115.0,89.0,22.0,4.0,575
+598,And my mother STILL thinks I should have gone to law school.,1.2608695652173914,0.04797494343742813,115.0,89.0,22.0,4.0,575
+598,The job isn't complete until the paperwork's done.,1.2608695652173914,0.04797494343742813,115.0,89.0,22.0,4.0,575
 598,"They're still there, aren't they?",1.2608695652173914,0.05105590857499128,115.0,91.0,18.0,6.0,575
-598,We'll overwhelm them with minutiae.,1.2608695652173914,0.047974943437428134,115.0,89.0,22.0,4.0,575
+598,We'll overwhelm them with minutiae.,1.2608695652173914,0.04797494343742813,115.0,89.0,22.0,4.0,575
 598,"You know Gary, the lawyers have taken all of the fun out of Hostile Takeovers.",1.2608695652173914,0.04953938331389631,115.0,90.0,20.0,5.0,575
 605,I can’t wait for the return of casual Fridays.,1.2589285714285714,0.0503295697488197,112.0,88.0,19.0,5.0,575
 606,"Everyone is always going on about Attila and his cavalry. But I'll tell you what, nothing strikes fear into the hearts of men like a horde of forensic accountants coming over the horizon.",1.2566371681415929,0.051492823904971695,113.0,90.0,17.0,6.0,575
@@ -613,7 +613,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 606,"The attorneys go marching two by two: Hurrah, Hurrah ...",1.2566371681415929,0.046662913271925226,113.0,87.0,23.0,3.0,575
 606,You have but one question to answer: how shall this team-building day end?,1.2566371681415929,0.04993478848271368,113.0,89.0,19.0,5.0,575
 606,"Yes, Tharg, we are also representing Jared Kushner.",1.2566371681415929,0.05590701523416927,113.0,93.0,11.0,9.0,575
-606,"I still say that using accountants to invade other countries is barbaric. Not as cruel as the bankers we were using, but still...",1.2566371681415929,0.048326548479260184,113.0,88.0,21.0,4.0,575
+606,"I still say that using accountants to invade other countries is barbaric. Not as cruel as the bankers we were using, but still...",1.2566371681415929,0.04832654847926018,113.0,88.0,21.0,4.0,575
 606,How far back do these conservatives want us to take them?,1.2566371681415929,0.054475375533341336,113.0,92.0,13.0,8.0,575
 606,I'm tired of hostile takeovers.,1.2566371681415929,0.046662913271925226,113.0,87.0,23.0,3.0,575
 618,Pick up the pace. I've been told travel times are billable hours.,1.2545454545454546,0.050743206444089264,110.0,87.0,18.0,5.0,575
@@ -650,10 +650,10 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 634,I cant believe its been 9 years since Lehman Brothers failed and they're still following us,1.2522522522522523,0.0519378266071364,111.0,89.0,16.0,6.0,575
 634,I thought YOU brought them.,1.2522522522522523,0.0519378266071364,111.0,89.0,16.0,6.0,575
 634,Arbiter chasers!,1.2522522522522523,0.04696953631102264,111.0,86.0,22.0,3.0,575
-652,"Nah, most of 'em found me on LinkedIn",1.25,0.051163344117045186,108.0,86.0,17.0,5.0,575
+652,"Nah, most of 'em found me on LinkedIn",1.25,0.05116334411704519,108.0,86.0,17.0,5.0,575
 652,"You know, lawyers make the best barbarians.",1.25,0.04766075165356461,108.0,84.0,21.0,3.0,575
 652,The emperor is going to love his new credit score.,1.25,0.05600802246842692,108.0,89.0,11.0,8.0,575
-652,"Wow, that ""Lawyer on a Stick"" really keeps them in line.",1.25,0.051163344117045186,108.0,86.0,17.0,5.0,575
+652,"Wow, that ""Lawyer on a Stick"" really keeps them in line.",1.25,0.05116334411704519,108.0,86.0,17.0,5.0,575
 652,We'll have the tactical advantage if this thing ends up going to arbitration.,1.25,0.04766075165356461,108.0,84.0,21.0,3.0,575
 657,"Well, you did tell them to suit up.",1.2476190476190476,0.05543856511496245,105.0,86.0,12.0,7.0,575
 657,We're gonna hit them with shock and law.,1.2476190476190476,0.05203012719286361,105.0,84.0,16.0,5.0,575
@@ -708,7 +708,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 691,The pied piper never had this following.,1.2427184466019416,0.04671997869423882,103.0,80.0,21.0,2.0,575
 708,Our enemies won't expect such a sneaky legal maneuver.,1.24,0.05148305595538257,100.0,80.0,16.0,4.0,575
 708,"The last lot could fight, but this company plunders like no other",1.24,0.04521553322083513,100.0,77.0,22.0,1.0,575
-708,Wait until the king sees all the 'hostile takeover' specialists we brought in.,1.24,0.04739688435398098,100.0,78.0,20.0,2.0,575
+708,Wait until the king sees all the 'hostile takeover' specialists we brought in.,1.24,0.047396884353980984,100.0,78.0,20.0,2.0,575
 708,So what's the plan if the negotiations fail?,1.24,0.05340903718028677,100.0,81.0,14.0,5.0,575
 708,"I still say, it's not a ""hostile takeover"" without blood, rape, and pillage.",1.24,0.05340903718028677,100.0,81.0,14.0,5.0,575
 708,I liked it better when we could battle it out without all the lawyers,1.24,0.05706632681858592,100.0,83.0,10.0,7.0,575
@@ -716,7 +716,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 708,I just mentioned that there might be oil in the ground.,1.24,0.05148305595538257,100.0,80.0,16.0,4.0,575
 708,"This time, we'll show them we mean business.",1.24,0.0552679423766206,100.0,82.0,12.0,6.0,575
 708,Apparently central casting misunderstood the term 'white walkers.',1.24,0.05706632681858592,100.0,83.0,10.0,7.0,575
-708,This time we are going to try to talk them into submission.,1.24,0.04739688435398098,100.0,78.0,20.0,2.0,575
+708,This time we are going to try to talk them into submission.,1.24,0.047396884353980984,100.0,78.0,20.0,2.0,575
 708,"They haven’t fought yet, but they all took the on-line seminar",1.24,0.05148305595538257,100.0,80.0,16.0,4.0,575
 708,Flatulence chasers.,1.24,0.04521553322083513,100.0,77.0,22.0,1.0,575
 708,Kinda takes the fun out of raping and pillaging when these guys just follow us around and represent our victims.,1.24,0.0552679423766206,100.0,82.0,12.0,6.0,575
@@ -725,7 +725,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 708,I said sack... not briefcase.,1.24,0.05706632681858592,100.0,83.0,10.0,7.0,575
 708,"We're great Khan artists, aren't we?!",1.24,0.05706632681858592,100.0,83.0,10.0,7.0,575
 708,One look at us and they'll sue for peace.,1.24,0.05340903718028677,100.0,81.0,14.0,5.0,575
-708,"1,000 lawyers. Rome won't last a week.",1.24,0.04739688435398098,100.0,78.0,20.0,2.0,575
+708,"1,000 lawyers. Rome won't last a week.",1.24,0.047396884353980984,100.0,78.0,20.0,2.0,575
 708,"Rape, pillage, recapitalize, repeat.",1.24,0.04521553322083513,100.0,77.0,22.0,1.0,575
 708,"What do we do? I'll tell you what we do. We tell the Emperor that these ARE the Barbarians. Period. And for God's sake, do not mention Rotarians. The last thing we need is another plumber / plunder incident.",1.24,0.04948216697442473,100.0,79.0,18.0,3.0,575
 708,Wait till we attack them with our economic sanctions.,1.24,0.0552679423766206,100.0,82.0,12.0,6.0,575
@@ -844,7 +844,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 840,"You'll see. In time, all hostile takeovers will happen like this.",1.2222222222222223,0.04941045135965652,90.0,72.0,16.0,2.0,575
 840,"Trust me, the Visigoths will have also lawyered up by now.""",1.2222222222222223,0.05187562620058009,90.0,73.0,14.0,3.0,575
 840,Exoduses aren't what they used to be.,1.2222222222222223,0.05187562620058009,90.0,73.0,14.0,3.0,575
-840,I think we should make a rest stop. These guys want to do their business,1.2222222222222223,0.046815647100383585,90.0,71.0,18.0,1.0,575
+840,I think we should make a rest stop. These guys want to do their business,1.2222222222222223,0.04681564710038359,90.0,71.0,18.0,1.0,575
 840,"I can never remember. Is it 10,000 powers of attorney or 10,000 power of attorneys?",1.2222222222222223,0.054228852872245416,90.0,74.0,12.0,4.0,575
 840,Are you sure he said an army of accountants?,1.2222222222222223,0.05648412497310167,90.0,75.0,10.0,5.0,575
 840,white man in a suit. world's deadliest weapon,1.2222222222222223,0.05648412497310167,90.0,75.0,10.0,5.0,575
@@ -852,31 +852,31 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 840,What happened to first kill all the lawyers?,1.2222222222222223,0.04941045135965652,90.0,72.0,16.0,2.0,575
 840,Let's make this audit painful.,1.2222222222222223,0.054228852872245416,90.0,74.0,12.0,4.0,575
 853,This'll be the mother of all hostile takeovers!,1.2205882352941178,0.062314124780726364,68.0,56.0,9.0,3.0,575
-854,J. Crewsades,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,575
-854,"Okay, then here's another one: Shareholder Value or Death!",1.21978021978022,0.04636268815325047,91.0,72.0,18.0,1.0,575
-854,When I audit . . .,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,575
-854,The cliff is just ahead.,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,575
-854,"What did the general mean by ""make haste, we are being charged by the hour""?",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,575
-854,Never pillage without your legal team.,1.21978021978022,0.058056008076656215,91.0,77.0,8.0,6.0,575
-854,I really don't think he literally meant an army of lawyers.,1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,575
-854,Let's kick it up to a cantor; they're billing us by the hour.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,575
-854,I meant suits of armor.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,575
-854,I always forget how much paperwork war is.,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,575
-854,Remember when our crusades meant something? Now I think we're just going through the motions.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,575
-854,I said we needed earls and barons and counts. Counts!,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,575
-854,Don't sweat it. We'll bury them with paperwork.,1.21978021978022,0.04892544426978456,91.0,73.0,16.0,2.0,575
-854,The informant said the guy in the suit carrying a briefcase was Spartacus,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,575
-854,"Are you sure he said ""a thousand more suits on the ground?""",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,575
-854,"We do 401k matching, but it's not so bad when you realize how few of them make it to retirement",1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,575
-854,First we kill all their lawyers.,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,575
-854,Promise me you will never wear that perfume again .,1.21978021978022,0.058056008076656215,91.0,77.0,8.0,6.0,575
-854,I think we're being followed,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,575
-854,"Sir, are you sure they're suited for battle?",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,575
-854,"I came, I saw, I negotiated.",1.21978021978022,0.05591332425814555,91.0,76.0,10.0,5.0,575
-854,"I said ""maraud it"" not ""audit"", you idiot.",1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,575
-854,Audit is the new plunder.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,575
-854,Change that sign to read- Attila et all.,1.21978021978022,0.05136048423833287,91.0,74.0,14.0,3.0,575
-854,Welcome to Corporate America!,1.21978021978022,0.05368518962801831,91.0,75.0,12.0,4.0,575
+854,J. Crewsades,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,575
+854,"Okay, then here's another one: Shareholder Value or Death!",1.2197802197802199,0.04636268815325047,91.0,72.0,18.0,1.0,575
+854,When I audit . . .,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,575
+854,The cliff is just ahead.,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,575
+854,"What did the general mean by ""make haste, we are being charged by the hour""?",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,575
+854,Never pillage without your legal team.,1.2197802197802199,0.058056008076656215,91.0,77.0,8.0,6.0,575
+854,I really don't think he literally meant an army of lawyers.,1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,575
+854,Let's kick it up to a cantor; they're billing us by the hour.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,575
+854,I meant suits of armor.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,575
+854,I always forget how much paperwork war is.,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,575
+854,Remember when our crusades meant something? Now I think we're just going through the motions.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,575
+854,I said we needed earls and barons and counts. Counts!,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,575
+854,Don't sweat it. We'll bury them with paperwork.,1.2197802197802199,0.04892544426978456,91.0,73.0,16.0,2.0,575
+854,The informant said the guy in the suit carrying a briefcase was Spartacus,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,575
+854,"Are you sure he said ""a thousand more suits on the ground?""",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,575
+854,"We do 401k matching, but it's not so bad when you realize how few of them make it to retirement",1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,575
+854,First we kill all their lawyers.,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,575
+854,Promise me you will never wear that perfume again .,1.2197802197802199,0.058056008076656215,91.0,77.0,8.0,6.0,575
+854,I think we're being followed,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,575
+854,"Sir, are you sure they're suited for battle?",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,575
+854,"I came, I saw, I negotiated.",1.2197802197802199,0.05591332425814555,91.0,76.0,10.0,5.0,575
+854,"I said ""maraud it"" not ""audit"", you idiot.",1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,575
+854,Audit is the new plunder.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,575
+854,Change that sign to read- Attila et all.,1.2197802197802199,0.05136048423833287,91.0,74.0,14.0,3.0,575
+854,Welcome to Corporate America!,1.2197802197802199,0.05368518962801831,91.0,75.0,12.0,4.0,575
 879,"We usually lose the first battle, but we always win the appeal.",1.2183908045977012,0.05278981780633602,87.0,71.0,13.0,3.0,575
 879,I love the smell of lawyers in the morning.,1.2183908045977012,0.05763142612108451,87.0,73.0,9.0,5.0,575
 879,"I told headquarters we needed archers, but they sent auditors instead.",1.2183908045977012,0.05763142612108451,87.0,73.0,9.0,5.0,575
@@ -906,7 +906,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 905,This will be a hell of a charge.,1.2121212121212122,0.07001548784756252,66.0,57.0,4.0,5.0,575
 906,I want a suit and briefcase too,1.2117647058823529,0.05317409082203827,85.0,70.0,12.0,3.0,575
 906,I miss the days when a hostile takeover didn't require a phalanx of lawyers.,1.2117647058823529,0.05047149581627682,85.0,69.0,14.0,2.0,575
-906,They're not just raiders. They're corporate raiders.,1.2117647058823529,0.047615752069189464,85.0,68.0,16.0,1.0,575
+906,They're not just raiders. They're corporate raiders.,1.2117647058823529,0.04761575206918946,85.0,68.0,16.0,1.0,575
 906,Our subpoenas will block out the sun!,1.2117647058823529,0.05574581580323587,85.0,71.0,10.0,4.0,575
 906,They'll never expect our Trojan Class-Action Lawsuit,1.2117647058823529,0.05047149581627682,85.0,69.0,14.0,2.0,575
 906,Tort reform! That's all I'm saying.,1.2117647058823529,0.05574581580323587,85.0,71.0,10.0,4.0,575
@@ -1067,7 +1067,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 1062,Our legal team will keep them tied up for years.,1.1948051948051948,0.04904752754862677,77.0,63.0,13.0,1.0,575
 1062,The Saxons have no clue how barbaric we can be.,1.1948051948051948,0.05558045481956562,77.0,65.0,9.0,3.0,575
 1062,"Now remember,...we're only trying to force a settlement!",1.1948051948051948,0.045430127217245,77.0,62.0,15.0,0.0,575
-1069,This is Plan B. Shock and Awe didn't work.,1.1935483870967742,0.05556645312185479,62.0,51.0,10.0,1.0,575
+1069,This is Plan B. Shock and Awe didn't work.,1.1935483870967742,0.055566453121854785,62.0,51.0,10.0,1.0,575
 1070,We'll see how great their Great Wall is when we slap this injunction on them.,1.1923076923076923,0.05179975117387881,78.0,65.0,11.0,2.0,575
 1070,Dunno....I heard they are carrying the King's tax return,1.1923076923076923,0.05179975117387881,78.0,65.0,11.0,2.0,575
 1070,"If you capture them young, they can be trained.",1.1923076923076923,0.05179975117387881,78.0,65.0,11.0,2.0,575
@@ -2475,45 +2475,45 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2463,Do you think he will build a wall to keep the auditors away?,1.1063829787234043,0.05469656058869374,47.0,43.0,3.0,1.0,575
 2463,I am Genghis and these are my Khan-men.,1.1063829787234043,0.05469656058869374,47.0,43.0,3.0,1.0,575
 2476,"I wanted an invading horde, not board",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I'm sending a message to the other office supplies.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"Most people think raiding is just about the looting and the pillaging, but they forget you need an army of accountants just to keep track of all the revenue and expenses.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I'm sending a message to the other office supplies.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"Most people think raiding is just about the looting and the pillaging, but they forget you need an army of accountants just to keep track of all the revenue and expenses.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,There really is something to be said about conquering the befuddled masses,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,There's nothing Praetorian about them.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
-2476,Second responders just seem to know,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Second responders just seem to know,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Trade our skirts for their pants?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"And then I said, 'All we need are good suits of armor.'",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"They might be giants, or accountants.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"So because the king makes some offhand remark about the battle, we have to hire lawyers?",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"They might be giants, or accountants.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"So because the king makes some offhand remark about the battle, we have to hire lawyers?",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Twill trumps terracotta!,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,"First a siege, then endless litigation--sweet victory!",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,The khan says corporate raiding is less fun but more profitable.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"Don't worry. With this team on your side, you'll be found not guilty.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I'm tired of playing A Game Of Drones.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I'm tired of playing A Game Of Drones.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I forgot to ask. Who's picking up the horse poop?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,The match of the penguins,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,They're expecting my cavalry. They'll be surprised when I attack with my lawyers.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,They might not be good fighters but they will bury the enemy in paperwork.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,When do you think we should tell them about Brexit?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,They're expecting my cavalry. They'll be surprised when I attack with my lawyers.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,They might not be good fighters but they will bury the enemy in paperwork.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,When do you think we should tell them about Brexit?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"Back in my day, we only needed one pillaging adviser.",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,Used to be we could pillage and plunder without all the lawyers being involved.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,They're interns. They'll do anything.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,They're interns. They'll do anything.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"Call me old-fashioned, but I miss the days when we had hordes of warriors and only one lawyer.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,If the Gods shall not project us at least our Bodily Injury attorneys will see we are taken care of.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"I said to order 1000 suits of armor, not Armani.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,If the Gods shall not project us at least our Bodily Injury attorneys will see we are taken care of.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"I said to order 1000 suits of armor, not Armani.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,They think this is a shortcut to success!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,The horde has gone corporate.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"Killing, looting and raping ain't what is used to be.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"Killing, looting and raping ain't what is used to be.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Because everyone in enforcement these days has an army of lawyers.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I miss the old days when Kingdoms fought it out on the battlefield instead of in the courtroom.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I miss the old days when Kingdoms fought it out on the battlefield instead of in the courtroom.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I told you not to Mirandize the infidels.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Forget the last war; we're prepared to fight the next war -- with accountants.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"It's the best we could do with ""Make Vinland Great Again.""",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Forget the last war; we're prepared to fight the next war -- with accountants.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"It's the best we could do with ""Make Vinland Great Again.""",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,You just carry a standard. I have to lead the scourge of the earth.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,They didn't tell me it was the BUSINESS Round Table.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"Do you think we can reduce our enemy's numbers through ""voire dire""?",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I suspect voter fraud.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Onward ho! Steady the road we trod towards white privilege.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"The Suits go marching two by two hurrah, hurrah..",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I suspect voter fraud.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Onward ho! Steady the road we trod towards white privilege.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"The Suits go marching two by two hurrah, hurrah..",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,All I'm saying is mergers and acquisitions isn't what it used to be.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"The insurance company will have their army of lawyers, we should too.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Look at it this way: Leading an audit is like raping and pillaging without any of the fun.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
@@ -2522,267 +2522,267 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2476,Silk suit road,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,I was never suited to be a follower.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,How many accountants does it take to win a war?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I think we're being subpeonaed.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"I lawyered up, why do you ask?",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I think we're being subpeonaed.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"I lawyered up, why do you ask?",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,How many divorces does this make?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,These aren't my troops.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Compliance...Ragnar...compliance!,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,The Oscars? Whatever is that?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,These aren't my troops.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Compliance...Ragnar...compliance!,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,The Oscars? Whatever is that?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"Yes, but replacing the Golden Horde with lawyers reduces our liability premiums by 15 percent.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I'm pretty sure we should be leading a horde of barbarians...not barristers!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I'd like to see 'em beat us this time.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Time to fire up the PowerPoint!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"Holy sale, holy bail, holy grail...whatever",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Maybe we should ask them where they are going.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,We've got a lot of work to do...,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"Holy sale, holy bail, holy grail...whatever",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Maybe we should ask them where they are going.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,We've got a lot of work to do...,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"I don't know why you can't find full-time work in crisis cults. In my day, we didn't even have a treeless deathscape.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"For the last time, Zevon's bringing the money, Phillip is bringing the guns and we're on the hook for the lawyers!",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,It's about time the king was audited.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,What a bunch of tools.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,What a bunch of tools.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,It's time to pin the back end sales projections for next quarter.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"I expected more from companies called Centurion, Phalanx, and Vanguard.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,I don't know what they want. They just said they wanted to follow a new leader,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Ok. I agree.There are no toilets in this direction.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"I expected more from companies called Centurion, Phalanx, and Vanguard.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,I don't know what they want. They just said they wanted to follow a new leader,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Ok. I agree.There are no toilets in this direction.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"Did you, or did you not say ""lawyer up?""",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Still no answer to our preinvasion brief.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Still no answer to our preinvasion brief.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"I still enjoy the pillaging, but I miss the raping.",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
-2476,Weekl what if they don't want to negotiate? Have you thought of that?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,The million lawyer march to conqueror the world.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Give me the good old days without lawyers.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Attila and his HUNdreds of accountants. I get it but it doesn't sound very scary.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Weekl what if they don't want to negotiate? Have you thought of that?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,The million lawyer march to conqueror the world.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Give me the good old days without lawyers.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Attila and his HUNdreds of accountants. I get it but it doesn't sound very scary.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I would say the hostile takeover was a resounding success.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Just more people who think the president is gonna create more jobs.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,I'm beginning to think pillaging Philadelphia was a mistake.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,We usually lead auditors straight to the Colosseum. These are going to the White House.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"He said ""Corral all the lawyers."" Right?",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"He said ""Corral all the lawyers."" Right?",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I came. I saw. I contracted.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,We were defeated on the battlefield. The siege failed. This time we're using litigation.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I told you they'd get the wrong idea with all that 'War is Serious Business' mumbo jumbo.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I told you they'd get the wrong idea with all that 'War is Serious Business' mumbo jumbo.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"I came, I saw, I consulted.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"Suits, eh? I thought they said sheep.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"Suits, eh? I thought they said sheep.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I never thought we would be forced to go paperless.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"I know, I know. But just you wait and see what they got in those cases.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"I know, I know. But just you wait and see what they got in those cases.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"The pen is mightier than the sword, my ass.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I told you signing with a talent agency was a bad idea.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,It's our new leader's War Doctrine: Overwhelm the enemy with dilatory and vexatious litigation.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I told you not to feed them. Now we'll never get rid of them.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I expect we'll be suing for peace before too long.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"Remember, back in our youth, when we were convinced the cause we were leading was just?",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"It's really hard to conquer and pillage, these days, without racking up countless lawsuits.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,I hope we get a reward for leading them back to their homeland of New York.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"What'll we do with 100,000 CPA's?",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"Remember, back in our youth, when we were convinced the cause we were leading was just?",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"It's really hard to conquer and pillage, these days, without racking up countless lawsuits.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,I hope we get a reward for leading them back to their homeland of New York.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"What'll we do with 100,000 CPA's?",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"These fellows ARE a bit persistent, but gosh darnit a deferred annuity policy is starting to make sense.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"....so I thought, in our line of business, maybe Injurylawyers4u was worth contacting - I wish I hadn't bothered.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I can't believe they still carry briefcases.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,We can let the lawyers do the pillaging.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I can't believe they still carry briefcases.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,We can let the lawyers do the pillaging.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I'm telling you Thad ... hostile takeovers just aren't what they used to be.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"If you had just kept your mouth shut, John...",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
-2476,We're going to get this healthcare bill through.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,How many of these lawyers do you think we'll have to kill before they figure out the punchline this time?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,I don't know what Shakespeare will have to say about this.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,My inner cowboy brands all cow leather.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"You like The Art of War, I prefer The Art of the Deal",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,They'll never know what audited them.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Ignore their pleas. Litigate until death.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,We're going to get this healthcare bill through.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,How many of these lawyers do you think we'll have to kill before they figure out the punchline this time?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,I don't know what Shakespeare will have to say about this.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,My inner cowboy brands all cow leather.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"You like The Art of War, I prefer The Art of the Deal",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,They'll never know what audited them.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Ignore their pleas. Litigate until death.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"What's that mean, we're going to litigate",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I just hope there will be a lot of litigation!,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"After we send the lawyers in to trip the mines, the cavalry will attack.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I just hope there will be a lot of litigation!,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"After we send the lawyers in to trip the mines, the cavalry will attack.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I thought we were supposed to bring back the unicorns?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,March of La Mancha.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"It's a long way to Actuary, It's a long way, to go . . .",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"It's a long way to Actuary, It's a long way, to go . . .",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Hopefully this promotion doesn't take 40 years,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"As the Commander-in-Chief, he can reconfigure our military however he sees fit.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,I think you forgot the port-o-potties.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,REPUBLICANS THEY ALL LOOK THE SAME TO ME,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,They're all registered for the critical thinking workshop tomorrow.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"As the Commander-in-Chief, he can reconfigure our military however he sees fit.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,I think you forgot the port-o-potties.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,REPUBLICANS THEY ALL LOOK THE SAME TO ME,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,They're all registered for the critical thinking workshop tomorrow.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Don't worry. I have faith that our puppet president will guide us on the right path.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"win, are you kidding, we are going to bury them in paperwork!",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
-2476,His Majesty posted a want ad for investment managers.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,His Majesty posted a want ad for investment managers.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"They said: ""If we build it they would come..."" but a new Amazon Distribution Center?",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,It's ridiculous! We can't even rape and pillage anymore.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"They said they're looking for jobs, any job.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Math wars are so much less stressful.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,How many auditors does the king really need?,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,"Don't worry, an army of lawyers will scare any enemy.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"Don't worry, our army of lawyers will confuse and befuddle them.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"Don't worry, our army of lawyers will confuse and befuddle them.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I told them we were headed east and would pay in rubies ... they thought I said rubles.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"I wanted to layer up, not lawyer up",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Pillaging isn't fun anymore.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,The think the thing is a symbol for our currency. the damned fools.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"I wanted to layer up, not lawyer up",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Pillaging isn't fun anymore.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,The think the thing is a symbol for our currency. the damned fools.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"On the one hand this job is pretty easy, but my god it's boring herding bureaucrats.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,The deep state's investigation on deplorable readiness.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,The deep state's investigation on deplorable readiness.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I came I conquered and now I build a wall.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"""Stockbrokers, they'll follow Satan if they think they can make a profit.",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
-2476,You're right...the Trump tactic of using blind followers is totally easier than waging a war.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,You're right...the Trump tactic of using blind followers is totally easier than waging a war.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"We need something else, I tell you, to enhance the element of surprise.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"This is not an ordinary siege. At $750 per hour, it had better be short.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Odin's gonna be pissed. He's expecting warrior converts!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,See? I told you that these Crusades would one day become corporate.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
-2476,Now where was that gate?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Now where was that gate?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"I miss the old ways, but you have to admit my Legal Horde is much more terrifying.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"We won the war; now, if we could just lose the lawyers . . .",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"You know I miss the good old days of pillaging, now it's all corporate raid this and corporate raid that.....",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Auditor Lang Syne,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"We won the war; now, if we could just lose the lawyers . . .",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"You know I miss the good old days of pillaging, now it's all corporate raid this and corporate raid that.....",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Auditor Lang Syne,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,We think the pivot from plunder and pillage to mergers and acquisitions has more upside utlimately,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I hate low budget movies.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,It's supposed to attract vermin,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Next time just ask if they'll sign a waiver,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Like lambs to the what?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"Yes, when Attila is hit, he hits back 1,000 times harder...",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,No city will dare oppose us and our army of personal injury attorneys.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,They'd rather face the Black Death than another healthcare vote.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,It's supposed to attract vermin,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Next time just ask if they'll sign a waiver,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Like lambs to the what?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"Yes, when Attila is hit, he hits back 1,000 times harder...",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,No city will dare oppose us and our army of personal injury attorneys.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,They'd rather face the Black Death than another healthcare vote.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,The king recruited them to see if any of them can figure out who stole the strawberries.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"You should have promised them Apple, instead of that other computer company",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,This will make us grate again.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,So you are certain that these guys are suitable for world domination?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"The app said I ordered 3,000 CPAs. Conquerors Pronto Anytime. What the hell is this?",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,This will make us grate again.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,So you are certain that these guys are suitable for world domination?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"The app said I ordered 3,000 CPAs. Conquerors Pronto Anytime. What the hell is this?",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Casual dress you said! Use your imagination you said!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"Our Supreme Majesty said that when he gets hit, he hits back 10 times harder.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"Who needs a ""Trojan Horse"" when these suits will follow the rear end of a horse !",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Their Holy Grail is no match for our Legal Loophole!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,We shouldn't plunder here.....too much regulatory oversight.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,I sure hope our troops learned the art of war during their internship at Salesforce.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"Sure they'll handle all the paperwork, but how do we feed them?",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,""" Don't look back, but are my litigation attorneys following us?",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"Sure they'll handle all the paperwork, but how do we feed them?",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,""" Don't look back, but are my litigation attorneys following us?",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,As least we have our legal protection.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"We'll pillage, we'll plunder, we'll audit, our auditors are a fearsome lot.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Me? I never go Business Claas.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Me? I never go Business Claas.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Found them in Penn Station. 'Take us anywhere!' they said.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I'll say it again: I am NOT skirting the issue!,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I'll say it again: I am NOT skirting the issue!,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Nothing's wrong with insurance protection.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Are you sure we're not being too literal?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"If I knew she was your sister, I wouldn't have invited you.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"Without an aggressive and vigilant legal legion, how would we ever protect our trademark?",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"Advocatus est means ""lawyer up"" in Latin.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,OK. We've subdued the masses. Now what?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"I thought we requested warriors,not lawyers.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"Without an aggressive and vigilant legal legion, how would we ever protect our trademark?",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"Advocatus est means ""lawyer up"" in Latin.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,OK. We've subdued the masses. Now what?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"I thought we requested warriors,not lawyers.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"It's less fun this way, but there's a lot less to clean up.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"'in our business, it is always safe and wise to keep some lawyers on retainer.""",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"'in our business, it is always safe and wise to keep some lawyers on retainer.""",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I swear the king wanted walking sticks not stiffs.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"Attila was right, you know!",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"Attila was right, you know!",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I told them to wear suits of armor,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I used to work in an industry that used asbestos.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"So Attila said ""I'm gonna need an army of lawyers after this next tweet,"" and we got the job of rounding them up.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I used to work in an industry that used asbestos.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"So Attila said ""I'm gonna need an army of lawyers after this next tweet,"" and we got the job of rounding them up.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"MBAs AND Attorneys, they'll never know what hit them!",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
-2476,Conquer? No! This new administration just sues Covfefe.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Conquer? No! This new administration just sues Covfefe.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,You must not look back.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I still think halberds would work better.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"By ""company,"" I meant...oh, never mind, it was going under either way.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I still think halberds would work better.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"By ""company,"" I meant...oh, never mind, it was going under either way.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Wait till you see how these lawyers can pillage,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"Of course we enlisted the right people, this is a war on injustice",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Somehow I think I was expecting more than just the trappings from that big promotion.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,They'll have to surrender when they see our legion of lawyers.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,We're gonna sue 'em to death,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,They'll have to surrender when they see our legion of lawyers.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,We're gonna sue 'em to death,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,This hoard of insurance salesman and attorneys will cause a panic and mass reteat of the enemy.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I'll teach them Dungeons and Dragons.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I'd say this year's company retreat really reflects the boss' new management style.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,A legion of lawyers is scarier than an army of soldiers.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Do you feel like we're being followed?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"In the North, those beleaguered few marched on in defense of the Wall.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I'd say this year's company retreat really reflects the boss' new management style.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,A legion of lawyers is scarier than an army of soldiers.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Do you feel like we're being followed?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"In the North, those beleaguered few marched on in defense of the Wall.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I TOLD YOU WE'D BE GREAT AGAIN.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"Onward, corporate soldiers",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"Onward, corporate soldiers",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Wait till the Lannisters see us!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"After the Children's Crusade, I wanted to experiment in more conceptual art.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"After the Children's Crusade, I wanted to experiment in more conceptual art.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"Wow , these states' attorney generals are really on some kind of crusade to protect their voting data!",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,These merger meetings have gotten totally out of hand.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I gave them their marching orders.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,"While they're more efficient than the old horde at laying waste to all in our path, I miss the singing.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"Re-routing, re-routing, re-rout.... sorry, I don't understand where ""American Dream"" is.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"They love you, these people really love you.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"Re-routing, re-routing, re-rout.... sorry, I don't understand where ""American Dream"" is.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"They love you, these people really love you.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"First we kill, then we bury in paperwork.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,the suit crusade,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,Let's see the Huns crunch numbers with these guys!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"What are these guys supposed to do, insure them to death?",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"What are these guys supposed to do, insure them to death?",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"Damn, the subway's out again.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"I had no idea this is what the MBA brochure meant when it said, ""Pomp and Circumstance"" at graduation.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"I had no idea this is what the MBA brochure meant when it said, ""Pomp and Circumstance"" at graduation.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I told you that team-building at the Renaissance Festival wouldn't go over well.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,The King needs them to figure out his tax return.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I hate these trade wars.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I hate these trade wars.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"As strategic board retreats go, this one has been pretty quiet.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Lawyering up just doesn't feel like the Hun's way.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Lawyering up just doesn't feel like the Hun's way.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"We don't stand a chance, Otis, but we sure as hell will know how much it cost...",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"Are you sure 100,000 accountants can defeat the Huns?",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"Are you sure 100,000 accountants can defeat the Huns?",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Why would the king be 'lawyering up' if he was't guilty?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Leading a crusade in the patent wars doesn't have the same feel.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"Next time don't advertise for ""road warriors.""",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"Dammit, I told you MBA does not stand for ""Massive Battle Axe!""",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Leading a crusade in the patent wars doesn't have the same feel.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"Next time don't advertise for ""road warriors.""",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"Dammit, I told you MBA does not stand for ""Massive Battle Axe!""",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,They can't beat our army of lawyers.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,When they see us coming they'll bail.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,When they see us coming they'll bail.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I thought they might come in handy on the off chance I can't pull the sword from the stone.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,We brought specialists in both mergers and hostile takeovers.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,You want to take over the world? You're going to need accountants...,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,We brought specialists in both mergers and hostile takeovers.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,You want to take over the world? You're going to need accountants...,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,My horoscope said I would lead a great army on a hostile takeover.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,They won't be expecting us being this well lawyered up.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"I thought we were Saxons, not Goldman Sachs.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"I thought we were Saxons, not Goldman Sachs.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Your doctor's credentials say he has an MD in IPA. Any idea what that means?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Genghis Khan Steinberg and Manischewitz look to open their first office in Mongolia.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Strategy and planning is one thing; but can they fight?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,They licensed the merchandising rights for the Crusades.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"We'll infiltrate the CPAs the usual way, but I like the idea of getting the lawyers over the wall with catapults.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Genghis Khan Steinberg and Manischewitz look to open their first office in Mongolia.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Strategy and planning is one thing; but can they fight?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,They licensed the merchandising rights for the Crusades.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"We'll infiltrate the CPAs the usual way, but I like the idea of getting the lawyers over the wall with catapults.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,They said they wanted new leadership...,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I don't think the new Head of Recruiting understands our globalization plan.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Once we reach the castle the twitter storm commences!,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,His tweet said they were the best plunderers.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"Don't worry about it! It'll happen! The Eden Gates will open, and they can beat their briefcases into plowshares, and their cellphones into pruning hooks, and never again have to worry about losing their jobs or the cost of healthcare.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I don't think the new Head of Recruiting understands our globalization plan.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Once we reach the castle the twitter storm commences!,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,His tweet said they were the best plunderers.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"Don't worry about it! It'll happen! The Eden Gates will open, and they can beat their briefcases into plowshares, and their cellphones into pruning hooks, and never again have to worry about losing their jobs or the cost of healthcare.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I just realized that I forgot the password!,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
-2476,Their hourly rates are going to kill us,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Their hourly rates are going to kill us,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,First we rape. Then we pillage. Then we audit.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Didn't I tell you that Sun Tzu would pay off?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Another fine mess you've gotten us into Ollie.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"Personally, I think tax collectors should carry maces.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Another fine mess you've gotten us into Ollie.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"Personally, I think tax collectors should carry maces.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I always like to 'lawyer-up' before I go into battle.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"You just had to say ""the pen is mightier than the sword"" in front of our commander in chief who thinks war is ""Capture the Flag""!",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,We're on a crusade to retake Wall Street.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,"Tonight on Hannity..... ""Trump keeps yet another promise by draining the swamp of those pesky fake scientists. See ya losers""",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I am always amazed at how many lawyers it takes to negotiate an unconditional surrender!,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,They prefer to walk.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I am always amazed at how many lawyers it takes to negotiate an unconditional surrender!,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,They prefer to walk.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"It was your idea to advertise the crusade as a ""great career move and a chance to obliterate your enemies""",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"The slave trader told me these guys all have ""killer instincts"", but I just don't see it...",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"The slave trader told me these guys all have ""killer instincts"", but I just don't see it...",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"I understand that they steal with their pens, but how are you supposed to pillage with a briefcase?",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"Although the Dothraki's have mounted calvary, we have the Suited Writs.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Thought I'd better lawyer up.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"King Trump's army is easy to lead, but I do miss the women....",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"Bear with me, we will finally learn the truth.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"Although the Dothraki's have mounted calvary, we have the Suited Writs.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Thought I'd better lawyer up.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"King Trump's army is easy to lead, but I do miss the women....",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"Bear with me, we will finally learn the truth.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Think of the gas savings!,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,THIS IS WHAT FEAR IS ALL ABOUT.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,They walk in pairs to fudge their numbers.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,They walk in pairs to fudge their numbers.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"So much for your dumbass idea about Team Building: ""We Khan do it! We Khan do it! We Khan do it!""",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Think this audit is gonna be tough.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"Tell me again, what is a cyber war?",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"Tell me again, what is a cyber war?",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Who would have ever guessed we would lead an army of hackers.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I asked for an army of warriors. How are these guys going to conquer the world?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Where should we stop for lunch?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,They all think their unique.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,They all think their unique.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,This turned into a litigious Kingdom. I can remember when pillaging and plundering were misdemeanors.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I've been planning this corporate hostile takeover for years,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"Well, I guess you can't be too picky when it comes to the draft.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I've been planning this corporate hostile takeover for years,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"Well, I guess you can't be too picky when it comes to the draft.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Did they say accounts payable or accounts slayable?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"I guess he was serious about the whole ""10,000 men"" thing.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"I guess he was serious about the whole ""10,000 men"" thing.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Maybe Attilla wont show up,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I told the recruiter we were hiring for a hostile takeover.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,How much do their bitcoins weigh?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,How much do their bitcoins weigh?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Just promise them big jobs and they will follow you anywhere.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Do you think they'll be upset when they find we sold the rights to the Game of Thrones sequel?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"We came, we saw, we settled out of court.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"They march well, but shout poorly.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,I said WARRIORS but the king heard LARRIORS!,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Do you think they'll be upset when they find we sold the rights to the Game of Thrones sequel?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"We came, we saw, we settled out of court.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"They march well, but shout poorly.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,I said WARRIORS but the king heard LARRIORS!,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"If the siege engines don't convince them to surrender, the lawyers will.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"Wait until they find out that there are no bonuses in the ""standard"" we bear.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"Wait until they find out that there are no bonuses in the ""standard"" we bear.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,We are here just to get their attention. The boys will do the dirty work...,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I think we are ready for the audit.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"That ""terms and conditions"" document doesn't stand a chance!",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Mueller's subpoenas won't get to where these blabbermouths are going.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I think we are ready for the audit.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"That ""terms and conditions"" document doesn't stand a chance!",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Mueller's subpoenas won't get to where these blabbermouths are going.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Conquering the world on horseback is easy; it is dismounting and governing that is hard.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I have my doubts about this nation-building mission.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Spare no one an audit.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Spare no one an audit.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"When I told you to get me an army of vanquishers, I meant soldiers, not lawyers.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"Okay, men, let us go rape, pillage, and LITIGATE!",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Things never change.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,We will bore our enemies to their death.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"Eat shit, you monster.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,To the victor go the spoiled.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,We will bore our enemies to their death.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"Eat shit, you monster.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,To the victor go the spoiled.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"Remember, we want a 15-percent raise plus overtime pay.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Are you sure our orders were to organize a Deduction of the enemy's works?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Are you sure our orders were to organize a Deduction of the enemy's works?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I miss the days before the lawyers turned our battles into legal battles...,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"I guess you were right, we can conquer the world with an army of lawyers.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I need all my lawyers. Have you ever negotiated a treaty with Atilla?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
@@ -2791,90 +2791,90 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2476,You asked for an army of diplomats and you got an army of diplomats!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I thought this was the intersectionality march.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Attack them? We're gonna sue them.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"We'll come in tough, and then sue'm for all they got.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"We'll come in tough, and then sue'm for all they got.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"Exactly who is going to tell all of them that around here, MBA means ""Major Battle Activity""?",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,The Corpathian Horde marches onward.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
-2476,Remember to hold your calculators until you see the whites of their eyes!,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Remember to hold your calculators until you see the whites of their eyes!,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"If nothing else, we have them outnumbered",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I forgot we're are we going?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I forgot we're are we going?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"The first thing we do, let's take all the lawyers as prisoners. Then we sue the Golden Horde for punitive damages!",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"When he sees these sorry looking warriors, Beowulf is going to rip our arms out.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,I believe they are marching in Steppes.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"When he sees these sorry looking warriors, Beowulf is going to rip our arms out.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,I believe they are marching in Steppes.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"There's the cliff!..... you go left, I go right, and goodbye suits.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,We're storming them with class action litigation.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,The strategy is to shock and awe the enemy with bad lawyer jokes.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
-2476,No more mister nice guy. Here come the lawyers,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Audit is coming.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,No more mister nice guy. Here come the lawyers,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Audit is coming.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Well at least it's a step up from 'cooking the books',1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
-2476,One day the Litigious Legions of Trump will be legendary.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"Work harder, for lower pay - and you will get to heaven.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,How the beasts groan! The herds of cattle wander aimlessly Because there is no pasture for them,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"After the ""lawyering up"" I guess we go back to parking cars at mar-a-lago.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,One day the Litigious Legions of Trump will be legendary.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"Work harder, for lower pay - and you will get to heaven.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,How the beasts groan! The herds of cattle wander aimlessly Because there is no pasture for them,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"After the ""lawyering up"" I guess we go back to parking cars at mar-a-lago.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Onward Christian accountants,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
-2476,He told us to round up people who worked on Wall.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,He told us to round up people who worked on Wall.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Are you sure we're supposed to handle white collar crimes?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Rush hour started getting worse around 1206.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"Worse than this, PwC won't let them use cellphones backstage anymore.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Are they suppose to cheer when we take their hostages?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Are they suppose to cheer when we take their hostages?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I remember when you could go into battle without an army of lawyers.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,"The emperor is furious, he is sending in the lawyers.",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,"So while the front line goes to mediation, I say we go find a beer.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"We came, we saw, we negotiated our surrender.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,do we count every grain of sand?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I miss the good old days of takeovers. The looting and pillaging. I hate these corporate lawyers.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I miss the good old days of takeovers. The looting and pillaging. I hate these corporate lawyers.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Remember when we used to just lead sheep to the slaughter.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"Whose idea was it to ""lawyer up"", anyway?",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I hate these legal battles!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"My ex got my castle with just one, we have enough to take a whole country.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Too bad we didn't retire a little sooner.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Too bad we didn't retire a little sooner.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Why pillage and plunder when you can bill 'em by the hour?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I think we have captured more than the Top 1 Percent...,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Could you stop whistling that tune already?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Make sure you get them into the new uniforms before we present them to Emperor Trump.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Make sure you get them into the new uniforms before we present them to Emperor Trump.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,What is this 'Tinder' thing you told them about?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I still can't believe we lost all our armour to lawsuits.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,This is our third crossing.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,These battles are getting too litigious to be any fun.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
-2476,I love crucifying lawyers.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Do you like your case rare?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"If they'd let Cuomo strengthen his authority over the MTA, we might not be in this mess.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"""History is written by the victors,"" right? So let's leave a few details out.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,We'll need to massage some details when we write this up in Exodus.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I love crucifying lawyers.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Do you like your case rare?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"If they'd let Cuomo strengthen his authority over the MTA, we might not be in this mess.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"""History is written by the victors,"" right? So let's leave a few details out.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,We'll need to massage some details when we write this up in Exodus.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Because nothing beats an army of lawyers.,1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
 2476,Make way for the IRS,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"The passing the bar faster than we can march them into the yearly ""negotiation"" with the Huns.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"The passing the bar faster than we can march them into the yearly ""negotiation"" with the Huns.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,Raiding was a lot more fun before the government got involved.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Now we are ready to pass the health care bill.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Couldn't his highness have just used H&R Block?,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,I miss the good old days when you could just pillage and plunder without all the suits.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,the protection of the disenfranchised top 1%,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Couldn't his highness have just used H&R Block?,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,I miss the good old days when you could just pillage and plunder without all the suits.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,the protection of the disenfranchised top 1%,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"We will march the lawyers until the filing, and then they bill.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,I felt it's time to lawyer up.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,I felt it's time to lawyer up.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,This siege is gonna be a doozy for the king to have us THIS lawyered up!,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I miss the days when just the sight of us made men weep. Now it takes an army of lawyers.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,When I told them to suit up this is not what I had in mind,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"""An army",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,At least we filled the positions,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,When I told them to suit up this is not what I had in mind,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"""An army",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,At least we filled the positions,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"First, we take his tax forms. Then we release the troops.",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,Apparently they're savage in battle.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,"If we can't get them out, we'll overregulate them out.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"If we can't get them out, we'll overregulate them out.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,I wonder why they call 'em lemmings?,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I think the Pope is overdoing it with this Inquisition audit,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,I like our odds. No fortress can withstand an army of lawyers.,1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Never fear men: the briefcase is mightier than the sword.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Never fear men: the briefcase is mightier than the sword.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"Sure we captured a ton of them, but what can the Zombies do?",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
 2476,"I didn't really understand the power of the ""lawyer-up"" marching formation. I feel quite safe, even in a hostile kingdom...",1.1041666666666667,0.04455834621587845,48.0,43.0,5.0,0.0,575
-2476,Game of Drones,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"I said more torture, not torts",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,Game of Drones,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"I said more torture, not torts",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2476,"They think we're bad, wait 'til they meet our lawyers.",1.1041666666666667,0.06130657275434796,48.0,45.0,1.0,2.0,575
-2476,"They say, ""The affidavit is mightier than the sword.""",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,"At my signal, unleash hell.",1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Not Found The requested URL /wp-content/uploads/2017/07/170703_contest-690.jpg was not found on this server.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Like lambs to the slaughter.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,I hope we brought enough lawyers.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,It's the litagaters who are fiercest at man-to-man battle.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,Annexing territory isn't fun anymore with Mergers and Acquisitions tagging along!,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
-2476,They call themselves mid-century modern crusaders.,1.1041666666666667,0.05359077383458018,48.0,44.0,3.0,1.0,575
+2476,"They say, ""The affidavit is mightier than the sword.""",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,"At my signal, unleash hell.",1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Not Found The requested URL /wp-content/uploads/2017/07/170703_contest-690.jpg was not found on this server.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Like lambs to the slaughter.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,I hope we brought enough lawyers.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,It's the litagaters who are fiercest at man-to-man battle.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,Annexing territory isn't fun anymore with Mergers and Acquisitions tagging along!,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
+2476,They call themselves mid-century modern crusaders.,1.1041666666666667,0.053590773834580184,48.0,44.0,3.0,1.0,575
 2877,"I asked for an army of men in suits of armor, but Galahad didn't hear the last part.",1.1020408163265305,0.04369126727437127,49.0,44.0,5.0,0.0,575
 2877,What do you think he meant when he said his tax lawyers would be all over us?,1.1020408163265305,0.04369126727437127,49.0,44.0,5.0,0.0,575
 2877,Do you think they'll be able to hash out our end of war terms?,1.1020408163265305,0.06008000589338677,49.0,46.0,1.0,2.0,575

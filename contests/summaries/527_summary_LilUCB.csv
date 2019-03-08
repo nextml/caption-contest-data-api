@@ -14,7 +14,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 69,23,Keep me from your leader.,1.6377952755905512,0.06861539847737756,35,13,127,527
 71,28,"If you enjoyed your anal probe as much as we did, please ""Like"" us on Facebook.",1.6355932203389831,0.07769052950152211,19,14,118,527
 69,24,I had a great time tonight. Can I call you?,1.6341463414634143,0.07141707684331744,30,15,123,527
-66,22,I'm sure we can settle this without involving the insurance companies.,1.6302521008403361,0.07147254358370729,31,16,119,527
+66,22,I'm sure we can settle this without involving the insurance companies.,1.630252100840336,0.07147254358370729,31,16,119,527
 67,23,"Wow, small universe! My name is also John.",1.6206896551724137,0.07413182918301663,26,17,116,527
 70,24,You've been served.,1.6198347107438016,0.07259096919136375,27,18,121,527
 69,25,"Just remember, what happens on Vega stays on Vega.",1.6106194690265487,0.07793319077779283,19,19,113,527
@@ -179,7 +179,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 53,9,We have to prove our gender in order to use your restrooms?,1.45,0.07733700704208724,18,174,80,527
 50,6,May I use your restroom?,1.45,0.07093409314018369,24,174,80,527
 54,10,Eee I eee I oh.,1.45,0.07935658986139954,16,174,80,527
-44,8,That was fast. Uber said you were two light years away.,1.4461538461538461,0.08779009392702561,13,181,65,527
+44,8,That was fast. Uber said you were two light years away.,1.446153846153846,0.08779009392702561,13,181,65,527
 58,13,Thanks so much. Our regular sitter cancelled and we have Hamilton tickets.,1.4444444444444444,0.08425417160057279,10,182,81,527
 54,9,So we’re agreed: That’s a ‘yes’ to the cup of sugar but ‘no’ to the probing.,1.4444444444444444,0.07657804862272345,18,182,81,527
 55,10,"The crop circles? Oh, we were just messing with you.",1.4444444444444444,0.07856742013183861,16,182,81,527
@@ -203,12 +203,12 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 55,10,Ignore the kids. We don't like them playing with their food.,1.4375,0.0792443545088165,15,198,80,527
 54,9,So this is your first time riding with Uber?,1.4375,0.07722183645392315,17,198,80,527
 54,9,We too love bacon.,1.4375,0.07722183645392315,17,198,80,527
-59,15,Looks like you got the memo on the one-piece suit. Just kidding. Come on in.,1.435897435897436,0.0904897386656488,4,205,78,527
-52,8,"Remember, tell them you got the seeds from Monsanto.",1.435897435897436,0.07653359048662939,18,205,78,527
-56,12,I was the closest Uber driver tonight.,1.435897435897436,0.0847902813108697,10,205,78,527
-53,9,"I'm so happy to eat you. I mean, happy to meet you.",1.435897435897436,0.07867903663476962,16,205,78,527
-52,8,What does EIEIO stand for?,1.435897435897436,0.07653359048662939,18,205,78,527
-51,7,Ahhh! Nothing beats farm fresh to table.,1.435897435897436,0.07432624125956294,20,205,78,527
+59,15,Looks like you got the memo on the one-piece suit. Just kidding. Come on in.,1.4358974358974361,0.0904897386656488,4,205,78,527
+52,8,"Remember, tell them you got the seeds from Monsanto.",1.4358974358974361,0.07653359048662939,18,205,78,527
+56,12,I was the closest Uber driver tonight.,1.4358974358974361,0.0847902813108697,10,205,78,527
+53,9,"I'm so happy to eat you. I mean, happy to meet you.",1.4358974358974361,0.07867903663476962,16,205,78,527
+52,8,What does EIEIO stand for?,1.4358974358974361,0.07653359048662939,18,205,78,527
+51,7,Ahhh! Nothing beats farm fresh to table.,1.4358974358974361,0.07432624125956294,20,205,78,527
 50,7,"Greetings, I am Bort and I will be your Uber driver tonight.",1.4342105263157894,0.07570841181516923,19,211,76,527
 55,12,"Good evening, kind sir. I was wondering if I could share the word of Glork with you?",1.4342105263157894,0.08652253801459789,9,211,76,527
 54,11,"You had me at ""ZXQRPBYMWK"".",1.4342105263157894,0.08447054156038708,11,211,76,527
@@ -320,8 +320,8 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 50,7,Most people just threatened to move to Canada,1.3943661971830985,0.07892352521758818,14,312,71,527
 49,6,Why does the cheese stand alone?,1.3943661971830985,0.07633156847497467,16,312,71,527
 48,5,"That's okay, you won't remember me this time either.",1.3943661971830985,0.07364844776998508,18,312,71,527
-51,6,Wipe your feet.,1.3918918918918919,0.0740672407503884,17,322,74,527
-51,6,Let me be the first to welcome you to your abduction.,1.3918918918918919,0.0740672407503884,17,322,74,527
+51,6,Wipe your feet.,1.391891891891892,0.0740672407503884,17,322,74,527
+51,6,Let me be the first to welcome you to your abduction.,1.391891891891892,0.0740672407503884,17,322,74,527
 50,8,"Do we serve humans? Why yes, c'mon in!",1.391304347826087,0.08314315376023791,11,324,69,527
 53,9,The citizens of Ee-i-ee-i-oh are grateful for your patronage.,1.3888888888888888,0.08287563404364384,10,325,72,527
 49,5,Did you know you can bring one item for the overhead bin?,1.3888888888888888,0.07282462146292913,18,325,72,527
@@ -815,7 +815,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 45,4,Don't be scared. We are just trying to understand how Trump won the nomination.,1.305084745762712,0.07741527782975759,10,801,59,527
 46,5,We heard about your presidential candidates; welcome aboard.,1.305084745762712,0.08110227356494051,8,801,59,527
 42,3,We saw that Matt Damon movie and realized having a farmer aboard couldn't hurt.,1.3035714285714286,0.07610503190500345,11,816,56,527
-40,3,"As a frequent flier, today's flight earns you 3.14 billion miles.",1.3018867924528301,0.07893019118245996,10,817,53,527
+40,3,"As a frequent flier, today's flight earns you 3.14 billion miles.",1.30188679245283,0.07893019118245996,10,817,53,527
 50,6,You're the first specimen to avoid the fatal selfie.,1.3015873015873016,0.08043316115047185,7,818,63,527
 48,4,Was that E-I-E-I-O ?,1.3015873015873016,0.07379314244876146,11,818,63,527
 49,5,Welcome aboard. I wanted to be the first to reach out to voters for the 2056 Iowa Caucuses. Have you decided who you are caucusing for?,1.3015873015873016,0.07718458811550716,9,818,63,527
@@ -1117,7 +1117,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 43,2,You're our first foray into farm to table!,1.2678571428571428,0.06974476393590386,11,1080,56,527
 45,4,"Hey, sorry about the fence,, and the cows. Listen, we're here to take back Donald Trump.",1.2678571428571428,0.07850498961961752,7,1080,56,527
 43,2,I thought small farmers didn't exist.,1.2678571428571428,0.06974476393590386,11,1080,56,527
-39,0,"If we could just keep this between the two of us, that would be great!",1.2641509433962264,0.061139063192526995,14,1119,53,527
+39,0,"If we could just keep this between the two of us, that would be great!",1.2641509433962264,0.061139063192527,14,1119,53,527
 40,1,Think of us as an emerging market with no government regulations.,1.2641509433962264,0.06681073606086448,12,1119,53,527
 42,3,We heard you need intelligent life this election cycle.,1.2641509433962264,0.07690938345133104,8,1119,53,527
 45,3,"Hi, I'm here to pick up the Stair Climber you advertised on Craig's List.",1.263157894736842,0.07309106050835933,9,1122,57,527
@@ -2242,17 +2242,17 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 39,1,Guess we need to build a sky fence now to keep the illegal extra-terrestrials out as well!,1.173913043478261,0.06448868249648403,6,2222,46,527
 40,1,Our cable is shot. Can I just watch the second half with you?,1.1702127659574468,0.0632100658866106,6,2242,47,527
 40,1,Illegal is an alien term.,1.1702127659574468,0.0632100658866106,6,2242,47,527
-39,0,Organic life form?,1.1702127659574468,0.055411578656325414,8,2242,47,527
+39,0,Organic life form?,1.1702127659574468,0.05541157865632541,8,2242,47,527
 41,2,"Our economy out there is not doing great right now, so I thought, why not make a fews extra buck with Uber, you know",1.1702127659574468,0.07014685887189226,4,2242,47,527
 40,1,Come in. I'd love to probe you about the neighborhood.,1.1702127659574468,0.0632100658866106,6,2242,47,527
 42,3,welcome to starbucks!,1.1702127659574468,0.07645685835683208,2,2242,47,527
 40,1,"Welcome, we have great gun control.",1.1702127659574468,0.0632100658866106,6,2242,47,527
-39,0,Step right this way to find your missing cattle.,1.1702127659574468,0.055411578656325414,8,2242,47,527
+39,0,Step right this way to find your missing cattle.,1.1702127659574468,0.05541157865632541,8,2242,47,527
 40,1,Where's the pizza?,1.1702127659574468,0.0632100658866106,6,2242,47,527
 40,1,"Sorry about the crops, but it'll be nice to finally get some recognition for my work!",1.1702127659574468,0.0632100658866106,6,2242,47,527
-39,0,"Hi, I'm your new GMO seed distributor",1.1702127659574468,0.055411578656325414,8,2242,47,527
+39,0,"Hi, I'm your new GMO seed distributor",1.1702127659574468,0.05541157865632541,8,2242,47,527
 40,1,It's been fun! Give me a ring anytime if you need more crop circles!,1.1702127659574468,0.0632100658866106,6,2242,47,527
-39,0,"You brought the organic kale seeds, right?",1.1702127659574468,0.055411578656325414,8,2242,47,527
+39,0,"You brought the organic kale seeds, right?",1.1702127659574468,0.05541157865632541,8,2242,47,527
 41,2,I'm locally sourced from a nearby farm,1.1702127659574468,0.07014685887189226,4,2242,47,527
 40,1,Thank God you showed up. Donald Trump just won and Canada was full.,1.1702127659574468,0.0632100658866106,6,2242,47,527
 40,1,We like to support local farmers. And by local I mean within the same galaxy.,1.1702127659574468,0.0632100658866106,6,2242,47,527
@@ -2283,9 +2283,9 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 41,2,Thank you! I am the result of your genetically altered seeds!,1.1702127659574468,0.07014685887189226,4,2242,47,527
 40,1,"In case my candidate loses, what's the quickest way to become a citizen?",1.1702127659574468,0.0632100658866106,6,2242,47,527
 40,1,"Your tomatos are out of this world, man!",1.1702127659574468,0.0632100658866106,6,2242,47,527
-39,0,"Yessir, it was a long trip. But we heard that your organic tomatoes are worth every light-year!",1.1702127659574468,0.055411578656325414,8,2242,47,527
+39,0,"Yessir, it was a long trip. But we heard that your organic tomatoes are worth every light-year!",1.1702127659574468,0.05541157865632541,8,2242,47,527
 40,1,Crop circles? So last decade. We're into textile art now.,1.1702127659574468,0.0632100658866106,6,2242,47,527
-39,0,Are you the ones who have been doing the crop circles.,1.1702127659574468,0.055411578656325414,8,2242,47,527
+39,0,Are you the ones who have been doing the crop circles.,1.1702127659574468,0.05541157865632541,8,2242,47,527
 40,1,""" Can you take me to your planet,Trump is going to be our president"".",1.1702127659574468,0.0632100658866106,6,2242,47,527
 40,1,"I think you picked the right night, it's Country Music Karaoke night.",1.1702127659574468,0.0632100658866106,6,2242,47,527
 40,1,We saw your crop circle messages.,1.1702127659574468,0.0632100658866106,6,2242,47,527
@@ -2298,7 +2298,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 41,2,We’re hoping you can settle an argument about crop rotation.,1.1702127659574468,0.07014685887189226,4,2242,47,527
 41,2,"Thanks, my former GMO supplier turned into a turnip.",1.1702127659574468,0.07014685887189226,4,2242,47,527
 41,2,I'm sorry I can't take you with me as I'm all full of Republicans.,1.1702127659574468,0.07014685887189226,4,2242,47,527
-39,0,All our abductees are 100% organic farmer.,1.1702127659574468,0.055411578656325414,8,2242,47,527
+39,0,All our abductees are 100% organic farmer.,1.1702127659574468,0.05541157865632541,8,2242,47,527
 40,1,"Yes, of course, we are afraid of your elections too.",1.1702127659574468,0.0632100658866106,6,2242,47,527
 40,1,We've heard good things about potatoes.,1.1702127659574468,0.0632100658866106,6,2242,47,527
 41,2,We heard you grew the best organic kale in the universe,1.1702127659574468,0.07014685887189226,4,2242,47,527
@@ -2309,12 +2309,12 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 40,1,Election isn't until November. Get me out of here now!,1.1702127659574468,0.0632100658866106,6,2242,47,527
 40,1,"Welcome to the neighborhood! For a small fee I can provide you with organic non GMO veggies, right from the earth!",1.1702127659574468,0.0632100658866106,6,2242,47,527
 40,1,"If you're certified organic, welcome aboard!",1.1702127659574468,0.0632100658866106,6,2242,47,527
-39,0,I hope you don't mind if I ask you to take your boots off in our mudroom.,1.1702127659574468,0.055411578656325414,8,2242,47,527
-39,0,Greetings. Do you know where we might find a Shaker table?,1.1702127659574468,0.055411578656325414,8,2242,47,527
+39,0,I hope you don't mind if I ask you to take your boots off in our mudroom.,1.1702127659574468,0.05541157865632541,8,2242,47,527
+39,0,Greetings. Do you know where we might find a Shaker table?,1.1702127659574468,0.05541157865632541,8,2242,47,527
 41,2,Wazzuuuuup,1.1702127659574468,0.07014685887189226,4,2242,47,527
 41,2,"Please come in, they'll never believe me.",1.1702127659574468,0.07014685887189226,4,2242,47,527
 41,2,Thanks. We couldn't find a parking space in space.,1.1702127659574468,0.07014685887189226,4,2242,47,527
-39,0,Can I interest you in crop circle insurance?,1.1702127659574468,0.055411578656325414,8,2242,47,527
+39,0,Can I interest you in crop circle insurance?,1.1702127659574468,0.05541157865632541,8,2242,47,527
 40,1,"Don't ask, don't tell, O.K.?",1.1702127659574468,0.0632100658866106,6,2242,47,527
 41,2,"So good to see you again, Cousin Roswell",1.1702127659574468,0.07014685887189226,4,2242,47,527
 41,2,"Got it, a Celtic trinity knot in the north field and a tree life symbol in the south field.",1.1702127659574468,0.07014685887189226,4,2242,47,527
@@ -2322,16 +2322,16 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 40,1,Howdy friend. We have warm nuts and a hot towel waiting for you.,1.1702127659574468,0.0632100658866106,6,2242,47,527
 41,2,I'll show you mine if you show me yours first.,1.1702127659574468,0.07014685887189226,4,2242,47,527
 40,1,How's everything been in Roswell?,1.1702127659574468,0.0632100658866106,6,2242,47,527
-39,0,"Sorry, no shoes. Is that strange?",1.1702127659574468,0.055411578656325414,8,2242,47,527
+39,0,"Sorry, no shoes. Is that strange?",1.1702127659574468,0.05541157865632541,8,2242,47,527
 41,2,"Welcome. You grow genetically modified crops? Great, the others are inside.",1.1702127659574468,0.07014685887189226,4,2242,47,527
 41,2,Welcome to Uber x 5000,1.1702127659574468,0.07014685887189226,4,2242,47,527
-39,0,Is this your first time using Uber Space?,1.1702127659574468,0.055411578656325414,8,2242,47,527
+39,0,Is this your first time using Uber Space?,1.1702127659574468,0.05541157865632541,8,2242,47,527
 41,2,"UFO good, GMO bad!",1.1702127659574468,0.07014685887189226,4,2242,47,527
 41,2,"Congratulations! They said, ""If you build it they will come."" And we did!",1.1702127659574468,0.07014685887189226,4,2242,47,527
 40,1,You've won the trip of your life!,1.1702127659574468,0.0632100658866106,6,2242,47,527
 41,2,Come on in! We were just about to make more crop circles!,1.1702127659574468,0.07014685887189226,4,2242,47,527
 42,3,We're here to rescue you from the Nightly News,1.1702127659574468,0.07645685835683208,2,2242,47,527
-39,0,Congratulations farmer! You're the next bachelor.,1.1702127659574468,0.055411578656325414,8,2242,47,527
+39,0,Congratulations farmer! You're the next bachelor.,1.1702127659574468,0.05541157865632541,8,2242,47,527
 40,1,Nice designs. Very post-modern.,1.1702127659574468,0.0632100658866106,6,2242,47,527
 40,1,Boy are we glad to see you ! We've been craving sweet corn ever since our last trip here.,1.1702127659574468,0.0632100658866106,6,2242,47,527
 42,3,Thank you for swiping right.,1.1702127659574468,0.07645685835683208,2,2242,47,527
@@ -2884,7 +2884,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 43,1,"No, I'm with the Federation Government, not the Federal Government.",1.1428571428571428,0.05832118435198042,5,2880,49,527
 43,1,"I tried at the next place over, but they were out.",1.1428571428571428,0.05832118435198042,5,2880,49,527
 43,1,I heard you were part of the farm-to-flying saucers movement. Can you help a guy out?,1.1428571428571428,0.05832118435198042,5,2880,49,527
-42,0,Don't worry. We're seasonal workers and we will NEVER claim permanent immigration status.,1.1428571428571428,0.050507627227610534,7,2880,49,527
+42,0,Don't worry. We're seasonal workers and we will NEVER claim permanent immigration status.,1.1428571428571428,0.05050762722761053,7,2880,49,527
 37,1,"Hi, I suppose you're here about those unsightly crop circles...",1.1428571428571428,0.0644049739048166,4,2880,42,527
 39,2,Step right in sweet thing!,1.1395348837209305,0.07122869869716944,2,2888,43,527
 39,2,Hi Farmer Brown we need you to help us develop a new species.,1.1395348837209305,0.07122869869716944,2,2888,43,527
@@ -3192,7 +3192,7 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 37,1,"This will hurt, but you won't remember a thing.",1.1219512195121952,0.06242187264424257,3,3191,41,527
 36,0,We'll keep your CV on file in case we need to test any more humans.,1.1219512195121952,0.051739520574625435,5,3191,41,527
 36,0,"We're not here to takeover over earth, just to take part in your presidential election.",1.1219512195121952,0.051739520574625435,5,3191,41,527
-44,0,Thank you! I'd love to make some circles in the wheat fields.,1.12,0.046423076597919784,6,3194,50,527
+44,0,Thank you! I'd love to make some circles in the wheat fields.,1.12,0.04642307659791978,6,3194,50,527
 38,1,"I'll give you a 9.5 on the landing, however you must understand there is a landing tax to pay for the new alien wall..",1.119047619047619,0.060986670088086975,3,3195,42,527
 37,0,Welcome aboard. We wish to know how you get your government farm subsidies!,1.119047619047619,0.05057601944205112,5,3195,42,527
 39,2,We're part of the whole spaceship-to-farm movement.,1.119047619047619,0.06986282354917807,1,3195,42,527
@@ -4301,15 +4301,15 @@ unfunny,funny,caption,score,precision,somewhat_funny,rank,count,contest
 38,0,"Hurry, before the yuuuge wall gets any taller.",1.05,0.03489912202260563,2,4199,40,527
 38,0,Come in. I have a cellphone. You can call home.,1.05,0.03489912202260563,2,4199,40,527
 38,0,My kids were asking are there any crop fields round here?,1.05,0.03489912202260563,2,4199,40,527
-39,0,"Don't worry! I promise, you'll fit right in, Flarbnorf.",1.048780487804878,0.03405912205797305,2,4303,41,527
-39,0,Yes it is the election year and they are the only candidates .,1.048780487804878,0.03405912205797305,2,4303,41,527
-39,0,This is some barn you got here mistuh!,1.048780487804878,0.03405912205797305,2,4303,41,527
-39,0,Hello. Sorry we had to emergency land here. If we can we use your Electric Vehicle Power Station to recharge we'll be on our way lickety-split.,1.048780487804878,0.03405912205797305,2,4303,41,527
-39,0,"This for June 20, 2016 contest. Sorry I am a little late. Size doesn't matter here.",1.048780487804878,0.03405912205797305,2,4303,41,527
-39,0,Sorry...Klaatu got deported.,1.048780487804878,0.03405912205797305,2,4303,41,527
-39,0,Too cold for your liking? Give it time.,1.048780487804878,0.03405912205797305,2,4303,41,527
-39,0,The fitting room is on your right.,1.048780487804878,0.03405912205797305,2,4303,41,527
-39,0,Welcome aboard Mr. Ziffel! Did you bring Arnold?,1.048780487804878,0.03405912205797305,2,4303,41,527
+39,0,"Don't worry! I promise, you'll fit right in, Flarbnorf.",1.0487804878048779,0.03405912205797305,2,4303,41,527
+39,0,Yes it is the election year and they are the only candidates .,1.0487804878048779,0.03405912205797305,2,4303,41,527
+39,0,This is some barn you got here mistuh!,1.0487804878048779,0.03405912205797305,2,4303,41,527
+39,0,Hello. Sorry we had to emergency land here. If we can we use your Electric Vehicle Power Station to recharge we'll be on our way lickety-split.,1.0487804878048779,0.03405912205797305,2,4303,41,527
+39,0,"This for June 20, 2016 contest. Sorry I am a little late. Size doesn't matter here.",1.0487804878048779,0.03405912205797305,2,4303,41,527
+39,0,Sorry...Klaatu got deported.,1.0487804878048779,0.03405912205797305,2,4303,41,527
+39,0,Too cold for your liking? Give it time.,1.0487804878048779,0.03405912205797305,2,4303,41,527
+39,0,The fitting room is on your right.,1.0487804878048779,0.03405912205797305,2,4303,41,527
+39,0,Welcome aboard Mr. Ziffel! Did you bring Arnold?,1.0487804878048779,0.03405912205797305,2,4303,41,527
 34,0,"Delivery! Hay from Mars, for Mr. Farmer.",1.0285714285714285,0.028988551782622426,1,4312,35,527
 35,0,Hello. The name's Circle.,1.0277777777777777,0.02817180849095056,1,4313,36,527
 35,0,"Sorry, the party's been cancelled - something about global warming.",1.0277777777777777,0.02817180849095056,1,4313,36,527

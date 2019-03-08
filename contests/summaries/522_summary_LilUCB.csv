@@ -7,7 +7,7 @@ the mrs. requests you come upstairs and try creating life the old fashioned way,
 He has your mother's eyes.,192.0,286.0,454.0,932.0,1.7188841201716738,0.025683082766807988,6,522
 """Will you be requiring anything else before I run like hell, sir?""",158.0,252.0,399.0,809.0,1.7021013597033374,0.027244781643095455,7,522
 """You said you needed a hand, sir?""",122.0,269.0,345.0,736.0,1.6970108695652173,0.0271731273917778,8,522
-"""Alfred stop watching me like that ... Why don't you go feed """" The Birds"""".""",202.0,99.0,448.0,749.0,1.671562082777036,0.03187442564335773,9,522
+"""Alfred stop watching me like that ... Why don't you go feed """" The Birds"""".""",202.0,99.0,448.0,749.0,1.6715620827770359,0.03187442564335773,9,522
 """They have the spleen you ordered; unfortunately, they want an arm and a leg for it.""",98.0,197.0,302.0,597.0,1.6582914572864322,0.03046760911404755,10,522
 """Will the gentleman be alive for dinner, sir?""",91.0,165.0,280.0,536.0,1.6473880597014925,0.03257856065457944,11,522
 """Will you be needing any more of me, sir?""",70.0,137.0,234.0,441.0,1.6281179138321995,0.03538894657990628,12,522
@@ -26,7 +26,7 @@ May I borrow him for the carpool lane?,34.0,98.0,162.0,294.0,1.564625850340136,0
 """I regret to be the bearer of bad news, sir, but the Republicans have already created one.""",56.0,60.0,189.0,305.0,1.5639344262295083,0.044909466821449216,25,522
 """Shall I give you a hand, sir?""",33.0,86.0,151.0,270.0,1.5629629629629629,0.04270065728838501,26,522
 """And if I may, Sir, good luck at the Science Fair.""",37.0,96.0,169.0,302.0,1.5629139072847682,0.040391561602405035,27,522
-I`m sorry. We served the liver at lunch.,33.0,82.0,151.0,266.0,1.556390977443609,0.04321688866307193,28,522
+I`m sorry. We served the liver at lunch.,33.0,82.0,151.0,266.0,1.5563909774436093,0.04321688866307193,28,522
 """The Russian sports ministry on the phone, sir.""",30.0,86.0,147.0,263.0,1.5551330798479088,0.04258342622957284,29,522
 """I could shuffle my feet on the carpet, sir.""",35.0,76.0,153.0,264.0,1.5530303030303032,0.044136812106624485,30,522
 I regret to inform you that the electric bill has arrived.,29.0,83.0,147.0,259.0,1.5444015444015444,0.04277064879590218,31,522
@@ -54,9 +54,9 @@ If you won't be needing me any more this evening sir I think I'll be running for
 """Sir, the hardware store didn't know what I meant by """"neck"""" bolts.""",21.0,70.0,131.0,222.0,1.5045045045045045,0.044577904690032887,53,522
 Let's hope this makes him act more presidential.,34.0,44.0,144.0,222.0,1.5045045045045045,0.050171020449717295,53,522
 """Sir, it's the power company. Again.""",17.0,62.0,112.0,191.0,1.5026178010471205,0.04746209669564403,55,522
-I've prepared a guest room with all the creature comforts,21.0,64.0,126.0,211.0,1.5023696682464456,0.04624193712853258,56,522
+I've prepared a guest room with all the creature comforts,21.0,64.0,126.0,211.0,1.5023696682464456,0.046241937128532584,56,522
 """Sir, should I set an extra place for dinner?""",26.0,56.0,133.0,215.0,1.5023255813953489,0.047941507233598926,57,522
-"""Yes sir, good help is hard to make.""",17.0,77.0,127.0,221.0,1.502262443438914,0.042844382001284584,58,522
+"""Yes sir, good help is hard to make.""",17.0,77.0,127.0,221.0,1.502262443438914,0.04284438200128458,58,522
 """Sadly, sir, monster.com is already taken. Did you have a second choice?""",26.0,57.0,136.0,219.0,1.4977168949771689,0.04728586255187376,59,522
 """Sir, may I say, by using domestic parts you are making America Great Again""",25.0,56.0,132.0,213.0,1.4976525821596245,0.047817275716209584,60,522
 """Sir, I think this is taking pro-life too far.""",24.0,55.0,130.0,209.0,1.4928229665071768,0.048019104869861724,61,522
@@ -76,7 +76,7 @@ Should I grab you another cold one Sir?,23.0,53.0,129.0,205.0,1.4829268292682931
 Have you tried rebooting?,11.0,64.0,104.0,179.0,1.4804469273743015,0.04574739541206636,75,522
 """The electrical bill just arrived, sir. You might want to consider solar.""",25.0,48.0,131.0,204.0,1.4803921568627452,0.04936610850055559,76,522
 """Sir, will he make America great again?""",27.0,41.0,130.0,198.0,1.47979797979798,0.05149141918100785,77,522
-"""Sir, your mother suggests that you """"make a friend"""" in a less literal manner.""",21.0,52.0,123.0,196.0,1.4795918367346939,0.0487731126621852,78,522
+"""Sir, your mother suggests that you """"make a friend"""" in a less literal manner.""",21.0,52.0,123.0,196.0,1.479591836734694,0.0487731126621852,78,522
 """The cook was wondering if she can use the microwave now, sir?""",19.0,53.0,118.0,190.0,1.4789473684210526,0.048770968178375236,79,522
 I'll brew some coffee. He's going to be a real monster when he wakes up.,17.0,57.0,116.0,190.0,1.4789473684210526,0.04761531005865965,79,522
 Are you sure Obamacare covers this?,17.0,56.0,115.0,188.0,1.4787234042553192,0.04797494724457002,81,522
@@ -96,10 +96,10 @@ do you need a hand?,14.0,46.0,98.0,158.0,1.4683544303797469,0.052103140472658176
 """Anything for the recycling bin, sir?""",17.0,50.0,113.0,180.0,1.4666666666666666,0.04945387658589629,95,522
 """Shall I reanimate the leftovers, sir?""",17.0,50.0,113.0,180.0,1.4666666666666666,0.04945387658589629,95,522
 """God's on the phone, and he sounds huffy.""",16.0,43.0,102.0,161.0,1.4658385093167705,0.0528908520285795,97,522
-The cook would like to know what happened to the liver.,17.0,37.0,99.0,153.0,1.4640522875816993,0.055661688621748,98,522
+The cook would like to know what happened to the liver.,17.0,37.0,99.0,153.0,1.4640522875816993,0.055661688621747994,98,522
 Your efforts to produce a Third Party candidate are admirable.,21.0,35.0,110.0,166.0,1.4638554216867468,0.055141999482950815,99,522
 """AC or DC, sir?""",14.0,46.0,100.0,160.0,1.4625,0.051615033035154835,100,522
-"""Sir, I don’t think this is what your therapist meant by “revive an old friendship”.""",16.0,46.0,107.0,169.0,1.4615384615384617,0.05105260023723938,101,522
+"""Sir, I don’t think this is what your therapist meant by “revive an old friendship”.""",16.0,46.0,107.0,169.0,1.4615384615384617,0.051052600237239384,101,522
 """Need a hand, sir?""",17.0,44.0,108.0,169.0,1.4615384615384617,0.05173790070265764,101,522
 """If there will be nothing further this evening, sir, I’d like to run for my #@!$#%* life.""",25.0,39.0,129.0,193.0,1.4611398963730569,0.051415244266811766,103,522
 """Sir, Blue Cross has denied coverage for the operation.""",12.0,51.0,100.0,163.0,1.460122699386503,0.04941941093494713,104,522
@@ -111,7 +111,7 @@ Your efforts to produce a Third Party candidate are admirable.,21.0,35.0,110.0,1
 Good new Sir! Obamacare handles the procedure!,19.0,38.0,110.0,167.0,1.4550898203592817,0.05352220493730691,110,522
 """Sir, the insurance company is on the line, they require prior authorization.""",14.0,48.0,105.0,167.0,1.4550898203592817,0.05003900565446397,110,522
 """It's Trump again, Doctor. Now he wants longer fingers.""",19.0,36.0,108.0,163.0,1.4539877300613495,0.054490440059199285,112,522
-Will our guest be alive in time for dinner?,17.0,39.0,105.0,161.0,1.4534161490683233,0.05356130068995581,113,522
+Will our guest be alive in time for dinner?,17.0,39.0,105.0,161.0,1.4534161490683233,0.053561300689955814,113,522
 I believe the appropriate tweet should be -- it's alive.,16.0,53.0,119.0,188.0,1.452127659574468,0.04727442949822919,114,522
 """It's damned inflation, sir. An arm now costs an arm and a leg.""",16.0,41.0,105.0,162.0,1.4506172839506173,0.0525789682082622,115,522
 """Sir, Mr Trump is enquiring about the progress of his running mate.""",18.0,36.0,106.0,160.0,1.45,0.05451328382337234,116,522
@@ -138,15 +138,15 @@ That's nothing - my previous employer liked to run around in a bat costume.,13.0
 """Sir, I would advise against Dancing with the Stars. You realize he's got two left feet.""",13.0,39.0,97.0,149.0,1.4362416107382547,0.05329871912246044,136,522
 Should I set another plate for dinner?,18.0,29.0,102.0,149.0,1.4362416107382547,0.05739535754685176,136,522
 If this doesn’t work you can always do a Diet Coke and Mentos volcano for the science fair.,11.0,43.0,95.0,149.0,1.4362416107382547,0.051569021873218816,136,522
-"""Lunch is served, Sir: baby-back ribs, elbow macaroni, and lady fingers for dessert.""",11.0,46.0,99.0,156.0,1.435897435897436,0.04996234080501922,140,522
+"""Lunch is served, Sir: baby-back ribs, elbow macaroni, and lady fingers for dessert.""",11.0,46.0,99.0,156.0,1.4358974358974361,0.04996234080501922,140,522
 """Without brains, he could be a politician.""",18.0,35.0,110.0,163.0,1.4355828220858895,0.053674218636754006,141,522
 """He's got your eyes, sir.""",19.0,33.0,111.0,163.0,1.4355828220858895,0.05437519754727335,141,522
 """Do you know which bathroom it will prefer, sir?""",20.0,24.0,103.0,147.0,1.435374149659864,0.059560740437016736,143,522
-"""Will your guest be alive for dinner, Sir?""",18.0,34.0,109.0,161.0,1.434782608695652,0.054161170151196966,144,522
+"""Will your guest be alive for dinner, Sir?""",18.0,34.0,109.0,161.0,1.4347826086956519,0.054161170151196966,144,522
 You'll want to let it breath for at least 30 minutes.,11.0,44.0,97.0,152.0,1.4342105263157894,0.0508476875858864,145,522
 So what happened to your previous butler?,12.0,44.0,101.0,157.0,1.4331210191082802,0.05053517713340378,146,522
 """Excuse me, sir, someone is here to give you a hand.""",11.0,49.0,104.0,164.0,1.4329268292682926,0.04826101903684698,147,522
-Your Kickstarter is now fully funded.,13.0,38.0,97.0,148.0,1.4324324324324325,0.053522854136237585,148,522
+Your Kickstarter is now fully funded.,13.0,38.0,97.0,148.0,1.4324324324324325,0.05352285413623759,148,522
 AC or DC?,13.0,44.0,105.0,162.0,1.4320987654320991,0.05020969997996963,149,522
 His health insurance says they are not going to pay.,12.0,42.0,99.0,153.0,1.4313725490196083,0.05143679169557557,150,522
 """Sir, will you require any additional body parts before I retire for the evening?""",13.0,40.0,100.0,153.0,1.4313725490196083,0.05226607744933167,150,522
@@ -190,8 +190,8 @@ The accountant wishes to know if your creation is a business expense or merely a
 """Sir, Amazon says the brain is not returnable.""",13.0,32.0,95.0,140.0,1.4142857142857144,0.05551377733842006,189,522
 """Shall I set an extra place for dinner, or is that too optimistic?""",11.0,38.0,96.0,145.0,1.4137931034482758,0.05232726271305764,190,522
 The Republican National Committee is wondering when the candidate will be ready.,11.0,38.0,96.0,145.0,1.4137931034482758,0.05232726271305764,190,522
-"""I’m Jeeves, sir. You created me last Tuesday.""",10.0,35.0,88.0,133.0,1.413533834586466,0.05455741638390831,192,522
-"""Sir, the RNC keeps calling. They want to know if the new candidate will be ready by the convention.""",16.0,23.0,94.0,133.0,1.413533834586466,0.060498253543417424,192,522
+"""I’m Jeeves, sir. You created me last Tuesday.""",10.0,35.0,88.0,133.0,1.4135338345864659,0.05455741638390831,192,522
+"""Sir, the RNC keeps calling. They want to know if the new candidate will be ready by the convention.""",16.0,23.0,94.0,133.0,1.4135338345864659,0.060498253543417424,192,522
 """Don't you think you've taken this man cave thing just a bit too far, sir?""",6.0,19.0,50.0,75.0,1.413333333333333,0.07374984094246602,194,522
 I was wondering if you’d happened to see my right arm anywhere…,13.0,31.0,94.0,138.0,1.4130434782608696,0.05607895635791822,195,522
 """Sir, the villagers would like a word.""",9.0,34.0,83.0,126.0,1.4126984126984128,0.0555147242242464,196,522
@@ -211,9 +211,9 @@ Your mother has a question about the item in the freezer.,12.0,28.0,87.0,127.0,1
 """Sir, Mr. Trump is on the line and wants to know when his running mate will be ready.""",16.0,20.0,91.0,127.0,1.4094488188976375,0.06260033137609279,209,522
 """Rabble with torches to see you, Sir.""",9.0,38.0,90.0,137.0,1.4087591240875912,0.05237463771295485,211,522
 """Will you want tea after you tamper with God's domain, sir?""",14.0,28.0,95.0,137.0,1.4087591240875912,0.05726965785075154,211,522
-The insurance agent would like a word regarding pre-existing conditions.,10.0,38.0,94.0,142.0,1.4084507042253518,0.052081754939989185,213,522
-No Sir. The procedure is not approved under Obamacare.,6.0,39.0,80.0,125.0,1.408,0.05217340813219923,214,522
-So you can create man but an elevator is out of the question?,11.0,29.0,85.0,125.0,1.408,0.05802780201292838,214,522
+The insurance agent would like a word regarding pre-existing conditions.,10.0,38.0,94.0,142.0,1.4084507042253518,0.05208175493998919,213,522
+No Sir. The procedure is not approved under Obamacare.,6.0,39.0,80.0,125.0,1.4080000000000001,0.05217340813219923,214,522
+So you can create man but an elevator is out of the question?,11.0,29.0,85.0,125.0,1.4080000000000001,0.05802780201292838,214,522
 """Please let me know when you're done with those neck bolts, sir. They came from the vacuum cleaner.""",13.0,36.0,103.0,152.0,1.4078947368421053,0.052270897280421856,216,522
 """Shall I prepare the remains of the day, Sir?""",8.0,32.0,78.0,118.0,1.4067796610169492,0.05675733235050676,217,522
 """Nobody with brains wants to deliver one here, sir.""",10.0,32.0,86.0,128.0,1.40625,0.055942950235953436,218,522
@@ -258,7 +258,7 @@ The Republican Party wishes to know if your candidate will be ready in time for 
 Will I be setting another place for dinner sir?,13.0,22.0,87.0,122.0,1.3934426229508197,0.06110283159463487,257,522
 """Sir, are you sure you can claim him as a dependant""",7.0,34.0,81.0,122.0,1.3934426229508197,0.05404311285981743,257,522
 """He may well be obedient, sir... But he shall never be a gentleman's gentleman.""",12.0,27.0,91.0,130.0,1.3923076923076922,0.0572643639256427,259,522
-"""Sir, Have you thought about which bathroom it will use in North Carolina?""",18.0,22.0,108.0,148.0,1.3918918918918919,0.057235394132716576,260,522
+"""Sir, Have you thought about which bathroom it will use in North Carolina?""",18.0,22.0,108.0,148.0,1.391891891891892,0.057235394132716576,260,522
 Will you be offended if I have my appendix removed at the hospital?,8.0,31.0,81.0,120.0,1.3916666666666666,0.05588081721807449,261,522
 """Sir, the Anyone But Trump committee is here to meet the new candidate.""",10.0,25.0,80.0,115.0,1.391304347826087,0.060124016472733965,262,522
 We've set an extra place just in case things work out.,11.0,32.0,95.0,138.0,1.391304347826087,0.05387235149745557,262,522
@@ -281,7 +281,7 @@ Your experiment was just drafted in the third-round by the Packers.,10.0,27.0,84
 A reporter called asking what bathroom he'll use.,13.0,24.0,92.0,129.0,1.3875968992248062,0.05855792608425631,279,522
 """The meter reader would like a word, sir.""",9.0,28.0,82.0,119.0,1.3865546218487397,0.057371126794253886,281,522
 """Sir, the GOP are here to pick up their candidate.""",12.0,22.0,85.0,119.0,1.3865546218487397,0.060981437745711686,281,522
-"""Sir, Igor says you need a hand?""",8.0,30.0,81.0,119.0,1.3865546218487397,0.05611609694503981,281,522
+"""Sir, Igor says you need a hand?""",8.0,30.0,81.0,119.0,1.3865546218487397,0.056116096945039814,281,522
 """Will dinner be for one or two, sir?""",14.0,18.0,87.0,119.0,1.3865546218487397,0.06327397139526343,281,522
 """Master Viktor, cook would like to know what you did with the kidneys she bought for tonight's dinner.""",13.0,20.0,86.0,119.0,1.3865546218487397,0.06213827808067554,281,522
 """To balance the ticket, the convention now requests adding a brain and a heart.""",12.0,22.0,85.0,119.0,1.3865546218487397,0.060981437745711686,281,522
@@ -297,15 +297,15 @@ We should wake him up sir. The inauguration is in an hour,14.0,19.0,89.0,122.0,1
 """When you're finished, we could use a little life upstairs.""",10.0,25.0,82.0,117.0,1.3846153846153846,0.05927918759279128,296,522
 """Ancestry.com is on the line, sir.""",9.0,27.0,81.0,117.0,1.3846153846153846,0.05802292534277813,296,522
 Bad news: they already nominated a monster for President,11.0,23.0,83.0,117.0,1.3846153846153846,0.060509373637388376,296,522
-"""Sir, his ObamaCare doesn't cover this procedure.""",7.0,34.0,84.0,125.0,1.384,0.053017343480010574,299,522
-"""I'm Jeeves, sir. Igor has the night off.""",13.0,22.0,90.0,125.0,1.384,0.059875138898081215,299,522
-"""Sir, Mr. Trump would like to know when his Vice-President will be ready.""",13.0,22.0,90.0,125.0,1.384,0.059875138898081215,299,522
-Igor says he wants Wednesdays off; something to do with hump day.,8.0,32.0,85.0,125.0,1.384,0.05422057697721352,299,522
+"""Sir, his ObamaCare doesn't cover this procedure.""",7.0,34.0,84.0,125.0,1.3840000000000001,0.053017343480010574,299,522
+"""I'm Jeeves, sir. Igor has the night off.""",13.0,22.0,90.0,125.0,1.3840000000000001,0.059875138898081215,299,522
+"""Sir, Mr. Trump would like to know when his Vice-President will be ready.""",13.0,22.0,90.0,125.0,1.3840000000000001,0.059875138898081215,299,522
+Igor says he wants Wednesdays off; something to do with hump day.,8.0,32.0,85.0,125.0,1.3840000000000001,0.05422057697721352,299,522
 You did well putting together all the parts. But which bathroom will it use?,11.0,16.0,72.0,99.0,1.383838383838384,0.06841714049714112,303,522
 """Master, the Trump people now say they'll need the running mate by Wednesday.""",9.0,28.0,83.0,120.0,1.3833333333333333,0.05698215030031601,304,522
 """Young master, the orange hair has arrived.""",7.0,17.0,57.0,81.0,1.3827160493827158,0.07150908867938062,305,522
-The villagers would like a word.,12.0,20.0,83.0,115.0,1.382608695652174,0.062472094390386076,306,522
-"""It's the villagers, sir. They're pissed.""",12.0,20.0,83.0,115.0,1.382608695652174,0.062472094390386076,306,522
+The villagers would like a word.,12.0,20.0,83.0,115.0,1.3826086956521741,0.062472094390386076,306,522
+"""It's the villagers, sir. They're pissed.""",12.0,20.0,83.0,115.0,1.3826086956521741,0.062472094390386076,306,522
 """Doctor, his insurance company is on the phone. You can't proceed without a referral.""",10.0,27.0,86.0,123.0,1.3821138211382114,0.05716703128535314,308,522
 """I checked, Sir. Your IPhone charger is not compatible.""",10.0,25.0,83.0,118.0,1.38135593220339,0.0588649846291329,309,522
 """Will your guest be alive for dinner, Master Victor?""",9.0,27.0,82.0,118.0,1.38135593220339,0.057621366382131535,309,522
@@ -346,12 +346,12 @@ The Governor wants to know which bathroom you plan to make it use?,12.0,21.0,88.
 """Sir , don't you think it's time you got a life""",12.0,15.0,78.0,105.0,1.3714285714285714,0.06665358322690439,344,522
 """It's the footman, sir ... he's missing a foot.""",9.0,25.0,82.0,116.0,1.3706896551724137,0.058119161587183686,346,522
 What shall I serve for the first corpse?,10.0,23.0,83.0,116.0,1.3706896551724137,0.05939496595738083,346,522
-"""Shall I set another place for dinner, sir?""",10.0,24.0,85.0,119.0,1.3697478991596639,0.05830236913503538,348,522
-Excuse me sir; can I lend you a hand?,6.0,32.0,81.0,119.0,1.3697478991596639,0.05319254490592569,348,522
-The RNC wants to know if it can be ready to run in November.,11.0,22.0,86.0,119.0,1.3697478991596639,0.059511310690113166,348,522
-"""Congratulations, Sir. You've been awarded the Nobel Pieces Prize.""",8.0,28.0,83.0,119.0,1.3697478991596639,0.055805972262504513,348,522
-Shall I add another place setting?,14.0,16.0,89.0,119.0,1.3697478991596639,0.06299909253272566,348,522
-"""No, Sir. I don't know what is 8 feet tall, is afraid of fire and recently killed my predecessor.""",6.0,29.0,76.0,111.0,1.3693693693693694,0.055681214920225014,353,522
+"""Shall I set another place for dinner, sir?""",10.0,24.0,85.0,119.0,1.369747899159664,0.05830236913503538,348,522
+Excuse me sir; can I lend you a hand?,6.0,32.0,81.0,119.0,1.369747899159664,0.05319254490592569,348,522
+The RNC wants to know if it can be ready to run in November.,11.0,22.0,86.0,119.0,1.369747899159664,0.059511310690113166,348,522
+"""Congratulations, Sir. You've been awarded the Nobel Pieces Prize.""",8.0,28.0,83.0,119.0,1.369747899159664,0.055805972262504513,348,522
+Shall I add another place setting?,14.0,16.0,89.0,119.0,1.369747899159664,0.06299909253272566,348,522
+"""No, Sir. I don't know what is 8 feet tall, is afraid of fire and recently killed my predecessor.""",6.0,29.0,76.0,111.0,1.3693693693693694,0.05568121492022501,353,522
 """Will you be wanting any more body parts tonight, sir?""",8.0,25.0,78.0,111.0,1.3693693693693694,0.058549107786477976,353,522
 Do the pitchforks go above or to the left of the plate?,8.0,25.0,78.0,111.0,1.3693693693693694,0.058549107786477976,353,522
 """Mr. Trump has arrived, sir. Do we have an extra brain?""",11.0,16.0,76.0,103.0,1.3689320388349515,0.0661558930256188,356,522
@@ -407,7 +407,7 @@ The villagers want to know if he has an innie or an outie.,9.0,18.0,73.0,100.0,1
 """Sir, it's time to release the independent candidate.""",6.0,29.0,79.0,114.0,1.3596491228070176,0.05449403549126256,405,522
 """Since it's Wednesday, I'm covering for Igor on his hump day.""",8.0,25.0,81.0,114.0,1.3596491228070176,0.05727225064874737,405,522
 """I gave my right arm for this job, sir!""",7.0,28.0,82.0,117.0,1.358974358974359,0.05491136182219007,408,522
-"""Tea is served sir. Oh, and happy Father's Day.""",4.0,34.0,79.0,117.0,1.358974358974359,0.050726433032338,408,522
+"""Tea is served sir. Oh, and happy Father's Day.""",4.0,34.0,79.0,117.0,1.358974358974359,0.050726433032337995,408,522
 Igor called in sick. I'm from the temp agency.,7.0,24.0,75.0,106.0,1.3584905660377358,0.05872052872132804,410,522
 The venture capitalists have arrived.,8.0,22.0,76.0,106.0,1.3584905660377358,0.060231179737985134,410,522
 His current profile indicates he's AC/DC.,6.0,31.0,83.0,120.0,1.3583333333333334,0.052654778291598966,412,522
@@ -438,16 +438,16 @@ Perhaps my services are no longer needed?,11.0,13.0,75.0,99.0,1.3535353535353536
 """It's the Power Company, Sir. They think you're growing pot.""",6.0,24.0,72.0,102.0,1.3529411764705883,0.058531599424117,437,522
 """Just a little someone you tossed together, sir?""",4.0,29.0,72.0,105.0,1.3523809523809525,0.05410096445984843,438,522
 He wants to know when his really great Vice President will be ready.,10.0,17.0,78.0,105.0,1.3523809523809525,0.06344931405765457,438,522
-"""'Sir, polls show there is still running room for an independent candidate.""""""",7.0,24.0,77.0,108.0,1.3518518518518519,0.0578171267700413,440,522
-"""Sir, there's a new app for that.""",9.0,20.0,79.0,108.0,1.3518518518518519,0.06073681487367812,440,522
-I've arranged for every creature discomfort.,10.0,18.0,80.0,108.0,1.3518518518518519,0.0621452407472017,440,522
-The Donald wants to know how his Vice President is coming ?,7.0,24.0,77.0,108.0,1.3518518518518519,0.0578171267700413,440,522
-"""The Republican National Committee would like a word with you, Sir.""",9.0,20.0,79.0,108.0,1.3518518518518519,0.06073681487367812,440,522
-"""It's the Republican National Committee at the door, sir. They're asking if the new candidate is ready yet.""",7.0,24.0,77.0,108.0,1.3518518518518519,0.0578171267700413,440,522
+"""'Sir, polls show there is still running room for an independent candidate.""""""",7.0,24.0,77.0,108.0,1.351851851851852,0.0578171267700413,440,522
+"""Sir, there's a new app for that.""",9.0,20.0,79.0,108.0,1.351851851851852,0.06073681487367812,440,522
+I've arranged for every creature discomfort.,10.0,18.0,80.0,108.0,1.351851851851852,0.0621452407472017,440,522
+The Donald wants to know how his Vice President is coming ?,7.0,24.0,77.0,108.0,1.351851851851852,0.0578171267700413,440,522
+"""The Republican National Committee would like a word with you, Sir.""",9.0,20.0,79.0,108.0,1.351851851851852,0.06073681487367812,440,522
+"""It's the Republican National Committee at the door, sir. They're asking if the new candidate is ready yet.""",7.0,24.0,77.0,108.0,1.351851851851852,0.0578171267700413,440,522
 """And he'll be entitled to use the same bathroom as the rest of the castle, sir.""",12.0,15.0,84.0,111.0,1.3513513513513509,0.06354095282651445,446,522
 Lunch is severed.,10.0,19.0,82.0,111.0,1.3513513513513509,0.06090855735035109,446,522
 """Con Edison on the phone for you, sir.""",7.0,19.0,68.0,94.0,1.3510638297872342,0.0636484115653033,448,522
-"""May I recommend the 1847 Cote de Beaune Formaldehyde, sir?""",9.0,22.0,83.0,114.0,1.3508771929824561,0.058419987280790564,449,522
+"""May I recommend the 1847 Cote de Beaune Formaldehyde, sir?""",9.0,22.0,83.0,114.0,1.350877192982456,0.058419987280790564,449,522
 At least I’ll stop being blamed for every murder around here.,6.0,22.0,69.0,97.0,1.350515463917526,0.0604984257438428,450,522
 """I know he's not the original, but you could still make a killing on eBay.""",8.0,19.0,73.0,100.0,1.35,0.06256309946079569,451,522
 """Sir, the Republican Party is here. They'd like to make a deal.""",7.0,23.0,76.0,106.0,1.349056603773585,0.058496362347931215,452,522
@@ -458,7 +458,7 @@ Sir--we've won New Hampshire.,7.0,24.0,78.0,109.0,1.3486238532110089,0.057375116
 Will he be up in time for supper?,7.0,25.0,80.0,112.0,1.3482142857142858,0.05631004078441184,457,522
 """Shall we piece together a social media presence for him as well, sir?""",7.0,25.0,80.0,112.0,1.3482142857142858,0.05631004078441184,457,522
 Your mother wants to know if your friend is staying for dinner.,8.0,16.0,68.0,92.0,1.3478260869565215,0.06636198962262653,459,522
-"""Your Kickstarter campaign has attained its goal, sir.""",5.0,23.0,67.0,95.0,1.3473684210526315,0.059426940574010004,460,522
+"""Your Kickstarter campaign has attained its goal, sir.""",5.0,23.0,67.0,95.0,1.3473684210526315,0.05942694057401,460,522
 """Pardon me, sir, but an officer from the cold case squad is here to see you.""",8.0,18.0,72.0,98.0,1.3469387755102042,0.06339514174368889,461,522
 """Excuse me, Doctor. This month's electricity bill just arrived in the post and it's rather alarming.""",6.0,22.0,70.0,98.0,1.3469387755102042,0.059984640744550566,461,522
 """Igor left his heart in San Francisco, but he's going back for it.""",5.0,25.0,71.0,101.0,1.3465346534653466,0.057048951647080924,463,522
@@ -602,22 +602,22 @@ Pardon me sir... I put the villagers with torches in the drawing room.,6.0,21.0,
 The crazy lady next door wants to borrow a cup of sugar.,8.0,17.0,76.0,101.0,1.3267326732673268,0.06151376066142205,598,522
 """A gentleman with a pitchfork to see you, sir. He says it's urgent.""",7.0,19.0,75.0,101.0,1.3267326732673268,0.059882576336781936,598,522
 """Don't you think the shoes are a little premature, sir?""",7.0,19.0,75.0,101.0,1.3267326732673268,0.059882576336781936,598,522
-"""The neck bolt guy is here, sir.""",5.0,22.0,71.0,98.0,1.3265306122448979,0.057611316528512514,604,522
-"""Yes, but is he good people?""",3.0,26.0,69.0,98.0,1.3265306122448979,0.05383564730454022,604,522
-Sir. The gentleman from Ancestry.com is here to see you.,5.0,22.0,71.0,98.0,1.3265306122448979,0.057611316528512514,604,522
-"""Sir, I've robbed the grave and also obtained the fresh human heart as requested, but, I must respectfully remind you that brewing coffee is the responsibility of the kitchen staff.""",7.0,18.0,73.0,98.0,1.3265306122448979,0.0611543184378509,604,522
-"""Mr. Trump requests that you add some Mexican to his Running Mate, Sir.""",6.0,20.0,72.0,98.0,1.3265306122448979,0.05940923520693786,604,522
-Should I make the reservation this evening for one or two?,5.0,22.0,71.0,98.0,1.3265306122448979,0.057611316528512514,604,522
-It's the GOP again sir. They say the Presidential Model you built for them is completely out of control.,7.0,17.0,71.0,95.0,1.3263157894736841,0.06250125241864155,610,522
-"""Will the angry mob be joining us for dinner, sir?""",4.0,23.0,68.0,95.0,1.3263157894736841,0.056872788367533886,610,522
-"""Sir, a hunchbacked gentleman is at the door responding to an advertisement.""",6.0,19.0,70.0,95.0,1.3263157894736841,0.060683131001665225,610,522
-Looking to replace me?,4.0,23.0,68.0,95.0,1.3263157894736841,0.056872788367533886,610,522
-"""I fear that without a proper name of his own, sir, some may confuse the two of you.""",4.0,23.0,68.0,95.0,1.3263157894736841,0.056872788367533886,610,522
-"""Shall I set an additonal place for dinner, sir?""",5.0,21.0,69.0,95.0,1.3263157894736841,0.05880882775937452,610,522
-The townsfolk are here with torches and pitchforks. Would sir like me to show them in or have them wait in the parlor?,10.0,11.0,74.0,95.0,1.3263157894736841,0.06766312918494971,610,522
-"""Sir, this recycling’s gone a bit far.""",5.0,21.0,69.0,95.0,1.3263157894736841,0.05880882775937452,610,522
-Will I be able to control him from my phone?,1.0,29.0,65.0,95.0,1.3263157894736841,0.0506223424931902,610,522
-The cook would like to know if your monster has any dietary restrictions.,5.0,21.0,69.0,95.0,1.3263157894736841,0.05880882775937452,610,522
+"""The neck bolt guy is here, sir.""",5.0,22.0,71.0,98.0,1.326530612244898,0.057611316528512514,604,522
+"""Yes, but is he good people?""",3.0,26.0,69.0,98.0,1.326530612244898,0.05383564730454022,604,522
+Sir. The gentleman from Ancestry.com is here to see you.,5.0,22.0,71.0,98.0,1.326530612244898,0.057611316528512514,604,522
+"""Sir, I've robbed the grave and also obtained the fresh human heart as requested, but, I must respectfully remind you that brewing coffee is the responsibility of the kitchen staff.""",7.0,18.0,73.0,98.0,1.326530612244898,0.0611543184378509,604,522
+"""Mr. Trump requests that you add some Mexican to his Running Mate, Sir.""",6.0,20.0,72.0,98.0,1.326530612244898,0.05940923520693786,604,522
+Should I make the reservation this evening for one or two?,5.0,22.0,71.0,98.0,1.326530612244898,0.057611316528512514,604,522
+It's the GOP again sir. They say the Presidential Model you built for them is completely out of control.,7.0,17.0,71.0,95.0,1.326315789473684,0.06250125241864155,610,522
+"""Will the angry mob be joining us for dinner, sir?""",4.0,23.0,68.0,95.0,1.326315789473684,0.056872788367533886,610,522
+"""Sir, a hunchbacked gentleman is at the door responding to an advertisement.""",6.0,19.0,70.0,95.0,1.326315789473684,0.060683131001665225,610,522
+Looking to replace me?,4.0,23.0,68.0,95.0,1.326315789473684,0.056872788367533886,610,522
+"""I fear that without a proper name of his own, sir, some may confuse the two of you.""",4.0,23.0,68.0,95.0,1.326315789473684,0.056872788367533886,610,522
+"""Shall I set an additonal place for dinner, sir?""",5.0,21.0,69.0,95.0,1.326315789473684,0.05880882775937452,610,522
+The townsfolk are here with torches and pitchforks. Would sir like me to show them in or have them wait in the parlor?,10.0,11.0,74.0,95.0,1.326315789473684,0.06766312918494971,610,522
+"""Sir, this recycling’s gone a bit far.""",5.0,21.0,69.0,95.0,1.326315789473684,0.05880882775937452,610,522
+Will I be able to control him from my phone?,1.0,29.0,65.0,95.0,1.326315789473684,0.0506223424931902,610,522
+The cook would like to know if your monster has any dietary restrictions.,5.0,21.0,69.0,95.0,1.326315789473684,0.05880882775937452,610,522
 You really think he can win as a 3rd party candidate?,5.0,20.0,67.0,92.0,1.326086956521739,0.06007777975825816,620,522
 """If I may say, sir, I hope your teacher gives you an A Plus.""",8.0,14.0,70.0,92.0,1.326086956521739,0.06577244294079307,620,522
 """This should bring him to life, but side effects may include nausea, dizziness, or swelling.""",4.0,22.0,66.0,92.0,1.326086956521739,0.058055560262927484,620,522
@@ -679,7 +679,7 @@ Let me be frank.,6.0,20.0,75.0,101.0,1.3168316831683171,0.057901748583023535,677
 Do you think he'd prefer Boo-Berry or Count Chocula in the morning?,6.0,20.0,75.0,101.0,1.3168316831683171,0.057901748583023535,677,522
 """Shall I add an additional place setting for dinner, sir?""",9.0,14.0,78.0,101.0,1.3168316831683171,0.0628225428879814,677,522
 """Shall I have the angry mob with torches wait in the living room, sir?""",3.0,19.0,57.0,79.0,1.3164556962025316,0.06121220504577104,680,522
-"""I'm sorry I called the monster """"Frankenstein,"""" sir. I'm sure it will never happen again.""",6.0,19.0,73.0,98.0,1.3163265306122451,0.059092190444202,681,522
+"""I'm sorry I called the monster """"Frankenstein,"""" sir. I'm sure it will never happen again.""",6.0,19.0,73.0,98.0,1.3163265306122451,0.059092190444202004,681,522
 I spoke to Legal and confirmed he belongs to the company.,3.0,24.0,68.0,95.0,1.3157894736842106,0.054502037511327865,682,522
 """Leftovers again tonight, Doctor?""",6.0,18.0,71.0,95.0,1.3157894736842106,0.060352005684042,682,522
 Happy Father's Day!,3.0,24.0,68.0,95.0,1.3157894736842106,0.054502037511327865,682,522
@@ -840,10 +840,10 @@ Mrs. Shelley would like to have her book back.,6.0,14.0,67.0,87.0,1.298850574712
 """Sir, Mr. Trump would like to know if his running partner is ready.""",7.0,12.0,68.0,87.0,1.2988505747126438,0.06563273865215431,837,522
 """Shall I assume your guest will be staying for dinner, Sir?""",6.0,14.0,67.0,87.0,1.2988505747126438,0.06356373318662188,837,522
 """Am I to assume it will be two for dinner this evening, sir?""",6.0,14.0,67.0,87.0,1.2988505747126438,0.06356373318662188,837,522
-Will your friend be re-animated in time for lunch Sir ?,4.0,20.0,70.0,94.0,1.297872340425532,0.0562493290008888,842,522
-"""His Obamacare paperwork is complete, sir.""",7.0,14.0,73.0,94.0,1.297872340425532,0.06205101781007094,842,522
-Shall I set any extra place at dinner?,7.0,14.0,73.0,94.0,1.297872340425532,0.06205101781007094,842,522
-A Mr. Mel Brooks to see you sir,3.0,22.0,69.0,94.0,1.297872340425532,0.0541775452899544,842,522
+Will your friend be re-animated in time for lunch Sir ?,4.0,20.0,70.0,94.0,1.2978723404255321,0.0562493290008888,842,522
+"""His Obamacare paperwork is complete, sir.""",7.0,14.0,73.0,94.0,1.2978723404255321,0.06205101781007094,842,522
+Shall I set any extra place at dinner?,7.0,14.0,73.0,94.0,1.2978723404255321,0.06205101781007094,842,522
+A Mr. Mel Brooks to see you sir,3.0,22.0,69.0,94.0,1.2978723404255321,0.0541775452899544,842,522
 """It's the villagers, sir. Seems their idiot is missing.""",3.0,19.0,62.0,84.0,1.2976190476190477,0.05813056777758131,846,522
 """A magazine salesman at the door, sir...wondering if you'd be interested in receiving 'Life'.""",2.0,21.0,61.0,84.0,1.2976190476190477,0.05560846318231704,846,522
 The other applicant from Monster.com is waiting for you in the parlor.,1.0,23.0,60.0,84.0,1.2976190476190477,0.052966399206046136,846,522
@@ -948,27 +948,27 @@ There is an angry mob to see you sir.,2.0,18.0,56.0,76.0,1.2894736842105263,0.05
 """I'm afraid the forecast calls for clear skies and sun all week, Doctor.""",4.0,14.0,58.0,76.0,1.2894736842105263,0.06438859404737743,946,522
 """Missionaries at the door, sir. They would like to know if the master of the house is ‘pro-life.’""",3.0,16.0,57.0,76.0,1.2894736842105263,0.06160368374062961,946,522
 """Triple A is here to charge the batteries, sir.""",5.0,12.0,59.0,76.0,1.2894736842105263,0.06705794685479438,946,522
-His insurance agent wants to know if this is outpatient surgery before he approves the claim,6.0,12.0,65.0,83.0,1.2891566265060241,0.06534368660666384,950,522
-"""The electrical company would like to have a word with you, sir.""",3.0,18.0,62.0,83.0,1.2891566265060241,0.058208438379146125,950,522
-"""Monster Lives Matter called again, sir.""",5.0,14.0,64.0,83.0,1.2891566265060241,0.06305504753054708,950,522
-"""Perhaps you could call him Donald Trump, Sir. Then nobody would be the wiser.""",6.0,12.0,65.0,83.0,1.2891566265060241,0.06534368660666384,950,522
-"""Sir, a census taker is at the door--what number should I give him?""",4.0,16.0,63.0,83.0,1.2891566265060241,0.06068015045143841,950,522
-"""It's the Republicans again, sir. It seems they are not happy with your last batch.""",7.0,10.0,66.0,83.0,1.2891566265060241,0.06755483505730919,950,522
-"""Sir, the neighbors are complaining about the incessant thunder and lightning over the house.""",4.0,16.0,63.0,83.0,1.2891566265060241,0.06068015045143841,950,522
-"""The rabble has been roused, sir,""",5.0,14.0,64.0,83.0,1.2891566265060241,0.06305504753054708,950,522
-"""Dinner for one or two tonight, sir?""",6.0,12.0,65.0,83.0,1.2891566265060241,0.06534368660666384,950,522
-How very Retro of you Doctor,4.0,16.0,63.0,83.0,1.2891566265060241,0.06068015045143841,950,522
-"""Some villagers are here to see you, Sir""",3.0,18.0,62.0,83.0,1.2891566265060241,0.058208438379146125,950,522
-"""Igor's been delayed at the chiropractor, sir.""",3.0,18.0,62.0,83.0,1.2891566265060241,0.058208438379146125,950,522
-"""Angry mob outside for you, sir.""",4.0,16.0,63.0,83.0,1.2891566265060241,0.06068015045143841,950,522
-He says he has to go.,6.0,12.0,65.0,83.0,1.2891566265060241,0.06534368660666384,950,522
-"""You're seven o'clock angry mob is at the door, sir.""",3.0,18.0,62.0,83.0,1.2891566265060241,0.058208438379146125,950,522
+His insurance agent wants to know if this is outpatient surgery before he approves the claim,6.0,12.0,65.0,83.0,1.289156626506024,0.06534368660666384,950,522
+"""The electrical company would like to have a word with you, sir.""",3.0,18.0,62.0,83.0,1.289156626506024,0.058208438379146125,950,522
+"""Monster Lives Matter called again, sir.""",5.0,14.0,64.0,83.0,1.289156626506024,0.06305504753054708,950,522
+"""Perhaps you could call him Donald Trump, Sir. Then nobody would be the wiser.""",6.0,12.0,65.0,83.0,1.289156626506024,0.06534368660666384,950,522
+"""Sir, a census taker is at the door--what number should I give him?""",4.0,16.0,63.0,83.0,1.289156626506024,0.06068015045143841,950,522
+"""It's the Republicans again, sir. It seems they are not happy with your last batch.""",7.0,10.0,66.0,83.0,1.289156626506024,0.06755483505730919,950,522
+"""Sir, the neighbors are complaining about the incessant thunder and lightning over the house.""",4.0,16.0,63.0,83.0,1.289156626506024,0.06068015045143841,950,522
+"""The rabble has been roused, sir,""",5.0,14.0,64.0,83.0,1.289156626506024,0.06305504753054708,950,522
+"""Dinner for one or two tonight, sir?""",6.0,12.0,65.0,83.0,1.289156626506024,0.06534368660666384,950,522
+How very Retro of you Doctor,4.0,16.0,63.0,83.0,1.289156626506024,0.06068015045143841,950,522
+"""Some villagers are here to see you, Sir""",3.0,18.0,62.0,83.0,1.289156626506024,0.058208438379146125,950,522
+"""Igor's been delayed at the chiropractor, sir.""",3.0,18.0,62.0,83.0,1.289156626506024,0.058208438379146125,950,522
+"""Angry mob outside for you, sir.""",4.0,16.0,63.0,83.0,1.289156626506024,0.06068015045143841,950,522
+He says he has to go.,6.0,12.0,65.0,83.0,1.289156626506024,0.06534368660666384,950,522
+"""You're seven o'clock angry mob is at the door, sir.""",3.0,18.0,62.0,83.0,1.289156626506024,0.058208438379146125,950,522
 """Should I set the table for three, sir?""",6.0,14.0,70.0,90.0,1.2888888888888892,0.06169564951963024,965,522
 """I am truly flattered, sir. But I do not think that naming him """"Jeeves"""" will fool the villagers.""",3.0,20.0,67.0,90.0,1.2888888888888892,0.05529276172553749,965,522
 """Sir, did you want the brain on ice or served room temperature?""",5.0,16.0,69.0,90.0,1.2888888888888892,0.05963778399229569,965,522
 """There's storms predicted for this evening, shall we plan on a guest for dinner?""",4.0,18.0,68.0,90.0,1.2888888888888892,0.05750632477714423,965,522
 """Quite a large carbon footprint, my Lordship.""",4.0,18.0,68.0,90.0,1.2888888888888892,0.05750632477714423,965,522
-There's a woman at the door who says she's his bride.,3.0,22.0,72.0,97.0,1.2886597938144329,0.05275641621252247,970,522
+There's a woman at the door who says she's his bride.,3.0,22.0,72.0,97.0,1.2886597938144329,0.052756416212522465,970,522
 """Sir, the Addams have arrived.""",3.0,17.0,60.0,80.0,1.2875,0.059517442396049634,971,522
 The CPR instructor has arrived.,1.0,21.0,58.0,80.0,1.2875,0.05393898920968045,971,522
 It's either this or Trump.,5.0,13.0,62.0,80.0,1.2875,0.06461607649627257,971,522
@@ -1102,7 +1102,7 @@ Will he be staying for dinner?,5.0,11.0,60.0,76.0,1.2763157894736843,0.066487524
 """I'm sorry to interrupt, Sir, but the latest primary results are coming in and you did say you wanted to keep up with your earlier works.""",4.0,13.0,59.0,76.0,1.2763157894736843,0.06379430819500599,1098,522
 """Speaker Ryan, party leaders are concerned that the straps may not hold.""",6.0,9.0,61.0,76.0,1.2763157894736843,0.06907581446529835,1098,522
 """A villager calling sir, something about a missing puppy.""",4.0,13.0,59.0,76.0,1.2763157894736843,0.06379430819500599,1098,522
-The Republicans called sire. They wanted to know if he'll be ready in time for the convention.,7.0,15.0,83.0,105.0,1.276190476190476,0.05660614861831635,1104,522
+The Republicans called sire. They wanted to know if he'll be ready in time for the convention.,7.0,15.0,83.0,105.0,1.2761904761904759,0.05660614861831635,1104,522
 So this is why you never take me dancing anymore.,7.0,13.0,78.0,98.0,1.2755102040816326,0.05941826877122744,1105,522
 """Sir, will there be two of you dining tonight?""",2.0,15.0,52.0,69.0,1.2753623188405796,0.06153776060943875,1106,522
 Another mob to see you sir.,4.0,14.0,62.0,80.0,1.275,0.0615593775311716,1107,522
@@ -1180,7 +1180,7 @@ Your mother would like me to ask if you know why the electricity bill has gotten
 """A Miss Abby Normal to see you, sir.""",4.0,13.0,61.0,78.0,1.2692307692307692,0.06234692055364977,1174,522
 Will your guest be staying for dinner Sir?,6.0,9.0,63.0,78.0,1.2692307692307692,0.06747695286928555,1174,522
 """Sir, your mummy is waiting for you in the parlor.""",6.0,9.0,63.0,78.0,1.2692307692307692,0.06747695286928555,1174,522
-So that will be two for dinner?,1.0,19.0,58.0,78.0,1.2692307692307692,0.05374139469275167,1174,522
+So that will be two for dinner?,1.0,19.0,58.0,78.0,1.2692307692307692,0.053741394692751666,1174,522
 A Mrs. Shelley is here to see you sir.,3.0,15.0,60.0,78.0,1.2692307692307692,0.059616593072086776,1174,522
 Dinner... is alive!,3.0,15.0,60.0,78.0,1.2692307692307692,0.059616593072086776,1174,522
 """You will need to wait, Sir. Con Ed just issued a peak energy alert.""",4.0,17.0,72.0,93.0,1.2688172043010753,0.05542092097805874,1185,522
@@ -1286,12 +1286,12 @@ There's a person on the phone wondering if you're interested in solar panels.,2.
 """The Power Company called sir, your $7,000 electric bill is past due.""",5.0,9.0,59.0,73.0,1.2602739726027397,0.0676508328311829,1273,522
 """Sir, if you'll not be needing me to exhume any more corpses, I shall turn in for the night.""",2.0,15.0,56.0,73.0,1.2602739726027397,0.058609578324170936,1273,522
 The rabbi is here sir .,5.0,10.0,62.0,77.0,1.2597402597402598,0.06510572243024296,1287,522
-"""300 villagers are here to see you, sir.""",3.0,14.0,60.0,77.0,1.2597402597402598,0.059625733486870995,1287,522
+"""300 villagers are here to see you, sir.""",3.0,14.0,60.0,77.0,1.2597402597402598,0.059625733486871,1287,522
 """I am giddy with anticipation sir, will there be two for dinner?""",4.0,12.0,61.0,77.0,1.2597402597402598,0.06242588880829495,1287,522
 Let's hope this one works out better than your Mr. Trump fiasco.,4.0,12.0,61.0,77.0,1.2597402597402598,0.06242588880829495,1287,522
-"""Shall I set the dinner table for one or two, sir?""",3.0,14.0,60.0,77.0,1.2597402597402598,0.059625733486870995,1287,522
+"""Shall I set the dinner table for one or two, sir?""",3.0,14.0,60.0,77.0,1.2597402597402598,0.059625733486871,1287,522
 """Yes, sir, we paid this month's electric bill. Why do you ask?""""""",2.0,16.0,59.0,77.0,1.2597402597402598,0.056687428890267476,1287,522
-Cook would like to know if your dinner guest has any food allergies.,3.0,14.0,60.0,77.0,1.2597402597402598,0.059625733486870995,1287,522
+Cook would like to know if your dinner guest has any food allergies.,3.0,14.0,60.0,77.0,1.2597402597402598,0.059625733486871,1287,522
 """It was a group of men with pitchforks. The drawing room seemed inappropriate, so I asked them to wait for you in the barn.""",5.0,11.0,65.0,81.0,1.2592592592592593,0.06279935169560431,1294,522
 """It's Mrs. Trump on the phone, Sir. She is wondering where her husband is.""",2.0,17.0,62.0,81.0,1.2592592592592593,0.054934803608116006,1294,522
 He got 2200 Likes on Instagram,3.0,16.0,66.0,85.0,1.258823529411765,0.05589340890190216,1296,522
@@ -1766,9 +1766,9 @@ Well tell the angry mob I'm kinda in the middle of something.,3.0,9.0,54.0,66.0,
 """Will the other gentleman be joining us for dinner, sir?""",1.0,13.0,52.0,66.0,1.2272727272727273,0.056285380669717305,1753,522
 """Mr. Hitchcock, your cameos are becoming less subtle...""",2.0,11.0,53.0,66.0,1.2272727272727273,0.060284695763812665,1753,522
 """Sir, there's a Dr. Jekyll here to see you.""",3.0,9.0,54.0,66.0,1.2272727272727273,0.06403471722070707,1753,522
-The ethics committee regrets to inform you that your experiment is cancelled because you didn't verify the authenticity of the subject's birth certificate.,1.0,15.0,59.0,75.0,1.2266666666666666,0.052241067457787733,1768,522
+The ethics committee regrets to inform you that your experiment is cancelled because you didn't verify the authenticity of the subject's birth certificate.,1.0,15.0,59.0,75.0,1.2266666666666666,0.05224106745778773,1768,522
 """Sir, nothing phases me. I used to be Donald Trump's butler.""",5.0,7.0,63.0,75.0,1.2266666666666666,0.0645799548665882,1768,522
-The safety inspector is here.,1.0,15.0,59.0,75.0,1.2266666666666666,0.052241067457787733,1768,522
+The safety inspector is here.,1.0,15.0,59.0,75.0,1.2266666666666666,0.05224106745778773,1768,522
 """Sir, the lightning rod salesman has arrived.""",1.0,12.0,49.0,62.0,1.2258064516129032,0.05826395035075953,1771,522
 it's the electric company regarding the cost saver plan,0.0,14.0,48.0,62.0,1.2258064516129032,0.053533794753437405,1771,522
 """Dinner is at eight, with lightning expected at midnight sir.""",1.0,12.0,49.0,62.0,1.2258064516129032,0.05826395035075953,1771,522
@@ -2150,10 +2150,10 @@ The chef says he doesn't have any brains. Only sweetbreads.,1.0,11.0,52.0,64.0,1
 """Sorry, Baron, I know it's terrible timing, but FedEx says the new pancreas won't be delivered until tomorrow.""",2.0,9.0,53.0,64.0,1.203125,0.059677072034302274,2125,522
 She says she's his mother.,2.0,9.0,53.0,64.0,1.203125,0.059677072034302274,2125,522
 Mr. Munster is here to see you.,2.0,9.0,53.0,64.0,1.203125,0.059677072034302274,2125,522
-"""Rest assured, sir, I've taken the liberty this evening of stocking up on extra fuses.""",0.0,13.0,51.0,64.0,1.203125,0.050688158720985414,2125,522
+"""Rest assured, sir, I've taken the liberty this evening of stocking up on extra fuses.""",0.0,13.0,51.0,64.0,1.203125,0.05068815872098541,2125,522
 """Dinner for two tonight, sir?""",1.0,11.0,52.0,64.0,1.203125,0.05536534277465963,2125,522
-"""Excuse me Doctor, but your neighbor is complaining about the brown-outs again.""",0.0,13.0,51.0,64.0,1.203125,0.050688158720985414,2125,522
-The Villagers have arrived for the dinner party.,0.0,13.0,51.0,64.0,1.203125,0.050688158720985414,2125,522
+"""Excuse me Doctor, but your neighbor is complaining about the brown-outs again.""",0.0,13.0,51.0,64.0,1.203125,0.05068815872098541,2125,522
+The Villagers have arrived for the dinner party.,0.0,13.0,51.0,64.0,1.203125,0.05068815872098541,2125,522
 """Master Frankenstein, your parents asked me to remind you again to give your creature a proper name.""",1.0,11.0,52.0,64.0,1.203125,0.05536534277465963,2125,522
 """My frontal lobe? Of course, Sir. Right away, Sir.""",3.0,7.0,54.0,64.0,1.203125,0.06369760335066812,2125,522
 """Sir, my wife brews a spirit that will animate anything.""",1.0,11.0,52.0,64.0,1.203125,0.05536534277465963,2125,522
@@ -2268,34 +2268,34 @@ And before that I worked at Downton Abbey Normal.,3.0,7.0,57.0,67.0,1.1940298507
 """There's a Mr. Igor at the door, sir.""",1.0,11.0,55.0,67.0,1.1940298507462686,0.053119792298663225,2264,522
 """Sir, I feel the need to inform you that the media has found some fairly disparaging Facebook posts I made about corpses.""",3.0,7.0,57.0,67.0,1.1940298507462686,0.061043266644244185,2264,522
 Will the cadaver be dining with us sir?,3.0,7.0,57.0,67.0,1.1940298507462686,0.061043266644244185,2264,522
-"""Sir, shall the potion be served neat or on the rocks?""",1.0,10.0,51.0,62.0,1.1935483870967742,0.055566453121854785,2270,522
+"""Sir, shall the potion be served neat or on the rocks?""",1.0,10.0,51.0,62.0,1.1935483870967742,0.05556645312185479,2270,522
 shall I get your fresh brain out of the refrigerator sir?,3.0,6.0,53.0,62.0,1.1935483870967742,0.06438378811539827,2270,522
-"""Will it be dinner for two, sir?""",1.0,10.0,51.0,62.0,1.1935483870967742,0.055566453121854785,2270,522
-"""Perhaps assign him your own name, Sir, to avoid mass confusion""",1.0,10.0,51.0,62.0,1.1935483870967742,0.055566453121854785,2270,522
-Cook asks should she plan on one more at dinner?,1.0,10.0,51.0,62.0,1.1935483870967742,0.055566453121854785,2270,522
-"""I can assure you Sir, a buttered scone goes down equally well with any beverage""",1.0,10.0,51.0,62.0,1.1935483870967742,0.055566453121854785,2270,522
+"""Will it be dinner for two, sir?""",1.0,10.0,51.0,62.0,1.1935483870967742,0.05556645312185479,2270,522
+"""Perhaps assign him your own name, Sir, to avoid mass confusion""",1.0,10.0,51.0,62.0,1.1935483870967742,0.05556645312185479,2270,522
+Cook asks should she plan on one more at dinner?,1.0,10.0,51.0,62.0,1.1935483870967742,0.05556645312185479,2270,522
+"""I can assure you Sir, a buttered scone goes down equally well with any beverage""",1.0,10.0,51.0,62.0,1.1935483870967742,0.05556645312185479,2270,522
 """I'm afraid if you call him """"Frankenstein's Monster"""" he'll end up being known as just """"Frankenstein.""""""",3.0,6.0,53.0,62.0,1.1935483870967742,0.06438378811539827,2270,522
 The chef wants to know if there will be two for dinner tonight.,2.0,8.0,52.0,62.0,1.1935483870967742,0.06013693908336117,2270,522
-"""Sir, the villagers have invited the monster for a barbecue tonight.""",1.0,10.0,51.0,62.0,1.1935483870967742,0.055566453121854785,2270,522
+"""Sir, the villagers have invited the monster for a barbecue tonight.""",1.0,10.0,51.0,62.0,1.1935483870967742,0.05556645312185479,2270,522
 I saved 15 per cent or more on my car insurance.,5.0,2.0,55.0,62.0,1.1935483870967742,0.07213122508063836,2270,522
 """Sir, Mrs. Frankenstein insists that you postpone your use of the re-animation fluid distillation unit until after she has left the shower.""",2.0,8.0,52.0,62.0,1.1935483870967742,0.06013693908336117,2270,522
 """Sir,will Mr. Frankenstein be joining us for dinner this evening?""",3.0,6.0,53.0,62.0,1.1935483870967742,0.06438378811539827,2270,522
 """The sky blue pupils you ordered have arrived,Dr.""",2.0,8.0,52.0,62.0,1.1935483870967742,0.06013693908336117,2270,522
 Your father requested I retrieve the chemistry set.,3.0,6.0,53.0,62.0,1.1935483870967742,0.06438378811539827,2270,522
 """Would that be a screwdriver, Sir?""",2.0,8.0,52.0,62.0,1.1935483870967742,0.06013693908336117,2270,522
-anything I can get for you? a vial of blood? a surge of electricity? a pair of dress neck stubs?,1.0,10.0,51.0,62.0,1.1935483870967742,0.055566453121854785,2270,522
+anything I can get for you? a vial of blood? a surge of electricity? a pair of dress neck stubs?,1.0,10.0,51.0,62.0,1.1935483870967742,0.05556645312185479,2270,522
 """Well, we could use an underbutler, sir.""",3.0,6.0,53.0,62.0,1.1935483870967742,0.06438378811539827,2270,522
 """Sir, we were just wondering if you remembered to pay the electric bill?""",2.0,8.0,52.0,62.0,1.1935483870967742,0.06013693908336117,2270,522
 Will the creature be joining us for dinner?,2.0,8.0,52.0,62.0,1.1935483870967742,0.06013693908336117,2270,522
 The GOP is counting on you to beat Trump.,4.0,4.0,54.0,62.0,1.1935483870967742,0.06836733797553557,2270,522
 That thing is not just going to get up and walk out of here on its own. And who do you think will be cleaning up?... Again.,2.0,8.0,52.0,62.0,1.1935483870967742,0.06013693908336117,2270,522
 """An angry mob is outside to see you, sir.""",2.0,8.0,52.0,62.0,1.1935483870967742,0.06013693908336117,2270,522
-"""I know it’s not my place to say, Doctor, but he does seem to lack proper breeding.""",1.0,10.0,51.0,62.0,1.1935483870967742,0.055566453121854785,2270,522
-"""Doctor, Mrs. Frankenstein wants to know how her son is doing.""",1.0,10.0,51.0,62.0,1.1935483870967742,0.055566453121854785,2270,522
-"""Sir, milady wants to know how long till he's ready.""",1.0,10.0,51.0,62.0,1.1935483870967742,0.055566453121854785,2270,522
+"""I know it’s not my place to say, Doctor, but he does seem to lack proper breeding.""",1.0,10.0,51.0,62.0,1.1935483870967742,0.05556645312185479,2270,522
+"""Doctor, Mrs. Frankenstein wants to know how her son is doing.""",1.0,10.0,51.0,62.0,1.1935483870967742,0.05556645312185479,2270,522
+"""Sir, milady wants to know how long till he's ready.""",1.0,10.0,51.0,62.0,1.1935483870967742,0.05556645312185479,2270,522
 """Sir, Paul Ryan has arrived. He's wondering if Mr. Reagan is ready for his 3rd term.""",2.0,8.0,52.0,62.0,1.1935483870967742,0.06013693908336117,2270,522
 """I need to make another one for my new reality show """"Keeping Up With The Frankensteins.""""""",2.0,8.0,52.0,62.0,1.1935483870967742,0.06013693908336117,2270,522
-"""I never agreed to donate my brain. My devotion is undying, not undead.""",1.0,10.0,51.0,62.0,1.1935483870967742,0.055566453121854785,2270,522
+"""I never agreed to donate my brain. My devotion is undying, not undead.""",1.0,10.0,51.0,62.0,1.1935483870967742,0.05556645312185479,2270,522
 Its the Solar people sir.,3.0,6.0,53.0,62.0,1.1935483870967742,0.06438378811539827,2270,522
 Will Sir be requiring any other of my limbs before I retire?,3.0,6.0,53.0,62.0,1.1935483870967742,0.06438378811539827,2270,522
 """Will we be having another guest for dinner, sir?""",2.0,8.0,52.0,62.0,1.1935483870967742,0.06013693908336117,2270,522
@@ -2488,14 +2488,14 @@ Excuse me sir. The torch people have arrived.,2.0,7.0,51.0,60.0,1.18333333333333
 No mad scientist is a hero to his valet.,2.0,7.0,51.0,60.0,1.1833333333333331,0.060560781750670575,2450,522
 """Sir, I've only agreed to train my replacement, not supervise his creation.""",1.0,9.0,50.0,60.0,1.1833333333333331,0.05570131537800454,2450,522
 """Sir, you're right. I believe this is a valid alternative to Obamacare!""",1.0,9.0,50.0,60.0,1.1833333333333331,0.05570131537800454,2450,522
-"""Despite the small hands and the global failure of the humanizing software, your prototype is doing quite well on the campaign trail.""",1.0,10.0,55.0,66.0,1.181818181818182,0.052486388108147784,2490,522
+"""Despite the small hands and the global failure of the humanizing software, your prototype is doing quite well on the campaign trail.""",1.0,10.0,55.0,66.0,1.181818181818182,0.05248638810814778,2490,522
 I'm afraid Mr. Igor has taken ill. Crumpets?,2.0,8.0,56.0,66.0,1.181818181818182,0.05675404305280447,2490,522
 """Sir, there is a gentleman at the front door from the Institutional Review Board regarding your proposal.""",1.0,8.0,46.0,55.0,1.181818181818182,0.058551017156320974,2490,522
 """This time, we'll call him Dob Bole.""",2.0,6.0,47.0,55.0,1.181818181818182,0.06404390902685803,2490,522
-He wants his health coverage to include body part replacement.,1.0,10.0,55.0,66.0,1.181818181818182,0.052486388108147784,2490,522
+He wants his health coverage to include body part replacement.,1.0,10.0,55.0,66.0,1.181818181818182,0.05248638810814778,2490,522
 Yes you could say I'm the brains behind the whole operation. Why do you ask?,1.0,8.0,46.0,55.0,1.181818181818182,0.058551017156320974,2490,522
 """It's zappertime, sir.""",2.0,6.0,47.0,55.0,1.181818181818182,0.06404390902685803,2490,522
-"""I will call it """"Trump!""""""",1.0,10.0,55.0,66.0,1.181818181818182,0.052486388108147784,2490,522
+"""I will call it """"Trump!""""""",1.0,10.0,55.0,66.0,1.181818181818182,0.05248638810814778,2490,522
 Shall I tell Cook it will be two for dinner?,0.0,10.0,45.0,55.0,1.181818181818182,0.05248638810814781,2490,522
 Will you be having tea for one or two sir?,0.0,10.0,45.0,55.0,1.181818181818182,0.05248638810814781,2490,522
 """There's an angry mob at the door, sir...""",1.0,8.0,46.0,55.0,1.181818181818182,0.058551017156320974,2490,522
@@ -2590,7 +2590,7 @@ The neighbors called and asked if you could lower the music,1.0,9.0,52.0,62.0,1.
 """Another STEM project, son?""",1.0,8.0,48.0,57.0,1.1754385964912282,0.056654910052417636,2589,522
 Doctor...I seem to be missing a pair of my XL tighty-whities.,2.0,6.0,49.0,57.0,1.1754385964912282,0.061938237374723815,2589,522
 """Will we be serving kidney for dinner this evening, Sir?""",1.0,8.0,48.0,57.0,1.1754385964912282,0.056654910052417636,2589,522
-"""Frankenstein does not sound very English, sir.""",0.0,10.0,47.0,57.0,1.1754385964912282,0.050825312758579586,2589,522
+"""Frankenstein does not sound very English, sir.""",0.0,10.0,47.0,57.0,1.1754385964912282,0.05082531275857959,2589,522
 """Sir, I have ASPCA on the line wanting to know if any animals were used in creating your monster.""",2.0,6.0,49.0,57.0,1.1754385964912282,0.061938237374723815,2589,522
 """If you want my honest opinion, sir, I think that he is Frankenstein, and you are the monster.""",2.0,6.0,49.0,57.0,1.1754385964912282,0.061938237374723815,2589,522
 """Sir, everyone is curious to know what his name will be. Have you given this any thought?""",1.0,8.0,48.0,57.0,1.1754385964912282,0.056654910052417636,2589,522
@@ -2606,19 +2606,19 @@ Mother wants to know if you will be bringing a guest to tea this afternoon?,1.0,
 """Sorry Sir, but the Democrats already have a Candidate.""",1.0,8.0,48.0,57.0,1.1754385964912282,0.056654910052417636,2589,522
 """Excuse me sir, but your little brother would like his chemistry set back.""",1.0,8.0,48.0,57.0,1.1754385964912282,0.056654910052417636,2589,522
 """""""Shall I make arrangements for your electrified companion in the master suite, the guest chambers or the mechanical room, sir?""",3.0,4.0,50.0,57.0,1.1754385964912282,0.06680502724442026,2589,522
-"""There is a call for you, sir. He says he represents the Giants of New York.""",0.0,10.0,47.0,57.0,1.1754385964912282,0.050825312758579586,2589,522
+"""There is a call for you, sir. He says he represents the Giants of New York.""",0.0,10.0,47.0,57.0,1.1754385964912282,0.05082531275857959,2589,522
 """I'm sorry, Sir, but I thought you said he would look like Carson from Downton Abbey?""",2.0,6.0,49.0,57.0,1.1754385964912282,0.061938237374723815,2589,522
 """Sweetbreads again tonight, for dinner Sir?""",5.0,0.0,52.0,57.0,1.1754385964912282,0.07560452696239779,2589,522
 """Sir, any progress to report on the next Presidential Candidate?""",1.0,8.0,48.0,57.0,1.1754385964912282,0.056654910052417636,2589,522
 """Your Pop-Tarts are ready, sir.""",2.0,6.0,49.0,57.0,1.1754385964912282,0.061938237374723815,2589,522
-"""""""An angry mob of villagers waving torches and screaming threats is at the door sir. Shall I invite them in?""",0.0,10.0,47.0,57.0,1.1754385964912282,0.050825312758579586,2589,522
+"""""""An angry mob of villagers waving torches and screaming threats is at the door sir. Shall I invite them in?""",0.0,10.0,47.0,57.0,1.1754385964912282,0.05082531275857959,2589,522
 """May I assume that the new young master is infused with good manners and decorum, m'lord?""",2.0,6.0,49.0,57.0,1.1754385964912282,0.061938237374723815,2589,522
 The Villagers' Super PAC is now running an attack ad against you.,1.0,8.0,48.0,57.0,1.1754385964912282,0.056654910052417636,2589,522
 """The Trump Vice Presidential Search Committee is at the door. They want to know if Mr. Frankenstein has any skeletons in the closet. What shall I advise them, sir?""",2.0,6.0,49.0,57.0,1.1754385964912282,0.061938237374723815,2589,522
 Mrs. Frankenstein requests your presence at dinner in 30 minutes and the return of her sweetbreads.,1.0,8.0,48.0,57.0,1.1754385964912282,0.056654910052417636,2589,522
-Your father wants me to inform you that this better improve your biology grade.,0.0,10.0,47.0,57.0,1.1754385964912282,0.050825312758579586,2589,522
+Your father wants me to inform you that this better improve your biology grade.,0.0,10.0,47.0,57.0,1.1754385964912282,0.05082531275857959,2589,522
 I used to work for Bruce Wayne,1.0,8.0,48.0,57.0,1.1754385964912282,0.056654910052417636,2589,522
-"""Doctor, your two o'clock is here.""",0.0,10.0,47.0,57.0,1.1754385964912282,0.050825312758579586,2589,522
+"""Doctor, your two o'clock is here.""",0.0,10.0,47.0,57.0,1.1754385964912282,0.05082531275857959,2589,522
 He will always be John Beresford Tipton to me.,2.0,7.0,54.0,63.0,1.1746031746031746,0.05786649951699607,2621,522
 I'm your Temp-a-Butler. Igor took a spa holiday.,3.0,5.0,55.0,63.0,1.1746031746031746,0.06213344136974702,2621,522
 """Igor has expressed reluctance to double as your new friend's valet, sir.""",1.0,6.0,39.0,46.0,1.173913043478261,0.06448868249648403,2623,522
@@ -2740,7 +2740,7 @@ A stitch in time saves nine.,2.0,5.0,47.0,54.0,1.1666666666666667,0.063389029906
 """Sir, a man from the electrical company is here to say your usage is excessive.""",2.0,9.0,68.0,79.0,1.1645569620253164,0.04910883774276407,2739,522
 """Excuse me sir, the smoke detector is on the fritz--do you have a nine volt battery handy?""",2.0,8.0,63.0,73.0,1.1643835616438356,0.051660769401756894,2740,522
 """Igor's sick so the temp agency sent me, Sir.""",2.0,7.0,58.0,67.0,1.164179104477612,0.054623479615184975,2741,522
-Would the master of the house wish me to order a fresh penis for your Frankenstein -- I'm terribly sorry -- I meant a fresh pizza for supper?,3.0,5.0,59.0,67.0,1.164179104477612,0.058617476571788,2741,522
+Would the master of the house wish me to order a fresh penis for your Frankenstein -- I'm terribly sorry -- I meant a fresh pizza for supper?,3.0,5.0,59.0,67.0,1.164179104477612,0.058617476571787994,2741,522
 Mr. Sanders is here to see you about his campaign.,1.0,8.0,52.0,61.0,1.1639344262295082,0.05320507735360911,2743,522
 It's Casual Friday. Lose the tails.,0.0,10.0,51.0,61.0,1.1639344262295082,0.04779468766266639,2743,522
 Have you found out how he takes his tea?,2.0,6.0,53.0,61.0,1.1639344262295082,0.05811392555691986,2743,522
@@ -2825,45 +2825,45 @@ Sir! Will Franklin be joining you for cocktails and or dinner?,2.0,4.0,44.0,50.0
 """He is asking you to hurry up sir,he wants to go and vote for Mr Trump.""",4.0,3.0,62.0,69.0,1.1594202898550725,0.06062753815464315,2824,522
 """Frank N. Stein is asking to speak with you, Sir. He said you'll know why he is here.""",2.0,6.0,55.0,63.0,1.1587301587301588,0.056372459377945175,2825,522
 """I really think your work here can win you the Nobel Pieces Prize, Victor""",2.0,5.0,50.0,57.0,1.1578947368421053,0.06022864581803467,2826,522
-"""Sir, you have a visitor from an American university, regarding a sport of football.""",1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
-"""I couldn't find those electrodes on Amazon, Sir.""",1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
-The representative from PETA is here to see you about the rights of your creation.,1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
+"""Sir, you have a visitor from an American university, regarding a sport of football.""",1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
+"""I couldn't find those electrodes on Amazon, Sir.""",1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
+The representative from PETA is here to see you about the rights of your creation.,1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
 in my opinion it is a simple case of measles,3.0,3.0,51.0,57.0,1.1578947368421053,0.06522312621390028,2826,522
-"""The abnormal brain you ordered from Amazon has shipped, sir.""",1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
-"""Sir, it's Con Edison on the line. They're asking if you want to pay your electric bill quarterly since you are such a good customer!""",1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
-"""Last I tried this, it was on Michael Jackson... his nose kept on falling off""",1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
+"""The abnormal brain you ordered from Amazon has shipped, sir.""",1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
+"""Sir, it's Con Edison on the line. They're asking if you want to pay your electric bill quarterly since you are such a good customer!""",1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
+"""Last I tried this, it was on Michael Jackson... his nose kept on falling off""",1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
 I'll inform Mr. Belichick his new left tackle is ready.,2.0,5.0,50.0,57.0,1.1578947368421053,0.06022864581803467,2826,522
 Dinner served are we going to have a guest.,0.0,9.0,48.0,57.0,1.1578947368421053,0.04872737367223956,2826,522
 """Sir, the Amazon delivery you've been waiting for has arrived.""",2.0,5.0,50.0,57.0,1.1578947368421053,0.06022864581803467,2826,522
-"""I presume, then, another chef's special this evening?""",1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
+"""I presume, then, another chef's special this evening?""",1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
 """Sie, Igor refuses to help out unless you stop using the h-word and referto him as """"spinally-challenged.""""""",0.0,9.0,48.0,57.0,1.1578947368421053,0.04872737367223956,2826,522
-"""Sir, the Countess insists you wear your safety goggles""",1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
+"""Sir, the Countess insists you wear your safety goggles""",1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
 """Excuse me sir, the spare parts delivery person is at the door.""",2.0,5.0,50.0,57.0,1.1578947368421053,0.06022864581803467,2826,522
 """Yes, sir. I've prepared the reserve sparks plugs, charged the electrodes and printed out the HIPAA compliance form. Will there be anything else, Doctor?""",2.0,5.0,50.0,57.0,1.1578947368421053,0.06022864581803467,2826,522
 The Party wants to know if the candidate is ready for the Villagers.,2.0,5.0,50.0,57.0,1.1578947368421053,0.06022864581803467,2826,522
 Our agent said we needed a bigger umbrella policy,3.0,3.0,51.0,57.0,1.1578947368421053,0.06522312621390028,2826,522
-"""yes, he can beat Trump.""",1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
+"""yes, he can beat Trump.""",1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
 """Begging your pardon, sir. Permission to jump to the left?""",2.0,5.0,50.0,57.0,1.1578947368421053,0.06022864581803467,2826,522
 """Sir, I'm quite certain this is not what your wife meant when she said you didn't know what it's like to bring a new life into the world.""",0.0,9.0,48.0,57.0,1.1578947368421053,0.04872737367223956,2826,522
 """Sir, we have visitors...asking if you are interested in something called """"The Watchtower""""...""",3.0,3.0,51.0,57.0,1.1578947368421053,0.06522312621390028,2826,522
-"""They say that salsa now outsells ketchup, sir, so I would definitely go with salsa.""",1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
-"""Excuse me sir, Mrs. Frankenstein would like to know how many for tea.""",1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
-"""I'm dreadfully sorry Dr. Frankenstein, but the weather man has yet again changed his forecast. Clear skies tonight.""",1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
+"""They say that salsa now outsells ketchup, sir, so I would definitely go with salsa.""",1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
+"""Excuse me sir, Mrs. Frankenstein would like to know how many for tea.""",1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
+"""I'm dreadfully sorry Dr. Frankenstein, but the weather man has yet again changed his forecast. Clear skies tonight.""",1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
 """Shall I wash his bolts, sir?""",2.0,5.0,50.0,57.0,1.1578947368421053,0.06022864581803467,2826,522
-I'm loving my new chiropractor.,1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
+I'm loving my new chiropractor.,1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
 """Your Brain sir, has arrived.""",2.0,5.0,50.0,57.0,1.1578947368421053,0.06022864581803467,2826,522
-Hit & run accident. Coroner says the liver's your for a C note.,1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
+Hit & run accident. Coroner says the liver's your for a C note.,1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
 """Getting him prepped for a third-party presidential run, doctor?""",0.0,9.0,48.0,57.0,1.1578947368421053,0.04872737367223956,2826,522
-"""Would that be two or three for dinner, sir?""",1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
+"""Would that be two or three for dinner, sir?""",1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
 The villagers are at the front door sir!,3.0,3.0,51.0,57.0,1.1578947368421053,0.06522312621390028,2826,522
 """You bellowed, Sir?""",0.0,9.0,48.0,57.0,1.1578947368421053,0.04872737367223956,2826,522
 """Sir, The town's raging mob with pitchforks and bats is here!""",2.0,5.0,50.0,57.0,1.1578947368421053,0.06022864581803467,2826,522
 """Would you like the leftovers for dinner, sir ?""",2.0,5.0,50.0,57.0,1.1578947368421053,0.06022864581803467,2826,522
 """I checked, AMAZON does not sell a man's left arm.""",0.0,9.0,48.0,57.0,1.1578947368421053,0.04872737367223956,2826,522
-"""Another libertarian, sir?""",1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
+"""Another libertarian, sir?""",1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
 """I've decided against donating a kidney to Frankie, Sir.""",3.0,3.0,51.0,57.0,1.1578947368421053,0.06522312621390028,2826,522
 I'm confused doctor. Will there be one or two for dinner?,2.0,5.0,50.0,57.0,1.1578947368421053,0.06022864581803467,2826,522
-M'Lord. If I may suggest a magnum of Brut for the occasion?,1.0,7.0,49.0,57.0,1.1578947368421053,0.054780684196477185,2826,522
+M'Lord. If I may suggest a magnum of Brut for the occasion?,1.0,7.0,49.0,57.0,1.1578947368421053,0.05478068419647719,2826,522
 """There is a movie director at the door who would like to speak with you, sir.""",2.0,5.0,50.0,57.0,1.1578947368421053,0.06022864581803467,2826,522
 """Master, I am pleased to report - indubitably - that he is alive.""",0.0,9.0,48.0,57.0,1.1578947368421053,0.04872737367223956,2826,522
 """Frank is a fine name, sir, but I think he looks Jewish, don't you?""",2.0,4.0,45.0,51.0,1.156862745098039,0.06491351120488961,2868,522
@@ -3070,7 +3070,7 @@ Shall he join us for high tea?,0.0,8.0,47.0,55.0,1.1454545454545455,0.0479771397
 """Before releasing him to the public, sir, could you please do something about his hair?""",0.0,8.0,47.0,55.0,1.1454545454545455,0.04797713974560777,3029,522
 Will Mr. Frankenstein be staying for dinner?,0.0,8.0,47.0,55.0,1.1454545454545455,0.04797713974560777,3029,522
 """Sir, """" Games of Thrones """" are on !""",2.0,4.0,49.0,55.0,1.1454545454545455,0.06040370257667094,3029,522
-"""Doctor, he's demanding more gin and two olives this time.""",1.0,7.0,54.0,62.0,1.1451612903225807,0.050626817657001666,3072,522
+"""Doctor, he's demanding more gin and two olives this time.""",1.0,7.0,54.0,62.0,1.1451612903225807,0.05062681765700167,3072,522
 Will you be joining Madame for supper or shall I serve you in your man cave?,2.0,5.0,55.0,62.0,1.1451612903225807,0.055604814502414286,3072,522
 """I'd give him a catchy name the villagers can really relate to - something basic, like wieners and bier.""",3.0,5.0,68.0,76.0,1.1447368421052628,0.0519917246060963,3074,522
 """Sir, please let me know when I should start looking for another job.""",1.0,6.0,49.0,56.0,1.1428571428571428,0.05362551382353917,3075,522
@@ -3082,12 +3082,12 @@ Will you be joining Madame for supper or shall I serve you in your man cave?,2.0
 The revised HIPAA code manual has just been delivered.,0.0,8.0,48.0,56.0,1.1428571428571428,0.047184161362558326,3075,522
 Can you pick up a latte with two sugars and a human brain?,1.0,6.0,49.0,56.0,1.1428571428571428,0.05362551382353917,3075,522
 """Sir, the front table has ordered another round of Zombies.""",0.0,8.0,48.0,56.0,1.1428571428571428,0.047184161362558326,3075,522
-"""Sir, Madame Frankenstein wishes for you to depart your man-making cave.""",0.0,7.0,42.0,49.0,1.1428571428571428,0.050507627227610534,3075,522
+"""Sir, Madame Frankenstein wishes for you to depart your man-making cave.""",0.0,7.0,42.0,49.0,1.1428571428571428,0.05050762722761053,3075,522
 """Sir, shall we bid on Einstein's brain?""",1.0,6.0,49.0,56.0,1.1428571428571428,0.05362551382353917,3075,522
 """Well, doctor, Windows 11 appears to be shaping up nicely.""",1.0,6.0,49.0,56.0,1.1428571428571428,0.05362551382353917,3075,522
 """Your prospects, I'm mean """"guests,"""" have arrived, sir.""",0.0,8.0,48.0,56.0,1.1428571428571428,0.047184161362558326,3075,522
-"""Lightning again, sir?""",0.0,7.0,42.0,49.0,1.1428571428571428,0.050507627227610534,3075,522
-I'm afraid tonight's brain has gone past its use-by date. Would you have a need for it here?,0.0,7.0,42.0,49.0,1.1428571428571428,0.050507627227610534,3075,522
+"""Lightning again, sir?""",0.0,7.0,42.0,49.0,1.1428571428571428,0.05050762722761053,3075,522
+I'm afraid tonight's brain has gone past its use-by date. Would you have a need for it here?,0.0,7.0,42.0,49.0,1.1428571428571428,0.05050762722761053,3075,522
 """Your tweet #Frankenstein, Sir, has gone viral.""",0.0,8.0,48.0,56.0,1.1428571428571428,0.047184161362558326,3075,522
 """Queen Cersei is upstairs, Sir, she inquires on Ser Gregors progress.""",1.0,7.0,55.0,63.0,1.1428571428571428,0.04986999410368025,3075,522
 """There's someone at the door, sir. A Mrs. Lily Munster.""",1.0,5.0,43.0,49.0,1.1428571428571428,0.05832118435198042,3075,522
@@ -3287,7 +3287,7 @@ I want to be Frankenstein,1.0,8.0,68.0,77.0,1.12987012987013,0.04276279513224073
 """I'm hopeful Master Igor has a speedy recovery, however I wish to submit my notice of resignation. I think it is prudent to say my agency was remiss in explaining the precise nature of duties, and the rather somewhat unconventional circumstances.""",1.0,5.0,48.0,54.0,1.1296296296296295,0.05317518675642072,3286,522
 """Sir, will your monster be dining with us tonight?""",0.0,7.0,47.0,54.0,1.1296296296296295,0.04613879568230499,3286,522
 """There's a storm a brewing, Sir.""",1.0,5.0,48.0,54.0,1.1296296296296295,0.05317518675642072,3286,522
-Mr. Nikola Tesla is here to demonstrate his coil.,2.0,3.0,49.0,54.0,1.1296296296296295,0.059383604691421,3286,522
+Mr. Nikola Tesla is here to demonstrate his coil.,2.0,3.0,49.0,54.0,1.1296296296296295,0.059383604691420996,3286,522
 The RNC would like to meet your third party candidate tomorrow morning.,1.0,5.0,48.0,54.0,1.1296296296296295,0.05317518675642072,3286,522
 """If I cannot find camembert, I will serve gruyere.""",0.0,7.0,47.0,54.0,1.1296296296296295,0.04613879568230499,3286,522
 So! This is where Downton' s resources have been going.,1.0,5.0,48.0,54.0,1.1296296296296295,0.05317518675642072,3286,522
@@ -3295,22 +3295,22 @@ I've just spoken to the press.,1.0,5.0,48.0,54.0,1.1296296296296295,0.0531751867
 """It doesn't matter what you accuse me of. They'll just say """"The butler did it.""""""",1.0,5.0,48.0,54.0,1.1296296296296295,0.05317518675642072,3286,522
 """Fresh from the Ritz, Fritz?""",0.0,7.0,47.0,54.0,1.1296296296296295,0.04613879568230499,3286,522
 His final request was to bring back Marilyn Monroe for him and let Mrs. Frankenstein rest in Hell.,0.0,7.0,47.0,54.0,1.1296296296296295,0.04613879568230499,3286,522
-Please be sure he knows that the fork and bread plate go on the left.,2.0,3.0,49.0,54.0,1.1296296296296295,0.059383604691421,3286,522
+Please be sure he knows that the fork and bread plate go on the left.,2.0,3.0,49.0,54.0,1.1296296296296295,0.059383604691420996,3286,522
 """I assure you, Sir, that I am willing and able to cause havoc and destruction to the nth degree.""",1.0,5.0,48.0,54.0,1.1296296296296295,0.05317518675642072,3286,522
 """Well yes, Mr. Robin, but when you told Mr. Batman you wanted a life of your own, he misunderstood.""",1.0,5.0,48.0,54.0,1.1296296296296295,0.05317518675642072,3286,522
-"""Liver for lunch, sir?""",2.0,3.0,49.0,54.0,1.1296296296296295,0.059383604691421,3286,522
+"""Liver for lunch, sir?""",2.0,3.0,49.0,54.0,1.1296296296296295,0.059383604691420996,3286,522
 """Sir, since the staff is hopelessly confused, couldn't we just call the monster Frankenstein?""",0.0,7.0,47.0,54.0,1.1296296296296295,0.04613879568230499,3286,522
 Reanimation! No problem. AskJeeves.com.,1.0,5.0,48.0,54.0,1.1296296296296295,0.05317518675642072,3286,522
 Mrs. Shelley wishes you to know she has written the best story.,0.0,7.0,47.0,54.0,1.1296296296296295,0.04613879568230499,3286,522
 """Sir, you rang regarding the organ donation?""",0.0,7.0,47.0,54.0,1.1296296296296295,0.04613879568230499,3286,522
-"""Will that be all, sir?""",2.0,3.0,49.0,54.0,1.1296296296296295,0.059383604691421,3286,522
+"""Will that be all, sir?""",2.0,3.0,49.0,54.0,1.1296296296296295,0.059383604691420996,3286,522
 """Pardon me, sir. The cutlets for this evening's dinner smell a bit rangy. Do you have anything to spare?""",1.0,5.0,48.0,54.0,1.1296296296296295,0.05317518675642072,3286,522
 """As you requested, we have ladyfingers. Where would you like them served?""",1.0,5.0,48.0,54.0,1.1296296296296295,0.05317518675642072,3286,522
 Will that be two for dinner – or is your guest not eating?,1.0,5.0,48.0,54.0,1.1296296296296295,0.05317518675642072,3286,522
 """I just got off the phone with Chapman, Smith, Cohen, Brody & O'Neal. Unfortunately you cannot copywrite a Halloween custome.""",0.0,7.0,47.0,54.0,1.1296296296296295,0.04613879568230499,3286,522
 """Sir, the police are at the door inquiring about the recently added giant lightning rod on the roof. What shall I tell them?""",0.0,7.0,47.0,54.0,1.1296296296296295,0.04613879568230499,3286,522
 """It's a Ms. Lanchester for you, sir.""",1.0,5.0,48.0,54.0,1.1296296296296295,0.05317518675642072,3286,522
-"""Sir, the University of Alabama coach is upstairs with two friendly """"cheerleaders"""" and a new Lexis. Shall I have him wait?""",2.0,3.0,49.0,54.0,1.1296296296296295,0.059383604691421,3286,522
+"""Sir, the University of Alabama coach is upstairs with two friendly """"cheerleaders"""" and a new Lexis. Shall I have him wait?""",2.0,3.0,49.0,54.0,1.1296296296296295,0.059383604691420996,3286,522
 Be sure he is well hydrated.,0.0,7.0,47.0,54.0,1.1296296296296295,0.04613879568230499,3286,522
 """Sir, if you're short body parts, there's leftover kidney pie and sauteed liver.""",1.0,5.0,48.0,54.0,1.1296296296296295,0.05317518675642072,3286,522
 """It appears I was mistaken, Sir, in thinking I had the one job that could never be outsourced.""",1.0,5.0,48.0,54.0,1.1296296296296295,0.05317518675642072,3286,522
@@ -3385,54 +3385,54 @@ A homeless lout named Igor. Shall I send him away?,0.0,6.0,43.0,49.0,1.122448979
 """Do you wish me to scream now, sir, or shall I come back later?""",1.0,3.0,37.0,41.0,1.1219512195121952,0.06242187264424257,3384,522
 Las Vegas called. Your entry in the science fair is getting a lot of late action.,0.0,4.0,29.0,33.0,1.1212121212121209,0.05769525080199931,3385,522
 You've finally asked too much of Jeeves.,1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
-I presume your guest will not be joining you for dinner!,0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
+I presume your guest will not be joining you for dinner!,0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
 """Sir, will you be dining in the laboratory during the storm this evening?""",2.0,2.0,46.0,50.0,1.12,0.061544740652965765,3386,522
 """Doctor, there's a solicitor inquiring if you may be interested in free solar panels.""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
 """Sir, your car will be finished charging in three hours.""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
-Make that one Turkey on Rye and one Blood Sausage on Multigrain...,0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
-You say you are voting for the candidate who would do MORE than waterboarding???,0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
+Make that one Turkey on Rye and one Blood Sausage on Multigrain...,0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
+You say you are voting for the candidate who would do MORE than waterboarding???,0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
 Wil you be wanting one or two olives in your Martini?,2.0,2.0,46.0,50.0,1.12,0.061544740652965765,3386,522
 Do you have any ketchup?,2.0,2.0,46.0,50.0,1.12,0.061544740652965765,3386,522
 """Sir, please join Igor and I in the kitchen for a cup of knee.""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
-"""Do you feel that a Pouilly-Fuissé would pair well with his gruel, Doctor?""",0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
+"""Do you feel that a Pouilly-Fuissé would pair well with his gruel, Doctor?""",0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
 There's aa Edward Lampert at the door sir. Something about reviving a dead brand.,1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
 """Sir, his wife won't stop calling until she speaks with him.""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
-"""Sir, your mother wishes to inform you that it is time for you to attend to your spelling homework.""",0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
+"""Sir, your mother wishes to inform you that it is time for you to attend to your spelling homework.""",0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
 """Will there be two for tea, sir?""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
 Excuse me sir. Have you given any thought to my request for an additional servant?,1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
-"""Doctor, will the candidate's transmogrification be realized in time for a 3rd Party Run?""",0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
-They're ready for the upgrade sir.,0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
+"""Doctor, will the candidate's transmogrification be realized in time for a 3rd Party Run?""",0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
+They're ready for the upgrade sir.,0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
 """Sir, the """"Save the Franks"""" are at the door!""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
 """Sir, will he be dining with us this evening?""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
-Excuse me Sir. There are two gentlemen from Scotland Yard to see you. Shall I ask them to come down?,0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
-"""Sir, I believe your liver is at the door.""",0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
+Excuse me Sir. There are two gentlemen from Scotland Yard to see you. Shall I ask them to come down?,0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
+"""Sir, I believe your liver is at the door.""",0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
 """I believe, Sir, they said they are from the S.P.C.M.""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
 """sir...a woman at the door for you..she said her name is """"Abbie Normal""""""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
 You have a phone call from S.T.E.M.,2.0,2.0,46.0,50.0,1.12,0.061544740652965765,3386,522
-"""Sir, the insurance company called. it is $500 deductible for the head,$350 for each hand......Bye the way,dinner is being served.""",0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
+"""Sir, the insurance company called. it is $500 deductible for the head,$350 for each hand......Bye the way,dinner is being served.""",0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
 """I'm telling them the whole thing was your idea, sir.""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
 """Sir, there are some villagers at the door. They're asking to see """"the big fella"""".""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
-Shall I prepare canapés for one or two?,0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
-"""You don't have a bat cave, sir.""",0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
+Shall I prepare canapés for one or two?,0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
+"""You don't have a bat cave, sir.""",0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
 His wife said he'd just been falling to pieces lately.,1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
-"""Sir, gentlemen from the power company are here investigating a recent power surge!""",0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
+"""Sir, gentlemen from the power company are here investigating a recent power surge!""",0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
 """Excuse me, sir. There is a telephone call from a Mr. Paul Ryan.""",2.0,2.0,46.0,50.0,1.12,0.061544740652965765,3386,522
-"""Her Majesty, the Queen is here for her scheduled maintenance!""",0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
+"""Her Majesty, the Queen is here for her scheduled maintenance!""",0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
 """Sir, the man from the Renaissance Fair is here. He said, """"Bring out your dead.""""""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
 """Sir, the HOA would like to see you.""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
-"""If I may, I recommend plenty of chicken noodle soup, sir.""",0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
+"""If I may, I recommend plenty of chicken noodle soup, sir.""",0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
 """Sir, I am confident that he will be ready as an option by the time the convention begins.""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
 """Will that be brains for two, sir?""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
-I'm afraid Igor has come down with something.,0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
-Excuse me Doctor... There is a Mister Musk here to see you... it's something about battery-powered human reanimation or something...,0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
+I'm afraid Igor has come down with something.,0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
+Excuse me Doctor... There is a Mister Musk here to see you... it's something about battery-powered human reanimation or something...,0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
 You are the real monster for giving him an Australian accent.,1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
 """Dr. Frankenstein and his monster to see you, sir.""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
 """I'm afraid Igor has a touch of the flu, Sir. The service has sent me as the day replacement.""",1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
-I'm afraid all we have is vodka and bitters.,0.0,6.0,44.0,50.0,1.12,0.046423076597919784,3386,522
+I'm afraid all we have is vodka and bitters.,0.0,6.0,44.0,50.0,1.12,0.04642307659791978,3386,522
 Some one from the Trump campaign is here to see you.,1.0,4.0,45.0,50.0,1.12,0.054510811509539764,3386,522
 """Doctor, the villagers are doing the Time Warp while Igor is crowd-surfing, so the benzos appear to be working.""",2.0,4.0,61.0,67.0,1.1194029850746268,0.04997687416213937,3432,522
 """Sorry Igor, t's not personal, soon we'll all be replaced by reanimation.""",1.0,3.0,38.0,42.0,1.119047619047619,0.060986670088086975,3433,522
-"""Sorry sir, he's not registered to vote""",1.0,5.0,53.0,59.0,1.11864406779661,0.048860455426129414,3434,522
+"""Sorry sir, he's not registered to vote""",1.0,5.0,53.0,59.0,1.11864406779661,0.04886045542612941,3434,522
 """Mary Shelley asked me to inform you that you can't patent life yet, but she has the copyright.""",1.0,4.0,46.0,51.0,1.1176470588235294,0.05348306547837592,3435,522
 """Well, milord, may I suggest the revivified sashimi? It's quite tasty today.""",0.0,6.0,45.0,51.0,1.1176470588235294,0.04556450995538139,3435,522
 """Sir, there's this strange looking fellow at the front gate wondering if you do running mates.""",1.0,4.0,46.0,51.0,1.1176470588235294,0.05348306547837592,3435,522
@@ -3597,36 +3597,36 @@ Who else did you expect to see summoned?,0.0,5.0,42.0,47.0,1.1063829787234043,0.
 """excuse me, sir, but chef can't find the brains he was planning to cook for dinner...""",1.0,2.0,35.0,38.0,1.1052631578947372,0.06299172069839128,3596,522
 Another failure Dr.... You can't make a monster out of tofu...,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 """Permission to speak freely, Doctor?""",0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
-"""Sir, Trump just called! He wants F to be his running mate.""",1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
+"""Sir, Trump just called! He wants F to be his running mate.""",1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
 Will your guest be joining you for dinner this evening ?,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 """Sir, when did you first realize that a butler would be better choice?""",0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 """Mr. Trump here to see you, sir.""",0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 """"""" The downstairs staff would like a word, Sir"""".""",0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 Does Frankenstein prefer brain milk or soy milk with his cappuccino?,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
-"""Sir, Mrs. Trump is on the phone. She's wondering if you've seen her husband around somewhere.""",1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
+"""Sir, Mrs. Trump is on the phone. She's wondering if you've seen her husband around somewhere.""",1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
 I'm trying a gluten free version this time,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 His mother called. She wants to know what time he will be home for dinner.,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 I have prepared leftovers casserole.,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
-A used spleen has arrived.,1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
+A used spleen has arrived.,1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
 """Dr. Frankenstein, your table is ready!""",2.0,1.0,45.0,48.0,1.1041666666666667,0.06130657275434796,3597,522
 """Klinsmann called, sir. Wants to know if you can make the arms longer.""",0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 Might I suggest finger food for this evening's meal?,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 Welcome to Mar-a-Lago.,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 """Sleepwalking again, Master Bruce?""",0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
-Master Trump will wish to be awakened regarding the unfortunate matter of my Facebook posts.,1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
+Master Trump will wish to be awakened regarding the unfortunate matter of my Facebook posts.,1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
 Excuse me Sir. Will Mr. Stein be joining us for dinner?,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 Will Frank be staying for dinner?,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
-I'd give him a name the villagers can relate to - something like wieners and beer.,1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
+I'd give him a name the villagers can relate to - something like wieners and beer.,1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
 I'd like to make him a little less monster-y this time.,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
-Good evening Sir. Mr. Igor wishes to tell you that he received an unexpected inheritance and hired me as his ironic replacement.,1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
+Good evening Sir. Mr. Igor wishes to tell you that he received an unexpected inheritance and hired me as his ironic replacement.,1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
 He ain't heavy he's my brother!,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
-Have I missed anything Sir?,1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
+Have I missed anything Sir?,1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
 The Karloff family is here wondering if you have any spare parts.,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
-It is time to reanimate Donald Drumpf!,1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
+It is time to reanimate Donald Drumpf!,1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
 """The breakfast beverage you were inquiring about, sir: it's Five Alive.""",0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
-"""Might I suggest an extra jigger of brandy, sir? That's sure to bring him around.""",1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
+"""Might I suggest an extra jigger of brandy, sir? That's sure to bring him around.""",1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
 Which family member will he be having for dinner?,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
-"""""""It's"""" not alive anymore, may I have another Viagra, sir?""",1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
+"""""""It's"""" not alive anymore, may I have another Viagra, sir?""",1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
 """Sir, we can't proceed; the inclement weather has rendered the solar panels powerless.""",0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 """Sir, would you care for fava beans with your liver tonight?""",0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 """Sir, shall I serve dinner on the roof tonight?""",0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
@@ -3637,19 +3637,19 @@ Hey! Where's Igor?,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597
 Your crowd funding mob has arrived herr doktor.,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 The hedge fund has given us an extension!,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 The researchers who cloned dolly the sheep have arrived. Shall I seat them in the formal dining room?,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
-"""Sir, you left your spare body parts in the dinning area again. A guest mistook a finger for an hors d'oeuvre.""",1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
-"""Will the elephant in the room also be taking tea, sir?""",1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
+"""Sir, you left your spare body parts in the dinning area again. A guest mistook a finger for an hors d'oeuvre.""",1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
+"""Will the elephant in the room also be taking tea, sir?""",1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
 will you be having guests for dinner tonight?,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 Was that a regular or a soy latte you wanted?,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
-I'm afraid Igor has done something with the sweetbreads. Would Sir prefer the foie gras instead?,1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
-"""Igor's brain is ready, doctor.""",1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
+I'm afraid Igor has done something with the sweetbreads. Would Sir prefer the foie gras instead?,1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
+"""Igor's brain is ready, doctor.""",1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
 """-dinner is being served master, only vegetables today since someone stole all the meat in the cabinet""",0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
-"""Doctor, have you see my red Swingline?""",1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
+"""Doctor, have you see my red Swingline?""",1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
 """Sire, may I suggest aspirin and water instead?""",0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 """Pardon me sir, but if this works will I be replaced by him?""",0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
 Will it be white tie tonight?,0.0,5.0,43.0,48.0,1.1041666666666667,0.04455834621587845,3597,522
-"""Sir,, you new brain has arrived. Where shall I place it?""",1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
-"""I was sent by the agency, sir. I was given to understand that you required a varlet.""",1.0,3.0,44.0,48.0,1.1041666666666667,0.053590773834580184,3597,522
+"""Sir,, you new brain has arrived. Where shall I place it?""",1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
+"""I was sent by the agency, sir. I was given to understand that you required a varlet.""",1.0,3.0,44.0,48.0,1.1041666666666667,0.05359077383458018,3597,522
 """Should I turn my power on now, sir?""",1.0,4.0,53.0,58.0,1.1034482758620692,0.047245066335558215,3652,522
 Shall I brew some coffee for when he wakes up?,0.0,4.0,35.0,39.0,1.1025641025641026,0.04921614717627658,3653,522
 Will your guest object to tonight's menu having Frankenfoods?,0.0,4.0,35.0,39.0,1.1025641025641026,0.04921614717627658,3653,522
@@ -3790,32 +3790,32 @@ Brewing your monster mash again I see.,1.0,2.0,41.0,44.0,1.0909090909090908,0.05
 """The current is too strong, sir. We've landed on the wrong page.""",1.0,2.0,42.0,45.0,1.0888888888888888,0.05339222337940409,3788,522
 """And, sir, will it be liver and onions again tonight?""",1.0,2.0,42.0,45.0,1.0888888888888888,0.05339222337940409,3788,522
 """Are you binge watching Downton Abbey again, Igor?""",1.0,2.0,42.0,45.0,1.0888888888888888,0.05339222337940409,3788,522
-The butcher is confused on what you meant by Bullseye,0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-"""The cadaver won't be delivered today, it's on backorder. Shall I put a rush on it?""",0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
+The butcher is confused on what you meant by Bullseye,0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+"""The cadaver won't be delivered today, it's on backorder. Shall I put a rush on it?""",0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
 """Shall I ask the zombie to stop eating the brain, Sir?""",1.0,2.0,42.0,45.0,1.0888888888888888,0.05339222337940409,3788,522
 Would you prefer the Rack or the Tenderloin ?,1.0,2.0,42.0,45.0,1.0888888888888888,0.05339222337940409,3788,522
 """Downton Abbey has enquired about a new First Footman, Sir?""",1.0,2.0,42.0,45.0,1.0888888888888888,0.05339222337940409,3788,522
-President Trump asks how this will make America Great Again.,0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-"""Doctor, might I suggest something stronger than green tea to stir your patient?""",0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-The Man with Two Brains is wondering if you'd like to go double or nothing.,0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-"""I do believe, sir, that it is alive.""",0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-"""That's fine, sir, it's just that I wanted to be Frank with you.""",0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
+President Trump asks how this will make America Great Again.,0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+"""Doctor, might I suggest something stronger than green tea to stir your patient?""",0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+The Man with Two Brains is wondering if you'd like to go double or nothing.,0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+"""I do believe, sir, that it is alive.""",0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+"""That's fine, sir, it's just that I wanted to be Frank with you.""",0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
 """Sir, the RNC keeps calling about the Ronald Reagan one.""",1.0,2.0,42.0,45.0,1.0888888888888888,0.05339222337940409,3788,522
-"""Actually, it's """"Frankenstein's Monster's Butler.""""""",0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-Sorry to interupt,0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-"""Herr, Doktur, it is time for the monster to be turned over for his afternoon pee.""",0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
+"""Actually, it's """"Frankenstein's Monster's Butler.""""""",0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+Sorry to interupt,0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+"""Herr, Doktur, it is time for the monster to be turned over for his afternoon pee.""",0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
 """Excuse me Dr. Emerson, but Mr. Lake and Mr. Palmer are here to assist.""",1.0,2.0,42.0,45.0,1.0888888888888888,0.05339222337940409,3788,522
-Dinner for 1 or 2 Dr. ?,0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-"""You'd best hurry, Dr. Trump, the villagers are coming.""",0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-I will be filling in as your henchman while Igor is out getting his spine straightened.,0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-We have a good model for the next President of the United States!,0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-"""Sir, oddly Mr. Trump phoned and is heartless. He has requested that of another monster.""""""",0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-"""Sir, the Wolfman is here for his neutering.""",0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-There appears to be a mob at the door doctor.,0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
+Dinner for 1 or 2 Dr. ?,0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+"""You'd best hurry, Dr. Trump, the villagers are coming.""",0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+I will be filling in as your henchman while Igor is out getting his spine straightened.,0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+We have a good model for the next President of the United States!,0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+"""Sir, oddly Mr. Trump phoned and is heartless. He has requested that of another monster.""""""",0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+"""Sir, the Wolfman is here for his neutering.""",0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+There appears to be a mob at the door doctor.,0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
 """Pardon me sir, but the brain is being served""",1.0,2.0,42.0,45.0,1.0888888888888888,0.05339222337940409,3788,522
-When is Igor back from vacation?,0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-"""Master,you're playdate has arrived.""",0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
-"""Unfortunately, the mob is preoccupied with social media.""",0.0,4.0,41.0,45.0,1.0888888888888888,0.042902546629485463,3788,522
+When is Igor back from vacation?,0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+"""Master,you're playdate has arrived.""",0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
+"""Unfortunately, the mob is preoccupied with social media.""",0.0,4.0,41.0,45.0,1.0888888888888888,0.04290254662948546,3788,522
 """Sir, the brain from the Committee has arrived.""",1.0,2.0,43.0,46.0,1.0869565217391304,0.0522543663110723,3818,522
 The previous Master prefered me to mix the Monster's first drink.,0.0,4.0,42.0,46.0,1.0869565217391304,0.04200399056866503,3818,522
 """Sir, your tea is getting cold.""",2.0,0.0,44.0,46.0,1.0869565217391304,0.060800512937400075,3818,522
@@ -4240,8 +4240,8 @@ Your table is ready,1.0,1.0,45.0,47.0,1.0638297872340423,0.0471603962868858,4233
 """No sir, I don't think you are mocking the stupendous mechanism of the creator of the world.""",0.0,3.0,44.0,47.0,1.0638297872340423,0.036042108674890216,4233,522
 Would you monster like breakfast in bed sir?,0.0,3.0,44.0,47.0,1.0638297872340423,0.036042108674890216,4233,522
 Can Sir say if they will all want tea?,0.0,3.0,44.0,47.0,1.0638297872340423,0.036042108674890216,4233,522
-"""Sir, a Los Angeles agent is calling about your work on Son of Trump.""",0.0,3.0,45.0,48.0,1.0625,0.035308292679127,4242,522
-"""Your father would like to complete his experiment, sir.""",0.0,3.0,45.0,48.0,1.0625,0.035308292679127,4242,522
+"""Sir, a Los Angeles agent is calling about your work on Son of Trump.""",0.0,3.0,45.0,48.0,1.0625,0.035308292679126996,4242,522
+"""Your father would like to complete his experiment, sir.""",0.0,3.0,45.0,48.0,1.0625,0.035308292679126996,4242,522
 """Sir, I am willing to work for employee stock options.""",0.0,4.0,61.0,65.0,1.0615384615384615,0.030039421830410213,4244,522
 """Shall I bring an extra cup for cocoa, sir?""",0.0,4.0,62.0,66.0,1.0606060606060606,0.02959546899413308,4245,522
 """With the greatest respect, Sir. Perhaps Sir didn't fully investigate the literature? Sir will find my patent numbers on the back of my neck.""",0.0,3.0,47.0,50.0,1.06,0.033926691677251195,4246,522
@@ -4303,87 +4303,87 @@ Fronkensteen... Not Frankenstein... Very good sir.,0.0,2.0,38.0,40.0,1.05,0.0348
 It took me over a century to clean up the last attempt at misguided creativeness!,0.0,2.0,38.0,40.0,1.05,0.03489912202260563,4273,522
 My replacement will never have my English accent.,0.0,2.0,38.0,40.0,1.05,0.03489912202260563,4273,522
 Is the orange potion ready sir? not much time left to general election.,0.0,3.0,58.0,61.0,1.0491803278688523,0.027917026829387525,4304,522
-Still a bit shy on haughtiness. M'lord.,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""A Master """"GW"""" Bush and Master Dick Cheney have arrived for their donor transplants, sir!""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""If it's all right with you sir, mother would like Teddy home before the storm.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Is this lunch or dinner,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-i told you victor to put your toys away...dinner in five minutes,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-You raaang?,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-I did it.,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Will you be requiring adrenaline, sir?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Doctor Frankenstein, I have the results of your monster's urine test, it came back 'dirty.'""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Dr. Frankenstein sent me to remind you that if he is not sufficiently charming, then he is your [italicized] monster, Master Igor.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Sir: Will your guest be joining you for dinner this evening?,1.0,0.0,40.0,41.0,1.048780487804878,0.04878048780487807,4305,522
-'I don't care what they do with the rain in Spain!',0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""My good doctor, let me mix you a little something that will shock the system.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""I'm from the temp agency, sir. May I get you anything?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Entirely up to you as to what to call him, sir, but why not name your creation after yourself? Why 'Drumpf?'""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Shall I fetch the lightning bolt for you, sir?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-His Lordship wishes to know how well Mr Barrow is responding to treatment?,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""The union sent me, sir. It turns out Igor was quite insane.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""I'm sorry to disturb you, sir, but the decorators are weeping.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Will he be ready for dinner with the guests upstairs,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-There may be some lingering resentment.,1.0,0.0,40.0,41.0,1.048780487804878,0.04878048780487807,4305,522
-The staff are requesting more creature comforts.,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Sir, """"The Donald"""" is requesting a Father's Day photo shoot. Shall it be you or Frank?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Shall I announce the impending birth, Sir?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Beg your pardon, Master Frankenstein, your father's new bride has arrived. Might we untie him now?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Master, Class?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Look what happened to the G.O.P.,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Will you be using the bicycle or skateboard today?,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Hey, don't sneak up on me like that, you creep!""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Not so 'good evening.',0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Will you be having lightning boiled brains with your tea, sir?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Yes Doctor, I did it."""" """"Is it that obvious?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Sir, your order from NewBrain.com has arrived.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Your mother wants to know if you are coming up for dinner.,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""No, I needed a buckle""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Your O'Rielly Factor, Sir.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""It seemed more Republican, sir.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Lady Mary requests that you both join the family for dinner. The film crew have left Downton for the day.,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Victor, it's time for Franky's electric voltage lunch.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Sir, we have the problem with Frankenstein 8 event. They already know that he will have just one arm.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Just a decaf cappuccino for now, I'm already too charged up.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Sir, may I recommend a Grande, Quad, Nonfat, One-Pump, Latte?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Sir, the townsfolk are here with their pitchforks.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""I hear you the best mixologist in town, but I'm not sure about the décor.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Would you like Frank's for dinner sir?,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Shall I prepare your brain for transplant, Sir?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""I know I messed up last time, but please trust me.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""As you wish Sir, to make a 3 minute egg you first boil the water""",1.0,0.0,40.0,41.0,1.048780487804878,0.04878048780487807,4305,522
-Your next mani-pedi bro-zilian has arrived.,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""A property has become available on Broadway, you say?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Jeeve's """"Do we have any olives""""""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Mr. Coll, would you care for a cocktail while you construct your next story?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Sir, your """"Stein"""" has arrived.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-I find your manners to be monstrous.,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Shall I prepare some steak and kidney pie for when he wakes up, sir?""",1.0,0.0,40.0,41.0,1.048780487804878,0.04878048780487807,4305,522
-Frankenstein? Why not call him Bob-enstein?,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-He's taken molecular gastronomy to a new level.,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Sir, I greatly apologize for the decaffeinated tea this morning.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Two minutes until plating for this week's quick fire challenge!,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Sir, your mother is on the phone.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Sir, how many for dinner tonight?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Would master like his usual afternoon Corpse Reviver?,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Cats and dogs can fall from the sky, then dry off under here.""",1.0,0.0,40.0,41.0,1.048780487804878,0.04878048780487807,4305,522
-Will he be eating upstairs or downstairs?,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Of course, young Master Frankenst . . . I mean, 'Yes, Master.'""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""'WD40', yes, it's catchy sir.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-What Boris be wanting dinner?,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Cook says she's not sure there will be enough vichyssoise. Can you postpone this experiment until tomorrow?,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Townsmen with pitchforks and torches--at the *front* door, sir.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Mr. Bogart will see you in a couple of minutes, Mr. Greenstreet.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Alfred, would you please pass the torque wrench?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Your milk and cookies are ready to be served.,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Would you like fries with that?,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Doctor Frankenstein, sir, I am pleased to note the staff unanimously support """"Natural Man!"""" over """"GMO Jimmy!"""" Will there be anything else, sir?""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-Mr. Trump will see you now.,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Your monster, sir?…is good people.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-The guests are clamoring for their third sir.party nominee,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Excuse me sir, but would Mr. Boyle enjoy some tea.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""May I address you as """"Sir?"""" If both of us use the appellation """"Master,"""" people may think we are twins.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-"""Actually, I'm the Gentleman's Gentleman you are the Gentleman.""",0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
-What would you like for lunch?,0.0,2.0,39.0,41.0,1.048780487804878,0.03405912205797305,4305,522
+Still a bit shy on haughtiness. M'lord.,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""A Master """"GW"""" Bush and Master Dick Cheney have arrived for their donor transplants, sir!""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""If it's all right with you sir, mother would like Teddy home before the storm.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Is this lunch or dinner,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+i told you victor to put your toys away...dinner in five minutes,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+You raaang?,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+I did it.,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Will you be requiring adrenaline, sir?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Doctor Frankenstein, I have the results of your monster's urine test, it came back 'dirty.'""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Dr. Frankenstein sent me to remind you that if he is not sufficiently charming, then he is your [italicized] monster, Master Igor.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Sir: Will your guest be joining you for dinner this evening?,1.0,0.0,40.0,41.0,1.0487804878048779,0.04878048780487807,4305,522
+'I don't care what they do with the rain in Spain!',0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""My good doctor, let me mix you a little something that will shock the system.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""I'm from the temp agency, sir. May I get you anything?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Entirely up to you as to what to call him, sir, but why not name your creation after yourself? Why 'Drumpf?'""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Shall I fetch the lightning bolt for you, sir?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+His Lordship wishes to know how well Mr Barrow is responding to treatment?,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""The union sent me, sir. It turns out Igor was quite insane.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""I'm sorry to disturb you, sir, but the decorators are weeping.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Will he be ready for dinner with the guests upstairs,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+There may be some lingering resentment.,1.0,0.0,40.0,41.0,1.0487804878048779,0.04878048780487807,4305,522
+The staff are requesting more creature comforts.,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Sir, """"The Donald"""" is requesting a Father's Day photo shoot. Shall it be you or Frank?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Shall I announce the impending birth, Sir?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Beg your pardon, Master Frankenstein, your father's new bride has arrived. Might we untie him now?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Master, Class?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Look what happened to the G.O.P.,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Will you be using the bicycle or skateboard today?,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Hey, don't sneak up on me like that, you creep!""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Not so 'good evening.',0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Will you be having lightning boiled brains with your tea, sir?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Yes Doctor, I did it."""" """"Is it that obvious?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Sir, your order from NewBrain.com has arrived.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Your mother wants to know if you are coming up for dinner.,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""No, I needed a buckle""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Your O'Rielly Factor, Sir.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""It seemed more Republican, sir.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Lady Mary requests that you both join the family for dinner. The film crew have left Downton for the day.,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Victor, it's time for Franky's electric voltage lunch.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Sir, we have the problem with Frankenstein 8 event. They already know that he will have just one arm.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Just a decaf cappuccino for now, I'm already too charged up.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Sir, may I recommend a Grande, Quad, Nonfat, One-Pump, Latte?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Sir, the townsfolk are here with their pitchforks.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""I hear you the best mixologist in town, but I'm not sure about the décor.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Would you like Frank's for dinner sir?,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Shall I prepare your brain for transplant, Sir?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""I know I messed up last time, but please trust me.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""As you wish Sir, to make a 3 minute egg you first boil the water""",1.0,0.0,40.0,41.0,1.0487804878048779,0.04878048780487807,4305,522
+Your next mani-pedi bro-zilian has arrived.,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""A property has become available on Broadway, you say?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Jeeve's """"Do we have any olives""""""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Mr. Coll, would you care for a cocktail while you construct your next story?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Sir, your """"Stein"""" has arrived.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+I find your manners to be monstrous.,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Shall I prepare some steak and kidney pie for when he wakes up, sir?""",1.0,0.0,40.0,41.0,1.0487804878048779,0.04878048780487807,4305,522
+Frankenstein? Why not call him Bob-enstein?,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+He's taken molecular gastronomy to a new level.,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Sir, I greatly apologize for the decaffeinated tea this morning.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Two minutes until plating for this week's quick fire challenge!,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Sir, your mother is on the phone.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Sir, how many for dinner tonight?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Would master like his usual afternoon Corpse Reviver?,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Cats and dogs can fall from the sky, then dry off under here.""",1.0,0.0,40.0,41.0,1.0487804878048779,0.04878048780487807,4305,522
+Will he be eating upstairs or downstairs?,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Of course, young Master Frankenst . . . I mean, 'Yes, Master.'""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""'WD40', yes, it's catchy sir.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+What Boris be wanting dinner?,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Cook says she's not sure there will be enough vichyssoise. Can you postpone this experiment until tomorrow?,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Townsmen with pitchforks and torches--at the *front* door, sir.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Mr. Bogart will see you in a couple of minutes, Mr. Greenstreet.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Alfred, would you please pass the torque wrench?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Your milk and cookies are ready to be served.,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Would you like fries with that?,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Doctor Frankenstein, sir, I am pleased to note the staff unanimously support """"Natural Man!"""" over """"GMO Jimmy!"""" Will there be anything else, sir?""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+Mr. Trump will see you now.,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Your monster, sir?…is good people.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+The guests are clamoring for their third sir.party nominee,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Excuse me sir, but would Mr. Boyle enjoy some tea.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""May I address you as """"Sir?"""" If both of us use the appellation """"Master,"""" people may think we are twins.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+"""Actually, I'm the Gentleman's Gentleman you are the Gentleman.""",0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
+What would you like for lunch?,0.0,2.0,39.0,41.0,1.0487804878048779,0.03405912205797305,4305,522
 """Your guests have arrived,sir. Shall I show them in?""",0.0,2.0,40.0,42.0,1.0476190476190477,0.033258585512837065,4386,522
 """Shall I wash your beast, sir?""",0.0,2.0,40.0,42.0,1.0476190476190477,0.033258585512837065,4386,522
 """Sir. We will need refrigeration for the body. The dry season is here. No chance of thunderstorms with lightning, for a month.""",0.0,2.0,40.0,42.0,1.0476190476190477,0.033258585512837065,4386,522
@@ -4493,7 +4493,7 @@ Mary sent me to assist you.,0.0,2.0,45.0,47.0,1.0425531914893618,0.0297607917523
 The agency sends its apologies for my posture.,0.0,2.0,46.0,48.0,1.0416666666666667,0.029147663515556005,4492,522
 """Lets dissect this body Filmore, Nah I got better stuff to do like making Sulfuric Acid""",0.0,2.0,46.0,48.0,1.0416666666666667,0.029147663515556005,4492,522
 """It's not very good when it's windy but, at least, I'll never forget it on the bus.""",1.0,1.0,70.0,72.0,1.0416666666666667,0.03088103783315228,4492,522
-"""Smoked meat on rye it is, Sir.""",1.0,0.0,47.0,48.0,1.0416666666666667,0.04166666666666666,4492,522
+"""Smoked meat on rye it is, Sir.""",1.0,0.0,47.0,48.0,1.0416666666666667,0.041666666666666664,4492,522
 """Sir, the chef is asking if your palate can go vegetarian for tonight's dinner.""",0.0,2.0,48.0,50.0,1.04,0.02799416848895062,4496,522
 """Sir, there is an Ira Flatow who keeps ringing back.""",0.0,2.0,49.0,51.0,1.03921568627451,0.027450980392156862,4497,522
 """The weather report is sunny and clear, Sir. Your guests have arrived.""",0.0,2.0,50.0,52.0,1.0384615384615383,0.026928463154384786,4498,522
@@ -4643,10 +4643,10 @@ I've had the chef prepare your Rocky Mountain Oysters.,0.0,1.0,40.0,41.0,1.02439
 """Would you care for your tiramisu now, sir?""",0.0,1.0,40.0,41.0,1.024390243902439,0.02469323991623974,4626,522
 Don't tell anybody we added ketch-up to make it look good.,0.0,1.0,40.0,41.0,1.024390243902439,0.02469323991623974,4626,522
 """Sir, the House Party wanted hot dogs, not Franks-enstein.""",0.0,1.0,40.0,41.0,1.024390243902439,0.02469323991623974,4626,522
-I'm off to pick up Frankenstein's daughter from soccer practice.,0.0,1.0,41.0,42.0,1.0238095238095235,0.024098134635594,4645,522
+I'm off to pick up Frankenstein's daughter from soccer practice.,0.0,1.0,41.0,42.0,1.0238095238095235,0.024098134635593998,4645,522
 """If I may, Sir. Is it time to know to know more?""",0.0,1.0,42.0,43.0,1.0232558139534884,0.023531040266750583,4646,522
 """When you've finished hallucinating, Sir, the lady of the house requires a resupply of pickles and ice cream.""",0.0,1.0,43.0,44.0,1.0227272727272727,0.022990024493585143,4647,522
-Does your guest want tea or scotch?,0.0,1.0,44.0,45.0,1.0222222222222221,0.022473328748774737,4648,522
+Does your guest want tea or scotch?,0.0,1.0,44.0,45.0,1.022222222222222,0.022473328748774737,4648,522
 """Sir, I'm off to my Pipp family reunion. Igor will be covering for me.""",0.0,1.0,45.0,46.0,1.0217391304347827,0.021979349113192898,4649,522
 """Igor, when I said get the juice ready, I didn't mean for you to mix up your vitamin c shake.""",0.0,1.0,45.0,46.0,1.0217391304347827,0.021979349113192898,4649,522
 """Sir, would you like your tea served here or in the living room?""",0.0,1.0,47.0,48.0,1.0208333333333333,0.02105379802666297,4651,522
@@ -4669,7 +4669,7 @@ Take a whiff of this!,0.0,0.0,38.0,38.0,1.0,0.02666903735313325,4657,522
 Are you sure they make monster movies like that?,0.0,0.0,37.0,37.0,1.0,0.02739983121755955,4657,522
 The Dowager Countess requests that you bring her your special cocktail this evening.,0.0,0.0,37.0,37.0,1.0,0.02739983121755955,4657,522
 """Are you not happy with my yummy sounds, sir?""",0.0,0.0,34.0,34.0,1.0,0.029854071701326607,4657,522
-The sushi buffet model has been secured.,0.0,0.0,42.0,42.0,1.0,0.024098134635594,4657,522
+The sushi buffet model has been secured.,0.0,0.0,42.0,42.0,1.0,0.024098134635593998,4657,522
 Alfred it's deathly cold down here could you increase the heat?,0.0,0.0,36.0,36.0,1.0,0.02817180849095056,4657,522
 """Sorry to interrupt, but you mother obliged me to inform you that dinner is being served upstairs.""",0.0,0.0,35.0,35.0,1.0,0.028988551782622426,4657,522
 Mr. Drake U. La the rapper on the telly for you Doctor.,0.0,0.0,37.0,37.0,1.0,0.02739983121755955,4657,522
@@ -4744,5 +4744,5 @@ Egor sir? He is attending the European Shuffle Championships this week.,0.0,0.0,
 """Would it please you if I were to secure another joint for young, Mr.-know-it-all?""",0.0,0.0,37.0,37.0,1.0,0.02739983121755955,4657,522
 The construction crew wants to order twenty more.,0.0,0.0,47.0,47.0,1.0,0.021506619680967013,4657,522
 """I do apologize for the misunderstanding, sir. I meant the mechanic wasn't able to utilize the lightning rod to bring your CAR back to life; we all have the greatest confidence in your continued efforts to revive Nikola.""",0.0,0.0,38.0,38.0,1.0,0.02666903735313325,4657,522
-"""Doctor, the Republican chair is on the line. Their only hope is for someone who can beat Trump in a floor fight.""",0.0,0.0,42.0,42.0,1.0,0.024098134635594,4657,522
+"""Doctor, the Republican chair is on the line. Their only hope is for someone who can beat Trump in a floor fight.""",0.0,0.0,42.0,42.0,1.0,0.024098134635593998,4657,522
 """Sorry sir, but your Mum, the Countess, would like to know how many will there be for dinner?""",0.0,0.0,36.0,36.0,1.0,0.02817180849095056,4657,522

@@ -1,5 +1,5 @@
 rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
-1,Now let's see 'em walk off with the bathroom key!,1.9754804506295558,0.011690634364356292,4527.0,1457.0,1724.0,1346.0,571
+1,Now let's see 'em walk off with the bathroom key!,1.975480450629556,0.011690634364356292,4527.0,1457.0,1724.0,1346.0,571
 2,"It was free, but the shipping cost me an arm and a leg.",1.961109340133886,0.014432871710308097,3137.0,1088.0,1083.0,966.0,571
 3,"Arrgh, we'll see if the bathroom key goes missing now!",1.9147251752997057,0.011769575914646993,4421.0,1558.0,1682.0,1181.0,571
 4,Why does everyone assume it's mine?,1.854208084824387,0.014137437875909976,3018.0,1162.0,1134.0,722.0,571
@@ -16,7 +16,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 15,"Would you like that for here, or take aweigh?",1.6655260906757914,0.021653902624961904,1169.0,581.0,398.0,190.0,571
 16,It cost me an arm and a leg...,1.660463004993191,0.01557014353990894,2203.0,1089.0,773.0,341.0,571
 17,Does it look like I can give you a hand?,1.6602254428341383,0.02168238303766036,1242.0,645.0,374.0,223.0,571
-18,"Arrggh, it looked smaller on eBay.",1.65125591554423,0.013671464745571222,2747.0,1351.0,1003.0,393.0,571
+18,"Arrggh, it looked smaller on eBay.",1.6512559155442301,0.013671464745571222,2747.0,1351.0,1003.0,393.0,571
 19,We're Starboard's. Starbucks is up the street.,1.6409681757059615,0.015578518640001073,2231.0,1148.0,736.0,347.0,571
 20,The last one I left outside got stolen.,1.6400742115027829,0.013900513403660705,2695.0,1361.0,943.0,391.0,571
 21,"There's mutiny in the air. Also Viennese dark roast, but mainly mutiny.",1.6269640141915864,0.016392066371871763,1973.0,1028.0,653.0,292.0,571
@@ -39,7 +39,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 38,"Wifi password is ANCHOR, all caps.",1.5253496503496504,0.02079169360992989,1144.0,683.0,321.0,140.0,571
 39,When are they going to put that anchor aweigh?,1.5122918318794607,0.019770778958968827,1261.0,768.0,340.0,153.0,571
 40,I don't care what you think. We haven't had a customer walk off with the bathroom key since I thought of it.,1.5111301369863013,0.019753310919757152,1168.0,691.0,357.0,120.0,571
-41,Nobody complained when Seth brought in his bicycle wheel.,1.5084507042253519,0.0254266635319846,710.0,423.0,213.0,74.0,571
+41,Nobody complained when Seth brought in his bicycle wheel.,1.508450704225352,0.0254266635319846,710.0,423.0,213.0,74.0,571
 42,Better to have it and not need it than need it and not have it.,1.5015151515151517,0.02639402072258204,660.0,398.0,193.0,69.0,571
 43,It's a metaphor. Deal with it.,1.5009560229445509,0.02158975426567751,1046.0,646.0,276.0,124.0,571
 44,It saved his life - he hung on to it till help arrived.,1.5,0.02284071641260899,1118.0,745.0,187.0,186.0,571
@@ -54,7 +54,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 53,It takes the attention off my hook,1.4715025906735748,0.023127693039666133,772.0,471.0,238.0,63.0,571
 54,The wife got the boat.,1.4678492239467849,0.03141437317247167,451.0,284.0,123.0,44.0,571
 55,This restaurant has three locations but this is the anchor store.,1.463611859838275,0.02361112035948152,742.0,459.0,222.0,61.0,571
-56,It was either The Rusty Anchor or The Greasy Spoon.,1.4630177514792901,0.025814602392100577,676.0,431.0,177.0,68.0,571
+56,It was either The Rusty Anchor or The Greasy Spoon.,1.46301775147929,0.025814602392100577,676.0,431.0,177.0,68.0,571
 57,"If I'd known you could rename hardtack 'biscotti' and charge eight bucks for it, I would've given up pirating ages ago.",1.4609756097560975,0.03503877117502676,410.0,273.0,85.0,52.0,571
 58,I'm just working this job until my ship comes in.,1.4608938547486034,0.02484098067868025,716.0,455.0,192.0,69.0,571
 59,They said they needed an anchor store at this mall.,1.458755426917511,0.02523301212362224,691.0,440.0,185.0,66.0,571
@@ -133,9 +133,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 131,It grows on you if you let it sink in.,1.370242214532872,0.03349587013487128,289.0,195.0,81.0,13.0,571
 133,My therapist says I need to let go of the past and things that are holding me back.,1.368421052631579,0.036581733765486124,285.0,201.0,63.0,21.0,571
 134,My ad agency claimed the place needed a new hook,1.3674911660777385,0.03775869240738888,283.0,203.0,56.0,24.0,571
-134,"You want mermaids, go to Starbucks.",1.3674911660777385,0.03640708396485207,283.0,199.0,64.0,20.0,571
+134,"You want mermaids, go to Starbucks.",1.3674911660777385,0.036407083964852066,283.0,199.0,64.0,20.0,571
 136,"In just 2 weeks time, Jerry began taking his new role as Team Captain a bit too seriously",1.3673469387755102,0.04930004202251735,147.0,102.0,36.0,9.0,571
-137,And I sez we keep sailin' til I find the grinder that ate my hand.,1.3665480427046264,0.036224591677675666,281.0,197.0,65.0,19.0,571
+137,And I sez we keep sailin' til I find the grinder that ate my hand.,1.3665480427046264,0.03622459167767567,281.0,197.0,65.0,19.0,571
 138,"Aye, welcome to Aarrrbucks.",1.3655913978494625,0.03845701127953026,279.0,202.0,52.0,25.0,571
 139,"I know it's Pirate Awareness Month, but can't he just wear a ribbon or something?",1.3646209386281591,0.037266036256296216,277.0,197.0,59.0,21.0,571
 139,We're going to need a bigger boat.,1.3646209386281591,0.03691337499009778,277.0,196.0,61.0,20.0,571
@@ -148,9 +148,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 147,"Aye, I'm waiting for the ship to come in.",1.3587786259541983,0.0371301694869084,262.0,185.0,60.0,17.0,571
 148,When I first saw this place I knew it was where I wanted to drop anchor.,1.3565891472868217,0.03584491677828984,258.0,179.0,66.0,13.0,571
 149,It's called ambiance. Would you prefer the gang plank?,1.3543307086614174,0.03702849526495117,254.0,179.0,60.0,15.0,571
-150,What anchor?,1.352459016393443,0.04181838893125656,244.0,182.0,38.0,24.0,571
+150,What anchor?,1.3524590163934427,0.04181838893125656,244.0,182.0,38.0,24.0,571
 151,"You've never heard of ""objets D'ARRR""?",1.352112676056338,0.04479052070831862,213.0,159.0,33.0,21.0,571
-152,Welcome to Aaarrhh-bucks!,1.3519999999999999,0.040284928968635794,250.0,184.0,44.0,22.0,571
+152,Welcome to Aaarrhh-bucks!,1.352,0.040284928968635794,250.0,184.0,44.0,22.0,571
 153,Drop it. Just drop it.,1.3508064516129032,0.0409020334510994,248.0,184.0,41.0,23.0,571
 153,No it's not mine... for the hundredth bloody time.,1.3508064516129032,0.03843276158710689,248.0,178.0,53.0,17.0,571
 155,Argh! Deal with it...we're an anchor store.,1.3472803347280335,0.03659492738440552,239.0,167.0,61.0,11.0,571
@@ -159,7 +159,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 158,My designer told me it anchors the room.,1.3449781659388649,0.04004965241929781,229.0,166.0,47.0,16.0,571
 158,Call me Starbuck,1.3449781659388649,0.04099494358737954,229.0,168.0,43.0,18.0,571
 160,It's good to the last drop.,1.3446808510638295,0.039794171986513235,235.0,171.0,47.0,17.0,571
-161,Careful. That's how I lost mine.,1.343612334801762,0.041697593319438016,227.0,168.0,40.0,19.0,571
+161,Careful. That's how I lost mine.,1.3436123348017621,0.041697593319438016,227.0,168.0,40.0,19.0,571
 162,It looked much smaller on the internet.,1.3433476394849786,0.04092413959138279,233.0,172.0,42.0,19.0,571
 162,"Pirate, barista, repo man; it is getting hard to survive with only one job.",1.3433476394849786,0.03811552430450462,233.0,166.0,54.0,13.0,571
 162,Arg. It looked a lot smaller on Amazon.,1.3433476394849786,0.0400098471029206,233.0,170.0,46.0,17.0,571
@@ -210,8 +210,8 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 209,You bring in one oversized anchor and all of a sudden no one cares that you have a metal hook for a hand.,1.3128491620111729,0.042102951874012084,179.0,132.0,38.0,9.0,571
 209,I'm not taking the anchor away.,1.3128491620111729,0.046360357508680124,179.0,138.0,26.0,15.0,571
 211,It doesn't matter what I say because a lame pun worthy of a Ziggy greeting card is going to win anyway.,1.3114754098360657,0.048158891783800034,183.0,145.0,19.0,19.0,571
-212,It has as much to do with coffee as a mermaid!,1.3093922651933705,0.04385996507286687,181.0,137.0,32.0,12.0,571
-212,It’s just a coincidence.,1.3093922651933705,0.04385996507286687,181.0,137.0,32.0,12.0,571
+212,It has as much to do with coffee as a mermaid!,1.3093922651933705,0.043859965072866866,181.0,137.0,32.0,12.0,571
+212,It’s just a coincidence.,1.3093922651933705,0.043859965072866866,181.0,137.0,32.0,12.0,571
 212,"No, the hat and the hook were not enough!",1.3093922651933705,0.04243726932524092,181.0,135.0,36.0,10.0,571
 212,Thar she brews!,1.3093922651933705,0.04243726932524092,181.0,135.0,36.0,10.0,571
 216,What are you landlubbers staring at? Ain't you never seen seaweed before?,1.3076923076923077,0.056465675359676025,104.0,78.0,20.0,6.0,571
@@ -287,7 +287,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 282,"I seek the White Whale. Are you with me, Starbucks?",1.2818791946308723,0.044750286561723834,149.0,114.0,28.0,7.0,571
 282,The next person who criticizes me fanciful design choices gets gutted like a mackerel.,1.2818791946308723,0.04769352484413387,149.0,117.0,22.0,10.0,571
 282,"Aye, I came here straight from me other job.",1.2818791946308723,0.04769352484413387,149.0,117.0,22.0,10.0,571
-282,"Ahoy thar, and welcome to Arrrbuck's internet piracy cafe.",1.2818791946308723,0.050465398807099784,149.0,120.0,16.0,13.0,571
+282,"Ahoy thar, and welcome to Arrrbuck's internet piracy cafe.",1.2818791946308723,0.05046539880709978,149.0,120.0,16.0,13.0,571
 282,So last year I just decided to settle down here in Wichita,1.2818791946308723,0.04673304602196191,149.0,116.0,24.0,9.0,571
 291,"Okay, that's one grande soy skinny mocha frappe with two shots of espresso and one gigantic anchor. Can I have your name please?",1.2814814814814814,0.0511361808715124,135.0,107.0,18.0,10.0,571
 292,And they told me I'd have my own locker.,1.2808219178082192,0.04426820678301526,146.0,111.0,29.0,6.0,571
@@ -300,7 +300,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 297,"Hey, peg leg--no shirt, no shoe, no service!",1.2777777777777777,0.04971211258798811,144.0,115.0,18.0,11.0,571
 297,"One venti mocha latte with overwrought symbolism, your order is up!",1.2777777777777777,0.04771838161244167,144.0,113.0,22.0,9.0,571
 297,It's a conversation stopper.,1.2777777777777777,0.04668960105404109,144.0,112.0,24.0,8.0,571
-297,Mrs. Trump left her IUD again.,1.2777777777777777,0.054377565443722214,144.0,120.0,8.0,16.0,571
+297,Mrs. Trump left her IUD again.,1.2777777777777777,0.05437756544372221,144.0,120.0,8.0,16.0,571
 297,Easy does it matie – I lost my arm making a cappuccino back in ‘73,1.2777777777777777,0.04345737630380167,144.0,109.0,30.0,5.0,571
 297,"No, we don't have spinach. Why does everyone ask that?",1.2777777777777777,0.04456084214122665,144.0,110.0,28.0,6.0,571
 297,It's going to sink the business,1.2777777777777777,0.04345737630380167,144.0,109.0,30.0,5.0,571
@@ -312,15 +312,15 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 309,"No, we don't have scones. Only crackers.",1.2746478873239435,0.04595773378979544,142.0,110.0,25.0,7.0,571
 309,Guess the weight and get a free cup of coffee.,1.2746478873239435,0.043730230428841936,142.0,108.0,29.0,5.0,571
 309,There wasn't any room left on the bike rack.,1.2746478873239435,0.04257279568565549,142.0,107.0,31.0,4.0,571
-314,I don't hear anyone complaining when you bring your bicycle inside!,1.274074074074074,0.04979741116928703,135.0,107.0,19.0,9.0,571
-314,I clearly requested 'anger' management!,1.274074074074074,0.04261962273509436,135.0,101.0,31.0,3.0,571
+314,I don't hear anyone complaining when you bring your bicycle inside!,1.2740740740740741,0.04979741116928703,135.0,107.0,19.0,9.0,571
+314,I clearly requested 'anger' management!,1.2740740740740741,0.04261962273509436,135.0,101.0,31.0,3.0,571
 316,Arrhh...where was I supposed to leave it? at the bottom of the sea?,1.2733812949640289,0.04428059480857658,139.0,106.0,28.0,5.0,571
-316,It's all I got in the divorce.,1.2733812949640289,0.046575743748349996,139.0,108.0,24.0,7.0,571
-316,Excuse me. I think you dropped something.,1.2733812949640289,0.046575743748349996,139.0,108.0,24.0,7.0,571
+316,It's all I got in the divorce.,1.2733812949640289,0.04657574374835,139.0,108.0,24.0,7.0,571
+316,Excuse me. I think you dropped something.,1.2733812949640289,0.04657574374835,139.0,108.0,24.0,7.0,571
 319,"Yo, ho, ho and a Vanilla Soy Latte!",1.2719298245614037,0.050282678215312064,114.0,88.0,21.0,5.0,571
-320,It's merely a metaphor for the many things in life that hold us down...now drink your damn coffee!,1.27007299270073,0.042089644506097784,137.0,103.0,31.0,3.0,571
+320,It's merely a metaphor for the many things in life that hold us down...now drink your damn coffee!,1.27007299270073,0.04208964450609778,137.0,103.0,31.0,3.0,571
 320,"Okay, let's talk about the anchor in the room. ARRGH!!",1.27007299270073,0.04691382528075054,137.0,107.0,23.0,7.0,571
-320,I hate April Fools'.,1.27007299270073,0.053338168736913334,137.0,113.0,11.0,13.0,571
+320,I hate April Fools'.,1.27007299270073,0.05333816873691333,137.0,113.0,11.0,13.0,571
 320,"Today's special, coffee and a sinker.",1.27007299270073,0.052322251836591116,137.0,112.0,13.0,12.0,571
 320,"Or maybe, this diner got in the way of the anchor. You ever consider that, matey?",1.27007299270073,0.04575548923918324,137.0,106.0,25.0,6.0,571
 320,...And that was the last time anyone asked for the restroom key.,1.27007299270073,0.04691382528075054,137.0,107.0,23.0,7.0,571
@@ -352,7 +352,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 349,How many head keys have gone missin' since I came along? I rest me case.,1.2615384615384615,0.04575458392739736,130.0,101.0,24.0,5.0,571
 349,You don't complain when he rides his bicycle to work.,1.2615384615384615,0.0495102383704607,130.0,104.0,18.0,8.0,571
 349,You said you'd work around my little idiosyncrasies.,1.2615384615384615,0.04829081816580638,130.0,103.0,20.0,7.0,571
-349,"No, I will not leave it outside. It's a metaphor. It stays. Got it?",1.2615384615384615,0.044432210905967585,130.0,100.0,26.0,4.0,571
+349,"No, I will not leave it outside. It's a metaphor. It stays. Got it?",1.2615384615384615,0.04443221090596759,130.0,100.0,26.0,4.0,571
 349,"Aye, my 3D printer needs some adjusting.",1.2615384615384615,0.04829081816580638,130.0,103.0,20.0,7.0,571
 349,Who took the bathroom key off its anchor chain?,1.2615384615384615,0.04829081816580638,130.0,103.0,20.0,7.0,571
 357,"We aren't part of a chain, but we are an anchor store.",1.2598425196850394,0.046382172112929,127.0,99.0,23.0,5.0,571
@@ -362,7 +362,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 357,It's a tchotchke from my last job.,1.2598425196850394,0.04501468108251449,127.0,98.0,25.0,4.0,571
 357,"This is Starbuck, not Starbucks.",1.2598425196850394,0.05026190426925757,127.0,102.0,17.0,8.0,571
 357,Don't get me started on the TSA.,1.2598425196850394,0.046382172112929,127.0,99.0,23.0,5.0,571
-357,It just feels a bit staged for downtown Phoenix.,1.2598425196850394,0.049002802407812664,127.0,101.0,19.0,7.0,571
+357,It just feels a bit staged for downtown Phoenix.,1.2598425196850394,0.04900280240781266,127.0,101.0,19.0,7.0,571
 357,"And so the whale says, ""A coffee shop canna be an anchor store."" And so I says, ""Oh, really?""",1.2598425196850394,0.05026190426925757,127.0,102.0,17.0,8.0,571
 357,Aaargh! Who can't resist free shipping?,1.2598425196850394,0.04771048382553094,127.0,100.0,21.0,6.0,571
 357,And I lost me arm by the cappuccino maker.,1.2598425196850394,0.046382172112929,127.0,99.0,23.0,5.0,571
@@ -421,12 +421,12 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 418,It's mine and it stays.,1.2434782608695651,0.04718030130356049,115.0,91.0,20.0,4.0,571
 418,It's part of me anchor management program.,1.2434782608695651,0.04553488256049456,115.0,90.0,22.0,3.0,571
 418,Nobody cares when you bring your bike wheels in here.,1.2434782608695651,0.04718030130356049,115.0,91.0,20.0,4.0,571
-418,Next person who asks about the anchor will get the hook.,1.2434782608695651,0.051803925864599414,115.0,94.0,14.0,7.0,571
+418,Next person who asks about the anchor will get the hook.,1.2434782608695651,0.05180392586459941,115.0,94.0,14.0,7.0,571
 418,"That thar's the bathroom key, and it's second star to the right and straight on 'til morning",1.2434782608695651,0.04553488256049456,115.0,90.0,22.0,3.0,571
 418,It gives the place a certain 'Je ne sais quoi',1.2434782608695651,0.04553488256049456,115.0,90.0,22.0,3.0,571
 418,It brought me joy.,1.2434782608695651,0.05030995362438919,115.0,93.0,16.0,6.0,571
 418,What anchor?,1.2434782608695651,0.05030995362438919,115.0,93.0,16.0,6.0,571
-418,It was in the soup.,1.2434782608695651,0.051803925864599414,115.0,94.0,14.0,7.0,571
+418,It was in the soup.,1.2434782608695651,0.05180392586459941,115.0,94.0,14.0,7.0,571
 418,It's not seaweed. It's arrrrugula.,1.2434782608695651,0.05030995362438919,115.0,93.0,16.0,6.0,571
 418,Your point being??,1.2434782608695651,0.05030995362438919,115.0,93.0,16.0,6.0,571
 418,It's for my anchor management.,1.2434782608695651,0.04718030130356049,115.0,91.0,20.0,4.0,571
@@ -437,9 +437,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 418,I told you I'd drop anchor when I was hired.,1.2434782608695651,0.054669528419205804,115.0,96.0,10.0,9.0,571
 418,Ye gunna thank me when strong winds blow in from th' east.,1.2434782608695651,0.04205133680639167,115.0,88.0,26.0,1.0,571
 418,"""But we haven't lost the bathroom key since!",1.2434782608695651,0.04718030130356049,115.0,91.0,20.0,4.0,571
-418,We're going to need a bigger boat.,1.2434782608695651,0.051803925864599414,115.0,94.0,14.0,7.0,571
+418,We're going to need a bigger boat.,1.2434782608695651,0.05180392586459941,115.0,94.0,14.0,7.0,571
 418,"Hey sailor, you can't park that here.",1.2434782608695651,0.04877023818264036,115.0,92.0,18.0,5.0,571
-418,She said to put down an anchor and get a steady job.,1.2434782608695651,0.051803925864599414,115.0,94.0,14.0,7.0,571
+418,She said to put down an anchor and get a steady job.,1.2434782608695651,0.05180392586459941,115.0,94.0,14.0,7.0,571
 418,It looks good with my hook.,1.2434782608695651,0.04553488256049456,115.0,90.0,22.0,3.0,571
 418,Blast! Forgot to set me parkin' brake again!,1.2434782608695651,0.054669528419205804,115.0,96.0,10.0,9.0,571
 418,"I usually stow it before my shift, but I forgot the combination to Davy Jones's locker.",1.2434782608695651,0.04718030130356049,115.0,91.0,20.0,4.0,571
@@ -489,7 +489,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 484,"Yes, it's bring my anchor to work day!",1.2285714285714286,0.051099885767817904,105.0,86.0,14.0,5.0,571
 484,"I said ""Anchors AWAY""",1.2285714285714286,0.051099885767817904,105.0,86.0,14.0,5.0,571
 484,It's a present from Brian Williams... he went back to NBC....,1.2285714285714286,0.051099885767817904,105.0,86.0,14.0,5.0,571
-491,Will the owner of the frigate currently drifting into shipping lanes please come to the front counter.,1.2254901960784317,0.05005697151276053,102.0,83.0,15.0,4.0,571
+491,Will the owner of the frigate currently drifting into shipping lanes please come to the front counter.,1.2254901960784317,0.050056971512760534,102.0,83.0,15.0,4.0,571
 491,Bottomless cup of coffee? We'll see about that!,1.2254901960784317,0.05557077990566643,102.0,86.0,9.0,7.0,571
 491,I think it really grounds the place.,1.2254901960784317,0.04807872020202305,102.0,82.0,17.0,3.0,571
 491,Don't complain. Branding is everything at Starboards.,1.2254901960784317,0.04807872020202305,102.0,82.0,17.0,3.0,571
@@ -498,7 +498,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 491,Just waiting for my ship to come in.,1.2254901960784317,0.05557077990566643,102.0,86.0,9.0,7.0,571
 491,Boss told me I could bring one thing that reminded me of home.,1.2254901960784317,0.05195996014042177,102.0,84.0,13.0,5.0,571
 491,He's really not pulling his weight.,1.2254901960784317,0.04601550038301789,102.0,81.0,19.0,2.0,571
-491,He wanted a Sanka? I thought I heard Anka !,1.2254901960784317,0.05005697151276053,102.0,83.0,15.0,4.0,571
+491,He wanted a Sanka? I thought I heard Anka !,1.2254901960784317,0.050056971512760534,102.0,83.0,15.0,4.0,571
 491,They're renovating my locker.,1.2254901960784317,0.05195996014042177,102.0,84.0,13.0,5.0,571
 491,"If he said he'll be back Tuesday for it, he'll be back Tuesday!",1.2254901960784317,0.04601550038301789,102.0,81.0,19.0,2.0,571
 491,"You told me I needed an anchor management class, I'm taking an anchor management class. There's homework. Get over it!",1.2254901960784317,0.04601550038301789,102.0,81.0,19.0,2.0,571
@@ -508,9 +508,9 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 491,Some of these Brooklyn restaurants are going overboard.,1.2254901960784317,0.05557077990566643,102.0,86.0,9.0,7.0,571
 491,"Now hear this, only a few offerings of today's seaweed special left!",1.2254901960784317,0.05557077990566643,102.0,86.0,9.0,7.0,571
 491,The fish sandwiches are huge,1.2254901960784317,0.05379567379036273,102.0,85.0,11.0,6.0,571
-491,"No, I do not have an anchor management problem!",1.2254901960784317,0.05005697151276053,102.0,83.0,15.0,4.0,571
+491,"No, I do not have an anchor management problem!",1.2254901960784317,0.050056971512760534,102.0,83.0,15.0,4.0,571
 491,I am waiting for my ship to come in!,1.2254901960784317,0.05195996014042177,102.0,84.0,13.0,5.0,571
-491,No one complains about the mermaid on the wall at the other place.,1.2254901960784317,0.05005697151276053,102.0,83.0,15.0,4.0,571
+491,No one complains about the mermaid on the wall at the other place.,1.2254901960784317,0.050056971512760534,102.0,83.0,15.0,4.0,571
 491,We have a special on 'Catch-of-the-month.',1.2254901960784317,0.05195996014042177,102.0,84.0,13.0,5.0,571
 491,Has anyone seen my anchor?!,1.2254901960784317,0.05557077990566643,102.0,86.0,9.0,7.0,571
 491,"We take cash, credit, or treasure map.",1.2254901960784317,0.05195996014042177,102.0,84.0,13.0,5.0,571
@@ -522,7 +522,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 491,Annchor's in the way me boys?,1.2254901960784317,0.04601550038301789,102.0,81.0,19.0,2.0,571
 491,That's nothing! Just wait until you hear the cannon!,1.2254901960784317,0.04601550038301789,102.0,81.0,19.0,2.0,571
 491,Avast! Methinks it's time for a little anchor management.,1.2254901960784317,0.04158307533083285,102.0,79.0,23.0,0.0,571
-491,"Sure, the coffee is great...but his anchor management issues are getting hard to ignore.",1.2254901960784317,0.05005697151276053,102.0,83.0,15.0,4.0,571
+491,"Sure, the coffee is great...but his anchor management issues are getting hard to ignore.",1.2254901960784317,0.050056971512760534,102.0,83.0,15.0,4.0,571
 491,Will that be for here or take aweigh?,1.2254901960784317,0.05379567379036273,102.0,85.0,11.0,6.0,571
 491,Say what you will but this building has not drifted since I put that in here.,1.2254901960784317,0.04807872020202305,102.0,82.0,17.0,3.0,571
 491,Have you folks noticed the anchor tchotchke for sale at the counter here?,1.2254901960784317,0.05195996014042177,102.0,84.0,13.0,5.0,571
@@ -2825,7 +2825,7 @@ rank,caption,score,precision,count,unfunny,somewhat_funny,funny,contest
 2479,I was told I'd be working in an anchor store.,1.0714285714285714,0.04022089331224806,42.0,39.0,3.0,0.0,571
 2825,"Aye, we just want to make sure the coffee is well grounded.",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,571
 2825,"It's been three years, the old job still haunts him",1.069767441860465,0.039309500219931084,43.0,40.0,3.0,0.0,571
-2825,No blubber for you - come back one year!,1.069767441860465,0.051503946641122934,43.0,41.0,1.0,1.0,571
+2825,No blubber for you - come back one year!,1.069767441860465,0.05150394664112293,43.0,41.0,1.0,1.0,571
 2828,"At some point, a man has to settle down and scratch out a wee living in the gig economy.",1.0526315789473684,0.03670978065594297,38.0,36.0,2.0,0.0,571
 2828,This is MY coffee and I'll drop my anchor wherever I damn please!,1.0526315789473684,0.03670978065594297,38.0,36.0,2.0,0.0,571
 2828,I'm guessing you want yours to stay?,1.0526315789473684,0.03670978065594297,38.0,36.0,2.0,0.0,571

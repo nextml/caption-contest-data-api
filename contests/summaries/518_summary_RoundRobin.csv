@@ -2,9 +2,9 @@ caption,funny,somewhat_funny,unfunny,count,score,precision,rank,contest
 This saddest part is he's going in the wrong direction.,7.0,12.0,9.0,28.0,1.9285714285714288,0.14482767929281476,1,518
 Mrs. Freeley buried his Scotch again.,7.0,11.0,11.0,29.0,1.862068965517241,0.14658794104794592,2,518
 Let's live with Mom.,9.0,6.0,13.0,28.0,1.8571428571428568,0.16835875742536846,3,518
-He needs to start drinking outside the box.,8.0,7.0,12.0,27.0,1.8518518518518519,0.16627050098478488,4,518
-Dad takes his telling of the Passover story very seriously.,7.0,9.0,12.0,28.0,1.821428571428572,0.15476190476190474,5,518
-Apparently he can't even think in the box.,6.0,9.0,11.0,26.0,1.8076923076923082,0.15708136812817025,6,518
+He needs to start drinking outside the box.,8.0,7.0,12.0,27.0,1.851851851851852,0.16627050098478488,4,518
+Dad takes his telling of the Passover story very seriously.,7.0,9.0,12.0,28.0,1.8214285714285716,0.15476190476190474,5,518
+Apparently he can't even think in the box.,6.0,9.0,11.0,26.0,1.807692307692308,0.15708136812817025,6,518
 I thought he was taking us out for a little dessert.,4.0,14.0,10.0,28.0,1.7857142857142858,0.12968360824101738,7,518
 "Let it go, Dad—it’s just a quarter.",7.0,7.0,13.0,27.0,1.7777777777777777,0.16306653015674286,8,518
 I switched his pot with catnip.,5.0,12.0,12.0,29.0,1.7586206896551724,0.13731389029326455,9,518
@@ -38,7 +38,7 @@ Don't even bother. He insists it's all a mirage,5.0,8.0,15.0,28.0,1.642857142857
 He's cut his time almost in half since last week.,5.0,7.0,15.0,27.0,1.6296296296296295,0.15236173170508188,37,518
 What we need is a buzzard.,5.0,7.0,15.0,27.0,1.6296296296296295,0.15236173170508188,37,518
 Deserts in New York are small but efficient.,4.0,9.0,14.0,27.0,1.6296296296296295,0.14270632235177425,37,518
-Now he's using the box we just have to work on the pants thing.,7.0,3.0,17.0,27.0,1.6296296296296295,0.17003559329204299,37,518
+Now he's using the box we just have to work on the pants thing.,7.0,3.0,17.0,27.0,1.6296296296296295,0.170035593292043,37,518
 Should we mention that drinking fountain over there?,3.0,11.0,13.0,27.0,1.6296296296296295,0.13234837207221575,37,518
 "Well, at least he buried it.",5.0,7.0,15.0,27.0,1.6296296296296295,0.15236173170508188,37,518
 This situation calls for thinking outside the box.,5.0,7.0,15.0,27.0,1.6296296296296295,0.15236173170508188,37,518
@@ -352,8 +352,8 @@ It's getting late buddy -- you'd better turn back.,3.0,6.0,18.0,27.0,1.444444444
 How long is this guy's recess?,2.0,8.0,17.0,27.0,1.4444444444444444,0.12326671027227312,321,518
 I guess one person's sandbox is another person's desert.,2.0,8.0,17.0,27.0,1.4444444444444444,0.12326671027227312,321,518
 Give it a minute. it's slow-sand.,2.0,7.0,16.0,25.0,1.44,0.13012814197295422,353,518
-It's the stage of withdrawal where he starts looking for old butts in anything that resembles an ashtray.,2.0,6.0,15.0,23.0,1.434782608695652,0.1381138751751474,354,518
-He really has to start thinking outside the box.,3.0,4.0,16.0,23.0,1.434782608695652,0.15174983257274674,354,518
+It's the stage of withdrawal where he starts looking for old butts in anything that resembles an ashtray.,2.0,6.0,15.0,23.0,1.4347826086956519,0.1381138751751474,354,518
+He really has to start thinking outside the box.,3.0,4.0,16.0,23.0,1.4347826086956519,0.15174983257274674,354,518
 He is auditioning for the Lawrence of Tribeca movie.,1.0,10.0,17.0,28.0,1.4285714285714286,0.10823953727766553,356,518
 Do you want to tell him it's kitty litter or should I?,3.0,6.0,19.0,28.0,1.4285714285714286,0.13041013273932525,356,518
 "O.K., Dad, our turn. Wrap up your mirage.",3.0,6.0,19.0,28.0,1.4285714285714286,0.13041013273932525,356,518
@@ -546,13 +546,13 @@ Poor guy has been on a timeout since the 70s.,4.0,3.0,21.0,28.0,1.39285714285714
 I'm inclined not to tell the search party.,4.0,3.0,21.0,28.0,1.3928571428571428,0.13934166560380504,500,518
 I wish he would learn to play outside the box.,3.0,5.0,20.0,28.0,1.3928571428571428,0.1295013402546089,500,518
 He always has to look for pennies before he lets you play,3.0,3.0,17.0,23.0,1.391304347826087,0.15061311370164152,547,518
-It's called 'Performance Art',3.0,4.0,19.0,26.0,1.3846153846153846,0.136741452574086,548,518
+It's called 'Performance Art',3.0,4.0,19.0,26.0,1.3846153846153846,0.13674145257408601,548,518
 This is where dad comes to dry out.,2.0,6.0,18.0,26.0,1.3846153846153846,0.12498520622516862,548,518
 I say he's a mirage.,2.0,6.0,18.0,26.0,1.3846153846153846,0.12498520622516862,548,518
 Mom's a dog person. Dad's a cat man.,4.0,2.0,20.0,26.0,1.3846153846153846,0.1475640468711606,548,518
-He created his own hell.,3.0,4.0,19.0,26.0,1.3846153846153846,0.136741452574086,548,518
+He created his own hell.,3.0,4.0,19.0,26.0,1.3846153846153846,0.13674145257408601,548,518
 There but for the grace of God.,4.0,2.0,20.0,26.0,1.3846153846153846,0.1475640468711606,548,518
-I hope he buries it when he's done. Wait here while I get a bigger shovel.,3.0,4.0,19.0,26.0,1.3846153846153846,0.136741452574086,548,518
+I hope he buries it when he's done. Wait here while I get a bigger shovel.,3.0,4.0,19.0,26.0,1.3846153846153846,0.13674145257408601,548,518
 We're ok unless he starts to meow.,1.0,8.0,17.0,26.0,1.3846153846153846,0.11200169060431568,548,518
 The 'Lawrence of Arabia 2' budget was tight,1.0,8.0,17.0,26.0,1.3846153846153846,0.11200169060431568,548,518
 Bob is in the early stage of our out-placement process.,2.0,6.0,18.0,26.0,1.3846153846153846,0.12498520622516862,548,518
@@ -561,7 +561,7 @@ ONE MAN'S SANDBOX IS ANOTHER MAN'S DESERT,2.0,6.0,18.0,26.0,1.3846153846153846,0
 This guy is taking forever.,2.0,6.0,18.0,26.0,1.3846153846153846,0.12498520622516862,548,518
 He's training for the Saharathon.,2.0,6.0,18.0,26.0,1.3846153846153846,0.12498520622516862,548,518
 I think he's having trouble thinking outside the sandbox.,1.0,8.0,17.0,26.0,1.3846153846153846,0.11200169060431568,548,518
-He's in training for the first pub crawl of the summer.,3.0,4.0,19.0,26.0,1.3846153846153846,0.136741452574086,548,518
+He's in training for the first pub crawl of the summer.,3.0,4.0,19.0,26.0,1.3846153846153846,0.13674145257408601,548,518
 "After seeing 'Lawrence of Arabia,' he was never quite the same.",1.0,8.0,17.0,26.0,1.3846153846153846,0.11200169060431568,548,518
 Maybe we should build that fence.,1.0,8.0,17.0,26.0,1.3846153846153846,0.11200169060431568,548,518
 Thinking inside the box is so underrated.,2.0,6.0,18.0,26.0,1.3846153846153846,0.12498520622516862,548,518
