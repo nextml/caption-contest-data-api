@@ -97,31 +97,11 @@ def ranks(scores):
     return scipy.stats.rankdata(-scores, method="min").astype(int)
 
 
-#  if __name__ == "__main__":
-    #  dfs = {fname: pd.read_csv("summaries/" + fname) for fname in filenames}
-
-    #  for fname, df in dfs.items():
-        #  df.filename = fname
 def test_main(df):
     try:
-        test_means(df)
+        test_ranks(df)
     except AssertionError:
-        assert "mean" in df
-        diff = np.abs(df["mean"] - df["score"])
-        assert 0.00 == diff.max()
-        del df["mean"]
-        test_columns(df)
-
-        expected_score = df.unfunny + 2 * df.somewhat_funny + 3 * df.funny
-        diff = np.abs(expected_score - df["score"])
-        assert diff.max() > 1
-        expected_score /= df["count"]
-        old_scores = df["score"].copy()
-        df["score"] = expected_score
-        diff = np.abs(df["score"] - old_scores)
-        assert diff.max() < 0.55
         df["rank"] = ranks(df["score"])
 
         test_ranks(df)
-        test_means(df)
         df.to_csv("summaries/" + df.filename, index=False)
