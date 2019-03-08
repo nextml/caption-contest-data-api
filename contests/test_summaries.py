@@ -18,15 +18,17 @@ def df(request):
 
 def test_ranks(df):
     rank_score = {r: s for r, s in zip(df["rank"], df["score"])}
-    ranks = sorted(list(rank_score.keys()))
-    ranks = np.array(ranks)
+    ranks = np.array(sorted(list(rank_score.keys())))
+
     for rank, score in rank_score.items():
         if np.isnan(score):
             continue
         i = (ranks == rank).argmax()
-        if i == 0:
+        if i <= 2:
             continue
-        better_score = rank_score[ranks[i - 1]]
+        better_rank = ranks[i - 1]
+        assert better_rank < rank
+        better_score = rank_score[better_rank]
         if np.abs(better_score - score) > 1e-2:
             assert better_score >= score
 
@@ -96,18 +98,23 @@ def ranks(scores):
 
 
 #  if __name__ == "__main__":
-#  dfs = {fname: pd.read_csv("summaries/" + fname) for fname in filenames}
+    #  dfs = {fname: pd.read_csv("summaries/" + fname) for fname in filenames}
 
-#  for fname, df in dfs.items():
-#  df.filename = fname
-
-
+    #  for fname, df in dfs.items():
+        #  df.filename = fname
 def test_main(df):
     try:
         test_means(df)
     except AssertionError:
         assert "mean" in df
+        diff = np.abs(df["mean"] - df["score"])
+        assert 0.00 == diff.max()
+        del df["mean"]
+        test_columns(df)
+
         expected_score = df.unfunny + 2 * df.somewhat_funny + 3 * df.funny
+        diff = np.abs(expected_score - df["score"])
+        assert diff.max() > 1
         expected_score /= df["count"]
         old_scores = df["score"].copy()
         df["score"] = expected_score
@@ -115,20 +122,6 @@ def test_main(df):
         assert diff.max() < 0.55
         df["rank"] = ranks(df["score"])
 
-    #  test_means(df)
-    test_ranks(df)
-    #  test_few_nulls(df)
-    #  test_counts(df)
-
-if __name__ == "__main__":
-    dfs = {fname: pd.read_csv("summaries/" + fname) for fname in filenames}
-    for fname, df in dfs.items():
-        contest = int(fname[:3])
-        if 587 <= contest <= 636:
-            continue
-
-        cols = ["caption", "unfunny", "somewhat_funny", "funny", "count", "contest"]
-        if "target_id" in df:
-            cols += ["target_id"]
-        raw = df[cols]
-        raw.to_csv(f"raw-clicks/{contest}.csv", index=False)
+        test_ranks(df)
+        test_means(df)
+        df.to_csv("summaries/" + df.filename, index=False)
