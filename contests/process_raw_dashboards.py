@@ -196,8 +196,10 @@ def process(filename):
     filename = df.filename
     if "520" in filename or "521" in filename:
         out = out.dropna(subset=["score", "precision"])
-    out["caption"] = out["caption"].fillna("")
+    out["caption"] = out["caption"].fillna(" ")
+    out = out.reset_index()
     out.filename = filename
+    del out["index"]
     return out
 
 

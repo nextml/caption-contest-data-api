@@ -1856,7 +1856,7 @@ rank,funny,somewhat_funny,unfunny,count,score,precision,contest,caption
 1738,0,3,29,32,1.09375,0.052351460373382196,572,"I don't know, could they be related?"
 1738,1,1,30,32,1.09375,0.0689695906576505,572,You're right we have the biggest beachball in the neighborhood and your little one doesn't make the grade.
 1738,0,3,29,32,1.09375,0.052351460373382196,572,"Marco, you know that Donald has always had a thing about size."
-1738,1,1,30,32,1.09375,0.0689695906576505,572,
+1738,1,1,30,32,1.09375,0.0689695906576505,572, 
 1738,0,3,29,32,1.09375,0.052351460373382196,572,"Yes, I'm sure yours is perfectly adequate."
 1738,1,1,30,32,1.09375,0.0689695906576505,572,I'm gonna take my little ball and go home.
 1738,1,1,30,32,1.09375,0.0689695906576505,572,They weren't lying when they said the beach ball absorbed water.
@@ -4491,7 +4491,7 @@ rank,funny,somewhat_funny,unfunny,count,score,precision,contest,caption
 4059,0,0,19,19,1.0,0.05407380704358751,572,You mean the jumbo edition?
 4059,0,0,20,20,1.0,0.051298917604257706,572,I don't want to play. I'm just going to take my ball home
 4059,0,0,19,19,1.0,0.05407380704358751,572,He said it had to be HUGE.
-4059,0,0,19,19,1.0,0.05407380704358751,572,
+4059,0,0,19,19,1.0,0.05407380704358751,572, 
 4059,0,0,19,19,1.0,0.05407380704358751,572,The Brobdingnag's ball went over over the fence again...
 4059,0,0,20,20,1.0,0.051298917604257706,572,It's quite a dramatic piece of art
 4059,0,0,19,19,1.0,0.05407380704358751,572,"This way, it's always adult swim time!"

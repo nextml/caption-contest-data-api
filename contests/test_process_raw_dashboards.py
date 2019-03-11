@@ -18,13 +18,16 @@ def df(request):
     return prd.process("summaries/_raw-dashboards/" + filename)
 
 
-@pytest.mark.parametrize(
-    "filename", [pytest.param(f, marks=pytest.mark.xfail) for f in filenames]
-)
+@pytest.mark.parametrize("filename", filenames)
 def test_same_dataframe(filename):
-    df1 = pd.read_csv("sumamries/" + filename)
-    df2 = prd.process("sumamries/_raw-dashboards/" + filename)
-    assert (df1 == df2).all()
+    df1 = pd.read_csv("summaries/" + filename)
+    df2 = prd.process("summaries/_raw-dashboards/" + filename)
+    assert (df1.columns == df2.columns).all()
+    for col in df1.columns:
+        if col in {"score", "precision"}:
+            assert np.allclose(df1[col], df2[col])
+        else:
+            assert (df1[col] == df2[col]).all()
 
 
 def test_correct_order(df):
