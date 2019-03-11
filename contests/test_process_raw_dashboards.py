@@ -75,6 +75,7 @@ def test_columns(df):
     assert df["score"].dtype == float
     assert df["precision"].dtype == float
     assert df["rank"].dtype == int
+    assert (df.isnull().sum() == 0).all()
 
 
 def test_ranks(df):

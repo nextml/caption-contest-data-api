@@ -193,5 +193,9 @@ def process(filename):
     if "target_id" in df:
         cols = ["target_id"] + cols
     out = df[cols]
-    out.filename = df.filename
+    filename = df.filename
+    if "520" in filename or "521" in filename:
+        out = out.dropna(subset=["score", "precision"])
+    out["caption"] = out["caption"].fillna("")
+    out.filename = filename
     return out
