@@ -216,4 +216,4 @@ if __name__ == "__main__":
         tst_prd.test_columns(df)
         tst_prd.test_ranks(df)
     for f, df in dfs.items():
-        df.to_csv("summaries/" + f)
+        df.to_csv("summaries/" + f, index=False)
