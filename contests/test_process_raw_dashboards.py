@@ -1,0 +1,111 @@
+import os
+
+import numpy as np
+import pandas as pd
+import pytest
+from sklearn.utils import check_random_state
+
+import process_raw_dashboards as prd
+
+
+DIR = "summaries/_raw-dashboards/"
+filenames = sorted([f for f in os.listdir(DIR) if f[0] not in {".", "_"}])
+
+
+@pytest.fixture(params=filenames)
+def df(request):
+    filename = request.param
+    return prd.process("summaries/_raw-dashboards/" + filename)
+
+
+@pytest.mark.parametrize(
+    "filename", [pytest.param(f, marks=pytest.mark.xfail) for f in filenames]
+)
+def test_same_dataframe(filename):
+    df1 = pd.read_csv("sumamries/" + filename)
+    df2 = prd.process("sumamries/_raw-dashboards/" + filename)
+    assert (df1 == df2).all()
+
+
+def test_correct_order(df):
+    # Make sure the best caption comes first
+    assert df["rank"].iloc[0] == 1, "funniest first"
+    contest = int(df.filename[:3])
+    assert (df["contest"] == contest).all()
+
+
+def test_score(df):
+    """ This test is failing because button_clicks isn't
+    returning the correct result? """
+    pred_score = df.funny * 3 + df.somewhat_funny * 2 + df.unfunny
+    pred_score /= df["count"]
+
+    diff = np.abs(pred_score - df["score"])
+    assert diff.max() < 1e-4
+
+
+def test_counts(df):
+    count = df.funny + df.somewhat_funny + df.unfunny
+    diff = count - df["count"]
+    assert diff.max() == diff.min() == 0
+    assert (count == df["count"]).all()
+
+
+def test_columns(df):
+    contest = int(df.filename[:3])
+    expected_cols = {
+        "caption",
+        "count",
+        "unfunny",
+        "somewhat_funny",
+        "funny",
+        "contest",
+        "score",
+        "precision",
+        "rank",
+    }
+    assert expected_cols == set(df.columns) - {"target_id"}
+    if contest >= 587:
+        assert "target_id" in df
+    assert df["contest"].dtype == int
+    assert df["count"].dtype == int
+    assert df["unfunny"].dtype == int
+    assert df["somewhat_funny"].dtype == int
+    assert df["funny"].dtype == int
+    assert df["score"].dtype == float
+    assert df["precision"].dtype == float
+    assert df["rank"].dtype == int
+
+
+def test_ranks(df):
+    funniest = df["score"].idxmax()
+    assert df.loc[funniest]["rank"] == 1
+    assert df.iloc[0]["rank"] == 1
+
+
+def test_recover_counts():
+    rng = check_random_state(42)
+    rand_clicks = lambda size: rng.randint(10, size=size).tolist()
+    df = pd.DataFrame(
+        {
+            "unfunny": rand_clicks(50) + [1, 0, 0, 1, 1],
+            "somewhat_funny": rand_clicks(50) + [0, 0, 1, 1, 1],
+            "funny": rand_clicks(50) + [0, 1, 0, 1, 0],
+        }
+    )
+    df["count"] = df.funny + df.somewhat_funny + df.unfunny
+    score, prec = prd.score_and_prec(
+        df.unfunny, df.somewhat_funny, df.funny, df["count"]
+    )
+    df["score"] = score
+    df["precision"] = prec
+
+    count_cols = ["unfunny", "somewhat_funny", "funny"]
+    clicks = {key: df[key].copy() for key in count_cols}
+    df.drop(count_cols, axis=1, inplace=True)
+    df.filename = None
+    assert sum([col in df for col in count_cols]) == 0
+
+    out = prd.recover_counts(df)
+    for col in count_cols:
+        assert (out[col] == clicks[col]).all()
