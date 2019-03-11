@@ -199,3 +199,21 @@ def process(filename):
     out["caption"] = out["caption"].fillna("")
     out.filename = filename
     return out
+
+
+if __name__ == "__main__":
+    import test_process_raw_dashboards as tst_prd
+
+    DIR = "summaries/_raw-dashboards/"
+    filenames = sorted([f for f in os.listdir(DIR) if f[0] not in {".", "_"}])
+    dfs = {f: process(DIR + f) for f in filenames}
+
+    for f, df in dfs.items():
+        print(f)
+        tst_prd.test_correct_order(df)
+        tst_prd.test_score(df)
+        tst_prd.test_counts(df)
+        tst_prd.test_columns(df)
+        tst_prd.test_ranks(df)
+    for f, df in dfs.items():
+        df.to_csv("summaries/" + f)
