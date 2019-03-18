@@ -210,6 +210,9 @@ if __name__ == "__main__":
     filenames = sorted([f for f in os.listdir(DIR) if f[0] not in {".", "_"}])
     last_contest = filenames[-1]
     print(last_contest)
+    ans = input("Correct contest? y/n\n")
+    if ans.lower() == "n":
+        raise Exception()
     df = process(DIR + last_contest)
 
     tst_prd.test_correct_order(df)
