@@ -1,11 +1,20 @@
 contest,description
 510,People stepping over man lying on the sidewalk.
 511,Man uses small spade to shovel snow while boy uses large shovel
+512,
+513,
+514,
+515,
+516,
+517,
+518,
 519,A pair of pheasants see a man hunting with a bird on his gun
 520,Psychologist has a banana peel on patient’s chair
 521,Two pedestrians and one very large umbrella are standing in the rain.
+522,
 523,Monkeys surround suburban couple sitting on couch
 524,Knight and dragon fight using swords
+525,
 526,Male angel with large halo speaks to female angel
 527,A human is welcomed by an alien into an alien spaceship
 528,Solo man presents to business crowd in tilted room
@@ -20,6 +29,7 @@ contest,description
 537,Man chisels wheel while two women speak while seated in next room
 538,Giant cat paws at man with giant needle and thread
 539,Old hiker walks straight down cliff
+540,
 541,Death in a hooded sweatsuit and sneaks speaks to woman at door
 542,Medieval woman with large collar walks while two men speak about her.
 543,An giant elephant standing next to a reading man and woman
@@ -38,6 +48,8 @@ contest,description
 556,A woman in a biohazard suit cooks with a frying pan while a man speaks to her.
 557,Eve presents an apple pie to Adam while a snake watches.
 558,An adolescent in too small pajamas in a crib talks into a baby monitor.
+559,
+560,
 561,Two dogs with cones over their heads facing each other.
 562,A fish and a bird facing each other.
 563,A man is running in a hamster cage on a wheel
@@ -83,16 +95,50 @@ dog inside her luggage
 607,Man in museum looking at picture frame to see other people frustrated with him.
 608,
 609,Two persons in a subway station with a colorful sandwich pulling up to the platform.
-
-
-
-
-
-
-
-
-
-
-
-
-
+610,
+611,
+612,
+613,
+614,
+615,
+616,
+617,
+618,
+619,
+620,
+621,
+622,
+623,
+624,
+625,
+626,
+627,
+628,
+629,
+630,
+631,
+632,
+633,
+634,
+635,
+636,
+637,
+638,
+639,
+640,
+641,
+642,
+643,
+644,
+645,
+646,
+647,
+648,
+649,
+650,
+651,
+652,
+653,
+654,
+655,
+656,
