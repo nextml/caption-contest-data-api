@@ -1,0 +1,98 @@
+contest,description
+510,People stepping over man lying on the sidewalk.
+511,Man uses small spade to shovel snow while boy uses large shovel
+519,A pair of pheasants see a man hunting with a bird on his gun
+520,Psychologist has a banana peel on patient’s chair
+521,Two pedestrians and one very large umbrella are standing in the rain.
+523,Monkeys surround suburban couple sitting on couch
+524,Knight and dragon fight using swords
+526,Male angel with large halo speaks to female angel
+527,A human is welcomed by an alien into an alien spaceship
+528,Solo man presents to business crowd in tilted room
+529,Man looks worriedly at mountain climber suspended in air
+530,Large sword hangs over king in throne while servant reads scroll aloud
+531,Giraffe speaks to seated giraffe in living room in front of television
+532,A whale squishes a person and a tree on a small island in the ocean.
+533,A couple places their orders for dinner to a waiter in a metro station.
+534,Man in suit speaks as two men carry worried snake in an office
+535,Two people sit in front seat of car with whale in back seat of car
+536,Therapist asks question to small car on couch
+537,Man chisels wheel while two women speak while seated in next room
+538,Giant cat paws at man with giant needle and thread
+539,Old hiker walks straight down cliff
+541,Death in a hooded sweatsuit and sneaks speaks to woman at door
+542,Medieval woman with large collar walks while two men speak about her.
+543,An giant elephant standing next to a reading man and woman
+544,Giant heads with men behind desks atop them speak
+545,A potted plant is leading a meeting of business executives in an office building.
+546,One island with a palm tree and two people, and another island with dolphins in the same shape
+547,Drum major is leading two crawling men through the desert.
+548,A person driving a jet as his car is pulled over by a policeman.
+549,Woman behind desk in straightjacket speaks to seated woman in straightjacket.
+550,A man seated in a line of large chairs that lead up to a boss behind the desk.
+551,A wave in the shape of Donald Trump's face (the 45th President of the United States) reaches for people in a boat, with Statue of Liberty and New York city in the background.
+552,A man rowing a boat in a wavy sand desert is spoken to by a second man that is crawling.
+553,A husband speaks to an angry wife in front of a bombed out city.
+554,A bartender speaks to a clown who is frowning.
+555,A shark shows his latest catch, a mannequin, to another shark.
+556,A woman in a biohazard suit cooks with a frying pan while a man speaks to her.
+557,Eve presents an apple pie to Adam while a snake watches.
+558,An adolescent in too small pajamas in a crib talks into a baby monitor.
+561,Two dogs with cones over their heads facing each other.
+562,A fish and a bird facing each other.
+563,A man is running in a hamster cage on a wheel
+564,A woman talking to a man behind a desk with many owls on top of it.
+565,A doctor reading a burning document to a patient.
+566,A well-dressed pirate is holding a cat on a ship.
+567,Two well-dressed businessmen are arguing, with well-dressed man in bed.
+568,A restrained and tied up man and woman are talking to another woman at a party.
+569,Businessmen meeting around a table with another businessmen dropping down onto the table.
+570,One person covered in birds talking to another man on a park bench.
+571,A large anchor residing in a coffee shop with a pirate barista.
+572,A colorful beach ball completely filling a black-and-white pool.
+573,A man in a hospital bed has IV’s in a drinking cap and speaks to a woman
+574,A man barbeques a briefcase in front of a woman.
+575,Two knights lead an army of men in suits.
+576,A woman stand in front of a man embedded in a beehive
+577,Couple watching tv with a food cart in their living room
+578,A man and woman waiting for dinner at a restaurant and paparazzi are focusing on their chef bringing pizza
+579,Couple watching a cat sitting on a throne and wearing a crown and cape like
+a king
+580,Guards are relaxing around an empty thrown
+581,Hand of god offering moses a pullover
+582,Two bikers sharing an extremely long tandem bike talking to each other on
+the phone
+583,Two business people entering an office building and walking past a man in gallows
+584,A woman observing and talking as many business people dressed the same enter a single doorway
+585,Man standing in kitchen holding genie lamp while genie comes out of the
+toaster
+586,Dog alarmed by a large vacuum shaped UFO
+587,Deer admiring animal crossing road signs in a museum
+588,A woman in an apartment building in a city watering a plant as a man hunched on an elobrate church watches her
+589,Man in restaurant ordering from a huge menu card while waiter takes his
+order
+590,Dinosaur makes caveman art with dinosaurs as two cavemen watch questioningly
+591,Psychologists offers soap and brush to man in his office lying in a tub
+592,Two scientists watch many ducks in front of laptops
+593,
+594,Couple walking through a park with trees smiling
+595,
+596,
+597,Woman talking to another woman while walking through airport with a man and
+dog inside her luggage
+607,Man in museum looking at picture frame to see other people frustrated with him.
+608,
+609,Two persons in a subway station with a colorful sandwich pulling up to the platform.
+
+
+
+
+
+
+
+
+
+
+
+
+
