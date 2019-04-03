@@ -34,16 +34,16 @@ contest,description
 543,An giant elephant standing next to a reading man and woman
 544,Giant heads with men behind desks atop them speak
 545,A potted plant is leading a meeting of business executives in an office building.
-546,One island with a palm tree and two people, and another island with dolphins in the same shape
+546,"One island with a palm tree and two people, and another island with dolphins in the same shape"
 547,Drum major is leading two crawling men through the desert.
 548,A person driving a jet as his car is pulled over by a policeman.
 549,Woman behind desk in straightjacket speaks to seated woman in straightjacket.
 550,A man seated in a line of large chairs that lead up to a boss behind the desk.
-551,A wave in the shape of Donald Trump's face (the 45th President of the United States) reaches for people in a boat, with Statue of Liberty and New York city in the background.
+551,"A wave in the shape of Donald Trump's face (the 45th President of the United States) reaches for people in a boat, with Statue of Liberty and New York city in the background."
 552,A man rowing a boat in a wavy sand desert is spoken to by a second man that is crawling.
 553,A husband speaks to an angry wife in front of a bombed out city.
-554,A bartender speaks to a clown who is frowning.
-555,A shark shows his latest catch, a mannequin, to another shark.
+554,"A bartender speaks to a clown who is frowning."
+555,"A shark shows his latest catch, a mannequin, to another shark."
 556,A woman in a biohazard suit cooks with a frying pan while a man speaks to her.
 557,Eve presents an apple pie to Adam while a snake watches.
 558,An adolescent in too small pajamas in a crib talks into a baby monitor.
@@ -55,7 +55,7 @@ contest,description
 564,A woman talking to a man behind a desk with many owls on top of it.
 565,A doctor reading a burning document to a patient.
 566,A well-dressed pirate is holding a cat on a ship.
-567,Two well-dressed businessmen are arguing, with well-dressed man in bed.
+567,"Two well-dressed businessmen are arguing, with well-dressed man in bed."
 568,A restrained and tied up man and woman are talking to another woman at a party.
 569,Businessmen meeting around a table with another businessmen dropping down onto the table.
 570,One person covered in birds talking to another man on a park bench.
@@ -67,21 +67,17 @@ contest,description
 576,A woman stand in front of a man embedded in a beehive
 577,Couple watching tv with a food cart in their living room
 578,A man and woman waiting for dinner at a restaurant and paparazzi are focusing on their chef bringing pizza
-579,Couple watching a cat sitting on a throne and wearing a crown and cape like
-a king
+579,Couple watching a cat sitting on a throne and wearing a crown and cape like a king
 580,Guards are relaxing around an empty thrown
 581,Hand of god offering moses a pullover
-582,Two bikers sharing an extremely long tandem bike talking to each other on
-the phone
+582,Two bikers sharing an extremely long tandem bike talking to each other on the phone
 583,Two business people entering an office building and walking past a man in gallows
 584,A woman observing and talking as many business people dressed the same enter a single doorway
-585,Man standing in kitchen holding genie lamp while genie comes out of the
-toaster
+585,Man standing in kitchen holding genie lamp while genie comes out of the toaster
 586,Dog alarmed by a large vacuum shaped UFO
 587,Deer admiring animal crossing road signs in a museum
 588,A woman in an apartment building in a city watering a plant as a man hunched on an elobrate church watches her
-589,Man in restaurant ordering from a huge menu card while waiter takes his
-order
+589,Man in restaurant ordering from a huge menu card while waiter takes his order
 590,Dinosaur makes caveman art with dinosaurs as two cavemen watch questioningly
 591,Psychologists offers soap and brush to man in his office lying in a tub
 592,Two scientists watch many ducks in front of laptops
@@ -89,8 +85,7 @@ order
 594,Couple walking through a park with trees smiling
 595,Two saleswomen arrange clothes as another sales snowman arranges more clothes
 596,Man buys the Grim Reaper a drink at a bar
-597,Woman talking to another woman while walking through airport with a man and
-dog inside her luggage
+597,Woman talking to another woman while walking through airport with a man and dog inside her luggage
 607,Man in museum looking at picture frame to see other people frustrated with him.
 608,Two priests discuss playing an organ shaped as a space heater
 609,Two persons in a subway station with a colorful sandwich pulling up to the platform.
@@ -111,13 +106,13 @@ dog inside her luggage
 624,A skeleton waves to a businessman while buried in a graveyard
 625,A caveman walks up to home plate to bat with his club
 626,A businessman is getting bucked off a horse as he cheerfully talks on his cell phone
-627,A man and a woman are having a fancy dinner on a rooftop outside the window, and a server is taking their orders
+627,"A man and a woman are having a fancy dinner on a rooftop outside the window, and a server is taking their orders"
 628,A fish is sitting at a bar and complaining to the bartender
 629,A woman is rock climbing but one of the foothold is a man's face
 630,A man and a woman are sitting below an umbrella and are chest deep in water
 631,A chef is throwing dough on a crowded airplane
 632,A woman is talking to a security guard in front of similar looking dolls
-633,Small children are going down a slide, and the parents are having fun going down a different slide
+633,"Small children are going down a slide, and the parents are having fun going down a different slide"
 634,A man is offering a woman a hot dog next to a food cart on a giant pyramid
 635,A woman and a knight are eating a fancy dinner
 636,A construction crew is eating lunch suspended above a city next to the Grim Reaper
@@ -131,7 +126,7 @@ dog inside her luggage
 644,A businessman talking to a couple in a giant mini-golf course
 645,A businessman talking to a couple in a giant mini-golf course
 646,A man and a woman talking on a mountainside as a yeti walks by
-647,A man and a woman going off a jump in water on skis, but the man is dressed for winter
+647,"A man and a woman going off a jump in water on skis, but the man is dressed for winter"
 648,A magician shredding a document that a woman is holding
 649,Two women talking in a living room that has a set of railroad tracks running through it
 650,A female psychologist talking to a man with a large weight on his chest
@@ -139,5 +134,5 @@ dog inside her luggage
 652,Two stranded survivors on an island looking at another distant island with lots of candy
 653,A man and two woman at a cocktail party talking to a mosquito
 654,A well-dressed man complaining about his fuming soup to a server
-655,A man debating the Earth, and protesting a fact it's proclaiming
+655,"A man debating the Earth, and protesting a fact it's proclaiming"
 656,A man playing guitar in a psychologists academic office
