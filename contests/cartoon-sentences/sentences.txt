@@ -1,20 +1,19 @@
 contest,description
 510,People stepping over man lying on the sidewalk.
 511,Man uses small spade to shovel snow while boy uses large shovel
-512,
-513,
-514,
-515,
-516,
-517,
-518,
+512,A yoga teacher directing a surly delivery man carrying a rolled-up rug
+513,Three well-dressed business men carrying a long suitcase
+514,Policemen on rocking horses chase cowboys on rocking horses
+515,Injured men sit on a railroad track next to a stationary train
+516,A man talks to another at a bar as a brick falls on his head
+517,A man talks to the Grim Reaper in a courtroom
+518,A man crawls in a sandbox in the middle of a city
 519,A pair of pheasants see a man hunting with a bird on his gun
 520,Psychologist has a banana peel on patient’s chair
 521,Two pedestrians and one very large umbrella are standing in the rain.
-522,
+522,A businessman talks to a lab technician as they create the Grim Reaper
 523,Monkeys surround suburban couple sitting on couch
 524,Knight and dragon fight using swords
-525,
 526,Male angel with large halo speaks to female angel
 527,A human is welcomed by an alien into an alien spaceship
 528,Solo man presents to business crowd in tilted room
@@ -29,7 +28,7 @@ contest,description
 537,Man chisels wheel while two women speak while seated in next room
 538,Giant cat paws at man with giant needle and thread
 539,Old hiker walks straight down cliff
-540,
+540,A woman doctor diagnoses a locked safe
 541,Death in a hooded sweatsuit and sneaks speaks to woman at door
 542,Medieval woman with large collar walks while two men speak about her.
 543,An giant elephant standing next to a reading man and woman
@@ -48,8 +47,8 @@ contest,description
 556,A woman in a biohazard suit cooks with a frying pan while a man speaks to her.
 557,Eve presents an apple pie to Adam while a snake watches.
 558,An adolescent in too small pajamas in a crib talks into a baby monitor.
-559,
-560,
+559,A man does a fancy dive off a pirate ship as he's put to death
+560,Two cavemen in a hole look at a caveman in his cave
 561,Two dogs with cones over their heads facing each other.
 562,A fish and a bird facing each other.
 563,A man is running in a hamster cage on a wheel
@@ -86,59 +85,59 @@ order
 590,Dinosaur makes caveman art with dinosaurs as two cavemen watch questioningly
 591,Psychologists offers soap and brush to man in his office lying in a tub
 592,Two scientists watch many ducks in front of laptops
-593,
+593,A man talks on the phone with a some papers stabbed on his back
 594,Couple walking through a park with trees smiling
-595,
-596,
+595,Two saleswomen arrange clothes as another sales snowman arranges more clothes
+596,Man buys the Grim Reaper a drink at a bar
 597,Woman talking to another woman while walking through airport with a man and
 dog inside her luggage
 607,Man in museum looking at picture frame to see other people frustrated with him.
-608,
+608,Two priests discuss playing an organ shaped as a space heater
 609,Two persons in a subway station with a colorful sandwich pulling up to the platform.
-610,
-611,
-612,
-613,
-614,
-615,
-616,
-617,
-618,
-619,
-620,
-621,
-622,
-623,
-624,
-625,
-626,
-627,
-628,
-629,
-630,
-631,
-632,
-633,
-634,
-635,
-636,
-637,
-638,
-639,
-640,
-641,
-642,
-643,
-644,
-645,
-646,
-647,
-648,
-649,
-650,
-651,
-652,
-653,
-654,
-655,
-656,
+610,A woman talks on the phone to a chef behind a glass barrier
+611,A rat tries to fly off a building with homemade wings as a pigeon watches
+612,The police investigate chalk outlines of how humans evolved
+613,A policeman is interrogating an indifferent man as another policeman is dressed up as a clown
+614,A mountain climber summits a mountain where an old man is near a piano
+615,One fisherman on a pier catches a chandelier as another fisherman watches
+616,One businessmen talks to another through a ventriloquists dummy
+617,Naked men and women watch flames on TV as the devil presides
+618,Three people look at a unicorn horsehead
+619,Two businessmen look at a sword stuck in a desk
+620,A blindfolded angel takes a swing at the Earth in heaven
+621,A businessman is watches a knight look at himself in a mirror
+622,Two people watch a man barbecuing on a subway
+623,A police officer talks to a man flying a dead dog kite in a kite park.
+624,A skeleton waves to a businessman while buried in a graveyard
+625,A caveman walks up to home plate to bat with his club
+626,A businessman is getting bucked off a horse as he cheerfully talks on his cell phone
+627,A man and a woman are having a fancy dinner on a rooftop outside the window, and a server is taking their orders
+628,A fish is sitting at a bar and complaining to the bartender
+629,A woman is rock climbing but one of the foothold is a man's face
+630,A man and a woman are sitting below an umbrella and are chest deep in water
+631,A chef is throwing dough on a crowded airplane
+632,A woman is talking to a security guard in front of similar looking dolls
+633,Small children are going down a slide, and the parents are having fun going down a different slide
+634,A man is offering a woman a hot dog next to a food cart on a giant pyramid
+635,A woman and a knight are eating a fancy dinner
+636,A construction crew is eating lunch suspended above a city next to the Grim Reaper
+637,A security guard is watching a man rake the leaves in his yard
+638,A man is talking to another man who has drones pulling up on his belt
+639,A woman with very long hair is trying to help another woman get down from a tower
+640,A mouse is riding a cat like a cowboy rides a horses
+641,A shepard watching TV as sheep mill around his living room
+642,A woman walking past an alley entrance is being offered packcakes by a man
+643,A man wearing boxing mitts trying to play the piano
+644,A businessman talking to a couple in a giant mini-golf course
+645,A businessman talking to a couple in a giant mini-golf course
+646,A man and a woman talking on a mountainside as a yeti walks by
+647,A man and a woman going off a jump in water on skis, but the man is dressed for winter
+648,A magician shredding a document that a woman is holding
+649,Two women talking in a living room that has a set of railroad tracks running through it
+650,A female psychologist talking to a man with a large weight on his chest
+651,A doctor talking to a man wrapped in a boa constrictor
+652,Two stranded survivors on an island looking at another distant island with lots of candy
+653,A man and two woman at a cocktail party talking to a mosquito
+654,A well-dressed man complaining about his fuming soup to a server
+655,A man debating the Earth, and protesting a fact it's proclaiming
+656,A man playing guitar in a psychologists academic office
