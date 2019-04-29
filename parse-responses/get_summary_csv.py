@@ -133,13 +133,12 @@ if __name__ == "__main__":
     move(f"{contest}.jpg", summary_dir, check=check)
 
     README = """
-    Cardinal bandits (aka "how funny is this caption?")
+Cardinal bandits (aka "how funny is this caption?")
 
-    Example query:
+Example query:
 
-    ![](example_query.png)
-
-    """
+![](example_query.png)
+"""
     with open(f"{summary_dir}/README.md", "w") as f:
         print(README, file=f)
 
