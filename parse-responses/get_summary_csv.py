@@ -1,10 +1,10 @@
 import requests
 import sys
 import pandas as pd
-import requests
 import os
 from selenium import webdriver
 from subprocess import call
+from time import sleep
 
 
 def get_summary(exp_uid, contest):
@@ -83,6 +83,7 @@ def get_summary(exp_uid, contest):
 def write_screenshot():
     driver = webdriver.Firefox()
     driver.get("http://www.nextml.org/captioncontest")
+    sleep(5)
     driver.save_screenshot("example_query.png")
     driver.quit()
     return True
@@ -101,17 +102,24 @@ if __name__ == "__main__":
     meta = r.json()
     contest = meta["contest_number"] + 1  # github issue #16
     exp_uid = meta["exp_uid"]
+
+
+    ## Write data files to local dir
     get_summary(exp_uid, contest)
 
-    contests = os.listdir("../contests/info/adaptive/")
     call(f"wget {base}/{exp_uid}/cartoon.jpg -O {contest}.jpg".split(" "))
+    write_screenshot()
+
+    ## Create new folder
+    contests = os.listdir("../contests/info/adaptive/")
     if str(contest) in contests:
         raise ValueError(
             f"contest {contest} is already in ../contests/summaries/info/adaptive"
         )
     summary_dir = f"../contests/info/adaptive/{contest}"
-    call(f"mkdir {summary_dir}")
+    call(f"mkdir {summary_dir}".split())
 
+    ## Move data files
     check = True
     move(
         f"{contest}_summary_KLUCB.csv",
@@ -121,9 +129,8 @@ if __name__ == "__main__":
     move(f"{contest}_summary_private.csv", "_private/", check=check)
     move(f"{contest}_captions.csv", summary_dir, check=check)
     move(f"{contest}_repeat_captions.csv", summary_dir, check=check)
-    write_screenshot()
     move(f"example_query.png", summary_dir, check=check)
-    move(f"{contest}.png", summary_dir, check=check)
+    move(f"{contest}.jpg", summary_dir, check=check)
 
     README = """
     Cardinal bandits (aka "how funny is this caption?")
@@ -135,3 +142,6 @@ if __name__ == "__main__":
     """
     with open(f"{summary_dir}/README.md", "w") as f:
         print(README, file=f)
+
+    ## Process raw dashboards
+    ## Call pytest
