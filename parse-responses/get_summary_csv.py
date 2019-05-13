@@ -8,9 +8,8 @@ from time import sleep
 
 
 def get_summary(exp_uid, contest):
-    url = "https://s3-us-west-2.amazonaws.com/next2newyorker/"
+    url = "https://s3-us-west-2.amazonaws.com/mlnow-newyorker/"
 
-    html = requests.get(url + exp_uid)
     ranks = requests.get(url + exp_uid + "/ranks.json").json()
     targets = requests.get(url + exp_uid + "/targets.json").json()
     votes = requests.get(url + exp_uid + "/votes.json").json()
@@ -97,12 +96,14 @@ def move(file, dir, check=True):
 
 
 if __name__ == "__main__":
-    base = "https://s3-us-west-2.amazonaws.com/next2newyorker"
+    base = "https://s3-us-west-2.amazonaws.com/mlnow-newyorker"
     r = requests.get(base + "/current_contest.json")
     meta = r.json()
-    contest = meta["contest_number"] + 1  # github issue #16
+    #  contest = meta["contest_number"] + 2  # github issue #16
+    DIR = "../contests/info/adaptive/"
+    contests = [int(x) for x in os.listdir(DIR) if os.path.isdir(DIR + x)]
+    contest = max(contests) + 1
     exp_uid = meta["exp_uid"]
-
 
     ## Write data files to local dir
     get_summary(exp_uid, contest)
