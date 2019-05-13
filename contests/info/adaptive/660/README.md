@@ -5,4 +5,3 @@ Example query:
 
 ![](example_query.png)
 
-
