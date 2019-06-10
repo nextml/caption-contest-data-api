@@ -38,7 +38,7 @@ def get_summary(exp_uid, contest):
     for cap in captions:
         assert (
             abs(cap["funny"] + cap["unfunny"] + cap["somewhat_funny"] - cap["count"])
-            < 4
+            <= 5
         )
         assert set(cap.keys()) == {
             "target_id",
