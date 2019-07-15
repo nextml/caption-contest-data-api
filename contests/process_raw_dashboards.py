@@ -1,4 +1,5 @@
 import os
+from pprint import pprint
 
 import scipy.stats
 import pandas as pd
@@ -209,7 +210,10 @@ if __name__ == "__main__":
     DIR = "summaries/_raw-dashboards/"
     filenames = sorted([f for f in os.listdir(DIR) if f[0] not in {".", "_"}])
     last_contest = filenames[-1]
-    print(last_contest)
+    df = process(DIR + last_contest)
+    print("Sample captions:")
+    pprint(list(df.caption.head()))
+    print("\n" + last_contest)
     ans = input("Correct contest? y/n\n")
     if ans.lower() == "n":
         raise Exception()
