@@ -213,13 +213,13 @@ if __name__ == "__main__":
     df = process(DIR + last_contest)
     print("Sample captions:")
     pprint(list(df.caption.head()))
+    print("\n")
+    print("num answers: {}k".format(df["count"].sum() // 1000))
+    print("num captions: ", len(df.caption.unique()))
     print("\n" + last_contest)
     ans = input("Correct contest? y/n\n")
     if ans.lower() == "n":
         raise Exception()
-    df = process(DIR + last_contest)
-    print("num answers: {}k".format(df["count"].sum() // 1000))
-    print("num captions: ", len(df.caption.unique()))
 
     tst_prd.test_correct_order(df)
     tst_prd.test_score(df)
