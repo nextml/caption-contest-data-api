@@ -10,7 +10,9 @@ from time import sleep
 def get_summary(exp_uid, contest):
     url = "https://s3-us-west-2.amazonaws.com/mlnow-newyorker/"
 
-    ranks = requests.get(url + exp_uid + "/ranks.json").json()
+    print(url + exp_uid + "/ranks.json")
+    r = requests.get(url + exp_uid + "/ranks.json")
+    ranks = r.json()
     targets = requests.get(url + exp_uid + "/targets.json").json()
     votes = requests.get(url + exp_uid + "/votes.json").json()
 
@@ -27,6 +29,7 @@ def get_summary(exp_uid, contest):
 
     descriptions = {t["target_id"]: t["primary_description"] for t in targets}
 
+    assert all(isinstance(k, str) for k in votes.keys())
     for cap in captions:
         key = str(cap["target_id"])
         cap["caption"] = descriptions[key]
@@ -38,7 +41,7 @@ def get_summary(exp_uid, contest):
     for cap in captions:
         assert (
             abs(cap["funny"] + cap["unfunny"] + cap["somewhat_funny"] - cap["count"])
-            <= 5
+            <= 6
         )
         assert set(cap.keys()) == {
             "target_id",
@@ -99,6 +102,7 @@ if __name__ == "__main__":
     base = "https://s3-us-west-2.amazonaws.com/mlnow-newyorker"
     r = requests.get(base + "/current_contest.json")
     meta = r.json()
+    # meta.keys() == dict_keys(['contest_number', 'exp_uid', 'launched'])
     #  contest = meta["contest_number"] + 2  # github issue #16
     DIR = "../contests/info/adaptive/"
     contests = [int(x) for x in os.listdir(DIR) if os.path.isdir(DIR + x)]
