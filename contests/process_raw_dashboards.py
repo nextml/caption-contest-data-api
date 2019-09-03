@@ -1,5 +1,6 @@
 import os
 from pprint import pprint
+from zipfile import ZipFile
 
 import scipy.stats
 import pandas as pd
@@ -271,9 +272,11 @@ if __name__ == "__main__":
             for alg_label in alg_labels:
                 fname = f"{contest}-round{round}"
 
-                responses = pd.read_csv(
-                    f"summaries/_raw-dashboards/{fname}-cardinal-responses.csv"
-                )
+                with ZipFile(f"responses/{fname}-cardinal-responses.csv.zip") as myzip:
+                    assert len(myzip.infolist()) == 1
+                    zip_fname = myzip.infolist()[0].filename
+                    with myzip.open(zip_fname) as f:
+                        responses = pd.read_csv(f)
 
                 out = _get_dashboard_from_responses(
                     responses[responses.alg_label == alg_label]
