@@ -221,6 +221,48 @@ def process(filename, df=None):
     return out
 
 
+def _get_dashboard_from_responses(responses):
+    counts = responses.pivot_table(
+        index="target_id",
+        columns="target_reward",
+        values="timestamp_query_generated",
+        aggfunc=len,
+    )
+    assert (counts.columns == [1.0, 2.0, 3.0]).all()
+    captions = responses.pivot_table(
+        index="target_id", values="target", aggfunc=lambda x: list(x)[0]
+    )
+    assert (captions.index == counts.index).all()
+
+    counts.columns = ["unfunny", "somewhat_funny", "funny"]
+    counts["count"] = counts.sum(axis=1)
+    counts["caption"] = captions
+    out = process(fname, df=counts)
+    return out
+
+
+def _508509_dashboards():
+    for contest in [508, 509]:
+        for round, alg_labels in [(1, ["RoundRobin", "LilUCB"]), (2, ["RoundRobin"])]:
+            for alg_label in alg_labels:
+                fname = f"{contest}-round{round}"
+
+                with ZipFile(f"responses/{fname}-cardinal-responses.csv.zip") as myzip:
+                    assert len(myzip.infolist()) == 1
+                    zip_fname = myzip.infolist()[0].filename
+                    with myzip.open(zip_fname) as f:
+                        responses = pd.read_csv(f)
+
+                out = _get_dashboard_from_responses(
+                    responses[responses.alg_label == alg_label]
+                )
+
+                out_fname = f"summaries/{fname}_summary_{alg_label}.csv"
+                print(out_fname)
+                print(out["count"].sum())
+                out.to_csv(out_fname, index=False)
+
+
 def main():
     import test_process_raw_dashboards as tst_prd
 
@@ -246,43 +288,5 @@ def main():
     df.to_csv("summaries/" + last_contest, index=False)
 
 
-def _get_dashboard_from_responses(responses):
-    counts = responses.pivot_table(
-        index="target_id",
-        columns="target_reward",
-        values="timestamp_query_generated",
-        aggfunc=len,
-    )
-    assert (counts.columns == [1.0, 2.0, 3.0]).all()
-    captions = responses.pivot_table(
-        index="target_id", values="target", aggfunc=lambda x: list(x)[0]
-    )
-    assert (captions.index == counts.index).all()
-
-    counts.columns = ["unfunny", "somewhat_funny", "funny"]
-    counts["count"] = counts.sum(axis=1)
-    counts["caption"] = captions
-    out = process(fname, df=counts)
-    return out
-
-
 if __name__ == "__main__":
-    for contest in [508, 509]:
-        for round, alg_labels in [(1, ["RoundRobin", "LilUCB"]), (2, ["RoundRobin"])]:
-            for alg_label in alg_labels:
-                fname = f"{contest}-round{round}"
-
-                with ZipFile(f"responses/{fname}-cardinal-responses.csv.zip") as myzip:
-                    assert len(myzip.infolist()) == 1
-                    zip_fname = myzip.infolist()[0].filename
-                    with myzip.open(zip_fname) as f:
-                        responses = pd.read_csv(f)
-
-                out = _get_dashboard_from_responses(
-                    responses[responses.alg_label == alg_label]
-                )
-
-                out_fname = f"summaries/{fname}_summary_{alg_label}.csv"
-                print(out_fname)
-                print(out["count"].sum())
-                out.to_csv(out_fname, index=False)
+    main()
