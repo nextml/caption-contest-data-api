@@ -39,10 +39,12 @@ def get_summary(exp_uid, contest):
 
     assert all(a["score"] >= b["score"] for a, b in zip(captions, captions[1:]))
     for cap in captions:
-        assert (
-            abs(cap["funny"] + cap["unfunny"] + cap["somewhat_funny"] - cap["count"])
-            <= 6
-        )
+        est_count = cap["funny"] + cap["unfunny"] + cap["somewhat_funny"]
+        if cap["count"] > 1e3:
+            rel_error = abs(est_count - cap["count"]) / cap["count"]
+            assert rel_error < 0.01
+        else:
+            assert abs(est_count - cap["count"]) <= 7
         assert set(cap.keys()) == {
             "target_id",
             "score",
