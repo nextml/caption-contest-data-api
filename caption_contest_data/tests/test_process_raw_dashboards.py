@@ -1,27 +1,30 @@
 import os
+from pathlib import Path
 
 import numpy as np
 import pandas as pd
 import pytest
 from sklearn.utils import check_random_state
 
-import process_raw_dashboards as prd
+import caption_contest_data._raw as prd
 
 
-DIR = "summaries/_raw-dashboards/"
-filenames = sorted([f for f in os.listdir(DIR) if f[0] not in {".", "_"}])
+root = Path(__file__).parent.parent.parent
+raw_dashboards = root / "contests" / "summaries" / "_raw-dashboards"
+filenames = sorted([f for f in raw_dashboards.glob("*.csv")])
 
 
 @pytest.fixture(params=filenames)
 def df(request):
-    filename = request.param
-    return prd.process("summaries/_raw-dashboards/" + filename)
+    filename = str(request.param)
+    return prd.process(filename)
 
 
 @pytest.mark.parametrize("filename", filenames)
-def test_same_dataframe(filename):
-    df1 = pd.read_csv("summaries/" + filename)
-    df2 = prd.process("summaries/_raw-dashboards/" + filename)
+def test_same_dataframe(filename: Path):
+    fname = filename.name
+    df1 = pd.read_csv(str(root / "contests" / "summaries" / fname))
+    df2 = prd.process(str(raw_dashboards / fname))
     assert (df1.columns == df2.columns).all()
     for col in df1.columns:
         if col in {"score", "precision"}:
