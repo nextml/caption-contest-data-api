@@ -13,11 +13,10 @@ install:
   - conda info -a
 
   # Replace dep1 dep2 ... with your dependencies
-  - conda create -q -n test-environment python=$TRAVIS_PYTHON_VERSION dep1 dep2 ...
+  - conda create -q -n test-environment python=$TRAVIS_PYTHON_VERSION numpy pandas
   - conda activate test-environment
   - python setup.py install
 
 script:
-  - conda install numpy pandas
   - pip install -r requirements.txt
   - pytest
