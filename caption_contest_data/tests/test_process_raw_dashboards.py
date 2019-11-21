@@ -11,7 +11,7 @@ import caption_contest_data._raw as prd
 
 root = Path(__file__).parent.parent.parent
 raw_dashboards = root / "contests" / "summaries" / "_raw-dashboards"
-filenames = sorted([f for f in raw_dashboards.glob("*.csv")])
+filenames = sorted(list(raw_dashboards.glob("*.csv")))
 
 
 @pytest.fixture(params=filenames)
