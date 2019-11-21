@@ -1,7 +1,7 @@
 from setuptools import setup
 
 with open("requirements.txt", "r") as f:
-    packages = f.readlines()
+    packages = [x.strip("\n") for x in f.readlines()]
 
 setup(
     name="caption_contest_data",
