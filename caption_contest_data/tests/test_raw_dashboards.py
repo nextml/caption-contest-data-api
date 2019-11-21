@@ -1,18 +1,29 @@
+"""
+This file tests the input data to process_raw_dashboards, specifically so we know what we
+have to protect against.
+
+The raw dashboards will not change. This file is to make sure it's known how
+the differences between the dashboard summaries.
+
+"""
 import os
+from pathlib import Path
 
 import pytest
 
-from process_raw_dashboards import read_csv
+from caption_contest_data._raw import read_csv
 
 DIR = "summaries/_raw-dashboards/"
-filenames = sorted([f for f in os.listdir(DIR) if f[0] not in {".", "_"}])
+root = Path(__file__).parent.parent.parent
+raw = root / "contests" / "summaries" / "_raw-dashboards"
+filenames = sorted(list(raw.glob("*.csv")))
 
 
 @pytest.fixture(params=filenames)
 def df(request):
     filename = request.param
-    df = read_csv("summaries/_raw-dashboards/" + filename)
-    df.filename = filename
+    df = read_csv(str(filename))
+    df.filename = filename.name
     return df
 
 

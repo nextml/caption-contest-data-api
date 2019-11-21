@@ -78,32 +78,6 @@ Queries of the form "how funny is this caption?"
   depending on if the joke was unfunny, somewhat funny or funny respectively.
 
 
-## data.world
-This data is available on [data.world] as [stsievert/caption-contest-data]. To
-obtain this data, follow their [install instructions] use a [data.world integration],
-which includes interfaces for different languages.
-For example, here's their Python integration with these data:
-
-``` python
->>> import datadotworld as dw
->>> d = dw.DataDotWorld()
->>> data = d.load_dataset('stsievert/caption-contest-data')
->>> print(data.tables['orginal/546_summary_LilUCB.csv'][0])
-... OrderedDict([('', '0'),
-                 ('rank', '1'),
-                 ('caption', 'We never should have applauded.'),
-                 ('score', '1.8421052631578947'),
-                 ('precision', '0.04554460512094434'),
-                 ('count', '285.0'),
-                 ('unfunny', '110.0'),
-                 ('somewhat_funny', '110.0'),
-                 ('funny', '65.0')])
-```
-
-[stsievert/caption-contest-data]:https://data.world/stsievert/caption-contest-data
-[data.world integration]:https://data.world/integrations
-[data.world]:https://data.world
-[install instructions]:https://github.com/datadotworld/data.world-py
 
 ### Datasets provided
 * trimmed participant responses, as a CSV (headers included above)
@@ -138,6 +112,11 @@ https://condenaststore.com/conde-nast-brand/cartoonbank
 [The New Yorker cartoonists]:https://en.wikipedia.org/wiki/Category:The_New_Yorker_cartoonists
 [The New Yorker]:http://newyorker.com
 [Caption Contest]:http://contest.newyorker.com
+
+## Licenses
+
+* The software package `caption_contest_data` is licensed by `SOFTWARE_LICENSE.txt`
+* Everything else is licensed by `LICENSE.txt`.
 
 ## Example queries
 In earlier experiments, sample queries are also shown (minus 509). Other experiments have specified that the experiment setup being
