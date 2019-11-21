@@ -26,7 +26,7 @@ def test_same_dataframe(filename: Path):
     df2 = prd.process(str(raw_dashboards / fname))
     assert (df1.columns == df2.columns).all()
     for col in df1.columns:
-        if col in {"score", "precision"}:
+        if "float" in df1[col].dtype.name:
             assert np.allclose(df1[col], df2[col])
         else:
             assert (df1[col] == df2[col]).all()
