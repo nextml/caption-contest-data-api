@@ -21,7 +21,6 @@ def df(request):
 
 @pytest.mark.parametrize("filename", filenames)
 def test_same_dataframe(filename: str):
-    @pytest.mark.skipif("590" in filename, reason="TODO")
     def _test_same_dataframe():
         fname = filename.split("/")[-1]
         df1 = pd.read_csv(str(root / "contests" / "summaries" / fname))
@@ -32,6 +31,10 @@ def test_same_dataframe(filename: str):
                 assert np.allclose(df1[col], df2[col])
             else:
                 assert (df1[col] == df2[col]).all()
+
+    if "590" in filename:
+        pytest.xfail("TODO")
+
     _test_same_dataframe()
 
 
