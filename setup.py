@@ -1,5 +1,8 @@
 from setuptools import setup
 
+with open("requirements.txt", "r") as f:
+    packages = f.readlines()
+
 setup(
     name="caption_contest_data",
     version="0.1-alpha",
@@ -18,7 +21,7 @@ setup(
     author_email="captions@stsievert.com",
     #  url="https://www.ettus.com/",
     #  license="GPLv3",
-    package_dir={"": "caption_contest_data"},
+    #  package_dir={"": "caption_contest_data"},
     packages=["caption_contest_data"],
-    install_requires=["numpy", "pandas", "fsspec", "requests"],
+    install_requires=packages,
 )
