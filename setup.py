@@ -1,11 +1,12 @@
 from setuptools import setup
+from caption_contest_data import __version__
 
 with open("requirements.txt", "r") as f:
     packages = [x.strip("\n") for x in f.readlines()]
 
 setup(
     name="caption_contest_data",
-    version="0.1-alpha",
+    version=__version__,
     description="Data from The New Yorker Cartoon Caption Contest",
     classifiers=[
         "Development Status :: 1 - Planning",
@@ -16,7 +17,7 @@ setup(
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
         "Topic :: Utilities",
     ],
-    keywords="data caption contest humor",
+    keywords="data caption contest responses humor new-yorker",
     author="Scott Sievert",
     author_email="captions@stsievert.com",
     packages=["caption_contest_data"],

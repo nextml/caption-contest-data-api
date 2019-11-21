@@ -10,14 +10,14 @@ DUELING_XFAIL = """These contests are dueling bandits, not cardinal bandits
 These aren't officially supported.
 """
 
-@pytest.fixture(
-    params=[
-        f
-        if "dueling" not in str(f) and "497" not in str(f)
-        else pytest.param(f, marks=pytest.mark.xfail(reason=DUELING_XFAIL))
-        for f in filenames
-    ]
-)
+
+def _get_file(f):
+    if "dueling" in str(f) or "497" in str(f):
+        return pytest.param(f, marks=pytest.mark.xfail(reason=DUELING_XFAIL))
+    return f
+
+
+@pytest.fixture(params=[_get_file(f) for f in filenames])
 def df(request):
     filename = request.param
     root = Path(__file__).parent.parent.parent
