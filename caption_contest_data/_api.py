@@ -36,19 +36,31 @@ def _get_contests(get=True) -> Dict[str, str]:
 
 def summary(contest: Union[str, int], get: bool = True) -> pd.DataFrame:
     """
+    Get the contest summary from a particular contest.
+
     Parameters
     ----------
     contest : str, int
         Which contest data to retrieve
     get : bool, optional
-        Whether to make a request to refresh the contests available.
+        Whether to get the contest names from the internet. If
+        ``get is False``, the summaries are read from disk.
 
     Returns
     -------
-    data : pd.DataFrame
-        A DataFrame with the results of the the contest. This dataframe has columns
-        ``target_id``, ``rank``, ``funny``, ``somewhat_funny``, ``unfunny``,
-        ``count``, ``score``, ``precision``, ``contest``, and ``caption``.
+    summary : pd.DataFrame
+       A DataFrame with the results of the the contest. This dataframe has columns
+       ``target_id``, ``rank``, ``funny``, ``somewhat_funny``, ``unfunny``,
+       ``count``, ``score``, ``precision``, ``contest``, and ``caption``.
+
+    Notes
+    -----
+    This summary has ratings for the funniness of each caption. Specifically,
+    there's a 95% confidence that the mean score of the caption lies within
+    ``score ± prec``.
+
+    This function will cache all summaries on disk, and use the summary online
+    if the cache does not exist.
 
     """
     try:
@@ -111,6 +123,8 @@ def responses(
     contest: Union[int, str], responses: Union[None, Path] = None
 ) -> pd.DataFrame:
     """
+    Get the individual responses from a particular contest.
+
     Arguments
     ---------
     contest : int, str
