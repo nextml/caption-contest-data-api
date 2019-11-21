@@ -21,21 +21,18 @@ def df(request):
 
 @pytest.mark.parametrize("filename", filenames)
 def test_same_dataframe(filename: str):
-    def _test_same_dataframe():
-        fname = filename.split("/")[-1]
-        df1 = pd.read_csv(str(root / "contests" / "summaries" / fname))
-        df2 = prd.process(str(raw_dashboards / fname))
-        assert (df1.columns == df2.columns).all()
-        for col in df1.columns:
-            if "float" in df1[col].dtype.name:
-                assert np.allclose(df1[col], df2[col])
-            else:
-                assert (df1[col] == df2[col]).all()
-
     if "590" in filename:
         pytest.xfail("TODO")
 
-    _test_same_dataframe()
+    fname = filename.split("/")[-1]
+    df1 = pd.read_csv(str(root / "contests" / "summaries" / fname))
+    df2 = prd.process(str(raw_dashboards / fname))
+    assert (df1.columns == df2.columns).all()
+    for col in df1.columns:
+        if "float" in df1[col].dtype.name:
+            assert np.allclose(df1[col], df2[col])
+        else:
+            assert (df1[col] == df2[col]).all()
 
 
 def test_correct_order(df):
