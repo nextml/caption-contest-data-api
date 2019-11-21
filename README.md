@@ -115,8 +115,7 @@ https://condenaststore.com/conde-nast-brand/cartoonbank
 
 ## Licenses
 
-* The software package `caption_contest_data` is licensed by
-  `SOFTWARE_LICENSE.txt`
+* The software package `caption_contest_data` is licensed by `SOFTWARE_LICENSE.txt`
 * Everything else is licensed by `LICENSE.txt`.
 
 ## Example queries
