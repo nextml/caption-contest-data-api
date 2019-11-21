@@ -1,3 +1,5 @@
 requests
+pytest
 fsspec
 pandas
+scipy

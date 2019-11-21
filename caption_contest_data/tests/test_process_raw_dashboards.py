@@ -4,7 +4,6 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 import pytest
-from sklearn.utils import check_random_state
 
 import caption_contest_data._raw as prd
 
@@ -91,7 +90,7 @@ def test_ranks(df):
 
 
 def test_recover_counts():
-    rng = check_random_state(42)
+    rng = np.random.RandomState(42)
     rand_clicks = lambda size: rng.randint(10, size=size).tolist()
     df = pd.DataFrame(
         {
