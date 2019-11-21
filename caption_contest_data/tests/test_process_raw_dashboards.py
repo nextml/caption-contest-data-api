@@ -10,7 +10,7 @@ import caption_contest_data._raw as prd
 
 root = Path(__file__).parent.parent.parent
 raw_dashboards = root / "contests" / "summaries" / "_raw-dashboards"
-filenames = sorted(list(raw_dashboards.glob("*.csv")))
+filenames = sorted([str(p) for p in raw_dashboards.glob("*.csv")])
 
 
 @pytest.fixture(params=filenames)
@@ -20,8 +20,8 @@ def df(request):
 
 
 @pytest.mark.parametrize("filename", filenames)
-def test_same_dataframe(filename: Path):
-    fname = filename.name
+def test_same_dataframe(filename: str):
+    fname = filename.split("/")[-1]
     df1 = pd.read_csv(str(root / "contests" / "summaries" / fname))
     df2 = prd.process(str(raw_dashboards / fname))
     assert (df1.columns == df2.columns).all()

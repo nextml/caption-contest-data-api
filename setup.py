@@ -19,9 +19,6 @@ setup(
     keywords="data caption contest humor",
     author="Scott Sievert",
     author_email="captions@stsievert.com",
-    #  url="https://www.ettus.com/",
-    #  license="GPLv3",
-    #  package_dir={"": "caption_contest_data"},
     packages=["caption_contest_data"],
     install_requires=packages,
 )
