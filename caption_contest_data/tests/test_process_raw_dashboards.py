@@ -23,8 +23,6 @@ def df(request):
 def test_same_dataframe(filename: str):
     if "590" in filename:
         pytest.xfail("TODO")
-    if "560" in filename:
-        pytest.xfail("Columns are named '*original', not '*funny'")
 
     fname = filename.split("/")[-1]
     df1 = pd.read_csv(str(root / "contests" / "summaries" / fname))
