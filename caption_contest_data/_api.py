@@ -176,7 +176,7 @@ def responses(
     return _format_responses(df, contest=c, filename=filelist[0].filename)
 
 
-def meta(contest: Union[int, str]) -> Dict[str, Union[str, int]]:
+def meta(contest: Union[int, str]) -> Dict[str, Union[str, int, None]]:
     """
     Arguments
     ---------
@@ -194,17 +194,17 @@ def meta(contest: Union[int, str]) -> Dict[str, Union[str, int]]:
         * ``funniest_caption``: the funniest caption, as rated by users.
 
     """
-    number = contest if isinstance(contest, int) else int(contest.split("_")[0])
+    c = contest if isinstance(contest, int) else int(contest.split("_")[0])
     df = summary(contest, get=False)
     base = "https://github.com/nextml/caption-contest-data/raw/master/contests/info"
     top = df["rank"].idxmin()
 
     d = {
-        "comic": base + f"/{number}/{number}.jpg",
+        "comic": base + f"/{c}/{c}.jpg",
         "num_responses": df["count"].sum(),
         "num_captions": len(df["caption"]),
         "funniest_caption": df.loc[top, "caption"],
     }
-    if contest not in {508, 509}:
-        d.update({"example_query": base + "/{number}/example_query.png"})
+    if c not in {519, 550, 587, 588}:
+        d.update({"example_query": base + f"/{c}/example_query.png"})
     return d
