@@ -118,6 +118,7 @@ def _format_responses(df: pd.DataFrame, **kwargs) -> pd.DataFrame:
         df["label"] = df.target_reward.apply(labels.get)
     for k, v in kwargs.items():
         df[k] = v
+    df["timestamp_query_generated"] = pd.to_datetime(df["timestamp_query_generated"])
     return df
 
 
@@ -153,6 +154,9 @@ def responses(
     if not responses:
         root = Path(__file__).parent / ".caption-contest-data"
         responses = root / "contests" / "responses"
+    if not responses.exists():
+        msg = "responses={} not found. Is it possible get_responses needs to be called?"
+        raise ValueError(msg.format(responses))
 
     fnames = list(responses.glob("*.csv.zip"))
     keys = [k for k in fnames if str(contest) in str(k)]
@@ -162,7 +166,7 @@ def responses(
             "contest. Available filenames are at "
             "https://github.com/nextml/caption-contest-data/tree/master/contests/responses"
         )
-        raise ValueError(msg.format(contest))
+        raise ValueError(msg.format(contest), fnames)
     if len(keys) > 1:
         msg = "contest={} yields multiple contests ({})."
         raise ValueError(msg.format(contest, keys))
@@ -176,7 +180,7 @@ def responses(
     return _format_responses(df, contest=c, filename=filelist[0].filename)
 
 
-def meta(contest: Union[int, str]) -> Dict[str, Union[str, int, None]]:
+def meta(contest: Union[int, str]) -> Dict[str, Union[str, int]]:
     """
     Arguments
     ---------
@@ -192,6 +196,8 @@ def meta(contest: Union[int, str]) -> Dict[str, Union[str, int, None]]:
         * ``num_responses``, ``num_captions``: an integer with the number of
           responses and captions respectively
         * ``funniest_caption``: the funniest caption, as rated by users.
+        * ``example_query``: an example query. For certain contest
+          (519, 550, 587 and 588) this key is not present.
 
     """
     c = contest if isinstance(contest, int) else int(contest.split("_")[0])
