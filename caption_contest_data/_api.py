@@ -212,7 +212,6 @@ def meta(contest: Union[int, str], get: bool = True) -> Dict[str, Union[str, int
     paths = {int(k): v for k, v in _get_paths(get=get).items()}
     df = summary(contest)
     base = "https://github.com/nextml/caption-contest-data/raw/master"
-    # TODO: make the image URL work for passive and passive+adaptive
     top = df["rank"].idxmin()
 
     d = {
