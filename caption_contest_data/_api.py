@@ -7,13 +7,15 @@ import sys
 import json
 from zipfile import ZipFile
 from subprocess import call, DEVNULL
+from functools import lru_cache
 
 
 def _get_contests_web() -> Dict[str, str]:
-    base = "https://raw.githubusercontent.com/nextml/caption-contest-data/master/contests/summaries/"
     base = "https://api.github.com"
     url = base + "/repos/nextml/caption-contest-data/contents/contests/summaries"
     r = requests.get(url)
+    if r.status_code == 403:
+        raise requests.RequestException(r.json()["message"])
     filenames = {
         datum["name"]: datum["download_url"]
         for datum in r.json()
@@ -36,19 +38,31 @@ def _get_contests(get=True) -> Dict[str, str]:
 
 def summary(contest: Union[str, int], get: bool = True) -> pd.DataFrame:
     """
+    Get the contest summary from a particular contest.
+
     Parameters
     ----------
     contest : str, int
         Which contest data to retrieve
     get : bool, optional
-        Whether to make a request to refresh the contests available.
+        Whether to get the contest names from the internet. If
+        ``get is False``, the summaries are read from disk.
 
     Returns
     -------
-    data : pd.DataFrame
-        A DataFrame with the results of the the contest. This dataframe has columns
-        ``target_id``, ``rank``, ``funny``, ``somewhat_funny``, ``unfunny``,
-        ``count``, ``score``, ``precision``, ``contest``, and ``caption``.
+    summary : pd.DataFrame
+       A DataFrame with the results of the the contest. This dataframe has columns
+       ``target_id``, ``rank``, ``funny``, ``somewhat_funny``, ``unfunny``,
+       ``count``, ``score``, ``precision``, ``contest``, and ``caption``.
+
+    Notes
+    -----
+    This summary has ratings for the funniness of each caption. Specifically,
+    there's a 95% confidence that the mean score of the caption lies within
+    ``score ± prec``.
+
+    This function will cache all summaries on disk, and use the summary online
+    if the cache does not exist.
 
     """
     try:
@@ -111,6 +125,8 @@ def responses(
     contest: Union[int, str], responses: Union[None, Path] = None
 ) -> pd.DataFrame:
     """
+    Get the individual responses from a particular contest.
+
     Arguments
     ---------
     contest : int, str
@@ -121,6 +137,17 @@ def responses(
     Returns
     -------
     responses : pd.DataFrame
+        These responses are individual button clicks by humans. Some columns
+        in the dataframe are
+        ``network_delay``, ``response_time``, ``participant_uid``,
+        ``timestamp_query_generated``, ``target``, ``target_id``, and
+        ``target_reward``.
+
+    Notes
+    -----
+    Using this function requires that all individual responses files are
+    downloaded. In total, this is about 1.4 GB. The files are cached after the
+    first download.
 
     """
     if not responses:
@@ -147,3 +174,52 @@ def responses(
             df = pd.read_csv(f)
     c = contest if isinstance(contest, int) else contest.split("-")[0]
     return _format_responses(df, contest=c, filename=filelist[0].filename)
+
+
+def _get_paths(get: bool = False) -> Dict[int, str]:
+    p = Path(__file__).absolute().parent / ".path.json"
+    if not get and p.exists():
+        with open(str(p), "r") as f:
+            return json.load(f)
+
+    print("Getting paths...")
+    base = "https://api.github.com"
+    contests = {}
+    for dir in ["adaptive", "passive", "passive+adaptive"]:
+        url = (
+            base + f"/repos/nextml/caption-contest-data/contents/contests/info/{dir}/"
+        )
+        r = requests.get(url)
+        data = r.json()
+        if r.status_code == 403:
+            raise requests.RequestException(data["message"])
+
+        contests.update(
+            {
+                d["name"]: f"/contests/info/{dir}/{d['name']}"
+                for d in data
+                if d["type"] == "dir" and d["name"].isdecimal()
+            }
+        )
+
+    with open(str(p), "w") as f:
+        json.dump(contests, f)
+    return contests
+
+
+def meta(contest: Union[int, str], get: bool = True) -> Dict[str, Union[str, int]]:
+    number = contest if isinstance(contest, int) else int(contest.split("_")[0])
+    paths = {int(k): v for k, v in _get_paths(get=get).items()}
+    df = summary(contest)
+    base = "https://github.com/nextml/caption-contest-data/raw/master"
+    top = df["rank"].idxmin()
+
+    d = {
+        "comic": base + paths[number] + f"/{number}.jpg",
+        "num_responses": df["count"].sum(),
+        "num_captions": len(df["caption"]),
+        "funniest_caption": df.loc[top, "caption"],
+    }
+    if contest not in {508, 509}:
+        d.update({"example_query": base + paths[number] + "/example_query.png"})
+    return d

@@ -1,6 +1,7 @@
 import os
 from pprint import pprint
 from zipfile import ZipFile
+from pathlib import Path
 
 import scipy.stats
 import pandas as pd
@@ -261,32 +262,3 @@ def _508509_dashboards():
                 print(out_fname)
                 print(out["count"].sum())
                 out.to_csv(out_fname, index=False)
-
-
-def main():
-    import test_process_raw_dashboards as tst_prd
-
-    DIR = "summaries/_raw-dashboards/"
-    filenames = sorted([f for f in os.listdir(DIR) if f[0] not in {".", "_"}])
-    last_contest = filenames[-1]
-    df = process(DIR + last_contest)
-    print("Sample captions:")
-    pprint(list(df.caption.head()))
-    print("\n")
-    print("num answers: {}k".format(df["count"].sum() // 1000))
-    print("num captions: ", len(df.caption.unique()))
-    print("\n" + last_contest)
-    ans = input("Correct contest? y/n\n")
-    if ans.lower() == "n":
-        raise Exception()
-
-    tst_prd.test_correct_order(df)
-    tst_prd.test_score(df)
-    tst_prd.test_counts(df)
-    tst_prd.test_columns(df)
-    tst_prd.test_ranks(df)
-    df.to_csv("summaries/" + last_contest, index=False)
-
-
-if __name__ == "__main__":
-    main()
