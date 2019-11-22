@@ -54,4 +54,4 @@ These are all captions for this comic:
 
 .. raw:: html
 
-   <img src="https://github.com/nextml/caption-contest-data/raw/master/contests/info/adaptive/553/553.jpg" width="400px" />
+   <img src="https://github.com/nextml/caption-contest-data/raw/master/contests/info/553/553.jpg" width="400px" />
