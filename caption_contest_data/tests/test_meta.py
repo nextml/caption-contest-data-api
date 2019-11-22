@@ -13,9 +13,11 @@ contests_dual = [
     for p in (exps / "passive+adaptive").glob("*")
     if p.is_dir() and int(p.name) >= 508 and int(p.name) != 559
 ]
-contests_dual.append(
-    ["559_summary_KLUCB", "559_summary_LilUCB", "559_summary_RandomSampling"]
-)
+contests_dual += [
+    "559_summary_KLUCB",
+    "559_summary_LilUCB",
+    "559_summary_RandomSampling",
+]
 contests = [
     int(p.name)
     for alg in ["adaptive", "passive"]

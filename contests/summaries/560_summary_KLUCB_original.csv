@@ -1,4 +1,4 @@
-rank,funny,somewhat_funny,unfunny,count,score,precision,contest,caption
+rank,original,somewhat_original,unoriginal,count,score,precision,contest,caption
 1,69,70,45,184,2.130434782608696,0.05738147608020176,560,I invented fire. He invested in it.
 2,45,48,36,129,2.0697674418604652,0.06976744186046513,560,He comes from prehistoric money.
 3,54,32,45,131,2.068702290076336,0.07600633506885923,560,Getting past the guard is easy. How do we remove the paintings?

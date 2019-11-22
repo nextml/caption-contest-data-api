@@ -176,50 +176,24 @@ def responses(
     return _format_responses(df, contest=c, filename=filelist[0].filename)
 
 
-def _get_paths(get: bool = False) -> Dict[int, str]:
-    p = Path(__file__).absolute().parent / ".path.json"
-    if not get and p.exists():
-        with open(str(p), "r") as f:
-            return json.load(f)
-
-    print("Getting paths...")
-    base = "https://api.github.com"
-    contests = {}
-    for dir in ["adaptive", "passive", "passive+adaptive"]:
-        url = (
-            base + f"/repos/nextml/caption-contest-data/contents/contests/info/{dir}/"
-        )
-        r = requests.get(url)
-        data = r.json()
-        if r.status_code == 403:
-            raise requests.RequestException(data["message"])
-
-        contests.update(
-            {
-                d["name"]: f"/contests/info/{dir}/{d['name']}"
-                for d in data
-                if d["type"] == "dir" and d["name"].isdecimal()
-            }
-        )
-
-    with open(str(p), "w") as f:
-        json.dump(contests, f)
-    return contests
-
-
 def meta(contest: Union[int, str], get: bool = True) -> Dict[str, Union[str, int]]:
+    """
+    contest : int, str
+        Argument to :func:`summary`
+    get : bool, optional, default=True
+        Whether to get the
+    """
     number = contest if isinstance(contest, int) else int(contest.split("_")[0])
-    paths = {int(k): v for k, v in _get_paths(get=get).items()}
     df = summary(contest)
-    base = "https://github.com/nextml/caption-contest-data/raw/master"
+    base = "https://github.com/nextml/caption-contest-data/raw/master/contests/info"
     top = df["rank"].idxmin()
 
     d = {
-        "comic": base + paths[number] + f"/{number}.jpg",
+        "comic": base + f"/contests/info/{number}/{number}.jpg",
         "num_responses": df["count"].sum(),
         "num_captions": len(df["caption"]),
         "funniest_caption": df.loc[top, "caption"],
     }
     if contest not in {508, 509}:
-        d.update({"example_query": base + paths[number] + "/example_query.png"})
+        d.update({"example_query": base + "/{number}/example_query.png"})
     return d
