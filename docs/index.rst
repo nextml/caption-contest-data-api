@@ -17,8 +17,10 @@ This documentation describes the following:
    :maxdepth: 2
    :caption: Contents:
 
+   introduction
    contest-basics
    api
+   examples
 
 
 Indices and tables

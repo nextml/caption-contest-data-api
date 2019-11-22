@@ -8,20 +8,31 @@ Largely, one question is asked: "how funny is this caption?"
 
 .. image:: imgs/cardinal-safari.png
 
-We also ask different queries, including "pairwise comparisons" and comparing
-originality/novelty.
+These queries are visible at https://nextml.org/captioncontest (which is linked
+to from https://www.newyorker.com/cartoons/contest).
+
+In select contests we also ask different queries:
 
 * **Pairwise comparisons** happened in contest 508 and 509. For the first part
   of the contest, we did the normal "how funny is this caption?". Then, in the
   last half of the week we took the top 25 captions and asked two questions:
-    * How funny is this caption?
-    * Which of these two captions is funnier?
+
+  * How funny is this caption?
+  * Which of these two captions is funnier?
 
 * **originality.** In contest 560, we asked "how original is this caption?",
   with buttons for different levels of originality (I believe "unoriginal",
   "somewhat original" and "original"). We asked these alongside the normal "how
   funny is this caption?" queries; I believe we randomly chose between the two
   questions.
+
+.. note::
+
+   The CSV file ``560_summary_KLUCB_original.csv`` has columns ``unfunny``,
+   ``somewhat_funny`` and ``funny``. These are not the buttons presented! The
+   buttons presented had "original" instead of "funny". The text displayed was
+   "Original", "Unoriginal" and "Somewhat original", and the column names
+   should be ``unoriginal``, ``somewhat_original`` and ``original``.
 
 
 Algorithms
@@ -35,9 +46,16 @@ it's probably not that funny).
 
 Many contests find this with an adaptive algorithm, Lil'UCB [1]_ in the earlier
 contests and KL-LUCB in later contests [2]_.  There are other algorithms
-besides labels are clearly indicated, and performed alongside simple "round
-robin" or "random sampling", which are not adaptive and do not adapt to
-previously collected responses.
+besides labels are clearly indicated, and performed alongside "passive"
+algorithms that do not adapt to previously collected responses (either "round
+robin" or "random sampling").
+
+* **Passive and adaptive algorithms** are in contests 497--519, and contest
+  559. Contest 559 is a performance comparison of Lil'UCB, KL-LUCB and
+  random sampling.
+* **Only passive algorithms** are in contest 540
+* **Only adaptive algorithms** are in all other contests
+
 
 References
 ----------
