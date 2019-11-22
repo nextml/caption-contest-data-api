@@ -176,20 +176,31 @@ def responses(
     return _format_responses(df, contest=c, filename=filelist[0].filename)
 
 
-def meta(contest: Union[int, str], get: bool = True) -> Dict[str, Union[str, int]]:
+def meta(contest: Union[int, str]) -> Dict[str, Union[str, int]]:
     """
+    Arguments
+    ---------
     contest : int, str
         Argument to :func:`summary`
-    get : bool, optional, default=True
-        Whether to get the
+
+    Returns
+    -------
+    info : dict
+        Dictionary with keys
+
+        * ``comic``: A URL to the comi
+        * ``num_responses``, ``num_captions``: an integer with the number of
+          responses and captions respectively
+        * ``funniest_caption``: the funniest caption, as rated by users.
+
     """
     number = contest if isinstance(contest, int) else int(contest.split("_")[0])
-    df = summary(contest)
+    df = summary(contest, get=False)
     base = "https://github.com/nextml/caption-contest-data/raw/master/contests/info"
     top = df["rank"].idxmin()
 
     d = {
-        "comic": base + f"/contests/info/{number}/{number}.jpg",
+        "comic": base + f"/{number}/{number}.jpg",
         "num_responses": df["count"].sum(),
         "num_captions": len(df["caption"]),
         "funniest_caption": df.loc[top, "caption"],

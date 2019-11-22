@@ -7,28 +7,25 @@ import caption_contest_data as ccd
 
 root = Path(__file__).absolute().parent.parent.parent
 exps = root / "contests" / "info"
+
 contests_dual = [
     f"{p.name}_summary_{alg}.csv"
     for alg in ["LilUCB", "RoundRobin"]
-    for p in (exps / "passive+adaptive").glob("*")
-    if p.is_dir() and int(p.name) >= 508 and int(p.name) != 559
-]
-contests_dual += [
-    "559_summary_KLUCB",
-    "559_summary_LilUCB",
-    "559_summary_RandomSampling",
-]
-contests = [
+    for p in (exps).glob("*")
+    if p.is_dir() and 508 <= int(p.name) <= 519
+] + ["559_summary_KLUCB", "559_summary_LilUCB", "559_summary_RandomSampling"]
+
+contests_single = [
     int(p.name)
-    for alg in ["adaptive", "passive"]
-    for p in (exps / alg).glob("*")
-    if p.is_dir()
+    for p in (exps).glob("*")
+    if p.is_dir() if int(p.name) >= 520 and int(p.name) != 559
 ]
-contests = sorted(contests)
+contests = contests_dual + sorted(contests_single)
+print(contests)
 
 
-@pytest.mark.parametrize("contest", contests_dual + contests)
+@pytest.mark.parametrize("contest", contests)
 def test_meta(contest):
-    d = ccd.meta(contest, get=contest == contests_dual[0])
+    d = ccd.meta(contest)
     r = requests.get(d["comic"])
     assert r.status_code == 200
