@@ -204,7 +204,7 @@ def responses(
     return _format_responses(df, contest=c, filename=filelist[0].filename)
 
 
-def meta(contest: Union[int, str]) -> Dict[str, Union[str, int]]:
+def meta(contest: Union[int, str], get:bool=True) -> Dict[str, Union[str, int]]:
     """
     Arguments
     ---------
@@ -225,7 +225,7 @@ def meta(contest: Union[int, str]) -> Dict[str, Union[str, int]]:
 
     """
     c = contest if isinstance(contest, int) else int(contest.split("_")[0])
-    df = summary(contest, get=False)
+    df = summary(contest, get=get)
     base = "https://github.com/nextml/caption-contest-data/raw/master/contests/info"
     top = df["rank"].idxmin()
 

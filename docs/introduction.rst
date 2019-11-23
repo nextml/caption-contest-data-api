@@ -3,6 +3,19 @@ Getting started
 Installation
 ------------
 
+This package will be on PyPI.
+
+.. code-block:: bash
+
+   pip install caption-contest-data-api
+
+This will download the scripts only, **not any data.** The, the API can be
+imported into Python:
+
+.. code-block:: python
+
+   import caption_contest_data as ccd
+   df = ccd.summary(630)
 
 Brief demo
 ----------
@@ -55,3 +68,14 @@ These are all captions for this comic:
 .. raw:: html
 
    <img src="https://github.com/nextml/caption-contest-data/raw/master/contests/info/553/553.jpg" width="400px" />
+
+This URL is available through the ``meta`` function:
+
+.. code-block:: python
+
+    >>> ccd.meta(553)
+    {'comic': 'https://github.com/nextml/caption-contest-data/raw/master/contests/info/553/553.jpg',
+     'num_responses': 547090,
+     'num_captions': 6996,
+     'funniest_caption': "I'd like to see other people.",
+     'example_query': 'https://github.com/nextml/caption-contest-data/raw/master/contests/info/553/example_query.png'}
