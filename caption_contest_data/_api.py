@@ -14,11 +14,12 @@ def _get_contests_web() -> Dict[str, str]:
     base = "https://api.github.com"
     url = base + "/repos/nextml/caption-contest-data/contents/contests/summaries"
     r = requests.get(url)
+    data = r.json()
     if r.status_code == 403:
-        raise requests.RequestException(r.json()["message"])
+        raise requests.RequestException(data["message"])
     filenames = {
         datum["name"]: datum["download_url"]
-        for datum in r.json()
+        for datum in data
         if datum["download_url"]
     }
     return filenames
@@ -37,7 +38,8 @@ def _get_contests(get=True) -> Dict[str, str]:
 
 
 def all_contests(get=False) -> Set[Union[str, int]]:
-    contests = list(_get_contests(get=get).values())
+    urls = _get_contests(get=get)
+    contests = list(urls.values())
     fnames = [c.split("/")[-1] for c in contests]
     _ints = [c.split("_")[0] for c in fnames]
     ints = [int(c) if c.isnumeric() else c.split("-")[0] for c in _ints]

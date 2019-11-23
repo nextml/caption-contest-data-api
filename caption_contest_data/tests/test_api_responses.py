@@ -22,7 +22,7 @@ def df(request):
     filename = request.param
     root = Path(__file__).parent.parent.parent
     responses = root / "contests" / "responses"
-    return ccd.responses(filename, responses=responses)
+    return ccd.responses(filename, path=responses)
 
 
 def test_responses(df):

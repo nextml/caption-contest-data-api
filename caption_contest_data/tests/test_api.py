@@ -1,5 +1,6 @@
 import pandas as pd
 import pytest
+from pathlib import Path
 
 import caption_contest_data as ccd
 
@@ -9,6 +10,8 @@ def test_df(contest):
     assert isinstance(df, pd.DataFrame)
 
 def test_all_contests():
-    contests = ccd.all_contests()
-    summaries = [ccd.summary(c) for c in contests]
-    assert all(isinstance(df, pd.DataFrame) for df in summaries)
+    contests = ccd.all_contests(get=False)
+    summaries = Path(__file__).absolute().parent.parent / "contests" / "summaries"
+    for c in contests:
+        df = ccd.summary(c, path=summaries)
+        assert isinstance(df, pd.DataFrame)
