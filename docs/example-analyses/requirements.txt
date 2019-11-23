@@ -3,3 +3,4 @@ tensorflow-hub
 seaborn
 matplotlib
 sklearn
+joblib
