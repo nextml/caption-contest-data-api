@@ -20,6 +20,7 @@ This documentation describes the following:
    introduction
    contest-basics
    api
+   examples
 
 
 Indices and tables
