@@ -7,3 +7,8 @@ import caption_contest_data as ccd
 def test_df(contest):
     df = ccd.summary(contest)
     assert isinstance(df, pd.DataFrame)
+
+def test_all_contests():
+    contests = ccd.all_contests()
+    summaries = [ccd.summary(c) for c in contests]
+    assert all(isinstance(df, pd.DataFrame) for df in summaries)

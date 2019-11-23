@@ -1,6 +1,6 @@
 import fsspec
 import requests
-from typing import Dict, Union
+from typing import Dict, Union, Set, List
 import pandas as pd
 from pathlib import Path
 import sys
@@ -36,7 +36,18 @@ def _get_contests(get=True) -> Dict[str, str]:
     return fnames
 
 
-def summary(contest: Union[str, int], get: bool = True) -> pd.DataFrame:
+def all_contests(get=False) -> Set[Union[str, int]]:
+    contests = list(_get_contests(get=get).values())
+    fnames = [c.split("/")[-1] for c in contests]
+    _ints = [c.split("_")[0] for c in fnames]
+    ints = [int(c) if c.isnumeric() else c.split("-")[0] for c in _ints]
+    ret = {x if ints.count(x) == 1 else x_str for x, x_str in zip(ints, fnames)}
+    return ret
+
+
+def summary(
+    contest: Union[str, int], get: bool = True, path: Union[str, Path, None] = None
+) -> pd.DataFrame:
     """
     Get the contest summary from a particular contest.
 
@@ -47,6 +58,8 @@ def summary(contest: Union[str, int], get: bool = True) -> pd.DataFrame:
     get : bool, optional
         Whether to get the contest names from the internet. If
         ``get is False``, the summaries are read from disk.
+    path : str, optional
+        Path of the
 
     Returns
     -------
@@ -82,7 +95,16 @@ def summary(contest: Union[str, int], get: bool = True) -> pd.DataFrame:
         raise ValueError(msg.format(keys, contest))
 
     key = keys[0]
-    data = fsspec.open(fnames[key])
+    if not path:
+        path = Path(__file__).parent / ".caption-contest-data"
+    if isinstance(path, str):
+        path = Path(path)
+    if not get:
+        fname = fnames[key].split("/")[-1]
+        return pd.read_csv(path / fname)
+
+    url = "filecache:" + ":".join(fnames[key].split(":")[1:])
+    data = fsspec.open(url, cache_storage="/tmp/cache", target_protocol="https")
     with data as f:
         df = pd.read_csv(f)
     return df
@@ -123,7 +145,7 @@ def _format_responses(df: pd.DataFrame, **kwargs) -> pd.DataFrame:
 
 
 def responses(
-    contest: Union[int, str], responses: Union[None, Path] = None
+    contest: Union[int, str], path: Union[None, Path, str] = None
 ) -> pd.DataFrame:
     """
     Get the individual responses from a particular contest.
@@ -151,14 +173,16 @@ def responses(
     first download.
 
     """
-    if not responses:
+    if not path:
         root = Path(__file__).parent / ".caption-contest-data"
-        responses = root / "contests" / "responses"
-    if not responses.exists():
-        msg = "responses={} not found. Is it possible get_responses needs to be called?"
+        path = root / "contests" / "responses"
+    if isinstance(path, str):
+        path = Path(path)
+    if not path.exists():
+        msg = "path={} not found. Is it possible get_responses needs to be called?"
         raise ValueError(msg.format(responses))
 
-    fnames = list(responses.glob("*.csv.zip"))
+    fnames = list(path.glob("*.csv.zip"))
     keys = [k for k in fnames if str(contest) in str(k)]
     if not keys:
         msg = (
