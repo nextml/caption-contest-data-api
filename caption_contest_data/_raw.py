@@ -1,12 +1,12 @@
 import os
+from pathlib import Path
 from pprint import pprint
 from zipfile import ZipFile
-from pathlib import Path
 
-import scipy.stats
-import pandas as pd
 import numpy as np
+import pandas as pd
 import pytest
+import scipy.stats
 
 
 def button_clicks(mu_hat, prec, T):

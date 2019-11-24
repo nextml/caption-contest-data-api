@@ -1,12 +1,15 @@
-import requests
-from typing import Dict, Union, Set, List
-import pandas as pd
-from pathlib import Path
-import sys
 import json
-from zipfile import ZipFile
-from subprocess import call, DEVNULL
+import os
+import sys
+import zipfile
 from functools import lru_cache
+from pathlib import Path
+from subprocess import DEVNULL, call
+from typing import Dict, List, Set, Union
+from caption_contest_data import _web
+
+import pandas as pd
+import requests
 
 _root = Path(__file__).absolute().parent
 
@@ -20,40 +23,16 @@ def _get_cache():
     return _cache
 
 
-def _get_summary_fnames_web() -> Dict[str, str]:
-    base = "https://api.github.com"
-    url = base + "/repos/nextml/caption-contest-data/contents/contests/summaries"
-    r = requests.get(url)
-    data = r.json()
-    if r.status_code == 403:
-        raise requests.RequestException(data["message"])
-    return {
-        datum["name"]: datum["download_url"] for datum in data if datum["download_url"]
-    }
-
-
-def _get_response_fnames_web() -> Dict[str, str]:
-    base = "https://api.github.com"
-    url = base + "/repos/nextml/caption-contest-data/contents/contests/responses"
-    r = requests.get(url)
-    data = r.json()
-    if r.status_code == 403:
-        raise requests.RequestException(data["message"])
-    return {
-        datum["name"]: datum["download_url"] for datum in data if datum["download_url"]
-    }
-
-
 @lru_cache()
-def _get_response_fnames(get=False, cache=True) -> Dict[str, str]:
+def _get_response_fnames(cache=True) -> Dict[str, str]:
     """
     Returns {filename: download_url}
     """
     assert cache == True
     _cache = _get_cache()
     p = _cache / "responses.json"
-    if get:
-        fnames = _get_response_fnames_web()
+    if not p.exists():
+        fnames = _web._get_response_fnames_web()
         with open(str(p), "w") as f:
             json.dump(fnames, f)
     else:
@@ -63,14 +42,14 @@ def _get_response_fnames(get=False, cache=True) -> Dict[str, str]:
 
 
 @lru_cache()
-def _get_summary_fnames(get=False, cache=True) -> Dict[str, str]:
+def _get_summary_fnames(cache=True) -> Dict[str, str]:
     """
     Returns {filename: download_url}
     """
     assert cache == True
     _cache = _get_cache()
-    p = _cache / "contests.json"
-    if get:
+    p = _cache / "summaries.json"
+    if not p.exists():
         fnames = _get_summary_fnames_web()
         with open(str(p), "w") as f:
             json.dump(fnames, f)
@@ -86,8 +65,13 @@ def refresh():
     This function is useful if new contests summaries are desired.
 
     """
-    _get_summary_fnames(get=True)
-    _get_response_fnames(get=True)
+    _cache = _get_cache()
+    if (_cache / "summaries.json").exists():
+        os.remove(str(_cache / "summaries.json"))
+    if (_cache / "responses.json").exists():
+        os.remove(str(_cache / "responses.json"))
+    _get_summary_fnames()
+    _get_response_fnames()
     return True
 
 
@@ -106,7 +90,9 @@ def summary_ids() -> Set[Union[str, int]]:
     contests = list(urls.values())
     fnames = [c.split("/")[-1] for c in contests]
     _ints = [c.split("_")[0] for c in fnames]
-    ints = [int(c) if c.isnumeric() else c.split("-")[0] for c in _ints]
+    ints: List[Union[str, int]] = [
+        int(c) if c.isnumeric() else c.split("-")[0] for c in _ints
+    ]
     ret = {x if ints.count(x) == 1 else x_str for x, x_str in zip(ints, fnames)}
     return ret
 
@@ -155,30 +141,8 @@ def summary(contest: Union[str, int]) -> pd.DataFrame:
     key = keys[0]
     url = fnames[key]
     _cache = _get_cache()
-    local_fname = _get_local_file_path(fnames[key], cache=_cache / "summaries")
+    local_fname = _web._get_local_file_path(fnames[key], cache=_cache / "summaries")
     return pd.read_csv(local_fname)
-
-
-def _get_local_file_path(url: str, cache: Path) -> str:
-    """ from https://github.com/intake/filesystem_spec/issues/167#issuecomment-548538263 """
-    fname = url.split("/")[-1]
-    local = cache / fname
-    cached_files = [x.name for x in cache.glob("*")]
-    if fname in cached_files:
-        return str(local)
-    r = requests.get(url)
-    with open(str(local), "w") as f:
-        print(r.text, file=f)
-    return str(local)
-
-
-def get_responses() -> bool:
-    _cache = _get_cache()
-    path = _cache / "responses"
-    if path.exists():
-        return True
-    call(["git", "clone", "https://github.com/nextml/caption-contest-data", str(path)])
-    return True
 
 
 def _format_responses(df: pd.DataFrame, **kwargs) -> pd.DataFrame:
@@ -195,9 +159,7 @@ def _format_responses(df: pd.DataFrame, **kwargs) -> pd.DataFrame:
     return df
 
 
-def responses(
-    contest: Union[int, str], path: Union[None, Path, str] = None
-) -> pd.DataFrame:
+def responses(contest: Union[int, str]) -> pd.DataFrame:
     """
     Get the individual responses from a particular contest.
 
@@ -220,33 +182,27 @@ def responses(
     Notes
     -----
     Using this function requires that all individual responses files are
-    downloaded. In total, this is about 1.4 GB. The files are cached after the
-    first download.
+    downloaded through :func:`get_responses`.
 
     """
-    if not path:
-        root = Path(__file__).parent / ".caption-contest-data"
-        path = root / "contests" / "responses"
-    if isinstance(path, str):
-        path = Path(path)
-    if not path.exists():
-        msg = "path={} not found. Is it possible get_responses needs to be called?"
-        raise ValueError(msg.format(responses))
-
-    fnames = list(path.glob("*.csv.zip"))
+    _cache = _get_cache()
+    if not (_cache / "responses").exists():
+        raise ValueError(
+            "The responses need to be download first through the function `get_responses`"
+        )
+    fnames = list((_cache / "responses").glob("*.csv.zip"))
     keys = [k for k in fnames if str(contest) in str(k)]
     if not keys:
         msg = (
             "contest={} is not valid. There are no responses with the given "
-            "contest. Available filenames are at "
-            "https://github.com/nextml/caption-contest-data/tree/master/contests/responses"
+            "contest. Available filenames are {}"
         )
         raise ValueError(msg.format(contest), fnames)
     if len(keys) > 1:
         msg = "contest={} yields multiple contests ({})."
         raise ValueError(msg.format(contest, keys))
 
-    with ZipFile(str(keys[0])) as myzip:
+    with zipfile.ZipFile(str(keys[0])) as myzip:
         filelist = [f for f in myzip.filelist if "__MACOSX/" not in f.filename]
         assert len(filelist) == 1
         with myzip.open(filelist[0].filename) as f:
@@ -255,7 +211,7 @@ def responses(
     return _format_responses(df, contest=c, filename=filelist[0].filename)
 
 
-def meta(contest: Union[int, str]) -> Dict[str, Union[str, int]]:
+def metadata(contest: Union[int, str]) -> Dict[str, Union[str, int]]:
     """
     Arguments
     ---------

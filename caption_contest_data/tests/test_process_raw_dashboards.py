@@ -7,7 +7,6 @@ import pytest
 
 import caption_contest_data._raw as prd
 
-
 root = Path(__file__).parent.parent.parent
 raw_dashboards = root / "contests" / "summaries" / "_raw-dashboards"
 filenames = sorted([str(p) for p in raw_dashboards.glob("*.csv")])
