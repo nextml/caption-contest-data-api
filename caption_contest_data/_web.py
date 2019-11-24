@@ -1,12 +1,9 @@
-from pathlib import Path
-from typing import Dict
-import zipfile
-import urllib, os
 import shutil
+from pathlib import Path
 from subprocess import call
+from typing import Dict
 
 import requests
-from tqdm import tqdm
 
 from caption_contest_data import _api
 

@@ -6,10 +6,11 @@ from functools import lru_cache
 from pathlib import Path
 from subprocess import DEVNULL, call
 from typing import Dict, List, Set, Union
-from caption_contest_data import _web
 
 import pandas as pd
 import requests
+
+from caption_contest_data import _web
 
 _root = Path(__file__).absolute().parent
 
