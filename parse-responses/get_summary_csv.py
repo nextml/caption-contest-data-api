@@ -106,7 +106,7 @@ if __name__ == "__main__":
     meta = r.json()
     # meta.keys() == dict_keys(['contest_number', 'exp_uid', 'launched'])
     #  contest = meta["contest_number"] + 2  # github issue #16
-    DIR = "../contests/info/adaptive/"
+    DIR = "../contests/info/"
     contests = [int(x) for x in os.listdir(DIR) if os.path.isdir(DIR + x)]
     contest = max(contests) + 1
     exp_uid = meta["exp_uid"]
@@ -118,12 +118,12 @@ if __name__ == "__main__":
     write_screenshot()
 
     ## Create new folder
-    contests = os.listdir("../contests/info/adaptive/")
+    contests = os.listdir("../contests/info/")
     if str(contest) in contests:
         raise ValueError(
-            f"contest {contest} is already in ../contests/summaries/info/adaptive"
+            f"contest {contest} is already in ../contests/summaries/info/"
         )
-    summary_dir = f"../contests/info/adaptive/{contest}"
+    summary_dir = f"../contests/info/{contest}"
     call(f"mkdir {summary_dir}".split())
 
     ## Move data files
