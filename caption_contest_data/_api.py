@@ -50,7 +50,7 @@ def _get_summary_fnames(cache=True) -> Dict[str, str]:
     _cache = _get_cache()
     p = _cache / "summaries.json"
     if not p.exists():
-        fnames = _get_summary_fnames_web()
+        fnames = _web._get_summary_fnames_web()
         with open(str(p), "w") as f:
             json.dump(fnames, f)
     else:

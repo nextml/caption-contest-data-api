@@ -24,7 +24,7 @@ def test_dir(path):
     "contest", ["519_summary_RoundRobin.csv", 550, 587, 588, 532, 600, 661, 662]
 )
 def test_meta_request(contest):
-    d = ccd.meta(contest)
+    d = ccd.metadata(contest)
     c = contest if isinstance(contest, int) else int(contest.split("_")[0])
     base = "https://github.com/nextml/caption-contest-data/raw/master/contests/info"
     assert {

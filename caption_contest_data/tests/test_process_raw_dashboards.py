@@ -5,17 +5,12 @@ import numpy as np
 import pandas as pd
 import pytest
 
+import caption_contest_data as ccd
 import caption_contest_data._raw as prd
 
 root = Path(__file__).parent.parent.parent
 raw_dashboards = root / "contests" / "summaries" / "_raw-dashboards"
 filenames = sorted([str(p) for p in raw_dashboards.glob("*.csv")])
-
-
-@pytest.fixture(params=filenames)
-def df(request):
-    filename = str(request.param)
-    return prd.process(filename)
 
 
 @pytest.mark.parametrize("filename", filenames)
@@ -24,7 +19,7 @@ def test_same_dataframe(filename: str):
         pytest.xfail("TODO")
 
     fname = filename.split("/")[-1]
-    df1 = pd.read_csv(str(root / "contests" / "summaries" / fname))
+    df1 = ccd.summary(fname)
     df2 = prd.process(str(raw_dashboards / fname))
     assert (df1.columns == df2.columns).all()
     for col in df1.columns:
@@ -34,11 +29,17 @@ def test_same_dataframe(filename: str):
             assert (df1[col] == df2[col]).all()
 
 
+@pytest.fixture(params=filenames)
+def df(request):
+    filename = str(request.param)
+    fname = filename.split("/")[-1]
+    return ccd.summary(fname)
+
+
 def test_correct_order(df):
     # Make sure the best caption comes first
     assert df["rank"].iloc[0] == 1, "funniest first"
-    contest = int(df.filename[:3])
-    assert (df["contest"] == contest).all()
+    assert df["contest"].nunique() == 1
 
 
 def test_score(df):
@@ -59,7 +60,6 @@ def test_counts(df):
 
 
 def test_columns(df):
-    contest = int(df.filename[:3])
     expected_cols = {
         "caption",
         "count",
@@ -72,7 +72,8 @@ def test_columns(df):
         "rank",
     }
     assert expected_cols == set(df.columns) - {"target_id"}
-    if contest >= 587:
+    assert df["contest"].nunique() == 1
+    if df["contest"].max() >= 587:
         assert "target_id" in df
     assert df["contest"].dtype == int
     assert df["count"].dtype == int
@@ -111,7 +112,6 @@ def test_recover_counts():
     count_cols = ["unfunny", "somewhat_funny", "funny"]
     clicks = {key: df[key].copy() for key in count_cols}
     df.drop(count_cols, axis=1, inplace=True)
-    df.filename = None
     assert sum([col in df for col in count_cols]) == 0
 
     out = prd.recover_counts(df)
