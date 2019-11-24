@@ -31,6 +31,7 @@ extensions = [
     "sphinx.ext.autodoc",
     "numpydoc",
     "nbsphinx",
+    "IPython.sphinxext.ipython_console_highlighting",
 ]
 
 
