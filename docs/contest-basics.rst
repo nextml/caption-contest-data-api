@@ -7,6 +7,8 @@ Queries
 Largely, one question is asked: "how funny is this caption?"
 
 .. image:: imgs/cardinal-safari.png
+   :width: 400px
+   :align: center
 
 These queries are visible at https://nextml.org/captioncontest (which is linked
 to from https://www.newyorker.com/cartoons/contest).
@@ -24,15 +26,19 @@ In select contests we also ask different queries:
   with buttons for different levels of originality (I believe "unoriginal",
   "somewhat original" and "original"). We asked these alongside the normal "how
   funny is this caption?" queries; I believe we randomly chose between the two
-  questions.
+  questions. Here's an example query:
+
+.. image:: imgs/560-original.png
+   :width: 300px
+   :align: center
 
 .. note::
 
    The CSV file ``560_summary_KLUCB_original.csv`` has columns ``unfunny``,
    ``somewhat_funny`` and ``funny``. These are not the buttons presented! The
    buttons presented had "original" instead of "funny". The text displayed was
-   "Original", "Unoriginal" and "Somewhat original", and the column names
-   should be ``unoriginal``, ``somewhat_original`` and ``original``.
+   "Very original", "Unoriginal" and "Somewhat original", and map to the
+   columns ``funny``, ``unfunny`` and ``somewhat_funny`` respectively.
 
 
 Algorithms

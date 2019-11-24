@@ -44,6 +44,7 @@ def test_cols(df):
         somewhat_funny = [key in cols for key in ["somewhat_funny", "somewhat funny"]]
         assert sum(somewhat_funny) == 1
 
+
 def test_scores_bounded(df):
     contest = int(df.filename[:3])
     df.columns = [c.lower() for c in df.columns]

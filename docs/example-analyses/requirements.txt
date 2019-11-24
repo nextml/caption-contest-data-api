@@ -1,0 +1,6 @@
+tensorflow==1.15.0
+tensorflow-hub
+seaborn
+matplotlib
+sklearn
+joblib

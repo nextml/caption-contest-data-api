@@ -1,4 +1,5 @@
-caption_contest_data/.contests.csv
+caption_contest_data/.ccd-cache/
+dask-worker-space/
 .DS_Store
 __pycache__/
 .ipynb_checkpoints

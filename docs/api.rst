@@ -5,7 +5,7 @@ Python API
 ----------
 
 .. automodule:: caption_contest_data
-   :members: summary, responses
+   :members: summary, responses, metadata, summary_ids, refresh
 
 HTML API
 --------

@@ -1,12 +1,12 @@
 import os
+from pathlib import Path
 from pprint import pprint
 from zipfile import ZipFile
-from pathlib import Path
 
-import scipy.stats
-import pandas as pd
 import numpy as np
+import pandas as pd
 import pytest
+import scipy.stats
 
 
 def button_clicks(mu_hat, prec, T):
@@ -111,7 +111,6 @@ def format_cols(df):
     unnamed_cols = [c for c in df.columns if "Unnamed" in c]
     cols = [c for c in df.columns if c not in unnamed_cols]
     out = df[cols].copy()
-    out.filename = df.filename
     cols = [c.lower() for c in out.columns]
     if any("somewhat funny" in c for c in cols):
         cols = [c.replace("somewhat funny", "somewhat_funny") for c in cols]
@@ -144,7 +143,6 @@ def recover_counts(df, name=""):
     scores = pd.DataFrame(list(scores))
 
     out = pd.concat((df, scores), axis=1)
-    out.filename = df.filename
     return out
 
 
@@ -167,12 +165,10 @@ def process(filename, df=None):
     """
     if df is None:
         df = read_csv(filename)
-        df.filename = filename.split("/")[-1]
-    else:
-        df.filename = filename
 
     df = format_cols(df)
-    contest = int(df.filename[:3])
+    fname = filename.split("/")[-1]
+    contest = int(fname.split("_")[0])
 
     if "count" not in df:
         df["count"] = (df.funny + df.somewhat_funny + df.unfunny).astype(int)
@@ -211,12 +207,10 @@ def process(filename, df=None):
     if "target_id" in df:
         cols = ["target_id"] + cols
     out = df[cols]
-    filename = df.filename
-    if "520" in filename or "521" in filename:
+    if contest in {520, 521}:
         out = out.dropna(subset=["score", "precision"])
     out["caption"] = out["caption"].fillna(" ")
     out = out.reset_index()
-    out.filename = filename
     if "index" in out:
         del out["index"]
     return out
@@ -238,8 +232,7 @@ def _get_dashboard_from_responses(responses):
     counts.columns = ["unfunny", "somewhat_funny", "funny"]
     counts["count"] = counts.sum(axis=1)
     counts["caption"] = captions
-    out = process(fname, df=counts)
-    return out
+    return process(fname, df=counts)
 
 
 def _508509_dashboards():

@@ -7,28 +7,34 @@ import caption_contest_data as ccd
 
 root = Path(__file__).absolute().parent.parent.parent
 exps = root / "contests" / "info"
-contests_dual = [
-    f"{p.name}_summary_{alg}.csv"
-    for alg in ["LilUCB", "RoundRobin"]
-    for p in (exps / "passive+adaptive").glob("*")
-    if p.is_dir() and int(p.name) >= 508 and int(p.name) != 559
-]
-contests_dual += [
-    "559_summary_KLUCB",
-    "559_summary_LilUCB",
-    "559_summary_RandomSampling",
-]
-contests = [
-    int(p.name)
-    for alg in ["adaptive", "passive"]
-    for p in (exps / alg).glob("*")
-    if p.is_dir()
-]
-contests = sorted(contests)
 
 
-@pytest.mark.parametrize("contest", contests_dual + contests)
-def test_meta(contest):
-    d = ccd.meta(contest, get=contest == contests_dual[0])
+@pytest.mark.parametrize("path", [str(x) for x in exps.glob("*") if x.is_dir()])
+def test_dir(path):
+    p = Path(path)
+    files = [x.name for x in p.glob("*") if x.is_file()]
+    if any(k in path for k in ["519", "550", "587", "588"]):
+        pytest.xfail(reason="Mistake collecting responses")
+    assert "example_query.png" in files
+    assert "README.md" in files
+    assert f"{p.name}.jpg" in files
+
+
+@pytest.mark.parametrize(
+    "contest", ["519_summary_RoundRobin.csv", 550, 587, 588, 532, 600, 661, 662]
+)
+def test_meta_request(contest):
+    d = ccd.metadata(contest)
+    c = contest if isinstance(contest, int) else int(contest.split("_")[0])
+    base = "https://github.com/nextml/caption-contest-data/raw/master/contests/info"
+    assert {
+        "comic",
+        "num_responses",
+        "num_captions",
+        "funniest_caption",
+    }.issubset(set(d.keys()))
+    if c not in {519, 550, 587, 588}:
+        assert "example_query" in d.keys()
+    assert d["comic"] == base + f"/{c}/{c}.jpg"
     r = requests.get(d["comic"])
     assert r.status_code == 200
