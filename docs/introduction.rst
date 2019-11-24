@@ -73,7 +73,7 @@ This URL is available through the ``meta`` function:
 
 .. code-block:: python
 
-    >>> ccd.meta(553)
+    >>> ccd.metadata(553)
     {'comic': 'https://github.com/nextml/caption-contest-data/raw/master/contests/info/553/553.jpg',
      'num_responses': 547090,
      'num_captions': 6996,
