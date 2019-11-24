@@ -76,14 +76,12 @@ def refresh():
 
 def summary_ids() -> Set[Union[str, int]]:
     """
-    Get the contest IDs. All of these yield summary dataframes from :func:
-    `summary`.
+    Get the contest IDs.
 
-    Parameters
-    ----------
-    get : bool, optional.
-        Whether to fetch the filenames from the web.
-
+    Returns
+    -------
+    IDs : Set[Union[str, int]]
+        A list of IDs are accepted by :py:func:`summary`.
     """
     urls = _get_summary_fnames()
     contests = list(urls.values())
@@ -103,9 +101,8 @@ def summary(contest: Union[str, int]) -> pd.DataFrame:
     Parameters
     ----------
     contest : str, int
-        Which contest data to retrieve
-    path : str, optional
-        Path of the
+        Which contest data to retrieve. This can be an element of
+        :py:func:`summary_ids`.
 
     Returns
     -------
@@ -162,8 +159,8 @@ def responses(contest: Union[int, str]) -> pd.DataFrame:
     """
     Get the individual responses from a particular contest.
 
-    Arguments
-    ---------
+    Parameters
+    ----------
     contest : int, str
         Which contest to download. A list of possible filenames is at
         https://github.com/nextml/caption-contest-data/tree/master/contests/responses.
@@ -181,7 +178,7 @@ def responses(contest: Union[int, str]) -> pd.DataFrame:
     Notes
     -----
     Using this function requires that all individual responses files are
-    downloaded through :func:`get_responses`.
+    downloaded through :py:func:`get_responses`.
 
     """
     _cache = _get_cache()
@@ -212,10 +209,10 @@ def responses(contest: Union[int, str]) -> pd.DataFrame:
 
 def metadata(contest: Union[int, str]) -> Dict[str, Union[str, int]]:
     """
-    Arguments
-    ---------
+    Parameters
+    ----------
     contest : int, str
-        Argument to :func:`summary`
+        Argument to :py:func:`summary`. See :py:func:`summary_ids`.
 
     Returns
     -------
