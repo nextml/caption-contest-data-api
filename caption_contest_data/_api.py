@@ -29,7 +29,6 @@ def _get_response_fnames(cache=True) -> Dict[str, str]:
     """
     Returns {filename: download_url}
     """
-    assert cache == True
     _cache = _get_cache()
     p = _cache / "responses.json"
     if not p.exists():
@@ -47,7 +46,6 @@ def _get_summary_fnames(cache=True) -> Dict[str, str]:
     """
     Returns {filename: download_url}
     """
-    assert cache == True
     _cache = _get_cache()
     p = _cache / "summaries.json"
     if not p.exists():
@@ -71,8 +69,8 @@ def refresh():
         os.remove(str(_cache / "summaries.json"))
     if (_cache / "responses.json").exists():
         os.remove(str(_cache / "responses.json"))
-    _get_summary_fnames()
-    _get_response_fnames()
+    _get_summary_fnames(cache=False)
+    _get_response_fnames(cache=False)
     return True
 
 
