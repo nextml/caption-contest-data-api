@@ -7,9 +7,8 @@ Basic contest information
 .. toctree::
    :maxdepth: 1
 
-   example-analyses/Client-side-timing.ipynb
    example-analyses/Number-of-responses.ipynb
-   example-analyses/Simultaneous-users.ipynb
+   example-analyses/Performance.ipynb
 
 
 Score information
