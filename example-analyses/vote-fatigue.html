@@ -583,7 +583,7 @@ div.rendered_html tbody tr:hover {
 </div>
 </div>
 <div class="nbinput nblast docutils container">
-<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[ ]:
+<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[5]:
 </pre></div>
 </div>
 <div class="input_area highlight-ipython3 notranslate"><div class="highlight"><pre>
@@ -599,8 +599,8 @@ div.rendered_html tbody tr:hover {
 </pre></div>
 </div>
 </div>
-<div class="nbinput nblast docutils container">
-<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[ ]:
+<div class="nbinput docutils container">
+<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[6]:
 </pre></div>
 </div>
 <div class="input_area highlight-ipython3 notranslate"><div class="highlight"><pre>
@@ -609,6 +609,123 @@ div.rendered_html tbody tr:hover {
 </pre></div>
 </div>
 </div>
+<div class="nboutput nblast docutils container">
+<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[6]:
+</pre></div>
+</div>
+<div class="output_area rendered_html docutils container">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>alg_label</th>
+      <th>network_delay</th>
+      <th>participant_uid</th>
+      <th>response_time</th>
+      <th>target</th>
+      <th>target_id</th>
+      <th>target_reward</th>
+      <th>timestamp_query_generated</th>
+      <th>label</th>
+      <th>contest</th>
+      <th>filename</th>
+      <th>number of captions seen</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>252687</th>
+      <td>RandomSampling</td>
+      <td>0.071828</td>
+      <td>d43d742e06d25413ea83b2572248c2_EKjDKfTX9LNM2MT...</td>
+      <td>4.557</td>
+      <td>You probably wouldn't even be here if you had ...</td>
+      <td>1490</td>
+      <td>1</td>
+      <td>2016-10-10 17:21:45.573372</td>
+      <td>unfunny</td>
+      <td>540</td>
+      <td>540-responses.csv</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>252688</th>
+      <td>RandomSampling</td>
+      <td>0.076773</td>
+      <td>d43d742e06d25413ea83b2572248c2_EKjDKfTX9LNM2MT...</td>
+      <td>14.824</td>
+      <td>I guess I don't need to apologize for my cold ...</td>
+      <td>2883</td>
+      <td>1</td>
+      <td>2016-10-10 17:21:50.381564</td>
+      <td>unfunny</td>
+      <td>540</td>
+      <td>540-responses.csv</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>252689</th>
+      <td>RandomSampling</td>
+      <td>0.142236</td>
+      <td>d43d742e06d25413ea83b2572248c2_EKjDKfTX9LNM2MT...</td>
+      <td>4.752</td>
+      <td>I'm sorry but your tumblers are dry, your pett...</td>
+      <td>3923</td>
+      <td>1</td>
+      <td>2016-10-10 17:22:05.504520</td>
+      <td>unfunny</td>
+      <td>540</td>
+      <td>540-responses.csv</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>252690</th>
+      <td>RandomSampling</td>
+      <td>0.070380</td>
+      <td>d43d742e06d25413ea83b2572248c2_EKjDKfTX9LNM2MT...</td>
+      <td>3.380</td>
+      <td>New and improved provider reimbursement under ...</td>
+      <td>271</td>
+      <td>1</td>
+      <td>2016-10-10 17:22:10.584019</td>
+      <td>unfunny</td>
+      <td>540</td>
+      <td>540-responses.csv</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th>252691</th>
+      <td>RandomSampling</td>
+      <td>0.068067</td>
+      <td>d43d742e06d25413ea83b2572248c2_EKjDKfTX9LNM2MT...</td>
+      <td>2.258</td>
+      <td>Try a more balanced diet . . . your acid test ...</td>
+      <td>3686</td>
+      <td>1</td>
+      <td>2016-10-10 17:22:14.221277</td>
+      <td>unfunny</td>
+      <td>540</td>
+      <td>540-responses.csv</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
+</div></div>
+</div>
 </div>
 <div class="section" id="Viewing-the-data">
 <h2>Viewing the data<a class="headerlink" href="#Viewing-the-data" title="Permalink to this headline">¶</a></h2>
@@ -616,8 +733,8 @@ div.rendered_html tbody tr:hover {
 <p>In this, we rely on <code class="docutils literal notranslate"><span class="pre">pd.pivot_table</span></code>. This can take DataFrame that looks like a list of dictionaries and compute <code class="docutils literal notranslate"><span class="pre">aggfunc</span></code> (by default <code class="docutils literal notranslate"><span class="pre">np.mean</span></code>) for all items that contain common keys (indicated by <code class="docutils literal notranslate"><span class="pre">index</span></code> and <code class="docutils literal notranslate"><span class="pre">columns</span></code>). It’s similar to Excel’s pivot table functionality.</p>
 <div class="section" id="Probability-of-rating-{1,-2,-3}">
 <h3>Probability of rating {1, 2, 3}<a class="headerlink" href="#Probability-of-rating-{1,-2,-3}" title="Permalink to this headline">¶</a></h3>
-<div class="nbinput nblast docutils container">
-<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[ ]:
+<div class="nbinput docutils container">
+<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[7]:
 </pre></div>
 </div>
 <div class="input_area highlight-ipython3 notranslate"><div class="highlight"><pre>
@@ -636,8 +753,63 @@ div.rendered_html tbody tr:hover {
 </pre></div>
 </div>
 </div>
+<div class="nboutput nblast docutils container">
+<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[7]:
+</pre></div>
+</div>
+<div class="output_area rendered_html docutils container">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>alg_label</th>
+      <th>RandomSampling</th>
+    </tr>
+    <tr>
+      <th>number of captions seen</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>{'n': 8076, 'unfunny': 5154, 'somewhat funny':...</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>{'n': 7663, 'unfunny': 5319, 'somewhat funny':...</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>{'n': 7390, 'unfunny': 5208, 'somewhat funny':...</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>{'n': 7142, 'unfunny': 5045, 'somewhat funny':...</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>{'n': 6915, 'unfunny': 4968, 'somewhat funny':...</td>
+    </tr>
+  </tbody>
+</table>
+</div></div>
+</div>
 <div class="nbinput nblast docutils container">
-<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[ ]:
+<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[8]:
 </pre></div>
 </div>
 <div class="input_area highlight-ipython3 notranslate"><div class="highlight"><pre>
@@ -651,8 +823,8 @@ div.rendered_html tbody tr:hover {
 </pre></div>
 </div>
 </div>
-<div class="nbinput nblast docutils container">
-<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[ ]:
+<div class="nbinput docutils container">
+<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[9]:
 </pre></div>
 </div>
 <div class="input_area highlight-ipython3 notranslate"><div class="highlight"><pre>
@@ -662,8 +834,81 @@ div.rendered_html tbody tr:hover {
 </pre></div>
 </div>
 </div>
-<div class="nbinput nblast docutils container">
-<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[ ]:
+<div class="nboutput nblast docutils container">
+<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[9]:
+</pre></div>
+</div>
+<div class="output_area rendered_html docutils container">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead tr th {
+        text-align: left;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="4" halign="left">RandomSampling</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>n</th>
+      <th>unfunny</th>
+      <th>somewhat funny</th>
+      <th>funny</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>8076.0</td>
+      <td>0.638187</td>
+      <td>0.273774</td>
+      <td>0.088039</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>7663.0</td>
+      <td>0.694115</td>
+      <td>0.235808</td>
+      <td>0.070077</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>7390.0</td>
+      <td>0.704736</td>
+      <td>0.217321</td>
+      <td>0.077943</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>7142.0</td>
+      <td>0.706385</td>
+      <td>0.221367</td>
+      <td>0.072249</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>6915.0</td>
+      <td>0.718438</td>
+      <td>0.201446</td>
+      <td>0.080116</td>
+    </tr>
+  </tbody>
+</table>
+</div></div>
+</div>
+<div class="nbinput docutils container">
+<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[10]:
 </pre></div>
 </div>
 <div class="input_area highlight-ipython3 notranslate"><div class="highlight"><pre>
@@ -686,8 +931,33 @@ div.rendered_html tbody tr:hover {
 </pre></div>
 </div>
 </div>
-<div class="nbinput nblast docutils container">
-<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[ ]:
+<div class="nboutput docutils container">
+<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[10]:
+</pre></div>
+</div>
+<div class="output_area docutils container">
+<div class="highlight"><pre>
+(0, 100)
+</pre></div></div>
+</div>
+<div class="nboutput docutils container">
+<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[10]:
+</pre></div>
+</div>
+<div class="output_area docutils container">
+<div class="highlight"><pre>
+(0, 100)
+</pre></div></div>
+</div>
+<div class="nboutput nblast docutils container">
+<div class="prompt empty docutils container">
+</div>
+<div class="output_area docutils container">
+<a class="reference internal image-reference" href="../_images/example-analyses_vote-fatigue_15_2.png"><img alt="../_images/example-analyses_vote-fatigue_15_2.png" src="../_images/example-analyses_vote-fatigue_15_2.png" style="width: 685px; height: 371px;" /></a>
+</div>
+</div>
+<div class="nbinput docutils container">
+<div class="prompt highlight-none notranslate"><div class="highlight"><pre><span></span>[11]:
 </pre></div>
 </div>
 <div class="input_area highlight-ipython3 notranslate"><div class="highlight"><pre>
@@ -715,6 +985,13 @@ div.rendered_html tbody tr:hover {
     <span class="n">fig</span> <span class="o">=</span> <span class="n">plot</span><span class="p">(</span><span class="n">alg</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
+</div>
+</div>
+<div class="nboutput nblast docutils container">
+<div class="prompt empty docutils container">
+</div>
+<div class="output_area docutils container">
+<a class="reference internal image-reference" href="../_images/example-analyses_vote-fatigue_16_0.png"><img alt="../_images/example-analyses_vote-fatigue_16_0.png" src="../_images/example-analyses_vote-fatigue_16_0.png" style="width: 859px; height: 491px;" /></a>
 </div>
 </div>
 <div class="nbinput nblast docutils container">
