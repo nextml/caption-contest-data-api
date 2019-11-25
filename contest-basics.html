@@ -1,0 +1,308 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Crowdsourcing interface &mdash; caption-contest-data  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script type="text/javascript" src="_static/jquery.js"></script>
+        <script type="text/javascript" src="_static/underscore.js"></script>
+        <script type="text/javascript" src="_static/doctools.js"></script>
+        <script type="text/javascript" src="_static/language_data.js"></script>
+        <script crossorigin="anonymous" integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA=" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
+        <script async="async" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [["$", "$"], ["\\(", "\\)"]], "processEscapes": true, "ignoreClass": "document", "processClass": "math|output_area"}})</script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="_static/basic.css" type="text/css" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Data APIs" href="api.html" />
+    <link rel="prev" title="Getting started" href="introduction.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="index.html" class="icon icon-home"> caption-contest-data
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="introduction.html">Getting started</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Crowdsourcing interface</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#queries">Queries</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#algorithms">Algorithms</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#references">References</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="api.html">Data APIs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="examples.html">Examples</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">caption-contest-data</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html">Docs</a> &raquo;</li>
+        
+      <li>Crowdsourcing interface</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/contest-basics.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  
+<style>
+/* CSS overrides for sphinx_rtd_theme */
+
+/* 24px margin */
+.nbinput.nblast.container,
+.nboutput.nblast.container {
+    margin-bottom: 19px;  /* padding has already 5px */
+}
+
+/* ... except between code cells! */
+.nblast.container + .nbinput.container {
+    margin-top: -19px;
+}
+
+.admonition > p:before {
+    margin-right: 4px;  /* make room for the exclamation icon */
+}
+
+/* Fix math alignment, see https://github.com/rtfd/sphinx_rtd_theme/pull/686 */
+.math {
+    text-align: unset;
+}
+</style>
+<div class="section" id="crowdsourcing-interface">
+<h1>Crowdsourcing interface<a class="headerlink" href="#crowdsourcing-interface" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="queries">
+<h2>Queries<a class="headerlink" href="#queries" title="Permalink to this headline">¶</a></h2>
+<p>Largely, one question is asked: “how funny is this caption?”</p>
+<a class="reference internal image-reference" href="_images/cardinal-safari.png"><img alt="_images/cardinal-safari.png" class="align-center" src="_images/cardinal-safari.png" style="width: 400px;" /></a>
+<p>These queries are visible at <a class="reference external" href="https://nextml.org/captioncontest">https://nextml.org/captioncontest</a> (which is linked
+to from <a class="reference external" href="https://www.newyorker.com/cartoons/contest">https://www.newyorker.com/cartoons/contest</a>).</p>
+<p>In select contests we also ask different queries:</p>
+<ul class="simple">
+<li><p><strong>Pairwise comparisons</strong> happened in contest 508 and 509. For the first part
+of the contest, we did the normal “how funny is this caption?”. Then, in the
+last half of the week we took the top 25 captions and asked two questions:</p>
+<ul>
+<li><p>How funny is this caption?</p></li>
+<li><p>Which of these two captions is funnier?</p></li>
+</ul>
+</li>
+<li><p><strong>originality.</strong> In contest 560, we asked “how original is this caption?”,
+with buttons for different levels of originality (I believe “unoriginal”,
+“somewhat original” and “original”). We asked these alongside the normal “how
+funny is this caption?” queries; I believe we randomly chose between the two
+questions. Here’s an example query:</p></li>
+</ul>
+<a class="reference internal image-reference" href="_images/560-original.png"><img alt="_images/560-original.png" class="align-center" src="_images/560-original.png" style="width: 300px;" /></a>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The CSV file <code class="docutils literal notranslate"><span class="pre">560_summary_KLUCB_original.csv</span></code> has columns <code class="docutils literal notranslate"><span class="pre">unfunny</span></code>,
+<code class="docutils literal notranslate"><span class="pre">somewhat_funny</span></code> and <code class="docutils literal notranslate"><span class="pre">funny</span></code>. These are not the buttons presented! The
+buttons presented had “original” instead of “funny”. The text displayed was
+“Very original”, “Unoriginal” and “Somewhat original”, and map to the
+columns <code class="docutils literal notranslate"><span class="pre">funny</span></code>, <code class="docutils literal notranslate"><span class="pre">unfunny</span></code> and <code class="docutils literal notranslate"><span class="pre">somewhat_funny</span></code> respectively.</p>
+</div>
+</div>
+<div class="section" id="algorithms">
+<h2>Algorithms<a class="headerlink" href="#algorithms" title="Permalink to this headline">¶</a></h2>
+<p>The caption contest largely uses <cite>adaptive</cite> data collection where the algorithm
+<cite>adapts</cite> to previously collected responses. It does this with the aim of
+achieving the goal: finding the funniest caption. As a consequence, it tends to
+ask about the <cite>funny</cite> captions (if a caption has received nothing but downvotes
+it’s probably not that funny).</p>
+<p>Many contests find this with an adaptive algorithm, Lil’UCB <a class="footnote-reference brackets" href="#id3" id="id1">1</a> in the earlier
+contests and KL-LUCB in later contests <a class="footnote-reference brackets" href="#id4" id="id2">2</a>.  There are other algorithms
+besides labels are clearly indicated, and performed alongside “passive”
+algorithms that do not adapt to previously collected responses (either “round
+robin” or “random sampling”).</p>
+<ul class="simple">
+<li><p><strong>Passive and adaptive algorithms</strong> are in contests 497–519, and contest
+559. Contest 559 is a performance comparison of Lil’UCB, KL-LUCB and
+random sampling.</p></li>
+<li><p><strong>Only passive algorithms</strong> are in contest 540</p></li>
+<li><p><strong>Only adaptive algorithms</strong> are in all other contests</p></li>
+</ul>
+</div>
+<div class="section" id="references">
+<h2>References<a class="headerlink" href="#references" title="Permalink to this headline">¶</a></h2>
+<dl class="footnote brackets">
+<dt class="label" id="id3"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
+<dd><p>Jamieson, K., Malloy, M., Nowak, R., &amp; Bubeck, S. (2014, May).
+lil’ucb: An optimal exploration algorithm for multi-armed bandits.
+In Conference on Learning Theory (pp. 423-439).
+<a class="reference external" href="http://proceedings.mlr.press/v35/jamieson14.pdf">http://proceedings.mlr.press/v35/jamieson14.pdf</a></p>
+</dd>
+<dt class="label" id="id4"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
+<dd><p>Tanczos, E., Nowak, R., &amp; Mankoff, B. (2017). A kl-lucb algorithm
+for large-scale crowdsourcing. In Advances in Neural Information
+Processing Systems (pp. 5894-5903).
+<a class="reference external" href="https://papers.nips.cc/paper/7171-a-kl-lucb-algorithm-for-large-scale-crowdsourcing.pdf">https://papers.nips.cc/paper/7171-a-kl-lucb-algorithm-for-large-scale-crowdsourcing.pdf</a></p>
+</dd>
+</dl>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="api.html" class="btn btn-neutral float-right" title="Data APIs" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="introduction.html" class="btn btn-neutral float-left" title="Getting started" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2019, NEXT dev team
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>

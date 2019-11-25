@@ -1,0 +1,352 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Data APIs &mdash; caption-contest-data  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script type="text/javascript" src="_static/jquery.js"></script>
+        <script type="text/javascript" src="_static/underscore.js"></script>
+        <script type="text/javascript" src="_static/doctools.js"></script>
+        <script type="text/javascript" src="_static/language_data.js"></script>
+        <script crossorigin="anonymous" integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA=" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
+        <script async="async" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [["$", "$"], ["\\(", "\\)"]], "processEscapes": true, "ignoreClass": "document", "processClass": "math|output_area"}})</script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="_static/basic.css" type="text/css" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Examples" href="examples.html" />
+    <link rel="prev" title="Crowdsourcing interface" href="contest-basics.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="index.html" class="icon icon-home"> caption-contest-data
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="introduction.html">Getting started</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contest-basics.html">Crowdsourcing interface</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Data APIs</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#module-caption_contest_data">Python API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#html-api">HTML API</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="examples.html">Examples</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">caption-contest-data</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html">Docs</a> &raquo;</li>
+        
+      <li>Data APIs</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/api.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  
+<style>
+/* CSS overrides for sphinx_rtd_theme */
+
+/* 24px margin */
+.nbinput.nblast.container,
+.nboutput.nblast.container {
+    margin-bottom: 19px;  /* padding has already 5px */
+}
+
+/* ... except between code cells! */
+.nblast.container + .nbinput.container {
+    margin-top: -19px;
+}
+
+.admonition > p:before {
+    margin-right: 4px;  /* make room for the exclamation icon */
+}
+
+/* Fix math alignment, see https://github.com/rtfd/sphinx_rtd_theme/pull/686 */
+.math {
+    text-align: unset;
+}
+</style>
+<div class="section" id="data-apis">
+<h1>Data APIs<a class="headerlink" href="#data-apis" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="module-caption_contest_data">
+<span id="python-api"></span><h2>Python API<a class="headerlink" href="#module-caption_contest_data" title="Permalink to this headline">¶</a></h2>
+<dl class="function">
+<dt id="caption_contest_data.summary">
+<code class="sig-prename descclassname">caption_contest_data.</code><code class="sig-name descname">summary</code><span class="sig-paren">(</span><em class="sig-param">contest: Union[str, int]</em><span class="sig-paren">)</span> &#x2192; pandas.core.frame.DataFrame<a class="headerlink" href="#caption_contest_data.summary" title="Permalink to this definition">¶</a></dt>
+<dd><p>Get the contest summary from a particular contest.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><dl class="simple">
+<dt><strong>contest</strong><span class="classifier">str, int</span></dt><dd><p>Which contest data to retrieve. This can be an element of
+<a class="reference internal" href="#caption_contest_data.summary_ids" title="caption_contest_data.summary_ids"><code class="xref py py-func docutils literal notranslate"><span class="pre">summary_ids()</span></code></a>.</p>
+</dd>
+</dl>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><dl class="simple">
+<dt><strong>summary</strong><span class="classifier">pd.DataFrame</span></dt><dd><p>A DataFrame with the results of the the contest. This dataframe has columns
+<code class="docutils literal notranslate"><span class="pre">target_id</span></code>, <code class="docutils literal notranslate"><span class="pre">rank</span></code>, <code class="docutils literal notranslate"><span class="pre">funny</span></code>, <code class="docutils literal notranslate"><span class="pre">somewhat_funny</span></code>, <code class="docutils literal notranslate"><span class="pre">unfunny</span></code>,
+<code class="docutils literal notranslate"><span class="pre">count</span></code>, <code class="docutils literal notranslate"><span class="pre">score</span></code>, <code class="docutils literal notranslate"><span class="pre">precision</span></code>, <code class="docutils literal notranslate"><span class="pre">contest</span></code>, and <code class="docutils literal notranslate"><span class="pre">caption</span></code>.</p>
+</dd>
+</dl>
+</dd>
+</dl>
+<p class="rubric">Notes</p>
+<p>This summary has ratings for the funniness of each caption. Specifically,
+there’s a 95% confidence that the mean score of the caption lies within
+<code class="docutils literal notranslate"><span class="pre">score</span> <span class="pre">±</span> <span class="pre">prec</span></code>.</p>
+<p>This function will cache all summaries on disk, and use the summary online
+if the cache does not exist.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="caption_contest_data.responses">
+<code class="sig-prename descclassname">caption_contest_data.</code><code class="sig-name descname">responses</code><span class="sig-paren">(</span><em class="sig-param">contest: Union[int, str]</em><span class="sig-paren">)</span> &#x2192; pandas.core.frame.DataFrame<a class="headerlink" href="#caption_contest_data.responses" title="Permalink to this definition">¶</a></dt>
+<dd><p>Get the individual responses from a particular contest.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><dl class="simple">
+<dt><strong>contest</strong><span class="classifier">int, str</span></dt><dd><p>Which contest to download. A list of possible filenames is at
+<a class="reference external" href="https://github.com/nextml/caption-contest-data/tree/master/contests/responses">https://github.com/nextml/caption-contest-data/tree/master/contests/responses</a>.
+These can be the integer in the filename or the string. If not unique, it has to be the string.</p>
+</dd>
+</dl>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><dl class="simple">
+<dt><strong>responses</strong><span class="classifier">pd.DataFrame</span></dt><dd><p>These responses are individual button clicks by humans. Some columns
+in the dataframe are
+<code class="docutils literal notranslate"><span class="pre">network_delay</span></code>, <code class="docutils literal notranslate"><span class="pre">response_time</span></code>, <code class="docutils literal notranslate"><span class="pre">participant_uid</span></code>,
+<code class="docutils literal notranslate"><span class="pre">timestamp_query_generated</span></code>, <code class="docutils literal notranslate"><span class="pre">target</span></code>, <code class="docutils literal notranslate"><span class="pre">target_id</span></code>, and
+<code class="docutils literal notranslate"><span class="pre">target_reward</span></code>.</p>
+</dd>
+</dl>
+</dd>
+</dl>
+<p class="rubric">Notes</p>
+<p>Using this function requires that all individual responses files are
+downloaded through <code class="xref py py-func docutils literal notranslate"><span class="pre">get_responses()</span></code>.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="caption_contest_data.metadata">
+<code class="sig-prename descclassname">caption_contest_data.</code><code class="sig-name descname">metadata</code><span class="sig-paren">(</span><em class="sig-param">contest: Union[int, str]</em><span class="sig-paren">)</span> &#x2192; Dict[str, Union[str, int]]<a class="headerlink" href="#caption_contest_data.metadata" title="Permalink to this definition">¶</a></dt>
+<dd><dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><dl class="simple">
+<dt><strong>contest</strong><span class="classifier">int, str</span></dt><dd><p>Argument to <a class="reference internal" href="#caption_contest_data.summary" title="caption_contest_data.summary"><code class="xref py py-func docutils literal notranslate"><span class="pre">summary()</span></code></a>. See <a class="reference internal" href="#caption_contest_data.summary_ids" title="caption_contest_data.summary_ids"><code class="xref py py-func docutils literal notranslate"><span class="pre">summary_ids()</span></code></a>.</p>
+</dd>
+</dl>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><dl class="simple">
+<dt><strong>info</strong><span class="classifier">dict</span></dt><dd><p>Dictionary with keys</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">comic</span></code>: A URL to the comi</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">num_responses</span></code>, <code class="docutils literal notranslate"><span class="pre">num_captions</span></code>: an integer with the number of
+responses and captions respectively</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">funniest_caption</span></code>: the funniest caption, as rated by users.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">example_query</span></code>: an example query. For certain contest
+(519, 550, 587 and 588) this key is not present.</p></li>
+</ul>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="function">
+<dt id="caption_contest_data.summary_ids">
+<code class="sig-prename descclassname">caption_contest_data.</code><code class="sig-name descname">summary_ids</code><span class="sig-paren">(</span><span class="sig-paren">)</span> &#x2192; Set[Union[str, int]]<a class="headerlink" href="#caption_contest_data.summary_ids" title="Permalink to this definition">¶</a></dt>
+<dd><p>Get the contest IDs.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Returns</dt>
+<dd class="field-odd"><dl class="simple">
+<dt><strong>IDs</strong><span class="classifier">Set[Union[str, int]]</span></dt><dd><p>A list of IDs are accepted by <a class="reference internal" href="#caption_contest_data.summary" title="caption_contest_data.summary"><code class="xref py py-func docutils literal notranslate"><span class="pre">summary()</span></code></a>.</p>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="function">
+<dt id="caption_contest_data.refresh">
+<code class="sig-prename descclassname">caption_contest_data.</code><code class="sig-name descname">refresh</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#caption_contest_data.refresh" title="Permalink to this definition">¶</a></dt>
+<dd><p>Refresh the list of available summary filenames.
+This function is useful if new contests summaries are desired.</p>
+</dd></dl>
+
+</div>
+<div class="section" id="html-api">
+<h2>HTML API<a class="headerlink" href="#html-api" title="Permalink to this headline">¶</a></h2>
+<p>The plain text of each CSV is available online. For example, one CSV is at
+<a class="reference external" href="https://github.com/nextml/caption-contest-data/raw/master/contests/summaries/510_summary_LilUCB.csv">https://github.com/nextml/caption-contest-data/raw/master/contests/summaries/510_summary_LilUCB.csv</a>. A complete list of names to use instead of <code class="docutils literal notranslate"><span class="pre">510_summary_LilUCB.csv</span></code> can be found at <a class="reference external" href="https://github.com/nextml/caption-contest-data/tree/master/contests/summaries">https://github.com/nextml/caption-contest-data/tree/master/contests/summaries</a>.</p>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="examples.html" class="btn btn-neutral float-right" title="Examples" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="contest-basics.html" class="btn btn-neutral float-left" title="Crowdsourcing interface" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2019, NEXT dev team
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>
