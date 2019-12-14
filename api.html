@@ -89,7 +89,7 @@
 <li class="toctree-l1"><a class="reference internal" href="introduction.html">Getting started</a></li>
 <li class="toctree-l1"><a class="reference internal" href="contest-basics.html">Crowdsourcing interface</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Data APIs</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#module-caption_contest_data">Python API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#python-api">Python API</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#html-api">HTML API</a></li>
 </ul>
 </li>
@@ -184,114 +184,8 @@
 </style>
 <div class="section" id="data-apis">
 <h1>Data APIs<a class="headerlink" href="#data-apis" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="module-caption_contest_data">
-<span id="python-api"></span><h2>Python API<a class="headerlink" href="#module-caption_contest_data" title="Permalink to this headline">¶</a></h2>
-<dl class="function">
-<dt id="caption_contest_data.summary">
-<code class="sig-prename descclassname">caption_contest_data.</code><code class="sig-name descname">summary</code><span class="sig-paren">(</span><em class="sig-param">contest: Union[str, int]</em><span class="sig-paren">)</span> &#x2192; pandas.core.frame.DataFrame<a class="headerlink" href="#caption_contest_data.summary" title="Permalink to this definition">¶</a></dt>
-<dd><p>Get the contest summary from a particular contest.</p>
-<dl class="field-list simple">
-<dt class="field-odd">Parameters</dt>
-<dd class="field-odd"><dl class="simple">
-<dt><strong>contest</strong><span class="classifier">str, int</span></dt><dd><p>Which contest data to retrieve. This can be an element of
-<a class="reference internal" href="#caption_contest_data.summary_ids" title="caption_contest_data.summary_ids"><code class="xref py py-func docutils literal notranslate"><span class="pre">summary_ids()</span></code></a>.</p>
-</dd>
-</dl>
-</dd>
-<dt class="field-even">Returns</dt>
-<dd class="field-even"><dl class="simple">
-<dt><strong>summary</strong><span class="classifier">pd.DataFrame</span></dt><dd><p>A DataFrame with the results of the the contest. This dataframe has columns
-<code class="docutils literal notranslate"><span class="pre">target_id</span></code>, <code class="docutils literal notranslate"><span class="pre">rank</span></code>, <code class="docutils literal notranslate"><span class="pre">funny</span></code>, <code class="docutils literal notranslate"><span class="pre">somewhat_funny</span></code>, <code class="docutils literal notranslate"><span class="pre">unfunny</span></code>,
-<code class="docutils literal notranslate"><span class="pre">count</span></code>, <code class="docutils literal notranslate"><span class="pre">score</span></code>, <code class="docutils literal notranslate"><span class="pre">precision</span></code>, <code class="docutils literal notranslate"><span class="pre">contest</span></code>, and <code class="docutils literal notranslate"><span class="pre">caption</span></code>.</p>
-</dd>
-</dl>
-</dd>
-</dl>
-<p class="rubric">Notes</p>
-<p>This summary has ratings for the funniness of each caption. Specifically,
-there’s a 95% confidence that the mean score of the caption lies within
-<code class="docutils literal notranslate"><span class="pre">score</span> <span class="pre">±</span> <span class="pre">prec</span></code>.</p>
-<p>This function will cache all summaries on disk, and use the summary online
-if the cache does not exist.</p>
-</dd></dl>
-
-<dl class="function">
-<dt id="caption_contest_data.responses">
-<code class="sig-prename descclassname">caption_contest_data.</code><code class="sig-name descname">responses</code><span class="sig-paren">(</span><em class="sig-param">contest: Union[int, str]</em><span class="sig-paren">)</span> &#x2192; pandas.core.frame.DataFrame<a class="headerlink" href="#caption_contest_data.responses" title="Permalink to this definition">¶</a></dt>
-<dd><p>Get the individual responses from a particular contest.</p>
-<dl class="field-list simple">
-<dt class="field-odd">Parameters</dt>
-<dd class="field-odd"><dl class="simple">
-<dt><strong>contest</strong><span class="classifier">int, str</span></dt><dd><p>Which contest to download. A list of possible filenames is at
-<a class="reference external" href="https://github.com/nextml/caption-contest-data/tree/master/contests/responses">https://github.com/nextml/caption-contest-data/tree/master/contests/responses</a>.
-These can be the integer in the filename or the string. If not unique, it has to be the string.</p>
-</dd>
-</dl>
-</dd>
-<dt class="field-even">Returns</dt>
-<dd class="field-even"><dl class="simple">
-<dt><strong>responses</strong><span class="classifier">pd.DataFrame</span></dt><dd><p>These responses are individual button clicks by humans. Some columns
-in the dataframe are
-<code class="docutils literal notranslate"><span class="pre">network_delay</span></code>, <code class="docutils literal notranslate"><span class="pre">response_time</span></code>, <code class="docutils literal notranslate"><span class="pre">participant_uid</span></code>,
-<code class="docutils literal notranslate"><span class="pre">timestamp_query_generated</span></code>, <code class="docutils literal notranslate"><span class="pre">target</span></code>, <code class="docutils literal notranslate"><span class="pre">target_id</span></code>, and
-<code class="docutils literal notranslate"><span class="pre">target_reward</span></code>.</p>
-</dd>
-</dl>
-</dd>
-</dl>
-<p class="rubric">Notes</p>
-<p>Using this function requires that all individual responses files are
-downloaded through <code class="xref py py-func docutils literal notranslate"><span class="pre">get_responses()</span></code>.</p>
-</dd></dl>
-
-<dl class="function">
-<dt id="caption_contest_data.metadata">
-<code class="sig-prename descclassname">caption_contest_data.</code><code class="sig-name descname">metadata</code><span class="sig-paren">(</span><em class="sig-param">contest: Union[int, str]</em><span class="sig-paren">)</span> &#x2192; Dict[str, Union[str, int]]<a class="headerlink" href="#caption_contest_data.metadata" title="Permalink to this definition">¶</a></dt>
-<dd><dl class="field-list simple">
-<dt class="field-odd">Parameters</dt>
-<dd class="field-odd"><dl class="simple">
-<dt><strong>contest</strong><span class="classifier">int, str</span></dt><dd><p>Argument to <a class="reference internal" href="#caption_contest_data.summary" title="caption_contest_data.summary"><code class="xref py py-func docutils literal notranslate"><span class="pre">summary()</span></code></a>. See <a class="reference internal" href="#caption_contest_data.summary_ids" title="caption_contest_data.summary_ids"><code class="xref py py-func docutils literal notranslate"><span class="pre">summary_ids()</span></code></a>.</p>
-</dd>
-</dl>
-</dd>
-<dt class="field-even">Returns</dt>
-<dd class="field-even"><dl class="simple">
-<dt><strong>info</strong><span class="classifier">dict</span></dt><dd><p>Dictionary with keys</p>
-<ul class="simple">
-<li><p><code class="docutils literal notranslate"><span class="pre">comic</span></code>: A URL to the comi</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">num_responses</span></code>, <code class="docutils literal notranslate"><span class="pre">num_captions</span></code>: an integer with the number of
-responses and captions respectively</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">funniest_caption</span></code>: the funniest caption, as rated by users.</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">example_query</span></code>: an example query. For certain contest
-(519, 550, 587 and 588) this key is not present.</p></li>
-</ul>
-</dd>
-</dl>
-</dd>
-</dl>
-</dd></dl>
-
-<dl class="function">
-<dt id="caption_contest_data.summary_ids">
-<code class="sig-prename descclassname">caption_contest_data.</code><code class="sig-name descname">summary_ids</code><span class="sig-paren">(</span><span class="sig-paren">)</span> &#x2192; Set[Union[str, int]]<a class="headerlink" href="#caption_contest_data.summary_ids" title="Permalink to this definition">¶</a></dt>
-<dd><p>Get the contest IDs.</p>
-<dl class="field-list simple">
-<dt class="field-odd">Returns</dt>
-<dd class="field-odd"><dl class="simple">
-<dt><strong>IDs</strong><span class="classifier">Set[Union[str, int]]</span></dt><dd><p>A list of IDs are accepted by <a class="reference internal" href="#caption_contest_data.summary" title="caption_contest_data.summary"><code class="xref py py-func docutils literal notranslate"><span class="pre">summary()</span></code></a>.</p>
-</dd>
-</dl>
-</dd>
-</dl>
-</dd></dl>
-
-<dl class="function">
-<dt id="caption_contest_data.refresh">
-<code class="sig-prename descclassname">caption_contest_data.</code><code class="sig-name descname">refresh</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#caption_contest_data.refresh" title="Permalink to this definition">¶</a></dt>
-<dd><p>Refresh the list of available summary filenames.
-This function is useful if new contests summaries are desired.</p>
-</dd></dl>
-
+<div class="section" id="python-api">
+<h2>Python API<a class="headerlink" href="#python-api" title="Permalink to this headline">¶</a></h2>
 </div>
 <div class="section" id="html-api">
 <h2>HTML API<a class="headerlink" href="#html-api" title="Permalink to this headline">¶</a></h2>

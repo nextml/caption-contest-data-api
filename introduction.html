@@ -87,7 +87,10 @@
               <p class="caption"><span class="caption-text">Contents:</span></p>
 <ul class="current">
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Getting started</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#installation">Installation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#installation">Installation</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#dependencies">Dependencies</a></li>
+</ul>
+</li>
 <li class="toctree-l2"><a class="reference internal" href="#brief-demo">Brief demo</a></li>
 </ul>
 </li>
@@ -186,21 +189,28 @@
 <h1>Getting started<a class="headerlink" href="#getting-started" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="installation">
 <h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
-<p>This package will be on PyPI.</p>
-<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>pip install caption-contest-data-api
+<p>This package is on PyPI:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>pip install caption-contest-data
 </pre></div>
 </div>
-<p>This will download the scripts only, <strong>not any data.</strong> The, the API can be
-imported into Python:</p>
-<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">caption_contest_data</span> <span class="kn">as</span> <span class="nn">ccd</span>
-<span class="n">df</span> <span class="o">=</span> <span class="n">ccd</span><span class="o">.</span><span class="n">summary</span><span class="p">(</span><span class="mi">630</span><span class="p">)</span>
-</pre></div>
+<p>Running this command will <cite>not</cite> download any data, only the scripts required to
+get the data. Then, the API can be imported into Python as shown in the demo
+below.</p>
+<div class="section" id="dependencies">
+<h3>Dependencies<a class="headerlink" href="#dependencies" title="Permalink to this headline">¶</a></h3>
+<p>All dependencies are managed with pip. This includes the packages <code class="docutils literal notranslate"><span class="pre">scipy</span></code>,
+<code class="docutils literal notranslate"><span class="pre">pandas</span></code> and <code class="docutils literal notranslate"><span class="pre">requests</span></code>.</p>
+<p>An optional dependency required to get the responses (i.e. through
+<span class="xref std std-ref">responses</span>) is</p>
+<ul class="simple">
+<li><p>Git-LFS (optional): <a class="reference external" href="https://git-lfs.github.com/">https://git-lfs.github.com/</a></p></li>
+</ul>
 </div>
 </div>
 <div class="section" id="brief-demo">
 <h2>Brief demo<a class="headerlink" href="#brief-demo" title="Permalink to this headline">¶</a></h2>
 <p>Let’s read in the data from contest 553:</p>
-<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="kn">import</span> <span class="nn">caption_contest_data</span> <span class="kn">as</span> <span class="nn">ccd</span>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="kn">import</span> <span class="nn">caption_contest_data</span> <span class="k">as</span> <span class="nn">ccd</span>
 <span class="gp">&gt;&gt;&gt; </span><span class="n">df</span> <span class="o">=</span> <span class="n">ccd</span><span class="o">.</span><span class="n">summary</span><span class="p">(</span><span class="mi">553</span><span class="p">)</span>
 <span class="gp">&gt;&gt;&gt; </span><span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
 <span class="go">   rank  funny  ...  contest                                            caption</span>

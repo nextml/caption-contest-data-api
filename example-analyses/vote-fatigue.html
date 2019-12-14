@@ -411,9 +411,9 @@ div.rendered_html tbody tr:hover {
 </div>
 <div class="input_area highlight-ipython3 notranslate"><div class="highlight"><pre>
 <span></span><span class="o">%</span><span class="k">matplotlib</span> inline
-<span class="kn">import</span> <span class="nn">pandas</span> <span class="kn">as</span> <span class="nn">pd</span>
-<span class="kn">import</span> <span class="nn">numpy</span> <span class="kn">as</span> <span class="nn">np</span>
-<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="kn">as</span> <span class="nn">plt</span>
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">use</span><span class="p">(</span><span class="s1">&#39;seaborn&#39;</span><span class="p">)</span>
 </pre></div>
 </div>
@@ -423,7 +423,7 @@ div.rendered_html tbody tr:hover {
 </pre></div>
 </div>
 <div class="input_area highlight-ipython3 notranslate"><div class="highlight"><pre>
-<span></span><span class="kn">import</span> <span class="nn">caption_contest_data</span> <span class="kn">as</span> <span class="nn">ccd</span>
+<span></span><span class="kn">import</span> <span class="nn">caption_contest_data</span> <span class="k">as</span> <span class="nn">ccd</span>
 </pre></div>
 </div>
 </div>
@@ -440,7 +440,7 @@ div.rendered_html tbody tr:hover {
 
 <span class="n">responses</span> <span class="o">=</span> <span class="n">ccd</span><span class="o">.</span><span class="n">responses</span><span class="p">(</span><span class="n">contest</span><span class="p">)</span>
 
-<span class="k">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">responses</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">responses</span><span class="p">))</span>
 <span class="n">responses</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
 </pre></div>
 </div>
@@ -573,7 +573,7 @@ div.rendered_html tbody tr:hover {
 </pre></div>
 </div>
 <div class="input_area highlight-ipython3 notranslate"><div class="highlight"><pre>
-<span></span><span class="n">last_id</span> <span class="o">=</span> <span class="bp">None</span>
+<span></span><span class="n">last_id</span> <span class="o">=</span> <span class="kc">None</span>
 <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span>
 <span class="n">num_responses</span> <span class="o">=</span> <span class="p">[]</span>
 <span class="n">captions_seen</span> <span class="o">=</span> <span class="p">[]</span>
@@ -816,7 +816,7 @@ div.rendered_html tbody tr:hover {
 <span></span><span class="n">d</span> <span class="o">=</span> <span class="p">{</span><span class="n">label</span><span class="p">:</span> <span class="nb">dict</span><span class="p">(</span><span class="n">probs</span><span class="p">[</span><span class="n">label</span><span class="p">])</span> <span class="k">for</span> <span class="n">label</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">&#39;RandomSampling&#39;</span><span class="p">]}</span>
 <span class="k">for</span> <span class="n">label</span> <span class="ow">in</span> <span class="n">d</span><span class="o">.</span><span class="n">keys</span><span class="p">():</span>
     <span class="k">for</span> <span class="n">n</span> <span class="ow">in</span> <span class="n">d</span><span class="p">[</span><span class="n">label</span><span class="p">]</span><span class="o">.</span><span class="n">keys</span><span class="p">():</span>
-        <span class="k">if</span> <span class="n">d</span><span class="p">[</span><span class="n">label</span><span class="p">][</span><span class="n">n</span><span class="p">]</span> <span class="ow">is</span> <span class="bp">None</span><span class="p">:</span>
+        <span class="k">if</span> <span class="n">d</span><span class="p">[</span><span class="n">label</span><span class="p">][</span><span class="n">n</span><span class="p">]</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
             <span class="k">continue</span>
         <span class="k">for</span> <span class="n">rating</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">&#39;unfunny&#39;</span><span class="p">,</span> <span class="s1">&#39;somewhat funny&#39;</span><span class="p">,</span> <span class="s1">&#39;funny&#39;</span><span class="p">]:</span>
             <span class="n">d</span><span class="p">[</span><span class="n">label</span><span class="p">][</span><span class="n">n</span><span class="p">][</span><span class="n">rating</span><span class="p">]</span> <span class="o">=</span> <span class="n">d</span><span class="p">[</span><span class="n">label</span><span class="p">][</span><span class="n">n</span><span class="p">][</span><span class="n">rating</span><span class="p">]</span> <span class="o">/</span> <span class="n">d</span><span class="p">[</span><span class="n">label</span><span class="p">][</span><span class="n">n</span><span class="p">][</span><span class="s1">&#39;n&#39;</span><span class="p">]</span>
@@ -968,13 +968,13 @@ div.rendered_html tbody tr:hover {
     <span class="n">ax</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplot</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
     <span class="n">df</span><span class="p">[</span><span class="n">alg</span><span class="p">][[</span><span class="s1">&#39;unfunny&#39;</span><span class="p">,</span> <span class="s1">&#39;somewhat funny&#39;</span><span class="p">,</span> <span class="s1">&#39;funny&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">100</span><span class="p">)</span>
-    <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">&#39;{} ratings</span><span class="se">\n</span><span class="s1">for contest {}&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">alg</span><span class="p">,</span> <span class="n">contest</span><span class="p">))</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">&#39;</span><span class="si">{}</span><span class="s1"> ratings</span><span class="se">\n</span><span class="s1">for contest </span><span class="si">{}</span><span class="s1">&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">alg</span><span class="p">,</span> <span class="n">contest</span><span class="p">))</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">&#39;Probability of rating&#39;</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">&#39;Number of captions seen&#39;</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">grid</span><span class="p">(</span><span class="n">linestyle</span><span class="o">=</span><span class="s2">&quot;--&quot;</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.6</span><span class="p">)</span>
 
     <span class="n">ax</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplot</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
-    <span class="n">df</span><span class="p">[</span><span class="n">alg</span><span class="p">][</span><span class="s1">&#39;n&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">logy</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
+    <span class="n">df</span><span class="p">[</span><span class="n">alg</span><span class="p">][</span><span class="s1">&#39;n&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">logy</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">&#39;Number of users&#39;</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">&#39;Number of captions seen, $n$&#39;</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">&#39;Number of users that have</span><span class="se">\n</span><span class="s1">seen $n$ captions&#39;</span><span class="p">)</span>
