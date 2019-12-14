@@ -3,19 +3,27 @@ Getting started
 Installation
 ------------
 
-This package will be on PyPI.
+This package is on PyPI:
 
 .. code-block:: bash
 
-   pip install caption-contest-data-api
+   pip install caption-contest-data
 
-This will download the scripts only, **not any data.** The, the API can be
-imported into Python:
+Running this command will `not` download any data, only the scripts required to
+get the data. Then, the API can be imported into Python as shown in the demo
+below.
 
-.. code-block:: python
+Dependencies
+^^^^^^^^^^^^
 
-   import caption_contest_data as ccd
-   df = ccd.summary(630)
+All dependencies are managed with pip. This includes the packages ``scipy``,
+``pandas`` and ``requests``.
+
+An optional dependency required to get the responses (i.e. through
+``responses``) is
+
+* Git-LFS (optional). Install directions: https://git-lfs.github.com/
+
 
 Brief demo
 ----------
