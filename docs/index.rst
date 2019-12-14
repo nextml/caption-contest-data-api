@@ -6,12 +6,16 @@
 Welcome to caption-contest-data's documentation!
 ================================================
 
-This documentation describes the following:
+Every week, The New Yorker runs a Cartoon Caption Contest. That is, the draw a
+cartoon and ask their readers for funny captions. They find the funniest
+caption with our software, then publish the cartoon and funniest caption in
+next week's edition.
 
-1. The New Yorker Cartoon Caption Contest
-2. The Python client used to get The New Yorker Caption Contest data
+We have been running the Caption Contest since 2016, and have recorded all the
+data, including over 100 million human responses to over 10,000 captions in
+over 100 contests.
 
-
+This software package provides a Python API to get the recorded data.
 
 .. toctree::
    :maxdepth: 2
