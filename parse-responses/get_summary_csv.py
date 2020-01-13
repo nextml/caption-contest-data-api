@@ -42,9 +42,9 @@ def get_summary(exp_uid, contest):
         est_count = cap["funny"] + cap["unfunny"] + cap["somewhat_funny"]
         if cap["count"] > 1e3:
             rel_error = abs(est_count - cap["count"]) / cap["count"]
-            assert rel_error < 0.01
+            assert rel_error < 0.012
         else:
-            assert abs(est_count - cap["count"]) <= 7
+            assert abs(est_count - cap["count"]) <= 10
         assert set(cap.keys()) == {
             "target_id",
             "score",
