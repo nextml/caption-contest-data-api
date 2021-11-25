@@ -100,7 +100,11 @@ def score_and_prec(unfunny, somewhat_funny, funny, count):
     score = reward / n
     reward_squared = funny * 9 + somewhat_funny * 4 + unfunny
 
-    # computing the precision/standard deviation
+    # computing the precision
+    # Random variable R for reward
+    # return^2 = (E[R^2] - E[R]^2) / (n^2 * (n - 1))
+    #          = var(R) / (n^2 * (n - 1))
+    # return = std(R) / (n * sqrt(n - 1))
     top = np.maximum(1, reward_squared - reward ** 2 / n)
     bottom = (n - 1) * n
     prec = np.sqrt(top / bottom)

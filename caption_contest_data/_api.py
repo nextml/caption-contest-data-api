@@ -123,10 +123,11 @@ def summary(contest: Union[str, int]) -> pd.DataFrame:
     """
     fnames = _get_summary_fnames()
 
-    keys = [k for k in fnames.keys() if str(contest) in k]
+    keys = [k for k in fnames.keys()]
     if not len(keys):
         msg = "contest={} is not valid. Valid choices that contain contest are {}"
         raise ValueError(msg.format(contest, keys))
+    keys = [k for k in fnames.keys() if str(contest) in k]
     if len(keys) > 1:
         msg = (
             "Correct values for `contest` are {}, got {}. "
@@ -155,7 +156,7 @@ def _format_responses(df: pd.DataFrame, **kwargs) -> pd.DataFrame:
     return df
 
 
-def responses(contest: Union[int, str]) -> pd.DataFrame:
+def responses(contest: Union[int, str], selector=None) -> pd.DataFrame:
     """
     Get the individual responses from a particular contest.
 
@@ -165,6 +166,9 @@ def responses(contest: Union[int, str]) -> pd.DataFrame:
         Which contest to download. A list of possible filenames is at
         https://github.com/nextml/caption-contest-data/tree/master/contests/responses.
         These can be the integer in the filename or the string. If not unique, it has to be the string.
+    selector : str, optional
+        If multiple contests are returned, set this to be a substring of the file path
+        to select that contest.
 
     Returns
     -------
@@ -188,14 +192,19 @@ def responses(contest: Union[int, str]) -> pd.DataFrame:
         )
     fnames = list((_cache / "responses").glob("*.csv.zip"))
     keys = [k for k in fnames if str(contest) in str(k)]
+    if selector:
+        keys = [k for k in keys if selector in str(k)]
     if not keys:
         msg = (
-            "contest={} is not valid. There are no responses with the given "
-            "contest. Available filenames are {}"
+            "contest={} is not valid. There are no responses with "
+            " the given contest. Available filenames are {}"
         )
-        raise ValueError(msg.format(contest), fnames)
+        raise ValueError(msg.format(contest, fnames))
     if len(keys) > 1:
-        msg = "contest={} yields multiple contests ({})."
+        msg = (
+            "contest={} yields multiple contests ({}).\n\n"
+            "To resolve this, set `selector` to be a substring of the file you want."
+        )
         raise ValueError(msg.format(contest, keys))
 
     with zipfile.ZipFile(str(keys[0])) as myzip:
