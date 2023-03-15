@@ -164,7 +164,7 @@ def responses(contest: Union[int, str], selector=None) -> pd.DataFrame:
     ----------
     contest : int, str
         Which contest to download. A list of possible filenames is at
-        https://github.com/nextml/caption-contest-data/tree/master/contests/responses.
+        https://github.com/nextml/caption-contest-data-api/tree/master/contests/responses.
         These can be the integer in the filename or the string. If not unique, it has to be the string.
     selector : str, optional
         If multiple contests are returned, set this to be a substring of the file path
@@ -238,7 +238,7 @@ def metadata(contest: Union[int, str]) -> Dict[str, Union[str, int]]:
     """
     c = contest if isinstance(contest, int) else int(contest.split("_")[0])
     df = summary(contest)
-    base = "https://github.com/nextml/caption-contest-data/raw/master/contests/info"
+    base = "https://github.com/nextml/caption-contest-data-api/raw/master/contests/info"
     top = df["rank"].idxmin()
 
     d = {
